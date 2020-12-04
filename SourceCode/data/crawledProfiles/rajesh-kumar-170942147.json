@@ -1,0 +1,204 @@
+{
+  "profileAlternative": {
+    "name": "Rajesh Kumar",
+    "headline": "Senior Python Developer at Valueleaf Services",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQGYRoKT-Z2aYg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=5_ttxYL7uEU2ciTX_MamHD4eRnMzrP1pY0ZqS8VKGQY",
+    "location": "Bengaluru, Karnataka, India",
+    "connections": "286",
+    "summary": "Experienced Software Engineer with a demonstrated history of working in the information technology and services industry and also Experienced in Django Rest API, Scripting and web application in Python. Skilled in Object-Oriented Programming (OOP), Python, Django, Flask framework, Scripting and web application in Python, HTML, CSS, JavaScript, JQuery, Perl Scripting and Python Scripting."
+  },
+  "aboutAlternative": {
+    "text": "Experienced Software Engineer with a demonstrated history of working in the information technology and services industry and also Experienced in Django Rest API, Scripting and web application in Python. Skilled in Object-Oriented Programming (OOP), Python, Django, Flask framework, Scripting and web application in Python, HTML, CSS, JavaScript, JQuery, Perl Scripting and Python Scripting."
+  },
+  "positions": [
+    {
+      "title": "Senior Python Developer",
+      "companyName": "Valueleaf Services (India) Pvt. Ltd.",
+      "location": "Bangalore",
+      "description": "I'm part of backend Python developer And Developed Python based API (Restful Web Service) to get the data using Django with MongoDB and MySQL.\n1. Developed the Web Application with Python.\n2. Knowledge on Python Frameworks of Django, Flask.\n3. Knowledge on the AWS Services of Amazon S3, DynamoDB, IAM User, Lambda function, CloudWatch.\n4. Expertise in the Chatbot Development - Python with API, Lex(AWS), apiai.\n5. Knowledge on Heroku Deployment.\n6. Developed Python based API (Restful Web Service) to get the data using Flask, SQLAlchemy and MySQL.\n7. Proficient understanding of code versioning tools (GitHub, Bit Bucket).\n…\nsee more",
+      "date1": "Oct 2018 – Present",
+      "date2": "1 yr 2 mos"
+    },
+    {
+      "title": "Python Developer",
+      "companyName": "Naavinya CAD Soft PVT LTD",
+      "location": "Bangalore",
+      "description": "I'm part of backend Perl and Python Scripting And Developed automation scripting using MySQL.\n1. Developed the Web Application with Python.\n2. Knowledge of Python Frameworks of Flask.\n3. Knowledge of Heroku Deployment.\n4. Developed Python-based API (Restful Web Service) to get the data using Flask, SQLAlchemy and MySQL.\n5. Redesigned the automation flow and optimized the code for performance and organized the code in logic\n6. Proficient understanding of code versioning tools (GitHub, Bit Bucket).\n…\nsee more",
+      "date1": "Aug 2014 – Sep 2018",
+      "date2": "4 yrs 2 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "SNS College of Engineering",
+      "degree": "B.E-ECE",
+      "fieldofstudy": "Electronics and Communications Engineering",
+      "date1": "2010",
+      "date2": "2014"
+    },
+    {
+      "title": "Sri venkateshwara vidhyala higher secondary school",
+      "degree": "student",
+      "fieldofstudy": "student",
+      "date1": "2008",
+      "date2": "2010"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Python",
+      "count": "2"
+    },
+    {
+      "title": "Django"
+    },
+    {
+      "title": "MongoDB"
+    },
+    {
+      "title": "Data Structures"
+    },
+    {
+      "title": "Algorithms"
+    },
+    {
+      "title": "Flask"
+    },
+    {
+      "title": "JavaScript",
+      "count": "1"
+    },
+    {
+      "title": "jQuery",
+      "count": "1"
+    },
+    {
+      "title": "HTML",
+      "count": "1"
+    },
+    {
+      "title": "MySQL"
+    },
+    {
+      "title": "Pandas (Software)"
+    },
+    {
+      "title": "Python (Programming Language)"
+    },
+    {
+      "title": "Git"
+    },
+    {
+      "title": "Amazon Web Services (AWS)"
+    },
+    {
+      "title": "docker"
+    },
+    {
+      "title": "Representational State Transfer (REST)"
+    },
+    {
+      "title": "REST API"
+    },
+    {
+      "title": "Jupyter"
+    },
+    {
+      "title": "Amazon S3"
+    },
+    {
+      "title": "SQL"
+    },
+    {
+      "title": "Cascading Style Sheets (CSS)"
+    },
+    {
+      "title": "HTML5"
+    },
+    {
+      "title": "AWS Lambda"
+    },
+    {
+      "title": "NoSQL"
+    },
+    {
+      "title": "Communication"
+    },
+    {
+      "title": "Teamwork"
+    },
+    {
+      "title": "Problem Solving"
+    },
+    {
+      "title": "NumPy"
+    },
+    {
+      "title": "Amazon EC2"
+    },
+    {
+      "title": "Bitbucket"
+    },
+    {
+      "title": "Back-End Web Development"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/venkateshc414/",
+      "text": "Python Developer at Tata Consultancy Services"
+    },
+    {
+      "user": "https://www.linkedin.com/in/charmila-g-233807a2/",
+      "text": "Python Developer at Factana Computing"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sravanthi-tadakamadla-8434ba169/",
+      "text": "PYTHON DEVELOPER"
+    },
+    {
+      "user": "https://www.linkedin.com/in/harsha-jha-28a11b94/",
+      "text": "Full Stack Developer(Python,Django)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/raj-sharma-0a05a62a/",
+      "text": "Python Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shibi-thambi-14a5417b/",
+      "text": "Python / Odoo developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/venkatesh-k-python/",
+      "text": "Python Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/bhavna-singh-parihar-b80851152/",
+      "text": "Python/Django Developer at BITSTAT TECHNOLOGIES PRIVATE LIMITED"
+    },
+    {
+      "user": "https://www.linkedin.com/in/prakash-vemula-0431a4100/",
+      "text": "Python Developer at Cognizant"
+    },
+    {
+      "user": "https://www.linkedin.com/in/rahul-chhajed-1a0b6785/",
+      "text": "Senior Python Developer"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Rajesh Kumar",
+    "headline": "Senior Python Developer at Valueleaf Services",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQGYRoKT-Z2aYg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=5_ttxYL7uEU2ciTX_MamHD4eRnMzrP1pY0ZqS8VKGQY",
+    "location": "Bengaluru, Karnataka, India",
+    "connections": "286",
+    "summary": "Experienced Software Engineer with a demonstrated history of working in the information technology and services industry and also Experienced in Django Rest API, Scripting and web application in Python. Skilled in Object-Oriented Programming (OOP), Python, Django, Flask framework, Scripting and web application in Python, HTML, CSS, JavaScript, JQuery, Perl Scripting and Python Scripting."
+  }
+}

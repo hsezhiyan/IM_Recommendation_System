@@ -1,0 +1,302 @@
+{
+  "profileAlternative": {
+    "name": "Rob Walters",
+    "headline": "Director of IoT at MongoDB",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQGbd9jSlDo7dA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=sgNZ3isP7eF_1aNB2tLx7hU1Ti-_Kj3bTCdpJX4i16w",
+    "location": "Rutland, Massachusetts",
+    "connections": "500+"
+  },
+  "aboutAlternative": {},
+  "positions": [
+    {
+      "title": "MongoDB",
+      "location": "Greater Boston Area",
+      "description": "Continually evaluate MongoDB capabilities with needs of IoT use cases, make recommendations to engineering teams and provide thought leadership to the executive team. Lead the architecture and strategy for MongoDB’s IoT reference architecture. Evangelize and be the customer advocate within MongoDB for the IoT use case.",
+      "date1": "May 2018 – Present",
+      "date2": "1 yr 7 mos",
+      "roles": [
+        {
+          "title": "Director of IoT",
+          "date1": "May 2018 – Present",
+          "date2": "1 yr 7 mos",
+          "location": "Greater Boston Area"
+        },
+        {
+          "title": "Solution Architect",
+          "date1": "Jul 2016 – May 2018",
+          "date2": "1 yr 11 mos",
+          "location": "Greater Boston Area"
+        }
+      ]
+    },
+    {
+      "title": "Title\nDirector of IoT",
+      "location": "Greater Boston Area",
+      "description": "Continually evaluate MongoDB capabilities with needs of IoT use cases, make recommendations to engineering teams and provide thought leadership to the executive team. Lead the architecture and strategy for MongoDB’s IoT reference architecture. Evangelize and be the customer advocate within MongoDB for the IoT use case.",
+      "date1": "May 2018 – Present",
+      "date2": "1 yr 7 mos",
+      "roles": [
+        {
+          "title": "Director of IoT",
+          "date1": "May 2018 – Present",
+          "date2": "1 yr 7 mos",
+          "location": "Greater Boston Area"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSolution Architect",
+      "location": "Greater Boston Area",
+      "description": "Drive demand by enabling customers to realize their potential by leveraging MongoDB database technologies. Eliminate the technical blockers in pre-sales opportunities. Work with account team to solidity account strategy plans.",
+      "date1": "Jul 2016 – May 2018",
+      "date2": "1 yr 11 mos",
+      "roles": [
+        {
+          "title": "Solution Architect",
+          "date1": "Jul 2016 – May 2018",
+          "date2": "1 yr 11 mos",
+          "location": "Greater Boston Area"
+        }
+      ]
+    },
+    {
+      "title": "On-call Firefighter/EMT",
+      "companyName": "Princeton Fire Department",
+      "location": "Princeton, MA",
+      "description": "Work with a team of firefighters and EMTs providing emergency services for the community",
+      "date1": "Mar 2016 – Present",
+      "date2": "3 yrs 9 mos"
+    },
+    {
+      "title": "On-call Firefighter",
+      "companyName": "Rutland Fire Department",
+      "location": "Rutland, MA",
+      "description": "Work with a team of firefighters and EMTs providing emergency services for the community.",
+      "date1": "Jun 2010 – Present",
+      "date2": "9 yrs 6 mos"
+    },
+    {
+      "title": "Microsoft",
+      "description": "Helping customers get the most out of their current datacenter investments and provide guidance on how to best leverage cloud capabilities in their organization. Eliminate the sales blockers in a pre-sales opportunity.",
+      "date1": "Oct 2012 – Jul 2016",
+      "date2": "3 yrs 10 mos",
+      "roles": [
+        {
+          "title": "Cloud Specialist",
+          "date1": "Oct 2012 – Jul 2016",
+          "date2": "3 yrs 10 mos"
+        },
+        {
+          "title": "Technical Specialist",
+          "date1": "May 2007 – Sep 2012",
+          "date2": "5 yrs 5 mos"
+        },
+        {
+          "title": "Program Manager",
+          "date1": "Jan 2002 – May 2007",
+          "date2": "5 yrs 5 mos"
+        },
+        {
+          "title": "Application Developer Consultant",
+          "date1": "Jan 2000 – Dec 2001",
+          "date2": "2 yrs"
+        },
+        {
+          "title": "Software Test Engineer",
+          "date1": "Jan 1999 – Dec 1999",
+          "date2": "12 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nCloud Specialist",
+      "description": "Helping customers get the most out of their current datacenter investments and provide guidance on how to best leverage cloud capabilities in their organization. Eliminate the sales blockers in a pre-sales opportunity.",
+      "date1": "Oct 2012 – Jul 2016",
+      "date2": "3 yrs 10 mos",
+      "roles": [
+        {
+          "title": "Cloud Specialist",
+          "date1": "Oct 2012 – Jul 2016",
+          "date2": "3 yrs 10 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nTechnical Specialist",
+      "description": "Identify key areas of pain and design a solution based on SQL Server that would satisfy the customer's requirements. Eliminate the technical blockers in the pre-sales process.",
+      "date1": "May 2007 – Sep 2012",
+      "date2": "5 yrs 5 mos",
+      "roles": [
+        {
+          "title": "Technical Specialist",
+          "date1": "May 2007 – Sep 2012",
+          "date2": "5 yrs 5 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nProgram Manager",
+      "description": "Drove various features with the SQL Server product including SQL Server Agent, various management dialogs within SQL Server Management Studio and most recently drove features within database security in the SQL Server engine.",
+      "date1": "Jan 2002 – May 2007",
+      "date2": "5 yrs 5 mos",
+      "roles": [
+        {
+          "title": "Program Manager",
+          "date1": "Jan 2002 – May 2007",
+          "date2": "5 yrs 5 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nApplication Developer Consultant",
+      "description": "Consulted with various customers about their architectural designs of various Microsoft products including BizTalk, SQL Server, and .COM development",
+      "date1": "Jan 2000 – Dec 2001",
+      "date2": "2 yrs",
+      "roles": [
+        {
+          "title": "Application Developer Consultant",
+          "date1": "Jan 2000 – Dec 2001",
+          "date2": "2 yrs"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSoftware Test Engineer",
+      "description": "Tested software within the Windows Server division",
+      "date1": "Jan 1999 – Dec 1999",
+      "date2": "12 mos",
+      "roles": [
+        {
+          "title": "Software Test Engineer",
+          "date1": "Jan 1999 – Dec 1999",
+          "date2": "12 mos"
+        }
+      ]
+    },
+    {
+      "title": "Electromagnetic Effects Engineer",
+      "companyName": "Boeing",
+      "description": "Reviewed electromagnetic test plans and test results for various line replaceable units used on various Boeing aircraft.",
+      "date1": "Jan 1997 – Dec 1998",
+      "date2": "2 yrs"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Seattle University",
+      "degree": "MBA",
+      "fieldofstudy": "Business Administration",
+      "date1": "2002",
+      "date2": "2006"
+    },
+    {
+      "title": "Michigan State University",
+      "degree": "BS",
+      "fieldofstudy": "Electrical Engineering",
+      "date1": "1992",
+      "date2": "1996"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Microsoft SQL Server",
+      "count": "42"
+    },
+    {
+      "title": "Cloud Computing",
+      "count": "21"
+    },
+    {
+      "title": ".NET",
+      "count": "20"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "1",
+    "receivedCount": "2",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/stephencflynn/",
+        "text": "I had the pleasure of working on the same team with Rob Walters at Microsoft. We collaborated on many sales opportunities creating unified sales strategies along with our client’s participation. Rob has a unique ability to engage with customers at a deep technical level and then be able to transition to a business level conversation. Rob is the consummate professional who is focused on customer needs and success. I would welcome the opportunity to work with him again in the future.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/richardcrane/",
+        "text": "Rob is a walking talking encyclopedia of SQL Server knowledge. His depth on the product is amazing and he can convey that knowledge to others very well. This was very obvious when a senior director at a large financial institution went out of his way in a meeting to tell me that Rob really helped his entire team. His team was responsible for all of SQL Server across the entire company. That same person went on to talk about how they wanted to expand their use of SQL Server. Now that is impact! Rob is not a one-trick pony either. He knows a ton about security, .NET, mobile development, and many other aspects of the Microsoft Platform. I value any opportunity to work with Rob.\n…\nSee more"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/richardcrane/",
+        "text": "Rich is by far one of the most knowledgeable person I have ever met in my 11 years at Microsoft.  He has a lot of passion around technology and does an outstanding job helping customers architect solutions!"
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "3",
+      "items": [
+        "US Patent 8,069,148 Configuration of Multiple Data Audits",
+        "US Patent 7,912,820 Automatic Task Generator Method and System",
+        "US Patent 7,496,761 Method and System for Batch Task Creation and Execution"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "Beginning SQL Server 2012 Administration",
+        "Database Encryption and Key Management for Microsoft SQL Server 2008",
+        "Pro SQL Server 2005"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/inna-martyrosian-52673217b/",
+      "text": "Software QA Engineer /Open to new opportunities"
+    },
+    {
+      "user": "https://www.linkedin.com/in/dan-principe-40b5a45/",
+      "text": "Telematics & IOT Product Expert at Navico"
+    },
+    {
+      "user": "https://www.linkedin.com/in/terry-hearn-a80519/",
+      "text": "Founder & CEO at IoT Technologies"
+    },
+    {
+      "user": "https://www.linkedin.com/in/martintrgina/",
+      "text": "IoT and Robotics CEO at BellaDati"
+    },
+    {
+      "user": "https://www.linkedin.com/in/rdavidrivera/",
+      "text": "IoT Business Development Director at Sprint"
+    },
+    {
+      "user": "https://www.linkedin.com/in/derrickpanderson/",
+      "text": "Embedded Systems Design Consultant at Night Owl Labs"
+    },
+    {
+      "user": "https://www.linkedin.com/in/karen-huaulme-a6069164/",
+      "text": "Developer Advocate at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/niyati1/",
+      "text": "Business Operations, Product Management, & Growth Leader"
+    },
+    {
+      "user": "https://www.linkedin.com/in/patricia-hagerman-137a1a7b/",
+      "text": "Vice President (Retired), Product & Program Management"
+    },
+    {
+      "user": "https://www.linkedin.com/in/james-bearer/",
+      "text": "Client Engagement Manager-Northeast"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Rob Walters",
+    "headline": "Director of IoT at MongoDB",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQGbd9jSlDo7dA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=sgNZ3isP7eF_1aNB2tLx7hU1Ti-_Kj3bTCdpJX4i16w",
+    "location": "Rutland, Massachusetts",
+    "connections": "500+"
+  }
+}

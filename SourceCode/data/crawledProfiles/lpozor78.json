@@ -1,0 +1,137 @@
+{
+  "profileAlternative": {
+    "name": "Leodanis Pozo Ramos",
+    "headline": "Python Developer and Author",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQHpXRWxsl-NkA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=niWecMneoikUAd-aG8iGCcYmivj6HWvlRygOz1Opzhw",
+    "location": "Cuba",
+    "connections": "339",
+    "summary": "I'm Leodanis, an Industrial Engineering (Technological University of Havana, Cuba), and a Python Developer. I've been learning/using Python for 5+ years. I'm also an author and a proud member of the realpython.com Tutorial Team. I'm looking for an Entry Level Position as Python Dev or I can write Python articles for your site."
+  },
+  "aboutAlternative": {
+    "text": "I'm Leodanis, an Industrial Engineering (Technological University of Havana, Cuba), and a Python Developer. I've been learning/using Python for 5+ years. I'm also an author and a proud member of the realpython.com Tutorial Team. I'm looking for an Entry Level Position as Python Dev or I can write Python articles for your site."
+  },
+  "positions": [
+    {
+      "title": "Python Developer and Author",
+      "companyName": "Freelancer",
+      "location": "Cuba",
+      "description": "I'm Leodanis, an Industrial Engineering (Technological University of Havana, Cuba), and a Python Developer. I've been learning/using Python for 5+ years. I'm also an author and a proud member of the realpython.com Tutorial Team. I'm looking for an Entry Level Position as Python Dev or I can write Python articles for your site.",
+      "date1": "Aug 2014 – Present",
+      "date2": "5 yrs 4 mos"
+    },
+    {
+      "title": "Machinery Lubrication Engineer",
+      "companyName": "Cubalub",
+      "location": "Cuba",
+      "date1": "Sep 2007 – Present",
+      "date2": "12 yrs 3 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Universidad Tecnólogica de La Habana \"Jose Antonio Echeverría\", CUJAE",
+      "degree": "Engineer's degree",
+      "fieldofstudy": "Industrial Engineering",
+      "date1": "2003",
+      "date2": "2005"
+    },
+    {
+      "title": "University of Holguín",
+      "degree": "Master of Business Administration - MBA",
+      "fieldofstudy": "Quality Control Technology/Technician"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Python"
+    },
+    {
+      "title": "PyQt5"
+    },
+    {
+      "title": "Linux"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "5",
+      "items": [
+        "realpython.com | Python and PyQt: Building a GUI Desktop Calculator",
+        "realpython.com | Using the Python zip() Function for Parallel Iteration",
+        "realpython.com | How to Use the Python or Operator",
+        "realpython.com | How to Iterate Through a Dictionary in Python",
+        "realpython.com | How to Run Your Python Scripts"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "English",
+        "Spanish"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "VideoMorph"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/dayana-l%C3%B3pez-ch%C3%A1vez-948252127/",
+      "text": "Probadora de Software y Asesora de Seguridad Informática en Universidad de las Ciencias Informáticas"
+    },
+    {
+      "user": "https://www.linkedin.com/in/manuel-enrique-delgado-fern%C3%A1ndez-588bba146/",
+      "text": "Freelance Software Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/isbel8ai/",
+      "text": "Software Developer at cuban.engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/osmely-fernandez/",
+      "text": "Software Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/miguelhascanio/",
+      "text": "Diseño Web / SEO"
+    },
+    {
+      "user": "https://www.linkedin.com/in/juandavidg890121/",
+      "text": "Java Software Developer & Technical Leader"
+    },
+    {
+      "user": "https://www.linkedin.com/in/abel-capote-d%C3%ADaz-1a473b110/",
+      "text": "Direcrtor Evaluación de Inversiones"
+    },
+    {
+      "user": "https://www.linkedin.com/in/alekosmatos/",
+      "text": "Software Programmer and Tester at Openbravo"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yolaimi-morales-montes-de-oca-322331174/",
+      "text": "Profesora en Universidad de Matanzas"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yohanhs/",
+      "text": "✳️Diseñador de páginas web y consultor SEO en MarkAnDev - Marketing and Development"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Leodanis Pozo Ramos",
+    "headline": "Python Developer and Author",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQHpXRWxsl-NkA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=niWecMneoikUAd-aG8iGCcYmivj6HWvlRygOz1Opzhw",
+    "location": "Cuba",
+    "connections": "339",
+    "summary": "I'm Leodanis, an Industrial Engineering (Technological University of Havana, Cuba), and a Python Developer. I've been learning/using Python for 5+ years. I'm also an author and a proud member of the realpython.com Tutorial Team. I'm looking for an Entry Level Position as Python Dev or I can write Python articles for your site."
+  }
+}

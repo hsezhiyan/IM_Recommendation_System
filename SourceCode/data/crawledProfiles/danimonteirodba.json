@@ -1,0 +1,234 @@
+{
+  "profileAlternative": {
+    "name": "Danielle Monteiro, MSc",
+    "headline": "Microsoft Regional Director and MVP | MongoDB World 2019 Speaker | TEDx Speaker | MongoDB Female Innovator and William Zola Award Winner | Data Architect",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQE1gUEq0sh45Q/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=8Y4jRnFSKlVyVGX08UL563jOh3_SYXss4wLxtQwQHYw",
+    "location": "São Paulo, São Paulo, Brazil",
+    "connections": "500+",
+    "summary": "I am a Master in Computer Engineering, Microsoft MVP, MongoDB Female Innovator, MongoDB World 2019 Speaker, TEDx Speaker, iMaster portal columnist, DB4Beginners.com blog author, consultant, speaker, and data architect.\n\nAt B3 I am a senior data architect, where I work in governance, modeling and data quality. I Work with different standards and technologies, especially the ISO20022, SPB and FIX protocols.\nAt B3 I highlight my participation in projects of great importance for the Brazilian financial market, such as B3 Clearings Integration (called IPN Project).\n\nI love working with data (relational and NoSQL), and today I define myself as an enthusiastic and studious of storage technologies, data analysis, and big data.\n\nBeing passionate about data, solutions and new technologies encouraged me to found WDB.Consulting, my data-driven consulting firm.\n\nDuring the year 2018, I lectured on more than 80 events, including TEDx São Paulo, InterCon, MVP Conf, Coders In Rio Summit, SQL Saturday (in some Brazil states), TDC (The Developers Conference) and also taught mini-courses of SQL Server and MongoDB.\n\nI am a collaborator in several projects and several communities like Databases-SP, .Net-SP, woMakersCode and I also act as a mentor in BlackRock's.\n\nI am DB4Beginners.com blog and channel author, where I publish articles, tips, videos, and e-books to help beginner developers model and query Relational and NoSQL databases so they can create great applications and work on better jobs."
+  },
+  "aboutAlternative": {
+    "text": "I am a Master in Computer Engineering, Microsoft MVP, MongoDB Female Innovator, MongoDB World 2019 Speaker, TEDx Speaker, iMaster portal columnist, DB4Beginners.com blog author, consultant, speaker, and data architect.\n\nAt B3 I am a senior data architect, where I work in governance, modeling and data quality. I Work with different standards and technologies, especially the ISO20022, SPB and FIX protocols.\nAt B3 I highlight my participation in projects of great importance for the Brazilian financial market, such as B3 Clearings Integration (called IPN Project).\n\nI love working with data (relational and NoSQL), and today I define myself as an enthusiastic and studious of storage technologies, data analysis, and big data.\n\nBeing passionate about data, solutions and new technologies encouraged me to found WDB.Consulting, my data-driven consulting firm.\n\nDuring the year 2018, I lectured on more than 80 events, including TEDx São Paulo, InterCon, MVP Conf, Coders In Rio Summit, SQL Saturday (in some Brazil states), TDC (The Developers Conference) and also taught mini-courses of SQL Server and MongoDB.\n\nI am a collaborator in several projects and several communities like Databases-SP, .Net-SP, woMakersCode and I also act as a mentor in BlackRock's.\n\nI am DB4Beginners.com blog and channel author, where I publish articles, tips, videos, and e-books to help beginner developers model and query Relational and NoSQL databases so they can create great applications and work on better jobs."
+  },
+  "positions": [
+    {
+      "title": "CEO",
+      "companyName": "WDB Consulting",
+      "location": "São Paulo Area, Brazil",
+      "description": "Technical responsible for consulting.\nPerformance in database projects (relational and NoSQL) in clients of various sizes and lines of action.",
+      "date1": "Jun 2008 – Present",
+      "date2": "11 yrs 6 mos"
+    },
+    {
+      "title": "Columnist Portal iMasters",
+      "companyName": "iMasters",
+      "location": "São Paulo Area, Brazil",
+      "description": "* Writing technical articles\n\nProfile: https://imasters.com.br/perfil/daniellemonteiro",
+      "date1": "Aug 2018 – Present",
+      "date2": "1 yr 4 mos"
+    },
+    {
+      "title": "Senior Data Architect",
+      "companyName": "B3",
+      "location": "São Paulo Area, Brazil",
+      "description": "* Data modeling (relational, not relational);\n* Metadata management;\n* Data governance (process definition and management);\n* API modeling and governance;\n* Process definition, management, governance and message modeling using:\n- ISO20022 standard;\n- SPB standard;\n- FIX standard;\n* Enterprise Architect automation;\n* ERWin automation;\n* Development of solutions for governance and process automation;\n…\nsee more",
+      "date1": "Apr 2017 – Present",
+      "date2": "2 yrs 8 mos"
+    },
+    {
+      "title": "Data Architect",
+      "companyName": "BM&FBOVESPA",
+      "location": "BM&FBovespa",
+      "description": "* Data modeling (relational, not relational);\n* Metadata management;\n* Data governance (process definition and management);\n* API modeling and governance;\n* Process definition, management, governance and message modeling using:\n- ISO20022 standard;\n- SPB standard;\n- FIX standard;\n* Enterprise Architect automation;\n* ERWin automation;\n* Development of solutions for governance and process automation;\n…\nsee more",
+      "date1": "Oct 2011 – Mar 2017",
+      "date2": "5 yrs 6 mos"
+    },
+    {
+      "title": "Teacher",
+      "companyName": "BFBiz",
+      "location": "São Paulo",
+      "description": "* Official SQL Server course instructor",
+      "date1": "Feb 2011 – Aug 2016",
+      "date2": "5 yrs 7 mos"
+    },
+    {
+      "title": "DBA",
+      "companyName": "IT Group",
+      "description": "* Worked in sizes projects various;\n* Applications development using .NET Platform;\n* Oracle and SQL Server databases management;\n* Reports administration and development with Reporting Services;\n* ETL processes (Extraction, transformation and data loading) development and administration using Integration Services;\n…\nsee more",
+      "date1": "Sep 2006 – Sep 2011",
+      "date2": "5 yrs 1 mo"
+    },
+    {
+      "title": "DBA",
+      "companyName": "BM&FBOVESPA",
+      "location": "São Paulo Area, Brazil",
+      "description": "* Data base modeling and implementation using SQL Server;",
+      "date1": "2009 – Aug 2011",
+      "date2": "2 yrs"
+    },
+    {
+      "title": "Author(.Net Magazine, Web Mobile, SQL Magazine)",
+      "companyName": "DevMedia",
+      "description": "* Writing technical articles",
+      "date1": "2008 – Apr 2010",
+      "date2": "2 yrs"
+    },
+    {
+      "title": "Systems Analyst",
+      "companyName": "Liberty Seguros",
+      "location": "São Paulo Area, Brazil",
+      "description": "* Systems development using the platform. NET and Oracle data base",
+      "date1": "2006 – 2007",
+      "date2": "1 yr"
+    }
+  ],
+  "educations": [
+    {
+      "title": "IPT - USP",
+      "degree": "Master's degree",
+      "fieldofstudy": "Computer Engineering",
+      "date1": "2012",
+      "date2": "2015"
+    },
+    {
+      "title": "CEETEPS",
+      "degree": "Master of Business Administration - MBA",
+      "fieldofstudy": "Business/Office Automation/Technology/Data Entry",
+      "date1": "2009",
+      "date2": "2010"
+    },
+    {
+      "title": "Faculdade de Tecnologia de São Paulo",
+      "degree": "Bachelor of Technology - BTech",
+      "fieldofstudy": "Data Processing and Data Processing Technology/Technician",
+      "date1": "2001",
+      "date2": "2005"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Microsoft SQL Server",
+      "count": "72"
+    },
+    {
+      "title": "Business Intelligence",
+      "count": "52"
+    },
+    {
+      "title": "SQL",
+      "count": "44"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "16",
+    "receivedCount": "13",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/adauro-pires-3ab06616/",
+        "text": "“Danielle is an excellent person, fulfill with his goals. He improves his job everyday. And he is a good friend.”"
+      },
+      {
+        "user": "https://www.linkedin.com/in/jose-antonio-das-neves-neto-41021b/",
+        "text": "Durante meus anos de atividade no mercado de TI, muitas foram as oportunidades de se conhecer profissionais e tomar contato com a forma de sua atuação técnica e pessoal. Com a Danielle as experiencias sempre foram ótimas nos dois campos. Técnica altamente capacitado, com capacidade de adaptabilidade e rápida absorção de novos conhecimentos. Postura ética, responsável e sempre motivada para trabalho em equipe. A qualquer momento e sob qualquer circunstâncias gostaria de ter profissionais como o Dante dentro da minha equipe de trabalho.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/daddariobrazil/",
+        "text": "Danielle is a great and dedicated student."
+      },
+      {
+        "user": "https://www.linkedin.com/in/ana-gl%C3%B3ria-slechticius-msc-master-coach-prosci-a397456/",
+        "text": "Daniele é, além de uma pessoa especial, uma profissional excepcional. Suas principais características profissionais, e que muito me agradam, são: dedicação, responsabilidade e comprometimento indiscutíveis, além de trabalhar bem em equipe. Inteligente, busca sempre a atualização profissional, Às vezes, chega na segunda-feira com uma nova certificação. Uma das melhores DBAs que conheço, se não a melhor. Este tempo na BM&FBovespa, me dá subsídios para que eu a recomende. Trabalhar com a Daniele é, além de prazeroso, um aprendizado constante.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/kleber-maximiano-b9a15520/",
+        "text": "Danielle is a fully-oriented professional that always manage to solve database things and supporting developers in this concern."
+      },
+      {
+        "user": "https://www.linkedin.com/in/rafael-dos-reis-couto-33263423/",
+        "text": "Profissional altamente dedicada e esforçada."
+      },
+      {
+        "user": "https://www.linkedin.com/in/lvrodrigues/",
+        "text": "Danielle is a complete professional high skilled in development and databases. We have worked in the same company since 2009 and I could see how commited she is. Also, she is really funny. I recommend her to any project !"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/gabriela-di-paolla-nogueira-de-almeida-853404168/",
+        "text": "Gabriela é uma profissional diferenciada!\nSeja pelo foco, pela boa vontade, pela colaboração com os colegas, bom caráter e muita vontade de aprender.\nEla tem o perfil da nova cultura da B3 e com toda certeza colaborará muito com o crescimento da nossa companhia. \nTorço pela sua contratação e me coloco à disposição para falar sobre ela e ajudar no que for preciso."
+      },
+      {
+        "user": "https://www.linkedin.com/in/eduardo-hilpert/",
+        "text": "Tive contato com o Eduardo antes de ser nomeada MVP e após a minha nomeação. \nEm ambos os momentos fui tratada com uma atenção e profissionalismo ímpares, por isso recomendo este excelente profissional."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "4",
+      "items": [
+        "Microsoft Regional Director2019",
+        "William Zola Award for Community Excellence",
+        "MongoDB Female Innovator",
+        "Microsoft MVP"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "iMercado"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/terencio-avila-24b471/",
+      "text": "Gerente de Desenvolvimento de Sistemas Corporativos"
+    },
+    {
+      "user": "https://www.linkedin.com/in/diegonogare/",
+      "text": "Chief Data Officer | Researcher on AI & Machine Learning | MBA Professor | Microsoft Regional Director & former AI MVP"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jessicatemporal/",
+      "text": "Data Scientist + Developer + Lecturer + Instructor"
+    },
+    {
+      "user": "https://www.linkedin.com/in/cynthiazanoni/",
+      "text": "Community Leader @ WoMakersCode, Event Organizer, Tech Speaker and Cloud + AI Developer Relations LATAM Manager"
+    },
+    {
+      "user": "https://www.linkedin.com/in/renatogroffe/",
+      "text": "Senior Software Engineer, Microsoft MVP, MTAC"
+    },
+    {
+      "user": "https://www.linkedin.com/in/joaobenito/",
+      "text": "Diretor at Mondial Informática"
+    },
+    {
+      "user": "https://www.linkedin.com/in/aramos/",
+      "text": "Cyber Security Speaker and Serial Entrepreneur (Flipside, Roadsec, Mind The Sec, Hackaflag, Eskive and The Hack)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jenniferces/",
+      "text": "Big Data Engineer | Hadoop | Cloud | Python Developer | Hackathon Competitor"
+    },
+    {
+      "user": "https://www.linkedin.com/in/glaucialemos/",
+      "text": "Regional Cloud Advocate LATAM"
+    },
+    {
+      "user": "https://www.linkedin.com/in/rafaelmpsantos/",
+      "text": "Microsoft MVP Data Platform | MCSA BI Reporting | MCT | RL Inteligencia de Negócios"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Danielle Monteiro, MSc",
+    "headline": "Microsoft Regional Director and MVP | MongoDB World 2019 Speaker | TEDx Speaker | MongoDB Female Innovator and William Zola Award Winner | Data Architect",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQE1gUEq0sh45Q/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=8Y4jRnFSKlVyVGX08UL563jOh3_SYXss4wLxtQwQHYw",
+    "location": "São Paulo, São Paulo, Brazil",
+    "connections": "500+",
+    "summary": "I am a Master in Computer Engineering, Microsoft MVP, MongoDB Female Innovator, MongoDB World 2019 Speaker, TEDx Speaker, iMaster portal columnist, DB4Beginners.com blog author, consultant, speaker, and data architect.\n\nAt B3 I am a senior data architect, where I work in governance, modeling and data quality. I Work with different standards and technologies, especially the ISO20022, SPB and FIX protocols.\nAt B3 I highlight my participation in projects of great importance for the Brazilian financial market, such as B3 Clearings Integration (called IPN Project).\n\nI love working with data (relational and NoSQL), and today I define myself as an enthusiastic and studious of storage technologies, data analysis, and big data.\n\nBeing passionate about data, solutions and new technologies encouraged me to found WDB.Consulting, my data-driven consulting firm.\n\nDuring the year 2018, I lectured on more than 80 events, including TEDx São Paulo, InterCon, MVP Conf, Coders In Rio Summit, SQL Saturday (in some Brazil states), TDC (The Developers Conference) and also taught mini-courses of SQL Server and MongoDB.\n\nI am a collaborator in several projects and several communities like Databases-SP, .Net-SP, woMakersCode and I also act as a mentor in BlackRock's.\n\nI am DB4Beginners.com blog and channel author, where I publish articles, tips, videos, and e-books to help beginner developers model and query Relational and NoSQL databases so they can create great applications and work on better jobs."
+  }
+}

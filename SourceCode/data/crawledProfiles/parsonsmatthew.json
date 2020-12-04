@@ -1,0 +1,175 @@
+{
+  "profileAlternative": {
+    "name": "Matt Parsons",
+    "headline": "Backend Software Engineer at Lumi",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQE6Hp2Arcmx0w/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=dBgxWmzivuEVz4f2wtdbMFdQ8C_KnMy_vP7Cmir1vsc",
+    "location": "Denver, Colorado",
+    "connections": "346",
+    "summary": "I like developing and designing robust, maintainable, and correct software.\n\nI prefer to work with Haskell, as it's been the best option I've used for that goal. I've worked with Ruby on Rails and JavaScript, where I developed skills for test-driven and object-oriented design. My GitHub page has a number of projects, and I'd encourage you to check them out to get a sense for my programming style and ability.\n\nI'm interested in distributed systems, concurrency, and practical applications of advanced type systems. I enjoy learning about low level systems and performance optimization as well as high level abstractions.\n\nMy communication and people skills are as important to me as my technical skills. I like writing tutorials and documentation and publishing them on my blog, which tend to be rather well received. I've presented talks for local meetup groups and assisted in teaching software development courses."
+  },
+  "aboutAlternative": {
+    "text": "I like developing and designing robust, maintainable, and correct software.\n\nI prefer to work with Haskell, as it's been the best option I've used for that goal. I've worked with Ruby on Rails and JavaScript, where I developed skills for test-driven and object-oriented design. My GitHub page has a number of projects, and I'd encourage you to check them out to get a sense for my programming style and ability.\n\nI'm interested in distributed systems, concurrency, and practical applications of advanced type systems. I enjoy learning about low level systems and performance optimization as well as high level abstractions.\n\nMy communication and people skills are as important to me as my technical skills. I like writing tutorials and documentation and publishing them on my blog, which tend to be rather well received. I've presented talks for local meetup groups and assisted in teaching software development courses."
+  },
+  "positions": [
+    {
+      "title": "Backend Software Engineer",
+      "companyName": "Lumi",
+      "location": "Denver, CO",
+      "date1": "Mar 2019 – Present",
+      "date2": "9 mos"
+    },
+    {
+      "title": "Senior Software Engineer",
+      "companyName": "Input Output (IOHK)",
+      "location": "Denver, CO",
+      "description": "I helped develop the Cardano Wallet software.",
+      "date1": "Feb 2018 – Feb 2019",
+      "date2": "1 yr 1 mo"
+    },
+    {
+      "title": "Software Engineer",
+      "companyName": "Seller Labs",
+      "location": "Athens, Georgia Area",
+      "description": "At Seller Labs, my responsibilities include design, development, and maintenance of software services in Haskell, JavaScript, and PHP.\n\nI converted many of our backend workers and APIs from PHP to Haskell. The rewrites provided up to 10-500 times increase in throughput and reliability, resulting in increased sales and decreased support and server costs.\n\nI implemented several Servant APIs and Yesod web applications in Haskell for internal services. By focusing on high demand endpoints and high-performance code, I was able to reduce server costs by 90%. I interviewed customer service agents for common problems and requests for the admin website, and implemented them to improve customer service responsiveness and customer satisfaction.\n…\nsee more",
+      "date1": "Jun 2016 – Jan 2018",
+      "date2": "1 yr 8 mos"
+    },
+    {
+      "title": "Software Developer Internship",
+      "companyName": "Layer 3 Communications",
+      "location": "Greater Atlanta Area",
+      "description": "Full stack Haskell web application development for network monitoring and management.",
+      "date1": "Aug 2015 – May 2016",
+      "date2": "10 mos"
+    },
+    {
+      "title": "Software Developer Internship",
+      "companyName": "Vitamin C",
+      "location": "Athens, GA",
+      "description": "Ruby and JavaScript development, using Rails, Sinatra, and React.\n\nI solved complex business problems with the use of powerful abstractions. I combined event stream processing and functional reactive programming techniques to create a data analysis platform with a user interface suitable for non-technical people. Leveraging the general power of these abstractions allowed the business to use the platform both for analysis of incoming records as well as identifying potential targets for improvement.\n…\nsee more",
+      "date1": "Feb 2015 – Aug 2015",
+      "date2": "7 mos"
+    },
+    {
+      "title": "IT Professional Associate",
+      "companyName": "University of Georgia",
+      "location": "Athens, GA",
+      "description": "Desktop administration and support for ~500 devices and 240 users across two departments. Technologies used include Active Directory, Windows Deployment Services, Group Policy. Used batch/Powershell/Ruby scripting to automate processes.",
+      "date1": "Nov 2011 – Jan 2015",
+      "date2": "3 yrs 3 mos"
+    },
+    {
+      "title": "Software Development Intern",
+      "companyName": "Pylon Products",
+      "location": "Athens, GA",
+      "description": "Developed mobile application using Phonegap (HTML/CSS/JavaScript). Developed Cordova plugin for Android to allow control of WiFi settings. Designed a RESTful web API using Node.js to manage user account information.",
+      "date1": "Jun 2014 – Oct 2014",
+      "date2": "5 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "The University of Georgia",
+      "degree": "Bachelor’s Degree",
+      "fieldofstudy": "Computer Science",
+      "date1": "2007",
+      "date2": "2016"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Software Development",
+      "count": "11"
+    },
+    {
+      "title": "Haskell",
+      "count": "6"
+    },
+    {
+      "title": "Ruby on Rails",
+      "count": "6"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "1",
+    "receivedCount": "2",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/benjamin-kovach/",
+        "text": "Matt is a talented, pragmatic software developer. He consistently iterates on subpar designs, questioning every detail of the piece of software he is building. He always finds a way to bring quality into his work, and often shares his findings with other developers. He is an excellent communicator of highly technical ideas, and his passion for programming is apparent during every conversation with him. He is an absolute pleasure to work with, and gets my highest recommendation as a developer.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/jordankburke/",
+        "text": "Matt is one of the most well-rounded software developers I know. He is incredibly self aware when it comes to knowing what he doesn't know, and is thorough in what he does know. In the time Matt worked for us at Vitamin C, he was part of the refactoring effort that helped stabilize and build out modularity for our core system that will benefit us for years to come.\n…\nSee more"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/benjamin-kovach/",
+        "text": "Ben's a highly skilled engineer, capable of constructing well-designed systems quickly in a variety of languages. He's not afraid to dig into nasty legacy code and make dramatic refactors, and his quick understanding and view for the big picture helps him do so safely and effectively.\n\nIn addition to his technical skills, Benjamin's a solid leader, communicator, and writer."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "4",
+      "items": [
+        "QuickLift",
+        "MelodyScout",
+        "WifiWizard",
+        "Pylon Products"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/sarah-sachs-6bb7b562/",
+      "text": "Software Engineer at Lumi Labs Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/keagan-mcclelland-a00b8661/",
+      "text": "Senior Software Engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nweyerhaeuser/",
+      "text": "Software Engineer at Lumi Labs Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/zaianne/",
+      "text": "Product Designer at Lumi Labs Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/bzkobler/",
+      "text": "Director of Product at Lumi"
+    },
+    {
+      "user": "https://www.linkedin.com/in/codedmart/",
+      "text": "Director Of Engineering at Lumi"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jacobmitchell/",
+      "text": "Software Engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yegoshimelis/",
+      "text": "Vice President of Supply Chain"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jessegenet/",
+      "text": "CEO and Co-Founder of Lumi"
+    },
+    {
+      "user": "https://www.linkedin.com/in/dexterihorthy/",
+      "text": "Engineer"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Matt Parsons",
+    "headline": "Backend Software Engineer at Lumi",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQE6Hp2Arcmx0w/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=dBgxWmzivuEVz4f2wtdbMFdQ8C_KnMy_vP7Cmir1vsc",
+    "location": "Denver, Colorado",
+    "connections": "346",
+    "summary": "I like developing and designing robust, maintainable, and correct software.\n\nI prefer to work with Haskell, as it's been the best option I've used for that goal. I've worked with Ruby on Rails and JavaScript, where I developed skills for test-driven and object-oriented design. My GitHub page has a number of projects, and I'd encourage you to check them out to get a sense for my programming style and ability.\n\nI'm interested in distributed systems, concurrency, and practical applications of advanced type systems. I enjoy learning about low level systems and performance optimization as well as high level abstractions.\n\nMy communication and people skills are as important to me as my technical skills. I like writing tutorials and documentation and publishing them on my blog, which tend to be rather well received. I've presented talks for local meetup groups and assisted in teaching software development courses."
+  }
+}

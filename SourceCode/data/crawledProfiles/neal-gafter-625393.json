@@ -1,0 +1,346 @@
+{
+  "profileAlternative": {
+    "name": "Neal Gafter",
+    "headline": "Language and Compiler Hacker at Microsoft",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQHlu7ehdKjkfA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=ZnoHFJfhkznDdnsTZ1c38uCSbL2MfRndb68pRQPtRbk",
+    "location": "Greater Seattle Area",
+    "connections": "500+",
+    "summary": "Programming language design and implementation.\n\nSpecialties: Compilers,\nJava,\nC#,\nC++"
+  },
+  "aboutAlternative": {
+    "text": "Programming language design and implementation.\n\nSpecialties: Compilers,\nJava,\nC#,\nC++"
+  },
+  "positions": [
+    {
+      "title": "Principal Software Engineer",
+      "companyName": "Microsoft",
+      "date1": "Sep 2008 – Present",
+      "date2": "11 yrs 3 mos"
+    },
+    {
+      "title": "Owner (part time)",
+      "companyName": "CryptoFrog LLC",
+      "location": "Wenatchee, WA",
+      "description": "Bitcoin miner hosting.",
+      "date1": "2013 – Dec 2016",
+      "date2": "3 yrs"
+    },
+    {
+      "title": "Staff Software Engineer",
+      "companyName": "Google",
+      "description": "Distributed storage for Google Calendar.",
+      "date1": "Jul 2004 – Sep 2008",
+      "date2": "4 yrs 3 mos"
+    },
+    {
+      "title": "Conference Speaker",
+      "companyName": "InfoQ.com",
+      "date1": "2004 – 2008",
+      "date2": "4 yrs"
+    },
+    {
+      "title": "Senior Staff Software Engineer",
+      "companyName": "Sun Microsystems",
+      "description": "Developed language features and maintained compilers for C++ and Java.",
+      "date1": "1994 – 2004",
+      "date2": "10 yrs"
+    },
+    {
+      "title": "Staff Software Engineer",
+      "companyName": "Microtec Research",
+      "date1": "1992 – 1994",
+      "date2": "2 yrs"
+    },
+    {
+      "title": "Member of the Research Staff",
+      "companyName": "Texas Instruments",
+      "location": "Dallas",
+      "description": "VLSI Design Automation Research",
+      "date1": "1990 – 1992",
+      "date2": "2 yrs"
+    },
+    {
+      "title": "Software Engineer",
+      "companyName": "Xerox",
+      "date1": "1981 – 1985",
+      "date2": "4 yrs"
+    }
+  ],
+  "educations": [
+    {
+      "title": "University of Rochester",
+      "degree": "Ph.D.",
+      "fieldofstudy": "Computer Science",
+      "date1": "1985",
+      "date2": "1990"
+    },
+    {
+      "title": "University of Rochester",
+      "degree": "M.S.",
+      "fieldofstudy": "Computer Science",
+      "date1": "1982",
+      "date2": "1985"
+    },
+    {
+      "title": "Case Western Reserve University",
+      "degree": "B.S.",
+      "fieldofstudy": "Computer Engineering",
+      "date1": "1977",
+      "date2": "1981"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Java",
+      "count": "91"
+    },
+    {
+      "title": "C++",
+      "count": "43"
+    },
+    {
+      "title": "Software Engineering",
+      "count": "43"
+    },
+    {
+      "title": "Software Development",
+      "count": "36"
+    },
+    {
+      "title": "Distributed Systems",
+      "count": "34"
+    },
+    {
+      "title": "Software Design",
+      "count": "21"
+    },
+    {
+      "title": "Scalability",
+      "count": "14"
+    },
+    {
+      "title": "Architecture",
+      "count": "13"
+    },
+    {
+      "title": "Object Oriented Design",
+      "count": "11"
+    },
+    {
+      "title": "Algorithms",
+      "count": "10"
+    },
+    {
+      "title": "System Architecture",
+      "count": "10"
+    },
+    {
+      "title": "Agile Methodologies",
+      "count": "9"
+    },
+    {
+      "title": "Multithreading",
+      "count": "8"
+    },
+    {
+      "title": "Computer Science",
+      "count": "7"
+    },
+    {
+      "title": "OOP",
+      "count": "7"
+    },
+    {
+      "title": "Cloud Computing",
+      "count": "6"
+    },
+    {
+      "title": "Design Patterns",
+      "count": "5"
+    },
+    {
+      "title": "Web Services",
+      "count": "4"
+    },
+    {
+      "title": "Debugging",
+      "count": "3"
+    },
+    {
+      "title": "Scrum",
+      "count": "3"
+    },
+    {
+      "title": "C#",
+      "count": "27"
+    },
+    {
+      "title": "Linux",
+      "count": "16"
+    },
+    {
+      "title": "Open Source",
+      "count": "7"
+    },
+    {
+      "title": "Python",
+      "count": "7"
+    },
+    {
+      "title": "C",
+      "count": "7"
+    },
+    {
+      "title": "Databases",
+      "count": "4"
+    },
+    {
+      "title": "Unix",
+      "count": "4"
+    },
+    {
+      "title": "Subversion",
+      "count": "4"
+    },
+    {
+      "title": "JavaScript",
+      "count": "3"
+    },
+    {
+      "title": "Git",
+      "count": "3"
+    },
+    {
+      "title": "Enterprise Software",
+      "count": "3"
+    },
+    {
+      "title": "Embedded Systems",
+      "count": "2"
+    },
+    {
+      "title": "Visual Studio",
+      "count": "2"
+    },
+    {
+      "title": "Technical Leadership",
+      "count": "3"
+    },
+    {
+      "title": "Compilers",
+      "count": "17"
+    },
+    {
+      "title": "Programming Language Theory",
+      "count": "3"
+    },
+    {
+      "title": "Programming Languages",
+      "count": "3"
+    },
+    {
+      "title": "Refactoring",
+      "count": "2"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "2",
+    "receivedCount": "3",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/peterahe/",
+        "text": "Nice guy. Strong technical skills and good sounding board for your ideas. I have learned a lot from Neal."
+      },
+      {
+        "user": "https://www.linkedin.com/in/tomball/",
+        "text": "It was a pleasure working with Neal. H was always a pragmatist able to justify all his decisions with sound academic reasoning, able to foresee what the impact will be on the thousands of Java compiler users. Google's gain was definitely Sun's loss."
+      },
+      {
+        "user": "https://www.linkedin.com/in/bennettandrew/",
+        "text": "I enjoyed managing Neal during a stint at Sun when he was in my group working on the Java compiler. His tenacity at squashing bugs was a model for other engineers. He always took the big picture, taking the architecture into account when thinking about any particular issue. I'd cherish the opportunity to work with Neal again in the future.\n…\nSee more"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/nikov/",
+        "text": "Vladimir is the most effective compiler test engineer I've ever worked with.  He develops a deep understanding of the specification, which uncovers corner cases and reveals flaws in both the specification and compiler.  It is easy to miss some case when writing a specification or implementing it.  Vladimir can be counted on to tell you - or show you - what you've missed."
+      },
+      {
+        "user": "https://www.linkedin.com/in/bennettandrew/",
+        "text": "Andrew managed a very productive team of engineers including Joshua Bloch, Neal Gafter, and Mark Reinhold, who developed the core of the Java platform.  Andrew kept the team working as a well-oiled machine in spite of personality conflicts.  After Andrew left those conflicts grew until the team exploded."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "7",
+      "items": [
+        "Resumable methods",
+        "Document access control",
+        "Using feedback to determine the size of an object cache",
+        "Object-oriented enumerated type facility",
+        "Method and apparatus for producing compressed compiler products",
+        "Method and system for translating a software implementation with data-dependent conditions to a data flow graph with conditional expressions",
+        "Method and means for translating a data-dependent program to a data flow graph with conditional expression"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "Roslyn",
+        "Roslyn"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/paul-hohensee-1967841/",
+      "text": "Principal Engineer in AWS, OpenJDK platform engineering"
+    },
+    {
+      "user": "https://www.linkedin.com/in/dustincampbell/",
+      "text": "Principal Software Engineer at Microsoft"
+    },
+    {
+      "user": "https://www.linkedin.com/in/hollymuenchow/",
+      "text": ".NET Engineering team | Advocating for D, E & I"
+    },
+    {
+      "user": "https://www.linkedin.com/in/rowanmiller/",
+      "text": "Program Manager at Microsoft"
+    },
+    {
+      "user": "https://www.linkedin.com/in/raja-krishnaswamy-374610/",
+      "text": "Partner Engineering Leader -- Microsoft Azure Container Compute"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tomball/",
+      "text": "Staff Software Engineer at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/eric-lippert-a3893485/",
+      "text": "Software Engineer at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/joshua-bloch-37038/",
+      "text": "Professor of the Practice at Carnegie Mellon University"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jamessmiller/",
+      "text": "Retired! ex-{MIT, BBN, DEC, W3C, Microsoft, Google}"
+    },
+    {
+      "user": "https://www.linkedin.com/in/varun9/",
+      "text": "Experienced Principal Product Leader"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Neal Gafter",
+    "headline": "Language and Compiler Hacker at Microsoft",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQHlu7ehdKjkfA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=ZnoHFJfhkznDdnsTZ1c38uCSbL2MfRndb68pRQPtRbk",
+    "location": "Greater Seattle Area",
+    "connections": "500+",
+    "summary": "Programming language design and implementation.\n\nSpecialties: Compilers,\nJava,\nC#,\nC++"
+  }
+}

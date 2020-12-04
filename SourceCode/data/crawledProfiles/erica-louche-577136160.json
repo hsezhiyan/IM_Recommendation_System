@@ -1,0 +1,52 @@
+{
+  "profileAlternative": {
+    "name": "erica louche",
+    "headline": "Photo Retoucher & app developer",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQGexWtprpV9PQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=oWLaHEDEawPlFpFzn3t8ROqsiWzWYtp4s2S7c09d7P8",
+    "location": "United States",
+    "connections": "1 connection"
+  },
+  "aboutAlternative": {},
+  "positions": [
+    {
+      "title": "Self taught HTML,CSS and Javascript",
+      "companyName": "NA",
+      "description": "I self-taught myself HTML, CSS and Javascript. I have a couple of examples on GitHub. I can be found under my full name in GitHub. My objective is to become a front end developer.",
+      "date1": "2017 – Present",
+      "date2": "2 yrs"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Academy of Art University",
+      "degree": "Bachelor's degree",
+      "fieldofstudy": "Computer Art"
+    }
+  ],
+  "skills": [],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/harry-bunfill-1799a613/",
+      "text": "CEO, XFowler, LLC"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jennifer-barth-08770916/",
+      "text": "MLO and Brand Advocate/Trainer at Vitek Mortgage Group NMLS #284448"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "erica louche",
+    "headline": "Photo Retoucher & app developer",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQGexWtprpV9PQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=oWLaHEDEawPlFpFzn3t8ROqsiWzWYtp4s2S7c09d7P8",
+    "location": "United States",
+    "connections": "1 connection"
+  }
+}

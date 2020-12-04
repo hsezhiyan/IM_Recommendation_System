@@ -1,0 +1,279 @@
+{
+  "profileAlternative": {
+    "name": "Ivo Bervoets",
+    "headline": "Managing Partner at Optis - Java & JavaScript FullStack - we're hiring!",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQGZ2W5Fhvpsgg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=zne2XgL8qUrwgqDvrP0YTtYFFQonCD9FDtAdAF97y7I",
+    "location": "Antwerp Area, Belgium",
+    "connections": "338",
+    "summary": "Experienced Java Consultant with a demonstrated history of working in the computer software industry. Skilled in Java, Agile Methodologies, and java related frameworks. Strong engineering professional graduated from Karel de Grote' Hogeschool Antwerpen. Always interested in building IoT solutions."
+  },
+  "aboutAlternative": {
+    "text": "Experienced Java Consultant with a demonstrated history of working in the computer software industry. Skilled in Java, Agile Methodologies, and java related frameworks. Strong engineering professional graduated from Karel de Grote' Hogeschool Antwerpen. Always interested in building IoT solutions."
+  },
+  "positions": [
+    {
+      "title": "Optis - Java & JavaScript FullStack - we're hiring!",
+      "location": "Antwerp Area, Belgium",
+      "description": "Passionate about IT I found my way as a software engineer in Java.\nBuilding a growing amount of experience in Internet of Things.\nWith an extra focus on Agile methodologies I'm able to get the best from your teams.",
+      "date1": "Jan 2019 – Present",
+      "date2": "11 mos",
+      "roles": [
+        {
+          "title": "Managing Partner",
+          "date1": "Jan 2019 – Present",
+          "date2": "11 mos",
+          "location": "Antwerp Area, Belgium"
+        },
+        {
+          "title": "Java Consultant",
+          "date1": "Sep 2010 – Present",
+          "date2": "9 yrs 3 mos",
+          "location": "Kontich"
+        }
+      ]
+    },
+    {
+      "title": "Title\nManaging Partner",
+      "location": "Antwerp Area, Belgium",
+      "date1": "Jan 2019 – Present",
+      "date2": "11 mos",
+      "roles": [
+        {
+          "title": "Managing Partner",
+          "date1": "Jan 2019 – Present",
+          "date2": "11 mos",
+          "location": "Antwerp Area, Belgium"
+        }
+      ]
+    },
+    {
+      "title": "Title\nJava Consultant",
+      "location": "Kontich",
+      "description": "Passionate about IT I found my way as a software engineer in Java.\nBuilding a growing amount of experience in Internet of Things.\nWith an extra focus on Agile methodologies I'm able to get the best from your teams.",
+      "date1": "Sep 2010 – Present",
+      "date2": "9 yrs 3 mos",
+      "roles": [
+        {
+          "title": "Java Consultant",
+          "date1": "Sep 2010 – Present",
+          "date2": "9 yrs 3 mos",
+          "location": "Kontich"
+        }
+      ]
+    }
+  ],
+  "educations": [
+    {
+      "title": "Karel de Grote' Hogeschool Antwerpen",
+      "degree": "Bachelor's degree"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Java",
+      "count": "3"
+    },
+    {
+      "title": "Certified Scrum Master"
+    },
+    {
+      "title": "Scrum",
+      "count": "3"
+    },
+    {
+      "title": "Agile Methodologies",
+      "count": "3"
+    },
+    {
+      "title": "Software Development"
+    },
+    {
+      "title": "JIRA",
+      "count": "2"
+    },
+    {
+      "title": "Jenkins"
+    },
+    {
+      "title": "Eclipse",
+      "count": "3"
+    },
+    {
+      "title": "Arduino"
+    },
+    {
+      "title": "Spring",
+      "count": "3"
+    },
+    {
+      "title": "SQL",
+      "count": "3"
+    },
+    {
+      "title": "Struts",
+      "count": "1"
+    },
+    {
+      "title": "JavaScript",
+      "count": "2"
+    },
+    {
+      "title": "JUnit",
+      "count": "2"
+    },
+    {
+      "title": "XML",
+      "count": "2"
+    },
+    {
+      "title": "Maven",
+      "count": "2"
+    },
+    {
+      "title": "Tomcat",
+      "count": "1"
+    },
+    {
+      "title": "Java Enterprise Edition",
+      "count": "1"
+    },
+    {
+      "title": "Spring Framework",
+      "count": "3"
+    },
+    {
+      "title": "Hibernate",
+      "count": "1"
+    },
+    {
+      "title": "MySQL"
+    },
+    {
+      "title": "Cascading Style Sheets (CSS)"
+    },
+    {
+      "title": "HTML"
+    },
+    {
+      "title": "Unified Modeling Language (UML)"
+    },
+    {
+      "title": "Internet of Things"
+    },
+    {
+      "title": "Sonar"
+    },
+    {
+      "title": "Hibernate 3.1"
+    },
+    {
+      "title": "DBUnit"
+    },
+    {
+      "title": "Mockito",
+      "count": "2"
+    },
+    {
+      "title": "Apache Camel",
+      "count": "1"
+    },
+    {
+      "title": "Spring Webservices"
+    },
+    {
+      "title": "XFire"
+    },
+    {
+      "title": "iBatis",
+      "count": "1"
+    },
+    {
+      "title": "EasyMock"
+    },
+    {
+      "title": "ServiceMix",
+      "count": "1"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "8",
+      "items": [
+        "ABVV",
+        "VDAB VEJ",
+        "VDAB Matching",
+        "VDAB IAM",
+        "Internship coach at Optis",
+        "Internet of Things",
+        "Worldline Brussels",
+        "Cipal"
+      ]
+    },
+    {
+      "count": "4",
+      "items": [
+        "Dutch",
+        "English",
+        "French",
+        "German"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/keshia-niemegeerts-78143520/",
+      "text": "Managing Partner at Optis - WE'RE HIRING! - Java & JavaScript FullStack"
+    },
+    {
+      "user": "https://www.linkedin.com/in/roelhoremans/",
+      "text": "Managing Partner at Optis - Java & JavaScript FullStack - we're hiring!"
+    },
+    {
+      "user": "https://www.linkedin.com/in/gert-goetstouwers-529283130/",
+      "text": "Java/Javascript developer bij Optis"
+    },
+    {
+      "user": "https://www.linkedin.com/in/g00glen00b/",
+      "text": "Software Engineer & Blogger"
+    },
+    {
+      "user": "https://www.linkedin.com/in/gunther-laurijssens-356a7473/",
+      "text": "Developer bij Digipolis"
+    },
+    {
+      "user": "https://www.linkedin.com/in/youri-declerck-760690129/",
+      "text": "Junior softwareontwikkelaar bij Optis"
+    },
+    {
+      "user": "https://www.linkedin.com/in/christoffe-de-ti%C3%A8ge-28511717/",
+      "text": "Java Developer at VDAB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kenneth-van-den-berghe-7b45b26a/",
+      "text": "Software engineer Optis NV"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tomdecan/",
+      "text": "Partner at iBizz Group"
+    },
+    {
+      "user": "https://www.linkedin.com/in/stevengoris/",
+      "text": "Back-end Developer bij Nike"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Ivo Bervoets",
+    "headline": "Managing Partner at Optis - Java & JavaScript FullStack - we're hiring!",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQGZ2W5Fhvpsgg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=zne2XgL8qUrwgqDvrP0YTtYFFQonCD9FDtAdAF97y7I",
+    "location": "Antwerp Area, Belgium",
+    "connections": "338",
+    "summary": "Experienced Java Consultant with a demonstrated history of working in the computer software industry. Skilled in Java, Agile Methodologies, and java related frameworks. Strong engineering professional graduated from Karel de Grote' Hogeschool Antwerpen. Always interested in building IoT solutions."
+  }
+}

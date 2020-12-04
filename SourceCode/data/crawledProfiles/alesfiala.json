@@ -1,0 +1,194 @@
+{
+  "profileAlternative": {
+    "name": "Ales Fiala",
+    "headline": "Software Engineer at Seagate Technology",
+    "imageurl": "https://media.licdn.com/dms/image/C5103AQEDBIJC1qdnfQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=fvb-aepUkhb0ykwycHl84DEL2zjuRmqV4RCDLixT5_8",
+    "location": "Fort Collins, Colorado Area",
+    "connections": "87",
+    "summary": "Software engineer with extensive experience in developing drivers, firmware, machine dependent code, graphics systems, and higher level application code in the Unix/Linux environment. Electrical Engineer background gives me insight into hardware subsystems and ability to write code at the hardware/software interface level. Experienced in all phases of the software lifecycle. Commitment to quality defect-free code. International experience. Fluent in Czech language. Remote work experience. Passionate about delivering products that make customer more productive.\n\nSpecialties: • Unix/Linux experience\n• Drivers, firmware, embedded software\n• X Windows\n• Graphics display technology\n• Quality\n• EE background\n• High performance code\n• Debugging\n• Troubleshooting\n• Flexible, team player"
+  },
+  "aboutAlternative": {
+    "text": "Software engineer with extensive experience in developing drivers, firmware, machine dependent code, graphics systems, and higher level application code in the Unix/Linux environment. Electrical Engineer background gives me insight into hardware subsystems and ability to write code at the hardware/software interface level. Experienced in all phases of the software lifecycle. Commitment to quality defect-free code. International experience. Fluent in Czech language. Remote work experience. Passionate about delivering products that make customer more productive.\n\nSpecialties: • Unix/Linux experience\n• Drivers, firmware, embedded software\n• X Windows\n• Graphics display technology\n• Quality\n• EE background\n• High performance code\n• Debugging\n• Troubleshooting\n• Flexible, team player"
+  },
+  "positions": [
+    {
+      "title": "Software Engineer, Linux system software, C/C++, drivers, troubleshooting",
+      "companyName": "Seagate Technology",
+      "location": "Longmont, Colorado",
+      "description": "Linux system software, C/C++, drivers, troubleshooting",
+      "date1": "Apr 2013 – Present",
+      "date2": "6 yrs 8 mos"
+    },
+    {
+      "title": "Hewlett-Packard",
+      "location": "Northern Colorado",
+      "description": "15+ years experience in UNIX/Linux system software, C/C++, drivers, displays, firmware, embedded, troubleshooting, X Windows, Motif.\n\nCaught in large downsizing cycle by Hewlett-Packard.",
+      "date1": "Jun 2012 – Mar 2013",
+      "date2": "10 mos",
+      "roles": [
+        {
+          "title": "Hewlett-Packard alumnus, Software developer, UNIX/Linux system software, C/C++, drivers, firmware",
+          "date1": "Jun 2012 – Mar 2013",
+          "date2": "10 mos",
+          "location": "Northern Colorado"
+        },
+        {
+          "title": "Software Engineer, UNIX/Linux system software, C/C++, drivers, troubleshooting",
+          "date1": "Jan 2012 – Jun 2012",
+          "date2": "6 mos",
+          "location": "Northern Colorado"
+        },
+        {
+          "title": "Software Engineer, UNIX system software, C/C++, drivers, troubleshooting, software lifecycle",
+          "date1": "Jan 2010 – Dec 2011",
+          "date2": "2 yrs"
+        },
+        {
+          "title": "Software Engineer, UNIX system software, graphics displays, C/C++, assembly, drivers, debugging",
+          "date1": "Dec 1997 – Dec 2009",
+          "date2": "12 yrs 1 mo"
+        },
+        {
+          "title": "Software Engineer, international experience, graphics displays, C/C++, drivers",
+          "date1": "May 1997 – Nov 1997",
+          "date2": "7 mos"
+        },
+        {
+          "title": "Software Engineer, imaging, UNIX system software, C/C++, drivers, high performance code",
+          "date1": "Jan 1995 – Apr 1997",
+          "date2": "2 yrs 4 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nHewlett-Packard alumnus, Software developer, UNIX/Linux system software, C/C++, drivers, firmware",
+      "location": "Northern Colorado",
+      "description": "15+ years experience in UNIX/Linux system software, C/C++, drivers, displays, firmware, embedded, troubleshooting, X Windows, Motif.\n\nCaught in large downsizing cycle by Hewlett-Packard.",
+      "date1": "Jun 2012 – Mar 2013",
+      "date2": "10 mos",
+      "roles": [
+        {
+          "title": "Hewlett-Packard alumnus, Software developer, UNIX/Linux system software, C/C++, drivers, firmware",
+          "date1": "Jun 2012 – Mar 2013",
+          "date2": "10 mos",
+          "location": "Northern Colorado"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSoftware Engineer, UNIX/Linux system software, C/C++, drivers, troubleshooting",
+      "location": "Northern Colorado",
+      "description": "Linux Kernel Maintenance\nResponded to defect reports from customers. Ensured a trouble free operation of the customers’ mission critical system.\n\n• Performed troubleshooting to discover the root cause of reported defects.\n• Searched for defect fixes in the open source community.\n• Coordinated defect fixes with Redhat and SuSE to ensure their release in next OS distribution.\n…\nsee more",
+      "date1": "Jan 2012 – Jun 2012",
+      "date2": "6 mos",
+      "roles": [
+        {
+          "title": "Software Engineer, UNIX/Linux system software, C/C++, drivers, troubleshooting",
+          "date1": "Jan 2012 – Jun 2012",
+          "date2": "6 mos",
+          "location": "Northern Colorado"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSoftware Engineer, UNIX system software, C/C++, drivers, troubleshooting, software lifecycle",
+      "description": "HP-UX kernel developer\nDeveloped operating system code for HP’s line of mission critical UNIX servers.\n\n• Developed machine dependent code to support new hardware and new software features.\n• Responded to defect reports. Fixed defects and created patches for the OS. This minimized the downtime of the customers’ systems.\n• Performed regression testing before each new OS release.\n…\nsee more",
+      "date1": "Jan 2010 – Dec 2011",
+      "date2": "2 yrs",
+      "roles": [
+        {
+          "title": "Software Engineer, UNIX system software, C/C++, drivers, troubleshooting, software lifecycle",
+          "date1": "Jan 2010 – Dec 2011",
+          "date2": "2 yrs"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSoftware Engineer, UNIX system software, graphics displays, C/C++, assembly, drivers, debugging",
+      "description": "Graphics software development\nDeveloped and maintained window system for HP-UX machines.\n\n• Lead engineer for developing the X Windows product for HP-UX servers. Leveraged the display technology across server platforms.\n• Developed drivers for HP proprietary and OEM graphics display cards on HP-UX workstations.\n• Tuned the driver code to increase the display performance, allowing third party applications to run faster on HP computers. This made the HP systems be industry leaders for CAD applications.\n• Ported the evdev input driver for X Windows to enable remote display technology. This allowed access to the computer console in a remote lights-out computer facility.\n• Programmed the display card’s PLL circuitry to generate monitor timings for new monitors. This allowed the use of modern monitors with HP workstations.\n• Developed Video BIOS firmware to initialize display cards and provide a boot console. This kept the device dependent initialization out of the OS and with the display, making the introduction of new displays easier.\n…\nsee more",
+      "date1": "Dec 1997 – Dec 2009",
+      "date2": "12 yrs 1 mo",
+      "roles": [
+        {
+          "title": "Software Engineer, UNIX system software, graphics displays, C/C++, assembly, drivers, debugging",
+          "date1": "Dec 1997 – Dec 2009",
+          "date2": "12 yrs 1 mo"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSoftware Engineer, international experience, graphics displays, C/C++, drivers",
+      "description": "Graphics software development – Shanghai division\nGraphics technology transfer to establish a new division in China.\n\n• Consulted for and trained Chinese engineers to establish a software development project in China. This was a government requirement to be able to sell HP systems in China.\n…\nsee more",
+      "date1": "May 1997 – Nov 1997",
+      "date2": "7 mos",
+      "roles": [
+        {
+          "title": "Software Engineer, international experience, graphics displays, C/C++, drivers",
+          "date1": "May 1997 – Nov 1997",
+          "date2": "7 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSoftware Engineer, imaging, UNIX system software, C/C++, drivers, high performance code",
+      "description": "Medical Imaging system\nDeveloped a driver for an imaging display.\n\n• The driver allowed for fast manipulation of medical images. This made the HP workstations interesting to the medical community.\n…\nsee more",
+      "date1": "Jan 1995 – Apr 1997",
+      "date2": "2 yrs 4 mos",
+      "roles": [
+        {
+          "title": "Software Engineer, imaging, UNIX system software, C/C++, drivers, high performance code",
+          "date1": "Jan 1995 – Apr 1997",
+          "date2": "2 yrs 4 mos"
+        }
+      ]
+    }
+  ],
+  "educations": [
+    {
+      "title": "Illinois Institute of Technology",
+      "degree": "Master of Science (M.S.)",
+      "fieldofstudy": "Electrical and Electronics Engineering"
+    },
+    {
+      "title": "Illinois Institute of Technology",
+      "degree": "Bachelor of Science (B.S.)",
+      "fieldofstudy": "Electrical and Electronics Engineering"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Unix",
+      "count": "10"
+    },
+    {
+      "title": "Software Development",
+      "count": "7"
+    },
+    {
+      "title": "Linux",
+      "count": "7"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "1",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/paul-anderson-7346a18/",
+        "text": "I worked with Ales at Hewlett-Packard in the Workstation R&D Lab developing graphics products for HP-UX workstations. Ales is an excellent software engineer. He is dependable and delivers on his commitments. Ales understands the underlying graphics hardware and system interactions, and he is able to write efficient, high performance code. He also has excellent debugging skills and can efficiently triage and fix complex problems.\n…\nSee more"
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Ales Fiala",
+    "headline": "Software Engineer at Seagate Technology",
+    "imageurl": "https://media.licdn.com/dms/image/C5103AQEDBIJC1qdnfQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=fvb-aepUkhb0ykwycHl84DEL2zjuRmqV4RCDLixT5_8",
+    "location": "Fort Collins, Colorado Area",
+    "connections": "87",
+    "summary": "Software engineer with extensive experience in developing drivers, firmware, machine dependent code, graphics systems, and higher level application code in the Unix/Linux environment. Electrical Engineer background gives me insight into hardware subsystems and ability to write code at the hardware/software interface level. Experienced in all phases of the software lifecycle. Commitment to quality defect-free code. International experience. Fluent in Czech language. Remote work experience. Passionate about delivering products that make customer more productive.\n\nSpecialties: • Unix/Linux experience\n• Drivers, firmware, embedded software\n• X Windows\n• Graphics display technology\n• Quality\n• EE background\n• High performance code\n• Debugging\n• Troubleshooting\n• Flexible, team player"
+  }
+}

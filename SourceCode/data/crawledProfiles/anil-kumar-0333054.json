@@ -1,0 +1,357 @@
+{
+  "profileAlternative": {
+    "name": "Anil Kumar",
+    "headline": "Datacenter Performance Architect at Intel Corporation",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQGcG_IM9H1hIQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=_k9OBbWZ4i4ZmWRXcS2u0-MylM7keGeiUq7XJp3Tozk",
+    "location": "Portland, Oregon Area",
+    "connections": "500+",
+    "summary": "Over the years, I have traversed unique path in runtimes optimizations, performance, and scaling, open source, leading standards, architecting benchmarks, understanding and influencing emerging ecosystems as well as enterprise production environments of bare-metal and cloud. My specialization in computer architecture with electrical engineering background and proven record of delivering and working across enterprise customers have complemented my skills of team building and leading in futuristic unchartered opportunities.\n\nNow, I am looking for a role to continue to learn about new technologies in enterprise and cloud as well as strategically enabling ecosystems to leverage latest SW and HW technologies for optimal performance and maximizing ROI (Return on Investment). My passion is to lead projects involving diverse groups working on performance analysis including developing tools, benchmarks, methodology etc. and best of all, wrapping my mind around huge amount of performance data and analytics.\n\nAs chair of the Java committee at SPEC, I have successfully lead teams to derive benchmarks where competing companies have divergent views and end goals. This committee is responsible for all Java benchmarks at SPEC and has released one of the most popular Java benchmark SPECjbb*. I have also represented Intel at Java JCP Executive Committee responsible for future enhancements.\n\nI have played very effective role of Java Evangelist at various industry forums like JavaOne, SouJava Brazil and Java User groups. I have delivered several presentations and keynotes about the role of Intel in Java as well as Java Optimizations on IA. During last three years I have managed runtimes .NET for one year and later scripting language runtimes team with special responsibility for Node.js by establishing Intel as one the core members of Node.js community. In addition, playing important role in understanding emerging containers and FaaS (Function as a Service) where Node.js is key."
+  },
+  "aboutAlternative": {
+    "text": "Over the years, I have traversed unique path in runtimes optimizations, performance, and scaling, open source, leading standards, architecting benchmarks, understanding and influencing emerging ecosystems as well as enterprise production environments of bare-metal and cloud. My specialization in computer architecture with electrical engineering background and proven record of delivering and working across enterprise customers have complemented my skills of team building and leading in futuristic unchartered opportunities.\n\nNow, I am looking for a role to continue to learn about new technologies in enterprise and cloud as well as strategically enabling ecosystems to leverage latest SW and HW technologies for optimal performance and maximizing ROI (Return on Investment). My passion is to lead projects involving diverse groups working on performance analysis including developing tools, benchmarks, methodology etc. and best of all, wrapping my mind around huge amount of performance data and analytics.\n\nAs chair of the Java committee at SPEC, I have successfully lead teams to derive benchmarks where competing companies have divergent views and end goals. This committee is responsible for all Java benchmarks at SPEC and has released one of the most popular Java benchmark SPECjbb*. I have also represented Intel at Java JCP Executive Committee responsible for future enhancements.\n\nI have played very effective role of Java Evangelist at various industry forums like JavaOne, SouJava Brazil and Java User groups. I have delivered several presentations and keynotes about the role of Intel in Java as well as Java Optimizations on IA. During last three years I have managed runtimes .NET for one year and later scripting language runtimes team with special responsibility for Node.js by establishing Intel as one the core members of Node.js community. In addition, playing important role in understanding emerging containers and FaaS (Function as a Service) where Node.js is key."
+  },
+  "positions": [
+    {
+      "title": "Intel Corporation",
+      "location": "Portland, Oregon Area",
+      "description": "As datacenter performance architect, my role and responsibilities are:\n+ Current usages of datacenter by various customers in the cloud as well as on-prem\n+ Understanding future trends for datacenter usages, architecture, competition, etc.\n+ Collaborate across the industry to create representative workloads and benchmarks\n+ Share best-known methods for optimal performance and response time for production deployments\n+ Pathfinding for complete end-to-end platforms for future architectures",
+      "date1": "Feb 2018 – Present",
+      "date2": "1 yr 10 mos",
+      "roles": [
+        {
+          "title": "Datacenter Performance Architect",
+          "date1": "Feb 2018 – Present",
+          "date2": "1 yr 10 mos",
+          "location": "Portland, Oregon Area"
+        },
+        {
+          "title": "Engineering Manager Scripting Languages and performance architect",
+          "date1": "Jan 2016 – Feb 2018",
+          "date2": "2 yrs 2 mos",
+          "location": "Portland, Oregon Area"
+        },
+        {
+          "title": "Engineering Manager Software Optimizations for .NET runtimes and web technologies",
+          "date1": "Dec 2014 – Jan 2016",
+          "date2": "1 yr 2 mos",
+          "location": "Hillsboro, OR"
+        },
+        {
+          "title": "JCP EC (Java Community Process) Executive Committee: Intel representative",
+          "date1": "Feb 2011 – May 2015",
+          "date2": "4 yrs 4 mos"
+        },
+        {
+          "title": "Android UX and Performance Architect for workloads",
+          "date1": "Aug 2013 – Dec 2014",
+          "date2": "1 yr 5 mos",
+          "location": "Portland, Oregon Area"
+        },
+        {
+          "title": "Java Performance Architect",
+          "date1": "May 2002 – Aug 2013",
+          "date2": "11 yrs 4 mos",
+          "location": "Portland, Oregon Area"
+        },
+        {
+          "title": "Software Engineer",
+          "date1": "Mar 2000 – May 2002",
+          "date2": "2 yrs 3 mos"
+        },
+        {
+          "title": "System Engineer",
+          "date1": "Oct 1997 – Mar 2000",
+          "date2": "2 yrs 6 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nDatacenter Performance Architect",
+      "location": "Portland, Oregon Area",
+      "description": "As datacenter performance architect, my role and responsibilities are:\n+ Current usages of datacenter by various customers in the cloud as well as on-prem\n+ Understanding future trends for datacenter usages, architecture, competition, etc.\n+ Collaborate across the industry to create representative workloads and benchmarks\n+ Share best-known methods for optimal performance and response time for production deployments\n+ Pathfinding for complete end-to-end platforms for future architectures",
+      "date1": "Feb 2018 – Present",
+      "date2": "1 yr 10 mos",
+      "roles": [
+        {
+          "title": "Datacenter Performance Architect",
+          "date1": "Feb 2018 – Present",
+          "date2": "1 yr 10 mos",
+          "location": "Portland, Oregon Area"
+        }
+      ]
+    },
+    {
+      "title": "Title\nEngineering Manager Scripting Languages and performance architect",
+      "location": "Portland, Oregon Area",
+      "description": "Roles:\n+ Manage scripting languages team working on Node.js, Python, HHVM and PHP\n+ Special lead role for Node.js to understand and influence ecosystem and customer deployments\n+ Open sourcing of Intel contributions to Node.js\n+ Leading regression testing of various runtimes at https://languagesperformance.intel.com/\n+ Additional role of performance architect for Java benchmarks across organizations\n+ Understanding emerging technologies like containers and FaaS\n\nKey achievements:\n+ In one year, established Intel Node.js team from no presence at the beginning to be among Node.js important contributors as well as being well known in the Node.js community\n+ As a result, we are invited to the selected group of participants for Node.js like advisory, governance, Node Benchmarking etc.\n+ Lead the effort to open source Node.js workloads for Data Center at https://github.com/Node-DC\n+ Architected workload Node-DC-EIS which exercises core APIs\n+ Open sourced the Node-DC-EIS https://github.com/Node-DC/Node-DC-EIS and added it to Node Benchmarking https://benchmarking.nodejs.org/\n+ Architected workload Node-DC-SSR in collaboration with customer Walmart Labs real use case of Server Side Rendering and open sourced it at https://github.com/Node-DC/Node-DC-SSR\n+ Delivered a talk at Node Summit 2017 http://www.nodesummit.com/ about what is needed to take Node.js to next level for enterprise adoption\n+ Delivered a talk at Node Interactive 2017 http://events.linuxfoundation.org/events/node-interactive about Node-DC-EIS exercising core Node.js APIs\n+ Delivered first analysis of impact of containers for Node.js use cases as well as competitive evaluation for relevant metric for container with Node.js\n\n…\nsee more",
+      "date1": "Jan 2016 – Feb 2018",
+      "date2": "2 yrs 2 mos",
+      "roles": [
+        {
+          "title": "Engineering Manager Scripting Languages and performance architect",
+          "date1": "Jan 2016 – Feb 2018",
+          "date2": "2 yrs 2 mos",
+          "location": "Portland, Oregon Area"
+        }
+      ]
+    },
+    {
+      "title": "Title\nEngineering Manager Software Optimizations for .NET runtimes and web technologies",
+      "location": "Hillsboro, OR",
+      "description": "Roles:\n+ Hiring and creating team from the scratch\n+ Managing Oregon team for .NET and web technologies\n+ Open sourcing of contributions by .NET Runtime and Chakra JavaScript Engine\n+ Additional role of performance architect\n\nKey achievements:\n+ Built a new team over 6 months which included 3 top optimization engineers from industry and others as new graduates\n+ As Microsoft announced to Open Source .NET framework and runtime, lead the effort to establish Intel as core contributor for .NET runtimes\n+ Established a path setting process to open source Microsoft related open source projects as license issue is much more complex\n+ Working with junior engineers, guided them to contribute three optimizations related to compression and strings to .NET runtimes\n+ Identified lack of representative .NET workloads and guided to create new 3-tier .NET workload based on “Music Web Store .NET” for internal use\n+ As role of performance architect published optimization paper https://software.intel.com/en-us/articles/boost-javascript-performance-by-exploiting-vectorization\n\n…\nsee more",
+      "date1": "Dec 2014 – Jan 2016",
+      "date2": "1 yr 2 mos",
+      "roles": [
+        {
+          "title": "Engineering Manager Software Optimizations for .NET runtimes and web technologies",
+          "date1": "Dec 2014 – Jan 2016",
+          "date2": "1 yr 2 mos",
+          "location": "Hillsboro, OR"
+        }
+      ]
+    },
+    {
+      "title": "Title\nJCP EC (Java Community Process) Executive Committee: Intel representative",
+      "description": "Roles\n+ Represent Intel : JCP EC (Java Community Process) Executive Committee\n+ Bio and other information: http://jcp.org/en/participation/committee\n\nKey achievements:\n+ Make the JCP process as transparent as possible\n+ Evaluate JSRs(Java Specification Requests) to ensure Java is keeping up with the eco-system as well as platform of choice for innovation\n+ Delivered several talks to Java User Groups in Bay Area, NYC and Brazil about enterprise Java applications responsiveness and how they can leverage Java optimizations for Intel platforms and deploy Best Known Methods developed by Intel Java team\n…\nsee more",
+      "date1": "Feb 2011 – May 2015",
+      "date2": "4 yrs 4 mos",
+      "roles": [
+        {
+          "title": "JCP EC (Java Community Process) Executive Committee: Intel representative",
+          "date1": "Feb 2011 – May 2015",
+          "date2": "4 yrs 4 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nAndroid UX and Performance Architect for workloads",
+      "location": "Portland, Oregon Area",
+      "description": "Roles:\n+ Understand Android UX using top 100 real world apps\n+ Develop Android workloads\n\nKey achievements:\n+ Comprehensive analysis using top 100 Android real world apps\n+ Architected Icy Rocks workload which was used at Google I/O 2014\n+ This is industry first workload to measure jitters using APIs instead of external devices\n+ Icy Rocks helped in identifying power and performance issues in Android devices as well as competitive evaluation\n\n…\nsee more",
+      "date1": "Aug 2013 – Dec 2014",
+      "date2": "1 yr 5 mos",
+      "roles": [
+        {
+          "title": "Android UX and Performance Architect for workloads",
+          "date1": "Aug 2013 – Dec 2014",
+          "date2": "1 yr 5 mos",
+          "location": "Portland, Oregon Area"
+        }
+      ]
+    },
+    {
+      "title": "Title\nJava Performance Architect",
+      "location": "Portland, Oregon Area",
+      "description": "Roles:\n+ Java: Understand ecosystem as well as real customer deployments\n+ Java: Identify Optimizations and deliver Best Known Methodologies to Java customers\n+ Data Center: Understand use cases for private and public clouds, virtualization and runtimes\n+ Data Center: Architecting new workloads exercising end-to-end scenarios as well as power, performance and scaling\n+ Data Center: Enable server platforms for best out of box performance as well as best user experience\n+ Client: Workloads for evaluating mobile devices for power and performance\n+ Competition: Evaluate competitive landscape\n+ Team: Mentor teams in remote Geo-locations\n+ Standards: + Represent Intel at industry standards\n\nKey achievements:\n+ Worked with many enterprise customers Salesforce.com, eBay, Oracle, CIGNA, AT&T and energy like Landmark (subsidiary of Halliburton) and finance response time sensitive customers like NASDAQ, BoA, Citi, Credit Suisse, Goldman Sachs etc. to analyze the complete stack from HW to SW. Identified bottlenecks and suggested changes and optimizations resulting significant improvement in scaling and responsiveness. I can provide only general details due to critical customer business confidentiality.\n+ Represented Intel at JCP Executive Committee and drove Java adoption for IA platforms\n+ Workloads and other details are in JCP and SPEC OSGjava representative sections\n+ Established core relationship with critical Java teams at BEA, Sun and IBM\n+ Contributed to optimizations to Java VM for GC and enabled new ISA changes\n+ Enabled top OEMs like Dell, HP, IBM, Fujitsu with Java Best Known Methods\n+ Influenced customers to switch to IA platform based servers as part of strategic response team\n+ Identified out-of-box performance and power issues when competition was challenging IA based servers. Lead the path setting process to ensure that optimal out-of-box configurations are evaluated internally first and then conveyed to OEMs in trackable manner.\n…\nsee more",
+      "date1": "May 2002 – Aug 2013",
+      "date2": "11 yrs 4 mos",
+      "roles": [
+        {
+          "title": "Java Performance Architect",
+          "date1": "May 2002 – Aug 2013",
+          "date2": "11 yrs 4 mos",
+          "location": "Portland, Oregon Area"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSoftware Engineer",
+      "description": "Designed Peer-to-Peer namespace caching\nArchitected APIs to store Peer-to-Peer metadata\nOverall Peer-to-Peer scaling and validation",
+      "date1": "Mar 2000 – May 2002",
+      "date2": "2 yrs 3 mos",
+      "roles": [
+        {
+          "title": "Software Engineer",
+          "date1": "Mar 2000 – May 2002",
+          "date2": "2 yrs 3 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSystem Engineer",
+      "description": "Disk I/O analysis and optimizations\nDDR Memory simulation\nArchitecture analysis of VIP graphics port\nDevelopment of DVI port\nIntel PC test suite for DVI\n…\nsee more",
+      "date1": "Oct 1997 – Mar 2000",
+      "date2": "2 yrs 6 mos",
+      "roles": [
+        {
+          "title": "System Engineer",
+          "date1": "Oct 1997 – Mar 2000",
+          "date2": "2 yrs 6 mos"
+        }
+      ]
+    },
+    {
+      "title": "Chair OSGjava/SPEC and Intel Representative",
+      "companyName": "Standard Performance Evaluation Corporation",
+      "description": "Java Chair (May 2014 - present)\nJava Vice-Chair (2004 - May 2014)\n\nRole:\n+ Developing industry standard benchmarks which represent latest eco-system as well as fairly represent diverse platforms and architectures with relevant metrics\n\nKey achievements:\n+ Key member of team which developed SPECjbb2005 benchmark\n+ As industry was looking for a power and performance benchmark, played key role in architecting industry first power and performance benchmark SPECpower_ssj2008. This is one of the most established benchmark for power and performance.\n+ Architected benchmark SPECjvm2008 which is a suite of several medium size benchmarks\n+ Architected as well as lead SPECjbb2015 development team\n+ SPECjbb2015 has many first in any industry standard benchmark features like response time with sub-millisecond granularity across the complete range of utilization from idle to full system utilization.\n+ Benchmark has two metrics: max-jOPS representing full systems capacity and critical-jOPS indicating responsiveness of the system under SLA (Service Level Agreement)\n+ A detailed Response-Throughput Curve for detailed performance analysis\n+ Benchmark also has three deployment categories to cover single JVM scaling, multiple JVM scaling as well as deployment inside Cloud and Virtualization environments\n+ As SPEC (www.spec.org) chair for Java subcommittee, lead the effort to release SPECjbb2015 v1.01 which addresses Java JDK 9.0 related changes\n+ Received SPECtacular award from SPEC President for leading the release of SPECjbb2015 benchmark\n…\nsee more",
+      "date1": "2004 – Present",
+      "date2": "15 yrs"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Portland State University",
+      "degree": "MS in Electrical and Computer Engineering",
+      "fieldofstudy": "Computer Architecture",
+      "date1": "1995",
+      "date2": "1997"
+    },
+    {
+      "title": "College of Technology, GB Pant University, Pantnagar",
+      "degree": "Bachelor of Technology (B.Tech.)",
+      "fieldofstudy": "Electrical Engineering"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Computer Architecture",
+      "count": "20"
+    },
+    {
+      "title": "Processors",
+      "count": "18"
+    },
+    {
+      "title": "System Architecture",
+      "count": "13"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "4",
+    "receivedCount": "2",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/jimmy-leon-714683a/",
+        "text": "I've worked with Anil over last few years working on a variety of performance and competitive server evaluation projects. I've found Anil to very knowledgeable across a variety of competing architectures. He is specially very knowledgeable on emerging technologies such a Network Function Virtualization and Packet Processing. His knowledge of Linux, specially, compiling and debugging kernels were very valuable to my group. I would highly recommend Anil to any company considering him for a position.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/walterbays/",
+        "text": "Colleagues in SPEC.org, partners and competitors alike, gave Anil a SPECtacular award for outstanding work on SPECjbb2013. The new benchmark includes Java 7 features, XML, compressed communication, secure messaging, virtualization and cloud computing support, and a metric of critical throughput under service-level agreements (SLAs) specifying response times. Anil has been an excellent vice-chair of the Java committee, and has done an excellent job co-leading SPECjbb2013 development.\n…\nSee more"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/gauravseth/",
+        "text": "I collaborated with Gaurav for Node.js project. I found him to be amazing strategic thinker, flawless execution as well as someone you can trust. During the ambiguous phases of the project, Gaurav helped in open dialogue and guided to reach decisions which serves the interests of all Node community as well as enterprise. He has excellent technical knowledge and he is gifted when communicating complex issues across diverse groups with competing interest. One can also tell the character of a person based on responsiveness during the time of need. Whenever I needed some strategic thinking discussion, he was always very responsive even when on vacation half way across the world. Gaurav is a great strategic and technical leader for any group and community."
+      },
+      {
+        "user": "https://www.linkedin.com/in/mihvoi/",
+        "text": "Mihai is excellent in Java programming, architecture and debug applications. For his work as part of SPECjbb2015, he debugged the issues and provided very robust solution. I would recommended Mihai without any hesitation."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "19",
+      "items": [
+        "QCon SFO talk: Scaling up Performance Benchmarking",
+        "Node Interactive 2017 Speaker",
+        "Node Summit 2017 speaker",
+        "Boost JavaScript* Performance by Exploiting Vectorization using SIMD.js",
+        "Icy Rocks Workload: A Real Workload for the Android* Platform",
+        "5 Ways to Optimize Your Code for Android 5.0 Lollipop",
+        "Intel and Oracle: Performance, Innovation and Success",
+        "Speaker at JavaOne 2013",
+        "International Speaker at SouJava 2013, Sao Paulo, Brazil",
+        "Speaker at JavaOne 2012",
+        "Speaker at JavaOne2012",
+        "Speaker at JavaOne2012",
+        "Speaker at JustJava 2012, Sao Paulo, Brazil",
+        "7 Deadly Sins of Enterprise Java Programming and Deployment in Multicore Era",
+        "Speaker at NY Java SIG",
+        "Speaker for invited talk at SIPEW 2008 Darmstadt Germany",
+        "Speaker at SPEC workshop 2008 San Francisco",
+        "Workload Characterization of the SPECpower_ssj2008 Benchmark",
+        "SPECjbb2005 characterization"
+      ]
+    },
+    {
+      "count": "7",
+      "items": [
+        "Advance Computer Architecture I and II",
+        "Basic Computer Architecture",
+        "Computer Algorithms",
+        "Image Processing algorithms",
+        "Network Protocols and security",
+        "Programming C and C++",
+        "VLSI design"
+      ]
+    },
+    {
+      "count": "5",
+      "items": [
+        "SPECtacular Award",
+        "SPEC Benchmark Release",
+        "SPECTACULAR",
+        "SPECTACULAR",
+        "Kaivalya Dixit Award"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "C / C++",
+        "FORTRAN",
+        "Java"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/thanajirao/",
+      "text": "Software Engineer at Intel"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shirish-aundhe-95a8925/",
+      "text": "Director of Java and open-source DB Engineering at Intel"
+    },
+    {
+      "user": "https://www.linkedin.com/in/hameshpatel/",
+      "text": "Principal Engineer at Intel Corporation"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jeff-smits-4916a36/",
+      "text": "Director, Server Software Performance at Intel"
+    },
+    {
+      "user": "https://www.linkedin.com/in/eric-p-kaczmarek-a6a87968/",
+      "text": "Datacenter Performance Engineering Manager"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shulinggarver/",
+      "text": "Retired Intel Corporation"
+    },
+    {
+      "user": "https://www.linkedin.com/in/coreygough/",
+      "text": "Senior Principal Engineer at Intel Corporation"
+    },
+    {
+      "user": "https://www.linkedin.com/in/atiqbajwa/",
+      "text": "Chief Architect, Ampere"
+    },
+    {
+      "user": "https://www.linkedin.com/in/padma-apparao/",
+      "text": "Performance Engineering, Machine Learning and Data Analytics"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ayman-fayed-a12b2617/",
+      "text": "Engineering Manager, Intel Corporation"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Science Fair Judge",
+      "experience": "Intel ISEF",
+      "description": "Science and Technology",
+      "date1": "Feb 2010",
+      "date2": "1 mo"
+    }
+  ],
+  "profile": {
+    "name": "Anil Kumar",
+    "headline": "Datacenter Performance Architect at Intel Corporation",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQGcG_IM9H1hIQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=_k9OBbWZ4i4ZmWRXcS2u0-MylM7keGeiUq7XJp3Tozk",
+    "location": "Portland, Oregon Area",
+    "connections": "500+",
+    "summary": "Over the years, I have traversed unique path in runtimes optimizations, performance, and scaling, open source, leading standards, architecting benchmarks, understanding and influencing emerging ecosystems as well as enterprise production environments of bare-metal and cloud. My specialization in computer architecture with electrical engineering background and proven record of delivering and working across enterprise customers have complemented my skills of team building and leading in futuristic unchartered opportunities.\n\nNow, I am looking for a role to continue to learn about new technologies in enterprise and cloud as well as strategically enabling ecosystems to leverage latest SW and HW technologies for optimal performance and maximizing ROI (Return on Investment). My passion is to lead projects involving diverse groups working on performance analysis including developing tools, benchmarks, methodology etc. and best of all, wrapping my mind around huge amount of performance data and analytics.\n\nAs chair of the Java committee at SPEC, I have successfully lead teams to derive benchmarks where competing companies have divergent views and end goals. This committee is responsible for all Java benchmarks at SPEC and has released one of the most popular Java benchmark SPECjbb*. I have also represented Intel at Java JCP Executive Committee responsible for future enhancements.\n\nI have played very effective role of Java Evangelist at various industry forums like JavaOne, SouJava Brazil and Java User groups. I have delivered several presentations and keynotes about the role of Intel in Java as well as Java Optimizations on IA. During last three years I have managed runtimes .NET for one year and later scripting language runtimes team with special responsibility for Node.js by establishing Intel as one the core members of Node.js community. In addition, playing important role in understanding emerging containers and FaaS (Function as a Service) where Node.js is key."
+  }
+}

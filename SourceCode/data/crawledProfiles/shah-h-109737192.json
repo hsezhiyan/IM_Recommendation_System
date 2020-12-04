@@ -1,0 +1,130 @@
+{
+  "profileAlternative": {
+    "name": "Shah H",
+    "headline": "Python Developer at Amazon",
+    "imageurl": "https://media.licdn.com/dms/image/C5103AQEpSm-FB3B6lA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=ODPHd4TikvVEVRNih7BpMWTIbaGq8DxGpzLDzd9mFOo",
+    "location": "Seattle, Washington",
+    "connections": "114",
+    "summary": "Around 5 year of experience in software development in Python (libraries used: Beautiful Soup, NumPy, Skit learn, SciPy, Turtle, Tkinter, urllib2, matplotlib, Python-twitter, Pandas data frame, MySQL dB for database connectivity) and IDEs - sublime text, Spyder, PyCharm.Strong background in programming, committed to maintaining technical skills and to be up-to-date with industry knowledge. Have good knowledge on NoSQL databases like Cassandra and MongoDB and SQL databases like MySQL, PostgreSQL and SQLite3.Extensive experience in system analysis, design, development and implementation of web based and client/server application using HTML, CSS, Bootstrap, AngularJS, JavaScript, Python, Django.Experience in Setup hosting on AWS EC2 instance and used Amazon SES for email delivery and hands-on experience on SCM tools like GIT, containers like Docker.Experienced in Backend applications using Python/Flask and SQL/ PostgreSQL. Hands-on experience in writing and reviewing requirements, architecture documents, test plans, design documents, quality analysis and audits. Good experience in developing web applications implementing MVT architecture using tasty pie, Flask, web application frameworks, with good understanding of Django ORM and SQLAlchemy. Experience in working with several python libraries including Beautiful soup, NumPy, matplotlib, SciPy, PyQt, Scapy, SQLAlchemy. Experience in working with Amazon Web Services (AWS) like EC2, S3, EBS, VPC, ELB, Route53, Amazon Simple DB, Amazon RDS, Amazon Elastic Load Balancing, Amazon SQS, AWS identity and access management, AWS Cloud watch, Amazon EBS and Amazon Cloud front, cloud formation and Glacier. Experienced in implementing Microservices, Service Oriented Architecture (SOA) with XML based Web Services (SOAP/WSDL) using Top Down and Bottom Up approach. Hands on with tools Git/GitHub, Ansible, Artifactory, Jenkins, OpenStack, Balance, Node-Proxy, VMWare, and Open Source software to build automated testing."
+  },
+  "aboutAlternative": {
+    "text": "Around 5 year of experience in software development in Python (libraries used: Beautiful Soup, NumPy, Skit learn, SciPy, Turtle, Tkinter, urllib2, matplotlib, Python-twitter, Pandas data frame, MySQL dB for database connectivity) and IDEs - sublime text, Spyder, PyCharm.Strong background in programming, committed to maintaining technical skills and to be up-to-date with industry knowledge. Have good knowledge on NoSQL databases like Cassandra and MongoDB and SQL databases like MySQL, PostgreSQL and SQLite3.Extensive experience in system analysis, design, development and implementation of web based and client/server application using HTML, CSS, Bootstrap, AngularJS, JavaScript, Python, Django.Experience in Setup hosting on AWS EC2 instance and used Amazon SES for email delivery and hands-on experience on SCM tools like GIT, containers like Docker.Experienced in Backend applications using Python/Flask and SQL/ PostgreSQL. Hands-on experience in writing and reviewing requirements, architecture documents, test plans, design documents, quality analysis and audits. Good experience in developing web applications implementing MVT architecture using tasty pie, Flask, web application frameworks, with good understanding of Django ORM and SQLAlchemy. Experience in working with several python libraries including Beautiful soup, NumPy, matplotlib, SciPy, PyQt, Scapy, SQLAlchemy. Experience in working with Amazon Web Services (AWS) like EC2, S3, EBS, VPC, ELB, Route53, Amazon Simple DB, Amazon RDS, Amazon Elastic Load Balancing, Amazon SQS, AWS identity and access management, AWS Cloud watch, Amazon EBS and Amazon Cloud front, cloud formation and Glacier. Experienced in implementing Microservices, Service Oriented Architecture (SOA) with XML based Web Services (SOAP/WSDL) using Top Down and Bottom Up approach. Hands on with tools Git/GitHub, Ansible, Artifactory, Jenkins, OpenStack, Balance, Node-Proxy, VMWare, and Open Source software to build automated testing."
+  },
+  "positions": [
+    {
+      "title": "Python Developer",
+      "companyName": "Amazon",
+      "location": "Greater Seattle Area",
+      "description": "Developed views and templates with Python and Django view controller and templating language to create a user-friendly to interface to perform at a high-level. Used the Django Framework to develop the application and Build all database mapping classes using Django models. Responsible for large-scale Puppet implementation and maintenance. Created AWS Security Groups for deploying and configuring AWS EC2 instances also added support for Amazon AWS S3, cloud formation and RDS to host files and the database into Amazon Cloud. Used Mongoose in order to access the MongoDB from Node JS and used Angular CLI and NPM for scaffolding the Angular Application. Creating snapshots and Amazon machine images of the instances for backup and creating clone instances and performed configuration, deployment and support of cloud services including Amazon Web Services. Used GitHub for Python source code version control, Jenkins for automating the build Docker containers, and deploying in Mesos. Developed internal auxiliary web apps using Python Django framework with Angular.js and Bootstrap CSS / HTML framework. Experienced in Managing build files using ANT. Created custom new columns depending up on the use case while ingesting data into Hadoop lake using PyTable, PySpark, PyMongo, Pickle and Pyside.Worked on Installing Jenkins/Plugins for GIT Repository, Setup SCM Polling for Immediate Build with Maven and Maven Repository and Deployment of apps using custom modules through Puppet as a CI/CD Process.Used APIs to perform transformations and actions on the fly for building common learner data model which gets the data from Kafka in Near real time and persist it to Cassandra.Worked on developing web applications and implementing Model View Control (MVC) architecture using server-side applications like Django. Developed entire frontend and backend modules using Python on Django including Tasty pie Web Framework using Git, Confluence.\n\n…\nsee more",
+      "date1": "Jul 2018 – Present",
+      "date2": "1 yr 5 mos"
+    },
+    {
+      "title": "Python Developer",
+      "companyName": "Accenture",
+      "location": "India",
+      "description": "Developed automated testing framework for command-line based tests on Linux using Object Oriented Perl and for selenium-based tests using Python. Created a Python/Django based web application using Python scripting for data processing, MySQL for the database, and HTML/CSS/jQuery and High Charts for data visualization of the served pages. Achieved business process automation via applications developed using Git, Gerrit, Jenkins, MySQL and custom tools developed in Python and Bash.Developed entire frontend and backend modules using Python on Django including Tasty pie Web Framework using Git, Confluence. Automated builds using Maven and scheduled automated nightly builds using Heroku and Jenkins. Built Jenkins pipeline to drive all microservices builds out to the Docker registry and then deployed to Kubernetes. Worked on microservice-based architecture using spring boot for developing the microservices, Netflix components (eureka, ribbon), spring cloud for supporting the cloud native environment. Using Chef, deployed and configured Elasticsearch, Logstash and Kibana (ELK) for log analytics, full text search, application monitoring in integration with AWS Lambda and CloudWatch.Used Apache CouchDB (NoSQL) in AWS Linux instance in parallel to RDS MySQL to store and analyze job market info.Build an AWS and REDIS server for storing the data and performed defect analysis and interaction with Business Users during UAT/SIT. Developed Restful Microservices using Django and deployed on AWS servers using EBS and EC2 and cloud formation. Designed, configured, and deployed Amazon Web Services (AWS) for applications utilizing the AWS stack (Including EC2, Route53, S3, RDS, Cloud Formation, Cloud Watch, SQS, IAM), focusing on high-availability, fault tolerance, and auto-scaling. Created Data tables utilizing PySpark, PyQT to display customer and policy information and add, delete, update customer records.\n\n…\nsee more",
+      "date1": "Dec 2015 – Jun 2017",
+      "date2": "1 yr 7 mos"
+    },
+    {
+      "title": "Python Developer",
+      "companyName": "TCS",
+      "location": "India",
+      "description": "Used modules Beautiful Soup, SciPy, python-twitter, PyMongo, Celery, NumPy, Jupyter, matplotlib, Urllib2 etc. for generating complex graphical data, creation of histograms etc. Managed Container using Docker by writing Designed and implemented open source AI frameworks - Pytorch, TensorFlow, Scikit-learn, Apache Open Source (Kafka, Storm, Spark) for NLP and ML Algorithms. Used Terraform for managing the infrastructure through the terminal sessions and executing scripts in creating alarms and notifications for EC2 instances using AWS Cloud Watch. Wrote Ansible Playbooks for various applications and deploying them in AWS using Terraform. Deployed, debugged and maintained complex, distributed software stacks, containing Apache Spark, Hadoop HDFS and Python Notebook servers, on cloud-based AWS system by optimizing the stacks for best computational performance and stability.Involved in designing and deploying multitude applications utilizing almost all the AWS services Including EC2, Route53, S3, RDS, Dynamo DB, SNS, SQS, IAM focusing on high-availability, fault tolerance, and auto-scaling in AWS Cloud Formation. Developed and executed various MySQL database queries from Python using Python-MySQL connector and MySQL database package.Private VPN using Ubuntu, Python, Django, Tasty Pie, CherryPy, Postgres, Redis, Bootstrap, jQuery, Mongo, Fabric, Git, Tenjin, Selenium, Sphinx, Nose, Confluence.Developed a fully automated continuous integration system using Git, Gerrit, Jenkins, MySQL and custom tools developed in Python and Bash.Created functions in AWS Lambda to run python scripts and AWS Lambda using java to perform event driven processing.Develop consumer-based features and applications using Python Django, pyramid, Flask, Web2py, HTML, jinja and other web technologies.Python Object Oriented Design code for manufacturing quality, monitoring, logging, and debugging code optimization.\n\n…\nsee more",
+      "date1": "Jan 2015 – Nov 2015",
+      "date2": "11 mos"
+    }
+  ],
+  "educations": [],
+  "skills": [
+    {
+      "title": "Django"
+    },
+    {
+      "title": "PostgreSQL"
+    },
+    {
+      "title": "Git"
+    },
+    {
+      "title": "Amazon Web Services (AWS)"
+    },
+    {
+      "title": "Flask"
+    },
+    {
+      "title": "PL/SQL"
+    },
+    {
+      "title": "JavaScript"
+    },
+    {
+      "title": "Linux"
+    },
+    {
+      "title": "Apache Spark"
+    },
+    {
+      "title": "Apache Kafka"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/ankit-panwar-740173163/",
+      "text": "Lead Python Developer at Macy’s Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/carlos-marin-a08000178/",
+      "text": "Python Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/michfisher/",
+      "text": "Sr. Python Developer at Equifax"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ishan-reddy-b24829191/",
+      "text": "AWS/DevOps Engineer Seeking for a new Opportunities"
+    },
+    {
+      "user": "https://www.linkedin.com/in/chandhu-kumar-1b471411b/",
+      "text": "Python Developer at siemens"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sumit-patel-1b3069183/",
+      "text": "Full Stack Python Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/harsha-vardhan-ch-60740b166/",
+      "text": "Python Developer at Johnson & Johnson"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sapthagiri-venkat/",
+      "text": "Software Developer in Python looking for opportunities in C2C"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jesse-zheng-064299124/",
+      "text": "Software Engineer at Yelp"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sunny-k-9a2622189/",
+      "text": "Sr. Python Developer (Looking for New Contract roles)"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Shah H",
+    "headline": "Python Developer at Amazon",
+    "imageurl": "https://media.licdn.com/dms/image/C5103AQEpSm-FB3B6lA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=ODPHd4TikvVEVRNih7BpMWTIbaGq8DxGpzLDzd9mFOo",
+    "location": "Seattle, Washington",
+    "connections": "114",
+    "summary": "Around 5 year of experience in software development in Python (libraries used: Beautiful Soup, NumPy, Skit learn, SciPy, Turtle, Tkinter, urllib2, matplotlib, Python-twitter, Pandas data frame, MySQL dB for database connectivity) and IDEs - sublime text, Spyder, PyCharm.Strong background in programming, committed to maintaining technical skills and to be up-to-date with industry knowledge. Have good knowledge on NoSQL databases like Cassandra and MongoDB and SQL databases like MySQL, PostgreSQL and SQLite3.Extensive experience in system analysis, design, development and implementation of web based and client/server application using HTML, CSS, Bootstrap, AngularJS, JavaScript, Python, Django.Experience in Setup hosting on AWS EC2 instance and used Amazon SES for email delivery and hands-on experience on SCM tools like GIT, containers like Docker.Experienced in Backend applications using Python/Flask and SQL/ PostgreSQL. Hands-on experience in writing and reviewing requirements, architecture documents, test plans, design documents, quality analysis and audits. Good experience in developing web applications implementing MVT architecture using tasty pie, Flask, web application frameworks, with good understanding of Django ORM and SQLAlchemy. Experience in working with several python libraries including Beautiful soup, NumPy, matplotlib, SciPy, PyQt, Scapy, SQLAlchemy. Experience in working with Amazon Web Services (AWS) like EC2, S3, EBS, VPC, ELB, Route53, Amazon Simple DB, Amazon RDS, Amazon Elastic Load Balancing, Amazon SQS, AWS identity and access management, AWS Cloud watch, Amazon EBS and Amazon Cloud front, cloud formation and Glacier. Experienced in implementing Microservices, Service Oriented Architecture (SOA) with XML based Web Services (SOAP/WSDL) using Top Down and Bottom Up approach. Hands on with tools Git/GitHub, Ansible, Artifactory, Jenkins, OpenStack, Balance, Node-Proxy, VMWare, and Open Source software to build automated testing."
+  }
+}

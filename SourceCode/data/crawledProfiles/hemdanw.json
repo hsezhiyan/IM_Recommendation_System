@@ -1,0 +1,241 @@
+{
+  "profileAlternative": {
+    "name": "Wael Hemdan",
+    "headline": "MATLAB, Data Acquisition Toolbox Team Lead, Senior Software Engineer at The MathWorks",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQHBh-MH5L7cDw/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=kdGrjfr92q67rRYokFOPf4TmuUkWqFEIvoNNfe5cNk0",
+    "location": "Greater Boston Area",
+    "connections": "440",
+    "summary": "12 years of professional experience in Software Engineering. Specialized in C/C++, OOP and ATL/COM based Device Drivers for RF/DSP and Analog AC Instrument Applications.\n\n• Strong programming and debugging skills coupled with expertise in C/C++, OOP, and Design Patterns for DSP, RF/Microwave, and Analog AC Instrument Device Drivers.\n• Excellent UML & Design Patterns software re-architecture and code re-factoring experience on large/complex code base projects of 1+ million lines.\n• 2 years of professional Technical Leadership proactively promoting TQM team-based and Mature SW processes and cross functional leverage.\n• GPA 4.0/4.0 Master of Science, Electrical Engineering, Boston University, 2006.\n\nSpecialties: DSP, Microwave/RF, Analog AC Instruments, C/C++/C#, ATL/COM, .NET, Interop, Excel VBA, STL, OOP, UML and OOAD, Software Architecture, Design Patterns, MATLAB, Simulink, Maple, Embedded G4 PPC Assembly, VxWorks/VisionICE, Multithreaded/IPC, Verilog/VHDL, Cadence (RF/Analog/VLSI), DV, Product Functional Verification, Lab Benchtop Equipment"
+  },
+  "aboutAlternative": {
+    "text": "12 years of professional experience in Software Engineering. Specialized in C/C++, OOP and ATL/COM based Device Drivers for RF/DSP and Analog AC Instrument Applications.\n\n• Strong programming and debugging skills coupled with expertise in C/C++, OOP, and Design Patterns for DSP, RF/Microwave, and Analog AC Instrument Device Drivers.\n• Excellent UML & Design Patterns software re-architecture and code re-factoring experience on large/complex code base projects of 1+ million lines.\n• 2 years of professional Technical Leadership proactively promoting TQM team-based and Mature SW processes and cross functional leverage.\n• GPA 4.0/4.0 Master of Science, Electrical Engineering, Boston University, 2006.\n\nSpecialties: DSP, Microwave/RF, Analog AC Instruments, C/C++/C#, ATL/COM, .NET, Interop, Excel VBA, STL, OOP, UML and OOAD, Software Architecture, Design Patterns, MATLAB, Simulink, Maple, Embedded G4 PPC Assembly, VxWorks/VisionICE, Multithreaded/IPC, Verilog/VHDL, Cadence (RF/Analog/VLSI), DV, Product Functional Verification, Lab Benchtop Equipment"
+  },
+  "positions": [
+    {
+      "title": "MATLAB, Data Acquisition Toolbox Team Lead, Senior Software Engineer",
+      "companyName": "The MathWorks",
+      "date1": "Apr 2009 – Present",
+      "date2": "10 yrs 8 mos"
+    },
+    {
+      "title": "Senior RF/Wireless Software Design Engineer III",
+      "companyName": "Teradyne Inc.",
+      "description": "Design and Implementation of Real Time Embedded RF/Wireless Software Architecture for Microwave 2-Port VNA Drivers, Cross-Platform DSP Engines, and VxWorks RTOS.\n\nDEVICE DRIVERS AND EMBEDDED PROGRAMMING\n• Wrote concept documents, software requirements, functional specifications, design documents, design verification and test strategies.\n• Used Design Patterns to architect DSP Engine device drivers to communicate between embedded DSP modules and Windows host PC services.\n• Re-architected Digital Patterns Driver Framework through a vertically sliced upside-down inheritance OOP model. Reduced new development time 50%\n• Re-architected Microwave VNA embedded drivers to support 2 port S-Parameter calibrated measurements.\n• Researched, designed and implemented G4 PPC real time operating system (RTOS) using VxWorks. Saved Teradyne an estimated $100,000 in contractor fees.\n• Created MATLAB based unit tests for embedded DSP drivers.\n…\nsee more",
+      "date1": "May 1999 – Apr 2009",
+      "date2": "10 yrs"
+    },
+    {
+      "title": "Software Developer",
+      "companyName": "Matrox Graphics Inc.",
+      "description": "• Wrote Win95 and WinNT Device Drivers to program EEPROMS (SDK/DDK, SoftICE)\n• Added and optimized 3D graphics routines using Intel Assembly Language / VTUNE in the Matrox Graphics Accelerator miniport device driver.",
+      "date1": "1996 – 1998",
+      "date2": "2 yrs"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Boston University",
+      "degree": "M.S.",
+      "fieldofstudy": "Electrical Engineering",
+      "date1": "2002",
+      "date2": "2006"
+    },
+    {
+      "title": "McGill University",
+      "degree": "B.Eng.",
+      "fieldofstudy": "Cumputer Engineering",
+      "date1": "1993",
+      "date2": "1999"
+    },
+    {
+      "title": "Manarat"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Embedded Systems",
+      "count": "16"
+    },
+    {
+      "title": "Software Engineering",
+      "count": "15"
+    },
+    {
+      "title": "Debugging",
+      "count": "14"
+    },
+    {
+      "title": "Software Design",
+      "count": "7"
+    },
+    {
+      "title": "Digital Signal Processors",
+      "count": "6"
+    },
+    {
+      "title": "Programming",
+      "count": "4"
+    },
+    {
+      "title": "Design Patterns",
+      "count": "2"
+    },
+    {
+      "title": "OOP",
+      "count": "2"
+    },
+    {
+      "title": "Microcontrollers",
+      "count": "2"
+    },
+    {
+      "title": "SoC",
+      "count": "1"
+    },
+    {
+      "title": "Device Drivers",
+      "count": "5"
+    },
+    {
+      "title": "RTOS",
+      "count": "4"
+    },
+    {
+      "title": "C++",
+      "count": "4"
+    },
+    {
+      "title": "Matlab",
+      "count": "2"
+    },
+    {
+      "title": "Embedded Software",
+      "count": "2"
+    },
+    {
+      "title": "UML",
+      "count": "2"
+    },
+    {
+      "title": "C",
+      "count": "1"
+    },
+    {
+      "title": "Simulink",
+      "count": "1"
+    },
+    {
+      "title": "Perl",
+      "count": "1"
+    },
+    {
+      "title": "Microprocessors",
+      "count": "2"
+    },
+    {
+      "title": "VxWorks",
+      "count": "1"
+    },
+    {
+      "title": "Analog",
+      "count": "1"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "4",
+    "receivedCount": "5",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/niravdalal/",
+        "text": "Wael is a great team-player to work with. His thoroughness and attention to detail combined with deep experience in DSP greatly contributed to the team's success. He's also personable and fun to work with. Wael quickly grasped complex concepts of our DSP application, and took on some of the most difficult programming assignments. I highly recommend Wael and hope to work with him again.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/tomamann/",
+        "text": "I had the pleasure of working with Wael for many years at Teradyne Inc. During that time, Wael demonstrated exceptional product knowledge, technical knowledge, leadership, and dedication to his work. For example, when a critical customer was in need of support in Malaysia, we called on Wael to fix their problems on site. When Wael decided he was going to be part of the DSP software team at Teradyne, he signed up for a graduate course at MIT and aced it. Those are just two examples, but I could provide many. Given the opportunity I would gladly work with Wael again.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/amir-amirfazli-242b763/",
+        "text": "I had the pleasure of having Wael in my team at Teradyne. Wael proved to be a very detail oriented, enthusiastic, and positive member of the team. One could always depend on his on-time delivery with above expectation results. Wael would be a highly-valued asset to any organization, and he is highly recommended."
+      },
+      {
+        "user": "https://www.linkedin.com/in/ken-mandl-66705811/",
+        "text": "Wael has shown an excellent ability to form a diverse group from multiple organizations into a cohesive team that worked seamlessly together to meet a very aggressive release date for a complex microwave instrument. Wael not only tracked a comprehensive set of tasks during this project but was able to keep those tasks prioritized, even in an environment of changing priorities.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/francois-kosie-97b7062/",
+        "text": "Wael is knowledgeable, detail-oriented, and is one of the top engineers I have worked with. As a technical leader he always motivates others to learn and to do the right thing."
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/niravdalal/",
+        "text": "I had the pleasure of working with Nirav on the DSP subsystem. He is a detail oriented and resourceful team player who contributed much, both to the speed and quality of the DSP library. He is also a smart, practical and hard working engineer who knows how to get work done. I would comfortably recommend him as an asset to any company."
+      },
+      {
+        "user": "https://www.linkedin.com/in/gregdionne/",
+        "text": "Greg Dionne is probably one of the most technical engineers I have ever worked with. His strong understanding of RF and DSP concepts has allowed him to solve some very complex problems. I learnt quite a lot from him and would recommend him as someone who would be highly-valued to any organization."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "3",
+      "items": [
+        "Arabic",
+        "English",
+        "French"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/anuroop-g-rao/",
+      "text": "Graduate student actively seeking Full-time opportunities starting May 2018"
+    },
+    {
+      "user": "https://www.linkedin.com/in/rich-caputo-864394ab/",
+      "text": "Master of Finance Candidate at MIT Sloan"
+    },
+    {
+      "user": "https://www.linkedin.com/in/prince-banerjee-367302110/",
+      "text": "Senior Software Engineer, Infrastructure at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/komoni/",
+      "text": "CEO, Founder at Tive Inc. — Real-Time In-Transit Tracking/Visibility"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jing-li-6794654/",
+      "text": "Staff Design Automation Engineer at Skyworks Solutions, Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/dekun-pei/",
+      "text": "Experienced in application development using C++, MATLAB, and Java."
+    },
+    {
+      "user": "https://www.linkedin.com/in/greg-boverman-a2422b3/",
+      "text": "Research scientist interested in image analytics, machine learning for clinical medicine, signal and image processing"
+    },
+    {
+      "user": "https://www.linkedin.com/in/joan-varela-escapa-915027138/",
+      "text": "Operations Team Lead at Raytheon"
+    },
+    {
+      "user": "https://www.linkedin.com/in/akshay-dave-688ab939/",
+      "text": "Recently Graduated Electrical Engineer looking for a Entry Level Position"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ilya-lashuk/",
+      "text": "I'm interested in machine learning, data science, numerical analysis, high performance computing."
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Wael Hemdan",
+    "headline": "MATLAB, Data Acquisition Toolbox Team Lead, Senior Software Engineer at The MathWorks",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQHBh-MH5L7cDw/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=kdGrjfr92q67rRYokFOPf4TmuUkWqFEIvoNNfe5cNk0",
+    "location": "Greater Boston Area",
+    "connections": "440",
+    "summary": "12 years of professional experience in Software Engineering. Specialized in C/C++, OOP and ATL/COM based Device Drivers for RF/DSP and Analog AC Instrument Applications.\n\n• Strong programming and debugging skills coupled with expertise in C/C++, OOP, and Design Patterns for DSP, RF/Microwave, and Analog AC Instrument Device Drivers.\n• Excellent UML & Design Patterns software re-architecture and code re-factoring experience on large/complex code base projects of 1+ million lines.\n• 2 years of professional Technical Leadership proactively promoting TQM team-based and Mature SW processes and cross functional leverage.\n• GPA 4.0/4.0 Master of Science, Electrical Engineering, Boston University, 2006.\n\nSpecialties: DSP, Microwave/RF, Analog AC Instruments, C/C++/C#, ATL/COM, .NET, Interop, Excel VBA, STL, OOP, UML and OOAD, Software Architecture, Design Patterns, MATLAB, Simulink, Maple, Embedded G4 PPC Assembly, VxWorks/VisionICE, Multithreaded/IPC, Verilog/VHDL, Cadence (RF/Analog/VLSI), DV, Product Functional Verification, Lab Benchtop Equipment"
+  }
+}

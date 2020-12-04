@@ -1,0 +1,216 @@
+{
+  "profileAlternative": {
+    "name": "Anupam Dikshit",
+    "headline": "Software Engineering and Leadership",
+    "location": "San Francisco Bay Area",
+    "connections": "500+",
+    "summary": "Goal: Create software which has a useful and widespread impact.\n\nOver 10 years of software development and leadership experience at companies like Uber, Cohesity, Intel, Sun and Optym.\n\nDomains: Distributed systems, autonomous vehicles, payment systems and EDA.\nAlso, self taught data science, machine learning and iOS development.\n\nRecent side-gigs: Developed breadth in autonomous vehicle domain by doing Udacity's self-driving car nanodegree and flying car nano-degree. Concepts learnt: computer vision(opencv), deep learning(tensor flow, keras), Model Predictive and PID controllers, behavior planning, prediction, localization, perception, semantic segmentation and ROS.\n\nCertifications:-\n1) Scrum master (PSM 1)\n2) Cloudera Certiﬁed Specialist in Apache HBase\n3) Cloudera Certified Hadoop Developer\n\nProgramming: C++, Go, Python, R, Java, C\nOther Skills/Packages/Platforms: OO design patterns, iOS development, Hadoop, HBase, Intel’s Threading Building Blocks, Qt, Java, Databases(SQL, mySQL, ODBC, OCCI, JDBC), Machine Learning( Support Vector Machines, Decision Trees), Deep Learning(Tensor Flow, Keras, CNNs), Shiny, ROS"
+  },
+  "aboutAlternative": {
+    "text": "Goal: Create software which has a useful and widespread impact.\n\nOver 10 years of software development and leadership experience at companies like Uber, Cohesity, Intel, Sun and Optym.\n\nDomains: Distributed systems, autonomous vehicles, payment systems and EDA.\nAlso, self taught data science, machine learning and iOS development.\n\nRecent side-gigs: Developed breadth in autonomous vehicle domain by doing Udacity's self-driving car nanodegree and flying car nano-degree. Concepts learnt: computer vision(opencv), deep learning(tensor flow, keras), Model Predictive and PID controllers, behavior planning, prediction, localization, perception, semantic segmentation and ROS.\n\nCertifications:-\n1) Scrum master (PSM 1)\n2) Cloudera Certiﬁed Specialist in Apache HBase\n3) Cloudera Certified Hadoop Developer\n\nProgramming: C++, Go, Python, R, Java, C\nOther Skills/Packages/Platforms: OO design patterns, iOS development, Hadoop, HBase, Intel’s Threading Building Blocks, Qt, Java, Databases(SQL, mySQL, ODBC, OCCI, JDBC), Machine Learning( Support Vector Machines, Decision Trees), Deep Learning(Tensor Flow, Keras, CNNs), Shiny, ROS"
+  },
+  "positions": [
+    {
+      "title": "Tech Lead / Senior Software Engineer II",
+      "companyName": "Uber",
+      "location": "Palo Alto, CA",
+      "description": "I've been working on diverse set of cross-organizational projects with company wide impact. Notable ones are:-\n- Lead the ideation and development of design patterns and supporting infrastrucutre which impacts all micro-services and reduces the tight coupling between them.\n- As part of Computer Vision Platform team developed a config based micro-service which exposes computer vision deep learning models deployed on a heterogeneous ecosystem. The main innovation was to reduce the amount of coding which is required to expose the models while controlling aspects like rate limiting, latency etc.\n- As part of the Money team, developed multiple services and lead couple of company wide projects related to highly scalable distributed payment systems which directly impact the money flow from the riders/payers to driver partners and Uber.\n- Primary technologies used are Java, Go, Python, Kafka, Cassandra, AWS, PyML, PySpark etc.\n- Typical project team size lead were 2-8 people.\n…\nsee more",
+      "date1": "Oct 2016 – Present",
+      "date2": "3 yrs 2 mos"
+    },
+    {
+      "title": "Staff Software Engineer",
+      "companyName": "Cohesity",
+      "location": "Santa Clara, CA",
+      "description": "Started early when there were handful of engineers and was part of growth till over 150 employees. As part of this journey, significant contributions were made both to the distributed filesystem using C++11 and infrastructure using Go.\n- Distributed version of SMB protocol layer on top our distributed filesystem using C++. This work lead to addition for a new market segment for our company and significantly increased the TAM.\n- QoS policy and admission control solution for our product using C++.\n- Distributed solution to keep all nodes' time in sync using C++.\n- Log rotation service using Go.\n- Backbone of our remote debugging solution by utilizing reverse tunnel concepts using C++ and AWS.\n…\nsee more",
+      "date1": "Sep 2014 – Sep 2016",
+      "date2": "2 yrs 1 mo"
+    },
+    {
+      "title": "Software Engineering Manager",
+      "companyName": "Intel Corporation",
+      "location": "Santa Clara, CA",
+      "description": "- Led a team of 8 engineers working on embedded systems (mobile) audio and camera software.\n- Led a software product launch effort from integration to post-deployment phases involving 16 engineers. It was deployed on multimillion Intel based tablet devices.\n- Developed low power management aspect of mobile audio software which involves communication between CPU and external IP.\n- Developed software in the infrastructure group at Intel which develops core data models for Intel proprietary EDA tools in programming languages like C++, C, Java, Tcl and packages like Intel’s Threading Building Blocks, Qt etc.\n- Interfaced with different Intel projects and external vendors to decide over future functionality and improvement in existing features.\n- Spearheaded projects which have improved performance and capacity usage by 3x-10x by caching and design/code optimization.\n…\nsee more",
+      "date1": "May 2007 – Apr 2014",
+      "date2": "7 yrs"
+    },
+    {
+      "title": "Software Intern",
+      "companyName": "Innovative Scheduling",
+      "description": "- Worked on the design and development of the train time optimization engine for the Innovative Train Scheduling Optimizer product. The engine was based on Innovative Scheduling's proprietary network algorithms. I used C++ and databases to develop new modules for both the train routine and train details phases of the product.",
+      "date1": "Jan 2007 – May 2007",
+      "date2": "5 mos"
+    },
+    {
+      "title": "Software Intern",
+      "companyName": "Intel Corp",
+      "description": "- Cache Design for a CAD tool: Designed and developed a cache for the drawing mechanism of a proprietary post and pre-silicon analysis tool. The cache was partitioned into buckets for managing different sized objects for better performance and memory characteristics. The cache supported multiple cache replacement algorithms for efficiently handling different access patterns and yielded a 15% improvement in performance.\n- GUI Development: Was involved in the design and development of the GUI of a pre-silicon analysis tool using C++, Qt (C++ GUI development kit), Tcl, OpenAccess, and OpenGL.\n…\nsee more",
+      "date1": "May 2006 – Jan 2007",
+      "date2": "9 mos"
+    },
+    {
+      "title": "Member Technical Staff",
+      "companyName": "Sun Microsystems",
+      "description": "- Worked as part of a team which develops SUN proprietary tools. My work involved the use of Java, C++, JFC/Swing, Qt, OCCI, JDBC, RMI and SQL. In both of the following works, my Project Lead and I were involved in the development process.\n- Using C++ and Qt GUI toolkit we developed an application which was used to query an oracle database and display the results in variety of formats (Charts, Tables etc) according to various settings which could be controlled by the user graphically.\n- We developed a three-tier application in Java for displaying spatial data and various statistics related to the design automation infrastructure database. Based on the selections and events generated by the user, data was queried from an Oracle database and was displayed in a range of graphical and textual formats.\n…\nsee more",
+      "date1": "Jan 2005 – Jun 2005",
+      "date2": "6 mos"
+    },
+    {
+      "title": "Undergraduate Intern",
+      "companyName": "Center for Artificial Intelligence and Robotics, Bangalore",
+      "description": "I assisted a senior scientist in the study of the IPSec Protocol and addition of a Trusted Third Party server to an existing framework. The key exchange process between two remote parties was coordinated by this trusted third party. I implemented the two-way key exchange process using the Diffie-Hellman key exchange in C and C++",
+      "date1": "May 2003 – Jun 2003",
+      "date2": "2 mos"
+    },
+    {
+      "title": "Undergraduate Intern",
+      "companyName": "CET, IIT, Kharagpur",
+      "description": "I worked towards the development and implementation of an Encryption/Decryption algorithm similar to DES. I implemented the design in C. This project was a great experience to learn about various symmetric and asymmetric cryptographic algorithms.",
+      "date1": "May 2002 – Jun 2002",
+      "date2": "2 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Indian Institute of Technology, Kharagpur",
+      "degree": "B.S. (Hons)",
+      "fieldofstudy": "Computer Science & Engineering",
+      "date1": "2000",
+      "date2": "2004"
+    },
+    {
+      "title": "University of Florida",
+      "degree": "M.S",
+      "fieldofstudy": "Computer Engineering",
+      "date1": "2005",
+      "date2": "2007"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Software Engineering",
+      "count": "20"
+    },
+    {
+      "title": "C++",
+      "count": "18"
+    },
+    {
+      "title": "Unix",
+      "count": "15"
+    },
+    {
+      "title": "Distributed Systems",
+      "count": "11"
+    },
+    {
+      "title": "Software Development",
+      "count": "11"
+    },
+    {
+      "title": "Algorithms",
+      "count": "10"
+    },
+    {
+      "title": "Software Design",
+      "count": "4"
+    },
+    {
+      "title": "Debugging",
+      "count": "4"
+    },
+    {
+      "title": "Object Oriented Design",
+      "count": "2"
+    },
+    {
+      "title": "Agile Methodologies",
+      "count": "1"
+    },
+    {
+      "title": "Scrum",
+      "count": "1"
+    },
+    {
+      "title": "C",
+      "count": "10"
+    },
+    {
+      "title": "Java",
+      "count": "5"
+    },
+    {
+      "title": "Embedded Systems",
+      "count": "3"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "1",
+    "receivedCount": "0",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/arvindkumarphd/",
+        "text": "I have known Arvind for more than four years. At Innovative Scheduling, one of the projects I worked on was led by him. I was able to observe him lead our team from the inception phase to execution. One thing which really stood out was his clarity of thought about what needs to be done at all stages in the project. His ability to stay focused on the main goals and help the team members to do the same is worth mentioning. He quickly built the team with individuals from different projects, and kept them on schedule for the design, development and deployment of the solution. Arvind has great leadership skills and knows how to manage a team well, while working on many other projects. Arvind is personable and very helpful.\n…\nSee more"
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "1",
+      "items": [
+        "Predictability of Rules in HIV-1 Protease Cleavage Site Analysis"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/virajmalia/",
+      "text": "Software Engineer at Intel MKL"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jagansubramanian/",
+      "text": "Leading the charge to transform software development and delivery for success in the cloud. I'm hiring!"
+    },
+    {
+      "user": "https://www.linkedin.com/in/abhishekdas/",
+      "text": "Senior Distributed Systems Engineer, Software defined Security, Infrastructure Security"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nanditaghosh/",
+      "text": "Head of Marketing, Global Publisher Solutions SMB at Facebook (I'm Hiring!)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sourabhmishraca/",
+      "text": "Ad Tech at Uber"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kurtshultz/",
+      "text": "Software Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kagupta/",
+      "text": "Engineering Leader, Hiring Senior backend / ML engineers!"
+    },
+    {
+      "user": "https://www.linkedin.com/in/gwenn-rauchle-pmp-65ba63/",
+      "text": "Program Manager at Intel Corporation"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sudheenair/",
+      "text": "CEO, ThoughtSpot"
+    },
+    {
+      "user": "https://www.linkedin.com/in/aliaksandr-hramyka/",
+      "text": "Software Engineer at Rubicon Project"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Anupam Dikshit",
+    "headline": "Software Engineering and Leadership",
+    "location": "San Francisco Bay Area",
+    "connections": "500+",
+    "summary": "Goal: Create software which has a useful and widespread impact.\n\nOver 10 years of software development and leadership experience at companies like Uber, Cohesity, Intel, Sun and Optym.\n\nDomains: Distributed systems, autonomous vehicles, payment systems and EDA.\nAlso, self taught data science, machine learning and iOS development.\n\nRecent side-gigs: Developed breadth in autonomous vehicle domain by doing Udacity's self-driving car nanodegree and flying car nano-degree. Concepts learnt: computer vision(opencv), deep learning(tensor flow, keras), Model Predictive and PID controllers, behavior planning, prediction, localization, perception, semantic segmentation and ROS.\n\nCertifications:-\n1) Scrum master (PSM 1)\n2) Cloudera Certiﬁed Specialist in Apache HBase\n3) Cloudera Certified Hadoop Developer\n\nProgramming: C++, Go, Python, R, Java, C\nOther Skills/Packages/Platforms: OO design patterns, iOS development, Hadoop, HBase, Intel’s Threading Building Blocks, Qt, Java, Databases(SQL, mySQL, ODBC, OCCI, JDBC), Machine Learning( Support Vector Machines, Decision Trees), Deep Learning(Tensor Flow, Keras, CNNs), Shiny, ROS"
+  }
+}

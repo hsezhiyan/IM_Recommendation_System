@@ -1,0 +1,119 @@
+{
+  "profileAlternative": {
+    "name": "Karthic C",
+    "headline": "HTML Developer at Infibeam.Com",
+    "imageurl": "https://media.licdn.com/dms/image/C5103AQEIDRz4lTEz1w/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=6nXy_hYRGw5sIOGT3N5bU8Y7bfEtnorm5J2FnAC8BSY",
+    "location": "Bengaluru, Karnataka, India",
+    "connections": "236"
+  },
+  "aboutAlternative": {},
+  "positions": [
+    {
+      "title": "HTML Developer",
+      "companyName": "Infibeam.Com",
+      "location": "Bangalore",
+      "date1": "Aug 2012 – Present",
+      "date2": "7 yrs 4 mos"
+    }
+  ],
+  "educations": [],
+  "skills": [
+    {
+      "title": "HTML",
+      "count": "5"
+    },
+    {
+      "title": "CSS",
+      "count": "4"
+    },
+    {
+      "title": "Photoshop",
+      "count": "2"
+    },
+    {
+      "title": "SASS",
+      "count": "2"
+    },
+    {
+      "title": "Bootstrap",
+      "count": "1"
+    },
+    {
+      "title": "jQuery",
+      "count": "1"
+    },
+    {
+      "title": "Jquery"
+    },
+    {
+      "title": "front-end framework using foundation"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "4",
+      "items": [
+        "English",
+        "Kannada",
+        "Tamil",
+        "Telugu"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/akila-raghavan-852219105/",
+      "text": "SDE at Infibeam.com"
+    },
+    {
+      "user": "https://www.linkedin.com/in/angu-priya-60858561/",
+      "text": "SDE at Infibeam.com"
+    },
+    {
+      "user": "https://www.linkedin.com/in/aharikrishnan/",
+      "text": "Senior Software Engineer at Infibeam.com"
+    },
+    {
+      "user": "https://www.linkedin.com/in/abhinash-gupta-b44627a8/",
+      "text": "Front End Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kanaga-krishnan-5505a756/",
+      "text": "Software Engineer at Infibeam.com"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ramesh-ramasamy-86a03b95/",
+      "text": "Software Engineer at Infibeam.com"
+    },
+    {
+      "user": "https://www.linkedin.com/in/aravind-ajju-0a7564126/",
+      "text": "Software Development Engineer at Infibeam.com"
+    },
+    {
+      "user": "https://www.linkedin.com/in/malavika-hari-668200a5/",
+      "text": "Software Engineer at Infibeam.com . Studied B.E.CSE at M.I.T. Campus of Anna University."
+    },
+    {
+      "user": "https://www.linkedin.com/in/ambika-m-837aa275/",
+      "text": "Student at PSG College of Technology"
+    },
+    {
+      "user": "https://www.linkedin.com/in/dharshini-v-7428a8b6/",
+      "text": "Student at PSG College of Technology"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Karthic C",
+    "headline": "HTML Developer at Infibeam.Com",
+    "imageurl": "https://media.licdn.com/dms/image/C5103AQEIDRz4lTEz1w/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=6nXy_hYRGw5sIOGT3N5bU8Y7bfEtnorm5J2FnAC8BSY",
+    "location": "Bengaluru, Karnataka, India",
+    "connections": "236"
+  }
+}

@@ -1,0 +1,279 @@
+{
+  "profileAlternative": {
+    "name": "Leo Zheng",
+    "headline": "Senior Director of Product Marketing at MongoDB",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQG6qcZYPiVnGA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=tQqz1K5j0wyIe74rvh4Mfh_uYzqSdhP_DhHUtUiM_C0",
+    "location": "Greater New York City Area",
+    "connections": "500+",
+    "summary": "Experienced software marketer. NoSQL, open source, cloud computing, VoIP."
+  },
+  "aboutAlternative": {
+    "text": "Experienced software marketer. NoSQL, open source, cloud computing, VoIP."
+  },
+  "positions": [
+    {
+      "title": "MongoDB",
+      "location": "Greater New York City Area",
+      "description": "Responsible for team driving GTM messaging and positioning for all MongoDB products.",
+      "date1": "Sep 2019 – Present",
+      "date2": "3 mos",
+      "roles": [
+        {
+          "title": "Senior Director of Product Marketing",
+          "date1": "Sep 2019 – Present",
+          "date2": "3 mos"
+        },
+        {
+          "title": "Director of Product Marketing, MongoDB Atlas",
+          "date1": "Jun 2016 – Present",
+          "date2": "3 yrs 6 mos",
+          "location": "Greater New York City Area"
+        },
+        {
+          "title": "Senior Product Marketing Manager",
+          "date1": "Jun 2015 – Jun 2016",
+          "date2": "1 yr 1 mo"
+        },
+        {
+          "title": "Product Marketing Manager",
+          "date1": "Apr 2014 – Jun 2015",
+          "date2": "1 yr 3 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSenior Director of Product Marketing",
+      "description": "Responsible for team driving GTM messaging and positioning for all MongoDB products.",
+      "date1": "Sep 2019 – Present",
+      "date2": "3 mos",
+      "roles": [
+        {
+          "title": "Senior Director of Product Marketing",
+          "date1": "Sep 2019 – Present",
+          "date2": "3 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nDirector of Product Marketing, MongoDB Atlas",
+      "location": "Greater New York City Area",
+      "description": "Responsible for cloud product marketing team, which covers MongoDB Atlas Global Cloud Database ( from zero to $125 million ARR in <3 years), MongoDB Atlas Full-text search, and MongoDB Realm.",
+      "date1": "Jun 2016 – Present",
+      "date2": "3 yrs 6 mos",
+      "roles": [
+        {
+          "title": "Director of Product Marketing, MongoDB Atlas",
+          "date1": "Jun 2016 – Present",
+          "date2": "3 yrs 6 mos",
+          "location": "Greater New York City Area"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSenior Product Marketing Manager",
+      "description": "Responsible for technical field readiness. Launched sales bootcamps, advanced sales trainings, and onboarding for fast-growing sales organization.",
+      "date1": "Jun 2015 – Jun 2016",
+      "date2": "1 yr 1 mo",
+      "roles": [
+        {
+          "title": "Senior Product Marketing Manager",
+          "date1": "Jun 2015 – Jun 2016",
+          "date2": "1 yr 1 mo"
+        }
+      ]
+    },
+    {
+      "title": "Title\nProduct Marketing Manager",
+      "description": "Responsible for product marketing for joint GTM partners and strategic alliances.",
+      "date1": "Apr 2014 – Jun 2015",
+      "date2": "1 yr 3 mos",
+      "roles": [
+        {
+          "title": "Product Marketing Manager",
+          "date1": "Apr 2014 – Jun 2015",
+          "date2": "1 yr 3 mos"
+        }
+      ]
+    },
+    {
+      "title": "Director, Marketing Analytics and Product Design",
+      "companyName": "OnSIP",
+      "location": "Greater New York City Area",
+      "date1": "Jun 2009 – Apr 2014",
+      "date2": "4 yrs 11 mos"
+    },
+    {
+      "title": "Research Assistant",
+      "companyName": "The Wharton School",
+      "date1": "Sep 2008 – Dec 2008",
+      "date2": "4 mos"
+    },
+    {
+      "title": "EID Intern",
+      "companyName": "GE",
+      "date1": "Jun 2008 – Aug 2008",
+      "date2": "3 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "University of Pennsylvania",
+      "degree": "Bachelor’s Degree",
+      "fieldofstudy": "Biomedical Sciences, Economics",
+      "date1": "2005",
+      "date2": "2009"
+    }
+  ],
+  "skills": [
+    {
+      "title": "MongoDB",
+      "count": "20"
+    },
+    {
+      "title": "Product Marketing",
+      "count": "13"
+    },
+    {
+      "title": "Product Management",
+      "count": "12"
+    },
+    {
+      "title": "Telecommunications",
+      "count": "7"
+    },
+    {
+      "title": "VoIP",
+      "count": "7"
+    },
+    {
+      "title": "Strategic Planning",
+      "count": "6"
+    },
+    {
+      "title": "Cloud Computing",
+      "count": "4"
+    },
+    {
+      "title": "Go-to-market Strategy",
+      "count": "3"
+    },
+    {
+      "title": "Analytics",
+      "count": "2"
+    },
+    {
+      "title": "SIP",
+      "count": "2"
+    },
+    {
+      "title": "Business Intelligence",
+      "count": "1"
+    },
+    {
+      "title": "Start-ups",
+      "count": "1"
+    },
+    {
+      "title": "Customer Relationship Management (CRM)"
+    },
+    {
+      "title": "SaaS",
+      "count": "8"
+    },
+    {
+      "title": "Software as a Service (SaaS)",
+      "count": "1"
+    },
+    {
+      "title": "Databases"
+    },
+    {
+      "title": "Salesforce.com"
+    },
+    {
+      "title": "Enterprise Software"
+    },
+    {
+      "title": "Strategic Partnerships",
+      "count": "1"
+    },
+    {
+      "title": "Management"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "2",
+    "receivedCount": "0",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/nicoleisonline/",
+        "text": "Nicole is an extremely talented marketing leader. She possesses an amazing ability to balance long term vision with a 'roll up her sleeves' focus on results. She is fearless about trying out new ideas; I have long admired her willingness to challenge the comfortable routines of the company and encourage or directly drive major improvements across many departments. It's hard to overstate her contributions to the company. Direct but patient, intelligent but humble, driven but thoughtful; you'd be hard pressed to find another Nicole so I highly recommend that you work with her if you get the chance.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/calvertdestroys/",
+        "text": "Michael's a talented community builder with a real passion for what he does. He was a major force in reinvigorating our MongoDB User Groups and our developer-focused web properties. It was a pleasure working with him at MongoDB."
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "2",
+      "items": [
+        "English",
+        "Mandarin"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/katherinemaughan/",
+      "text": "Senior Product Marketing Manager @ MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/marialauraborghesi/",
+      "text": "Senior Director, Growth Marketing at MongoDB | Ex-Google, Ex-Stripe"
+    },
+    {
+      "user": "https://www.linkedin.com/in/eric-holzhauer/",
+      "text": "Strategy and Product Marketing at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/seong17/",
+      "text": "Vice President, Strategy & Product Marketing"
+    },
+    {
+      "user": "https://www.linkedin.com/in/charles-lee-530806100/",
+      "text": "Sr Solutions Architect at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/rakibazad/",
+      "text": "Senior Director, Finance at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tatiana-morozova-037765b/",
+      "text": "Principal, Growth Marketing at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/justindignelli/",
+      "text": "Director, Cloud GTM at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/olivierze/",
+      "text": "Regional Director at MongoDB. I'm HIRING !"
+    },
+    {
+      "user": "https://www.linkedin.com/in/redondos/",
+      "text": "Staff Engineer at MongoDB"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Leo Zheng",
+    "headline": "Senior Director of Product Marketing at MongoDB",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQG6qcZYPiVnGA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=tQqz1K5j0wyIe74rvh4Mfh_uYzqSdhP_DhHUtUiM_C0",
+    "location": "Greater New York City Area",
+    "connections": "500+",
+    "summary": "Experienced software marketer. NoSQL, open source, cloud computing, VoIP."
+  }
+}

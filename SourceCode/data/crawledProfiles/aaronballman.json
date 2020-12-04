@@ -1,0 +1,298 @@
+{
+  "profileAlternative": {
+    "name": "Aaron Ballman",
+    "headline": "Compiler Frontend Person",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQESph73W0BIpA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=NeZCJykt6otHrCVOOWqymKi9DVApH9kCLLaPzUvdnFE",
+    "location": "Greenbush, Maine",
+    "connections": "367",
+    "summary": "I am a passionate software developer with over a decade of professional experience. I am interested in deep technical topics, educating and mentoring other programmers, and continuing to grow my skillsets as a programmer. My primary te... see more"
+  },
+  "aboutAlternative": {
+    "text": "I am a passionate software developer with over a decade of professional experience. I am interested in deep technical topics, educating and mentoring other programmers, and continuing to grow my skillsets as a programmer. My primary te... see more"
+  },
+  "positions": [
+    {
+      "title": "Expert",
+      "companyName": "WG14 (C) Standards Committee",
+      "description": "I am an expert, voting member of the C standards committee (PL22.11 (ANSI) and SC22/WG14 (ISO)), where I have previously represented CERT, the SEI, and Carnegie Mellon University, and am currently representing GrammaTech.\n\nI focus predominately on the security aspects of the C programming language and standard library, as well as ensuring the C and C++ programming languages do not needlessly diverge. Additionally, I am the former chair of the C Safety and Security study group, where we focus on updating the TS17961 technical specification to provide guidance to analyzer vendors on performing security and safety-critical source code analysis.\n\nI am the author of the following papers that were adopted in to C2x:\nAttributes in C (N2335)\nThe deprecated attribute (N2334)\nThe nodiscard attribute (N2667)\nThe maybe_unused attribute (N2270)\nHarmonizing static_assert with C++ (N2265)\nThe fallthrough attribute (N2408)\nAdding the u8 character prefix (N2418)\n\nI have also submitted the following papers:\nQuerying attribute support (N2411)\nHarmonizing left-shift behavior with C++ (N2161)\nAllowing unnamed parameters in a function definition (N2381)\nWhat we think we reserve (N2409)\nThe noreturn attribute (N2410)\nUnclear type relationship between a format specifier and its argument (N2420)\n\nI was the host for the October 2019 meeting in Ithaca, NY (N2327).\n…\nsee more",
+      "date1": "Oct 2016 – Present",
+      "date2": "3 yrs 2 mos"
+    },
+    {
+      "title": "Expert",
+      "companyName": "WG21 (C++) Standards Committee",
+      "description": "I am an expert, voting member of the C++ standards committee (PL22.16 (ANSI) and SC22/WG21 (ISO)), where I have previously represented CERT, the SEI, and Carnegie Mellon University, and am currently representing GrammaTech.\n\nI predominately work with the Core Working Group on devising language for the core C++ language functionality. I also frequently attend Library Working Group issue processing sessions, and am a member of the SG12 study group on Undefined Behavior, the SG10 study group on Feature Testing, and the SG15 study group on Tooling.\n\nI have filed numerous issues relating to the core language, including:\n2247 (Lambda capture and variable argument list)\n2224 (Member subobjects and base-class casts)\n2253 (Unnamed bit-fields and zero-initialization)\n1992 (new (std::nothrow) int[N] can throw)\n1914 (Duplicate standard attributes)\n1915 (Potentially-invoked destructors in non-throwing constructors)\n\nI have also submitted the following papers:\nAttributes for Structured Bindings (p0609r0, p0609r1)\n…\nsee more",
+      "date1": "May 2013 – Present",
+      "date2": "6 yrs 7 mos"
+    },
+    {
+      "title": "Software Engineer",
+      "companyName": "GrammaTech",
+      "location": "Greenbush, ME/Ithaca, NY",
+      "date1": "Jan 2017 – Present",
+      "date2": "2 yrs 11 mos"
+    },
+    {
+      "title": "Contributor",
+      "companyName": "Clang & LLVM",
+      "description": "I am an active core member of the Clang and LLVM communities with over 1100 patches accepted on the trunk. I predominately focus on C++ standards support, improved diagnostic reporting, adding checks to clang-tidy, and the Clang attribute subsystem (of which I am the code owner).\n\nI have improved all parts of the Clang frontend (lexer, preprocessor, parser, AST, semantic analysis, and code generator) in terms of bug fixes, code refactoring, and new features. I added several new diagnostics or improved existing diagnostics, such as -Wexceptions, -Wpotentially-evaluated-expression, -Wunevaluated-expression, -Wunused-value, and many others. I have made numerous additions to the AST matching DSL (that are also exposed via clang-query) by implementing additional node, traversal, and narrowing matchers. I have also improved C++ standards compliance (implemented __has_cpp_attribute, and fixed conformance issues with reinterpret_cast, anonymous unions, scoped enumerations, and others). I've done considerable work on the attribute subsystem to automate error reporting, implemented compulsory public-facing documentation, and made the code more consistent and maintainable.\n\nI have added numerous diagnostic checks to clang-tidy, including all of the checkers under the cert-* category, misc-move-constructor-init, misc-new-delete-overloads, and misc-non-copyable-objects.\n\nMy work in LLVM has mostly been related to improved platform support on Windows, including improved threading support, 64-bit stack walking, crash recovery, unique filesystem identification, as well as other contributions related to code maintenance.\n…\nsee more",
+      "date1": "Aug 2011 – Present",
+      "date2": "8 yrs 4 mos"
+    },
+    {
+      "title": "Software Security Engineer",
+      "companyName": "CERT",
+      "location": "Greenbush, ME/Pittsburgh, PA",
+      "description": "As a major contributor to The CERT® C Coding Standard, Second Edition: 98 Rules for Developing Safe, Reliable, and Secure Systems (2nd Edition) [http://www.amazon.com/CERT-Coding-Standard-Second-Engineering/dp/0321984048], I authored extensive new content in addition to editing existing content. Content creation and editing required extensive verification of guidelines against the C11 standard [ISO/IEC 9899:2011], as well as comparing against the C99 standard ([ISO/IEC 9899:1999]. In addition to writing normative text, I updated coding rules for Visual Studio compatibility, adding compliant solutions as companions to POSIX solutions.\n\nI am the primary author of the SEI CERT C++ Coding Standard [http://www.cert.org/secure-coding/products-services/secure-coding-cpp-download-2016.cfm], which was an effort to create security-related coding standards for C++14 [ISO/IEC 14882-2014], similar to the efforts behind the SEI CERT C Coding Standard. I authored over 20 new rules and substantially edited over 50 rules in the C++ coding standard.\n\nWith collaborators Dr Dean Sutherland and Dr DeLesley Hutchins, I implemented thread role analysis annotations and functionality in Clang, and coauthored the paper C/C++ Thread Safety Analysis, which was accepted to SCAM'14 [http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/42958.pdf].\n…\nsee more",
+      "date1": "May 2013 – Nov 2016",
+      "date2": "3 yrs 7 mos"
+    },
+    {
+      "title": "Senior Software Engineer",
+      "companyName": "X-Rite",
+      "location": "Greenbush, ME/Tewksbury, MA",
+      "description": "As the engineering lead for PantoneLIVE (http://www.pantone.com/live), I am responsible for the design of the entire software stack. I lead six engineers on four different products delivered by X-Rite, and coordinate with two external engineers for products delivered by Esko and EFI.\n\nAdditionally, I am responsible for the design and implementation of frameworks and applications across multiple languages (C/C++, C#, Objective-C) and toolkits (.NET, Win32, Cocoa).\n\nPerformed a major refactoring of a cross-platform service layer allowing applications to seamlessly communicate with hardware devices. This service layer ships with several key applications which generate significant income. The defect rate of the service application after refactoring is considerably lower than the original version.\n\nPorted the Sparkle framework to Windows for cross-platform automatic updates. Also implemented the cross-platform Pantone Color Library framework for use in the Pantone Color Manager application.\n…\nsee more",
+      "date1": "Aug 2010 – May 2013",
+      "date2": "2 yrs 10 mos"
+    },
+    {
+      "title": "Software Engineer",
+      "companyName": "4D",
+      "location": "St Augusta, MN/Clichy, France",
+      "description": "My focus has been to implement frontends for various languages to support auto complete, code navigation and refactoring tools.\n\nI implemented support for JavaScript, including the lexer, recursive descent parser, AST, declaration parser and symbol table. I did similar work for a SQL-92 frontend. Both engines are used extensively within the company's commercial products: 4D and Wakanda.\n…\nsee more",
+      "date1": "Jan 2009 – Jul 2010",
+      "date2": "1 yr 7 mos"
+    },
+    {
+      "title": "REAL Software",
+      "location": "St Augusta, MN/Austin, TX",
+      "description": "After working my way through several disciplines in the engineering department, I took on a dual role within the company. I am the lead compiler architect of a cross-platform, object oriented language (REALbasic). I am also the lead programmer of a team of engineers responsible for our cross-platform framework and IDE.\n\nAs the lead compiler architect, I've been responsible for the design and implementation of several key language features, including attributes and interface aggregation. I've also been responsible for maintaining and improving existing compiler functionality.\n\nAs the lead programmer, I am responsible for the day to day management of 4 programmers. I determine the priority of bugs and features, and am in charge of setting everyone's schedule for a release cycle in an agile development environment. In addition, I am the technical contact for any questions about the product, or design decisions.\n…\nsee more",
+      "date1": "Apr 2008 – Nov 2008",
+      "date2": "8 mos",
+      "roles": [
+        {
+          "title": "Lead Programmer/Compiler Architect",
+          "date1": "Apr 2008 – Nov 2008",
+          "date2": "8 mos",
+          "location": "St Augusta, MN/Austin, TX"
+        },
+        {
+          "title": "Win32 Software Engineer",
+          "date1": "Mar 2002 – Apr 2008",
+          "date2": "6 yrs 2 mos",
+          "location": "Austin, TX"
+        }
+      ]
+    },
+    {
+      "title": "Title\nLead Programmer/Compiler Architect",
+      "location": "St Augusta, MN/Austin, TX",
+      "description": "After working my way through several disciplines in the engineering department, I took on a dual role within the company. I am the lead compiler architect of a cross-platform, object oriented language (REALbasic). I am also the lead programmer of a team of engineers responsible for our cross-platform framework and IDE.\n\nAs the lead compiler architect, I've been responsible for the design and implementation of several key language features, including attributes and interface aggregation. I've also been responsible for maintaining and improving existing compiler functionality.\n\nAs the lead programmer, I am responsible for the day to day management of 4 programmers. I determine the priority of bugs and features, and am in charge of setting everyone's schedule for a release cycle in an agile development environment. In addition, I am the technical contact for any questions about the product, or design decisions.\n…\nsee more",
+      "date1": "Apr 2008 – Nov 2008",
+      "date2": "8 mos",
+      "roles": [
+        {
+          "title": "Lead Programmer/Compiler Architect",
+          "date1": "Apr 2008 – Nov 2008",
+          "date2": "8 mos",
+          "location": "St Augusta, MN/Austin, TX"
+        }
+      ]
+    },
+    {
+      "title": "Title\nWin32 Software Engineer",
+      "location": "Austin, TX",
+      "description": "I was originally hired at REAL Software to port their C++ IDE from the Mac to Windows. Once that project was done, I was responsible for feature development and maintenance of their Windows framework. I also did extensive work on their networking and serial subsystems, and occasional work with the Carbon (OS 9 and OS X) and Linux frameworks.",
+      "date1": "Mar 2002 – Apr 2008",
+      "date2": "6 yrs 2 mos",
+      "roles": [
+        {
+          "title": "Win32 Software Engineer",
+          "date1": "Mar 2002 – Apr 2008",
+          "date2": "6 yrs 2 mos",
+          "location": "Austin, TX"
+        }
+      ]
+    },
+    {
+      "title": "Consultant",
+      "companyName": "DeZurik's",
+      "location": "Sartell, MN",
+      "description": "I was a consultant assisting with the migration from one order entry system to another.",
+      "date1": "1998 – 1999",
+      "date2": "1 yr"
+    }
+  ],
+  "educations": [
+    {
+      "title": "St. Cloud State University",
+      "degree": "Bachelor of Science",
+      "fieldofstudy": "Computer Science",
+      "date1": "1998",
+      "date2": "2001"
+    }
+  ],
+  "skills": [
+    {
+      "title": "C++",
+      "count": "30"
+    },
+    {
+      "title": "C",
+      "count": "19"
+    },
+    {
+      "title": "Software Engineering",
+      "count": "26"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "11",
+    "receivedCount": "20",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/robertseacord/",
+        "text": "I managed Aaron Ballman at CERT and he is an extremely strong performer. Aaron developed the CERT C++ Secure Coding Standard, developed static analysis for Clang, and performed other research. He is equally talented at both software development and technical writing. Aaron has a very strong work ethic and was extremely effective as a remote employee.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/andy-hatkoff-04459a4/",
+        "text": "Aaron has a unique combination of deep technical competency coupled with a broader appreciation and understanding of strategic goals. Aaron is able to put technology into context for solving problems. He asks thoughtful questions and is able to develop a technical solution to many thorny problems we had to face at X-Rite/Pantone. Aaron has a collaborative spirit and has a willingness to engage non-technical people to help them understand what can be complex technical issues. Aaron's patience, pleasant demeanor and overall optimism served him very well in his interaction with technical, marketing and sales people with whom he had to interact. It is unusual to have a strong technical leader be able to work within a complicated matrix type organization. Aaron clearly demonstrated his ability to deal with not only complex issues but complex organizations.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/stefan-bornschein-2a12236/",
+        "text": "Aaron was a great programmer to work with. His good attitude and strong technical skills were a blessing for some of the complex projects we worked on together. He was a valuable asset to the team, and will be missed."
+      },
+      {
+        "user": "https://www.linkedin.com/in/robert-willis-60298713/",
+        "text": "Aaron demonstrates a wide range and depth of knowledge in software development, particularly in his knowledge of C and C++ standards and variances, and how they might affect software application development practices."
+      },
+      {
+        "user": "https://www.linkedin.com/in/christian-r%C3%BCegg-8a632945/",
+        "text": "Improved level of C++ usage/knowledge in whole software team with reviews and weekly tidbits."
+      },
+      {
+        "user": "https://www.linkedin.com/in/achim-ginsberg-klemmt-48b29a13/",
+        "text": "I have delayed writing this well deserved recommendation for Aaron Ballman out of sheer selfishness. I wish he was still working with us, but Carnegie-Mellon snatched him away without such recommendation. My strategy must have failed. At least I can finally write about Aaron what I think without nurturing the suspicion that I am just trying to catch Brownie points: Imposters beware! Aaron is humble, friendly and loves to crack jokes, but he the sharpest code reviewer I have met during my entire career. He can spot pretentious coding habits and hard to find bugs in a heartbeat. His sense for authenticity, depth of knowledge in C++, computer languages in general and his debugging skills are simply superb. And if he is wrong, he simply admits it. A rare commodity these days. Don't be fooled by Aaron's understatement, he can program circles around everybody I know and also knows how to piss off the right people.... The day Aaron announced his departure was the saddest day of my 5 years at X-Rite. I wish you all the best at CERT man.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/alexpasternak/",
+        "text": "Aaron was an extremely valuable technical asset for the company, and brought an immeasurable experience with systems and low-level functions to the table. His solid grasp of security design helped to protect company IP in multiple situations and projects. He was the go-to resource on any matter regarding the Windows SDK, complex debugging or memory issues, driver installation, or code compilers. He truly embodied the title of architect even though it was not a part of his official title. And throughout his time here, Aaron remained gracious and friendly, with his easy-going personality helping to ease the fact that he wasn't going to let you get away with cutting any corners, not even just this once! Having the courage of his convictions helped the company and me reach the better solution to every problem at hand.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/morgautalexandre/",
+        "text": "Working with Aaron has been very interesting with hot discussions about the JavaScript language, its defaults and benefits, and about which behaviors are best for code editors. I highly recommend him."
+      },
+      {
+        "user": "https://www.linkedin.com/in/ecarriou/",
+        "text": "Aaron is a smart and a professional colleague. It's really nice to work with him, he is open-mind, passionate by his job, and always enthusiastic for new challenges."
+      },
+      {
+        "user": "https://www.linkedin.com/in/agcyphers/",
+        "text": "I consider Aaron to be one of the most skilled developers I know, with a hand in sainthood. His open source projects have been an integral part of projects I've created. He's easy to work with, talk to, and learn from."
+      },
+      {
+        "user": "https://www.linkedin.com/in/dave-alter/",
+        "text": "I think Aaron is an excellent senior engineer. His ability to shift from fixing assembly code in the compiler, to addressing usability issues in the GUI, is very impressive. He understands the need for simplicity in design and how that results in a much more maintainable code base. He works hard to keep the users needs in mind went designing and developing products. I have very much enjoyed working with him and given the opportunity would work with him again in the future.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/danambrown/",
+        "text": "Aaron was a valuable asset to the REAL Software team for many years. I had the pleasure of working with him for two years and he is a very talented engineer with a great passion for his work. Aaron was an excellent liaison between engineering and marketing, and I often called upon him with questions to which he was able to describe something complicated in simple terms. Aaron also donated much of his free time to communicate directly with our user base which was a great asset to both our users and the company. I highly recommend Aaron, especially if you are looking for a talented programmer with a broad skillset who is a pleasure to work with.\n…\nSee more"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/achim-ginsberg-klemmt-48b29a13/",
+        "text": "Achim is a good software developer for cross-platform applications developed in C++. He is very knowledgeable when it comes to the Qt framework, and is a keen problem-solver. Beyond his technical expertise, he is a fun person to be around and has many fascinating stories about life sailing the seas. It was a pleasure working with Achim while I was at X-Rite, and I think he would be an asset on any development team."
+      },
+      {
+        "user": "https://www.linkedin.com/in/andy-hatkoff-04459a4/",
+        "text": "It was an absolute pleasure working with Andy. We didn't interact on a daily basis, but the times when we did were always encouraging. Andy possesses a passion that is oftentimes rare to see in upper management. I never walked away from a meeting with Andy feeling like he didn't hear and understand me.\r\n\r\nI would work with Andy again; he's an asset!"
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "5",
+      "items": [
+        "SEI CERT C++ Coding Standard",
+        "C/C++ Thread Safety Analysis",
+        "The CERT® C Coding Standard, Second Edition: 98 Rules for Developing Safe, Reliable, and Secure Systems (2nd Edition)",
+        "Ramblings on REALbasic",
+        "Targeting Windows (too) for Your REALbasic Apps"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "PL22.11 (ANSI) and JTC1/SC22/WG14 (ISO)",
+        "PL22.16 (ANSI) and JTC1/SC22/WG21 (ISO)"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/lnwakey/",
+      "text": "Networking IC Design Manger at Intel Corporation"
+    },
+    {
+      "user": "https://www.linkedin.com/in/partharanganathan/",
+      "text": "Distinguished Engineer at Google; ACM/IEEE Fellow"
+    },
+    {
+      "user": "https://www.linkedin.com/in/vinceyhakeembhan/",
+      "text": "Sr. Engineering Program Manager at Xilinx"
+    },
+    {
+      "user": "https://www.linkedin.com/in/chadrosier/",
+      "text": "Staff Engineer, ML Compiler Team"
+    },
+    {
+      "user": "https://www.linkedin.com/in/rahima-mohammed-0659322b/",
+      "text": "Customer Delight Office Lead, Senior Principal Engineer at Intel Corporation"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shajira-moosa-02a1041b/",
+      "text": "Design Engineer at Intel Corporation"
+    },
+    {
+      "user": "https://www.linkedin.com/in/james-kaku-bb250a10/",
+      "text": "Sr. Circuit Design Engineer at NVIDIA"
+    },
+    {
+      "user": "https://www.linkedin.com/in/roger-nose-9a660a2/",
+      "text": "Engineering Manager at Intel Corp"
+    },
+    {
+      "user": "https://www.linkedin.com/in/james-boyd-6a11824/",
+      "text": "Principal Engineer at Intel Corporation"
+    },
+    {
+      "user": "https://www.linkedin.com/in/brian-stempel-ba08025/",
+      "text": "Principal Architect at Microsoft - Quantum Computing"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Board Membership: Ref/NSO Liaison",
+      "experience": "Central Maine Derby",
+      "description": "Civil Rights and Social Action",
+      "date1": "Mar 2014 – Feb 2015",
+      "date2": "1 yr"
+    },
+    {
+      "title": "Board Member",
+      "experience": "Penobscot Community Health Care",
+      "description": "Health",
+      "date1": "Sep 2015 – Present",
+      "date2": "4 yrs 3 mos"
+    }
+  ],
+  "profile": {
+    "name": "Aaron Ballman",
+    "headline": "Compiler Frontend Person",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQESph73W0BIpA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=NeZCJykt6otHrCVOOWqymKi9DVApH9kCLLaPzUvdnFE",
+    "location": "Greenbush, Maine",
+    "connections": "367",
+    "summary": "I am a passionate software developer with over a decade of professional experience. I am interested in deep technical topics, educating and mentoring other programmers, and continuing to grow my skillsets as a programmer. My primary te... see more"
+  }
+}

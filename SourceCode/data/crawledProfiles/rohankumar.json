@@ -1,0 +1,247 @@
+{
+  "profileAlternative": {
+    "name": "Rohan Kumar",
+    "headline": "Corporate Vice President, Azure Data at Microsoft",
+    "imageurl": "https://media.licdn.com/dms/image/C5103AQFcY39-BuY_9Q/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=xF0XiioxFaeK1NPR0gOVx9hkF-p3gP88pfGcCcTm2wc",
+    "location": "Greater Seattle Area",
+    "connections": "500+",
+    "summary": "As the Corporate Vice President of Azure Data, Rohan is the engineering leader responsible for the product strategy, technical vision, long range plan and strategy, design, development/implementation, engineering process involving the certification and release of SQL Server, and all Azure Data Services including SQL Database, Cosmos DB, Database for MySQL, Database for PostgreSQL, Database for Maria DB, SQL Data Warehouse, Azure Databricks, Azure Data Lake, HDInsight, Azure Stream Analytics, Azure Data Factory, Azure Data Catalog and Microsoft’s Analytics Platform System (APS). As part of his charter, Rohan is focused on delivering core data platform services for Microsoft that allow IT professionals, DBAs, Data Scientists, Data Engineers and Developers to successfully develop, deploy, and manage data applications across Azure Data Services and SQL Server workloads."
+  },
+  "aboutAlternative": {
+    "text": "As the Corporate Vice President of Azure Data, Rohan is the engineering leader responsible for the product strategy, technical vision, long range plan and strategy, design, development/implementation, engineering process involving the certification and release of SQL Server, and all Azure Data Services including SQL Database, Cosmos DB, Database for MySQL, Database for PostgreSQL, Database for Maria DB, SQL Data Warehouse, Azure Databricks, Azure Data Lake, HDInsight, Azure Stream Analytics, Azure Data Factory, Azure Data Catalog and Microsoft’s Analytics Platform System (APS). As part of his charter, Rohan is focused on delivering core data platform services for Microsoft that allow IT professionals, DBAs, Data Scientists, Data Engineers and Developers to successfully develop, deploy, and manage data applications across Azure Data Services and SQL Server workloads."
+  },
+  "positions": [
+    {
+      "title": "Microsoft",
+      "location": "United States",
+      "description": "As the Corporate Vice President of Azure Data, Rohan is the engineering leader responsible for the product strategy, technical vision, long range plan and strategy, design, development/implementation, engineering process involving the certification and release of SQL Server, and all Azure Data Services including SQL Database, Cosmos DB, Database for MySQL, Database for PostgreSQL, Database for Maria DB, SQL Data Warehouse, Azure Databricks, Azure Data Lake, HDInsight, Azure Stream Analytics, Azure Data Factory, Azure Data Catalog and Microsoft’s Analytics Platform System (APS). As part of his charter, Rohan is focused on delivering core data platform services for Microsoft that allow IT professionals, DBAs, Data Scientists, Data Engineers and Developers to successfully develop, deploy, and manage data applications across Azure Data Services and SQL Server workloads.\n…\nsee more",
+      "date1": "Mar 2018 – Present",
+      "date2": "1 yr 9 mos",
+      "roles": [
+        {
+          "title": "Corporate Vice President, Azure Data",
+          "date1": "Mar 2018 – Present",
+          "date2": "1 yr 9 mos",
+          "location": "United States"
+        },
+        {
+          "title": "General Manager, Database Systems",
+          "date1": "Apr 2016 – Feb 2018",
+          "date2": "1 yr 11 mos",
+          "location": "REDMOND"
+        },
+        {
+          "title": "PARTNER DIRECTOR ENGINEERING, SQL Server",
+          "date1": "Feb 2012 – Mar 2016",
+          "date2": "4 yrs 2 mos",
+          "location": "Redmond, WA"
+        },
+        {
+          "title": "PRINCIPAL GROUP PROGRAM MANAGER",
+          "date1": "Sep 2010 – Feb 2012",
+          "date2": "1 yr 6 mos",
+          "location": "Redmond, WA"
+        },
+        {
+          "title": "PRINCIPAL DEVELOPMENT MANAGER",
+          "date1": "May 2008 – Aug 2010",
+          "date2": "2 yrs 4 mos",
+          "location": "Redmond, WA"
+        }
+      ]
+    },
+    {
+      "title": "Title\nCorporate Vice President, Azure Data",
+      "location": "United States",
+      "description": "As the Corporate Vice President of Azure Data, Rohan is the engineering leader responsible for the product strategy, technical vision, long range plan and strategy, design, development/implementation, engineering process involving the certification and release of SQL Server, and all Azure Data Services including SQL Database, Cosmos DB, Database for MySQL, Database for PostgreSQL, Database for Maria DB, SQL Data Warehouse, Azure Databricks, Azure Data Lake, HDInsight, Azure Stream Analytics, Azure Data Factory, Azure Data Catalog and Microsoft’s Analytics Platform System (APS). As part of his charter, Rohan is focused on delivering core data platform services for Microsoft that allow IT professionals, DBAs, Data Scientists, Data Engineers and Developers to successfully develop, deploy, and manage data applications across Azure Data Services and SQL Server workloads.\n…\nsee more",
+      "date1": "Mar 2018 – Present",
+      "date2": "1 yr 9 mos",
+      "roles": [
+        {
+          "title": "Corporate Vice President, Azure Data",
+          "date1": "Mar 2018 – Present",
+          "date2": "1 yr 9 mos",
+          "location": "United States"
+        }
+      ]
+    },
+    {
+      "title": "Title\nGeneral Manager, Database Systems",
+      "location": "REDMOND",
+      "description": "As the GENERAL MANAGER of Database Systems, Rohan is the product and engineering leader responsible for the product strategy, technical vision, long range plan and strategy, design, development/implementation, engineering process involving the certification and release of Azure SQL Database, Azure SQL Datawarehouse, SQL Server, SQL Server in IaaS VMs and Microsoft’s Analytics Platform System (APS). As part of his charter, Rohan is focused on delivering core data platform services for Microsoft that allow IT professionals, DBAs, and Developers to successfully develop, deploy, and manage OLTP/DW data applications across Azure and SQL Server workloads.\n…\nsee more",
+      "date1": "Apr 2016 – Feb 2018",
+      "date2": "1 yr 11 mos",
+      "roles": [
+        {
+          "title": "General Manager, Database Systems",
+          "date1": "Apr 2016 – Feb 2018",
+          "date2": "1 yr 11 mos",
+          "location": "REDMOND"
+        }
+      ]
+    },
+    {
+      "title": "Title\nPARTNER DIRECTOR ENGINEERING, SQL Server",
+      "location": "Redmond, WA",
+      "description": "Azure SQL Database, Azure SQL DW, Microsoft SQL Server, SQL Server In Cloud VMs, Analytics Platform Appliance (APS/PDW)",
+      "date1": "Feb 2012 – Mar 2016",
+      "date2": "4 yrs 2 mos",
+      "roles": [
+        {
+          "title": "PARTNER DIRECTOR ENGINEERING, SQL Server",
+          "date1": "Feb 2012 – Mar 2016",
+          "date2": "4 yrs 2 mos",
+          "location": "Redmond, WA"
+        }
+      ]
+    },
+    {
+      "title": "Title\nPRINCIPAL GROUP PROGRAM MANAGER",
+      "location": "Redmond, WA",
+      "description": "Microsoft SQL Server, Windows Azure SQL Database",
+      "date1": "Sep 2010 – Feb 2012",
+      "date2": "1 yr 6 mos",
+      "roles": [
+        {
+          "title": "PRINCIPAL GROUP PROGRAM MANAGER",
+          "date1": "Sep 2010 – Feb 2012",
+          "date2": "1 yr 6 mos",
+          "location": "Redmond, WA"
+        }
+      ]
+    },
+    {
+      "title": "Title\nPRINCIPAL DEVELOPMENT MANAGER",
+      "location": "Redmond, WA",
+      "description": "Microsoft SQL Server",
+      "date1": "May 2008 – Aug 2010",
+      "date2": "2 yrs 4 mos",
+      "roles": [
+        {
+          "title": "PRINCIPAL DEVELOPMENT MANAGER",
+          "date1": "May 2008 – Aug 2010",
+          "date2": "2 yrs 4 mos",
+          "location": "Redmond, WA"
+        }
+      ]
+    }
+  ],
+  "educations": [
+    {
+      "title": "University of Massachusetts Amherst",
+      "degree": "M.S.",
+      "fieldofstudy": "Computer Science",
+      "date1": "1996",
+      "date2": "1998"
+    },
+    {
+      "title": "Indian Institute of Technology (Banaras Hindu University), Varanasi",
+      "degree": "Bachelor of Technology (B.Tech.)",
+      "fieldofstudy": "Computer Science and Engineering",
+      "date1": "1992",
+      "date2": "1996"
+    },
+    {
+      "title": "Little Flower Junior College",
+      "degree": "11th and 12th Grade",
+      "fieldofstudy": "Maths, Physics and Chemistry",
+      "date1": "1990",
+      "date2": "1992"
+    },
+    {
+      "title": "Little Flower High School",
+      "degree": "High School",
+      "fieldofstudy": "All Subjects",
+      "date1": "1978",
+      "date2": "1990"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Cloud Computing",
+      "count": "37"
+    },
+    {
+      "title": "Software Design",
+      "count": "36"
+    },
+    {
+      "title": "Distributed Systems",
+      "count": "35"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "1",
+    "receivedCount": "0",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/ketan-duvedi-19395019/",
+        "text": "Ketan is a strong technical lead and an empathetic people manager. He cares for his people and is passionate about career development of ICs. He speaks his mind even when his opinion may not be popular - a quality which I really appreciated. He has made valuable contributions to SQL Server during his tenure as an IC and a dev lead."
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "5",
+      "items": [
+        "Managing a binary object in a database system",
+        "Remote storage and management of binary object data",
+        "User mode file system serialization and reliability",
+        "Multi-protocol access to files and directories",
+        "Protocol-independent client-side caching system and method"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/shilpar/",
+      "text": "Corporate Vice President, Mobile & Cross device Experiences at Microsoft"
+    },
+    {
+      "user": "https://www.linkedin.com/in/panos-panay-22b60ba9/",
+      "text": "Chief Product Officer at Microsoft"
+    },
+    {
+      "user": "https://www.linkedin.com/in/markrussinovich/",
+      "text": "Chief Technology Officer of Microsoft Azure"
+    },
+    {
+      "user": "https://www.linkedin.com/in/archnair/",
+      "text": "Principal Product Manager, Microsoft"
+    },
+    {
+      "user": "https://www.linkedin.com/in/vivsha/",
+      "text": "Head of Gaming at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/parag-agrawal-5a14742a/",
+      "text": "CTO at Twitter"
+    },
+    {
+      "user": "https://www.linkedin.com/in/harini-parthasarathy-9037212/",
+      "text": "Engineering Manager, Google Cloud Platform"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jennifer-byrne-microsoft/",
+      "text": "Chief Technology Officer, Microsoft US at Microsoft"
+    },
+    {
+      "user": "https://www.linkedin.com/in/anandeswaran/",
+      "text": "On a mission to enable every org to transform to a digital biz. Led Enterprise/Customer Success/Services @ MSFT/SAP/HP."
+    },
+    {
+      "user": "https://www.linkedin.com/in/barackobama/",
+      "text": "Former President of the United States of America"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Rohan Kumar",
+    "headline": "Corporate Vice President, Azure Data at Microsoft",
+    "imageurl": "https://media.licdn.com/dms/image/C5103AQFcY39-BuY_9Q/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=xF0XiioxFaeK1NPR0gOVx9hkF-p3gP88pfGcCcTm2wc",
+    "location": "Greater Seattle Area",
+    "connections": "500+",
+    "summary": "As the Corporate Vice President of Azure Data, Rohan is the engineering leader responsible for the product strategy, technical vision, long range plan and strategy, design, development/implementation, engineering process involving the certification and release of SQL Server, and all Azure Data Services including SQL Database, Cosmos DB, Database for MySQL, Database for PostgreSQL, Database for Maria DB, SQL Data Warehouse, Azure Databricks, Azure Data Lake, HDInsight, Azure Stream Analytics, Azure Data Factory, Azure Data Catalog and Microsoft’s Analytics Platform System (APS). As part of his charter, Rohan is focused on delivering core data platform services for Microsoft that allow IT professionals, DBAs, Data Scientists, Data Engineers and Developers to successfully develop, deploy, and manage data applications across Azure Data Services and SQL Server workloads."
+  }
+}

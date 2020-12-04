@@ -1,0 +1,197 @@
+{
+  "profileAlternative": {
+    "name": "Joe Giordano",
+    "headline": "Database Administrator, Team Lead at BD",
+    "location": "Roseland, New Jersey",
+    "connections": "206"
+  },
+  "aboutAlternative": {},
+  "positions": [
+    {
+      "title": "BD",
+      "location": "Franklin Lakes, NJ",
+      "description": "Member of global DBA team maintaining over 200 Oracle and 1400 Microsoft SQL Server Databases for enterprise applications residing on Solaris UNIX, SuSe Linux and Windows operating systems. Database versions include Oracle 8i, 9i, 10g, 11g and SQL Server 2000, 2005, 2008, 2008R2, 2012, 2014. Team Lead since July 2010.",
+      "date1": "Feb 2006 – Present",
+      "date2": "13 yrs 10 mos",
+      "roles": [
+        {
+          "title": "Database Administrator, Oracle and SQL Server",
+          "date1": "Feb 2006 – Present",
+          "date2": "13 yrs 10 mos",
+          "location": "Franklin Lakes, NJ"
+        },
+        {
+          "title": "SAP Basis Administrator",
+          "date1": "Nov 2001 – Feb 2006",
+          "date2": "4 yrs 4 mos",
+          "location": "Franklin Lakes, NJ"
+        }
+      ]
+    },
+    {
+      "title": "Title\nDatabase Administrator, Oracle and SQL Server",
+      "location": "Franklin Lakes, NJ",
+      "description": "Member of global DBA team maintaining over 200 Oracle and 1400 Microsoft SQL Server Databases for enterprise applications residing on Solaris UNIX, SuSe Linux and Windows operating systems. Database versions include Oracle 8i, 9i, 10g, 11g and SQL Server 2000, 2005, 2008, 2008R2, 2012, 2014. Team Lead since July 2010.",
+      "date1": "Feb 2006 – Present",
+      "date2": "13 yrs 10 mos",
+      "roles": [
+        {
+          "title": "Database Administrator, Oracle and SQL Server",
+          "date1": "Feb 2006 – Present",
+          "date2": "13 yrs 10 mos",
+          "location": "Franklin Lakes, NJ"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSAP Basis Administrator",
+      "location": "Franklin Lakes, NJ",
+      "description": "Member of SAP Basis team supporting SAP R/3 4.0B, EBP 3.0, HR 4.6C, SCM 4.0, BW 3.10 in a Sun Solaris/Oracle Database environment.",
+      "date1": "Nov 2001 – Feb 2006",
+      "date2": "4 yrs 4 mos",
+      "roles": [
+        {
+          "title": "SAP Basis Administrator",
+          "date1": "Nov 2001 – Feb 2006",
+          "date2": "4 yrs 4 mos",
+          "location": "Franklin Lakes, NJ"
+        }
+      ]
+    }
+  ],
+  "educations": [
+    {
+      "title": "New Jersey City University",
+      "degree": "Bachelor’s Degree",
+      "fieldofstudy": "Computer Science"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Microsoft SQL Server",
+      "count": "7"
+    },
+    {
+      "title": "Oracle Database Administration",
+      "count": "2"
+    },
+    {
+      "title": "Enterprise Software",
+      "count": "2"
+    },
+    {
+      "title": "Integration",
+      "count": "10"
+    },
+    {
+      "title": "ERP",
+      "count": "6"
+    },
+    {
+      "title": "Project Management",
+      "count": "10"
+    },
+    {
+      "title": "IT Management",
+      "count": "9"
+    },
+    {
+      "title": "Software Documentation",
+      "count": "6"
+    },
+    {
+      "title": "SDLC",
+      "count": "5"
+    },
+    {
+      "title": "Requirements Analysis",
+      "count": "6"
+    },
+    {
+      "title": "Business Analysis",
+      "count": "5"
+    },
+    {
+      "title": "ITIL",
+      "count": "4"
+    },
+    {
+      "title": "Six Sigma",
+      "count": "3"
+    },
+    {
+      "title": "Troubleshooting",
+      "count": "2"
+    },
+    {
+      "title": "Business Process Improvement",
+      "count": "4"
+    },
+    {
+      "title": "Oracle",
+      "count": "3"
+    },
+    {
+      "title": "Unix",
+      "count": "1"
+    },
+    {
+      "title": "SAP ERP",
+      "count": "1"
+    },
+    {
+      "title": "Databases",
+      "count": "2"
+    },
+    {
+      "title": "Solaris",
+      "count": "2"
+    },
+    {
+      "title": "SharePoint"
+    },
+    {
+      "title": "Cross-functional Team Leadership",
+      "count": "12"
+    },
+    {
+      "title": "Process Improvement",
+      "count": "9"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "3",
+    "receivedCount": "0",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/dena-apalatea/",
+        "text": "I had the privilege of being Dena's manager for five years at BD where he supported mission critical databases and applications. Dena has a deep technical understanding of both Oracle and SQL Server as well as other application technologies. He has excellent troubleshooting skills and has worked with diverse teams of specialists to identify and resolve complex application and performance issues involving or related to databases. Dena has consistently demonstrated the ability to learn the skills necessary to contribute in implementation, integration, development, migration and support efforts for a broad variety of systems and technologies. He uses standards, requirements, and information from Subject Matter Experts to establish expectations and provide solutions. Dena has solid communication skills so he can explain things to those that may be less technical. He can work efficiently both independently and collaboratively. Dena is a solid asset for any organization.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/julia-bronshtein-3640599/",
+        "text": "I had the privilege of managing Julia as an extended contractor at BD. Julia has a deep technical understanding of Unix/Linux that allowed her to provide top notch production support for a various array of mission critical applications. She met all of her deliverables as a core team member for an implementation of a complex application with FDA compliance implications. She is a solid team player that can work effectively both independently and collaboratively. Julia is a great asset for any company.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/dianne-phillips-45a5681/",
+        "text": "I had the privilege of being Dianne's manager for around two years at BD where she supported mission critical databases. Dianne has a deep technical understanding of SQL Server including high availability/clustering and has excellent communication skills so she can explain things to those that are less technical. Dianne can work both independently and collaboratively. She gets the job done and is a solid asset for any organization.\n…\nSee more"
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "1",
+      "items": [
+        "English"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Joe Giordano",
+    "headline": "Database Administrator, Team Lead at BD",
+    "location": "Roseland, New Jersey",
+    "connections": "206"
+  }
+}

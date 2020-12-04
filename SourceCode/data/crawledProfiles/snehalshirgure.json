@@ -1,0 +1,283 @@
+{
+  "profileAlternative": {
+    "name": "Snehal Shirgure",
+    "headline": "Machine Learning Engineer at Zillow | AI Platform",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQGqBBpDps68qg/profile-displayphoto-shrink_200_200/0?e=1577318400&v=beta&t=WCvuUbSj0tkJlAcKZEHSd9Zvrh-5SvoIyoe6z_PmPxo",
+    "location": "Seattle, Washington",
+    "connections": "500+",
+    "summary": "Graduate CS Student with a wide array of technical talents, aiming to develop optimized, innovative software to make an impact in solving real-world problems."
+  },
+  "aboutAlternative": {
+    "text": "Graduate CS Student with a wide array of technical talents, aiming to develop optimized, innovative software to make an impact in solving real-world problems."
+  },
+  "positions": [
+    {
+      "title": "Machine Learning Engineer",
+      "companyName": "Zillow",
+      "location": "Greater Seattle Area",
+      "date1": "Aug 2019 – Present",
+      "date2": "3 mos"
+    },
+    {
+      "title": "Software Developer Intern",
+      "companyName": "Rufus Labs",
+      "location": "Greater Los Angeles Area",
+      "description": "• Android OS and applications development for wearable mobile devices using Java, to optimize industrial workflow and increase time efficiency.\n• Built and tested kernel development majorly in C language on Unix terminal.\n• Followed Agile/Kanban software development framework and used JIRA for issue tracking.\n• Git/repo used for syncing to master branch ",
+      "date1": "Sep 2018 – Apr 2019",
+      "date2": "8 mos"
+    },
+    {
+      "title": "Student Assistant Developer",
+      "companyName": "University of Southern California",
+      "location": "Greater Los Angeles Area",
+      "description": "• Published 3 voice-enabled Alexa Skills to Amazon Skills store - Library FAQs resolver, Library book title and author voice search, and Events and library hours search using Alexa Skill Kit and AWS Lambda with Node.js and JSON interaction model and led the research for usage of NLU devices in library settings.\n• Automated URL status/content checking and analysis of huge website datasets in Excel Spreadsheet using Excel VBA and Macros.\n• Maintained the Altmetric widget implementation on host site.\n• Linked PayPal payment of fines/fees using PayPal's PDT APIs on the library website.\n• Designed pages for yearly revenue activities on the server. ",
+      "date1": "Oct 2017 – Jan 2019",
+      "date2": "1 yr 4 mos"
+    },
+    {
+      "title": "Software Engineer",
+      "companyName": "Samsung Mobile",
+      "location": "Noida Area, India",
+      "description": "• Worked as a part of Android For Work team by Google and KNOX container - Samsung's Mobile Security solution, developing and managing issues in Java and Android. Followed Agile software development framework and Scrum for product development.\n• Supervised the smooth and fast running of Setup-Wizard for the creation of Managed P... ",
+      "date1": "Jul 2016 – Jul 2017",
+      "date2": "1 yr 1 mo"
+    },
+    {
+      "title": "Software Development Intern",
+      "companyName": "Indian Institute of Technology, Bombay",
+      "location": "Mumbai Area, India",
+      "description": "• Developed a Platform-Independent PhoneGap Mobile Application for the catering of farm-grown items directly from NGOs ensuring the quality product and delivery.\n• Redesigned current version of Cottage Industry Cart-App (Android based application) to be used on cross-platform mobile environments targeting iOS, Android as well as Windows.... ",
+      "date1": "Sep 2015 – Nov 2015",
+      "date2": "3 mos"
+    },
+    {
+      "title": "Cloud Developer Intern",
+      "companyName": "Hashmark Solutions Pvt Ltd",
+      "location": "Nagpur Area, India",
+      "description": "• Developed a module of Intelligent Survey System web application on Koding VM for deployment onto Cloud Platform (Amazon Web Services) using Elastic Beanstalk and supervised the running of web services using multi-threading instead of MVC, to increase parallel PHP request efficiency on Cloud by about 25%.... ",
+      "date1": "May 2015 – Jun 2015",
+      "date2": "2 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "University of Southern California",
+      "degree": "Master of Science - MS",
+      "fieldofstudy": "Computer Science",
+      "date1": "2017",
+      "date2": "2019"
+    },
+    {
+      "title": "Maulana Azad National Institute of Technology",
+      "degree": "Bachelor of Technology (B.Tech.)",
+      "fieldofstudy": "Computer Science",
+      "date1": "2012",
+      "date2": "2016"
+    },
+    {
+      "title": "Shivaji Science Junior College",
+      "degree": "Electronics and Communications",
+      "fieldofstudy": "Electronics and Communications",
+      "date1": "2010",
+      "date2": "2012"
+    },
+    {
+      "title": "St. Xavier High School",
+      "degree": "C.B.S.E. Board",
+      "date1": "2001",
+      "date2": "2010"
+    }
+  ],
+  "skills": [
+    {
+      "title": "C",
+      "count": "18"
+    },
+    {
+      "title": "C++",
+      "count": "15"
+    },
+    {
+      "title": "Java",
+      "count": "2"
+    },
+    {
+      "title": "Web Development",
+      "count": "4"
+    },
+    {
+      "title": "Mobile Applications",
+      "count": "2"
+    },
+    {
+      "title": "Cloud Computing"
+    },
+    {
+      "title": "Python"
+    },
+    {
+      "title": "Android"
+    },
+    {
+      "title": "HTML",
+      "count": "10"
+    },
+    {
+      "title": "PHP",
+      "count": "5"
+    },
+    {
+      "title": "JavaScript",
+      "count": "9"
+    },
+    {
+      "title": "CSS",
+      "count": "6"
+    },
+    {
+      "title": "SQL",
+      "count": "5"
+    },
+    {
+      "title": "AJAX",
+      "count": "2"
+    },
+    {
+      "title": "MySQL",
+      "count": "2"
+    },
+    {
+      "title": "AngularJS"
+    },
+    {
+      "title": "Hadoop"
+    },
+    {
+      "title": "Amazon Web Services (AWS)"
+    },
+    {
+      "title": "jQuery Mobile",
+      "count": "3"
+    },
+    {
+      "title": "Perforce"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "1",
+    "receivedCount": "1",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/naveen1286/",
+        "text": "She is smart engineer... within a small interval of time she learn most of the things and support AFW and Knox team brilliantly ... she is very good in concept of Java and technological areas I had a good exp with her in team .."
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/naveen1286/",
+        "text": "Naveen Sir has always been an inspiring, highly knowledgable and dedicatedly driven team lead with all the best leadership qualities. He is a terrific mentor for anyone who has worked with him and is highly approachable for any queries. Working under his guidance in AFW team at Samsung was a great learning experience in terms of both professional growth and understanding of technical requirements for any job in the software industry.\n\n... See more"
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "7",
+      "items": [
+        "Machine Learning Projects:-",
+        "Data Mining Projects -",
+        "Natural Language Processing Projects -",
+        "Web Development Projects -",
+        "Artificial Intelligence Projects -",
+        "Road accident Data Analysis- Big Data Project",
+        "Email Security - Spam Prevention"
+      ]
+    },
+    {
+      "count": "6",
+      "items": [
+        "Analysis of Algorithms",
+        "Artificial Intelligence",
+        "Data Mining",
+        "Machine Learning",
+        "Natural Language Processing",
+        "Web Technologies"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Amul Vidyashree"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "English"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/pooja-bhole/",
+      "text": "Sr. Industrial Engineer, Global Supply Planning at Western Digital"
+    },
+    {
+      "user": "https://www.linkedin.com/in/peilun-li/",
+      "text": "Machine Learning Engineer II at Zillow (We are hiring, ping me for referral)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shreya-v-109bbaa3/",
+      "text": "Software Engineer at Bloomberg LP"
+    },
+    {
+      "user": "https://www.linkedin.com/in/priyanka-nayak/",
+      "text": "Software Engineer at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sayli-bhabal/",
+      "text": "Software Developement Engineer at Amazon Web Services (AWS)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ruomengxu/",
+      "text": "Machine Learning Engineer @ Zillow"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ruchitgandhi/",
+      "text": "Software Developer at Zillow"
+    },
+    {
+      "user": "https://www.linkedin.com/in/di-jin-258ab489/",
+      "text": "Machine Learning Engineer at Zillow"
+    },
+    {
+      "user": "https://www.linkedin.com/in/darylldfrance/",
+      "text": "Platform Software Engineer at Adobe"
+    },
+    {
+      "user": "https://www.linkedin.com/in/barbara-valentine-0ba55a1/",
+      "text": "Senior Platform Engineer"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Executive member",
+      "experience": "Go Green Club MANIT",
+      "description": "Environment",
+      "date2": "Cause"
+    },
+    {
+      "title": "Student Fundraiser",
+      "experience": "HelpAge India",
+      "description": "Social Services",
+      "date2": "Cause"
+    }
+  ],
+  "profile": {
+    "name": "Snehal Shirgure",
+    "headline": "Machine Learning Engineer at Zillow | AI Platform",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQGqBBpDps68qg/profile-displayphoto-shrink_200_200/0?e=1577318400&v=beta&t=WCvuUbSj0tkJlAcKZEHSd9Zvrh-5SvoIyoe6z_PmPxo",
+    "location": "Seattle, Washington",
+    "connections": "500+",
+    "summary": "Graduate CS Student with a wide array of technical talents, aiming to develop optimized, innovative software to make an impact in solving real-world problems."
+  }
+}

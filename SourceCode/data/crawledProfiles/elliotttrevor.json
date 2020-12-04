@@ -1,0 +1,353 @@
+{
+  "profileAlternative": {
+    "name": "Trevor Elliott",
+    "headline": "Infrastructure Engineer at Stripe",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQFOTLNOq5ajLg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=gfIJ1jWwv6OUUm8OFsRUHnuR9-GWsfV67GEK-stk3Mw",
+    "location": "Portland, Oregon",
+    "connections": "253",
+    "summary": "Specialties: Functional programming, system design, network protocols"
+  },
+  "aboutAlternative": {
+    "text": "Specialties: Functional programming, system design, network protocols"
+  },
+  "positions": [
+    {
+      "title": "Infrastructure Engineer",
+      "companyName": "Stripe",
+      "date1": "Apr 2019 – Present",
+      "date2": "8 mos"
+    },
+    {
+      "title": "Compiler Engineer",
+      "companyName": "Groq",
+      "date1": "Sep 2017 – Mar 2019",
+      "date2": "1 yr 7 mos"
+    },
+    {
+      "title": "Engineer",
+      "companyName": "Galois, Inc.",
+      "location": "Portland, Oregon Area",
+      "description": "Applying functional programming to aid the rapid prototyping of projects ranging from web applications to virtual machines.",
+      "date1": "Sep 2007 – Sep 2017",
+      "date2": "10 yrs 1 mo"
+    },
+    {
+      "title": "CollegeNET",
+      "description": "Helped to transition a desktop application to a suite of web services, and associated tools. Assisted with some web front-end development.",
+      "date1": "Jul 2004 – Sep 2007",
+      "date2": "3 yrs 3 mos",
+      "roles": [
+        {
+          "title": "Developer",
+          "date1": "Jul 2004 – Sep 2007",
+          "date2": "3 yrs 3 mos"
+        },
+        {
+          "title": "Technical Support",
+          "date1": "Jul 2002 – Jul 2004",
+          "date2": "2 yrs 1 mo"
+        }
+      ]
+    },
+    {
+      "title": "Title\nDeveloper",
+      "description": "Helped to transition a desktop application to a suite of web services, and associated tools. Assisted with some web front-end development.",
+      "date1": "Jul 2004 – Sep 2007",
+      "date2": "3 yrs 3 mos",
+      "roles": [
+        {
+          "title": "Developer",
+          "date1": "Jul 2004 – Sep 2007",
+          "date2": "3 yrs 3 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nTechnical Support",
+      "description": "Supported a desktop and web application installations for a large client base.",
+      "date1": "Jul 2002 – Jul 2004",
+      "date2": "2 yrs 1 mo",
+      "roles": [
+        {
+          "title": "Technical Support",
+          "date1": "Jul 2002 – Jul 2004",
+          "date2": "2 yrs 1 mo"
+        }
+      ]
+    }
+  ],
+  "educations": [
+    {
+      "title": "Portland State University",
+      "degree": "BS",
+      "fieldofstudy": "Computer Science",
+      "date1": "2003",
+      "date2": "2008"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Haskell",
+      "count": "26"
+    },
+    {
+      "title": "Web Applications",
+      "count": "17"
+    },
+    {
+      "title": "C",
+      "count": "16"
+    },
+    {
+      "title": "Web Services",
+      "count": "16"
+    },
+    {
+      "title": "Software Engineering",
+      "count": "11"
+    },
+    {
+      "title": "Algorithms",
+      "count": "5"
+    },
+    {
+      "title": "Computer Science",
+      "count": "3"
+    },
+    {
+      "title": "TCP/IP",
+      "count": "2"
+    },
+    {
+      "title": "Software Design",
+      "count": "2"
+    },
+    {
+      "title": "Software Development",
+      "count": "2"
+    },
+    {
+      "title": "System Architecture",
+      "count": "2"
+    },
+    {
+      "title": "Agile Methodologies",
+      "count": "1"
+    },
+    {
+      "title": "Programming",
+      "count": "1"
+    },
+    {
+      "title": "Data Structures",
+      "count": "1"
+    },
+    {
+      "title": "Object Oriented Design",
+      "count": "1"
+    },
+    {
+      "title": "Machine Learning",
+      "count": "1"
+    },
+    {
+      "title": "Multithreading",
+      "count": "1"
+    },
+    {
+      "title": "Artificial Intelligence",
+      "count": "1"
+    },
+    {
+      "title": "Distributed Systems"
+    },
+    {
+      "title": "Linux",
+      "count": "11"
+    },
+    {
+      "title": "Git",
+      "count": "8"
+    },
+    {
+      "title": "C++",
+      "count": "7"
+    },
+    {
+      "title": "JavaScript",
+      "count": "6"
+    },
+    {
+      "title": "PostgreSQL",
+      "count": "3"
+    },
+    {
+      "title": "XML",
+      "count": "2"
+    },
+    {
+      "title": "Java",
+      "count": "2"
+    },
+    {
+      "title": "Ruby",
+      "count": "2"
+    },
+    {
+      "title": "REST",
+      "count": "2"
+    },
+    {
+      "title": "Python",
+      "count": "2"
+    },
+    {
+      "title": "Perl",
+      "count": "2"
+    },
+    {
+      "title": "Bash",
+      "count": "1"
+    },
+    {
+      "title": "Unix",
+      "count": "1"
+    },
+    {
+      "title": "Scala",
+      "count": "1"
+    },
+    {
+      "title": "Open Source",
+      "count": "1"
+    },
+    {
+      "title": "Subversion",
+      "count": "1"
+    },
+    {
+      "title": "Python (Programming Language)",
+      "count": "1"
+    },
+    {
+      "title": "Databases"
+    },
+    {
+      "title": "Functional Support",
+      "count": "5"
+    },
+    {
+      "title": "Network Programming",
+      "count": "2"
+    },
+    {
+      "title": "Concurrent Programming",
+      "count": "2"
+    },
+    {
+      "title": "LLVM",
+      "count": "2"
+    },
+    {
+      "title": "GNU Make",
+      "count": "1"
+    },
+    {
+      "title": "Programming Languages",
+      "count": "1"
+    },
+    {
+      "title": "Compilers",
+      "count": "1"
+    },
+    {
+      "title": "Formal Verification",
+      "count": "1"
+    },
+    {
+      "title": "Functional Programming",
+      "count": "1"
+    },
+    {
+      "title": "Parallel Programming",
+      "count": "1"
+    },
+    {
+      "title": "Erlang",
+      "count": "1"
+    },
+    {
+      "title": "OCaml"
+    },
+    {
+      "title": "Unix Shell Scripting",
+      "count": "2"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "2",
+      "items": [
+        "Guilt Free Ivory",
+        "Concurrent Orchestration in Haskell"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/jonathan-ross-12a95156/",
+      "text": "CEO, Co-Founder of Groq"
+    },
+    {
+      "user": "https://www.linkedin.com/in/rebekahleslie/",
+      "text": "Software Engineer (& Compiler Team Lead) at Groq"
+    },
+    {
+      "user": "https://www.linkedin.com/in/thomas-eding-23487920/",
+      "text": "Compiler Engineer at Groq"
+    },
+    {
+      "user": "https://www.linkedin.com/in/dansmithjava/",
+      "text": "Programming Language Designer at Oracle"
+    },
+    {
+      "user": "https://www.linkedin.com/in/atayade/",
+      "text": "Machine Learning Engineer @ Apple AI/ML"
+    },
+    {
+      "user": "https://www.linkedin.com/in/benjaminfjones7/",
+      "text": "Sr. Software Development Engineer at Amazon Web Services (AWS)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/garrin-kimmell-13001b3/",
+      "text": "Programmer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/quinie-hui-a479344/",
+      "text": "Principal Engineer at Intel Corporation"
+    },
+    {
+      "user": "https://www.linkedin.com/in/omar-ahmad-24077013/",
+      "text": "ASIC power engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/michael-beidler/",
+      "text": "Software Engineer at Groq"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Trevor Elliott",
+    "headline": "Infrastructure Engineer at Stripe",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQFOTLNOq5ajLg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=gfIJ1jWwv6OUUm8OFsRUHnuR9-GWsfV67GEK-stk3Mw",
+    "location": "Portland, Oregon",
+    "connections": "253",
+    "summary": "Specialties: Functional programming, system design, network protocols"
+  }
+}

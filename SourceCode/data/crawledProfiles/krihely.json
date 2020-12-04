@@ -1,0 +1,298 @@
+{
+  "profileAlternative": {
+    "name": "Francesca Krihely",
+    "headline": "Startup Advisor, ABM, Growth and DevRel (I'm Hiring)",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQEApS39dIFQ5A/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=eX9kSK0yaWOxfa0rASXuRJHNB1dxMM2sil8mmvwyWTo",
+    "location": "New York, New York",
+    "connections": "500+",
+    "summary": "Startup Advisor, Marketing Expert, Open source advocate and speaker."
+  },
+  "aboutAlternative": {
+    "text": "Startup Advisor, Marketing Expert, Open source advocate and speaker."
+  },
+  "positions": [
+    {
+      "title": "MongoDB",
+      "location": "Greater New York City Area",
+      "description": "Deliver an exceptional customer experience for MongoDB Cloud Customers",
+      "date1": "May 2019 – Present",
+      "date2": "7 mos",
+      "roles": [
+        {
+          "title": "Director, Growth Marketing",
+          "date1": "May 2019 – Present",
+          "date2": "7 mos",
+          "location": "Greater New York City Area"
+        },
+        {
+          "title": "Director, Account Based Marketing and Growth",
+          "date1": "Jun 2018 – Present",
+          "date2": "1 yr 6 mos",
+          "location": "Greater New York City Area"
+        },
+        {
+          "title": "Senior Manager, Content Marketing",
+          "date1": "Jul 2015 – Present",
+          "date2": "4 yrs 5 mos"
+        },
+        {
+          "title": "Senior Manager, Developer Marketing",
+          "date1": "Nov 2016 – Present",
+          "date2": "3 yrs 1 mo",
+          "location": "Greater New York City Area"
+        }
+      ]
+    },
+    {
+      "title": "Title\nDirector, Growth Marketing",
+      "location": "Greater New York City Area",
+      "description": "Deliver an exceptional customer experience for MongoDB Cloud Customers",
+      "date1": "May 2019 – Present",
+      "date2": "7 mos",
+      "roles": [
+        {
+          "title": "Director, Growth Marketing",
+          "date1": "May 2019 – Present",
+          "date2": "7 mos",
+          "location": "Greater New York City Area"
+        }
+      ]
+    },
+    {
+      "title": "Title\nDirector, Account Based Marketing and Growth",
+      "location": "Greater New York City Area",
+      "description": "At MongoDB I oversee three distinct programs: Account Based Marketing, Demand Generation and our Startup Accelerator program (https://www.mongodb.com/startup-accelerator)\n\nMongoDB has a strong Demand Gen funnel that has contributed to top-line growth and developer adoption. As part of this role, I have defined, scoped and launched an Account Based Marketing program at MongoDB that aligned our Sales and Marketing team around mutual goals. As part of this program I oversee:\n\n- Account Based Marketing software\n- Metrics related to productivity, sales velocity and account engagement\n- An ABM Center of Excellence that trains sales reps on Marketing best practices and supports Field Marketing execution of Account Based campaigns\n\nI also oversee our entire Demand Generation funnel for North America, which includes\n- Supporting our Sales Development organization\n- Defining new strategies to improve mid-funnel conversion\n- Drive awareness of MongoDB and nurture our leads through quality content\n…\nsee more",
+      "date1": "Jun 2018 – Present",
+      "date2": "1 yr 6 mos",
+      "roles": [
+        {
+          "title": "Director, Account Based Marketing and Growth",
+          "date1": "Jun 2018 – Present",
+          "date2": "1 yr 6 mos",
+          "location": "Greater New York City Area"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSenior Manager, Content Marketing",
+      "date1": "Jul 2015 – Present",
+      "date2": "4 yrs 5 mos",
+      "roles": [
+        {
+          "title": "Senior Manager, Content Marketing",
+          "date1": "Jul 2015 – Present",
+          "date2": "4 yrs 5 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSenior Manager, Developer Marketing",
+      "location": "Greater New York City Area",
+      "date1": "Nov 2016 – Present",
+      "date2": "3 yrs 1 mo",
+      "roles": [
+        {
+          "title": "Senior Manager, Developer Marketing",
+          "date1": "Nov 2016 – Present",
+          "date2": "3 yrs 1 mo",
+          "location": "Greater New York City Area"
+        }
+      ]
+    },
+    {
+      "title": "Advisor",
+      "companyName": "boldstart ventures",
+      "location": "Greater New York City Area",
+      "date1": "Apr 2018 – Present",
+      "date2": "1 yr 8 mos"
+    },
+    {
+      "title": "Advisor",
+      "companyName": "Wallaroo Labs",
+      "location": "Greater New York City Area",
+      "description": "The ultrafast and elastic data processing engine.",
+      "date1": "Mar 2018 – Present",
+      "date2": "1 yr 9 mos"
+    },
+    {
+      "title": "Co-Founder",
+      "companyName": "The FinTech Hackathon",
+      "description": "Founded Hackathon and event series geared towards unleashing innovation in Financial Technology. The Hackathon gives small FinTech startups around the world a platform to reach developers and offers a unique recruiting opportunity for leading financial institutions in New York City.\n\nPast sponsors of the FinTech Hackathon include Bloomberg, Wilmer Hale, Thompson Reuters and Dow Jones, MongoDB, Venmo and Stocktwits. In 2015, we donated proceeds from the event to DirectRelief to fund relief work in Nepal following the horrific earthquake that took place in April.\n\nSee information on past events at http://fintechhack.com/\n…\nsee more",
+      "date1": "Jan 2012 – Present",
+      "date2": "7 yrs 11 mos"
+    },
+    {
+      "title": "CMO",
+      "companyName": "Bowery",
+      "location": "Greater New York City Area",
+      "description": "Bowery makes web development easier. Bowery aims to save programmers time-intensive, repetitive tasks such as setting up coding environments so they more quickly begin working. Run your application in seconds no matter the operating system, programming language, database, or other dependencies. We're dedicated to making every stack easy to use.\n\n at: http://www.crunchbase.com/organization/bowery\n…\nsee more",
+      "date1": "Nov 2014 – Jun 2015",
+      "date2": "8 mos"
+    },
+    {
+      "title": "Manager, Community Marketing",
+      "companyName": "MongoDB",
+      "location": "Greater New York City Area",
+      "description": "Senior lead for MongoDB community team. Manage and support global community programs for MongoDB, the leading open-source document database.\n\n* Created and scaled Global User Group program with over 38,000 members\n* Curated content for local groups from key customers in the area\n* Built out content for annual user conferences and for technical blog posts\n* Growth and management of Customer Advocate and Ambassador Program\n* Grew follower base on Twitter from 18,000 to over 130,000\n* Doubled newsletter subscriber base\n\n…\nsee more",
+      "date1": "Nov 2011 – Nov 2014",
+      "date2": "3 yrs 1 mo"
+    },
+    {
+      "title": "Founder",
+      "companyName": "Prison Justice Project",
+      "description": "Founder of criminal justice reform group at Oberlin College.\n\n\"We, as the Prison Justice Project, believe the incarceration system is a counter productive way to create a healthier society. In its current state, the institution systematically dehumanizes individuals based on race, gender, sexual orientation, class, ability, political status, and religion. We are advocating a more humane approach to criminal justice through activism, coalition building, education, outreach, and solidarity. We recognize our unique position as student organizers and because of this, we will hold ourselves accountable to the communities with which we wish to engage. We understand that these issues are multifaceted and we seek to build alliances with other organizations seeking to dismantle systems of oppression.\"\n\nAs the leader of this project I co-taught a college course on the state of American Prisons to 12 students at Oberlin College.\nI later secured over $10,000 in two months from grants and donations and managed those funds to both bring in speakers from across the country and finance other college events.\nAlong with a team of ten others, I launched 3 month speaker series, \"Bars, Walls and Bodies\" on the future of criminal justice reform.\nIn two months I had recruited over 200 students for future event planning and fundraising efforts and developed College-Prison Partnership with Grafton Prison in Ohio which is still in negotiation phase to launch a College curriculum in the prison as of June 2011.\n…\nsee more",
+      "date1": "Sep 2009 – Jun 2010",
+      "date2": "10 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Oberlin College",
+      "degree": "B.A.",
+      "fieldofstudy": "History, Sociology, Gender Feminism and Sexuality Studies",
+      "date1": "2006",
+      "date2": "2010"
+    },
+    {
+      "title": "The Wheatley School"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Social Media",
+      "count": "86"
+    },
+    {
+      "title": "Blogging",
+      "count": "62"
+    },
+    {
+      "title": "Marketing",
+      "count": "45"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "7",
+    "receivedCount": "4",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/ajessejiryudavis/",
+        "text": "Francesca joined MongoDB at the same time I did, in November 2011. We were a scruffy open source startup with a few dozen employees, crammed into an office with warped floorboards above a nail salon. In the six years since, we have grown into a billion-dollar public company and the leading NoSQL vendor. Francesca's leadership has been crucial to our success: she has engaged the worldwide developer community, organized hundreds of events from small meetups to prestigious conferences, and developed MongoDB as a respected brand among software engineers. Her strategy is to inspire our engineering staff and our fans to be public advocates for MongoDB, to speak to the software engineering community with an authentic voice. This strategy paid off dramatically in 2017: the Stack Overflow Developer Survey found that \"more developers wanted to work with MongoDB this year than any other database,\" beating the runner-up by a 2-to-1 margin.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/jrhunt/",
+        "text": "Francesca and I worked closely for many years and it was always a pleasure to see her tackle a new problem. She enthusiastically attacks problems and ideas. She thinks outside of the box and provides ideal solutions to complex problems. Francesca helped me grow as an engineer and helped MongoDB grow by building a grassroots-community following. She found hundreds of small meetups, conferences, and events that needed attention and found a way to efficiently deliver resources to them. She even convinced people to start their own MongoDB meetups. I'd be happy to work with Francesca again!\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/mjasay/",
+        "text": "I worked with Francesca for two years, initially in different departments and eventually as her manager (in Marketing). She did a tremendous job helping to build and support the fastest-growing, biggest community in Big Data. Her dedication to and passion for open source, generally, and for MongoDB's development community, specifically, was felt throughout the organization. She treated our open-source community like rock stars. By itself this would be nice: developers are the new market makers, and getting them on your side is a great way to build one's business. Francesca understands how to work with developers extraordinarily well, and has a habit of building strong relationships with developers that turn into great marketing programs, great content (blogs, white papers, etc.), and more. In turn, Francesca's work with MongoDB's developer community had a huge positive impact on our ability to make money. The more developers building on or around MongoDB; the more developers sharing positive stories about their use of MongoDB in public or in private conversations; the faster our business grew. Francesca was the heart of that community outreach. Francesca's title throughout that time is deceptive: ostensibly she's all about \"community,\" which the industry translates as \"developers.\" But \"community\" belies the breadth of the work Francesca does. She's an intuitive marketer, perhaps picked up from her understanding of developers, and is good at honing a message and figuring out the appropriate channels for expressing it. She has a sixth sense for what will win over customers/advocates for a brand, and what will bomb. Throughout it all she's thoughtful, fun and intelligent. I loved working with her and would jump at the chance to do so again. She's an A-player.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/meganbakershea/",
+        "text": "Francesca thinks big. She is not afraid to explore new ideas, and she takes initiative to develop new tools and systems that will benefit her team's work. For example, as a Development Fellow at the Taproot Foundation, one of Francesca's key responsibilities was to research funding prospects for the organization. When she noticed that most of Taproot's prospecting channels were exhausted, she proposed new strategies--especially those involving social media--to help her peers and managers explore funding opportunities with greater focus. In addition, Francesca's enthusiasm is contagious. She takes on projects with gusto, she is dedicated to growing as a professional, and she is quick to provide support when she is called upon. I enjoyed working with her tremendously.\n…\nSee more"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/ajessejiryudavis/",
+        "text": "I've worked with Jesse on a variety of projects at MongoDB in my 5+ years at the company. In that time, Jesse's leadership spanned beyond his role in engineering, but also to marketing and recruiting. He quickly established himself as a thought leader in the Python community,  and brings that responsibility to MongoDB. He is consistently the person I go to for thoughtful advice on how to better service the needs of our developer community and the company as a whole. When Jesse is involved in a project, I know that we will all be more thoughtful, innovative and and as a result working better together. I feel fortunate that I've got to learn and grow with someone like Jesse at MongoDB. I look forward to working with him in the future."
+      },
+      {
+        "user": "https://www.linkedin.com/in/sterionika/",
+        "text": "Sterio was a huge asset at our annual user conference, MongoDB World 2016. He was hired as a social media ambassador to encourage our audience to share their experience on social media and raise awareness of the event. To say he went above and beyond is an understatement. There I saw how he interacted with and inspired our 2,000+ guests. He came up with creative ways to distribute our exclusive swag and build an engaging atmosphere where social was part and parcel of the conference, leading to millions of mentions. In addition to cultivating a positive atmosphere for attendees, what stood out about Sterio was that he never forgot his goal at the event: to make it an engaging experience, at the conference itself and on social media. \r\n\r\nAs a result of Sterio and the team's efforts, our hashtag #MDBW16 was trending on Twitter throughout the conference. Even though Sterio was part of our team only for the duration of Mongo World, he was as dedicated and enthusiastic as any of us. I'm excited to see what he does next in his career and look forward to recommending him and sharing stories of his work in the future."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "5",
+      "items": [
+        "English",
+        "French",
+        "Georgian",
+        "German",
+        "Russian"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "Outstanding Contributor Award",
+        "Mardie Wheatley Blanchard Scholarship",
+        "Andy Cemelli Grant for LGBTQ Research"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Using Data to Run Successful Marketing Campaigns"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/nanmonaghan/",
+      "text": "Senior Manager, Strategic Events at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mary-alati/",
+      "text": "Growth Marketing Manager at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jeremiahjohnson/",
+      "text": "Co-Founder and CEO, Andela [We're Hiring!]"
+    },
+    {
+      "user": "https://www.linkedin.com/in/eric-holzhauer/",
+      "text": "Strategy and Product Marketing at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/alexandrina-koykova-91890117/",
+      "text": "Director, People Operations at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/seong17/",
+      "text": "Vice President, Strategy & Product Marketing"
+    },
+    {
+      "user": "https://www.linkedin.com/in/spencerbrody/",
+      "text": "Lead Engineer at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/marissachieco/",
+      "text": "Communications and Marketing professional"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jason-saunders-1aa1484/",
+      "text": "Senior Director of SI Partners, North America and APAC."
+    },
+    {
+      "user": "https://www.linkedin.com/in/ananddev/",
+      "text": "Strategy & Business Development"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Activist Council",
+      "experience": "Planned Parenthood New York City, Inc.",
+      "description": "Health",
+      "date1": "Jan 2013 – Present",
+      "date2": "6 yrs 11 mos"
+    },
+    {
+      "title": "Career Mentor",
+      "experience": "America Needs You",
+      "description": "Poverty Alleviation",
+      "date1": "Jun 2016",
+      "date2": "1 mo"
+    }
+  ],
+  "profile": {
+    "name": "Francesca Krihely",
+    "headline": "Startup Advisor, ABM, Growth and DevRel (I'm Hiring)",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQEApS39dIFQ5A/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=eX9kSK0yaWOxfa0rASXuRJHNB1dxMM2sil8mmvwyWTo",
+    "location": "New York, New York",
+    "connections": "500+",
+    "summary": "Startup Advisor, Marketing Expert, Open source advocate and speaker."
+  }
+}

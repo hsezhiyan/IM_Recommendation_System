@@ -1,0 +1,206 @@
+{
+  "profileAlternative": {
+    "name": "Yossi Salmon",
+    "headline": "Senior Software Development Engineer, 2018-Technion Certified with honors-TCSD, C, C++, C#, Java, Python",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQFYlMTSj6uy6g/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=C0y5ybq3NIuod1Wfr2Naer7Hdp9VzzZXShDDr1kujPE",
+    "location": "Israel",
+    "connections": "374",
+    "summary": "A proactive and dynamic resourceful professional with outstanding track record of success in developing & managing complex large-scale IT and Telecommunication projects,\n\nWealth of knowledge and Experience in C, C++, C#, Java, Python, PHP and Databases, with Strong system knowledge.\n\nStrong Solution Architect and UML Design Expert, Experienced Implementer of complex software full stack projects, both server & client.\n\nInterested in AI projects especialy Deep Learning Neural Networks, able to implement fast solutions using Python and TensoFlow.\n\nPresentations in front of individuals and large audience, strive to continue and get specialize in the field"
+  },
+  "aboutAlternative": {
+    "text": "A proactive and dynamic resourceful professional with outstanding track record of success in developing & managing complex large-scale IT and Telecommunication projects,\n\nWealth of knowledge and Experience in C, C++, C#, Java, Python, PHP and Databases, with Strong system knowledge.\n\nStrong Solution Architect and UML Design Expert, Experienced Implementer of complex software full stack projects, both server & client.\n\nInterested in AI projects especialy Deep Learning Neural Networks, able to implement fast solutions using Python and TensoFlow.\n\nPresentations in front of individuals and large audience, strive to continue and get specialize in the field"
+  },
+  "positions": [
+    {
+      "title": "Senior Software Development Engineer, Project Leading, C, C++, C#, Java, Python, PHP, Databases",
+      "companyName": "Bezeq International",
+      "location": "Petah Tikva Area, Israel",
+      "description": "• Design and Development of ASP.NET Web management application + Microsoft SQL server full design of entity relationship diagram (ERD) + implemented C# REST self-host API window service, CTI to Json - Citytimeil – 2018\n• Python and Flask REST interface via Sales Force apex to manage outgoing calls - Kaltura – 2017\n• Development of ActiveX interface to support customer self-implemented vb6 CRM screen popup - Maalot - 2017.\n• IVR interactive voice response using VXML for the human resources contact center - Sheba – 2017\n• A unique TCP-based windows service using C++ and libcurl to parse live data streaming - Kaltura-2017.\n• Project manager for the HCS-hosted collaboration systems project - 2016 Project Cloud.\n• BI2CALL dialer development - Telcar 2016.\n• Development of CRM screen pop - Super Pharm 2015.\n• Development of IVR MPS 500 - Teleall 2014.\n• Development of historical and real-time SQL-based reports using crystal report as templates - Sheba - 2014.\n• Development of the Call Back system - Excellence, Sheba, Migdal Capital Markets 2013.\n\n…\nsee more",
+      "date1": "Apr 2012 – Present",
+      "date2": "7 yrs 8 mos"
+    },
+    {
+      "title": "Project Manager",
+      "companyName": "MCS Software Communications & Systems",
+      "description": "• Real-time and Historical intelligence.\n• Planning, developing, upgrading, installing and deploying applications.\n• Expertizing with self-services applications.\n• Active consultant.",
+      "date1": "Jan 1995 – Apr 2012",
+      "date2": "17 yrs 4 mos"
+    },
+    {
+      "title": "Military Officer, Major",
+      "companyName": "IDF, ISRAEL",
+      "description": "Company commander in contact battalion, 150 soldiers, RF systems installations, telecommunications installations and war rooms assembly.",
+      "date1": "Jan 1981 – May 1986",
+      "date2": "5 yrs 5 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Technion - Israel Institute of Technology",
+      "degree": "Software Development and Engineering - TCSD - Technion Certified Software Development",
+      "fieldofstudy": "Software Development and Engineering - TCSD - Technion Certified Software Development",
+      "date1": "2018",
+      "date2": "2018"
+    },
+    {
+      "title": "Technion - Israel Institute of Technology",
+      "degree": "Bachelor of Science in Physics and Computers",
+      "fieldofstudy": "With military background in software development, computers and electronics",
+      "date1": "1987",
+      "date2": "1991"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Telephony",
+      "count": "9"
+    },
+    {
+      "title": "CTI",
+      "count": "6"
+    },
+    {
+      "title": "Avaya",
+      "count": "5"
+    },
+    {
+      "title": "Integration",
+      "count": "2"
+    },
+    {
+      "title": "Contact Centers",
+      "count": "1"
+    },
+    {
+      "title": "Telecommunications",
+      "count": "1"
+    },
+    {
+      "title": "Programming"
+    },
+    {
+      "title": "VoIP"
+    },
+    {
+      "title": "SIP"
+    },
+    {
+      "title": "IP"
+    },
+    {
+      "title": "Unified Communications"
+    },
+    {
+      "title": "Call Center"
+    },
+    {
+      "title": "Pre-sales"
+    },
+    {
+      "title": "Computer Networking"
+    },
+    {
+      "title": "Network Administration"
+    },
+    {
+      "title": "XML"
+    },
+    {
+      "title": "PHP"
+    },
+    {
+      "title": "HTML"
+    },
+    {
+      "title": "ASP"
+    },
+    {
+      "title": "CSS"
+    },
+    {
+      "title": "Management",
+      "count": "1"
+    },
+    {
+      "title": "Talent Management"
+    },
+    {
+      "title": "IVR",
+      "count": "4"
+    },
+    {
+      "title": "TDM",
+      "count": "3"
+    },
+    {
+      "title": "ACD",
+      "count": "2"
+    },
+    {
+      "title": "TAPI"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "1",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/shlomo-mussali-63824114/",
+        "text": "High learning ability, focused, sets goals and achieves them"
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/maayanpolat/",
+      "text": "Alternative Investment Fund"
+    },
+    {
+      "user": "https://www.linkedin.com/in/racheli-soffer-6061128b/",
+      "text": "Cyber Security Product Manager at Amdocs"
+    },
+    {
+      "user": "https://www.linkedin.com/in/adi-iluz-617b14158/",
+      "text": "SOC Analyst at Verint"
+    },
+    {
+      "user": "https://www.linkedin.com/in/adi-mangel-71720070/",
+      "text": "Purchasing Manager Technology and IT at Partner Israel"
+    },
+    {
+      "user": "https://www.linkedin.com/in/inbarfrangi/",
+      "text": "Help Desk Operator at Ness Digital Engineering"
+    },
+    {
+      "user": "https://www.linkedin.com/in/meni-brhani-827043102/",
+      "text": "Network Engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/dana-elgarisi-33675510/",
+      "text": "Software developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sergey-shalumov-92081917/",
+      "text": "Project Manager, Business/System Analyst"
+    },
+    {
+      "user": "https://www.linkedin.com/in/oren-berman-326137135/",
+      "text": "SOC Team Manager"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yaniv-cohen-42624324/",
+      "text": "CEO at 7-twenty.com"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Yossi Salmon",
+    "headline": "Senior Software Development Engineer, 2018-Technion Certified with honors-TCSD, C, C++, C#, Java, Python",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQFYlMTSj6uy6g/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=C0y5ybq3NIuod1Wfr2Naer7Hdp9VzzZXShDDr1kujPE",
+    "location": "Israel",
+    "connections": "374",
+    "summary": "A proactive and dynamic resourceful professional with outstanding track record of success in developing & managing complex large-scale IT and Telecommunication projects,\n\nWealth of knowledge and Experience in C, C++, C#, Java, Python, PHP and Databases, with Strong system knowledge.\n\nStrong Solution Architect and UML Design Expert, Experienced Implementer of complex software full stack projects, both server & client.\n\nInterested in AI projects especialy Deep Learning Neural Networks, able to implement fast solutions using Python and TensoFlow.\n\nPresentations in front of individuals and large audience, strive to continue and get specialize in the field"
+  }
+}

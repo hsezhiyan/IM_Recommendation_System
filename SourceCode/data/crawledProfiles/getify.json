@@ -1,0 +1,230 @@
+{
+  "profileAlternative": {
+    "name": "Kyle (getify) Simpson",
+    "headline": "Mentor, Founder, Teacher",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQGcaIsZZIPvxg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=eDWE8I46CuATHrpjW6RRwjbcxOXTlzsDQQ_n5jekbaw",
+    "location": "Austin, Texas",
+    "connections": "500+",
+    "summary": "Kyle Simpson is an evangelist of the open web, passionate about all things JavaScript. He writes books, teaches JavaScript, speaks, and contributes to the world of OSS.\n\nPhoto attribution: https://www.flickr.com/photos/halans/38293529466/\n\nSpecialties: JavaScript"
+  },
+  "aboutAlternative": {
+    "text": "Kyle Simpson is an evangelist of the open web, passionate about all things JavaScript. He writes books, teaches JavaScript, speaks, and contributes to the world of OSS.\n\nPhoto attribution: https://www.flickr.com/photos/halans/38293529466/\n\nSpecialties: JavaScript"
+  },
+  "positions": [
+    {
+      "title": "Founder, Product Owner",
+      "companyName": "DevGo, Inc",
+      "location": "Austin, Texas Area",
+      "description": "DevGo continuously mentors developers to accelerate in the workplace through our relational guided learning platform.",
+      "date1": "Nov 2016 – Present",
+      "date2": "3 yrs 1 mo"
+    },
+    {
+      "title": "Open Web Evangelist",
+      "companyName": "Getify Solutions",
+      "location": "Austin, TX",
+      "description": "Training in: JavaScript, HTML5, node.js, web performance optimization, middle-end app architecture. Conference speaking, book writing, meetups and hack-a-thons organizing.",
+      "date1": "Jan 2000 – Present",
+      "date2": "19 yrs 11 mos"
+    },
+    {
+      "title": "Head of Curriculum",
+      "companyName": "MakerSquare",
+      "location": "Austin, SF, Los Angeles",
+      "description": "Managing curriculum for all the national MakerSquare campuses, as well as mentoring teaching staff.",
+      "date1": "Jul 2015 – Jul 2016",
+      "date2": "1 yr 1 mo"
+    },
+    {
+      "title": "Co-founder",
+      "companyName": "HubAustin Coworking",
+      "location": "Austin, Texas",
+      "description": "HubAustin Coworking is south Austin's first coworking space. I helped launch it.",
+      "date1": "Sep 2011 – Sep 2012",
+      "date2": "1 yr 1 mo"
+    },
+    {
+      "title": "Sr. Software Engineer",
+      "companyName": "Zynga",
+      "location": "Austin, TX",
+      "description": "Game development for Zynga Bingo",
+      "date1": "Oct 2011 – Apr 2012",
+      "date2": "7 mos"
+    },
+    {
+      "title": "Software Engineer - DevTools",
+      "companyName": "Mozilla",
+      "description": "Working on making world-class dev-tools for Mozilla products, like Firefox",
+      "date1": "Apr 2011 – Oct 2011",
+      "date2": "7 mos"
+    },
+    {
+      "title": "Sr. Architect (JavaScript)",
+      "companyName": "appendTo, LLC",
+      "description": "Client- and server-side JavaScript",
+      "date1": "Dec 2010 – Apr 2011",
+      "date2": "5 mos"
+    },
+    {
+      "title": "JavaScript Architect",
+      "companyName": "Innography",
+      "description": "JavaScript development for enterprise data-information management application",
+      "date1": "May 2010 – Dec 2010",
+      "date2": "8 mos"
+    },
+    {
+      "title": "UI Lead",
+      "companyName": "Invodo",
+      "description": "Web based media player (video, photo, 360s) embeddable widget for ecommerce product pages, in JavaScript + HTML5 + Flash",
+      "date1": "Nov 2009 – Apr 2010",
+      "date2": "6 mos"
+    },
+    {
+      "title": "Independent",
+      "companyName": "Consultant",
+      "description": "Various contract and short-term positions in web UI development",
+      "date1": "May 2009 – Jan 2010",
+      "date2": "9 mos"
+    },
+    {
+      "title": "Sr. UI Developer/UX",
+      "companyName": "Demand Media",
+      "description": ".NET UI Design and Implementation",
+      "date1": "Jan 2009 – May 2009",
+      "date2": "5 mos"
+    },
+    {
+      "title": "User Experience Architect",
+      "companyName": "Pointserve",
+      "description": "UI/UX design, prototyping, usability testing, Flash development",
+      "date1": "Jun 2007 – Jan 2009",
+      "date2": "1 yr 8 mos"
+    },
+    {
+      "title": "Sr. Presentation Layer Developer",
+      "companyName": "Avenue A | Razorfish",
+      "description": "Primary UI developer on multiple Fortune 500 projects, including Southwest Airlines (http://www.southwest.com/), HEB Grocery (http://www.hebuddy.com/), JiffyLube (http://www.jiffylube.com/), AT&T, Nokia, and Dell.",
+      "date1": "Jul 2006 – Jun 2007",
+      "date2": "1 yr"
+    },
+    {
+      "title": "Web Developer",
+      "companyName": "eLoyalty",
+      "date1": "2004 – 2005",
+      "date2": "1 yr"
+    },
+    {
+      "title": "Web Developer",
+      "companyName": "Golfsmith",
+      "date1": "2004",
+      "date2": "less than a year"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Texas State University",
+      "degree": "B.S.",
+      "fieldofstudy": "Computer Science",
+      "date1": "2004",
+      "date2": "2008"
+    },
+    {
+      "title": "University of Oklahoma",
+      "degree": "Coursework",
+      "fieldofstudy": "Computer Science",
+      "date1": "1998",
+      "date2": "2000"
+    },
+    {
+      "title": "PC North HS",
+      "degree": "Diploma",
+      "fieldofstudy": "High School/Secondary Diplomas and Certificates",
+      "date1": "1994",
+      "date2": "1998"
+    }
+  ],
+  "skills": [
+    {
+      "title": "JavaScript",
+      "count": "99+"
+    },
+    {
+      "title": "Web Applications",
+      "count": "99+"
+    },
+    {
+      "title": "CSS",
+      "count": "99+"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "18",
+    "receivedCount": "22",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/schultztexas/",
+        "text": "Simply put, Kyle is a Javascript guru. Not only was Kyle able to solve every problem we came across, he managed to do so in a manner that was elegant and forward-thinking. He has an eye for usability and empathy for the end user, which I feel most developers lack. If you are looking for a problem solver, Kyle is your best bet."
+      },
+      {
+        "user": "https://www.linkedin.com/in/robertnyman/",
+        "text": "Kyle has always been helpful to help and discuss different aspects of developing and evangelizing, and I appreciate his always friendly approach to me and my queries."
+      },
+      {
+        "user": "https://www.linkedin.com/in/reybango/",
+        "text": "Kyle has always had a passion for JavaScript and open-source and it's evident in the efforts he manages. His big project, LabJS, is widely used and has received support from many industry luminaries. He's passionate about constantly evolving as a developer and is incredibly entrenched in the open-source community. Kyle is a great person as well and I would not only consider him a fantastic developer, but a friend.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/shuwaichow/",
+        "text": "There really isn't anything to add to Kyle's ability as a JavaScript programmer beyond his resume and the other recommendations. He is really one of the most knowledgable and skilled people in the community. I most admired Kyle for his ability to help us see the big picture in our processes. Kyle was with us when we switched to Agile methodology. His experience and guidance was absolutely essential in making our transition work. Kyle challenged us to think beyond just written dogma, and refused to let us be complacent on challenging issues that we faced. Even though we worked on different engineering teams, seeing how Kyle worked helped me become a better programmer.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/gregleppert/",
+        "text": "Kyle has a passion for and a knowledge of Javascript that's hard to match. It drives his development and informs his architecture at a level beyond expectation. And he does all of it using IE7/8 as his primary browser; roll that one around for a bit."
+      },
+      {
+        "user": "https://www.linkedin.com/in/tonyhagale/",
+        "text": "Kyle is unquestionably a JavaScript guru...some might say one of the minor gods of JS. He's respected in the community, an invited speaker and generally considered one of the brightest minds in JavaScript in Austin. Kyle and I worked on different portions of our infrastructure, but his experience with software engineering methodologies helped ease us through a number of transition periods where the team in general wasn't particularly sure how to tiptoe into new processes. He's a smart, assertive software developer who cares deeply about the quality of his product.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/lunardi/",
+        "text": "Kyle has always been my go to guy for anything web programming related. I use him as an expert consultant from a strategic standpoint and also to help with complex scripting because I know Kyle will deliver quickly no matter how sophisticated the project is. Kyle is a great communicator and first understands our company goals before diving into any project, this demonstrates maturity and empathy, which ensures we are aligned to drive success in what we do.\n…\nSee more"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/alexjeng/",
+        "text": "During my time with MakerSquare (Hack Reactor), Alex worked as the head of instruction for the LA campus, and then transitioned to overseeing instruction at the national level. I've rarely met someone with such a unique mix of drive to get things done and empathy for people around him. He was ultra-dependable, creative, and a pleasure to work with. He would be a valuable addition to any team, and I'm confident he'll quickly rise to leadership wherever he lands."
+      },
+      {
+        "user": "https://www.linkedin.com/in/schultztexas/",
+        "text": "Matt is one of the rare few developers I've worked with in my career who has a really strong sense of balance between \"here's how it should be\" and \"here's what it takes to get it done\".\r\n\r\nHe consistently outperforms most everyone else on the team with his strong drive to get solutions delivered, and yet he's smart enough to do so in a way that keeps an eye on how to create quality software over the long run. He is flexible and works on whatever tasks the team needs, and manages multiple priorities very well.\r\n\r\nHe is a very strong asset to any development team, and was great to work with, not only as a developer but also as a friend. I would highly recommend him, and it would be a pleasure to work with him again."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "9",
+      "items": [
+        "Functional-Light JavaScript",
+        "You Don't Know JS: ES6 & Beyond",
+        "You Don't Know JS: Up & Going",
+        "You Don't Know JS: Async & Performance",
+        "You Don't Know JS: Types & Grammar",
+        "You Don't Know JS: this & Object Prototypes",
+        "You Don't Know JS: Scope & Closures",
+        "JavaScript and HTML5 Now",
+        "HTML5 Cookbook"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Kyle (getify) Simpson",
+    "headline": "Mentor, Founder, Teacher",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQGcaIsZZIPvxg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=eDWE8I46CuATHrpjW6RRwjbcxOXTlzsDQQ_n5jekbaw",
+    "location": "Austin, Texas",
+    "connections": "500+",
+    "summary": "Kyle Simpson is an evangelist of the open web, passionate about all things JavaScript. He writes books, teaches JavaScript, speaks, and contributes to the world of OSS.\n\nPhoto attribution: https://www.flickr.com/photos/halans/38293529466/\n\nSpecialties: JavaScript"
+  }
+}

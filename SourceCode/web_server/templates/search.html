@@ -1,0 +1,509 @@
+
+<!DOCTYPE html>
+<html>
+
+<style>
+
+    @import url('http://fonts.googleapis.com/css?family=Open+Sans:400,700');
+
+    *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+
+    html{
+        background-color: #efefef;
+    }
+
+    body{
+        font:14px/1.5 Arial, Helvetica, sans-serif;
+        margin:0;
+    }
+
+
+    header{
+        box-sizing: border-box;
+        text-align: center;
+        width: 100%;
+        padding: 25px 40px;
+        background-color: #673AB7;
+        overflow: hidden;
+    }
+
+
+    header h1{
+        float: left;
+        font: normal 24px/1.5 'Open Sans', sans-serif;
+        color: #fff;
+    }
+
+    header a{
+        color:#fff;
+        float: right;
+        text-decoration: none;
+        display: inline-block;
+        padding: 13px 50px;
+        border-radius: 3px;
+        font: bold 14px/1 'Open Sans', sans-serif;
+        text-transform: uppercase;
+        background-color:#F05283;
+
+    }
+
+    ul {
+        list-style: none;
+        border-bottom: 1px solid #EAEAEA;
+        background-color: #FFF;
+        padding: 20px;
+        margin-top: 0;
+        text-align: center;
+        margin-bottom: 75px;
+    }
+
+    ul a{
+        text-decoration: none;
+        color: #FFF;
+        text-align: left;
+        background-color: #BCB8C2;
+        padding: 10px 16px;
+        border-radius: 2px;
+        opacity: 0.8;
+        font-size: 16px;
+        display: inline-block;
+        margin: 4px;
+        line-height: 1;
+        outline: none;
+
+        transition: 0.2s ease;
+    }
+
+    ul li a.active{
+        background-color: #F05283;
+        pointer-events: none;
+    }
+
+    ul li a:hover {
+        opacity: 1;
+    }
+
+
+    ul li{
+        display: inline-block;
+    }
+
+
+    @media (max-width: 1000px) {
+
+
+        header h1{
+            float: none;
+        }
+
+        header a{
+            margin-top: 25px;
+            float: none;
+        }
+
+    }
+
+    .main-content{
+        margin-bottom: 75px;
+    }
+
+    /* -- Demo ads -- */
+
+    @media (max-width: 1200px) {
+        #bsaHolder{ display:none;}
+    }
+
+    /* -- Link to Tutorialzine -- */
+
+    .tz-link{
+        text-decoration: none;
+        color: #fff !important;
+        font: bold 36px Arial,Helvetica,sans-serif !important;
+    }
+
+    .tz-link span{
+        color: #da431c;
+    }
+
+    html{
+        background-color: #f3f3f3;
+    }
+
+    .form-basic{
+        max-width: 640px;
+        margin: 0 auto;
+        padding: 55px;
+        box-sizing: border-box;
+
+        background-color:  #ffffff;
+        box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
+
+        font: bold 14px sans-serif;
+        text-align: center;
+    }
+
+    .form-basic .form-row{
+        text-align: left;
+        margin-bottom: 22px;
+    }
+
+    .form-basic .form-title-row{
+        text-align: center;
+        margin-bottom: 55px;
+    }
+
+    /* The form title */
+
+    .form-basic h1{
+        display: inline-block;
+        box-sizing: border-box;
+        color:  #4c565e;
+        font-size: 24px;
+        padding: 0 10px 15px;
+        border-bottom: 2px solid #6caee0;
+        margin: 0;
+    }
+
+    .form-basic .form-row > label span{
+        display: inline-block;
+        box-sizing: border-box;
+        color: #5F5F5F;
+        width: 180px;
+        text-align: right;
+        vertical-align: top;
+        padding: 12px 25px;
+    }
+
+    .form-basic input{
+        color:  #5f5f5f;
+        box-sizing: border-box;
+        width: 240px;
+        box-shadow: 1px 2px 4px 0 rgba(0, 0, 0, 0.08);
+        padding: 12px;
+        border: 1px solid #dbdbdb;
+    }
+
+    .form-basic input[type=radio],
+    .form-basic input[type=checkbox]{
+        box-shadow: none;
+        width: auto;
+    }
+
+    .form-basic input[type=checkbox]{
+        margin-top: 13px;
+    }
+
+    .form-basic select{
+        background-color: #ffffff;
+        color:  #5f5f5f;
+        box-sizing: border-box;
+        max-width: 240px;
+        box-shadow: 1px 2px 4px 0 rgba(0, 0, 0, 0.08);
+        padding: 12px 8px;
+        border: 1px solid #dbdbdb;
+    }
+
+    .form-basic textarea{
+        color:  #5f5f5f;
+        box-sizing: border-box;
+        width: 240px;
+        height: 80px;
+        box-shadow: 1px 2px 4px 0 rgba(0, 0, 0, 0.08);
+        font: normal 13px sans-serif;
+        padding: 12px;
+        border: 1px solid #dbdbdb;
+        resize: vertical;
+    }
+
+    .form-basic .form-radio-buttons{
+        display: inline-block;
+        vertical-align: top;
+    }
+
+    .form-basic .form-radio-buttons > div{
+        margin-top: 10px;
+    }
+
+    .form-basic .form-radio-buttons label span{
+        margin-left: 8px;
+        color: #5f5f5f;
+        font-weight: normal;
+    }
+
+    .form-basic .form-radio-buttons input{
+        width: auto;
+    }
+
+    .form-basic button{
+        display: block;
+        border-radius: 2px;
+        background-color:  #6caee0;
+        color: #ffffff;
+        font-weight: bold;
+        box-shadow: 1px 2px 4px 0 rgba(0, 0, 0, 0.08);
+        padding: 14px 22px;
+        border: 0;
+        margin: 40px 183px 0;
+    }
+
+    /*  Making the form responsive. Remove this media query
+        if you don't need the form to work on mobile devices. */
+
+    @media (max-width: 600px) {
+
+        .form-basic{
+            padding: 30px;
+            max-width: 480px;
+        }
+
+        .form-basic .form-row{
+            max-width: 300px;
+            margin: 25px auto;
+            text-align: left;
+        }
+
+        .form-basic .form-title-row{
+            margin-bottom: 50px;
+        }
+
+        .form-basic .form-row > label span{
+            display: block;
+            text-align: left;
+            padding: 0 0 15px;
+        }
+
+        .form-basic select{
+            width: 240px;
+        }
+
+        .form-basic input[type=checkbox]{
+            margin-top:0;
+        }
+
+        .form-basic .form-radio-buttons > div{
+            margin: 0 0 10px;
+        }
+
+        .form-basic button{
+            margin: 0;
+        }
+
+    }
+
+
+</style>
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Innovation Minds Teammate Finder</title>
+
+</head>
+
+
+    <header>
+        <h1>Teammate Finder</h1>
+    </header>
+
+    <div class="main-content">
+
+        <!-- You only need this form and the form-basic.css -->
+
+        <form class="form-basic" method="get" action="/skills">
+
+            <div class="form-title-row">
+                <h1>Find a Teammate!</h1>
+            </div>
+
+            <div class="form-row">
+                <label>
+                    <span>Skills you'd like!</span>
+                    <select name="skills" multiple>
+                        <option value="NodeJS">NodeJS</option>
+                        <option value="Self Motivated">Self Motivated</option>
+                        <option value="Deployment Automation Tools">Deployment Automation Tools</option>
+                        <option value="Cloud Applications">Cloud Applications</option>
+                        <option value="Java">Java</option>
+                        <option value="Organization">Organization</option>
+                        <option value="Data Imports">Data Imports</option>
+                        <option value="C#">C#</option>
+                        <option value="Cloud Management Tools">Cloud Management Tools</option>
+                        <option value="CSS">CSS</option>
+                        <option value="IT Security">IT Security</option>
+                        <option value="Web Development">Web Development</option>
+                        <option value="Messaging">Messaging</option>
+                        <option value="Data Intelligence">Data Intelligence</option>
+                        <option value="Work Independently">Work Independently</option>
+                        <option value="Data Science">Data Science</option>
+                        <option value="Tools">Tools</option>
+                        <option value="Business Intelligence">Business Intelligence</option>
+                        <option value="Logical Thinking">Logical Thinking</option>
+                        <option value="User Research">User Research</option>
+                        <option value="Cloud-Based Visualizations">Cloud-Based Visualizations</option>
+                        <option value="Critical Thinking">Critical Thinking</option>
+                        <option value="Implementation">Implementation</option>
+                        <option value="Customer Support">Customer Support</option>
+                        <option value="Play Framework">Play Framework</option>
+                        <option value="AWS">AWS</option>
+                        <option value="Google Analytics">Google Analytics</option>
+                        <option value="AngularJS">AngularJS</option>
+                        <option value="Configuration">Configuration</option>
+                        <option value="Technical Support">Technical Support</option>
+                        <option value="Usability">Usability</option>
+                        <option value="Linux">Linux</option>
+                        <option value="Information Design">Information Design</option>
+                        <option value="Javascript">Javascript</option>
+                        <option value="Management">Management</option>
+                        <option value="Analytical">Analytical</option>
+                        <option value="Optimize Database">Optimize Database</option>
+                        <option value="Desktop Support">Desktop Support</option>
+                        <option value="Team Building">Team Building</option>
+                        <option value="IT Support">IT Support</option>
+                        <option value="Metrics">Metrics</option>
+                        <option value="Communication">Communication</option>
+                        <option value="Amazon Web Services (AWS)">Amazon Web Services (AWS)</option>
+                        <option value="APIs">APIs</option>
+                        <option value="Continuous Integration">Continuous Integration</option>
+                        <option value="Design Specifications">Design Specifications</option>
+                        <option value="Testing">Testing</option>
+                        <option value="Languages">Languages</option>
+                        <option value="Computer">Computer</option>
+                        <option value="Installation">Installation</option>
+                        <option value="Operations">Operations</option>
+                        <option value="Software Developer">Software Developer</option>
+                        <option value="Product Support">Product Support</option>
+                        <option value="Web Technologies">Web Technologies</option>
+                        <option value="Data Analysis">Data Analysis</option>
+                        <option value="Data Mining">Data Mining</option>
+                        <option value="Database">Database</option>
+                        <option value="QA">QA</option>
+                        <option value="Optimizing Website Performance">Optimizing Website Performance</option>
+                        <option value="Cloud Systems Administration">Cloud Systems Administration</option>
+                        <option value="Network Operations">Network Operations</option>
+                        <option value="Reporting">Reporting</option>
+                        <option value="File Systems">File Systems</option>
+                        <option value="Cloud Platforms">Cloud Platforms</option>
+                        <option value="Agile Project Methodology">Agile Project Methodology</option>
+                        <option value="Flexibility">Flexibility</option>
+                        <option value="Web Analytics">Web Analytics</option>
+                        <option value="Data Modeling">Data Modeling</option>
+                        <option value="Data Visualizations">Data Visualizations</option>
+                        <option value="Motivation">Motivation</option>
+                        <option value="Interaction Flows">Interaction Flows</option>
+                        <option value="Application Development">Application Development</option>
+                        <option value="Optimizing User Experiences">Optimizing User Experiences</option>
+                        <option value="User Testing">User Testing</option>
+                        <option value="Database Administration">Database Administration</option>
+                        <option value="IT Soft Skills">IT Soft Skills</option>
+                        <option value="Deployment of Cloud Services">Deployment of Cloud Services</option>
+                        <option value="Information Architecture">Information Architecture</option>
+                        <option value="IT Solutions">IT Solutions</option>
+                        <option value="Identify User Needs">Identify User Needs</option>
+                        <option value="Wireframes">Wireframes</option>
+                        <option value="Visual Design">Visual Design</option>
+                        <option value="Software Development">Software Development</option>
+                        <option value="Design Thinking">Design Thinking</option>
+                        <option value="Prototyping Methods">Prototyping Methods</option>
+                        <option value="Tablets">Tablets</option>
+                        <option value="Hardware">Hardware</option>
+                        <option value="UI">UI</option>
+                        <option value="Team Oriented">Team Oriented</option>
+                        <option value="IT Optimization">IT Optimization</option>
+                        <option value="Storage">Storage</option>
+                        <option value="Systems Software">Systems Software</option>
+                        <option value="Design Principles">Design Principles</option>
+                        <option value="Twitter Bootstrap">Twitter Bootstrap</option>
+                        <option value="Cloud Services">Cloud Services</option>
+                        <option value="Technology">Technology</option>
+                        <option value="Troubleshooting">Troubleshooting</option>
+                        <option value="Cloud Scalability">Cloud Scalability</option>
+                        <option value="Continuous Deployment">Continuous Deployment</option>
+                        <option value="Operating Systems">Operating Systems</option>
+                        <option value="Research Emerging Technology">Research Emerging Technology</option>
+                        <option value="Content Management">Content Management</option>
+                        <option value="Security">Security</option>
+                        <option value="Configure Database Software">Configure Database Software</option>
+                        <option value="User Interaction Diagrams">User Interaction Diagrams</option>
+                        <option value="Problem Solving">Problem Solving</option>
+                        <option value="Architecture">Architecture</option>
+                        <option value="Product Management">Product Management</option>
+                        <option value="Information Systems">Information Systems</option>
+                        <option value="Web Applications">Web Applications</option>
+                        <option value="Interaction Design">Interaction Design</option>
+                        <option value="Open Source Technology Integration">Open Source Technology Integration</option>
+                        <option value="Self Starting">Self Starting</option>
+                        <option value="Data Storage">Data Storage</option>
+                        <option value="Mobile Applications">Mobile Applications</option>
+                        <option value="Leadership">Leadership</option>
+                        <option value="Responsive Design">Responsive Design</option>
+                        <option value="Process Flows">Process Flows</option>
+                        <option value="EmberJS">EmberJS</option>
+                        <option value="Technical Writing">Technical Writing</option>
+                        <option value="Time Management">Time Management</option>
+                        <option value="Software Engineering">Software Engineering</option>
+                        <option value="User Experience">User Experience</option>
+                        <option value="User Flows">User Flows</option>
+                        <option value="Virtualization">Virtualization</option>
+                        <option value="Teamwork">Teamwork</option>
+                        <option value="Application & Server Monitoring">Application & Server Monitoring</option>
+                        <option value="Microsoft Office">Microsoft Office</option>
+                        <option value="Tech Skills">Tech Skills</option>
+                        <option value="Cloud Maintenance Tasks">Cloud Maintenance Tasks</option>
+                        <option value="Project Management">Project Management</option>
+                        <option value="Front End Design">Front End Design</option>
+                        <option value="Business Process Modeling">Business Process Modeling</option>
+                        <option value="Training">Training</option>
+                        <option value="Integrated Technologies">Integrated Technologies</option>
+                        <option value="Presentation">Presentation</option>
+                        <option value="Design">Design</option>
+                        <option value="Product Design">Product Design</option>
+                        <option value="Analytics">Analytics</option>
+                        <option value="Documentation">Documentation</option>
+                        <option value="Design Tools">Design Tools</option>
+                        <option value="Coding">Coding</option>
+                        <option value="User Interface">User Interface</option>
+                        <option value="Python">Python</option>
+                        <option value="Servers">Servers</option>
+                        <option value="Content Strategy">Content Strategy</option>
+                        <option value="Review Existing Solutions">Review Existing Solutions</option>
+                        <option value="Product Training">Product Training</option>
+                        <option value="Utilizing Cloud Automation Tools">Utilizing Cloud Automation Tools</option>
+                        <option value="ExpressJS">ExpressJS</option>
+                        <option value="Configuration Management">Configuration Management</option>
+                        <option value="Programming">Programming</option>
+                        <option value="Emerging Technologies">Emerging Technologies</option>
+                        <option value="Help Desk">Help Desk</option>
+                        <option value="Search Engine Optimization (SEO)">Search Engine Optimization (SEO)</option>
+                        <option value="Design Prototypes">Design Prototypes</option>
+                        <option value="Networking">Networking</option>
+                        <option value="Data Strategy">Data Strategy</option>
+                        <option value="User-Centered Design">User-Centered Design</option>
+                        <option value="Product Development">Product Development</option>
+                        <option value="Data Visualization Tools">Data Visualization Tools</option>
+                        <option value="Cloud Hosting Services">Cloud Hosting Services</option>
+                        <option value="Big Data">Big Data</option>
+                        <option value="Business Analytics">Business Analytics</option>
+                        <option value="Web Design">Web Design</option>
+                        <option value="Touch Input Navigation">Touch Input Navigation</option>
+                    </select>
+                </label>
+            </div>
+
+            <div class="form-row">
+                <button type="submit">Submit Form</button>
+            </div>
+
+        </form>
+
+    </div>
+
+</body>
+
+</html>

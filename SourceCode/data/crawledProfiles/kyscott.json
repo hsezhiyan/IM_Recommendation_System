@@ -1,0 +1,251 @@
+{
+  "profileAlternative": {
+    "name": "Kyle Scott",
+    "headline": "Lead Recruiter at Haskell",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQGYzSVB-AOUOg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=Y5cv5Y-6ZJ-URrcmMmt_jFpDWEN-PoRqoyBYqhGpJN8",
+    "location": "Jacksonville, Florida",
+    "connections": "500+",
+    "summary": "An experienced talent acquisition professional who's highly adept at building and maintaining internal and external relationships. As an experienced Lead Recruiter, my goal is to continually develop my skills within Technical Recruiting, College Recruiting, and Team Development."
+  },
+  "aboutAlternative": {
+    "text": "An experienced talent acquisition professional who's highly adept at building and maintaining internal and external relationships. As an experienced Lead Recruiter, my goal is to continually develop my skills within Technical Recruiting, College Recruiting, and Team Development."
+  },
+  "positions": [
+    {
+      "title": "Lead Corporate Recruiter",
+      "companyName": "The Haskell Company",
+      "location": "Jacksonville, Florida Area",
+      "description": "Haskell delivers Architecture, Engineering, Construction (AEC) and Consulting solutions to assure certainty of outcome for complex capital projects worldwide. Haskell is a global, fully integrated, single-source design-build and EPC firm with 1,480+ highly specialized, in-house design, construction and administrative professionals across commercial and industrial markets, supporting both private and public sector clients.\n\nHaskell’s core markets include Consumer & Packaged Goods; Infrastructure & Transportation; Healthcare; Federal; and Advanced Manufacturing. With $1 billion+ in annual revenue and 20+ office locations around the globe, Haskell is a trusted partner for global and emerging clients.\n\nMission: Haskell is a globally integrated project delivery organization, possessed of unsurpassed technical capabilities, dedicated to creating exceptional value for our customers and an exceptional work environment for our colleagues.\n…\nsee more",
+      "date1": "Nov 2018 – Present",
+      "date2": "1 yr 1 mo"
+    },
+    {
+      "title": "Executive Recruiter",
+      "companyName": "Judge Direct Placement",
+      "location": "Jacksonville, Florida Area",
+      "date1": "Jun 2018 – Nov 2018",
+      "date2": "6 mos"
+    },
+    {
+      "title": "Corporate Recruiter",
+      "companyName": "Hueman Your RPO Partner",
+      "location": "Jacksonville Beach, FL",
+      "date1": "Nov 2014 – Jun 2018",
+      "date2": "3 yrs 8 mos"
+    },
+    {
+      "title": "Aerotek",
+      "location": "Phoenix, AZ",
+      "date1": "Jun 2012 – Jun 2014",
+      "date2": "2 yrs 1 mo",
+      "roles": [
+        {
+          "title": "Account Manager",
+          "date1": "Jun 2012 – Jun 2014",
+          "date2": "2 yrs 1 mo",
+          "location": "Phoenix, AZ"
+        },
+        {
+          "title": "Engineering Recruiter",
+          "date1": "Jul 2010 – Jun 2012",
+          "date2": "2 yrs",
+          "location": "Phoenix, Arizona"
+        }
+      ]
+    },
+    {
+      "title": "Title\nAccount Manager",
+      "location": "Phoenix, AZ",
+      "date1": "Jun 2012 – Jun 2014",
+      "date2": "2 yrs 1 mo",
+      "roles": [
+        {
+          "title": "Account Manager",
+          "date1": "Jun 2012 – Jun 2014",
+          "date2": "2 yrs 1 mo",
+          "location": "Phoenix, AZ"
+        }
+      ]
+    },
+    {
+      "title": "Title\nEngineering Recruiter",
+      "location": "Phoenix, Arizona",
+      "date1": "Jul 2010 – Jun 2012",
+      "date2": "2 yrs",
+      "roles": [
+        {
+          "title": "Engineering Recruiter",
+          "date1": "Jul 2010 – Jun 2012",
+          "date2": "2 yrs",
+          "location": "Phoenix, Arizona"
+        }
+      ]
+    }
+  ],
+  "educations": [
+    {
+      "title": "Arizona State University",
+      "degree": "Business & Communications"
+    },
+    {
+      "title": "Bemidji State University",
+      "degree": "Biology, General",
+      "fieldofstudy": "Biology, General"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Technical Recruiting",
+      "count": "73"
+    },
+    {
+      "title": "Recruiting",
+      "count": "63"
+    },
+    {
+      "title": "Staffing Services",
+      "count": "54"
+    },
+    {
+      "title": "Temporary Placement",
+      "count": "48"
+    },
+    {
+      "title": "Permanent Placement",
+      "count": "35"
+    },
+    {
+      "title": "Screening",
+      "count": "21"
+    },
+    {
+      "title": "Benefits Negotiation",
+      "count": "17"
+    },
+    {
+      "title": "Human Resources",
+      "count": "17"
+    },
+    {
+      "title": "Contract Recruitment",
+      "count": "16"
+    },
+    {
+      "title": "Internet Recruiting",
+      "count": "15"
+    },
+    {
+      "title": "Account Management",
+      "count": "11"
+    },
+    {
+      "title": "Screening Resumes",
+      "count": "10"
+    },
+    {
+      "title": "College Recruiting",
+      "count": "10"
+    },
+    {
+      "title": "Temporary Staffing",
+      "count": "5"
+    },
+    {
+      "title": "Applicant Tracking Systems",
+      "count": "23"
+    },
+    {
+      "title": "Talent Management",
+      "count": "14"
+    },
+    {
+      "title": "Cold Calling",
+      "count": "13"
+    },
+    {
+      "title": "Sourcing",
+      "count": "12"
+    },
+    {
+      "title": "Networking",
+      "count": "12"
+    },
+    {
+      "title": "Precision Haircuts",
+      "count": "3"
+    },
+    {
+      "title": "Agility",
+      "count": "3"
+    },
+    {
+      "title": "Talent Acquisition",
+      "count": "30"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "1",
+      "items": [
+        "#1 Best Place To Work in America"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/lili-tran/",
+      "text": "Recruitment Coordinator on behalf of Deutsche Bank"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tania-mccarthy-27aa6452/",
+      "text": "Director- HR Services"
+    },
+    {
+      "user": "https://www.linkedin.com/in/wendylucius/",
+      "text": "Corporate Recruiter at Fanatics, Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/savannah-lemaster-75a28218/",
+      "text": "Operations Recruiting Supervisor - Fanatics, Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/jarvis-williams-jr-951a723a/",
+      "text": "Corporate Recruiter at The Haskell Company"
+    },
+    {
+      "user": "https://www.linkedin.com/in/donald-reeves-2ab4148b/",
+      "text": "Director of Client Services at Xerox/PrePass"
+    },
+    {
+      "user": "https://www.linkedin.com/in/harley-schwartz-70b063165/",
+      "text": "Technical Account Manager at Insight Global"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jennifer-cooper-czebotar-1363a236/",
+      "text": "Vice President, RPO at Hueman Your RPO Partner"
+    },
+    {
+      "user": "https://www.linkedin.com/in/samantha-anderson-shrm-scp-786a7024/",
+      "text": "Human Resources Manager at SmartRent"
+    },
+    {
+      "user": "https://www.linkedin.com/in/brian-stroud-14a66662/",
+      "text": "Senior Strategic Program Manager at Adecco"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Kyle Scott",
+    "headline": "Lead Recruiter at Haskell",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQGYzSVB-AOUOg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=Y5cv5Y-6ZJ-URrcmMmt_jFpDWEN-PoRqoyBYqhGpJN8",
+    "location": "Jacksonville, Florida",
+    "connections": "500+",
+    "summary": "An experienced talent acquisition professional who's highly adept at building and maintaining internal and external relationships. As an experienced Lead Recruiter, my goal is to continually develop my skills within Technical Recruiting, College Recruiting, and Team Development."
+  }
+}

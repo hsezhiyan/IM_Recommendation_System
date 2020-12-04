@@ -1,0 +1,311 @@
+{
+  "profileAlternative": {
+    "name": "Emma Wedekind",
+    "headline": "Software Engineer at LogMeIn",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQG9VJb8JAZacQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=OOaIspJYIVdnrxahZFzJki9OTwN12RrlGv04tyJ3laY",
+    "location": "Mannheim Area, Germany",
+    "connections": "500+",
+    "summary": "I am a UX Engineer based out of Karlsruhe, Germany. I'm currently working to build a Design System and Component Library at LogMeIn!"
+  },
+  "aboutAlternative": {
+    "text": "I am a UX Engineer based out of Karlsruhe, Germany. I'm currently working to build a Design System and Component Library at LogMeIn!"
+  },
+  "positions": [
+    {
+      "title": "Founder",
+      "companyName": "Coding Coach",
+      "date1": "Sep 2018 – Present",
+      "date2": "1 yr 3 mos"
+    },
+    {
+      "title": "UX Engineer",
+      "companyName": "LogMeIn",
+      "location": "Karlsruhe Area, Germany",
+      "date1": "Feb 2018 – Present",
+      "date2": "1 yr 10 mos"
+    },
+    {
+      "title": "IBM",
+      "location": "Austin, Texas",
+      "description": "Work closely with the design team to move towards a more Agile methodology by quickly prototyping applications using HTML5, CSS3, JavaScript, Sass, AngularJS, and node.js.",
+      "date1": "Nov 2016 – Feb 2018",
+      "date2": "1 yr 4 mos",
+      "roles": [
+        {
+          "title": "Front-End Developer, IBM Quantum",
+          "date1": "Nov 2016 – Feb 2018",
+          "date2": "1 yr 4 mos",
+          "location": "Austin, Texas"
+        },
+        {
+          "title": "Software Developer - Accessibility Lead, Spectrum Control Development",
+          "date1": "Jul 2015 – Nov 2016",
+          "date2": "1 yr 5 mos",
+          "location": "Austin, Texas"
+        }
+      ]
+    },
+    {
+      "title": "Title\nFront-End Developer, IBM Quantum",
+      "location": "Austin, Texas",
+      "description": "Work closely with the design team to move towards a more Agile methodology by quickly prototyping applications using HTML5, CSS3, JavaScript, Sass, AngularJS, and node.js.",
+      "date1": "Nov 2016 – Feb 2018",
+      "date2": "1 yr 4 mos",
+      "roles": [
+        {
+          "title": "Front-End Developer, IBM Quantum",
+          "date1": "Nov 2016 – Feb 2018",
+          "date2": "1 yr 4 mos",
+          "location": "Austin, Texas"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSoftware Developer - Accessibility Lead, Spectrum Control Development",
+      "location": "Austin, Texas",
+      "description": "Develop the user interface for IBM Spectrum Control in the IBM Spectrum Suite using Javascript, HTML, and CSS with Dojo. Implement screen reader, keyboard, and high-contrast mode accessibility in both Spectrum Control and Storage Insights to ensure compliance with IBM's accessibility standards.",
+      "date1": "Jul 2015 – Nov 2016",
+      "date2": "1 yr 5 mos",
+      "roles": [
+        {
+          "title": "Software Developer - Accessibility Lead, Spectrum Control Development",
+          "date1": "Jul 2015 – Nov 2016",
+          "date2": "1 yr 5 mos",
+          "location": "Austin, Texas"
+        }
+      ]
+    },
+    {
+      "title": "Siena College",
+      "location": "Loudonville, NY",
+      "description": "Responsibilities include organizing and managing team meetings, efficiently delegating tasks, ensuring that software documentation is complete and accurate, and remediating group conflicts.",
+      "date1": "Sep 2014 – May 2015",
+      "date2": "9 mos",
+      "roles": [
+        {
+          "title": "Software Engineering Team Lead",
+          "date1": "Sep 2014 – May 2015",
+          "date2": "9 mos",
+          "location": "Loudonville, NY"
+        },
+        {
+          "title": "Admissions McGuire",
+          "date1": "Jan 2013 – May 2015",
+          "date2": "2 yrs 5 mos",
+          "location": "Latham, NY"
+        },
+        {
+          "title": "Pep Band Manager",
+          "date1": "Sep 2012 – May 2015",
+          "date2": "2 yrs 9 mos",
+          "location": "Latham, NY"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSoftware Engineering Team Lead",
+      "location": "Loudonville, NY",
+      "description": "Responsibilities include organizing and managing team meetings, efficiently delegating tasks, ensuring that software documentation is complete and accurate, and remediating group conflicts.",
+      "date1": "Sep 2014 – May 2015",
+      "date2": "9 mos",
+      "roles": [
+        {
+          "title": "Software Engineering Team Lead",
+          "date1": "Sep 2014 – May 2015",
+          "date2": "9 mos",
+          "location": "Loudonville, NY"
+        }
+      ]
+    },
+    {
+      "title": "Title\nAdmissions McGuire",
+      "location": "Latham, NY",
+      "description": "Responsibilities include giving weekly interviews to prospective high school students, attending open house functions, and conversing with prospective families about the Siena College experience.",
+      "date1": "Jan 2013 – May 2015",
+      "date2": "2 yrs 5 mos",
+      "roles": [
+        {
+          "title": "Admissions McGuire",
+          "date1": "Jan 2013 – May 2015",
+          "date2": "2 yrs 5 mos",
+          "location": "Latham, NY"
+        }
+      ]
+    },
+    {
+      "title": "Title\nPep Band Manager",
+      "location": "Latham, NY",
+      "description": "Responsibilities include organizing weekly rehearsals, distributing music packets to band members, coordinating the MAAC Tournament band schedule, and assisting the Pep Band Director.",
+      "date1": "Sep 2012 – May 2015",
+      "date2": "2 yrs 9 mos",
+      "roles": [
+        {
+          "title": "Pep Band Manager",
+          "date1": "Sep 2012 – May 2015",
+          "date2": "2 yrs 9 mos",
+          "location": "Latham, NY"
+        }
+      ]
+    },
+    {
+      "title": "Co-op/Intern Programmer",
+      "companyName": "IBM",
+      "location": "poughkeepsie, new york",
+      "description": "Automating the installation of Websphere Application Server on z/OS using Python.",
+      "date1": "May 2014 – Dec 2014",
+      "date2": "8 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Siena College",
+      "degree": "B.S. In Computer Science",
+      "fieldofstudy": "Computer Science",
+      "date1": "2011",
+      "date2": "2015"
+    },
+    {
+      "title": "City University London",
+      "degree": "B.S. In Computer Science",
+      "fieldofstudy": "Computer Science",
+      "date1": "2013",
+      "date2": "2014"
+    }
+  ],
+  "skills": [
+    {
+      "title": "HTML5",
+      "count": "8"
+    },
+    {
+      "title": "CSS",
+      "count": "15"
+    },
+    {
+      "title": "JavaScript",
+      "count": "19"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "1",
+    "receivedCount": "1",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/justin-van-wygerden-b0081a89/",
+        "text": "Leadership and intelligence come to mind when I think of Emma Bostian in the software development and engineering field. She leads not just through innate ability, but through sharp and effective skills that she possesses. She is also able to adapt to different software platforms/environments quickly - a skill she combines with a genuine enthusiasm for learning. Emma's tendency to teach and show others is likewise unique, and often causes others to follow her.\n…\nSee more"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/paul-austin-51b22a11/",
+        "text": "I worked as an intern under Paul for six months, and feel confident saying that he is an amazing manager.  Paul truly cares about the success of his employees, and took the time to really get to know me.  He is definitely one of the best managers IBM has to offer!"
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "18",
+      "items": [
+        "Analysis of Algorithms",
+        "Assembly Language",
+        "Cryptography and Security",
+        "Data Structures",
+        "Database Management Systems",
+        "Discrete Mathematics I/II",
+        "Financial Accounting",
+        "Introduction to Artificial Intelligence",
+        "Introduction to Computer Science",
+        "Introduction to Programming",
+        "Management",
+        "Management of IT Strategy",
+        "Managerial Accounting",
+        "Micro-Economics",
+        "Object Oriented Design and Programming",
+        "Principles of Marketing",
+        "Software Engineering I/II",
+        "Web Application Development"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "Eminence and Excellence Award",
+        "Manager's Choice Award",
+        "Manager's Choice Award: Show Personal Interest"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "French",
+        "French"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "IBM",
+        "IBM Austin New Hire Network"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/saravieira1/",
+      "text": "Full Stack Developer na CodeSandbox"
+    },
+    {
+      "user": "https://www.linkedin.com/in/carolstran/",
+      "text": "Open Source Engineer at Meeshkan"
+    },
+    {
+      "user": "https://www.linkedin.com/in/annesiebold/",
+      "text": "Senior Product Manager - Product Discovery at 1&1"
+    },
+    {
+      "user": "https://www.linkedin.com/in/rauf-aghayev-9a7225168/",
+      "text": "Software Developer at 1&1"
+    },
+    {
+      "user": "https://www.linkedin.com/in/joebostian/",
+      "text": "IBM Data Science Architect, z Systems"
+    },
+    {
+      "user": "https://www.linkedin.com/in/osamaelzero/",
+      "text": "Someone"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jamie-bruno-16544114b/",
+      "text": "Prosthodontic Resident at UMN"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ericastanley/",
+      "text": "Software Engineering Manager"
+    },
+    {
+      "user": "https://www.linkedin.com/in/roohijain/",
+      "text": "Mechatronics and Robotics Engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/eric-b/",
+      "text": "React Developer / Advocate at (Insert Your Company Here)"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Math Tutor",
+      "experience": "Austin Partners in Education",
+      "description": "Children",
+      "date1": "Nov 2015",
+      "date2": "1 mo"
+    }
+  ],
+  "profile": {
+    "name": "Emma Wedekind",
+    "headline": "Software Engineer at LogMeIn",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQG9VJb8JAZacQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=OOaIspJYIVdnrxahZFzJki9OTwN12RrlGv04tyJ3laY",
+    "location": "Mannheim Area, Germany",
+    "connections": "500+",
+    "summary": "I am a UX Engineer based out of Karlsruhe, Germany. I'm currently working to build a Design System and Component Library at LogMeIn!"
+  }
+}

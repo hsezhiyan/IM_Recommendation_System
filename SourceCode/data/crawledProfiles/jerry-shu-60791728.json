@@ -1,0 +1,207 @@
+{
+  "profileAlternative": {
+    "name": "Jerry Shu",
+    "headline": "DBA (Oracle, MongoDB)",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQGDJZiVurqYQw/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=ETgecJ4srZnByl6BXqFpWMKumEbVM-SmRZ3_M-lqJ_0",
+    "location": "San Diego, California",
+    "connections": "126"
+  },
+  "aboutAlternative": {},
+  "positions": [
+    {
+      "title": "Oracle and Mongodb DBA",
+      "companyName": "Humana",
+      "location": "San Diego, California",
+      "description": "DBA of Oracle 12c/13c (AWS EC2) and MongoDB 3.6/4.0 (AWS EC2, Cluster, Ops Manager), MySQL, SSMS18/AzureDataStudio (RDS)\nDB Developer of Humana patient data de-identification (HIPAA compliant), Data Analysis of HEDIS, Gap In Care, HCC and Drug Safety\nSQL, PL/SQL, Python, Bash, JavaScript",
+      "date1": "May 2015 – Present",
+      "date2": "4 yrs 7 mos"
+    },
+    {
+      "title": "Oracle DBA",
+      "companyName": "Sony Online Entertainment",
+      "location": "Greater San Diego Area",
+      "description": "Oracle 11gR2 (RAC/ASM), EnterpriseDB 9.x (PostgreSQL), MySQL, HP Vertica\nData Warehouse, Data Analysis, ETL, Migration, Performance, Replication, GoldenGate, RMAN\nSQL, PL/SQL, Bash",
+      "date1": "May 2013 – May 2015",
+      "date2": "2 yrs 1 mo"
+    },
+    {
+      "title": "Sr Engineer",
+      "companyName": "EMC",
+      "location": "Carlsbad, CA",
+      "description": "Oracle, MS SQL Server, DB2, MySQL\nWebSphere, WebLogic, JBoss\nAIX, Unix, Linux, VM\nJava, Python, Bash",
+      "date1": "Nov 2005 – Apr 2013",
+      "date2": "7 yrs 6 mos"
+    },
+    {
+      "title": "Oracle DBA",
+      "companyName": "Panasonic",
+      "location": "Secaucus, NJ",
+      "description": "Oracle Database, Oracle Forms, Developer, Discoverer\nPerformance, Replication, Data Analysis",
+      "date1": "Feb 2000 – Oct 2005",
+      "date2": "5 yrs 9 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "New York University - Polytechnic School of Engineering",
+      "degree": "Master's degree",
+      "fieldofstudy": "Automation and Robotics",
+      "date1": "1994",
+      "date2": "1996"
+    },
+    {
+      "title": "Shanghai Jiao Tong University",
+      "degree": "Bachelor's degree",
+      "fieldofstudy": "Mechanical Engineering",
+      "date1": "1982",
+      "date2": "1986"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Oracle",
+      "count": "15"
+    },
+    {
+      "title": "EnterpriseDB"
+    },
+    {
+      "title": "MySQL",
+      "count": "1"
+    },
+    {
+      "title": "Software Development",
+      "count": "17"
+    },
+    {
+      "title": "Integration",
+      "count": "3"
+    },
+    {
+      "title": "Virtualization",
+      "count": "1"
+    },
+    {
+      "title": "Shell Scripting",
+      "count": "1"
+    },
+    {
+      "title": "Microsoft SQL Server",
+      "count": "4"
+    },
+    {
+      "title": "Linux",
+      "count": "4"
+    },
+    {
+      "title": "Unix",
+      "count": "11"
+    },
+    {
+      "title": "Solaris",
+      "count": "11"
+    },
+    {
+      "title": "Weblogic",
+      "count": "6"
+    },
+    {
+      "title": "VMware",
+      "count": "4"
+    },
+    {
+      "title": "XML",
+      "count": "15"
+    },
+    {
+      "title": "Enterprise Software",
+      "count": "5"
+    },
+    {
+      "title": "MongoDB"
+    },
+    {
+      "title": "SQL"
+    },
+    {
+      "title": "GoldenGate"
+    },
+    {
+      "title": "Vertica"
+    },
+    {
+      "title": "Oracle Certified DBA",
+      "count": "5"
+    },
+    {
+      "title": "Unix Shell Scripting",
+      "count": "3"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "3",
+      "items": [
+        "German",
+        "Japanese",
+        "Mandarin"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/signarvaez/",
+      "text": "Principal Solutions Architect at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ranjeet-kumar-singh-8078b69a/",
+      "text": "Mongodb DBA AMADEUS INC"
+    },
+    {
+      "user": "https://www.linkedin.com/in/bjforster/",
+      "text": "mysql and mongo DBA"
+    },
+    {
+      "user": "https://www.linkedin.com/in/anne-helfter-90340ba1/",
+      "text": "Oracle and MongoDB DBA at Datapipe"
+    },
+    {
+      "user": "https://www.linkedin.com/in/aakashpandhi/",
+      "text": "Cassandra,MongoDB, Oracle DBA and Architect."
+    },
+    {
+      "user": "https://www.linkedin.com/in/rohith-vuppala-054049138/",
+      "text": "DBA at Sling TV"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tom-ruffner-32476515/",
+      "text": "DBA at Hewitt Associates"
+    },
+    {
+      "user": "https://www.linkedin.com/in/olsonmike/",
+      "text": "An dynamic Technical Expert with notable experience developing intricate database infrastructures to support operations."
+    },
+    {
+      "user": "https://www.linkedin.com/in/santhosh-s-a07b14166/",
+      "text": "MongoDB DBA at Kohl's"
+    },
+    {
+      "user": "https://www.linkedin.com/in/maryam-shokoufi-43039596/",
+      "text": "Database Engineer"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Jerry Shu",
+    "headline": "DBA (Oracle, MongoDB)",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQGDJZiVurqYQw/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=ETgecJ4srZnByl6BXqFpWMKumEbVM-SmRZ3_M-lqJ_0",
+    "location": "San Diego, California",
+    "connections": "126"
+  }
+}

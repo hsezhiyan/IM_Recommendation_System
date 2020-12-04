@@ -1,0 +1,170 @@
+{
+  "profileAlternative": {
+    "name": "Bo Qian",
+    "headline": "CS PhD, CFA, FRM",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQEYi60oZy02wQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=AhOuCtVXShZ0JYDJ2NURy-nbeIlpK1KDFeB1X0qkQLc",
+    "location": "Greater New York City Area",
+    "connections": "350",
+    "summary": "Software developer for technology challenge, financial engineer, quantitative developer\n\nSpecialties: CS Phd (GPA 4.0/4.0), CFA and FRM Chartholder, C++, C#, Python, R, Matlab, PolyPaths, fixed income, mortgage back security"
+  },
+  "aboutAlternative": {
+    "text": "Software developer for technology challenge, financial engineer, quantitative developer\n\nSpecialties: CS Phd (GPA 4.0/4.0), CFA and FRM Chartholder, C++, C#, Python, R, Matlab, PolyPaths, fixed income, mortgage back security"
+  },
+  "positions": [
+    {
+      "title": "Senior Software Engineer",
+      "companyName": "Bloomberg",
+      "location": "Greater New York City Area",
+      "description": "C++, Python, Scala, Kafka, Cassandra, Splunk, Comdb2, Postgres, multi-threading, distributed calculation system, Gradle, CMake, GIT, llcalc, plink, BPKG, SYMV\n1. Fixed bugs and enhanced features for Trading Solution Application Development Framework.\n2. Researched Stream Reactor open source Bloomberg API Kafka Connect. Fixed some serious bugs and implemented authentication/authorization/general topic subscription features. Bug fixes and new features were contributed back to open source community.\n3. Participated in improving Protocol Bridge and its associated operational tools.\n4. Implemented Splunk Protocol Bridge dashboard for Workflows and RHUB Messages as RHUB operational tool.\n5. Created CMake files for BciMessageStore project and implemented functions for Cassandra message store.\n\n…\nsee more",
+      "date1": "Mar 2017 – Present",
+      "date2": "2 yrs 9 mos"
+    },
+    {
+      "title": "Senior Quantitative Developer",
+      "companyName": "Amherst Holdings LLC",
+      "location": "Austin, Texas Area",
+      "description": "C++, C#, multi-threading, SQL, R, Python, distributed calculation system, PolyPaths, SAS\n1. Implemented agency loan level prepayment model (C++ 11) and integrated it into PolyPaths.\n2. Implemented model calculation on local and distributed system.\n3. Improved model calculation speed 1,000 times through multiple performance tuning iterations.\n4. Implemented commercial loan valuation tool on Excel spread sheet by using C++/CLI and VSTO (Visual Studio Tool for Office).\n\n…\nsee more",
+      "date1": "Jul 2014 – Mar 2017",
+      "date2": "2 yrs 9 mos"
+    },
+    {
+      "title": "Associate Director/Senior Develolper",
+      "companyName": "Royal Bank of Canada Capital Markets",
+      "description": "C#, C++, Perl, Python, Java, Excel, XLL, VBA, PolyPaths, Intex API, SQL, WPF, WinForm, WWF, Objected Oriented Analysis, Design and Programming, Agile, NUnit, SVN, CVS, UNIX, Risk Management\n1. Lead and develop a cutting edge framework for integrating off-the-shelf vendor systems such as PolyPaths, Bloomberg data license, Intex, AFT, Trepp, and Markit for MBS/CMBS/ABS/CLO risk analytics into RBC Capital Markets’ enterprise risk management systems.\n2. Build PolyPaths PROD, UAT, and DEV distributed calculation grids with about 600 total calculators. Setup Intex and AFT library for PolyPaths. Implement tools to monitor and maintain PolyPaths grids in good status.\n3. Update AFT prepayment and default model monthly data. Assist traders and risk managers to fine tune model parameters.\n4. Implement sensitivity based VaR system on OAS, partial duration, partial mortgage spread duration, and partial vega.\n5. Implement automation programs to generate daily risk reports for regular VaR, stress VaR, stress scenarios, back testing, and PnL decomposition.\n6. Design and build an open, flexible task manager framework for automation programs from scratch.\n…\nsee more",
+      "date1": "Oct 2008 – Jul 2014",
+      "date2": "5 yrs 10 mos"
+    },
+    {
+      "title": "Senior Research Analyst",
+      "companyName": "Freddie Mac",
+      "location": "McLean, VA",
+      "description": "Financial Engineering Group\nSkills: C++, MATLAB, Intex API, Objected Oriented Analysis, Design and Programming, Linux, UNIX, Sun compiler, g++, Java, CVS Version Control System, Purify\n1. Maintain and improve current C++ FARM( Framework for Analytic, Research and Modeling ) library of interest rate, house price appreciation, prepayment, default, severity, and valuation models.\n2. Work as part of Financial Engineering team to design, develop, implement, test and deliver frameworks / components / applications used in risk management, trading and model performance measurement.\n…\nsee more",
+      "date1": "Jan 2007 – Oct 2008",
+      "date2": "1 yr 10 mos"
+    },
+    {
+      "title": "Developer II",
+      "companyName": "Countrywide Securities Corporation",
+      "location": "Calabassas, CA",
+      "description": "Fixed Income Research and Implementation\nSkills: Objected Oriented Analysis, Design and Programming, Microsoft Visual Studio, C++, C#, COM, Visual Basic, Visual SourceSafe Version Control System, and SQL relational database management system\n1. Fixed income researching with focus on MBS (Mortgage Backed Security).\n2. MBS prepayment, default and severity model implementation and testing.\n…\nsee more",
+      "date1": "Sep 2005 – Jan 2007",
+      "date2": "1 yr 5 mos"
+    },
+    {
+      "title": "Teaching Assistant & Researching Assistant",
+      "companyName": "University of Georgia",
+      "description": "C++, MATLAB, SAS, Database Management System, UNIX, Sun WorkStation\n1. TA for Artificial Intelligence, Compiler and Computer Architecture\n2. RA in topic “Intelligent Financial Market Modeling and Prediction”\n3. RA research fields: Machine Learning, Artificial Neural Network, Genetic Algorithm, Decision Tree, Kernel Regression, K-Nearest Neighbor, Chaos Theory, Monte Carlo Simulation, Time Series, ARIMA, GARCH, Stochastic Process, etc.\n\n…\nsee more",
+      "date1": "Aug 2000 – Jul 2005",
+      "date2": "5 yrs"
+    }
+  ],
+  "educations": [
+    {
+      "title": "The University of Georgia",
+      "degree": "PhD",
+      "fieldofstudy": "Computer Science",
+      "date1": "2000",
+      "date2": "2005"
+    },
+    {
+      "title": "Peking University",
+      "degree": "Master",
+      "fieldofstudy": "Computer Science",
+      "date1": "1995",
+      "date2": "1998"
+    },
+    {
+      "title": "Fudan University",
+      "degree": "BS",
+      "fieldofstudy": "Biology, Minor:Computer Science"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Fixed Income",
+      "count": "6"
+    },
+    {
+      "title": "Derivatives",
+      "count": "5"
+    },
+    {
+      "title": "Capital Markets",
+      "count": "4"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "3",
+      "items": [
+        "Foreign exchange market prediction with multiple classifiers",
+        "Stock market prediction with multiple classifiers",
+        "Hurst exponent and financial market predictability"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "Chinese",
+        "English"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/runmin/",
+      "text": "PhD, CFA, FRM; Quantitative Model Validator at Citi"
+    },
+    {
+      "user": "https://www.linkedin.com/in/andy-li-phd-cfa-plda-frm-5229104/",
+      "text": "HBS Alumni, Machine Learning at Bank of America"
+    },
+    {
+      "user": "https://www.linkedin.com/in/reneehpham/",
+      "text": "Business & Technology Delivery Senior Analyst"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ying-liu-724608/",
+      "text": "Senior Software Engineer at Bloomberg"
+    },
+    {
+      "user": "https://www.linkedin.com/in/qing-qin-27438616/",
+      "text": "PhD. CFA. Enterprise Software Architect, Tax"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jian-yao-75711728/",
+      "text": "Senior Software Engineer at Ask.com"
+    },
+    {
+      "user": "https://www.linkedin.com/in/dani-mccullagh-4a6034152/",
+      "text": "Lead Associate at Booz Allen Hamilton"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yiqing-du-3791994/",
+      "text": "Vice President, CFA, PhD"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yong-hu-499b6924/",
+      "text": "Senior Quantitative Analyst, PhD, CFA, FRM"
+    },
+    {
+      "user": "https://www.linkedin.com/in/john-gu-39b2993/",
+      "text": "Principal Software Engineer, CFA, FRM"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Bo Qian",
+    "headline": "CS PhD, CFA, FRM",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQEYi60oZy02wQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=AhOuCtVXShZ0JYDJ2NURy-nbeIlpK1KDFeB1X0qkQLc",
+    "location": "Greater New York City Area",
+    "connections": "350",
+    "summary": "Software developer for technology challenge, financial engineer, quantitative developer\n\nSpecialties: CS Phd (GPA 4.0/4.0), CFA and FRM Chartholder, C++, C#, Python, R, Matlab, PolyPaths, fixed income, mortgage back security"
+  }
+}

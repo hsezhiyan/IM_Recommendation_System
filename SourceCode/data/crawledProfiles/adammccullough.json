@@ -1,0 +1,323 @@
+{
+  "profileAlternative": {
+    "name": "Adam McCullough",
+    "headline": "Software Engineer",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQGwh6YMDsL90g/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=kbjqJgSEd042rXPhIX_ZlxO3aGOlz61G_pI3CD9koJ8",
+    "location": "San Bruno, California",
+    "connections": "347",
+    "summary": "With eight years of professional experience and 15 years of active experience, I draw from embedded, QA, Operations, DBA, and web back-end perspectives to bring excellence to the engineering work I do."
+  },
+  "aboutAlternative": {
+    "text": "With eight years of professional experience and 15 years of active experience, I draw from embedded, QA, Operations, DBA, and web back-end perspectives to bring excellence to the engineering work I do."
+  },
+  "positions": [
+    {
+      "title": "Production Engineer",
+      "companyName": "Facebook",
+      "location": "Menlo Park, California",
+      "date1": "Mar 2018 – Jul 2019",
+      "date2": "1 yr 5 mos"
+    },
+    {
+      "title": "Software Engineer",
+      "companyName": "IMVU",
+      "location": "Redwood City, CA",
+      "description": "Fix, improve, and update a diverse codebase, primarily in PHP and Haskell, but also including Twig template files, JS, and CSS. Work with other teams to extend the site to meet new requirements, up to and including refactoring and re-writing major features. Work with the Ops team to identify and resolve causes of service quality impact. Identify causes of potential trouble, and possible solutions.",
+      "date1": "Jun 2013 – Sep 2017",
+      "date2": "4 yrs 4 mos"
+    },
+    {
+      "title": "Software Intern",
+      "companyName": "Adtron Corporation",
+      "description": "Developed hard drive test software. Designed and developed a test suite for the backplanes used to test said drives. Refactored a drive erase program , and expanded functionality for a customer. Assisted in running and developing a flash characterization test/burn-in procedure using both hardware, embedded firmware, and software written in the .NET framework.",
+      "date1": "Aug 2009 – Feb 2013",
+      "date2": "3 yrs 7 mos"
+    },
+    {
+      "title": "Software Intern",
+      "companyName": "SMART Storage Systems",
+      "description": "Same as before. SMART Modular acquired Adtron. My employment did not stop. Currently working on software and hardware testing/verification.",
+      "date1": "Aug 2009 – Feb 2013",
+      "date2": "3 yrs 7 mos"
+    },
+    {
+      "title": "Library Page",
+      "companyName": "Arizona State University",
+      "description": "Shelved returns, customer service, and helped in library maintenance. (shifts, checking that the shelves were consistent with LC, etc)",
+      "date1": "Jul 2008 – Aug 2009",
+      "date2": "1 yr 2 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Arizona State University",
+      "degree": "Computer Systems Engineering",
+      "fieldofstudy": "Programming, Hardware Design, French, CAD, Psychology, Philosophy, Mathematics",
+      "date1": "2007",
+      "date2": "2013"
+    },
+    {
+      "title": "Phoenix College",
+      "date1": "2007",
+      "date2": "2007"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Linux",
+      "count": "32"
+    },
+    {
+      "title": "Testing",
+      "count": "21"
+    },
+    {
+      "title": "C",
+      "count": "16"
+    },
+    {
+      "title": "Debugging",
+      "count": "12"
+    },
+    {
+      "title": "Software Engineering",
+      "count": "10"
+    },
+    {
+      "title": "Software Development",
+      "count": "9"
+    },
+    {
+      "title": "Software Design",
+      "count": "4"
+    },
+    {
+      "title": "Distributed Systems",
+      "count": "3"
+    },
+    {
+      "title": "FPGA",
+      "count": "3"
+    },
+    {
+      "title": "Agile Methodologies",
+      "count": "2"
+    },
+    {
+      "title": "ARM",
+      "count": "2"
+    },
+    {
+      "title": "Software Testing",
+      "count": "1"
+    },
+    {
+      "title": "Photography"
+    },
+    {
+      "title": "Test Automation"
+    },
+    {
+      "title": "Shell Scripting"
+    },
+    {
+      "title": "C++",
+      "count": "11"
+    },
+    {
+      "title": "Python",
+      "count": "10"
+    },
+    {
+      "title": "Perl",
+      "count": "9"
+    },
+    {
+      "title": "Embedded Software",
+      "count": "6"
+    },
+    {
+      "title": "Subversion",
+      "count": "5"
+    },
+    {
+      "title": "Embedded Systems",
+      "count": "5"
+    },
+    {
+      "title": "Android",
+      "count": "4"
+    },
+    {
+      "title": "Eclipse",
+      "count": "3"
+    },
+    {
+      "title": "Java",
+      "count": "2"
+    },
+    {
+      "title": "C#",
+      "count": "1"
+    },
+    {
+      "title": "Unix",
+      "count": "1"
+    },
+    {
+      "title": "Git",
+      "count": "1"
+    },
+    {
+      "title": "Firmware",
+      "count": "1"
+    },
+    {
+      "title": "Verilog",
+      "count": "1"
+    },
+    {
+      "title": ".NET"
+    },
+    {
+      "title": "Jenkins"
+    },
+    {
+      "title": "Bash"
+    },
+    {
+      "title": "Visual Studio"
+    },
+    {
+      "title": "Visual C#"
+    },
+    {
+      "title": "Arduino"
+    },
+    {
+      "title": "SQL"
+    },
+    {
+      "title": "Communication"
+    },
+    {
+      "title": "Argentine Tango",
+      "count": "1"
+    },
+    {
+      "title": "TCL",
+      "count": "1"
+    },
+    {
+      "title": "Haskell",
+      "count": "1"
+    },
+    {
+      "title": "Debugging Code"
+    },
+    {
+      "title": "Engineering Documentation"
+    },
+    {
+      "title": "User Documentation"
+    },
+    {
+      "title": "Code Review"
+    },
+    {
+      "title": "Version Control SVN"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "2",
+    "receivedCount": "4",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/srweeks/",
+        "text": "Adam reported to me as a linux sysadmin at IMVU. I was very happy to work with Adam, and I'd be happy if I get the chance to work with him again in the future. Adam has a strong commitment towards improving engineering practices and doing things right. Adam worked to develop his programming skills and I was sad to lose him on my team when he moved to a software engineering team. Adam has solid linux fundamentals, and a very good appreciation for what's necessary in building stable, reliable production services.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/jimkresse/",
+        "text": "Adam picked up things very quickly. For example, shortly after arriving, he was given an application written in C by a previous employee and quickly cleaned it up and greatly added to its functionality."
+      },
+      {
+        "user": "https://www.linkedin.com/in/kristina-arnold-6830a14/",
+        "text": "Adam is an intelligent, tenacious, and detail-oriented person. He is always willing to go the extra mile to ensure deadlines are met and will assist wherever required. In addition, he actively reviews current processes and identifies ways to improve or automate them. I thoroughly enjoyed working with Adam and highly recommend him."
+      },
+      {
+        "user": "https://www.linkedin.com/in/alandd/",
+        "text": "Adam is a highly adaptable engineer. He can take on new projects, new languages or new tools, learn them and be productive in a short amount of time. His open communication style serves well for understanding team members."
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/srweeks/",
+        "text": "I worked with Stephen for almost two years at IMVU. I was one of his direct reports, and I worked with him regularly in his role as team Tech Lead.\n\nI thoroughly enjoyed working with and learning from Stephen. He's an extraordinarily capable engineer, with a deep understanding of LAMP administration, Site Reliability Engineering, and scaling up a production cluster. In addition, he's a very capable tech lead, for two reasons:\n\nFirst, he has what I can only call excellent taste in technology choices, and lead several projects that made life on the Operations team much better. Second, he's a gifted and experienced teacher and mentor. He's mentored several ops engineers on the team, including myself. I want to stress this, because finding effective mentors and teachers in this industry is exceptionally rare. Every question I asked him was answered charitably, with either a clear, specific, in-depth explanation, or a quick \"That's a great question! I don't know. Give me a minute.\"\n\nI feel lucky to have worked with him. I learned much and would welcome the opportunity to work with him again."
+      },
+      {
+        "user": "https://www.linkedin.com/in/danielaborgialli/",
+        "text": "When I first walked into her Tango I class, I was a very out-of-place left-brained engineer who had never taken a rhythmic step in his life. As I stumbled (and fumbled, and tripped) may way through that first month, the thing that stands out the most is how Daniela -- an exceptionally competent, elegant, and proficient dancer -- was able to not just meet me half-way, but well past that to where I stood (or landed) at the time.\r\n\r\nNow, almost two years later, I can't recommend her guidance, support, and teaching talent enough. I've gone from a graceless klutz to someone who gets compliments from long-time tango dancers on a regular basis.\r\n\r\nAll you need is a willingness to learn. Daniela's experience, wisdom, and knowledge will provide the raw material to learn from.\r\n\r\nA parting warning: Her passion, enthusiasm, and love of the dance is contagious."
+      }
+    ]
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/annetteambriz/",
+      "text": "Software Engineer II at Credit Karma"
+    },
+    {
+      "user": "https://www.linkedin.com/in/fang-fang-2102038/",
+      "text": "Senior Software Engineer at IMVU"
+    },
+    {
+      "user": "https://www.linkedin.com/in/lorenappin/",
+      "text": "Co-Founder & COO at Fishbowl (We're hiring!)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/danburtonhaskeller/",
+      "text": "Senior Backend Software Engineer at TVision"
+    },
+    {
+      "user": "https://www.linkedin.com/in/akamasam/",
+      "text": "Engineer, space geek, part-time roboticist"
+    },
+    {
+      "user": "https://www.linkedin.com/in/srweeks/",
+      "text": "Site Reliability Engineer at Apple"
+    },
+    {
+      "user": "https://www.linkedin.com/in/chaynika-saikia-05360928/",
+      "text": "Software Engineer, NVIDIA | Arizona State University, Computer Engineering"
+    },
+    {
+      "user": "https://www.linkedin.com/in/timchiu21/",
+      "text": "Senior QA Engineer at IMVU"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jacob-johnson-019104129/",
+      "text": "Store Manager at Churchill's Fine Cigars"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ozan-selcuk-10980124/",
+      "text": "CEO at Leaf Software Solutions"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "President",
+      "experience": "Arizona State University Linux User's Group",
+      "description": "Education",
+      "date1": "Aug 2010 – Aug 2012",
+      "date2": "2 yrs 1 mo"
+    }
+  ],
+  "profile": {
+    "name": "Adam McCullough",
+    "headline": "Software Engineer",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQGwh6YMDsL90g/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=kbjqJgSEd042rXPhIX_ZlxO3aGOlz61G_pI3CD9koJ8",
+    "location": "San Bruno, California",
+    "connections": "347",
+    "summary": "With eight years of professional experience and 15 years of active experience, I draw from embedded, QA, Operations, DBA, and web back-end perspectives to bring excellence to the engineering work I do."
+  }
+}

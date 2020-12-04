@@ -1,0 +1,229 @@
+{
+  "profileAlternative": {
+    "name": "Tara Kizer",
+    "headline": "Senior Consultant at Straight Path IT Solutions",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQGLJ9Q0o6WrAA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=tmQjPBGqwdQzGo_QwwjEYCok7VLG9Ezezjbi9xDGg1k",
+    "location": "San Diego, California",
+    "connections": "500+",
+    "summary": "19 years of experience as a Microsoft SQL Server Database Administrator\n\nSpecialties: Performance tuning, high availability, disaster recovery, Always On Availability Groups, cluster administration, database design, custom database maintenance scripts, data import and export, data recovery, Transactional Replication and troubleshooting complex database problems\n\nI am passionate about SQL Server. I help answer questions on SQLTeam.com and dba.stackexchange.com, have presented at three SQL Saturday conferences and am co-author of a SQL Server book entitled TribalSQL. My chapter is \"Performance Tuning with SQL Trace and Extended Events\". I was a Microsoft MVP for SQL Server from July 2007 to July 2017."
+  },
+  "aboutAlternative": {
+    "text": "19 years of experience as a Microsoft SQL Server Database Administrator\n\nSpecialties: Performance tuning, high availability, disaster recovery, Always On Availability Groups, cluster administration, database design, custom database maintenance scripts, data import and export, data recovery, Transactional Replication and troubleshooting complex database problems\n\nI am passionate about SQL Server. I help answer questions on SQLTeam.com and dba.stackexchange.com, have presented at three SQL Saturday conferences and am co-author of a SQL Server book entitled TribalSQL. My chapter is \"Performance Tuning with SQL Trace and Extended Events\". I was a Microsoft MVP for SQL Server from July 2007 to July 2017."
+  },
+  "positions": [
+    {
+      "title": "Senior Consultant",
+      "companyName": "Straight Path IT Solutions",
+      "description": "Remote DBA services",
+      "date1": "Jan 2019 – Present",
+      "date2": "11 mos"
+    },
+    {
+      "title": "Consultant",
+      "companyName": "Brent Ozar Unlimited",
+      "location": "Greater San Diego Area",
+      "date1": "Jan 2016 – Jan 2019",
+      "date2": "3 yrs 1 mo"
+    },
+    {
+      "title": "SQL Server MVP",
+      "companyName": "Microsoft",
+      "description": "It was a good 10-year run as an MVP.",
+      "date1": "Jul 2007 – Jun 2017",
+      "date2": "10 yrs"
+    },
+    {
+      "title": "Senior Database Administrator",
+      "companyName": "FTD Companies, Inc. (formerly Provide Commerce)",
+      "location": "Greater San Diego Area",
+      "description": "Production DBA\n\nMain responsibilities:\n- Performance Tuning\n- Index analysis\n- Analysis of query plans\n- Code Refactoring\n- Wait Stats analysis\n- Performance Monitor\n- SQL Sentry\n- DR failovers using Availability Groups and Database Mirroring\n- 24x7 on-call support in 4-person rotation\n- SQL Server installations\n- Windows and SQL patching\n- Transactional Replication support\n- Primary DBA support for Warehouse Management Systems databases\n- Supporting application releases\n- Scrum team member\n- SSIS package support for DBA-type packages\n- Troubleshooting job failures\n- Adding features such as collecting Database Mail and Job History from 50 servers\n- Upgrade databases to SQL Server 2012\n\nEnvironments:\n- SQL Server 2012 and 2008 R2\n- Windows 2012 and 2008 R2 (clusters and standalones)\n- Availability Groups\n- Database Mirroring\n- Transactional Replication\n- SSIS 2012 and 2008 R2\n- Physical and virtual servers\n…\nsee more",
+      "date1": "May 2014 – Jan 2016",
+      "date2": "1 yr 9 mos"
+    },
+    {
+      "title": "Sr Staff Database Administrator",
+      "companyName": "Omnitracs",
+      "description": "Qualcomm sold the Omnitracs division in November 2013. This is continued employment from the below position at Qualcomm.\n\nDesigned and support a 6-node highly available, mission critical cluster utilizing AlwaysOn Availability Groups which provided failover, reporting and disaster recovery capabilities. Upgrading to this environment dramatically increased database performance and eliminated latency for the reporting environment. This cluster spans two geographically dispersed data centers and is using the multi-subnet feature.\n\nLead Database Administrator for SQL Server 2012, 2008 R2, 2008, 2005.\n\nProvide 24/7 support for production database servers and critical non-production database servers.\n\nIn-depth performance analysis using service-side traces, extended events, SQL Profiler, ClearTrace, Performance Monitor, Quest’s Performance Analysis (Foglight) and Spotlight tools, SQL Sentry and DMV queries.\n\nWork with development teams to design new databases and refactor existing databases.\n\nRefresh non-production environments using production backups, both manually and automatically on a schedule.\n\nRewrote stored procedures according to best practices but also to improve performance.\n\nUpgraded databases to SQL Server 2012 utilizing database mirroring to minimize downtime.\n…\nsee more",
+      "date1": "Nov 2013 – May 2014",
+      "date2": "7 mos"
+    },
+    {
+      "title": "Sr Staff Database Administrator",
+      "companyName": "Qualcomm, Inc.",
+      "description": "Performed database administration on SQL Server 2012, 2008 R2, 2008 and 2005, including high availability and disaster recovery support.\n\nTechnical lead in the 9-person SQL Server database team.\n\n24/7 support for production, including numerous mission critical databases such as one used for heart monitors.\n\nProvided detailed performance analysis using various tools, such as SQL Profiler, SQL Trace, Performance Monitor, and the Performance Dashboard reports.\n\nWrote custom database maintenance routines for backups, integrity checks, refreshing databases, and defragmenting indexes.\n\nWorked directly with developers to design the databases. Rewrote inefficient SQL code to increase query response times.\n\nUsed Quest's Litespeed and Red Gate's SQL Backup Pro tools for SQL backups. Included these tools as options in the backup stored procedure.\n\nWrote SQL Trace program which runs a constant server-side trace, collects the raw trace data, and then aggregates the data for later analysis.\n…\nsee more",
+      "date1": "Feb 2002 – Nov 2013",
+      "date2": "11 yrs 10 mos"
+    },
+    {
+      "title": "Intermediate Database Administrator",
+      "companyName": "Computer Sciences Corporation",
+      "description": "Assigned to the County of San Diego contract.\n\nResponsible for database administration for eighteen production databases (five of which are mission critical) and six test databases, using Microsoft SQL Server 6.5, 7.0, 2000 and Centura SQLBase 7.5.1.\n\nMonitored and tuned the databases using SQL Profiler and Performance Monitor.\n\nAdvised developers about table, index, and view design.\n\nEnsured data availability, accuracy, completeness, integrity, and consistency via SQL jobs.\n\nUpgraded several databases from SQL Server 6.5 to SQL Server 7.0 and also from SQL Server 7.0 to SQL Server 2000.\n\nAssisted production support personnel with client connectivity problems to the databases.\n\nDesigned production transfer jobs, which included the use of DTS, bcp, and osql.\n…\nsee more",
+      "date1": "Dec 1999 – Feb 2002",
+      "date2": "2 yrs 3 mos"
+    },
+    {
+      "title": "County of San Diego",
+      "description": "Junior Database Administrator in the Department of Information Services which supported the IT functions of most departments in County of San Diego.\n\nResponsible for Microsoft SQL Server 6.5 and 7.0 database maintenance including monitoring of server activity, system administration, table creations, deletions, or changes utilizing ERwin/ERX or Transact-SQL.\n\nInstalled Windows NT server and desktop, Microsoft SQL Server utilities and server edition, client/server applications, Visual Studio, ODBC drivers, and Sybase SQL Server utilities.\n\nPerformed data transfers through the MDI database gateway (MDI is a Sybase Company) server using TSO and Infohub (Trinzic Corporation software package) on the mainframe. Transfers are written in Transact-SQL and occur manually through the Command Prompt or are automated through Microsoft SQL Server 7.0. Created document detailing all transfers using the MDI database gateway.\n…\nsee more",
+      "date1": "Jun 1999 – Dec 1999",
+      "date2": "7 mos",
+      "roles": [
+        {
+          "title": "Database Specialist I",
+          "date1": "Jun 1999 – Dec 1999",
+          "date2": "7 mos"
+        },
+        {
+          "title": "Student Worker",
+          "date1": "Jun 1994 – Jun 1999",
+          "date2": "5 yrs 1 mo"
+        }
+      ]
+    },
+    {
+      "title": "Title\nDatabase Specialist I",
+      "description": "Junior Database Administrator in the Department of Information Services which supported the IT functions of most departments in County of San Diego.\n\nResponsible for Microsoft SQL Server 6.5 and 7.0 database maintenance including monitoring of server activity, system administration, table creations, deletions, or changes utilizing ERwin/ERX or Transact-SQL.\n\nInstalled Windows NT server and desktop, Microsoft SQL Server utilities and server edition, client/server applications, Visual Studio, ODBC drivers, and Sybase SQL Server utilities.\n\nPerformed data transfers through the MDI database gateway (MDI is a Sybase Company) server using TSO and Infohub (Trinzic Corporation software package) on the mainframe. Transfers are written in Transact-SQL and occur manually through the Command Prompt or are automated through Microsoft SQL Server 7.0. Created document detailing all transfers using the MDI database gateway.\n…\nsee more",
+      "date1": "Jun 1999 – Dec 1999",
+      "date2": "7 mos",
+      "roles": [
+        {
+          "title": "Database Specialist I",
+          "date1": "Jun 1999 – Dec 1999",
+          "date2": "7 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nStudent Worker",
+      "description": "Designed, coded, and implemented an inventory program in SQLWindows 5.0.3 tracking technical books and software packages.\n\nPerformed personal computer problem resolution including operating system and printer problems, 16-bit and 32-bit ODBC driver conflicts, network connectivity using TCP/IP, Named Pipes, and NWLink IPX/SPX, database errors, and network drive mappings.\n\nDeveloped written job procedures for clerical staff to establish standard training practices.\n\nInstalled personal computers and provided technical support to fellow employees.\n\nPerformed data entry, filing, and pickup and deliveries between the courthouses and other county offices.\n…\nsee more",
+      "date1": "Jun 1994 – Jun 1999",
+      "date2": "5 yrs 1 mo",
+      "roles": [
+        {
+          "title": "Student Worker",
+          "date1": "Jun 1994 – Jun 1999",
+          "date2": "5 yrs 1 mo"
+        }
+      ]
+    }
+  ],
+  "educations": [
+    {
+      "title": "San Diego State University",
+      "degree": "B.S. in Mathematics with emphasis in Computer Science",
+      "fieldofstudy": "Mathematics, Computer Science",
+      "date1": "1997",
+      "date2": "1999"
+    },
+    {
+      "title": "Grossmont College",
+      "degree": "A.S. in General Education",
+      "date1": "1994",
+      "date2": "1996"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Database Design",
+      "count": "73"
+    },
+    {
+      "title": "Databases",
+      "count": "62"
+    },
+    {
+      "title": "T-SQL",
+      "count": "61"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "1",
+    "receivedCount": "3",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/billgraziano/",
+        "text": "Tara is the largest contributor on the SQLTeam.com forums. She has helped tens of thousands of people with their SQL Server problems. She publicly demonstrates her expertise in solving enterprise-class problems ranging from disaster recovery to high availability to performance tuning. I’m confident that when people ask the most difficult SQL Server questions Tara will be able to answer them. She’s shown tremendous patience in helping people using a sometimes difficult medium. She regularly posts maintenance scripts on her blog that are used by thousands of people. I know when I ask a question Tara is one of the people I hope to see a response from.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/johnwalterssandiego/",
+        "text": "I have worked with Tara for many years. Tara was part of our development team, and provided production support for our products, based on Microsoft technologies. We always felt the database was in good hands with Tara. She did a great job of finding performance issues, and rewriting queries here and there for better performance. Tara would be a contributing member of the design meetings, guiding schema designs and data relationships. Tara has a great deal of knowledge of SQL Server (all versions), and I noticed that she was constantly learning more. She was always willing to lend a hand when issues crop up. And of course she did a great job of doing all the things DBAs do that allow developers not to have to think about the issues involved with keeping a database up, running, performing and highly available. I know that on projects that I was not involved in, Tara was the sole owner of the database, from schema design, to all the stored procedures and queries that the application called, to maintenance and production support of the database. I would not hesitate to recommend Tara as a DBA.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/mkizer/",
+        "text": "Tara is an extremely knowledgeable and hard working database administrator, with a vast amount of technical experience with Microsoft SQL Server systems. She can not only effectively and efficiently solve a wide variety of issues, but also provide valuable insight in regards to performance, design considerations and industry standards in the database arena. She is constantly improving her expertise in database administration as demonstrated by her key participation at SQLTeam.com and appointment by Microsoft as a SQL Server MVP.\n…\nSee more"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/billgraziano/",
+        "text": "As owner and poster of SQLTeam.com, Bill has helped thousands, perhaps millions, of people with their SQL Server issues.  His site is one of the leading places to go for SQL Server information.\r\n\r\nBill has developed SQL Server tools and posted them to his blog, which have helped me do my job better as a Database Administrator.  \r\n\r\nBill's blog is educational and informative.  I make sure to read all of his articles as I know there is always something to learn from him."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "1",
+      "items": [
+        "Tribal SQL"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/melissadugger/",
+      "text": "Agilist @ Petco"
+    },
+    {
+      "user": "https://www.linkedin.com/in/pensam/",
+      "text": "Senior System Engineer at Navigant"
+    },
+    {
+      "user": "https://www.linkedin.com/in/justinkeener/",
+      "text": "SQL Server DBA at Tax Compliance, Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/crazyjoemama/",
+      "text": "Senior Consultant at Straight Path IT Solutions, LLC"
+    },
+    {
+      "user": "https://www.linkedin.com/in/george-j-363881b4/",
+      "text": "Sr. Database Administrator"
+    },
+    {
+      "user": "https://www.linkedin.com/in/theresa-pappas-351b79/",
+      "text": "Sr. Database Architect at Black Mountain Systems"
+    },
+    {
+      "user": "https://www.linkedin.com/in/anilsson1/",
+      "text": "Senior Quality Assurance Engineer / Manager"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jason8chen/",
+      "text": "Independent Consultant at Independent Consultant"
+    },
+    {
+      "user": "https://www.linkedin.com/in/richierump/",
+      "text": "Software and Data Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kimberly-wilcox-taylor-5b255523/",
+      "text": "Safety Systems Database Manager"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Board Member and Volunteer",
+      "experience": "Molly Bears",
+      "description": "Children",
+      "date1": "Feb 2011",
+      "date2": "1 mo"
+    }
+  ],
+  "profile": {
+    "name": "Tara Kizer",
+    "headline": "Senior Consultant at Straight Path IT Solutions",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQGLJ9Q0o6WrAA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=tmQjPBGqwdQzGo_QwwjEYCok7VLG9Ezezjbi9xDGg1k",
+    "location": "San Diego, California",
+    "connections": "500+",
+    "summary": "19 years of experience as a Microsoft SQL Server Database Administrator\n\nSpecialties: Performance tuning, high availability, disaster recovery, Always On Availability Groups, cluster administration, database design, custom database maintenance scripts, data import and export, data recovery, Transactional Replication and troubleshooting complex database problems\n\nI am passionate about SQL Server. I help answer questions on SQLTeam.com and dba.stackexchange.com, have presented at three SQL Saturday conferences and am co-author of a SQL Server book entitled TribalSQL. My chapter is \"Performance Tuning with SQL Trace and Extended Events\". I was a Microsoft MVP for SQL Server from July 2007 to July 2017."
+  }
+}

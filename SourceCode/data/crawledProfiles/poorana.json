@@ -1,0 +1,318 @@
+{
+  "profileAlternative": {
+    "name": "Pooranachandran Ganesan",
+    "headline": "Specialist ECM, DevOps and Java at Canadian Pacific",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQEE3eWywOKOxQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=wuGcMxuOn-YozXeXarufWEnjz646nsTg5AbxFHSfXPo",
+    "location": "Eden Prairie, Minnesota",
+    "connections": "489",
+    "summary": "Specialties: Java, OpenText, JEE,Web Services, Micro Services , ECM, OpenShift, Cloud Platforms, AWS, SOA,Websphere,Open Source,Web Hosting,Web Design,SEO,, Application Architecture, Angular , Event Driven, Messaging , MQ , Rabbit MQ, Kafka etc"
+  },
+  "aboutAlternative": {
+    "text": "Specialties: Java, OpenText, JEE,Web Services, Micro Services , ECM, OpenShift, Cloud Platforms, AWS, SOA,Websphere,Open Source,Web Hosting,Web Design,SEO,, Application Architecture, Angular , Event Driven, Messaging , MQ , Rabbit MQ, Kafka etc"
+  },
+  "positions": [
+    {
+      "title": "Specialist ECM, DevOps and Java",
+      "companyName": "Canadian Pacific Railway",
+      "location": "Eden Prairie ,Minneapolis , MN ,USA",
+      "description": "Specialist in ECM (OpenText) and Java",
+      "date1": "Nov 2017 – Present",
+      "date2": "2 yrs 1 mo"
+    },
+    {
+      "title": "Cognizant Technology Solutions",
+      "description": "'Associate -Projects' (Tech Lead) Technology Solution at Cognizant Technology Solutions",
+      "date1": "Jul 2013 – Aug 2013",
+      "date2": "2 mos",
+      "roles": [
+        {
+          "title": "Technology Specialist/Project Lead/Architect",
+          "date1": "Jul 2013 – Aug 2013",
+          "date2": "2 mos"
+        },
+        {
+          "title": "'Associate -Projects (Tech Lead)'",
+          "date1": "May 2010 – Jun 2013",
+          "date2": "3 yrs 2 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nTechnology Specialist/Project Lead/Architect",
+      "date1": "Jul 2013 – Aug 2013",
+      "date2": "2 mos",
+      "roles": [
+        {
+          "title": "Technology Specialist/Project Lead/Architect",
+          "date1": "Jul 2013 – Aug 2013",
+          "date2": "2 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\n'Associate -Projects (Tech Lead)'",
+      "description": "'Associate -Projects' (Tech Lead) Technology Solution at Cognizant Technology Solutions",
+      "date1": "May 2010 – Jun 2013",
+      "date2": "3 yrs 2 mos",
+      "roles": [
+        {
+          "title": "'Associate -Projects (Tech Lead)'",
+          "date1": "May 2010 – Jun 2013",
+          "date2": "3 yrs 2 mos"
+        }
+      ]
+    },
+    {
+      "title": "Systems Analyst",
+      "companyName": "R Systems",
+      "date1": "Nov 2006 – May 2010",
+      "date2": "3 yrs 7 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Bharathidasan University",
+      "degree": "B.E.",
+      "fieldofstudy": "Computer Science",
+      "date1": "2000",
+      "date2": "2004"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Web Services",
+      "count": "22"
+    },
+    {
+      "title": "Java",
+      "count": "12"
+    },
+    {
+      "title": "Java Enterprise Edition",
+      "count": "11"
+    },
+    {
+      "title": "SOA",
+      "count": "11"
+    },
+    {
+      "title": "Architecture",
+      "count": "1"
+    },
+    {
+      "title": "Agile",
+      "count": "1"
+    },
+    {
+      "title": "Cloud Computing",
+      "count": "1"
+    },
+    {
+      "title": "Service-Oriented Architecture (SOA)",
+      "count": "1"
+    },
+    {
+      "title": "SEO"
+    },
+    {
+      "title": "Design Patterns"
+    },
+    {
+      "title": "Web Applications"
+    },
+    {
+      "title": "Struts",
+      "count": "5"
+    },
+    {
+      "title": "XML",
+      "count": "5"
+    },
+    {
+      "title": "Websphere",
+      "count": "2"
+    },
+    {
+      "title": "Servlets",
+      "count": "3"
+    },
+    {
+      "title": "JavaScript",
+      "count": "3"
+    },
+    {
+      "title": "J2EE",
+      "count": "1"
+    },
+    {
+      "title": "Open Source",
+      "count": "1"
+    },
+    {
+      "title": "Hibernate",
+      "count": "1"
+    },
+    {
+      "title": "SOAP",
+      "count": "1"
+    },
+    {
+      "title": "MySQL",
+      "count": "1"
+    },
+    {
+      "title": "Weblogic"
+    },
+    {
+      "title": "Spring"
+    },
+    {
+      "title": "Tomcat"
+    },
+    {
+      "title": "Apache"
+    },
+    {
+      "title": "JUnit"
+    },
+    {
+      "title": "JSF"
+    },
+    {
+      "title": "Eclipse"
+    },
+    {
+      "title": "Ant"
+    },
+    {
+      "title": "Maven"
+    },
+    {
+      "title": "UML"
+    },
+    {
+      "title": "JSON"
+    },
+    {
+      "title": "RESTful WebServices"
+    },
+    {
+      "title": "Spring Framework"
+    },
+    {
+      "title": "Spring Boot"
+    },
+    {
+      "title": "Rest Services"
+    },
+    {
+      "title": "Hosting"
+    },
+    {
+      "title": "JAXP"
+    },
+    {
+      "title": "OWASP"
+    },
+    {
+      "title": "OASIS"
+    },
+    {
+      "title": "Unix Shell Scripting"
+    },
+    {
+      "title": "Sonar"
+    },
+    {
+      "title": "Openshift"
+    },
+    {
+      "title": "Micro Services"
+    },
+    {
+      "title": "WebSphere MQ"
+    },
+    {
+      "title": "RabbitMQ"
+    },
+    {
+      "title": "Apache Kafka"
+    },
+    {
+      "title": "OpenText"
+    },
+    {
+      "title": "Documentum"
+    },
+    {
+      "title": "ECM"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "2",
+    "receivedCount": "0",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/ajaydt/",
+        "text": "As a process analyst Ajay fulfilled a ton of roles in the time including scrum master, architect, QA lead, project management, process improvements and coordination of the engineers in team to quickly react to issues. Ajay's approach to his Quality Assurance Lead role challenged certain artificial “thought boundaries” which were in place, and he substantially improved the effectiveness of the QA in Optum. He never lets inexperience get the better of him, as he expands his own boundaries to achieve his goals. A strong quality and Automation champion, he sets the bar for others on his team with innovative thinking, improved processes, and the constant drive for delivering quality products. He not only garners technical respect from his work, but he also brings wit and humor to the team, making him a pleasure to work. I'll be happy to work with him in the future.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/seshagirisriram/",
+        "text": "I worked with Seshagiri Sriram when he was heading the Indus Technical Group at RSIL. He brings extreme technical expertise on board spanning across multiple platforms and domains. I wish him all the best."
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/chuma-nnolim-3430a054/",
+      "text": "Software Engineer seeking new contract opportunities"
+    },
+    {
+      "user": "https://www.linkedin.com/in/janani-duraiswamy-5b732824/",
+      "text": "Full Stack Java Developer at Tata Consultancy Services"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ranga-reddy-ab10a419/",
+      "text": "Solution Architecture, Server Engineering, Full Stack, Cloud Solutions, Data Engineering, Micro Services, DevOps"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sriram-thatikonda-074227123/",
+      "text": "Sr Java Consultant at Capgemini America Inc"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sunilyarli/",
+      "text": "Project Manager/ Development Lead at Capgemini"
+    },
+    {
+      "user": "https://www.linkedin.com/in/bryce-hustad-9260235/",
+      "text": "Director of Information Technology at Zelle LLP"
+    },
+    {
+      "user": "https://www.linkedin.com/in/srimani55/",
+      "text": "Experience in Micro Services, Full stack development, Spring Boot2, jBPM, Dev ops, Cloud, NoSQL"
+    },
+    {
+      "user": "https://www.linkedin.com/in/venkat-athota-b5141094/",
+      "text": "Senior software Engineer at Walmart Technology. Expertise in Java/Springboot/Micro Services/MongoDB Admin."
+    },
+    {
+      "user": "https://www.linkedin.com/in/hareesh-jayathirtha-5210347/",
+      "text": "Lead E-commerce and Micro-services Architect."
+    },
+    {
+      "user": "https://www.linkedin.com/in/josh-schlueter-066955b/",
+      "text": "HR Specialist (Info Sys) at U.S. Customs and Border Protection"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Pooranachandran Ganesan",
+    "headline": "Specialist ECM, DevOps and Java at Canadian Pacific",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQEE3eWywOKOxQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=wuGcMxuOn-YozXeXarufWEnjz646nsTg5AbxFHSfXPo",
+    "location": "Eden Prairie, Minnesota",
+    "connections": "489",
+    "summary": "Specialties: Java, OpenText, JEE,Web Services, Micro Services , ECM, OpenShift, Cloud Platforms, AWS, SOA,Websphere,Open Source,Web Hosting,Web Design,SEO,, Application Architecture, Angular , Event Driven, Messaging , MQ , Rabbit MQ, Kafka etc"
+  }
+}

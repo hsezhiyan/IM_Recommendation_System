@@ -1,0 +1,298 @@
+{
+  "profileAlternative": {
+    "name": "Howard Hinnant",
+    "headline": "Senior Software Developer at Ripple",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQEMucCElrEwXg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=U7ejnHmR7qcSi57AliQSCZ2CEs5jm1Dw91gF3v1qBIY",
+    "location": "Waterbury, Vermont",
+    "connections": "337",
+    "summary": "Implemented an independent implementation of the C++11 standard library which is now open sourced: http://libcxx.llvm.org/\nwhich is now being used on several desktop and embedded platforms across the industry.\n\nInstrumental in getting the rvalue reference feature into C++11 which enables \"move semantics\": http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2002/n1377.htm.\n\nI've been an active member of the C++ standards committee since 1998. From Oct. 2005 to Aug. 2010 I served as the Library Working Group Chairman.\n\nCo-Implemented independent implementation of the C++ Itanium ABI to support the llvm libcxx project: http://libcxxabi.llvm.org\nThis involves low-level code which implements exception handling, dynamic_casts and other runtime support.\n\nSingle handedly wrote independent implementation of the C++03 standard library for Metrowerks. The library includes many optimizations geared towards embedded environments (e.g. Palm, Sony PlayStation 2, Nintendo GameCube, ARM, PPC, 68K, etc.).\n\nSpecialties: C++ library design, documentation, testing and support. Expert in template meta-programming. Experienced in the standardization process for computer languages."
+  },
+  "aboutAlternative": {
+    "text": "Implemented an independent implementation of the C++11 standard library which is now open sourced: http://libcxx.llvm.org/\nwhich is now being used on several desktop and embedded platforms across the industry.\n\nInstrumental in getting the rvalue reference feature into C++11 which enables \"move semantics\": http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2002/n1377.htm.\n\nI've been an active member of the C++ standards committee since 1998. From Oct. 2005 to Aug. 2010 I served as the Library Working Group Chairman.\n\nCo-Implemented independent implementation of the C++ Itanium ABI to support the llvm libcxx project: http://libcxxabi.llvm.org\nThis involves low-level code which implements exception handling, dynamic_casts and other runtime support.\n\nSingle handedly wrote independent implementation of the C++03 standard library for Metrowerks. The library includes many optimizations geared towards embedded environments (e.g. Palm, Sony PlayStation 2, Nintendo GameCube, ARM, PPC, 68K, etc.).\n\nSpecialties: C++ library design, documentation, testing and support. Expert in template meta-programming. Experienced in the standardization process for computer languages."
+  },
+  "positions": [
+    {
+      "title": "Senior Software Developer",
+      "companyName": "Ripple.com",
+      "date1": "Feb 2014 – Present",
+      "date2": "5 yrs 10 mos"
+    },
+    {
+      "title": "Senior Software Engineer",
+      "companyName": "Apple",
+      "description": "Provided Apple with C++ standard library implementation and customer support.\n\nRepresents Apple at the C++ Standards Meetings (biannual). Member ANSI J16 / ISO WG21. Served as Library Working Group Chairman 2005-2010. Responsible for overseeing the interests of Apple.",
+      "date1": "Oct 2005 – Feb 2014",
+      "date2": "8 yrs 5 mos"
+    },
+    {
+      "title": "Senior Library Engineer",
+      "companyName": "Freescale, formerly Metrowerks a subsidiary of Motorola",
+      "description": "Provide complete product delivery and support for the Metrowerks implementation of the standard C++ library (MSL C++). This includes a complete and independent implementation of the C++ standard (chapters 17-27), with special optimizations for higher performance and lower code size (motivated by embedded systems) not seen on any other implementation. This library also includes many Metrowerks custom extensions. Duties include writing unit tests for these libraries, documentation, and customer support.\n\nRepresents Freescale at the C++ Standards Meetings (biannual). Member ANSI J16 / ISO WG21. Served as Library Working Group Chairman. Responsible for overseeing the interests of Metrowerks, implementing changes in the standard in MSL C++, and writing proposals to improve the C++ language.\n…\nsee more",
+      "date1": "Nov 1997 – Oct 2005",
+      "date2": "8 yrs"
+    },
+    {
+      "title": "Senior Scientist",
+      "companyName": "Beam Technologies",
+      "description": "Key member of a small team which brought a software project from an early alpha stage to a commercial release. This project, written mostly in C++, was a unique tool for solving partial differential equations. Unlike traditional codes, it was not specialized to a specific equation, and was thus widely applicable. We demonstrated applications in elasticity, electrodynamics, thermals, fluids, chemistry and finance. Involved both symbolic and numerical computation.\n…\nsee more",
+      "date1": "Jan 1996 – Nov 1997",
+      "date2": "1 yr 11 mos"
+    },
+    {
+      "title": "U.S. Army Research Laboratory",
+      "description": "Co-located with NASA Langley, fully integrated in with NASA organization.\n\nInvolved in the development of sparse, positive definite solvers for use in finite element codes. Explored the use of C++ as a replacement language for high performance numerical work, (typically done in Fortran at the time).\n\nUsed shape optimization with the finite element method to redesign flight critical component on a fielded military rotorcraft, reducing peak stresses and subsequently increasing the lifetime and safety of this component. This redesign was in response to several catastrophic failures, some of which unfortunately resulted in fatalities.\n\nExplored advanced finite element techniques including \"p-version\" elements, and new element quadrature techniques.\n…\nsee more",
+      "date1": "Feb 1987 – Dec 1995",
+      "date2": "8 yrs 11 mos",
+      "roles": [
+        {
+          "title": "Aerospace Engineer",
+          "date1": "Feb 1987 – Dec 1995",
+          "date2": "8 yrs 11 mos"
+        },
+        {
+          "title": "Aerospace Engineer",
+          "date1": "Jun 1984 – Feb 1987",
+          "date2": "2 yrs 9 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nAerospace Engineer",
+      "description": "Co-located with NASA Langley, fully integrated in with NASA organization.\n\nInvolved in the development of sparse, positive definite solvers for use in finite element codes. Explored the use of C++ as a replacement language for high performance numerical work, (typically done in Fortran at the time).\n\nUsed shape optimization with the finite element method to redesign flight critical component on a fielded military rotorcraft, reducing peak stresses and subsequently increasing the lifetime and safety of this component. This redesign was in response to several catastrophic failures, some of which unfortunately resulted in fatalities.\n\nExplored advanced finite element techniques including \"p-version\" elements, and new element quadrature techniques.\n…\nsee more",
+      "date1": "Feb 1987 – Dec 1995",
+      "date2": "8 yrs 11 mos",
+      "roles": [
+        {
+          "title": "Aerospace Engineer",
+          "date1": "Feb 1987 – Dec 1995",
+          "date2": "8 yrs 11 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nAerospace Engineer",
+      "description": "Co-located with NASA Ames\n\nPart of GRASP (General Rotorcraft Aeromechanics Stability Program) development team. Fortran code designed to couple rotorcraft aerodynamics and nonlinear beam finite elements to predict the natural frequencies and damping of advanced hinge-less rotors.\n…\nsee more",
+      "date1": "Jun 1984 – Feb 1987",
+      "date2": "2 yrs 9 mos",
+      "roles": [
+        {
+          "title": "Aerospace Engineer",
+          "date1": "Jun 1984 – Feb 1987",
+          "date2": "2 yrs 9 mos"
+        }
+      ]
+    }
+  ],
+  "educations": [
+    {
+      "title": "Stanford University",
+      "degree": "MS",
+      "fieldofstudy": "Aeronautics and Astronautics",
+      "date1": "1983",
+      "date2": "1984"
+    },
+    {
+      "title": "Texas A&M University",
+      "degree": "BS",
+      "fieldofstudy": "Aerospace Engineering",
+      "date1": "1979",
+      "date2": "1983"
+    },
+    {
+      "title": "Bishop Dunne High School",
+      "date1": "1975",
+      "date2": "1979"
+    }
+  ],
+  "skills": [
+    {
+      "title": "C++",
+      "count": "59"
+    },
+    {
+      "title": "Software Engineering",
+      "count": "30"
+    },
+    {
+      "title": "C",
+      "count": "28"
+    },
+    {
+      "title": "Software Design",
+      "count": "26"
+    },
+    {
+      "title": "Software Development",
+      "count": "24"
+    },
+    {
+      "title": "Algorithms",
+      "count": "18"
+    },
+    {
+      "title": "Multithreading",
+      "count": "15"
+    },
+    {
+      "title": "Object Oriented Design",
+      "count": "12"
+    },
+    {
+      "title": "Programming",
+      "count": "10"
+    },
+    {
+      "title": "Debugging",
+      "count": "9"
+    },
+    {
+      "title": "Testing",
+      "count": "7"
+    },
+    {
+      "title": "ARM",
+      "count": "6"
+    },
+    {
+      "title": "Software Project Management",
+      "count": "4"
+    },
+    {
+      "title": "Agile Methodologies",
+      "count": "3"
+    },
+    {
+      "title": "OOP",
+      "count": "2"
+    },
+    {
+      "title": "Scrum",
+      "count": "2"
+    },
+    {
+      "title": "Computer Science",
+      "count": "2"
+    },
+    {
+      "title": "Design Patterns",
+      "count": "1"
+    },
+    {
+      "title": "Embedded Systems",
+      "count": "19"
+    },
+    {
+      "title": "Unix",
+      "count": "5"
+    },
+    {
+      "title": "Python",
+      "count": "3"
+    },
+    {
+      "title": "Java",
+      "count": "2"
+    },
+    {
+      "title": "High Performance Computing",
+      "count": "12"
+    },
+    {
+      "title": "STL",
+      "count": "10"
+    },
+    {
+      "title": "Compilers",
+      "count": "1"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "2",
+    "receivedCount": "0",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/andreas-hommel-0458a/",
+        "text": "Working with Andreas has been a rare privilege. The quality and speed with which Andreas responds to requests and problems is extraordinary. I've had the opportunity to work across several industries and companies, and if I were building an \"A Team\" to execute an impossible task today, I'd want Andreas on it."
+      },
+      {
+        "user": "https://www.linkedin.com/in/jwankerl/",
+        "text": "Josef has an amazing ability to master many different domains. I've worked with Josef for nearly 8 years now, and I am continually impressed with his ability to move in and solve problems with a minimum of bureaucratic Mickey Mouse. Just a simple \"Problem's solved. What's next?\""
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "9",
+      "items": [
+        "chrono-Compatible Low-Level Date Algorithms",
+        "Shared locking in C++",
+        "Combinations and Permutations",
+        "A Foundation to Sleep On",
+        "Multi-threading Library for Standard C++ (Revision 1)",
+        "Mutex, Lock, Condition Variable Rationale",
+        "LWG Issue 206: Linking new/delete operators",
+        "Comments on LWG issue 233: Insertion hints in associative containers",
+        "A Proposal to Add Move Semantics Support to the C++ Language"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "libc++abi",
+        "libc++"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/herb-sutter-826b436/",
+      "text": "SA at Microsoft"
+    },
+    {
+      "user": "https://www.linkedin.com/in/anandmu/",
+      "text": "Principal Software Engineer (Director) at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ken-schwaber-09a55/",
+      "text": "Co-Founder of Scrum, Head Of Scrum.org, Founder Of The Scrum Alliance"
+    },
+    {
+      "user": "https://www.linkedin.com/in/lefticus/",
+      "text": "C++ Trainer, Speaker, and Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sujatha-narayanan-2472a41/",
+      "text": "Principal Software Engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/charley-bay-57b6054/",
+      "text": "Sr. Software Engineer at F5 Networks, Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/gary-powell-58789/",
+      "text": "Senior Software Engineer at Ezoic"
+    },
+    {
+      "user": "https://www.linkedin.com/in/barbara-geller-856491116/",
+      "text": "Software Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/pablo-halpern-657124/",
+      "text": "President at Halpern-Wight, Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/aparnapappu/",
+      "text": "VP Engineering at Google"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Howard Hinnant",
+    "headline": "Senior Software Developer at Ripple",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQEMucCElrEwXg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=U7ejnHmR7qcSi57AliQSCZ2CEs5jm1Dw91gF3v1qBIY",
+    "location": "Waterbury, Vermont",
+    "connections": "337",
+    "summary": "Implemented an independent implementation of the C++11 standard library which is now open sourced: http://libcxx.llvm.org/\nwhich is now being used on several desktop and embedded platforms across the industry.\n\nInstrumental in getting the rvalue reference feature into C++11 which enables \"move semantics\": http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2002/n1377.htm.\n\nI've been an active member of the C++ standards committee since 1998. From Oct. 2005 to Aug. 2010 I served as the Library Working Group Chairman.\n\nCo-Implemented independent implementation of the C++ Itanium ABI to support the llvm libcxx project: http://libcxxabi.llvm.org\nThis involves low-level code which implements exception handling, dynamic_casts and other runtime support.\n\nSingle handedly wrote independent implementation of the C++03 standard library for Metrowerks. The library includes many optimizations geared towards embedded environments (e.g. Palm, Sony PlayStation 2, Nintendo GameCube, ARM, PPC, 68K, etc.).\n\nSpecialties: C++ library design, documentation, testing and support. Expert in template meta-programming. Experienced in the standardization process for computer languages."
+  }
+}

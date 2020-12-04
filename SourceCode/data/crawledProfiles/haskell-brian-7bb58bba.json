@@ -1,0 +1,94 @@
+{
+  "profileAlternative": {
+    "name": "Haskell Brian",
+    "headline": "Sales Representative at Rexel USA",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQEu6em7_sFlbA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=AZf6ZcGDXGt88hkxfEFId3K5rokIZeTx0JZ1wgXQLuU",
+    "location": "Wells, Maine",
+    "connections": "48"
+  },
+  "aboutAlternative": {},
+  "positions": [
+    {
+      "title": "Sales Representative",
+      "companyName": "Rexel USA",
+      "location": "Biddeford, Me",
+      "date1": "Nov 2014 – Present",
+      "date2": "5 yrs 1 mo"
+    }
+  ],
+  "educations": [
+    {
+      "title": "University of Maine",
+      "date1": "1994",
+      "date2": "1997"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Outside Sales"
+    },
+    {
+      "title": "Inside Sales"
+    },
+    {
+      "title": "Direct Sales"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/amy-mcsharry-495a83ab/",
+      "text": "Project Manager at Rexel"
+    },
+    {
+      "user": "https://www.linkedin.com/in/angela-mcbrady-0325828a/",
+      "text": "Private Investigator/Sales"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ashley-jordan-607370a0/",
+      "text": "Construction Professional"
+    },
+    {
+      "user": "https://www.linkedin.com/in/chris-mydock-03113313/",
+      "text": "Construction Sales at Gexpro"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ryan-jeffe-b8a79b94/",
+      "text": "Regional Manager at Anderson Insulation Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/neil-heyland-549793129/",
+      "text": "President Heyland Construction dba Flagship Painting"
+    },
+    {
+      "user": "https://www.linkedin.com/in/dave-lane-589057b3/",
+      "text": "Branch Mgr at CED - Consolidated Electrical Distributors, Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/mitchell-rousseau-211813149/",
+      "text": "Painter at Seaside painting"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kevin-hammond-3314a7153/",
+      "text": "Construction Superintendent at DHI"
+    },
+    {
+      "user": "https://www.linkedin.com/in/brian-meunier-a4b671107/",
+      "text": "Owner at B's Building & Remodeling"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Haskell Brian",
+    "headline": "Sales Representative at Rexel USA",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQEu6em7_sFlbA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=AZf6ZcGDXGt88hkxfEFId3K5rokIZeTx0JZ1wgXQLuU",
+    "location": "Wells, Maine",
+    "connections": "48"
+  }
+}

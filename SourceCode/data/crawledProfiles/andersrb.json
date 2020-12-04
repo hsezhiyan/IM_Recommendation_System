@@ -1,0 +1,212 @@
+{
+  "profileAlternative": {
+    "name": "Brian Anderson",
+    "headline": "Senior Software Engineer and Rust \"Expert\"",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQELclvhAwHGsQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=9k44ReUUybr50ZPKqfM-hIb7DEmKl8Nd0qw2hzJhQnA",
+    "location": "San Francisco, California",
+    "connections": "475",
+    "summary": "I'm a passionate engineer with diverse skills, a history in systems programming, software validation, programming languages, and open source community building. I co-founded the Rust programming language and its sister project, the Servo web browser. When I'm part of projects that stimulate my imagination I tend to make good things happen. I am agonizingly self-aware and always improving.\n\nSome consider me one of the world's foremost experts on the Rust programming language. I'm reluctant to agree (let's chat about imposter syndrome), but I'm writing it here because it sounds impressive.\n\nI generally like talking to people and companies using Rust, but I'm not actively seeking a new gig right now."
+  },
+  "aboutAlternative": {
+    "text": "I'm a passionate engineer with diverse skills, a history in systems programming, software validation, programming languages, and open source community building. I co-founded the Rust programming language and its sister project, the Servo web browser. When I'm part of projects that stimulate my imagination I tend to make good things happen. I am agonizingly self-aware and always improving.\n\nSome consider me one of the world's foremost experts on the Rust programming language. I'm reluctant to agree (let's chat about imposter syndrome), but I'm writing it here because it sounds impressive.\n\nI generally like talking to people and companies using Rust, but I'm not actively seeking a new gig right now."
+  },
+  "positions": [
+    {
+      "title": "Consulting Software Engineer (Rust)",
+      "companyName": "PingCAP",
+      "location": "San Francisco",
+      "description": "Helping one of the best next-generation database companies expand their Rust expertise in China, and the TiDB / TiKV communities in the west. Slowly learning about database implementation.",
+      "date1": "Dec 2018 – Present",
+      "date2": "1 yr"
+    },
+    {
+      "title": "Secretary of the Board",
+      "companyName": "O'Keefe Music Foundation",
+      "description": "The O'Keefe Music Foundation gives children professional-level music production experiences, mostly by playing and recording heavy metal. Little kids playing heavy metal - come on, that's adorable.\n\nhttp://www.okmusicfoundation.org/\n\nSeriously, check this stuff out - it's shockingly good:\n\nhttps://plus.google.com/117072459215451965912\n\nMy only roles in this magic are to have my name on the documents, occasionally show up to drunken \"board meetings\" at taquerias, and screw with recording sessions by pretending to push buttons while mugging for the camera. Speaking of, here's one where I'm pretending to be a recording engineer:\n\nhttps://www.youtube.com/watch?v=VkrP6-dRR6U\n\nOh, also I'm the \"secretary of the board\". That surely means something. Sounds important at least.\n…\nsee more",
+      "date1": "2014 – Present",
+      "date2": "5 yrs"
+    },
+    {
+      "title": "Consulting Software Engineer (Rust)",
+      "companyName": "Reddit, Inc.",
+      "location": "San Francisco",
+      "description": "Easing back into work after 8 months riding trains, dancing, and working on myself, Reddit offered a nice limited-scope Rust project - bringing their new Markdown parser up to production quality. This mostly involved concerns relating to security, performance, correctness, validation, and maintainability. I also wrote a ridiculously comprehensive guide to Reddit-flavored Markdown. A fun limited-scope project in a pleasant environment.\n…\nsee more",
+      "date1": "Mar 2018 – Sep 2018",
+      "date2": "7 mos"
+    },
+    {
+      "title": "Vagabond",
+      "companyName": "Self employed",
+      "description": "Just relaxing and making the most of life while I figure out where this journey takes me.",
+      "date1": "Sep 2017 – Mar 2018",
+      "date2": "7 mos"
+    },
+    {
+      "title": "Senior Research Engineer",
+      "companyName": "Mozilla",
+      "location": "Mountain View, CA",
+      "description": "The stuff I'm building [1] is cool. Like, really, amazingly cool. First of all, I and a bunch of my friends are creating a new systems programming language called Rust [2]. It does things that no other language does, it's open source, has a large and growing community of contributors, and people dig it.\n\nIt gets much better though. So get this: we're taking that language, Rust, and using it to build an *entirely new* web browser from scratch, called Servo [3]. This thing is architected from the ground up to be massively parallel, unlike any other web browser in existence, and it's going to deliver.\n\nIt's unbelievably audacious and I love it.\n\n[1]: http://brson.github.io/rust-stuff.html\n[2]: http://rust-lang.org/\n[3]: https://github.com/servo/servo\n\n…\nsee more",
+      "date1": "May 2011 – Sep 2017",
+      "date2": "6 yrs 5 mos"
+    },
+    {
+      "title": "Software Engineer",
+      "companyName": "Cintas",
+      "location": "Cincinnati, OH",
+      "description": "Mobile device programming in C# and C++. Device management. I refined my approach to test-driven development and developed a strong focus on maintainability.\n\nI lead development on a massive project to implement four mobile sales & service applications that integrate with SAP.\n\nTech I worked with there: C#, C++, Sybase Unwired Platform (SUP), Netweaver Mobile (DOE), SAP (ECC, CRM), SOTI, Windows Mobile 5, .NET CF 2.0/3.5, SQL CE, SQLite, Bluetooth, barcode scanning, SOAP, IrDA, Hudson, Wireshark, F5 BigIP.\n…\nsee more",
+      "date1": "Mar 2008 – May 2011",
+      "date2": "3 yrs 3 mos"
+    },
+    {
+      "title": "Software Engineer",
+      "companyName": "Clifton Labs",
+      "location": "Cincinnati, OH",
+      "description": "After I graduated college my advisor hired me to work for his consulting firm. Thanks, Phil.\n\nI wrote an application to visually simulate spinal surgical procedures. It's probably the sweetest software I ever made. It was complete and reliable and had thorough documentation and was fairly usable and the customer was super happy.\n\nAt this position I learned a lot about technical writing, and I wrote a contract-winning proposal. The work I produced for it wasn't my best but I learned a lot.\n\nI did some driver work in Linux and Windows, maintained a compiler, and wrote system software for embedded devices. I also published a pretty bad paper on USB driver simulation in Windows. Then I published a pretty good paper on another topic.\n\nI worked my magic with C#, .NET 1.1, C, C++, OSGi, DICOM, Gtk+, Linux kernel, Windows Driver Model, GNU Octave, USB protocol, Windows Forms, Windows Mobile 5, Java ME, Eclipse, Visual Studio 2003, Atmel AVR32.\n…\nsee more",
+      "date1": "Nov 2005 – Mar 2008",
+      "date2": "2 yrs 5 mos"
+    },
+    {
+      "title": "Software Engineering Co-op",
+      "companyName": "Rockwell Automation",
+      "location": "Cincinnati, OH",
+      "description": "Rockwell is where I started getting involved in mobile and embedded programming. My friend Pete and I played a lot of ping-pong. We also wrote software.\n\nI wrote a terrible web app in ASP that I was incredibly proud of. I didn't know about SQL injection then.\n\nI knew a little about all these things: C++, COM, MFC, Visual Studio 6, ASP, Java, MAXIMO, DeviceNet, Oracle 7/8i/9i, SQL Server 2000, Pocket PC 2002\n…\nsee more",
+      "date1": "Sep 2002 – Aug 2004",
+      "date2": "2 yrs"
+    },
+    {
+      "title": "Just a Kid",
+      "companyName": "Self employed",
+      "description": "Ahhh, while I'm reminiscing, some of my early background:\n\n- My dad was into microcomputers. Thanks dad <3.\n\n- My awesome 7th grade math teacher taught me to program in QBASIC. I loved QBASIC. There was a moment in time where it was my world. As far as I knew GOTOs were just fine.\n\n- From QBASIC I taught myself C++. Pointers were hard. OO was hard. C++ is too hard ;) In college I clearly remember thinking I was a C++ expert. Lol at my young self - nobody's a C++ expert.\n\n- I was completely obnoxious in my high school programming classes, knowing more than my peers and teacher, and making a point of it.\n\n- I was often the only member of my high school programming team. We competed locally. I recall during one competition proudly being the only team to succeed at implementing a BASIC interpreter; and I did so in QBASIC by sending the input back through the QBASIC interpreter. It was totally cheating and I was totally disqualified.\n\n- I created the website for my high school jazz band (I was the drummer). It was the wild west nineties and I rendered the animated navigation bar with POV-Ray, and streamed audio with RealAudio. It was neat but terrible.\n\n- I was paid (in parking stickers) to create my high school's website. I'm sure it was awful and unmaintainable and they definitely replaced it quickly.\n\n- For extra credit in Spanish class I submitted a game written in VB6 that had an interactive map of the world, in which you did ... something ... something to do with Spanish surely. In retrospect I wish I had cared to actually learn Spanish.\n\n- A parent of a high school peer hired me to work for his tiny basement company building websites for others using his proprietary tooling. That was my first real job.\n\nSome good memories there. That was mostly high school - I was the kid who knew computers. In college I mostly drank hard and listened to heavy metal.\n…\nsee more",
+      "date1": "1996 – 2002",
+      "date2": "6 yrs"
+    }
+  ],
+  "educations": [
+    {
+      "title": "University of Cincinnati",
+      "degree": "BS",
+      "fieldofstudy": "Computer Science",
+      "date1": "2000",
+      "date2": "2005"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Rust",
+      "count": "6"
+    },
+    {
+      "title": "Software Engineering",
+      "count": "22"
+    },
+    {
+      "title": "Systems Programming",
+      "count": "4"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "6",
+    "receivedCount": "5",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/qedunham/",
+        "text": "Brian is an excellent software architect and engineer -- I learned new things every time I read Brian's code for handling errors and edge cases before they impacted his programs' performance. But on a team of expert technologists, what really sets Brian apart is his unwavering devotion to communicating considerately and empathetically, even on a large and often frustrating open source project. What impresses me about Brian's consistently empathetic communication is that it doesn't just come naturally to him -- he's built these skills intentionally and thought really hard about how to do so, which means that he's able to explain and teach them, such as in one of my favorite writeups of constructive techniques for better discourse at http://brson.github.io/2017/04/05/minimally-nice-maintainer.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/bryan-davis-pmp-22b1613/",
+        "text": "Brian Anderson is a great resource to have and to work with. Brian always goes the extra mile to make sure the application meets the business need and does not hesitate to suggest other items that might improve the application. Brian was always very honest about deadlines and communicated very effectively if something unexpected presented itself and possesses the communication skills to explain any problems to a non-technical resource. If you are considering Brian Anderson as an employee I would highly recommend him.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/mborowczak/",
+        "text": "Brian is by far one of the best software developers and programmers I have encountered. His knowledge, insight and attention to detail is remarkable and enables him to go from concept to implementation in a methodical efficient manner."
+      },
+      {
+        "user": "https://www.linkedin.com/in/chris-fearing-8977351/",
+        "text": "Brian's approach to system design is always balanced, researched, and non-biased. His implementation after design is stellar. He is a great person to brainstorm and develop with in addition to being a down to earth and hardworking friend."
+      },
+      {
+        "user": "https://www.linkedin.com/in/doug-hickey-998b091/",
+        "text": "Brian demonstrates extensive knowledge of software engineering design principles. He quickly created project specifications, evaluated implementation strategies, and developed solutions independently with very high proficiency. His eagerness to learn new languages and research the best development strategies differentiate his work in both quality and performance. By pioneering test first design in our company, he revolutionized our development process and improved production quality and timing of deliverables considerably.\n…\nSee more"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/bjzaba/",
+        "text": "Brendan was one of the earliest contributors to the Rust programming language, and remains a highly-respected member of that community. Though he has contributed a great deal of quality code to Rust in the graphics and numerical computing domains, he has made an even greater impact as a role model for others, always friendly, welcoming, and eager to help.\r\n\r\nbjz has a lot of fans in #rust and at Mozilla Research."
+      },
+      {
+        "user": "https://www.linkedin.com/in/xueying-cao-6413928/",
+        "text": "Xueying and I worked very closely for several years, during which she was responsible for the implementation of multiple mobile projects of increasing scope and complexity. She was my mentor and I benefited greatly from her experience and patience. During this time we participated in one of those large-scale, overly ambitious enterprise integration projects that give engineers nightmares, but she was brilliant at navigating the constantly shifting and contradictory business requirements to successfully deliver the product. Her history in both software development and project management gives her the versatility to fill many roles."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "3",
+      "items": [
+        "Servo",
+        "Rust",
+        "Straightback"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "Engineering the Servo Web Browser Engine using Rust",
+        "Virtual preoperative measurement and surgical manipulation of sagittal spinal alignment using a novel research and educational software program",
+        "The Use of Device Simulation in Development of USB Storage Devices"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/alex-crichton-b99b7554/",
+      "text": "Staff Research Engineer at Mozilla"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mbrubeck/",
+      "text": "Rust developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/davidandrewherman/",
+      "text": "Principal Staff Engineer at LinkedIn"
+    },
+    {
+      "user": "https://www.linkedin.com/in/gregabramowitzweber/",
+      "text": "Senior Cloud Engineer at PingCAP"
+    },
+    {
+      "user": "https://www.linkedin.com/in/carmelo-piccione-5a73605/",
+      "text": "Rust Developer at Holochain."
+    },
+    {
+      "user": "https://www.linkedin.com/in/kolbe-kegel-3b009244/",
+      "text": "Customer Success Engineer at PingCAP"
+    },
+    {
+      "user": "https://www.linkedin.com/in/elijah-elmasri-945288191/",
+      "text": "Programmer at ShowSeeker"
+    },
+    {
+      "user": "https://www.linkedin.com/in/lisabrewster/",
+      "text": "I put the \"elation\" in developer relations | Store Manager, Oculus VR"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ricky-r-928b4a101/",
+      "text": "Lead System Administrator at reddit"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jacob-lerche-98247811/",
+      "text": "Cloud Engineer at PingCAP"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Brian Anderson",
+    "headline": "Senior Software Engineer and Rust \"Expert\"",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQELclvhAwHGsQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=9k44ReUUybr50ZPKqfM-hIb7DEmKl8Nd0qw2hzJhQnA",
+    "location": "San Francisco, California",
+    "connections": "475",
+    "summary": "I'm a passionate engineer with diverse skills, a history in systems programming, software validation, programming languages, and open source community building. I co-founded the Rust programming language and its sister project, the Servo web browser. When I'm part of projects that stimulate my imagination I tend to make good things happen. I am agonizingly self-aware and always improving.\n\nSome consider me one of the world's foremost experts on the Rust programming language. I'm reluctant to agree (let's chat about imposter syndrome), but I'm writing it here because it sounds impressive.\n\nI generally like talking to people and companies using Rust, but I'm not actively seeking a new gig right now."
+  }
+}

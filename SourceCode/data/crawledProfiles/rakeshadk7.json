@@ -1,0 +1,219 @@
+{
+  "profileAlternative": {
+    "name": "Rakesh Adhikesavan",
+    "headline": "Python Developer at Nielsen",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQFjbn-H8g6SWQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=d1n9SME35KU_YLt8uHh8V02TCpVUw2jJbg8jQH3Od90",
+    "location": "Chicago, Illinois",
+    "connections": "500+",
+    "summary": "In a world of \"Alternative Facts\", my objective is to leverage my quantitative skill set to answer questions backed up by science and real data.\n\nAbout me:\nI am a technophile. I love gadgets and eagerly read about the next generation of technologies that will change our lives, perhaps to a degree and in a direction that is yet to be imagined.\nI am an animal lover, but my heart belongs to my dog friends.\nI love traveling because I enjoy exploring nature, trying new food and meeting people from different cultural backgrounds."
+  },
+  "aboutAlternative": {
+    "text": "In a world of \"Alternative Facts\", my objective is to leverage my quantitative skill set to answer questions backed up by science and real data.\n\nAbout me:\nI am a technophile. I love gadgets and eagerly read about the next generation of technologies that will change our lives, perhaps to a degree and in a direction that is yet to be imagined.\nI am an animal lover, but my heart belongs to my dog friends.\nI love traveling because I enjoy exploring nature, trying new food and meeting people from different cultural backgrounds."
+  },
+  "positions": [
+    {
+      "title": "Python Developer",
+      "companyName": "Nielsen",
+      "location": "Greater Chicago Area",
+      "description": "Writing Python Code that automates manual processes.\n\nWorking with a creative and innovative team to build a Data Analytics platform that leverages the power of Spark, AWS, and other powerful tools.",
+      "date1": "Feb 2017 – Present",
+      "date2": "2 yrs 10 mos"
+    },
+    {
+      "title": "Python Developer",
+      "companyName": "Gray Matter Analytics",
+      "location": "Greater Chicago Area",
+      "description": "Worked on designing and programming a Data Ingestion Engine",
+      "date1": "Oct 2016 – Feb 2017",
+      "date2": "5 mos"
+    },
+    {
+      "title": "Illinois Institute of Technology",
+      "location": "Chicago",
+      "description": "working with IIT's Office of Institutional Advancement to help the Alumni Relations team to effectively reach out to donors.\nKey components of the project include:\n- Getting and cleaning data from alumni database\n- Creating interactive visualizations using Tableau to understand donation patterns and gain key insights\n- Using custom statistical models to find predictors of future major givers\n- Defining metrics to aid in Resource Allocation planning and to increase Return on Investment\n…\nsee more",
+      "date1": "May 2016 – Sep 2016",
+      "date2": "5 mos",
+      "roles": [
+        {
+          "title": "Data Science Capstone Project",
+          "date1": "May 2016 – Sep 2016",
+          "date2": "5 mos"
+        },
+        {
+          "title": "Career Services - Student Office Assistant",
+          "date1": "Sep 2015 – May 2016",
+          "date2": "9 mos",
+          "location": "Chicago"
+        },
+        {
+          "title": "Check-in Coordinator",
+          "date1": "Jul 2015 – Aug 2015",
+          "date2": "2 mos",
+          "location": "Chicago"
+        }
+      ]
+    },
+    {
+      "title": "Title\nData Science Capstone Project",
+      "description": "working with IIT's Office of Institutional Advancement to help the Alumni Relations team to effectively reach out to donors.\nKey components of the project include:\n- Getting and cleaning data from alumni database\n- Creating interactive visualizations using Tableau to understand donation patterns and gain key insights\n- Using custom statistical models to find predictors of future major givers\n- Defining metrics to aid in Resource Allocation planning and to increase Return on Investment\n…\nsee more",
+      "date1": "May 2016 – Sep 2016",
+      "date2": "5 mos",
+      "roles": [
+        {
+          "title": "Data Science Capstone Project",
+          "date1": "May 2016 – Sep 2016",
+          "date2": "5 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nCareer Services - Student Office Assistant",
+      "location": "Chicago",
+      "description": "Wrote Python programs that filter, clean and merge data(student employment information) read from Excel files.\n\nManage the front desk and assist approximately 40 to 50 students every day by providing information and resolving minor issues while simultaneously maintaining office operations by receiving and distributing communications.\n\nFiled, sorted and organized approximately 2000 student's employment documents.\n\n\n\n\n…\nsee more",
+      "date1": "Sep 2015 – May 2016",
+      "date2": "9 mos",
+      "roles": [
+        {
+          "title": "Career Services - Student Office Assistant",
+          "date1": "Sep 2015 – May 2016",
+          "date2": "9 mos",
+          "location": "Chicago"
+        }
+      ]
+    },
+    {
+      "title": "Title\nCheck-in Coordinator",
+      "location": "Chicago",
+      "description": "Welcomed approximately 400 new international students to Illinois Tech and reviewed their immigration documents.\n\nConversed with new students, answered questions about Illinois Tech and Chicago, discussed campus life, activities and travel.\n\nAssisted International Center staff with logistics and event planning for international student orientation.\n…\nsee more",
+      "date1": "Jul 2015 – Aug 2015",
+      "date2": "2 mos",
+      "roles": [
+        {
+          "title": "Check-in Coordinator",
+          "date1": "Jul 2015 – Aug 2015",
+          "date2": "2 mos",
+          "location": "Chicago"
+        }
+      ]
+    },
+    {
+      "title": "Data Intern",
+      "companyName": "Caterpillar India Private Limited",
+      "description": "Wrote a Python program that automates data processing steps.\n\nWorked on a program that calculates the sentiment score of a product review based on lexicon and heuristics.",
+      "date1": "Jun 2013 – Aug 2013",
+      "date2": "3 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Illinois Institute of Technology",
+      "degree": "Master's degree",
+      "fieldofstudy": "Data Science",
+      "date1": "2015",
+      "date2": "2016"
+    },
+    {
+      "title": "University of California, Davis",
+      "degree": "Global Study Program",
+      "fieldofstudy": "Computer Science",
+      "date1": "2014",
+      "date2": "2014"
+    },
+    {},
+    {
+      "title": "Amrita University",
+      "degree": "Bachelor of Technology (BTech)",
+      "fieldofstudy": "Computer Science",
+      "date1": "2010",
+      "date2": "2014"
+    },
+    {
+      "title": "Padma Seshadri Bala Bhavan Senior Secondary School",
+      "date1": "1995",
+      "date2": "2010"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Python",
+      "count": "13"
+    },
+    {
+      "title": "Machine Learning",
+      "count": "4"
+    },
+    {
+      "title": "R",
+      "count": "3"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "3",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/melissa-lee-89b5a13/",
+        "text": "Rakesh completed his data science practicum capstone project during summer 2016 in the Office of Institutional Advancement at Illinois Tech. Although a newcomer to philanthropy and advancement, Rakesh made a significant contribution through his analyses of our phonathon program. He used Tableau to create interactive visualizations and dashboards that enabled the manager of our Phonathon program to quickly assess callers'; completion rates and solicitation success. With this kind of real-time analysis, the manager is able to identify callers who might benefit from more training. Rakesh also used Python to clean and structure all the data before visualizing it. He also visualized acquisition, retention and reacquisition trends and developed a basic predictive analysis model that predicts retention.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/shlomoengelsonargamon/",
+        "text": "As a student, I found Rakesh to be smart and hard-working, able to find creative solutions to difficult problems. In my experience he works well with clients, and is quite good at helping clients to figure out what sorts of data analytics or visualizations will actually help them."
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "14",
+      "items": [
+        "Advanced Database Organization",
+        "Applied Statistics",
+        "Cloud Computing",
+        "Computational Mathematics",
+        "Data Preparation and Analysis",
+        "Data Structures",
+        "Data Visualization",
+        "Introduction to Psychology",
+        "Linguistics",
+        "Machine Learning",
+        "Natural Language Processing",
+        "Project Management",
+        "Public Engagement for Scientists",
+        "Software Engineering"
+      ]
+    },
+    {
+      "count": "4",
+      "items": [
+        "Machine Learning",
+        "Custom Database",
+        "Lexical Chains",
+        "HTML5 Canvas Game"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "English"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [],
+  "volunteerExperience": [
+    {
+      "title": "Clean up Volunteer",
+      "experience": "Amrita University",
+      "description": "Environment",
+      "date1": "2012",
+      "date2": "less than a year"
+    }
+  ],
+  "profile": {
+    "name": "Rakesh Adhikesavan",
+    "headline": "Python Developer at Nielsen",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQFjbn-H8g6SWQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=d1n9SME35KU_YLt8uHh8V02TCpVUw2jJbg8jQH3Od90",
+    "location": "Chicago, Illinois",
+    "connections": "500+",
+    "summary": "In a world of \"Alternative Facts\", my objective is to leverage my quantitative skill set to answer questions backed up by science and real data.\n\nAbout me:\nI am a technophile. I love gadgets and eagerly read about the next generation of technologies that will change our lives, perhaps to a degree and in a direction that is yet to be imagined.\nI am an animal lover, but my heart belongs to my dog friends.\nI love traveling because I enjoy exploring nature, trying new food and meeting people from different cultural backgrounds."
+  }
+}

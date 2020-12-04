@@ -1,0 +1,194 @@
+{
+  "profileAlternative": {
+    "name": "Rajesh Kumar Rajendran",
+    "headline": "Web/Application and SQL Developer at Mandarich Law Group, LL",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQGu-xlsGASzBg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=ZTnZN7Y9icExdYiFJTHllXqkdFenfgfzbbmJJ7hQ1bE",
+    "location": "Greater Chicago Area",
+    "connections": "8",
+    "summary": "SUMMARY\n• Web/App Developer and Database Programmer with 4+ years of experience in organizations such as Accenture, Mandarich Law Group, LLP (USA), and Illinois Institute of Technology (USA).\n• Skilled in applying Web Technologies such as ASP.NET, C#.NET, HTML5, CSS3, JavaScript, jQuery and AJAX.\n• Extensive knowledge and application of Relational Database Management systems including MS SQL Server, MySQL, Advantage Database Server. Application of ETL Data Warehouse mappings to various industry projects.\n• Expertise in creation of ETL processes, Stored Procedures, Triggers, Functions, Indexes, Views, Joins and T-SQL code to PII and PHI compliant data\n• Administrator for nurturing a culture of compliance by leveraging in-depth knowledge of HIPAA.\n• Extensive usage of Android Mobile Development platform for Utility apps and parsing of JSON format files.\n• High proficiency in applying Service Oriented Architecture, MVC, and RESTful API’s to Agile Projects.\n• Acted as Build Manager and Deployment Lead for 2 years, with extensive knowledge in Software Development Lifecycle (SDLC) such as Requirement Analysis, Build, Test and Deployment activities."
+  },
+  "aboutAlternative": {
+    "text": "SUMMARY\n• Web/App Developer and Database Programmer with 4+ years of experience in organizations such as Accenture, Mandarich Law Group, LLP (USA), and Illinois Institute of Technology (USA).\n• Skilled in applying Web Technologies such as ASP.NET, C#.NET, HTML5, CSS3, JavaScript, jQuery and AJAX.\n• Extensive knowledge and application of Relational Database Management systems including MS SQL Server, MySQL, Advantage Database Server. Application of ETL Data Warehouse mappings to various industry projects.\n• Expertise in creation of ETL processes, Stored Procedures, Triggers, Functions, Indexes, Views, Joins and T-SQL code to PII and PHI compliant data\n• Administrator for nurturing a culture of compliance by leveraging in-depth knowledge of HIPAA.\n• Extensive usage of Android Mobile Development platform for Utility apps and parsing of JSON format files.\n• High proficiency in applying Service Oriented Architecture, MVC, and RESTful API’s to Agile Projects.\n• Acted as Build Manager and Deployment Lead for 2 years, with extensive knowledge in Software Development Lifecycle (SDLC) such as Requirement Analysis, Build, Test and Deployment activities."
+  },
+  "positions": [
+    {
+      "title": "Web/Application and SQL Developer",
+      "companyName": "Mandarich Law Group, LLP",
+      "location": "Greater Chicago Area",
+      "description": "• Single-handedly developed and maintained internal website for firm's reporting using ASP.NET, C#.NET, VB.NET, CSS, JavaScript, and T-SQL.\n• Development of Web services and Web API (RESTful architecture) using HTTP Verbs to send and receive data from clients.\n• Configured IIS and setup App pools for internal website.\n• Created reporting database from existing systems and migrated the same to SQL Server using Linked Servers.\n• Reconciled and assessed PII data and used the minimum required data rule thereby protecting client information.\n• Provided SQL database Architecture, Design and Maintenance, including Database Creation, Schema Development,\nDatabase Migration, Storage Management, System Administration, Database Security, Database Tuning, Database\nBack Up, creation of Functions, Stored Procedures and Triggers\n• Created, managed and maintained Data Models and Data Flow Diagrams using Visio.\n• Automated SQL scripts using Windows Task Scheduler and optimized daily backup process by 25%.\n• Used SFTP software to connect to Client's server and automated the file transfers using .Net and Python.\n• Optimized reusable SQL queries and created functions to avoid redundancy.\n• Create a data pipeline (ETL workflow) using Talend to import data from Flat file sources to Relational Database targets.\n• Generated reports by using Stored procedures and improved performance by 30%.\n• Projected client prospects using Tableau and performed gap analysis, thereby increasing client data throughput.\n• Built applications using VB.NET and Python to compare SQL tables and excel spreadsheets.\n• Created T-SQL and automated scheduling of the same using Talend ETL data mapping.\n…\nsee more",
+      "date1": "May 2017 – Present",
+      "date2": "2 yrs 7 mos"
+    },
+    {
+      "title": "Student Web Development and Social Media Worker",
+      "companyName": "Illinois Institute of Technology",
+      "location": "Greater Chicago Area",
+      "description": "• Created and maintained University's website for the School of Applied Technology using Drupal, HTML, and CSS.\n• Performed Web Traffic Analysis and optimized sites by 35%, thereby promoting better website reach amongst users.\n• Corroborated Social Media updates and Photographic contents (using Adobe Photoshop) for University Social Network.\n\n…\nsee more",
+      "date1": "Feb 2017 – Apr 2017",
+      "date2": "3 mos"
+    },
+    {
+      "title": "Accenture",
+      "location": "Chennai Area, India",
+      "description": "Cigna Healthcare Insurance\n• Created SQL queries for data assessment and performed root cause analysis to fulfil external client requests.\n• Performed data hygiene and created data validation rules to avoid unwanted SQL query calls to the database.\n• Created T-SQL procedures to filter records based on specific ICD-9 and HCPCS codes.\n• Developed SQL scripts to identify duplicate member and claims data and reported the findings for data cleansing.\n• Completed ad-hoc projects relating to data investigations, follow-ups on analysis results, or other client requests.\n• Documented tasks in a timely and accurate basis including delineation of tasks, and estimation of effort.\n…\nsee more",
+      "date1": "Aug 2014 – Jul 2016",
+      "date2": "2 yrs",
+      "roles": [
+        {
+          "title": "Software Engineering Analyst",
+          "date1": "Aug 2014 – Jul 2016",
+          "date2": "2 yrs",
+          "location": "Chennai Area, India"
+        },
+        {
+          "title": "Software Engineering Analyst",
+          "date1": "Aug 2013 – Jul 2014",
+          "date2": "1 yr",
+          "location": "Chennai Area, India"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSoftware Engineering Analyst",
+      "location": "Chennai Area, India",
+      "description": "Cigna Healthcare Insurance\n• Created SQL queries for data assessment and performed root cause analysis to fulfil external client requests.\n• Performed data hygiene and created data validation rules to avoid unwanted SQL query calls to the database.\n• Created T-SQL procedures to filter records based on specific ICD-9 and HCPCS codes.\n• Developed SQL scripts to identify duplicate member and claims data and reported the findings for data cleansing.\n• Completed ad-hoc projects relating to data investigations, follow-ups on analysis results, or other client requests.\n• Documented tasks in a timely and accurate basis including delineation of tasks, and estimation of effort.\n…\nsee more",
+      "date1": "Aug 2014 – Jul 2016",
+      "date2": "2 yrs",
+      "roles": [
+        {
+          "title": "Software Engineering Analyst",
+          "date1": "Aug 2014 – Jul 2016",
+          "date2": "2 yrs",
+          "location": "Chennai Area, India"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSoftware Engineering Analyst",
+      "location": "Chennai Area, India",
+      "description": "Careers at Accenture for Enterprise and Consulting Workforce (Agile methodology)\n• Positioned as Build manager, thereby acting as a liaison between the Configuration Management team and development teams using Team Foundation Server (TFS).\n• Queried databases using Microsoft SQL Server and created complex Stored Procedures - Transact-SQL (T-SQL) for implementing Server-side functionalities.\n• Automation and implementation of loads for T-SQL stored procedures using Control M.\n• Used Agile Test Methods to provide rapid feedback to the developers, significantly helping them uncover important risks.\n• Prime presenter of knowledge sharing sessions, on both technical and functional topics.\n• Created SQL queries for data assessment and performed root cause analysis to fulfill external client requests.\n• Created data validation rules and SQL Performance Tuning to avoid unwanted SQL query calls from Website to the database. less\n…\nsee more",
+      "date1": "Aug 2013 – Jul 2014",
+      "date2": "1 yr",
+      "roles": [
+        {
+          "title": "Software Engineering Analyst",
+          "date1": "Aug 2013 – Jul 2014",
+          "date2": "1 yr",
+          "location": "Chennai Area, India"
+        }
+      ]
+    }
+  ],
+  "educations": [
+    {
+      "title": "Illinois Institute of Technology",
+      "degree": "Master's degree",
+      "fieldofstudy": "Information Technology",
+      "date1": "2016",
+      "date2": "2018"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Microsoft SQL Server"
+    },
+    {
+      "title": "Databases"
+    },
+    {
+      "title": ".NET Framework"
+    },
+    {
+      "title": "Web Services"
+    },
+    {
+      "title": "Agile Methodologies"
+    },
+    {
+      "title": "C#"
+    },
+    {
+      "title": "ASP.NET"
+    },
+    {
+      "title": "JavaScript"
+    },
+    {
+      "title": "Visual Basic .NET (VB.NET)"
+    },
+    {
+      "title": "HTML"
+    },
+    {
+      "title": "Cascading Style Sheets (CSS)"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "4",
+      "items": [
+        "Android Mobile Application Development",
+        "Java & SQL application for Patient Management System",
+        "Patient Management ETL Workflow",
+        "Web Application Development"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/upendar-garg-a729a010/",
+      "text": "Product Manager at Wayfair"
+    },
+    {
+      "user": "https://www.linkedin.com/in/suresh-meduri-19368a16/",
+      "text": "IT Specialist at Local County Government"
+    },
+    {
+      "user": "https://www.linkedin.com/in/hitesh-nanavaty-1a897115/",
+      "text": "Software Engineer at AVEVA (former Schneider Electric software)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/gpergrossi/",
+      "text": "Visit my portfolio website: gpergrossi com"
+    },
+    {
+      "user": "https://www.linkedin.com/in/anay-deshpande-72b200121/",
+      "text": "Electrical Engineering Graduate student | Actively seeking full time job opportunities in Hardware and Software Profiles"
+    },
+    {
+      "user": "https://www.linkedin.com/in/arunsaikrishnan/",
+      "text": "Software Engineer at Dropbox"
+    },
+    {
+      "user": "https://www.linkedin.com/in/djnbapti/",
+      "text": "Assistant Lecturer, Electrical and Electronics Department, DTEMS, SALCC"
+    },
+    {
+      "user": "https://www.linkedin.com/in/adithya-ramachandran-442012110/",
+      "text": "Software Engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nikhilshah2805/",
+      "text": "Product support specialist at Autodesk"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yujin-yang/",
+      "text": "B.Arch Student at Illinois Institute of Technology"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Rajesh Kumar Rajendran",
+    "headline": "Web/Application and SQL Developer at Mandarich Law Group, LL",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQGu-xlsGASzBg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=ZTnZN7Y9icExdYiFJTHllXqkdFenfgfzbbmJJ7hQ1bE",
+    "location": "Greater Chicago Area",
+    "connections": "8",
+    "summary": "SUMMARY\n• Web/App Developer and Database Programmer with 4+ years of experience in organizations such as Accenture, Mandarich Law Group, LLP (USA), and Illinois Institute of Technology (USA).\n• Skilled in applying Web Technologies such as ASP.NET, C#.NET, HTML5, CSS3, JavaScript, jQuery and AJAX.\n• Extensive knowledge and application of Relational Database Management systems including MS SQL Server, MySQL, Advantage Database Server. Application of ETL Data Warehouse mappings to various industry projects.\n• Expertise in creation of ETL processes, Stored Procedures, Triggers, Functions, Indexes, Views, Joins and T-SQL code to PII and PHI compliant data\n• Administrator for nurturing a culture of compliance by leveraging in-depth knowledge of HIPAA.\n• Extensive usage of Android Mobile Development platform for Utility apps and parsing of JSON format files.\n• High proficiency in applying Service Oriented Architecture, MVC, and RESTful API’s to Agile Projects.\n• Acted as Build Manager and Deployment Lead for 2 years, with extensive knowledge in Software Development Lifecycle (SDLC) such as Requirement Analysis, Build, Test and Deployment activities."
+  }
+}

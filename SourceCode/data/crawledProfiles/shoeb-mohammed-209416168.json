@@ -1,0 +1,186 @@
+{
+  "profileAlternative": {
+    "name": "Shoeb Mohammed",
+    "headline": "Java Software Developer @ Walmart | Expertise in Microservices, J2EE & Cloud platforms.",
+    "location": "Hoboken, New Jersey",
+    "connections": "213",
+    "summary": "8 years domain experience of Telecommunications, Banking & Finance, Product development and Customer support for B2B and B2C applications.\n- Exposure to many programming languages, multi platform development, Web development, client / server application development, distributed application development and database design.\n- Experience in developing end to end using frameworks like Spring-Boot, Thymeleaf, JavaScript, Hibernate, Angular & React.\n- Experience in developing front end application using MongoDB, Express, Angular and NodeJS.\n- Experience with Docker containers and orchestration platforms such as Amazon Elastic Container Service, Kubernetes, Mesos & Docker Swarm\n- Experience on building Microservices with Spring Boot, Spring Cloud, Eureka Service Discovery, Ribbon, Apache camel and Restful Web Services with JAX-RS and Apache CXF.\n- Experience developing messaging application using framework like JMS, ZeroMQ, ActiveMQ, Kafka & RabbitMQ.\n- Proficient in JAVA/J2EE technologies, Spring, Hibernate, Struts, EJB, Servlets, JSP, Java beans, XML, XSL, DOJO, Web Services, SOAP, etc\n- Experience using MVC( Model View Controller) architecture framework and various Java / J2EE design patterns.\n- Experience in deploying J2EE Applications on IBM Web Sphere application server, Weblogic Application Server, Glass fish and Tomcat server.\n- Expertized in using JIRA, IBM clearquest software with Jenkins and Github for real time bug tracking and issue management.\n- Experience in build tools such as Apache Ant, AWS code commit, Maven and implemented Continous Integration and Continous deployment using Jenkins & Docker.\n- Designed and managed public/private cloud infrastructures using Amazon Web Services(AWS) which allowed automated operations.\n- Extensive experience working with RDBMS such as Oracle, MySQL, MS SQL server, DB2, Redis and NoSQL databases like MongoDB & Apache Cassandra.\n- Experience with different Software Development life cycles methodologies like Agile & DevOps."
+  },
+  "aboutAlternative": {
+    "text": "8 years domain experience of Telecommunications, Banking & Finance, Product development and Customer support for B2B and B2C applications.\n- Exposure to many programming languages, multi platform development, Web development, client / server application development, distributed application development and database design.\n- Experience in developing end to end using frameworks like Spring-Boot, Thymeleaf, JavaScript, Hibernate, Angular & React.\n- Experience in developing front end application using MongoDB, Express, Angular and NodeJS.\n- Experience with Docker containers and orchestration platforms such as Amazon Elastic Container Service, Kubernetes, Mesos & Docker Swarm\n- Experience on building Microservices with Spring Boot, Spring Cloud, Eureka Service Discovery, Ribbon, Apache camel and Restful Web Services with JAX-RS and Apache CXF.\n- Experience developing messaging application using framework like JMS, ZeroMQ, ActiveMQ, Kafka & RabbitMQ.\n- Proficient in JAVA/J2EE technologies, Spring, Hibernate, Struts, EJB, Servlets, JSP, Java beans, XML, XSL, DOJO, Web Services, SOAP, etc\n- Experience using MVC( Model View Controller) architecture framework and various Java / J2EE design patterns.\n- Experience in deploying J2EE Applications on IBM Web Sphere application server, Weblogic Application Server, Glass fish and Tomcat server.\n- Expertized in using JIRA, IBM clearquest software with Jenkins and Github for real time bug tracking and issue management.\n- Experience in build tools such as Apache Ant, AWS code commit, Maven and implemented Continous Integration and Continous deployment using Jenkins & Docker.\n- Designed and managed public/private cloud infrastructures using Amazon Web Services(AWS) which allowed automated operations.\n- Extensive experience working with RDBMS such as Oracle, MySQL, MS SQL server, DB2, Redis and NoSQL databases like MongoDB & Apache Cassandra.\n- Experience with different Software Development life cycles methodologies like Agile & DevOps."
+  },
+  "positions": [
+    {
+      "title": "Java Software Developer",
+      "companyName": "Walmart eCommerce",
+      "description": "- Worked, designed and developed Micro Services business components using Spring boot with Spring boot & Hibernate with Spring MVC flow.\n- Developed Restful Services using JAX-RS with Spring Boot and Micro services Architecture to enable micro services to deploy in the cloud infrastructure.\n- Used RabbitMQ as Java Messaging Service for producing and consuming data between applications.\n- Automated application deployment in the cloud using Docker technology using Elastic Service\n- Designed and implemented continuous integration system using Jenkins by creating python and perl scripts.\n- Provided expertise and hands-on help, guidance to other engineers about cloud infrastructure, micro services container, application server configuration & docker container management.\n\n\n…\nsee more",
+      "date1": "Apr 2017 – Present",
+      "date2": "2 yrs 8 mos"
+    },
+    {
+      "title": "Full-stack Developer",
+      "companyName": "Verizon",
+      "location": "Greater New York City Area",
+      "description": "- Working on business, and persistence tier using Core Java (Multithreading, Collections, exceptions etc.), Spring Core, Hibernate, Apache Camel and JUnit frameworks.\n- Designs, develops and implements web-based, cloud-aware Java applications to support business requirements and projects.\n- Leverages Agile development including task estimation, test automation, deployment automation, and continuous integration to improve overall execution speed and code quality.\n- Developed front end application with MongoDB, Express, Angular and NodeJS.\n- Worked Setup of an application using Spring Cloud and creating a Docker image and deploying in minikube kubernetes environment.\n\n…\nsee more",
+      "date1": "Sep 2016 – Mar 2017",
+      "date2": "7 mos"
+    },
+    {
+      "title": "Software Engineer",
+      "companyName": "USAA",
+      "location": "San Antonio, Texas Area",
+      "description": "- Involved in deployment of full Software Development Life Cycle (SDLC) of the tracking systems Requirement gathering, Conceptual design, Analysis, Detail design, Development, System Testing, and User Acceptance\n- Used Agile methodology and effectively took part in Scrum gatherings to deliver quality deliverables within time (extensively used Scrum Do for project Management).\n- Performed GAP analysis on internal systems with new requirements\n- Developed the DAO layer using Hibernate and used caching system for real time performance.\n- Designed various applications using Multi-Threading concepts, mostly used to perform time consuming tasks in the background.\n- Developed stored procedures and triggers using PL/SQL in order to calculate and update the tables to implement business logic using Oracle database.\n\n…\nsee more",
+      "date1": "Sep 2014 – Aug 2016",
+      "date2": "2 yrs"
+    },
+    {
+      "title": "Java Developer",
+      "companyName": "Santander Bank, N.A.",
+      "description": "-Responsible for creating Class diagrams, Sequence diagrams, Use Case diagrams, Object Model diagrams and deployment diagrams using Rational Rose.\n- Deployed project based on J2EE standard architecture i.e. client tier, web tier and Business tier.\n- Implemented Spring MVC for designing business layer of the Application.\n- Implemented design patterns like Singleton, MVC & Front Controller.\n- Good Exposure to Service Oriented Architecture (SOA) such as Webservices using Apache AXIS - SOAP engine to expose a method which parses the XML and stores the mapped fields to the database.\n- Used simple JDBC statements to persist the parsed values into Oracle tables.\n- Worked on changes to the front-end java script pages.\n- Developed core part of the application using Struts.\n\n…\nsee more",
+      "date1": "Jan 2013 – Sep 2014",
+      "date2": "1 yr 9 mos"
+    },
+    {
+      "title": "Java Developer",
+      "companyName": "Tata AIG General Insurance Company Limited",
+      "description": "- Established Business analysis methodology around the Rational Unified Processes (RUP) which helped to develop Use cases, Project Plans and Managed Scope.\n- Implemented MVC, Singleton, DAO, DTO J2EE design patterns as a part of application development.\n- Created the JSP’s, Servlets, DOM, XSLT and Tag libraries for the Presentation layer.\n- Integrated Crystal Reports with Alert Access application using JSP to display Dashboards and Audit Trails.\n- Developed Few UI Screens with Adobe Flex where the columns are flexible and re-sizable with no page refreshing.\n\n…\nsee more",
+      "date1": "May 2010 – Dec 2013",
+      "date2": "3 yrs 8 mos"
+    }
+  ],
+  "educations": [],
+  "skills": [
+    {
+      "title": "Spring Framework",
+      "count": "1"
+    },
+    {
+      "title": "Java Enterprise Edition",
+      "count": "1"
+    },
+    {
+      "title": "Spring Boot",
+      "count": "1"
+    },
+    {
+      "title": "Software Project Management"
+    },
+    {
+      "title": "Enterprise Architecture"
+    },
+    {
+      "title": "Enterprise Resource Planning (ERP)"
+    },
+    {
+      "title": "Enterprise Risk Management"
+    },
+    {
+      "title": "Architectural Design"
+    },
+    {
+      "title": "Hibernate"
+    },
+    {
+      "title": "Docker"
+    },
+    {
+      "title": "Struts"
+    },
+    {
+      "title": "Enterprise Software"
+    },
+    {
+      "title": "Angular"
+    },
+    {
+      "title": "react"
+    },
+    {
+      "title": "Red Hat Linux"
+    },
+    {
+      "title": "spring"
+    },
+    {
+      "title": "Java"
+    },
+    {
+      "title": "Kubernetes"
+    },
+    {
+      "title": "Microservices"
+    },
+    {
+      "title": "RESTful architecture"
+    },
+    {
+      "title": "Apache Kafka"
+    },
+    {
+      "title": "Sun Certified Java Programmer"
+    },
+    {
+      "title": "Enterprise Project Management (EPM)"
+    },
+    {
+      "title": "Application Architecture"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/anil-g/",
+      "text": "Cloud Architect specialized in Java/J2EE, MicroServices, Povital Cloud Foundry, AWS, Kafka, Cassandra, Spring-Cloud"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kumar-vinay-aa4407150/",
+      "text": "Java Developer(MicroServices)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sangeethaselvaraj/",
+      "text": "Java Developer (Microservices)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sanket-shah-9b371757/",
+      "text": "Looking for JAVA + Spring Boot + CloudFoundry developer position + GC sponsor"
+    },
+    {
+      "user": "https://www.linkedin.com/in/harsha-munnangi-64a409148/",
+      "text": "AWS Certified Solutions Architect, Java Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jacobhein/",
+      "text": "Java Software Developer at Freelance Software Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/glenn-dennis-morales-3865a8a5/",
+      "text": "Senior Java Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/victor-raj-b19a0b24/",
+      "text": "Java/J2EE/Spring Boot/AWS/Jenkins/MongoDB/Postgres/Microservice/WebService/Selenium/Automation/Angular/"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ujwala-reddy-2aaa49162/",
+      "text": "Looking for fulltime apportunity in java"
+    },
+    {
+      "user": "https://www.linkedin.com/in/laxmi-tudi-b34b88160/",
+      "text": "Sr. Java/J2EE Developer"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Shoeb Mohammed",
+    "headline": "Java Software Developer @ Walmart | Expertise in Microservices, J2EE & Cloud platforms.",
+    "location": "Hoboken, New Jersey",
+    "connections": "213",
+    "summary": "8 years domain experience of Telecommunications, Banking & Finance, Product development and Customer support for B2B and B2C applications.\n- Exposure to many programming languages, multi platform development, Web development, client / server application development, distributed application development and database design.\n- Experience in developing end to end using frameworks like Spring-Boot, Thymeleaf, JavaScript, Hibernate, Angular & React.\n- Experience in developing front end application using MongoDB, Express, Angular and NodeJS.\n- Experience with Docker containers and orchestration platforms such as Amazon Elastic Container Service, Kubernetes, Mesos & Docker Swarm\n- Experience on building Microservices with Spring Boot, Spring Cloud, Eureka Service Discovery, Ribbon, Apache camel and Restful Web Services with JAX-RS and Apache CXF.\n- Experience developing messaging application using framework like JMS, ZeroMQ, ActiveMQ, Kafka & RabbitMQ.\n- Proficient in JAVA/J2EE technologies, Spring, Hibernate, Struts, EJB, Servlets, JSP, Java beans, XML, XSL, DOJO, Web Services, SOAP, etc\n- Experience using MVC( Model View Controller) architecture framework and various Java / J2EE design patterns.\n- Experience in deploying J2EE Applications on IBM Web Sphere application server, Weblogic Application Server, Glass fish and Tomcat server.\n- Expertized in using JIRA, IBM clearquest software with Jenkins and Github for real time bug tracking and issue management.\n- Experience in build tools such as Apache Ant, AWS code commit, Maven and implemented Continous Integration and Continous deployment using Jenkins & Docker.\n- Designed and managed public/private cloud infrastructures using Amazon Web Services(AWS) which allowed automated operations.\n- Extensive experience working with RDBMS such as Oracle, MySQL, MS SQL server, DB2, Redis and NoSQL databases like MongoDB & Apache Cassandra.\n- Experience with different Software Development life cycles methodologies like Agile & DevOps."
+  }
+}

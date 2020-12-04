@@ -1,0 +1,151 @@
+{
+  "profileAlternative": {
+    "name": "Joel Anderson",
+    "headline": "Security & Technology Executive",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQGj4-gKG_Vhrg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=Ek6RJS1-qxLwQYJakGOtEVdHaNVvXPTtah3Kbbpm4tQ",
+    "location": "New York, New York",
+    "connections": "500+",
+    "summary": "Joel Anderson has worked in cybersecurity and IT as an engineer, advisor, and executive with impact across public, private, and social sectors.\n\n- technology leader for over 12 years\n- strong focus on information security and emerging technologies\n- agile, proven strategic thinker/thought leader relating technology to business value\n- experienced leading global teams\n\nSpecialties: building high-performing teams, technology platforms, information security expert, application security, operational security, strategy development and execution, investment due-diligence"
+  },
+  "aboutAlternative": {
+    "text": "Joel Anderson has worked in cybersecurity and IT as an engineer, advisor, and executive with impact across public, private, and social sectors.\n\n- technology leader for over 12 years\n- strong focus on information security and emerging technologies\n- agile, proven strategic thinker/thought leader relating technology to business value\n- experienced leading global teams\n\nSpecialties: building high-performing teams, technology platforms, information security expert, application security, operational security, strategy development and execution, investment due-diligence"
+  },
+  "positions": [
+    {
+      "title": "VP, Technical Operations & Interim CISO",
+      "companyName": "MongoDB, Inc.",
+      "location": "Greater New York City Area",
+      "description": "Responsible for Security, Data Warehouse, Business Systems (ERP, CRM, & HRIS), Internal Tools, DevOps, IT, Real Estate and Workplace Operations.",
+      "date1": "Oct 2016 – Present",
+      "date2": "3 yrs 2 mos"
+    },
+    {
+      "title": "Senior Director, Information Security Officer",
+      "companyName": "Knewton",
+      "location": "Greater New York City Area",
+      "description": "Directed all DevOps, IT, Test Engineering, SRE, and Security teams. Responsible for org-wide security policies and systems, development of information security and privacy strategy, and ensuring that Knewton meets all mandated security and compliance standards. Lead expansion into China.",
+      "date1": "Sep 2013 – Oct 2016",
+      "date2": "3 yrs 2 mos"
+    },
+    {
+      "title": "CEO",
+      "companyName": "Cloudmancer, Inc.",
+      "description": "Unleash your cloud -- Cloudmancer integrates dissimilar virtualization technologies and transforms them into a single, interconnected cloud platform.",
+      "date1": "Apr 2012 – Dec 2013",
+      "date2": "1 yr 9 mos"
+    },
+    {
+      "title": "Founder",
+      "companyName": "Open CTF Corp",
+      "description": "Designed and hosted public CTF's (a type of information security competition) for security research and recruiting purposes. Notable events include sequential years of oCTF (a black badge status contest at DefCon), TubeWarriors CTF, BSides WebApp CTFs, and jointly delivering STEM CTF with MITRE.",
+      "date1": "Sep 2011 – Sep 2013",
+      "date2": "2 yrs 1 mo"
+    },
+    {
+      "title": "Principal Security Architect",
+      "companyName": "Sypris Electronics, LLC",
+      "location": "Tampa/St. Petersburg, Florida Area",
+      "description": "Team-lead and senior architect of 'Cyber Range' -- a platform to facilitate next generation training and research for cyber security personnel and nation-state agencies.",
+      "date1": "May 2011 – Apr 2012",
+      "date2": "1 yr"
+    },
+    {
+      "title": "Security & Marketing Consultant",
+      "companyName": "AU Interactive",
+      "date1": "2006 – 2011",
+      "date2": "5 yrs"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Columbia Business School",
+      "degree": "Executive Education",
+      "date1": "2015"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Computer Security",
+      "count": "37"
+    },
+    {
+      "title": "Cloud Computing",
+      "count": "31"
+    },
+    {
+      "title": "Security",
+      "count": "30"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "1",
+    "receivedCount": "0",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/drisch/",
+        "text": "Dan has literally put top-notch candidates in seats before I could even finish writing a formal job description. With his command over recruiting and pairing the right people to the right problems, he was a tremendous asset in building out my teams at Knewton. Likewise, he did an equally impressive job at growing his own team. While I miss working with Dan on a regular basis, his leadership enabled his team to provide the same white-glove service he himself was capable of. Business has never been better.\n…\nSee more"
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/rob-feuerman-a5536458/",
+      "text": "SVP, CIO at Five Below"
+    },
+    {
+      "user": "https://www.linkedin.com/in/drisch/",
+      "text": "Head of Recruiting at YieldStreet"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jordanpgould/",
+      "text": "Head of IT at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shreya-seth-16938765/",
+      "text": "Strategic Finance at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/misslindawest/",
+      "text": "Sr. Director, Marketing Operations - I'm Hiring!"
+    },
+    {
+      "user": "https://www.linkedin.com/in/c0nrad/",
+      "text": "Staff Security Engineer at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/meg-goetsch/",
+      "text": "Sales Strategy and Operations Lead at Amazon Web Services (AWS)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/adamcooper-oc/",
+      "text": "Software Developer (Server Security)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/rsl85/",
+      "text": "Software Engineer at Microsoft"
+    },
+    {
+      "user": "https://www.linkedin.com/in/gaylegreytok/",
+      "text": "Account Executive at Salesforce"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Volunteer",
+      "experience": "New Alternatives For Children",
+      "description": "Children",
+      "date1": "Aug 2014",
+      "date2": "1 mo"
+    }
+  ],
+  "profile": {
+    "name": "Joel Anderson",
+    "headline": "Security & Technology Executive",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQGj4-gKG_Vhrg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=Ek6RJS1-qxLwQYJakGOtEVdHaNVvXPTtah3Kbbpm4tQ",
+    "location": "New York, New York",
+    "connections": "500+",
+    "summary": "Joel Anderson has worked in cybersecurity and IT as an engineer, advisor, and executive with impact across public, private, and social sectors.\n\n- technology leader for over 12 years\n- strong focus on information security and emerging technologies\n- agile, proven strategic thinker/thought leader relating technology to business value\n- experienced leading global teams\n\nSpecialties: building high-performing teams, technology platforms, information security expert, application security, operational security, strategy development and execution, investment due-diligence"
+  }
+}

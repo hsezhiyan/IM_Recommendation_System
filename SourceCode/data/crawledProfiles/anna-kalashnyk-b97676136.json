@@ -1,0 +1,193 @@
+{
+  "profileAlternative": {
+    "name": "Anna Kalashnyk",
+    "headline": "Front-End Developer – Promo.ua",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQH50sMbGmZFmw/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=anxnr8mihmez2X5tHt6WyQ5xgvjBEPYEIpCWy46YUig",
+    "location": "Ukraine",
+    "connections": "199"
+  },
+  "aboutAlternative": {
+    "text": ""
+  },
+  "positions": [
+    {
+      "title": "Promo.ua",
+      "description": "‒ Разработка на Magento 2 (frontend)\n‒ Работа с инструментами Google Cloud Platform, FileZilla\n‒ Базовые практические навыки Vue.js и React",
+      "date1": "Oct 2018 – Present",
+      "date2": "1 yr 2 mos",
+      "roles": [
+        {
+          "title": "Front-End Developer",
+          "date1": "Oct 2018 – Present",
+          "date2": "1 yr 2 mos"
+        },
+        {
+          "title": "HTML-coder",
+          "date1": "Jun 2017 – Oct 2018",
+          "date2": "1 yr 5 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nFront-End Developer",
+      "description": "‒ Разработка на Magento 2 (frontend)\n‒ Работа с инструментами Google Cloud Platform, FileZilla\n‒ Базовые практические навыки Vue.js и React",
+      "date1": "Oct 2018 – Present",
+      "date2": "1 yr 2 mos",
+      "roles": [
+        {
+          "title": "Front-End Developer",
+          "date1": "Oct 2018 – Present",
+          "date2": "1 yr 2 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nHTML-coder",
+      "description": "‒ Создание лендингов и динамических сайтов с использованием HTML, CSS,\nJavaScript\n‒ Создание CSS Animation\n‒ Работа с инструментами Figma, Adobe Photoshop",
+      "date1": "Jun 2017 – Oct 2018",
+      "date2": "1 yr 5 mos",
+      "roles": [
+        {
+          "title": "HTML-coder",
+          "date1": "Jun 2017 – Oct 2018",
+          "date2": "1 yr 5 mos"
+        }
+      ]
+    },
+    {
+      "title": "Менеджер по продажам",
+      "companyName": "Kupe.ua",
+      "date1": "Sep 2015 – Sep 2016",
+      "date2": "1 yr 1 mo"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Sumy State University",
+      "degree": "Master's degree",
+      "fieldofstudy": "Physical and Biomedical Electronics",
+      "date1": "2010",
+      "date2": "2015"
+    }
+  ],
+  "skills": [
+    {
+      "title": "CSS",
+      "count": "5"
+    },
+    {
+      "title": "HTML5",
+      "count": "5"
+    },
+    {
+      "title": "JavaScript",
+      "count": "5"
+    },
+    {
+      "title": "Web Development",
+      "count": "1"
+    },
+    {
+      "title": "Scrum",
+      "count": "1"
+    },
+    {
+      "title": "jQuery",
+      "count": "3"
+    },
+    {
+      "title": "jQuery UI",
+      "count": "1"
+    },
+    {
+      "title": "Git",
+      "count": "1"
+    },
+    {
+      "title": "JIRA",
+      "count": "1"
+    },
+    {
+      "title": "magento 2"
+    },
+    {
+      "title": "React"
+    },
+    {
+      "title": "Vue.js"
+    },
+    {
+      "title": "AJAX"
+    },
+    {
+      "title": "Animation with CSS",
+      "count": "3"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "3",
+      "items": [
+        "Английский",
+        "Русский",
+        "Украинский"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/yevheniia-hlovatska/",
+      "text": "Senior QA Engineer and Accredited ICAgile Instructor in Agile Testing"
+    },
+    {
+      "user": "https://www.linkedin.com/in/roman-kravtsov/",
+      "text": "Image specialist / Retoucher / Photo editor"
+    },
+    {
+      "user": "https://www.linkedin.com/in/dmitry-moiseenko-75592862/",
+      "text": "Remote Wordpress developer – TenForce"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yeseniya-mc/",
+      "text": "Marketer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mary-konjakhina-507088154/",
+      "text": "Sales Manager – Web-студия Quazom.com"
+    },
+    {
+      "user": "https://www.linkedin.com/in/%D1%81%D0%B5%D1%80%D0%B3%D0%B5%D0%B9-%D0%B7%D0%B0%D1%85%D0%B0%D1%80%D1%87%D1%83%D0%BA-b53761120/",
+      "text": "Финансы – Promo.ua"
+    },
+    {
+      "user": "https://www.linkedin.com/in/veronika-baranyak-374bb1109/",
+      "text": "Middle frontend developer - ELEKS"
+    },
+    {
+      "user": "https://www.linkedin.com/in/katebulatova/",
+      "text": "UX designer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/alexandra-novikova-zenbit/",
+      "text": "Sales Manager at ZenBit Tech | Education | E-Commerce"
+    },
+    {
+      "user": "https://www.linkedin.com/in/elvira-fominskaya-5124429b/",
+      "text": "Marketing Manager – Promo.ua"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Anna Kalashnyk",
+    "headline": "Front-End Developer – Promo.ua",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQH50sMbGmZFmw/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=anxnr8mihmez2X5tHt6WyQ5xgvjBEPYEIpCWy46YUig",
+    "location": "Ukraine",
+    "connections": "199"
+  }
+}

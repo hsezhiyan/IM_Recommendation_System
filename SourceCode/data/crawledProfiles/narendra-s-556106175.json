@@ -1,0 +1,158 @@
+{
+  "profileAlternative": {
+    "name": "narendra s",
+    "headline": "senior python developer at Vanguard",
+    "location": "Charlotte, North Carolina Area",
+    "connections": "16",
+    "summary": "• 8+ Years of professional experience in Analysis, Design, Development and Implementation of various client-server applications using Python.\n• Experienced in MVC frameworks like Django.\n• Experienced in WAMP (Windows, Apache, MYSQL, Python /PHP) and (Linux, Apache, MySQL, Python /PHP) Architecture\n• Experienced in developing web-based applications using Python, Django, FLASK, XML, CSS, HTML.\n• Experience in maintaining all the tools like Bamboo, Bit Bucket, Confluence, JIRA, and GIT.\n• Good experience in Amazon AWS concepts like EMR, S3 and EC2 web services which provides fast and efficient processing of Big Data.\n• Proficient in writing SQL Queries, Stored procedures, functions, packages, tables, views, triggers using relational databases like DB2 and MySQL.\n• Good idea using debugging tools like Bugzilla and JIRA."
+  },
+  "aboutAlternative": {
+    "text": "• 8+ Years of professional experience in Analysis, Design, Development and Implementation of various client-server applications using Python.\n• Experienced in MVC frameworks like Django.\n• Experienced in WAMP (Windows, Apache, MYSQL, Python /PHP) and (Linux, Apache, MySQL, Python /PHP) Architecture\n• Experienced in developing web-based applications using Python, Django, FLASK, XML, CSS, HTML.\n• Experience in maintaining all the tools like Bamboo, Bit Bucket, Confluence, JIRA, and GIT.\n• Good experience in Amazon AWS concepts like EMR, S3 and EC2 web services which provides fast and efficient processing of Big Data.\n• Proficient in writing SQL Queries, Stored procedures, functions, packages, tables, views, triggers using relational databases like DB2 and MySQL.\n• Good idea using debugging tools like Bugzilla and JIRA."
+  },
+  "positions": [
+    {
+      "title": "senior python developer",
+      "companyName": "Vanguard",
+      "location": "Charlotte, North Carolina Area",
+      "description": "• Designed and developed Python/Django framework for REST Services.\n• Imported/Exported data between different data sources using SQL Server Management Studio.\n• Created and tested many features for dashboard using python and JavaScript.\n• Maintained program libraries, user's manuals and technical documentation.\n• Managed large datasets using MySQL and Panda data frames.\n• Executed various Oracle PL/SQL database queries from python using Python-MySQL connector and MySQL dB package.\n• Reviewed all the architecture documents, test plans, design documents, quality analysis and audits.\n• Develop data cleansing, retrieval, migration tools (ETL).\n• Experience in working on source controller tools like GitHub (GIT).\n• Worked across different graphs for business decision making purposes using Python matplot library.\n• Keeping mind of customer requirements and scope of project created some important Business Rules.\n• Performed various CRUD operations like create, update, read and delete using SQL queries.\n• Worked across the Life cycle of the projects combining Design, Development, and Deployment, Testing and Implementation and support.\n• Developed Processes using Python to feed data into MS SQL Server.\n• Unit test were improved, and the existing ones were also fixed.\n• Created project designs using MVC architecture components.\n\n…\nsee more",
+      "date1": "Apr 2017 – Present",
+      "date2": "2 yrs 8 mos"
+    },
+    {
+      "title": "Python Developer",
+      "companyName": "T-Mobile",
+      "location": "seattle",
+      "description": "• Designed and developed Python/Django framework for REST Services.\n• Imported/Exported data between different data sources using SQL Server Management Studio.\n• Performed various CRUD operations like create, update, read and delete using SQL queries.\n• Used Python libraries like Beautiful Soup, NumPy and SQL Alchemy.",
+      "date1": "Jul 2015 – Feb 2017",
+      "date2": "1 yr 8 mos"
+    },
+    {
+      "title": "Python Developer",
+      "companyName": "Schlumberger",
+      "location": "Dallas, Texas",
+      "description": "• Developed various reports using Python and Oracle DB.\n• Used Apache Active MQ for updating the orders, trades to various subscribers.\n• Worked on P&L tracking system to update in near real-time system.\n• Created Data layer in MYSQL.\n• Involved in Configuration Automation and Centralized Management with Ansible and Implemented Ansible to manage all existing servers and automate the build/configuration of new servers.\n• Involved in writing various Custom Ansible Playbooks for deployment orchestration and developed Ansible Playbooks to simplify and automate day-to-day server administration tasks.\n• Installed and Configured Chef Enterprise and Chef Workstation hosted as well as On-Premise; Bootstrapped Nodes; Wrote Recipes, Cookbooks and uploaded them to Chef-server.\n• Worked with the Database Schema design and normalization for database accessed by the procedural PHP pages.\n\n\n…\nsee more",
+      "date1": "Feb 2014 – Jun 2015",
+      "date2": "1 yr 5 mos"
+    },
+    {
+      "title": "Python Developer",
+      "companyName": "Anthem",
+      "location": "Des Moines, Iowa Area",
+      "description": "• Built some frameworks which allow writing scripts in python, which will send and receive data over serial port to communicate with device firmware.\n• Interacts with PostgreSQL databases both via raw SQL and ORM libraries.\n• Build all database mapping classes using Django models with the help of ORM like SQLAlchemy.\n• Developed some test scripts in Python that are used to test embedded systems via their debug UART port.\n• Involved in building database Model and Views utilizing Python, in order to build an interactive web-based solution.\n\n…\nsee more",
+      "date1": "Dec 2012 – Feb 2014",
+      "date2": "1 yr 3 mos"
+    },
+    {
+      "title": "Python/java developer",
+      "companyName": "Aris Global Software Private Limited",
+      "location": "Bengaluru, India",
+      "description": "• Involved in the Analysis, design and architecture of the application.\n• Worked on requirement gathering and High-level design.\n• Created PHP/MySQL back-end for data entry from Flash and I had to assist the Flash developer send the correct data via query strings.\n• Used HTML/CSS, XML and JavaScript for UI development.\n• Converted Visual Basic Application to Python, MySQL.\n• Used SAS PROC SQL Pass through Facility to work with Oracle database.\n\n…\nsee more",
+      "date1": "Jun 2010 – Oct 2012",
+      "date2": "2 yrs 5 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "JNTUH College of Engineering Hyderabad",
+      "degree": "Bachelor's degree",
+      "fieldofstudy": "Computer Science",
+      "date1": "2006",
+      "date2": "2010"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Python (Programming Language)"
+    },
+    {
+      "title": "JavaScript"
+    },
+    {
+      "title": "MySQL"
+    },
+    {
+      "title": "Django"
+    },
+    {
+      "title": "Bootstrap"
+    },
+    {
+      "title": "Jenkins"
+    },
+    {
+      "title": "MongoDB"
+    },
+    {
+      "title": "HTML5"
+    },
+    {
+      "title": "PL/SQL"
+    },
+    {
+      "title": "jQuery"
+    },
+    {
+      "title": "oracle"
+    },
+    {
+      "title": "Pycharm"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/nischal-patel-098355171/",
+      "text": "Senior Python Developer at Quicken Loans"
+    },
+    {
+      "user": "https://www.linkedin.com/in/prerana-chaudhari-422013/",
+      "text": "Python Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/erinwyher/",
+      "text": "Python/Django/Full Stack developer working on a contract basis"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sai-vishal-6a076a18a/",
+      "text": "Sr. Python Developer at Samsonite"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jandalia/",
+      "text": "Senior Python Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ramesh-sharma1/",
+      "text": "Full-stack Java Developer at Hypatia Academy"
+    },
+    {
+      "user": "https://www.linkedin.com/in/raj-kumar-chennuri-177b3b16a/",
+      "text": "Android Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jessemspringer/",
+      "text": "Python Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/faraz-ahmad-667765152/",
+      "text": "Python Developer at Jefferson Bank"
+    },
+    {
+      "user": "https://www.linkedin.com/in/david-hanks-673b007b/",
+      "text": "Senior Python Developer at MyEducator"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "narendra s",
+    "headline": "senior python developer at Vanguard",
+    "location": "Charlotte, North Carolina Area",
+    "connections": "16",
+    "summary": "• 8+ Years of professional experience in Analysis, Design, Development and Implementation of various client-server applications using Python.\n• Experienced in MVC frameworks like Django.\n• Experienced in WAMP (Windows, Apache, MYSQL, Python /PHP) and (Linux, Apache, MySQL, Python /PHP) Architecture\n• Experienced in developing web-based applications using Python, Django, FLASK, XML, CSS, HTML.\n• Experience in maintaining all the tools like Bamboo, Bit Bucket, Confluence, JIRA, and GIT.\n• Good experience in Amazon AWS concepts like EMR, S3 and EC2 web services which provides fast and efficient processing of Big Data.\n• Proficient in writing SQL Queries, Stored procedures, functions, packages, tables, views, triggers using relational databases like DB2 and MySQL.\n• Good idea using debugging tools like Bugzilla and JIRA."
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "profileAlternative": {
+    "name": "Emily Barclay",
+    "headline": "Recruiter specializing in JavaScript and Perl",
+    "imageurl": "https://media.licdn.com/dms/image/C5103AQFrQougK2pRIQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=PBPr9C-sxYA68MqimWMzUM70gr3A0oxRpa1chrUmnQc",
+    "location": "Isle of Man",
+    "connections": "489"
+  },
+  "aboutAlternative": {},
+  "positions": [
+    {
+      "title": "Recruiter specializing in JavaScript and Perl",
+      "companyName": "CareersJS",
+      "location": "Isle of Man",
+      "date1": "Feb 2012 – Present",
+      "date2": "7 yrs 10 mos"
+    },
+    {
+      "title": "Recruiter specializing in Perl and JavaScript",
+      "companyName": "Perl Careers",
+      "location": "Isle of Man",
+      "date1": "Feb 2012 – Present",
+      "date2": "7 yrs 10 mos"
+    }
+  ],
+  "educations": [],
+  "skills": [],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/helen-sanderson-299a22188/",
+      "text": "Recruiter at Microgaming"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kellie-gilbert-009103175/",
+      "text": "Professional Recruiter at Aspire Recruitment Ltd"
+    },
+    {
+      "user": "https://www.linkedin.com/in/leah-brooks/",
+      "text": "International Recruiter | Van Kaizen"
+    },
+    {
+      "user": "https://www.linkedin.com/in/farheen-shariff-89704b166/",
+      "text": "HR Recruiter at CRB Tech Solutions pvt ltd. Master of Business Administration (HRD) at Savitribai Phule Pune University"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ian-douglas-686726b9/",
+      "text": "HEADHUNTER at TM Global Recruitment Limited"
+    },
+    {
+      "user": "https://www.linkedin.com/in/rachael-quayle-07159b113/",
+      "text": "Aviation Recruitment"
+    },
+    {
+      "user": "https://www.linkedin.com/in/christian-metcalfe-aaa497163/",
+      "text": "Graduate"
+    },
+    {
+      "user": "https://www.linkedin.com/in/richard-tarr/",
+      "text": "HR Advisor at Dandara Ltd"
+    },
+    {
+      "user": "https://www.linkedin.com/in/guy-wood/",
+      "text": "Senior International Recruiter"
+    },
+    {
+      "user": "https://www.linkedin.com/in/michelle-c-73a11856/",
+      "text": "Senior Project Manager"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Emily Barclay",
+    "headline": "Recruiter specializing in JavaScript and Perl",
+    "imageurl": "https://media.licdn.com/dms/image/C5103AQFrQougK2pRIQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=PBPr9C-sxYA68MqimWMzUM70gr3A0oxRpa1chrUmnQc",
+    "location": "Isle of Man",
+    "connections": "489"
+  }
+}

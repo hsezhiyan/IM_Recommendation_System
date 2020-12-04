@@ -1,0 +1,89 @@
+{
+  "profileAlternative": {
+    "name": "Deepali Reddy",
+    "headline": "User Interface Designer and HTML developer in Pune",
+    "location": "Pune Area, India",
+    "connections": "23"
+  },
+  "aboutAlternative": {},
+  "positions": [
+    {
+      "title": "UI Designer and HTML developer",
+      "companyName": "Kruti Infomedia, Pune",
+      "date1": "Oct 2011 – Present",
+      "date2": "8 yrs 2 mos"
+    },
+    {
+      "title": "FreelanceUser Interface designer",
+      "companyName": "self employed web designer",
+      "date1": "Jan 2011 – Sep 2011",
+      "date2": "9 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Pune University",
+      "degree": "Bachelor in Science",
+      "fieldofstudy": "Electronics",
+      "date1": "1999",
+      "date2": "2000"
+    }
+  ],
+  "skills": [],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/venkatesh-jambavalikar/",
+      "text": "Freelancer - .Net Web Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/priya-srivastava-629810105/",
+      "text": "consultant at AMCS Pvt. Limited"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shrivastavapriya/",
+      "text": "HR Business Partner at Uber"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shweta-s-6192a07/",
+      "text": "Supply Chain Professional"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ashutosh-das-74a755/",
+      "text": "President and CEO at Smart IOPS, Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/eugenetam/",
+      "text": "Vice President Design Development at Yangtze Memory Technology Corp"
+    },
+    {
+      "user": "https://www.linkedin.com/in/farookh-moogat-a940137/",
+      "text": "Director, Nand Memory Design at SanDisk"
+    },
+    {
+      "user": "https://www.linkedin.com/in/wendy-lung-946091a/",
+      "text": "Director, Sales Operations at HGST, a Western Digital company"
+    },
+    {
+      "user": "https://www.linkedin.com/in/rohitgandrakota/",
+      "text": "Senior Manager, Supply Chain Engineering at Micron Technology"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ben-tessone-1333a315/",
+      "text": "Senior Vice President, Chief Procurement Officer at Western Digital"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Deepali Reddy",
+    "headline": "User Interface Designer and HTML developer in Pune",
+    "location": "Pune Area, India",
+    "connections": "23"
+  }
+}

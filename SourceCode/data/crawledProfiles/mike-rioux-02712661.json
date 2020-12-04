@@ -1,0 +1,414 @@
+{
+  "profileAlternative": {
+    "name": "Mike Rioux",
+    "headline": "Director, Global Sales Enablement at MongoDB",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQH5NMxEoANlag/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=pnGWbYGWVDWn4kKYcRjIA8wXoNjIucYKm4r-oiiPODA",
+    "location": "Toronto, Ontario, Canada",
+    "connections": "500+",
+    "summary": "I am an exceptionally motivated and determined individual. I have a hard time with not being the best at my position and will strive to improve until I am. I am creative and thrive with fast-paced, on the spot thinking and problem solving. I am a very quick learner and can adapt to any situation with ease.\n\nI hold deep passions for mobile technology, cloud computing and development as well as parallel and distributed computing. I believe that these technologies hold the key to solve future problems.\n\nMy objective is to eventually be lead technical architect and technical solution designer solving business, environmental and life changing problems."
+  },
+  "aboutAlternative": {
+    "text": "I am an exceptionally motivated and determined individual. I have a hard time with not being the best at my position and will strive to improve until I am. I am creative and thrive with fast-paced, on the spot thinking and problem solving. I am a very quick learner and can adapt to any situation with ease.\n\nI hold deep passions for mobile technology, cloud computing and development as well as parallel and distributed computing. I believe that these technologies hold the key to solve future problems.\n\nMy objective is to eventually be lead technical architect and technical solution designer solving business, environmental and life changing problems."
+  },
+  "positions": [
+    {
+      "title": "MongoDB",
+      "location": "Toronto, Canada",
+      "description": "Continuing to build, grow and improve the best Sales Enablement team in the industry for the fastest growing database company on the planet. The teams sole purpose is to improve sales productivity through training, skill sharpening and constant evolution so that the MongoDB sales force can remain best in class.\n\nWhat we provide:\n- Unmatched on-boarding: build industry, product, customer, and sales knowledge/skills\n- Sales Leader training and tools to identify, attract, and develop top sales talent\n- Role based training and reinforcement that drives mastery level sales execution\n- Sales tools and processes that evolve to support sales excellence throughout the sales cycle\n- Analytics to drive targeted coaching, predictable outcomes, and development planning\n\nWhy we do it:\n- Reduce new hire ramp time (all sales roles)\n- Increase seller productivity\n- Decrease time to recruit the best sales talent\n- Increase qualified pipeline\n- Improve forecast accuracy\n…\nsee more",
+      "date1": "Oct 2018 – Present",
+      "date2": "1 yr 2 mos",
+      "roles": [
+        {
+          "title": "Director, Global Sales Enablement",
+          "date1": "Oct 2018 – Present",
+          "date2": "1 yr 2 mos",
+          "location": "Toronto, Canada"
+        },
+        {
+          "title": "Principal Solutions Architect",
+          "date1": "Jun 2018 – Oct 2018",
+          "date2": "5 mos",
+          "location": "Toronto, Canada Area"
+        },
+        {
+          "title": "Senior Solutions Architect",
+          "date1": "Oct 2016 – Jun 2018",
+          "date2": "1 yr 9 mos",
+          "location": "Toronto, Canada"
+        }
+      ]
+    },
+    {
+      "title": "Title\nDirector, Global Sales Enablement",
+      "location": "Toronto, Canada",
+      "description": "Continuing to build, grow and improve the best Sales Enablement team in the industry for the fastest growing database company on the planet. The teams sole purpose is to improve sales productivity through training, skill sharpening and constant evolution so that the MongoDB sales force can remain best in class.\n\nWhat we provide:\n- Unmatched on-boarding: build industry, product, customer, and sales knowledge/skills\n- Sales Leader training and tools to identify, attract, and develop top sales talent\n- Role based training and reinforcement that drives mastery level sales execution\n- Sales tools and processes that evolve to support sales excellence throughout the sales cycle\n- Analytics to drive targeted coaching, predictable outcomes, and development planning\n\nWhy we do it:\n- Reduce new hire ramp time (all sales roles)\n- Increase seller productivity\n- Decrease time to recruit the best sales talent\n- Increase qualified pipeline\n- Improve forecast accuracy\n…\nsee more",
+      "date1": "Oct 2018 – Present",
+      "date2": "1 yr 2 mos",
+      "roles": [
+        {
+          "title": "Director, Global Sales Enablement",
+          "date1": "Oct 2018 – Present",
+          "date2": "1 yr 2 mos",
+          "location": "Toronto, Canada"
+        }
+      ]
+    },
+    {
+      "title": "Title\nPrincipal Solutions Architect",
+      "location": "Toronto, Canada Area",
+      "description": "Solutions Architects at MongoDB help their clients harness and realize the power of their data using MongoDB's Intelligent Operational Data Platform. Helping with Real-Time Analytics, Operational Workloads, Mainframe Offload, OLTP, OLAP, IoT, Legacy Modernization and more, SA's at MongoDB help customers shed their legacy debt, reducing TCO and getting to market faster. SA's here will get involved in gathering requirements to help solve the customers technical and business challenges, proving out our technology through Demos, PoCs, PoTs, etc ... We will also help educate the customer on All of what MongoDB has to offer and how it will fit in their overall solution.\n…\nsee more",
+      "date1": "Jun 2018 – Oct 2018",
+      "date2": "5 mos",
+      "roles": [
+        {
+          "title": "Principal Solutions Architect",
+          "date1": "Jun 2018 – Oct 2018",
+          "date2": "5 mos",
+          "location": "Toronto, Canada Area"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSenior Solutions Architect",
+      "location": "Toronto, Canada",
+      "description": "As a Solutions Architect, I help clients realize and harness the potential of MongoDB to power their next generation applications. This includes design, architecture, development and more, both on Cloud and on Premises environments. Ensuring Client success is my utmost priority.",
+      "date1": "Oct 2016 – Jun 2018",
+      "date2": "1 yr 9 mos",
+      "roles": [
+        {
+          "title": "Senior Solutions Architect",
+          "date1": "Oct 2016 – Jun 2018",
+          "date2": "1 yr 9 mos",
+          "location": "Toronto, Canada"
+        }
+      ]
+    },
+    {
+      "title": "IBM - Cloud Data Services and Analytics",
+      "location": "Toronto, Canada",
+      "description": "Design and maintain Cloud solutions for IBM's Database as a Service offering - Cloudant. Work hand in hand with clients to solve their database infrastructure needs.\n\nFully manage and monitor numerous Client databases ensuring 99.9999% uptime.\n\nDevelop Proof of Concept and Proof of Technology applications with Cloudant as the back end database to help in Pre-Sales engagements with potential clients. These include Browser Based Web applications, iOS/Android Mobile applications and OS Level software.\n\nHelp integrate Cloudant solutions with many of IBM's other products, including BigInsights, Netezza and many others.\n…\nsee more",
+      "date1": "Sep 2014 – Oct 2016",
+      "date2": "2 yrs 2 mos",
+      "roles": [
+        {
+          "title": "Senior Solutions Engineer",
+          "date1": "Sep 2014 – Oct 2016",
+          "date2": "2 yrs 2 mos",
+          "location": "Toronto, Canada"
+        },
+        {
+          "title": "Senior Consultant and Big Data Developer",
+          "date1": "Aug 2013 – Sep 2014",
+          "date2": "1 yr 2 mos",
+          "location": "Mobile/Global"
+        },
+        {
+          "title": "Software Developer",
+          "date1": "May 2012 – Aug 2013",
+          "date2": "1 yr 4 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSenior Solutions Engineer",
+      "location": "Toronto, Canada",
+      "description": "Design and maintain Cloud solutions for IBM's Database as a Service offering - Cloudant. Work hand in hand with clients to solve their database infrastructure needs.\n\nFully manage and monitor numerous Client databases ensuring 99.9999% uptime.\n\nDevelop Proof of Concept and Proof of Technology applications with Cloudant as the back end database to help in Pre-Sales engagements with potential clients. These include Browser Based Web applications, iOS/Android Mobile applications and OS Level software.\n\nHelp integrate Cloudant solutions with many of IBM's other products, including BigInsights, Netezza and many others.\n…\nsee more",
+      "date1": "Sep 2014 – Oct 2016",
+      "date2": "2 yrs 2 mos",
+      "roles": [
+        {
+          "title": "Senior Solutions Engineer",
+          "date1": "Sep 2014 – Oct 2016",
+          "date2": "2 yrs 2 mos",
+          "location": "Toronto, Canada"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSenior Consultant and Big Data Developer",
+      "location": "Mobile/Global",
+      "description": "Design and develop problem specific Big Data solutions hand in hand with the client. Not only do I deliver a Big Data business solution, but I educate the client to the point where they can become self-sufficient with IBM's Big Data product suite.\n\nAssist in software pre-sales by installing parallel/distributed software on lab clusters. Develop proof of concept and proof of technology solutions to solidify sales.\n\nDevelop self paced training materials for other IBMers who want to learn how to use IBM Big Data products.\n…\nsee more",
+      "date1": "Aug 2013 – Sep 2014",
+      "date2": "1 yr 2 mos",
+      "roles": [
+        {
+          "title": "Senior Consultant and Big Data Developer",
+          "date1": "Aug 2013 – Sep 2014",
+          "date2": "1 yr 2 mos",
+          "location": "Mobile/Global"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSoftware Developer",
+      "description": "Develop Enhancements and Fix Bugs for IBM's TPFToolkit product. Work with major companies globally to ensure their needs are satisfied.\n\nFunctional verification testing for both the TPFToolkit product and the Rational Developer product.\n\nDesign and update automated testing tools.\n…\nsee more",
+      "date1": "May 2012 – Aug 2013",
+      "date2": "1 yr 4 mos",
+      "roles": [
+        {
+          "title": "Software Developer",
+          "date1": "May 2012 – Aug 2013",
+          "date2": "1 yr 4 mos"
+        }
+      ]
+    },
+    {
+      "title": "Graduate Assistant",
+      "companyName": "Lakehead University",
+      "description": "As a Graduate Assistant at Lakehead, I led lectures and lab demonstrations for classes up to 80 students, I marked projects and assignments from 1st to 4th year classes and held office hours for private tutoring.",
+      "date1": "Sep 2011 – Apr 2012",
+      "date2": "8 mos"
+    },
+    {
+      "title": "iOS App Developer",
+      "companyName": "PunkStar Studios Inc.",
+      "description": "Developed and tested many iOS Applications both unreleased and currently on the App Store. Worked on both front end UI and back end functionality. Did primary research on new features as they were released from Apple. Left the job only because I was awarded a very prestigious research grant.",
+      "date1": "Apr 2010 – Apr 2011",
+      "date2": "1 yr 1 mo"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Lakehead University",
+      "degree": "Master of Computer Science",
+      "fieldofstudy": "Computer Science",
+      "date1": "2011",
+      "date2": "2014"
+    },
+    {
+      "title": "Lakehead University",
+      "degree": "Honors Bachelor of Science",
+      "fieldofstudy": "Computer Science",
+      "date1": "2007",
+      "date2": "2011"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Java",
+      "count": "27"
+    },
+    {
+      "title": "Cloud Computing",
+      "count": "23"
+    },
+    {
+      "title": "Hadoop",
+      "count": "20"
+    },
+    {
+      "title": "Software Development",
+      "count": "18"
+    },
+    {
+      "title": "Object Oriented Design",
+      "count": "8"
+    },
+    {
+      "title": "Big Data",
+      "count": "8"
+    },
+    {
+      "title": "Software Engineering",
+      "count": "7"
+    },
+    {
+      "title": "Android Development",
+      "count": "5"
+    },
+    {
+      "title": "Agile Methodologies",
+      "count": "3"
+    },
+    {
+      "title": "Design Patterns",
+      "count": "2"
+    },
+    {
+      "title": "Web Services",
+      "count": "2"
+    },
+    {
+      "title": "iOS development",
+      "count": "2"
+    },
+    {
+      "title": "Testing",
+      "count": "2"
+    },
+    {
+      "title": "Test Automation",
+      "count": "1"
+    },
+    {
+      "title": "MongoDB",
+      "count": "20"
+    },
+    {
+      "title": "SQL",
+      "count": "14"
+    },
+    {
+      "title": "REST",
+      "count": "11"
+    },
+    {
+      "title": "Eclipse",
+      "count": "10"
+    },
+    {
+      "title": "NoSQL",
+      "count": "9"
+    },
+    {
+      "title": "C",
+      "count": "8"
+    },
+    {
+      "title": "Databases",
+      "count": "8"
+    },
+    {
+      "title": "C++",
+      "count": "5"
+    },
+    {
+      "title": "Java Enterprise Edition",
+      "count": "4"
+    },
+    {
+      "title": "XML",
+      "count": "3"
+    },
+    {
+      "title": "Microsoft SQL Server",
+      "count": "3"
+    },
+    {
+      "title": "Linux",
+      "count": "3"
+    },
+    {
+      "title": "Unix",
+      "count": "3"
+    },
+    {
+      "title": "JavaScript",
+      "count": "2"
+    },
+    {
+      "title": "MySQL",
+      "count": "2"
+    },
+    {
+      "title": "Objective-C",
+      "count": "1"
+    },
+    {
+      "title": "C#"
+    },
+    {
+      "title": "UML"
+    },
+    {
+      "title": "CouchDB",
+      "count": "5"
+    },
+    {
+      "title": "Apache Spark",
+      "count": "3"
+    },
+    {
+      "title": "Parallel Computing",
+      "count": "2"
+    },
+    {
+      "title": "Cloud Applications",
+      "count": "2"
+    },
+    {
+      "title": "Spark",
+      "count": "2"
+    },
+    {
+      "title": "Hive",
+      "count": "1"
+    },
+    {
+      "title": "Facebook API",
+      "count": "1"
+    },
+    {
+      "title": "Apache Pig"
+    },
+    {
+      "title": "Ad Networks"
+    },
+    {
+      "title": "DFS"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "1",
+    "receivedCount": "0",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/milanshergill/",
+        "text": "Although I only worked with Milandeep for a year, I could immediately tell he is both a dedicated, focused and reliable team member. He is a talented developer and problem solver. Although he was only an intern at the time, the team respected his opinion and gave him full time responsibilities which he handled professionally and with confidence. Milandeep is an absolute asset and any team would be lucky to have him.\n…\nSee more"
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/paul-capombassis-3684b211/",
+      "text": "GVP MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/bsegulich/",
+      "text": "Digital Transformation * Business Value @ MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/steve-council-7327984/",
+      "text": "Account Executive at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/dittycheria/",
+      "text": "President & CEO @ MongoDB. We are hiring everywhere."
+    },
+    {
+      "user": "https://www.linkedin.com/in/stephenmacfarlane/",
+      "text": "Enterprise Account Executive @ MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/barry-olson-83747713/",
+      "text": "Major Account Executive, MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/adamcorns/",
+      "text": "MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/cedricpech/",
+      "text": "Chief Revenue Officer at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/karlharrocks/",
+      "text": "Strategic Account Executive at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/dan-heasman-3b41644/",
+      "text": "Chief People Officer at MongoDB"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Mike Rioux",
+    "headline": "Director, Global Sales Enablement at MongoDB",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQH5NMxEoANlag/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=pnGWbYGWVDWn4kKYcRjIA8wXoNjIucYKm4r-oiiPODA",
+    "location": "Toronto, Ontario, Canada",
+    "connections": "500+",
+    "summary": "I am an exceptionally motivated and determined individual. I have a hard time with not being the best at my position and will strive to improve until I am. I am creative and thrive with fast-paced, on the spot thinking and problem solving. I am a very quick learner and can adapt to any situation with ease.\n\nI hold deep passions for mobile technology, cloud computing and development as well as parallel and distributed computing. I believe that these technologies hold the key to solve future problems.\n\nMy objective is to eventually be lead technical architect and technical solution designer solving business, environmental and life changing problems."
+  }
+}

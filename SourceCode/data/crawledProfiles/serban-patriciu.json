@@ -1,0 +1,164 @@
+{
+  "profileAlternative": {
+    "name": "Șerban Patriciu",
+    "headline": "SQL Server Database Developer and Administrator",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQGljsYFYYHCLQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=jb7sIitW9IWynGw5HMSUQRP8x21wfDPqWbuG5nISj7I",
+    "location": "Outremont, Quebec, Canada",
+    "connections": "62",
+    "summary": "I wish to be part of a creative and professional team. For me, the continuous learning is very important for my career and my personal life.\n\nMy competencies are in the following areas:\n1. Thorough theoretical and practical knowledge of SQL 2016 and SQL Azure (MCSE Data Management and Analytics).\n2. Huge experience with the Microsoft Development platform and Visual Studio Online, acquired through the creation of complex systems and applications.\n3. Deep knowledge of Test Driven Development using SQL Server and tSQLt database unit testing library."
+  },
+  "aboutAlternative": {
+    "text": "I wish to be part of a creative and professional team. For me, the continuous learning is very important for my career and my personal life.\n\nMy competencies are in the following areas:\n1. Thorough theoretical and practical knowledge of SQL 2016 and SQL Azure (MCSE Data Management and Analytics).\n2. Huge experience with the Microsoft Development platform and Visual Studio Online, acquired through the creation of complex systems and applications.\n3. Deep knowledge of Test Driven Development using SQL Server and tSQLt database unit testing library."
+  },
+  "positions": [
+    {
+      "title": "Senior SQL & Reports Developer",
+      "companyName": "ERA Environmental Management Solutions",
+      "location": "Montreal, Canada Area",
+      "description": "Working on complex SQL Server Reports and Transact SQL development in the context of a Software as a Service (SAAS) application (web site) that manages the environmental emissions of an enterprise.\nAlso working on maintaining the web site for the same application; the supporting technology is ASP.Net.",
+      "date1": "Nov 2017 – Present",
+      "date2": "2 yrs 1 mo"
+    },
+    {
+      "title": "Technological Solutions Developer (level 2)",
+      "companyName": "Emyode",
+      "location": "Montreal, Canada Area",
+      "description": "I participated at the development of an enterprise web site.",
+      "date1": "Sep 2017 – Oct 2017",
+      "date2": "2 mos"
+    },
+    {
+      "title": "Technical Consultant, Developer and Database Administrator",
+      "companyName": "Self-employed",
+      "location": "Montreal, Canada Area",
+      "date1": "Jun 2017 – Aug 2017",
+      "date2": "3 mos"
+    },
+    {
+      "title": "Technical Consultant, Developer and Database Administrator",
+      "companyName": "TEXO Retail Solutions",
+      "location": "Montreal, Canada Area",
+      "description": "1. Implementation of complex installations and upgrades from SQL 2012 to SQL 2016 and new SQL Azure configurations.\n2. Office 365 Services Provisioning and Client Deployment.\n3. Implementation of Active Directory networks using the Microsoft cloud for AX 2012 R3 installations.\n4. Creation of many complex queries in SQL Server and SQL Server Reporting Services.\n5. SQL Server tuning and monitoring; complex query tuning.\n6. Windows server 2012 and 2016 installations and configurations.\n7. Development of complex add-ins for the RMS System, which increase the functionality of Microsoft RMS. Among the representative projects are:\n7.a. Payment add-in for a PIN pad using a specialized library. It has been deployed to over 100 stores distributed over Canada.\n7.b. Development of an add-in to implement order delivery management, which is a functionality that does not exist in Dynamics RMS.\n7.c. Development of an application that works in conjunction with RMS, to schedule appointments in Outlook and generate billing data in RMS using Outlook stored information.\n7.d. Design and implement a data warehouse system to assist the management in sales forecasting for inventory items and purchase order creation.\n8. Development of integrations between different systems.\n8.a. Implement integration between RMS registered customers and cloud CRM.\n\n\n…\nsee more",
+      "date1": "Oct 2004 – Jun 2017",
+      "date2": "12 yrs 9 mos"
+    },
+    {
+      "title": "Network Administrator",
+      "companyName": "Daewoo Automobile Romania S.A.",
+      "location": "Craiova, Romania",
+      "description": "I've managed the Enterprise Network, working on a daily basis with Microsoft products and technologies (Windows 2000, .Net and SQL Server.\n\nI also provided training in the area of database and network essentials to other enterprise employees.",
+      "date1": "Mar 1999 – Sep 2004",
+      "date2": "5 yrs 7 mos"
+    },
+    {
+      "title": "Database Administrator",
+      "companyName": "Daewoo Automobile Romania S.A.",
+      "location": "Craiova, Romania",
+      "description": "I maintained and administered the Enterprise Database Systems (Progress Software and MFG/PRO).",
+      "date1": "Aug 1995 – Jul 1997",
+      "date2": "2 yrs"
+    },
+    {
+      "title": "Software Developer",
+      "companyName": "Galatea SRL",
+      "location": "Tirgoviste, Romania",
+      "description": "Development and maintenance of financial applications, using FOXPRO",
+      "date1": "Jul 1993 – Jun 1995",
+      "date2": "2 yrs"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Ajou University",
+      "degree": "Master",
+      "fieldofstudy": "Information and Computer Engineering",
+      "date1": "1997",
+      "date2": "1999"
+    },
+    {
+      "title": "University of Craiova, Faculty of Mechanics",
+      "degree": "Bachelor's degree",
+      "fieldofstudy": "Mechanical Engineering",
+      "date1": "1988",
+      "date2": "1993"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Microsoft SQL Server"
+    },
+    {
+      "title": "SQL Server Reporting Services (SSRS)"
+    },
+    {
+      "title": ".NET Framework"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "3",
+      "items": [
+        "English",
+        "French",
+        "Romanian"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/jia-christina-33545bb/",
+      "text": "Senior Database Developer at Paysafe Group"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ismayl-ouledgharri-26372937/",
+      "text": "DevOps Specialist at BDC"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ming-guo-0aba3769/",
+      "text": "Looking for new challenge as a SQL database developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/wei-zheng-1022b212/",
+      "text": "Senior Database Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/bonnykapou/",
+      "text": "DBA Oracle and SQL Server at PSP Investments"
+    },
+    {
+      "user": "https://www.linkedin.com/in/gdyca/",
+      "text": "SQL Developer at PSL Group"
+    },
+    {
+      "user": "https://www.linkedin.com/in/igor-philippov-782183103/",
+      "text": "Software Developer at Deutsche Bank"
+    },
+    {
+      "user": "https://www.linkedin.com/in/cristian-paul-dumitrescu-51816065/",
+      "text": "Database Developer at Morgan Stanley"
+    },
+    {
+      "user": "https://www.linkedin.com/in/eric-lacourse-8991836/",
+      "text": "Developer Senior at Radio-Canada"
+    },
+    {
+      "user": "https://www.linkedin.com/in/guo-ming-3a5b83b/",
+      "text": "Database developer at Worldpay"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Șerban Patriciu",
+    "headline": "SQL Server Database Developer and Administrator",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQGljsYFYYHCLQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=jb7sIitW9IWynGw5HMSUQRP8x21wfDPqWbuG5nISj7I",
+    "location": "Outremont, Quebec, Canada",
+    "connections": "62",
+    "summary": "I wish to be part of a creative and professional team. For me, the continuous learning is very important for my career and my personal life.\n\nMy competencies are in the following areas:\n1. Thorough theoretical and practical knowledge of SQL 2016 and SQL Azure (MCSE Data Management and Analytics).\n2. Huge experience with the Microsoft Development platform and Visual Studio Online, acquired through the creation of complex systems and applications.\n3. Deep knowledge of Test Driven Development using SQL Server and tSQLt database unit testing library."
+  }
+}

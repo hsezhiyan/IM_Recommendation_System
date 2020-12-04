@@ -1,0 +1,275 @@
+{
+  "profileAlternative": {
+    "name": "Chris Dickinson",
+    "headline": "Staff Engineer at Eaze",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQGtrcjuwOiYLA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=Jm_hE1vUEtQHgio9GTuA6UR2zBiusZXXXz0E4rr9hPE",
+    "location": "Portland, Oregon",
+    "connections": "231",
+    "summary": "I turned the npm registry into a teapot.\n\nI work on the infrastructure, services, and data stores backing the npm registry and website. I am a former member of the Node Technical Committee. I've been writing Node programs since 2009, and have apologized for at least 95% of them at some point. I will talk at length about video games, parsers, color use, JS spec minutiae, illustration, comics, etymology, or pictures of cats."
+  },
+  "aboutAlternative": {
+    "text": "I turned the npm registry into a teapot.\n\nI work on the infrastructure, services, and data stores backing the npm registry and website. I am a former member of the Node Technical Committee. I've been writing Node programs since 2009, and have apologized for at least 95% of them at some point. I will talk at length about video games, parsers, color use, JS spec minutiae, illustration, comics, etymology, or pictures of cats."
+  },
+  "positions": [
+    {
+      "title": "Staff Engineer",
+      "companyName": "Eaze",
+      "location": "Portland, Oregon Area",
+      "date1": "May 2019 – Present",
+      "date2": "7 mos"
+    },
+    {
+      "title": "npm, Inc.",
+      "location": "Portland, Oregon Area",
+      "description": "Focused on maintaining access control and billing services for the registry.",
+      "date1": "Jan 2017 – Present",
+      "date2": "2 yrs 11 mos",
+      "roles": [
+        {
+          "title": "Staff Engineer",
+          "date1": "Jan 2017 – Present",
+          "date2": "2 yrs 11 mos",
+          "location": "Portland, Oregon Area"
+        },
+        {
+          "title": "Software Developer",
+          "date1": "Jun 2015 – Jan 2017",
+          "date2": "1 yr 8 mos",
+          "location": "Portland, Oregon Area"
+        }
+      ]
+    },
+    {
+      "title": "Title\nStaff Engineer",
+      "location": "Portland, Oregon Area",
+      "date1": "Jan 2017 – Present",
+      "date2": "2 yrs 11 mos",
+      "roles": [
+        {
+          "title": "Staff Engineer",
+          "date1": "Jan 2017 – Present",
+          "date2": "2 yrs 11 mos",
+          "location": "Portland, Oregon Area"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSoftware Developer",
+      "location": "Portland, Oregon Area",
+      "description": "Focused on maintaining access control and billing services for the registry.",
+      "date1": "Jun 2015 – Jan 2017",
+      "date2": "1 yr 8 mos",
+      "roles": [
+        {
+          "title": "Software Developer",
+          "date1": "Jun 2015 – Jan 2017",
+          "date2": "1 yr 8 mos",
+          "location": "Portland, Oregon Area"
+        }
+      ]
+    },
+    {
+      "title": "Node core contributor",
+      "companyName": "Walmart Labs",
+      "date1": "Jun 2014 – May 2015",
+      "date2": "1 yr"
+    },
+    {
+      "title": "JavaScript Guy",
+      "companyName": "Urban Airship",
+      "description": "Dictate JavaScript style, write JavaScript, evangelize the language.",
+      "date1": "Mar 2012 – May 2014",
+      "date2": "2 yrs 3 mos"
+    },
+    {
+      "title": "Mediaphormedia",
+      "description": "Resident JavaScript advocate; building cool frontend things while still fiddling around with backend logic. Best of both worlds!",
+      "date1": "Nov 2010 – Mar 2012",
+      "date2": "1 yr 5 mos",
+      "roles": [
+        {
+          "title": "Developer",
+          "date1": "Nov 2010 – Mar 2012",
+          "date2": "1 yr 5 mos"
+        },
+        {
+          "title": "Software Contractor",
+          "date1": "Jun 2010 – Nov 2010",
+          "date2": "6 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nDeveloper",
+      "description": "Resident JavaScript advocate; building cool frontend things while still fiddling around with backend logic. Best of both worlds!",
+      "date1": "Nov 2010 – Mar 2012",
+      "date2": "1 yr 5 mos",
+      "roles": [
+        {
+          "title": "Developer",
+          "date1": "Nov 2010 – Mar 2012",
+          "date2": "1 yr 5 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSoftware Contractor",
+      "description": "Assist in the development and deployment of new features inside the Ellington and Marketplace suites.",
+      "date1": "Jun 2010 – Nov 2010",
+      "date2": "6 mos",
+      "roles": [
+        {
+          "title": "Software Contractor",
+          "date1": "Jun 2010 – Nov 2010",
+          "date2": "6 mos"
+        }
+      ]
+    },
+    {
+      "title": "Domain 51",
+      "description": "Django and JavaScript; about 60/40 front end development and design vs. back end development. Ate bagels.",
+      "date1": "Nov 2009 – Sep 2010",
+      "date2": "11 mos",
+      "roles": [
+        {
+          "title": "Web Developer",
+          "date1": "Nov 2009 – Sep 2010",
+          "date2": "11 mos"
+        },
+        {
+          "title": "Web Developer",
+          "date1": "2009 – 2010",
+          "date2": "1 yr"
+        }
+      ]
+    },
+    {
+      "title": "Title\nWeb Developer",
+      "description": "Django and JavaScript; about 60/40 front end development and design vs. back end development. Ate bagels.",
+      "date1": "Nov 2009 – Sep 2010",
+      "date2": "11 mos",
+      "roles": [
+        {
+          "title": "Web Developer",
+          "date1": "Nov 2009 – Sep 2010",
+          "date2": "11 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nWeb Developer",
+      "description": "Helped construct and design a social networking site built around the premise of following villages receiving aid from water.org. Heavy social integration work, intense focus on TDD.",
+      "date1": "2009 – 2010",
+      "date2": "1 yr",
+      "roles": [
+        {
+          "title": "Web Developer",
+          "date1": "2009 – 2010",
+          "date2": "1 yr"
+        }
+      ]
+    },
+    {
+      "title": "Developer",
+      "companyName": "Absorbent, Ink.",
+      "description": "Worked on infrastructure and support, built a new product-purchasing workflow, developed an ORM, sped up the admin by eliminating redundant mysql queries, etc.",
+      "date1": "May 2008 – Sep 2009",
+      "date2": "1 yr 5 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "University of Kansas",
+      "degree": "B.A.",
+      "fieldofstudy": "East Asian Languages and Culture",
+      "date1": "2004",
+      "date2": "2009"
+    }
+  ],
+  "skills": [
+    {
+      "title": "JavaScript",
+      "count": "14"
+    },
+    {
+      "title": "Django",
+      "count": "7"
+    },
+    {
+      "title": "CSS",
+      "count": "7"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "2",
+    "receivedCount": "1",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/tswicegood/",
+        "text": "Chris is one the most proficient young programmers I know. His breadth of knowledge and willingness to jump into anything, from coding low-level C extensions to dealing with CSS make him an invaluable resource to any company or client he works with. I highly recommend Chris and hope to have the opportunity to work with him again in the future.\n…\nSee more"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/brennaflood/",
+        "text": "Across both of her roles at npm, Brenna displayed a phenomenal attention to detail and capacity for rising to challenges. Brenna introduced processes around incident retrospectives and deployment that greatly improved the team's efficiency and happiness. Brenna's enthusiasm, technical prowess, and care for both her work and her coworkers are traits that I try to emulate. It was a blast to work with her."
+      },
+      {
+        "user": "https://www.linkedin.com/in/emilyrossbrown/",
+        "text": "Emily is amazing. In the time that I've worked with her, she's been a jack of all trades — organizing company all hands & travel, maintaining job postings, coordinating the hiring process, making sure the office was running smoothly in general, all in addition to her work as an assistant to the C team. As a remote worker, I really appreciated the lengths Emily would go to to make me feel like I was part of the company & cared for."
+      }
+    ]
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/christinacunningham24/",
+      "text": "Software Engineer at LendUp"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jefflembeck/",
+      "text": "Engineering Manager at Eaze"
+    },
+    {
+      "user": "https://www.linkedin.com/in/brian-finamore/",
+      "text": "Co-Founder & CTO at Gridwise (We're Hiring!)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/torgo/",
+      "text": "Senior Site Reliability Engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/erinspies/",
+      "text": "Director of Compliance at Native Roots"
+    },
+    {
+      "user": "https://www.linkedin.com/in/clone1018/",
+      "text": "Head of Engineering at Idelic"
+    },
+    {
+      "user": "https://www.linkedin.com/in/cowperthwait/",
+      "text": "Software marketer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mcw0933/",
+      "text": "Application Architect at TeleTracking"
+    },
+    {
+      "user": "https://www.linkedin.com/in/katmarchan/",
+      "text": "Senior Software Engineer at Microsoft"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mw44118/",
+      "text": "Freelance programmer and startup repeat offender"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Chris Dickinson",
+    "headline": "Staff Engineer at Eaze",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQGtrcjuwOiYLA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=Jm_hE1vUEtQHgio9GTuA6UR2zBiusZXXXz0E4rr9hPE",
+    "location": "Portland, Oregon",
+    "connections": "231",
+    "summary": "I turned the npm registry into a teapot.\n\nI work on the infrastructure, services, and data stores backing the npm registry and website. I am a former member of the Node Technical Committee. I've been writing Node programs since 2009, and have apologized for at least 95% of them at some point. I will talk at length about video games, parsers, color use, JS spec minutiae, illustration, comics, etymology, or pictures of cats."
+  }
+}

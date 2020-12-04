@@ -1,0 +1,175 @@
+{
+  "profileAlternative": {
+    "name": "DIPAK NILE",
+    "headline": "Data Analyst at Casepoint LLC",
+    "imageurl": "https://media.licdn.com/dms/image/C5103AQEBqlzINyYuQg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=Obaw3gVH3b1p5mZbSv0SfPcd3d3ZzNPzIIANX2Qs0UY",
+    "location": "Pune, Maharashtra, India",
+    "connections": "500+",
+    "summary": "SQL SERVER DBA || 2 YEAR EXPERIENCED"
+  },
+  "aboutAlternative": {
+    "text": "SQL SERVER DBA || 2 YEAR EXPERIENCED"
+  },
+  "positions": [
+    {
+      "title": "Data Analyst",
+      "companyName": "Casepoint LLC",
+      "location": "Surat Area, India",
+      "date1": "Nov 2019 – Present",
+      "date2": "1 mo"
+    },
+    {
+      "title": "ARCHIES LIMITED",
+      "location": "Pune Area, India",
+      "description": " Installation & Configuration of SQL Server 2008/2008 R2/2012/2014/2016 .\n Experience in server level tuning, query level tuning and troubleshooting performance issue using SQL Server Profiler, Database Tuning Adviser.\n Checking the General Health growth of the servers and the databases.\n Providing 24x7 technical database supports for SQL Database systems.\n Continuously monitoring and updating the Backup & Recovery strategy and also monitoring scheduled jobs of backup and restore procedure for database\n Having experience on database backup and restorations.\n Technical proficiency in handling Microsoft SQL Database related issues both in production and non-production environments with expertise in doing rigorous troubleshooting on Database Backup, Restore, Log shipping, Mirroring, Clustering, AlwaysOn etc.\n❖ Checking storage – Validate we have sufficient storage on our drives to support databases and\nbackup\n❖ SQL: good knowledge in creating, altering the table etc. using DDL, DML, TCL.\n❖ Having good knowledge in Sub-queries and Co-related sub queries, groups and grouping\nfunctions.\n❖ Fetching the Data from Tables by using different types of Joins like Left, Right and Self join etc.\n…\nsee more",
+      "date1": "Jun 2018 – Nov 2019",
+      "date2": "1 yr 6 mos",
+      "roles": [
+        {
+          "title": "IT Executive(SQL server DBA and SQL support)",
+          "date1": "Jun 2018 – Nov 2019",
+          "date2": "1 yr 6 mos",
+          "location": "Pune Area, India"
+        },
+        {
+          "title": "Sql Server Database Administrator",
+          "date1": "Dec 2017 – May 2018",
+          "date2": "6 mos",
+          "location": "Pune Area, India"
+        }
+      ]
+    },
+    {
+      "title": "Title\nIT Executive(SQL server DBA and SQL support)",
+      "location": "Pune Area, India",
+      "description": " Installation & Configuration of SQL Server 2008/2008 R2/2012/2014/2016 .\n Experience in server level tuning, query level tuning and troubleshooting performance issue using SQL Server Profiler, Database Tuning Adviser.\n Checking the General Health growth of the servers and the databases.\n Providing 24x7 technical database supports for SQL Database systems.\n Continuously monitoring and updating the Backup & Recovery strategy and also monitoring scheduled jobs of backup and restore procedure for database\n Having experience on database backup and restorations.\n Technical proficiency in handling Microsoft SQL Database related issues both in production and non-production environments with expertise in doing rigorous troubleshooting on Database Backup, Restore, Log shipping, Mirroring, Clustering, AlwaysOn etc.\n❖ Checking storage – Validate we have sufficient storage on our drives to support databases and\nbackup\n❖ SQL: good knowledge in creating, altering the table etc. using DDL, DML, TCL.\n❖ Having good knowledge in Sub-queries and Co-related sub queries, groups and grouping\nfunctions.\n❖ Fetching the Data from Tables by using different types of Joins like Left, Right and Self join etc.\n…\nsee more",
+      "date1": "Jun 2018 – Nov 2019",
+      "date2": "1 yr 6 mos",
+      "roles": [
+        {
+          "title": "IT Executive(SQL server DBA and SQL support)",
+          "date1": "Jun 2018 – Nov 2019",
+          "date2": "1 yr 6 mos",
+          "location": "Pune Area, India"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSql Server Database Administrator",
+      "location": "Pune Area, India",
+      "description": "Installation & Configuration of SQL Server 2008/2008 R2/2012/2014 .",
+      "date1": "Dec 2017 – May 2018",
+      "date2": "6 mos",
+      "roles": [
+        {
+          "title": "Sql Server Database Administrator",
+          "date1": "Dec 2017 – May 2018",
+          "date2": "6 mos",
+          "location": "Pune Area, India"
+        }
+      ]
+    }
+  ],
+  "educations": [
+    {
+      "title": "University of Solapur",
+      "degree": "Bachelor of Engineering - BE",
+      "fieldofstudy": "computer science and engineering",
+      "date1": "2011",
+      "date2": "2014"
+    },
+    {
+      "title": "RIKP MOHOL",
+      "degree": "Hsc",
+      "fieldofstudy": "science",
+      "date1": "2010",
+      "date2": "2011"
+    },
+    {
+      "title": "New English School",
+      "degree": "ssc",
+      "fieldofstudy": "MARATHI",
+      "date1": "2008",
+      "date2": "2009"
+    }
+  ],
+  "skills": [
+    {
+      "title": "SQL Server Management Studio"
+    },
+    {
+      "title": "Microsoft Office"
+    },
+    {
+      "title": "Leadership"
+    },
+    {
+      "title": "Technical Support"
+    },
+    {
+      "title": "SQL"
+    },
+    {
+      "title": "Microsoft SQL Server"
+    },
+    {
+      "title": "Team Management"
+    },
+    {
+      "title": "SQL Tuning"
+    },
+    {
+      "title": "Mirroring"
+    },
+    {
+      "title": "Log Shipping"
+    },
+    {
+      "title": "Stored Procedures"
+    },
+    {
+      "title": "Sql Server agent"
+    },
+    {
+      "title": "Sql views"
+    },
+    {
+      "title": "Sql server log errors"
+    },
+    {
+      "title": "Sql index"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "3",
+      "items": [
+        "English",
+        "Hindi",
+        "Marathi"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Text Detection and localisation method in Natural images."
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "DIPAK NILE",
+    "headline": "Data Analyst at Casepoint LLC",
+    "imageurl": "https://media.licdn.com/dms/image/C5103AQEBqlzINyYuQg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=Obaw3gVH3b1p5mZbSv0SfPcd3d3ZzNPzIIANX2Qs0UY",
+    "location": "Pune, Maharashtra, India",
+    "connections": "500+",
+    "summary": "SQL SERVER DBA || 2 YEAR EXPERIENCED"
+  }
+}

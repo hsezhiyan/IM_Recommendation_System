@@ -1,0 +1,238 @@
+{
+  "profileAlternative": {
+    "name": "Palak Shah",
+    "headline": "Python Developer at CORECOMMODITY MANAGEMENT, LLC",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQEb7YybwjttbA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=OSPYy3mWmkwKJggILcW9zBMhkaxyLm3h4nfXaHYas4A",
+    "location": "Stamford, Connecticut",
+    "connections": "319",
+    "summary": "• Experience in Analysis, Design, Development, Implementation and Testing of various stand-alone and client-server architecture-based enterprise application software in Python on various domains.\n• Experienced in WAMP (Windows, Apache, MySQL, and Python) and LAMP (Linux, Apache, MySQL, and Python) Architecture.\n• Developed web-based applications using Python, HTML, CSS, JavaScript and jQuery.\n• Good experience of software development in Python (libraries used: pandas, NumPy, watchdog, urllib2, flask for framework, MySQL dB for database connectivity, SQLAlchemy for SQL tool).\n• Strong knowledge in SQL concepts: CRUD operations, sub queries, stored procedures, triggers, cursors, and functions.\n• Experience in performing GET and POST request in AJAX call of HTML, JSON/XML using JavaScript and jQuery.\n• Familiar with JSON based REST Web services.\n• Good understanding of Object-Oriented Programing concepts.\n• Extensive knowledge of working on Statistical Analysis, Reporting involving analysis, Design, Development, testing and validating the applications.\n• Have good Knowledge of Agile Methodologies (Scrum)."
+  },
+  "aboutAlternative": {
+    "text": "• Experience in Analysis, Design, Development, Implementation and Testing of various stand-alone and client-server architecture-based enterprise application software in Python on various domains.\n• Experienced in WAMP (Windows, Apache, MySQL, and Python) and LAMP (Linux, Apache, MySQL, and Python) Architecture.\n• Developed web-based applications using Python, HTML, CSS, JavaScript and jQuery.\n• Good experience of software development in Python (libraries used: pandas, NumPy, watchdog, urllib2, flask for framework, MySQL dB for database connectivity, SQLAlchemy for SQL tool).\n• Strong knowledge in SQL concepts: CRUD operations, sub queries, stored procedures, triggers, cursors, and functions.\n• Experience in performing GET and POST request in AJAX call of HTML, JSON/XML using JavaScript and jQuery.\n• Familiar with JSON based REST Web services.\n• Good understanding of Object-Oriented Programing concepts.\n• Extensive knowledge of working on Statistical Analysis, Reporting involving analysis, Design, Development, testing and validating the applications.\n• Have good Knowledge of Agile Methodologies (Scrum)."
+  },
+  "positions": [
+    {
+      "title": "Python Developer",
+      "companyName": "CORECOMMODITY MANAGEMENT, LLC",
+      "description": "• Developed Business Logic using Python and worked with request module web services in Python.\n• Designed and developed corporate website using the Flask framework.\n• Involved in building database Model, APIs and Views utilizing Python, to build an interactive web-based solution.\n• Working with Panda library to calculate statistics of system.\n• Used Pandas API to put the data as time series and tabular format for east timestamp data manipulation and retrieval.\n• Involved in development of modules like CSV import, XLSX import, bulk content upload.\n• Created numerous reports using reportlab and xlrt/xlwt python packages.\n• Implemented discretization, binning and data wrangling: cleaning, transforming, merging and reshaping data frames\n• Performed different DataFrame operations using panda, flask and SQLAlchemy combination.\n• Used Restful-Plus services for generating different request-response communication between server and client.\n• Worked with jasper studio tool to generate different daily reports. Also familiar with the old version named iReport.\n• Created automated daily jobs using Job Scheduler Software.\n• Developed the required XML Schema documents and implemented the framework for parsing XML documents.\n• Performed different CRUD queries on data for Database.\n• Used different Store procedures, JOIN and used CTE (common table expression) in SQL using DBvisualizer.\n• Worked with ETL procedure for database functions to pull data out of one database and place it into another database.\n• Built farm data and load into the Postgres database using SQL Alchemy.\n• Used Postman for getting response from server and feed that data to HTML content.\n• Worked with Redis to store key value pair to maintain data into session.\n• Worked on different messaging brokers like RabbitMQ and ActiveMQ to send and receive messages and handled FIX messages coming from ActiveMQ.\n• Worked with celery worker to communicates via messages, using a broker to mediate between clients and workers.\n…\nsee more",
+      "date1": "Dec 2017 – Present",
+      "date2": "2 yrs"
+    },
+    {
+      "title": "Software Developer Internship",
+      "companyName": "Wells Fargo",
+      "description": "• Involved in the development of the application and user interface guidelines using Python, HTML5, CSS3, JavaScript, and JQuery and troubleshoot various issues in Python code and fix them with code enhancements- code used various python libraries.\n• Enhanced features of existed application using Flask Framework and improved the performance using web services.\n• This project also used other technologies like JQuery for java script manipulations, bootstrap for the front-end html layout.\n• Developed and maintained presentation layer (UI) for the Wholesale Management Portal.\n• Worked on developing internal testing tools which were written in Python.\n• Performed validations for input fields making use of mainly Active Records.\n• Have ability to understand complex systems and be in command of the details to provide solutions.\n• Monitored the error logs and fixed the bugs using Splunk.\n• Ensured high quality data collection and maintaining the integrity of the data.\n• Followed AGILE development methodology to develop the entire application.\n• Implemented RESTful Web-Services for sending and receiving the data between multiple systems.\n…\nsee more",
+      "date1": "Aug 2016 – Mar 2017",
+      "date2": "8 mos"
+    },
+    {
+      "title": "Software Developer",
+      "companyName": "Coding Pixels",
+      "location": "Vadodara Area, India",
+      "description": "• Involved in maintaining and updating existing application and modules.\n• Wrote scripts in Python for extracting data from HTML file using Python Library.\n• Created Python and Bash tools to increase efficiency of call center application system and operations, data conversion scripts, REST, JSON, and CRUD scripts for API Integration.\n• Wrote scripts in Python for extracting data from HTML file.\n• Involved in building database Model, APIs and Views utilizing Python, to build an iterative web-based solution.\n• Performed form validations and implemented server side very complex calculation in optimize manner.\n• Also, prepared Documentation for the generated reports.\n• Used Git as a version-controlling tool to collaborate.\n• Responsible for debugging and troubleshooting the web application.\n• Actively worked as a part of team with managers and other staff to meet the goals of the project in the stipulated time.\n…\nsee more",
+      "date1": "Jun 2013 – Jul 2015",
+      "date2": "2 yrs 2 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Lamar University",
+      "degree": "Master's degree",
+      "fieldofstudy": "Computer Science",
+      "date1": "2015",
+      "date2": "2017"
+    },
+    {
+      "title": "Gujarat Technological University",
+      "degree": "Bachelor's degree",
+      "fieldofstudy": "Computer Engineering",
+      "date1": "2009",
+      "date2": "2013"
+    }
+  ],
+  "skills": [
+    {
+      "title": "HTML5",
+      "count": "1"
+    },
+    {
+      "title": "css3",
+      "count": "1"
+    },
+    {
+      "title": "Bootstrap"
+    },
+    {
+      "title": "Web Services"
+    },
+    {
+      "title": "Agile Methodologies"
+    },
+    {
+      "title": "Software Development"
+    },
+    {
+      "title": "Web Applications"
+    },
+    {
+      "title": "JavaScript",
+      "count": "2"
+    },
+    {
+      "title": "jQuery",
+      "count": "1"
+    },
+    {
+      "title": "C",
+      "count": "7"
+    },
+    {
+      "title": "C++",
+      "count": "7"
+    },
+    {
+      "title": "Java",
+      "count": "2"
+    },
+    {
+      "title": "SQL",
+      "count": "1"
+    },
+    {
+      "title": "MySQL",
+      "count": "1"
+    },
+    {
+      "title": "Microsoft Office",
+      "count": "8"
+    },
+    {
+      "title": "Microsoft Excel",
+      "count": "3"
+    },
+    {
+      "title": "Laravel"
+    },
+    {
+      "title": "WordPress",
+      "count": "1"
+    },
+    {
+      "title": "ajax"
+    },
+    {
+      "title": "json"
+    },
+    {
+      "title": "AngularJS"
+    },
+    {
+      "title": "Python (Programming Language)",
+      "count": "1"
+    },
+    {
+      "title": "Flask"
+    },
+    {
+      "title": "PostgreSQL"
+    },
+    {
+      "title": "Git"
+    },
+    {
+      "title": "Representational State Transfer (REST)"
+    },
+    {
+      "title": "Pandas (Software)"
+    },
+    {
+      "title": "Linux"
+    },
+    {
+      "title": "HTML",
+      "count": "7"
+    },
+    {
+      "title": "NoSQL"
+    },
+    {
+      "title": "CakePHP"
+    },
+    {
+      "title": "Redis"
+    },
+    {
+      "title": "RabbitMQ"
+    },
+    {
+      "title": "Celery"
+    },
+    {
+      "title": "NumPy"
+    },
+    {
+      "title": "SciPy"
+    },
+    {
+      "title": "SQLAlchemy"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/prabhleen-marwa-949936167/",
+      "text": "Python Developer at Huawei"
+    },
+    {
+      "user": "https://www.linkedin.com/in/oksana-karun-01ba2256/",
+      "text": "Python Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nirav-patel-1b01b6149/",
+      "text": "Python Developer at Envision Group"
+    },
+    {
+      "user": "https://www.linkedin.com/in/devon-mccarthy-95767373/",
+      "text": "Analyst at CoreCommodity Management LLC"
+    },
+    {
+      "user": "https://www.linkedin.com/in/bharat-c-b27a22171/",
+      "text": "UI Lead/ Python Developer at Capital One"
+    },
+    {
+      "user": "https://www.linkedin.com/in/frank2xu/",
+      "text": "Python Developer at Intel Corporation"
+    },
+    {
+      "user": "https://www.linkedin.com/in/divya-gandhi-ab0416109/",
+      "text": "Looking for Full Time/Contract to Hire Opportunities as a Python Developer."
+    },
+    {
+      "user": "https://www.linkedin.com/in/tushar-teji-4268b6171/",
+      "text": "Python Developer at Nielson Communications, Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/venkata-suresh-reddy-ganapam-a6244796/",
+      "text": "Hadoop and Spark Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ankit-c-29505b125/",
+      "text": "Python Developer/DevOPS Engineer at Apple"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Palak Shah",
+    "headline": "Python Developer at CORECOMMODITY MANAGEMENT, LLC",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQEb7YybwjttbA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=OSPYy3mWmkwKJggILcW9zBMhkaxyLm3h4nfXaHYas4A",
+    "location": "Stamford, Connecticut",
+    "connections": "319",
+    "summary": "• Experience in Analysis, Design, Development, Implementation and Testing of various stand-alone and client-server architecture-based enterprise application software in Python on various domains.\n• Experienced in WAMP (Windows, Apache, MySQL, and Python) and LAMP (Linux, Apache, MySQL, and Python) Architecture.\n• Developed web-based applications using Python, HTML, CSS, JavaScript and jQuery.\n• Good experience of software development in Python (libraries used: pandas, NumPy, watchdog, urllib2, flask for framework, MySQL dB for database connectivity, SQLAlchemy for SQL tool).\n• Strong knowledge in SQL concepts: CRUD operations, sub queries, stored procedures, triggers, cursors, and functions.\n• Experience in performing GET and POST request in AJAX call of HTML, JSON/XML using JavaScript and jQuery.\n• Familiar with JSON based REST Web services.\n• Good understanding of Object-Oriented Programing concepts.\n• Extensive knowledge of working on Statistical Analysis, Reporting involving analysis, Design, Development, testing and validating the applications.\n• Have good Knowledge of Agile Methodologies (Scrum)."
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "profileAlternative": {
+    "name": "Derek Schwenke",
+    "headline": "Software Engineer in Python, Java and C/C++",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQEKNT-ly5li5g/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=m0tnc7wmTVhIa7ZVhlZ_oN8l2kYZ8viV4PXrr7aq_B0",
+    "location": "Jamaica Plain, Massachusetts",
+    "connections": "375",
+    "summary": "Software architect working with real time distributed systems and data analytics.\n\n• Python, C/C++, Java, JavaScript, Bash and\n• AWS, Linux, Windows, Android\n• DevOps, code, team and project management\n• Database, performance, threading, microservice, architecture\n• Data analytics, natural language processing and search\n• Image processing, transcoding\n• Raytheon, MIT, SAS Institute, Mitsubishi Research\n• Masters in Computer Science, Bachelors in Electrical Engineering\n\nMost recent subjects:\n• GO, Haskell and AWS leader at TSSG\n• AWS Solutions Architect course\n• CS 224 Stanford Natural Language Processing\n• CS 264 Harvard Massively Parallel Computing\n• Coursera Android, Python\n\nSpecialties: real time distributed systems, user interfaces, image processing and speech applications.\n\n• Languages: C/C++, Java, JavaScript, Servlets, JSP, XML, Python, Go, Ruby, Perl, Matlab, SAS.\n• Operating Systems: Linux, UNIX, Windows, Andriod, RTOS.\n• Tools: GNU, Eclipse, VisualStudio, CVS, GIT, Subversion, SourceSafe, Ant.\n• Standards:HTML, HTML5, XML, XSLT, VRML, VXML, Oracle, SQL, Win32, MFC, COM,.NET, Adobe Flash Flex, Qt, FLTK, MPI, AWS S3 EC2, UPnP, DLNA, JPEG2000, MPEG, H.264, H.265.\n• Natural Language: Lucene, Solr\n\nContact DerekSchwenke@gmail.com"
+  },
+  "aboutAlternative": {
+    "text": "Software architect working with real time distributed systems and data analytics.\n\n• Python, C/C++, Java, JavaScript, Bash and\n• AWS, Linux, Windows, Android\n• DevOps, code, team and project management\n• Database, performance, threading, microservice, architecture\n• Data analytics, natural language processing and search\n• Image processing, transcoding\n• Raytheon, MIT, SAS Institute, Mitsubishi Research\n• Masters in Computer Science, Bachelors in Electrical Engineering\n\nMost recent subjects:\n• GO, Haskell and AWS leader at TSSG\n• AWS Solutions Architect course\n• CS 224 Stanford Natural Language Processing\n• CS 264 Harvard Massively Parallel Computing\n• Coursera Android, Python\n\nSpecialties: real time distributed systems, user interfaces, image processing and speech applications.\n\n• Languages: C/C++, Java, JavaScript, Servlets, JSP, XML, Python, Go, Ruby, Perl, Matlab, SAS.\n• Operating Systems: Linux, UNIX, Windows, Andriod, RTOS.\n• Tools: GNU, Eclipse, VisualStudio, CVS, GIT, Subversion, SourceSafe, Ant.\n• Standards:HTML, HTML5, XML, XSLT, VRML, VXML, Oracle, SQL, Win32, MFC, COM,.NET, Adobe Flash Flex, Qt, FLTK, MPI, AWS S3 EC2, UPnP, DLNA, JPEG2000, MPEG, H.264, H.265.\n• Natural Language: Lucene, Solr\n\nContact DerekSchwenke@gmail.com"
+  },
+  "positions": [
+    {
+      "title": "Senior Software Engineer at GovernmentCIO",
+      "companyName": "U.S. Department of Veterans Affairs",
+      "location": "Boston MA and Austin TX",
+      "description": "This VA team develops applications to access and protect it’s 6 Petabyte genetic databases. This group supports the world's top genetics research teams.\n\n• Django development for role based access control system\n• Elgg module development for GENISIS with MITRE\n• Reporting meetings and agile sprint planning\n• Oracle and Corp DB JDBC java bridge to SOAP client on AWS terraform",
+      "date1": "Feb 2019 – Present",
+      "date2": "10 mos"
+    },
+    {
+      "title": "Volunteer Software Architect",
+      "companyName": "TSSG Technical Share Group",
+      "location": "Chelmsford, ma",
+      "description": "• Present JavaScript design and debugging sections\n• Present AWS, Go and Haskell sections\nLearning with coursera:\n• AWS systems administration course\n• Ruby language, Rails JSON REST Johns Hopkins University\n• Go language app server University of Washington\n\n\n…\nsee more",
+      "date1": "Jul 2014 – Present",
+      "date2": "5 yrs 5 mos"
+    },
+    {
+      "title": "Senior Software Engineering at 22nd Century",
+      "companyName": "Raytheon",
+      "location": "Tewksbury, ma",
+      "description": "System integration and test for Patriot training including TEWA and ADOC. Implemented in C++, Jenkins, Bash with Matlab and the IBM toolchain. See: https://www.raytheon.com/.\n• New bug reporting and test development\n• Bug fix and verification, log collection and analysis\n• Agile sprint planning and reporting\n\n\n…\nsee more",
+      "date1": "Sep 2018 – Nov 2018",
+      "date2": "3 mos"
+    },
+    {
+      "title": "Senior Software Engineer at Eliasson Consulting",
+      "companyName": "MIT Lincoln Laboratory",
+      "location": "Lexington, ma",
+      "description": "The Cyber Systems Assessments Group writes software to detect and classify threats. This group uses a threat corpora, metrics, and behavioral models. See https://www.ll.mit.edu/mission/cybersec/CSA/CSA.html.\n• Platform selection and deployment integrating Atlassian Bamboo (bitbucket) DevOps.\n• System administration using Django, Python, Jupyter, PostgreSQL, C/C++ 17, Java, Eclypse, RabbitMQ, Celery, Panda QEMU, Docker, Ubuntu, HTML5, REST, FusionVM, Agile, Jira and GIT.\n\n\n…\nsee more",
+      "date1": "Jul 2016 – Mar 2017",
+      "date2": "9 mos"
+    },
+    {
+      "title": "Software Architect and Developer",
+      "companyName": "SAS",
+      "location": "Cambridge, MA",
+      "description": "SAS Institute develops business analytics software. Teragram provided the text processing functions including entity extraction, sentiment analysis, indexing and search used by SAS Information Retrieval Studio and Enterprise Miner. See: http://www.sas.com/en_us/software/analytics/enterprise-miner.html\n\n● Designed the virtual index building and querying micro-servers providing a segmented distributed index architecture. Developed the query protocol collecting segmented results into a ordered stream. Similar to Lunene, Solr, Elasticsearch, R. Using C/C++, Python, Java, Spring, REST, Angular.js, DevOps, Agile, Jira.\n● Designed AWS EC2 S3 cluster support using RedHat Linux AMIs.\n● Extended Flex/HTML5 administration UIs for multi-node control. Designed distributed logging service.\n● Doubled the speed and capacity of each index by improving merge locking runtime performance.\n● Co-authored the web crawler specification for the team in China. Added support for Hadoop.\n\n…\nsee more",
+      "date1": "Jun 2011 – Jun 2014",
+      "date2": "3 yrs 1 mo"
+    },
+    {
+      "title": "Consulting Software Engineer",
+      "companyName": "Enterprise Integrators",
+      "location": "Remote, Bloomfield MI.",
+      "description": "Developed Android App using MySQL and SQL Server for tracking and scheduling service calls. Using Apache Tomcat on Linux and SQL Server C/C++ on Windows. I helped the company debug and trace it’s data path.",
+      "date1": "Jun 2010 – May 2011",
+      "date2": "1 yr"
+    },
+    {
+      "title": "Principal Technical Staff",
+      "companyName": "Mitsubishi Electric Research Labs",
+      "description": "Mitsubishi Electric Research Laboratory (MERL) Cambridge MA. (http://www.merl.com) MERL develops consumer AV, surveillance, and navigation systems in Windows, Linux, or RTOS environments.\n\n• Design and implementation of the Scalable Streaming JPEG 2000 transcoder. Developed ROI priority, quality, resolution, component and frame skip functions to achieve the bandwidth target. Published at IEEE ICME 06 and SPIE VCIP 07. Patent 7672524. (http://www.merl.com/projects/roi-streaming/)\n• Architect of the Progressive Image Transmission Protocol. Demonstrated at VCIP 08 in San Jose. C++/MFC and ported to the Renesas SH4A microprocessor to achieve embedded real-time large format image transcoding.\n• Designed a Stream Tiler to merge compressed images using low overhead on the SH4A.\n• Designed techniques for Differential Encoding of Large Format Surveillance Streams. Performance tests on the Beowulf cluster achieved results between H.264 and MPEG2 using less overhead.\n• Designed database visualization UI using the Prefuse Java toolkit.\n• Extended the study of Voice Interfaces for Automotive Navigational Systems by developing user reaction measurement systems for the driving simulator. (http://www.merl.com/projects/vi4auto/).\n• Design for the Content Search Using Voice project that displays matches and confidence. Patent pending (http://www.merl.com/projects/epg-search/).\n• Development of FormsTalk application using Apache Tomcat filter and Dialogic phone APIs. Designed XSLT transform supporting multimodal user agent task generation.\n• Created a speech synchronization technique for mobile phones and ASRs. Patent pend.\n• Development of FormsTalk browser using MERL’s DiamondTalk and Collagen. Successfully integrated the Java user agent with a speech recognition front end.\n• Participant and presenter in the W3C VoiceXML and Multimodal working groups.\n• Development of the location aware services using a neural network motion classifier in Matlab.\n…\nsee more",
+      "date1": "Sep 2001 – Jan 2009",
+      "date2": "7 yrs 5 mos"
+    },
+    {
+      "title": "Principal Technical Staff",
+      "companyName": "Horizon Systems Laboratory ITA",
+      "description": "Mitsubishi Electric Information Technology Center America (MEITCA-HSL) 1994- 2001. Waltham MA. A Mitsubishi R&D Lab:\n\n• Development of the Concordia Java mobile agent architecture. Redesigned the security layer for JCE & JAAS support, socket caching, documentation and test. (http://www.merl.com/projects/concordia/WWW)\n• An architect of the Internet Sharing Transfer Protocol (ISTP) supporting a distributed shared object tuple space. Patented, published in journals and the book “Late Night VRML” by Roehl, 1997 ZD Press. (http://www.merl.com/projects/spline)\n• Development of Open Community for virtual reality (VR), using C/C++, Java, Cosmo3D, OpenGL, COM. (http://www.merl.com/projects/opencom/WWW/)\n• Architect and team leader of the Schmoozer Java VR editor and browser. Presented at ACM Siggraph 1999 in Los Angeles, and published in the book “Networked Virtual Environments” Singhal and Zyda, 1999 Addison Wesley. (http://www.merl.com/projects/schmoozer/WWW/)\n• Software architect of a distributed message queuing system (OMQ) for Windows, and UnixWare. XA Transaction manager supporting Oracle, VB, MFC. Patented.\n…\nsee more",
+      "date1": "Sep 1994 – Sep 2001",
+      "date2": "7 yrs 1 mo"
+    },
+    {
+      "title": "Senior Software Engineer",
+      "companyName": "Horizon Research Inc",
+      "description": "Firmware and Software Designer at HRI 1988-1994. Waltham MA. A Mitsubishi company that designed state of the art office computer systems for the Japanese market:\n\n• Performance and failure testing of the DCE/Encina transaction processor. Ported to UnixWare (SVR4.2). Analysis of SMP, Oracle, the Structured File System, and threads.\n• Software design of programs to aid Verilog model writing, testing and simulation including a FrameMaker MIF interface and a test case pre-processor for system simulation.\n• Design and simulation for PXB1 CPU’s ITC LSI using Synopsys and Cadence for 0.8 micron SOG. Responsible for integration and production in Japan.\n• Hardware design and simulation for M80 CPU’s OADG using VALID tools. System integration of the 6 board computer in Japan.\n…\nsee more",
+      "date1": "Jun 1988 – Aug 1994",
+      "date2": "6 yrs 3 mos"
+    },
+    {
+      "title": "Engineer",
+      "companyName": "Raytheon",
+      "description": "Communications Systems Laboratory of the Equipment Division, Raytheon Co. Marlborough, MA:\n\n• Lead engineer of the Butterfly VLSI. This chip performs the demodulation of Discrete Fourier Transform (DFT) and Frequency Shift Keying (FSK) waveforms in MILSTAR satellite terminals using 1.2 micron CMOS.\n• Design and simulation of the DFT and FSK cards for the NESP terminals.\n• Wrote AMCT specifications, timing and sizing estimates for IBM & US Air Force.\n• Developed IO drivers for MILSTAR demos. Designed hardware and firmware for the Terminal Test Set communications channels on the DG MV-20000.\n…\nsee more",
+      "date1": "Jun 1984 – Sep 1988",
+      "date2": "4 yrs 4 mos"
+    },
+    {
+      "title": "Engineer",
+      "companyName": "Beltronics Inc",
+      "description": "(http://www.beltronicsinc.com/) An engineering consulting firm specializing in pattern recognition. Co-holder of image-processing patent for CCD High Speed Image Inspection System.",
+      "date1": "Jun 1981 – Jun 1984",
+      "date2": "3 yrs 1 mo"
+    },
+    {
+      "title": "Visiting-intern",
+      "companyName": "MIT Research Laboratory of Electronics, Cognitive Image Processing Laboratory, Cambridge MA.",
+      "description": "Developed programs for large-format image reduction and analysis.",
+      "date1": "Jan 1980 – Apr 1980",
+      "date2": "4 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Worcester Polytechnic Institute",
+      "degree": "MSCS",
+      "fieldofstudy": "Computer Science",
+      "date1": "1985",
+      "date2": "1988"
+    },
+    {
+      "title": "Tulane University",
+      "degree": "BSEE",
+      "fieldofstudy": "Electrical Engineering",
+      "date1": "1980",
+      "date2": "1984"
+    },
+    {
+      "title": "Lexington"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Python",
+      "count": "4"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "2",
+    "receivedCount": "2",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/cloughandassoc/",
+        "text": "Even back in the 80's, when I worked with Derek, it was evident that he would do great things. In addition to being very intelegent and insightful, he was also a great team player. Derek usually gave credit to those around him even when he deserved it himself. I know I benefited from his showing me the ropes early in my career."
+      },
+      {
+        "user": "https://www.linkedin.com/in/ajay-divakaran-3445361/",
+        "text": "Derek Schwenke is a very hardworking, creative, conscientious and meticulous programmer and engineer. He is constructive in his interactions with people and is open to good ideas from others. I have worked closely with him and found that he is not afraid to dive into a new problem and find a solution. I would recommend him strongly for an engineering position.\n…\nSee more"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/cloughandassoc/",
+        "text": "Dave is a good person to work with who brings out the best in others around him. Dave always had key insights identifying business growth strategies."
+      },
+      {
+        "user": "https://www.linkedin.com/in/ajay-divakaran-3445361/",
+        "text": "Ajay is a an excellent organizer and leader with a keen mind and great engineering skills and a very nice person who brings out the best in others."
+      }
+    ]
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/rochellerosenberg/",
+      "text": "Senior Software Engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/li-zhang-59000514a/",
+      "text": "Doctor of Philosophy - PhD at University of Minnesota Medical School"
+    },
+    {
+      "user": "https://www.linkedin.com/in/george-domenik-67b7682a/",
+      "text": "Cloud Security Architect - Multi-cloud Cyber-security SME - Corporate Executive Cyber-security Advisor"
+    },
+    {
+      "user": "https://www.linkedin.com/in/steve-boylan-22aa436/",
+      "text": "Owner, Lee River Software LLC"
+    },
+    {
+      "user": "https://www.linkedin.com/in/art-edelstein-4799768/",
+      "text": "Consultant and Principle at Edelstein Consulting, LLC"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sonya-harris-5a38798/",
+      "text": "Sales Program Execution Lead AT&T"
+    },
+    {
+      "user": "https://www.linkedin.com/in/donald-van-gorp-83b0619/",
+      "text": "Independent Entertainment Professional"
+    },
+    {
+      "user": "https://www.linkedin.com/in/faye-erickson-94a5b7a/",
+      "text": "Management"
+    },
+    {
+      "user": "https://www.linkedin.com/in/arnulfo-paz-b13aa378/",
+      "text": "QA Senior at Pixability"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jerry-ziertman-11579459/",
+      "text": "Retired at Qwest"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Derek Schwenke",
+    "headline": "Software Engineer in Python, Java and C/C++",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQEKNT-ly5li5g/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=m0tnc7wmTVhIa7ZVhlZ_oN8l2kYZ8viV4PXrr7aq_B0",
+    "location": "Jamaica Plain, Massachusetts",
+    "connections": "375",
+    "summary": "Software architect working with real time distributed systems and data analytics.\n\n• Python, C/C++, Java, JavaScript, Bash and\n• AWS, Linux, Windows, Android\n• DevOps, code, team and project management\n• Database, performance, threading, microservice, architecture\n• Data analytics, natural language processing and search\n• Image processing, transcoding\n• Raytheon, MIT, SAS Institute, Mitsubishi Research\n• Masters in Computer Science, Bachelors in Electrical Engineering\n\nMost recent subjects:\n• GO, Haskell and AWS leader at TSSG\n• AWS Solutions Architect course\n• CS 224 Stanford Natural Language Processing\n• CS 264 Harvard Massively Parallel Computing\n• Coursera Android, Python\n\nSpecialties: real time distributed systems, user interfaces, image processing and speech applications.\n\n• Languages: C/C++, Java, JavaScript, Servlets, JSP, XML, Python, Go, Ruby, Perl, Matlab, SAS.\n• Operating Systems: Linux, UNIX, Windows, Andriod, RTOS.\n• Tools: GNU, Eclipse, VisualStudio, CVS, GIT, Subversion, SourceSafe, Ant.\n• Standards:HTML, HTML5, XML, XSLT, VRML, VXML, Oracle, SQL, Win32, MFC, COM,.NET, Adobe Flash Flex, Qt, FLTK, MPI, AWS S3 EC2, UPnP, DLNA, JPEG2000, MPEG, H.264, H.265.\n• Natural Language: Lucene, Solr\n\nContact DerekSchwenke@gmail.com"
+  }
+}

@@ -1,0 +1,295 @@
+{
+  "profileAlternative": {
+    "name": "Alex Braun",
+    "headline": "Javascript Software Engineer at F1V LLC",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQE6Dj64hWc1tg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=5XmTIoTzZzROiOlUPscinzLidWZdZPPN9o371TOlXQc",
+    "location": "Boston, Massachusetts",
+    "connections": "303",
+    "summary": "I’m a web developer with a creative background and a passion for building things. Whether it be writing songs on the guitar, working on a DIY electronics project, or tackling a new programming language, it’s the challenges along the path of creation that I’m the most drawn to.\n\nWhile attending General Assembly’s Web Immersive Program, I was exposed to many new web development technologies and I was asked to build fully functional web apps featuring these cutting edge methods in a matter of days. I found this intensive process both exciting and incredibly rewarding, and I know for certain that my future in web development will be filled with similar challenges.\n\nIn addition to my recent experience as a web developer, I have worked in long term care insurance, where I was on a small team whose goal was to help reduce the rising costs of long term care for our policyholders. It was in this position that I learned how to be creative in a business environment, an adaptability that I believe is essential to my success as a web developer.\n\nPlease see my portfolio at www.braunline.com"
+  },
+  "aboutAlternative": {
+    "text": "I’m a web developer with a creative background and a passion for building things. Whether it be writing songs on the guitar, working on a DIY electronics project, or tackling a new programming language, it’s the challenges along the path of creation that I’m the most drawn to.\n\nWhile attending General Assembly’s Web Immersive Program, I was exposed to many new web development technologies and I was asked to build fully functional web apps featuring these cutting edge methods in a matter of days. I found this intensive process both exciting and incredibly rewarding, and I know for certain that my future in web development will be filled with similar challenges.\n\nIn addition to my recent experience as a web developer, I have worked in long term care insurance, where I was on a small team whose goal was to help reduce the rising costs of long term care for our policyholders. It was in this position that I learned how to be creative in a business environment, an adaptability that I believe is essential to my success as a web developer.\n\nPlease see my portfolio at www.braunline.com"
+  },
+  "positions": [
+    {
+      "title": "Javascript Software Engineer",
+      "companyName": "F1V LLC",
+      "location": "Waltham, MA",
+      "description": "* Build React.js component libraries for use in a leading education software product\n* Create javascript data modules along with Redis data store to decrease legacy website latency\n* Unit testing with Enzyme and Jest, e2e testing with Nightwatch.js\n* Ground up build of PHP website for corporate bias training, utilizing Symfony, MySQL, and Javascript/jQuery\n* Experience with other PHP frameworks such as BoltCMS and CodeIgnitor\n* Configure docker containers and setup hosting on AWS and goDaddy",
+      "date1": "Jun 2017 – Present",
+      "date2": "2 yrs 6 mos"
+    },
+    {
+      "title": "Web Developer (contract)",
+      "companyName": "Two Row Studio",
+      "location": "Boston, MA",
+      "description": "• Customized WordPress themes and plugins with a focus on modularity and reusability\n• Enhanced user experience with AJAX client/server communication.\n• Created additional functionality and classes utilizing PHP, JavaScript and MySQL.",
+      "date1": "Feb 2017 – Apr 2017",
+      "date2": "3 mos"
+    },
+    {
+      "title": "Web Development Immersive Program",
+      "companyName": "General Assembly",
+      "location": "Boston, MA",
+      "description": "• WDI is a 12 week intensive course focused on full stack web development.\nI created full-stack websites, complete from building back-end APIs to front-end html/css and JavaScript.\n\n• I worked individually and as part of a team to build four web applications with project\ndeadlines and requirements, such as user authentication and full CRUD actions.\n\n• Program languages and technologies include:\nJavaScript, Ember.js, Node.js, jQuery, Handlebars.js, AJAX, Ruby, Ruby on Rails, ExpressJS, MongoDB, PostgreSQL, Git, Bootstrap, SASS, and HTML5/CSS3\n\n…\nsee more",
+      "date1": "Jul 2016 – Oct 2016",
+      "date2": "4 mos"
+    },
+    {
+      "title": "Client Services Specialist",
+      "companyName": "Genworth Financial/CareScout",
+      "location": "Waltham, MA",
+      "description": "Identified long term care service providers and actively negotiated rates on our customers’ behalf.\nCompiled information from long term care providers about their operations to help insurance companies qualify them for their policyholders.\nEngaged in testing of systems to support deployments.\nActed as primary customer support for our clients and their policy holders.\n…\nsee more",
+      "date1": "Oct 2014 – Jul 2016",
+      "date2": "1 yr 10 mos"
+    },
+    {
+      "title": "Composer/Guitarist",
+      "companyName": "Composer/Guitarist",
+      "location": "Boston, MA and Chicago, IL",
+      "description": "Organize events ranging from transportation logistics to performance venues\nPerformances at >300 events including live events, film scores, album recordings, and session recordings",
+      "date1": "May 2000 – Jul 2016",
+      "date2": "16 yrs 3 mos"
+    },
+    {
+      "title": "Retail Buyer/Wine Manager",
+      "companyName": "Trader Joe's",
+      "location": "Chicago, IL",
+      "date1": "Mar 2011 – Aug 2014",
+      "date2": "3 yrs 6 mos"
+    },
+    {
+      "title": "Q-Division Studios",
+      "companyName": "Audio Production Intern",
+      "location": "Somerville, MA",
+      "description": "Q-Division Studios\nSetup recording systems, overhauled damaged listening and recording devices, furnished engineers with necessary microphones, amplifiers, and various other performance tools\nAssisted clients with hospitality arrangements to facilitate recording sessions",
+      "date1": "2006 – 2007",
+      "date2": "1 yr"
+    }
+  ],
+  "educations": [
+    {
+      "title": "General Assembly",
+      "degree": "Web Development",
+      "fieldofstudy": "Web Development",
+      "date1": "2016",
+      "date2": "2016"
+    },
+    {
+      "title": "Northeastern University",
+      "degree": "Bachelor's Degree",
+      "fieldofstudy": "Music Industry",
+      "date1": "2003",
+      "date2": "2008"
+    },
+    {
+      "title": "Lexington High School"
+    }
+  ],
+  "skills": [
+    {
+      "title": "JavaScript",
+      "count": "11"
+    },
+    {
+      "title": "jQuery",
+      "count": "11"
+    },
+    {
+      "title": "React.js",
+      "count": "1"
+    },
+    {
+      "title": "Inventory Management",
+      "count": "3"
+    },
+    {
+      "title": "Marketing Strategy",
+      "count": "3"
+    },
+    {
+      "title": "Inventory Control",
+      "count": "3"
+    },
+    {
+      "title": "Merchandising",
+      "count": "3"
+    },
+    {
+      "title": "Sales",
+      "count": "4"
+    },
+    {
+      "title": "Event Planning",
+      "count": "4"
+    },
+    {
+      "title": "Retail Sales",
+      "count": "4"
+    },
+    {
+      "title": "Ruby",
+      "count": "10"
+    },
+    {
+      "title": "Ruby on Rails",
+      "count": "9"
+    },
+    {
+      "title": "Node.js",
+      "count": "8"
+    },
+    {
+      "title": "SQL",
+      "count": "8"
+    },
+    {
+      "title": "Bootstrap",
+      "count": "8"
+    },
+    {
+      "title": "Github",
+      "count": "8"
+    },
+    {
+      "title": "HTML5",
+      "count": "9"
+    },
+    {
+      "title": "Cascading Style Sheets (CSS)",
+      "count": "7"
+    },
+    {
+      "title": "AJAX",
+      "count": "2"
+    },
+    {
+      "title": "MongoDB",
+      "count": "2"
+    },
+    {
+      "title": "PHP"
+    },
+    {
+      "title": "Docker"
+    },
+    {
+      "title": "Amazon Web Services (AWS)"
+    },
+    {
+      "title": "MySQL"
+    },
+    {
+      "title": "Sourcing",
+      "count": "2"
+    },
+    {
+      "title": "Customer Service",
+      "count": "2"
+    },
+    {
+      "title": "Credentialing",
+      "count": "3"
+    },
+    {
+      "title": "Profit",
+      "count": "2"
+    },
+    {
+      "title": "Ember.js",
+      "count": "2"
+    },
+    {
+      "title": "Express.js",
+      "count": "2"
+    },
+    {
+      "title": "Symfony"
+    },
+    {
+      "title": "Symfony Framework"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "1",
+    "receivedCount": "2",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/ericgroft/",
+        "text": "I had the pleasure of employing Alex after he completed a web development boot camp in Boston. I was impressed with how quickly and effectively he learned new technologies, languages and concepts starting on the first day of work. Despite having never worked with WordPress before, Alex immediately provided value to our team and produced clear and very thought out code. Alex appears to live and breathe for his work as a developer, and his desire to integrate new technologies while continuously improving upon his skills was something that made him a tremendous asset to the team. Alex brings intelligence, confidence, and a sense of humor to the table. Any company would be incredibly lucky to have him join their team.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/natasa-peic/",
+        "text": "I was able to work with Alex on our group project where we built a fully functional e-commerce site. Alex is one of the most detail oriented people I have worked with. He is easy to talk to, and thanks to him we were able to finish our group project on time. He approaches problems methodically and takes charge when needed."
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/natasa-peic/",
+        "text": "I was fortunate enough to work with Natasa on a group project at General Assembly.  She has an incredible work ethic and a great attitude.  We built a fully functional e-commerce website and the path to its completion came with many challenges.  Natasa was instrumental in finding solutions to many of these issues and she was essential in us completing this project ahead of schedule."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "4",
+      "items": [
+        "Show Hock",
+        "Drum Sequencer",
+        "Art E-Commerce Website",
+        "Craft Cocktails"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/chad-smith-16b07864/",
+      "text": "JavaScript Engineer, UI designer, React.js evangelist"
+    },
+    {
+      "user": "https://www.linkedin.com/in/galenvinter/",
+      "text": "Engineer at Wistia"
+    },
+    {
+      "user": "https://www.linkedin.com/in/arthur-buldauskas-959a15b7/",
+      "text": "JavaScript Engineer at Wayfair"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nick-blaisdell/",
+      "text": "Web Engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/davidhko1/",
+      "text": "Javascript Engineer at F1V"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tanvi-gour-a771b021/",
+      "text": "JavaScript Performance Lead Software Engineer at The MathWorks"
+    },
+    {
+      "user": "https://www.linkedin.com/in/willcaul/",
+      "text": "Senior Software Engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/pswhisenhunt/",
+      "text": "Software Engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/aaron-vale/",
+      "text": "UI Developer at InterSystems"
+    },
+    {
+      "user": "https://www.linkedin.com/in/coreyfedde/",
+      "text": "Javascript Developer & Project Manager at F1V LLC"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Alex Braun",
+    "headline": "Javascript Software Engineer at F1V LLC",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQE6Dj64hWc1tg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=5XmTIoTzZzROiOlUPscinzLidWZdZPPN9o371TOlXQc",
+    "location": "Boston, Massachusetts",
+    "connections": "303",
+    "summary": "I’m a web developer with a creative background and a passion for building things. Whether it be writing songs on the guitar, working on a DIY electronics project, or tackling a new programming language, it’s the challenges along the path of creation that I’m the most drawn to.\n\nWhile attending General Assembly’s Web Immersive Program, I was exposed to many new web development technologies and I was asked to build fully functional web apps featuring these cutting edge methods in a matter of days. I found this intensive process both exciting and incredibly rewarding, and I know for certain that my future in web development will be filled with similar challenges.\n\nIn addition to my recent experience as a web developer, I have worked in long term care insurance, where I was on a small team whose goal was to help reduce the rising costs of long term care for our policyholders. It was in this position that I learned how to be creative in a business environment, an adaptability that I believe is essential to my success as a web developer.\n\nPlease see my portfolio at www.braunline.com"
+  }
+}

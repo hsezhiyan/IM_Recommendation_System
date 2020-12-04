@@ -1,0 +1,275 @@
+{
+  "profileAlternative": {
+    "name": "Savvy Gupta",
+    "headline": "Project Management Intern at Empowerly",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQGlU9v_extipg/profile-displayphoto-shrink_200_200/0?e=1577318400&v=beta&t=aPQ1ZGmNkPV6L6rmfytNxsMWvFUkEo3bR4jbOmb_EIE",
+    "location": "Fremont, California",
+    "connections": "272",
+    "summary": "Passionate Computer Science major eager to create technology to address large-scale problems. Teacher. Skilled in web dev, Java, Python and excited to learn more programming languages. Currently attending the University of Washington, Class of 2022."
+  },
+  "aboutAlternative": {
+    "text": "Passionate Computer Science major eager to create technology to address large-scale problems. Teacher. Skilled in web dev, Java, Python and excited to learn more programming languages. Currently attending the University of Washington, Class of 2022."
+  },
+  "positions": [
+    {
+      "title": "Product Management Intern",
+      "companyName": "Empowerly",
+      "location": "Berkeley, CA",
+      "description": "Work to improve the Empowerly student experience by researching and analyzing student needs and feedback. Aid in strategy, prioritization, design, and testing of new portal features. Additionally work alongside software engineers to learn and utilize React.",
+      "date1": "Feb 2019 – Present",
+      "date2": "9 mos"
+    },
+    {
+      "title": "Web Development Director",
+      "companyName": "Gifts of Awesome",
+      "description": "Built and maintain the non-profit’s website. Collaborated with organizations nationwide to consolidate the non-profit’s work on one platform. Experimented with various designs and CSS libraries to find a format that best fit our message.",
+      "date1": "Sep 2016 – Present",
+      "date2": "3 yrs 2 mos"
+    },
+    {
+      "title": "Teaching Assistant (2019)",
+      "companyName": "Girls Who Code",
+      "date1": "Jun 2019 – Aug 2019",
+      "date2": "3 mos"
+    },
+    {
+      "title": "Teaching Assistant (2018)",
+      "companyName": "Girls Who Code",
+      "location": "Amazon Lab126",
+      "description": "(Summer 2018, Summer 2019) I teach high school students how to code and navigate technology, more specifically through platforms and languages like Scratch, Python, HTML/CSS/JavaScript etc. We also cover topics like robotics and data science, while highlighting accomplished women in technology as potential role models.",
+      "date1": "Jun 2018 – Aug 2018",
+      "date2": "3 mos"
+    },
+    {
+      "title": "Project Leader, Teacher",
+      "companyName": "Ardenwood STEMgirls",
+      "description": "I teach 1st-6th grade girls programming (HTML/CSS, JavaScript, Python) and the importance of technology in present day lives, along with exposing them to female role models in STEM.",
+      "date1": "Oct 2016 – Jun 2018",
+      "date2": "1 yr 9 mos"
+    },
+    {
+      "title": "Bay Area Branch Vice President",
+      "companyName": "Miss CEO",
+      "description": "I help manage the Bay Area’s Miss CEO chapter, providing resources for girls to pursue leadership positions and various avenues of career exploration, along with building social confidence.",
+      "date1": "Sep 2016 – Jun 2018",
+      "date2": "1 yr 10 mos"
+    },
+    {
+      "title": "Co-Founder, Web Technician, Vice President (High School Branch)",
+      "companyName": "Rise Against Hunger",
+      "description": "I organize meal-packaging events for students, hold presentations on poverty at elementary schools, manage opportunities for soup-kitchen volunteering. As a club, we’ve packaged over 50,000 meals and counting!",
+      "date1": "Sep 2015 – Jun 2018",
+      "date2": "2 yrs 10 mos"
+    },
+    {
+      "title": "Software Engineering Intern",
+      "companyName": "Meimodo Inc.",
+      "location": "San Francisco Bay Area",
+      "description": "I worked on Applause, a technology allowing real-time customer feedback created by Meimodo Inc., with programs like Postman and Load Testing to conduct server testing and collect + map the resulting data. I also wrote scripts in JavaScript to that automated the process of simulating clients, networks, and devices and determined weaknesses in the server.",
+      "date1": "Jun 2017 – Sep 2017",
+      "date2": "4 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "University of Washington",
+      "degree": "Computer Science",
+      "date1": "2018",
+      "date2": "2022"
+    },
+    {
+      "title": "Mission San Jose High School",
+      "date1": "2014",
+      "date2": "2018"
+    },
+    {
+      "title": "Girls Who Code",
+      "date1": "2016",
+      "date2": "2016"
+    },
+    {
+      "title": "Ohlone College",
+      "degree": "Spanish 4 (Dual Enrollment)",
+      "fieldofstudy": "Spanish 4 (Dual Enrollment)",
+      "date1": "2016"
+    },
+    {
+      "title": "Towson University",
+      "degree": "COSC 175 (General Computer Science)",
+      "fieldofstudy": "COSC 175 (General Computer Science)",
+      "date1": "2016"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Microsoft Office",
+      "count": "4"
+    },
+    {
+      "title": "Microsoft Word",
+      "count": "3"
+    },
+    {
+      "title": "PowerPoint",
+      "count": "3"
+    },
+    {
+      "title": "Research",
+      "count": "2"
+    },
+    {
+      "title": "Project Management",
+      "count": "2"
+    },
+    {
+      "title": "Microsoft Excel",
+      "count": "2"
+    },
+    {
+      "title": "Python",
+      "count": "2"
+    },
+    {
+      "title": "JavaScript",
+      "count": "2"
+    },
+    {
+      "title": "CSS",
+      "count": "1"
+    },
+    {
+      "title": "HTML",
+      "count": "1"
+    },
+    {
+      "title": "Public Speaking",
+      "count": "3"
+    },
+    {
+      "title": "Customer Service",
+      "count": "2"
+    },
+    {
+      "title": "Leadership",
+      "count": "2"
+    },
+    {
+      "title": "Management"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "5",
+      "items": [
+        "NCWIT National Award Honorable Mention 2018",
+        "National AP Scholar 2018",
+        "National Merit Scholar 2018",
+        "NCWIT Bay Area Award Winner 2017",
+        "FIRST Motivate Award 2016"
+      ]
+    },
+    {
+      "count": "4",
+      "items": [
+        "Color Guard",
+        "Robotics (Team 596 SpectreBots 🖤)",
+        "DECA",
+        "Speech and Debate"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "English",
+        "Hindi",
+        "Spanish"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "Extinction Evasion",
+        "Kinetic Energy Wayfinding Tiles",
+        "Solar Sails"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/carolyn-ge-6b14a6174/",
+      "text": "CS @ Harvard"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yiangela/",
+      "text": "Student at Carnegie Mellon University School of Computer Science"
+    },
+    {
+      "user": "https://www.linkedin.com/in/angela-shu-29494618a/",
+      "text": "Girls Who Code Intern at Amazon Lab126"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ezhu/",
+      "text": "CS70 Reader at UC Berkeley College of Engineering"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shachaf-smith-05b072188/",
+      "text": "Student at Girls Who code"
+    },
+    {
+      "user": "https://www.linkedin.com/in/lahari-vuppaladhadiam/",
+      "text": "Undergraduate at Washington University in St. Louis"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ashley-chang-1093b5154/",
+      "text": "Student at Princeton University"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ashankv/",
+      "text": "SDE Intern at Amazon"
+    },
+    {
+      "user": "https://www.linkedin.com/in/harshitha-arul-murugan-203140142/",
+      "text": "Computer Science Student at UC Santa Cruz | #GHC19"
+    },
+    {
+      "user": "https://www.linkedin.com/in/rashi-jindani-b199925a/",
+      "text": "Chief Operating Officer at Empowerly"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Student Technology Volunteer",
+      "experience": "Microsoft",
+      "description": "Education",
+      "date1": "Sep 2016",
+      "date2": "1 mo"
+    },
+    {
+      "title": "Student Volunteer",
+      "experience": "Washington Hospital Healthcare System",
+      "description": "Health",
+      "date1": "Aug 2016 – Jun 2017",
+      "date2": "11 mos"
+    },
+    {
+      "title": "Local Team Engineer",
+      "experience": "UW Engineers Without Borders",
+      "date1": "Sep 2018 – Present",
+      "date2": "1 yr 2 mos"
+    }
+  ],
+  "profile": {
+    "name": "Savvy Gupta",
+    "headline": "Project Management Intern at Empowerly",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQGlU9v_extipg/profile-displayphoto-shrink_200_200/0?e=1577318400&v=beta&t=aPQ1ZGmNkPV6L6rmfytNxsMWvFUkEo3bR4jbOmb_EIE",
+    "location": "Fremont, California",
+    "connections": "272",
+    "summary": "Passionate Computer Science major eager to create technology to address large-scale problems. Teacher. Skilled in web dev, Java, Python and excited to learn more programming languages. Currently attending the University of Washington, Class of 2022."
+  }
+}

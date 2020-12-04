@@ -1,0 +1,144 @@
+{
+  "profileAlternative": {
+    "name": "Keith Essex",
+    "headline": "Senior Multimedia Developer at Lockheed Martin",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQH1-4zuAXGh-Q/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=YBnV1KdmWYQ87A3fC6vcG75Q0JSRBiawnfEYf9AufwY",
+    "location": "Bristol, Bristol, United Kingdom",
+    "connections": "72",
+    "summary": "Hard working Multimedia Developer with a broad range of skills.\nI have always done something different year on year so I am not a specialist in any one skill. I am a generalist that adopts technologies to fulfill needs requirement."
+  },
+  "aboutAlternative": {
+    "text": "Hard working Multimedia Developer with a broad range of skills.\nI have always done something different year on year so I am not a specialist in any one skill. I am a generalist that adopts technologies to fulfill needs requirement."
+  },
+  "positions": [
+    {
+      "title": "Senior Multimedia Developer and JavaScript Lead",
+      "companyName": "Lockheed Martin",
+      "date1": "Aug 2015 – Present",
+      "date2": "4 yrs 4 mos"
+    },
+    {
+      "title": "Multimedia Developer",
+      "companyName": "GP Strategies Ltd",
+      "location": "Bath, United Kingdom",
+      "date1": "Oct 2013 – Jul 2015",
+      "date2": "1 yr 10 mos"
+    },
+    {
+      "title": "Senior Elearning Production Developer",
+      "companyName": "CM Group Ltd",
+      "location": "Bristol, United Kingdom",
+      "date1": "Nov 2006 – Sep 2013",
+      "date2": "6 yrs 11 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "University of Plymouth",
+      "degree": "BSc Computing",
+      "fieldofstudy": "BSc Computing"
+    }
+  ],
+  "skills": [
+    {
+      "title": "JavaScript",
+      "count": "1"
+    },
+    {
+      "title": "Web Development",
+      "count": "1"
+    },
+    {
+      "title": "Multimedia",
+      "count": "1"
+    },
+    {
+      "title": "E-Learning",
+      "count": "1"
+    },
+    {
+      "title": "Technical Writing"
+    },
+    {
+      "title": "Instructional Design"
+    },
+    {
+      "title": "Video Production"
+    },
+    {
+      "title": "Audio Editing"
+    },
+    {
+      "title": "Cascading Style Sheets (CSS)",
+      "count": "1"
+    },
+    {
+      "title": "Autodesk 3ds Max"
+    },
+    {
+      "title": "Adobe Creative Suite"
+    },
+    {
+      "title": "Node.js"
+    },
+    {
+      "title": "Microsoft Visual Studio Code"
+    },
+    {
+      "title": "Vue.js"
+    },
+    {
+      "title": "Microsoft Office"
+    },
+    {
+      "title": "React.js"
+    },
+    {
+      "title": "LESS (Stylesheet Language)"
+    },
+    {
+      "title": "Camtasia"
+    },
+    {
+      "title": "Multimedia Development",
+      "count": "1"
+    },
+    {
+      "title": "Captivate"
+    },
+    {
+      "title": "Regular Expressions"
+    },
+    {
+      "title": "Virtual Reality (VR)"
+    },
+    {
+      "title": "Articulate Storyline"
+    },
+    {
+      "title": "Emmet"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "1",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/arasburn/",
+        "text": "I have been fortunate enough to work with Keith for three years. Keith is the definition of professionalism, he also has a natural programmer’s brain - an asset I am continually impressed by, and very envious of. Keith has the skills and expertise to work anywhere in the world, on any project, yet Keith is down to earth, well grounded and appears to have found the sweet spot in the work-life balance. Working with Keith was a blessing for me (and perhaps a curse for Keith) as it allowed me to ask a true expert some really terrible programming questions. Keith is an excellent teacher for coding; if he knows you have a passion for code he will patiently guide you through the logic and will help you arrive at the solution yourself. Keith is old school software developer trained, very methodical in his approach. He keeps meticulously clean code and documents everything clearly allowing other coders to seamlessly follow his process. Keith built many applications and systems to improve the efficiency of our team output and to simplify some of the more complex and onerous tasks. Keith was instrumental in the company decision to use Babylon.JS a webGL framework that was used to create some best in class recognition training, this exceeded customer expectation and raised the bar for this type of visual training bringing it into 21st century. I would consider myself very lucky if I found myself working with Keith again, he is the best.\n…\nSee more"
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Keith Essex",
+    "headline": "Senior Multimedia Developer at Lockheed Martin",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQH1-4zuAXGh-Q/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=YBnV1KdmWYQ87A3fC6vcG75Q0JSRBiawnfEYf9AufwY",
+    "location": "Bristol, Bristol, United Kingdom",
+    "connections": "72",
+    "summary": "Hard working Multimedia Developer with a broad range of skills.\nI have always done something different year on year so I am not a specialist in any one skill. I am a generalist that adopts technologies to fulfill needs requirement."
+  }
+}

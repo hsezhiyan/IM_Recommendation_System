@@ -1,0 +1,276 @@
+{
+  "profileAlternative": {
+    "name": "Aishwarya Chandrabose",
+    "headline": "Java Developer",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQG4JjPFKRsfOQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=ZO3YKv5yMIjr0U73jc-bIotCjSuYvyyx-vR1ucH5BY4",
+    "location": "Chennai, Tamil Nadu, India",
+    "connections": "282",
+    "summary": "Working as a Java web Developer in an agile project, experienced in dealing with databases, functionality development, continuous deployment/integration, defect fixes and User Interface designing."
+  },
+  "aboutAlternative": {
+    "text": "Working as a Java web Developer in an agile project, experienced in dealing with databases, functionality development, continuous deployment/integration, defect fixes and User Interface designing."
+  },
+  "positions": [
+    {
+      "title": "Wipro Limited",
+      "location": "Coimbatore Area, India",
+      "description": "Working as Full Stack Developer in an agile project with Java as the major application language. Role is to deal with customers, gather requirements, design analysis with team, developing the solutions for the functionalities, support to quality assurance teams, analyzing and solving the defects and to deploy the code bases in different environments.\n\nClient is a major satellite television provider at US and is one among the top 200 Fortune companies. The project is based on the Work Force Management (WFM) of the Client's resources for fulfilling the In-home services work orders.",
+      "date1": "Mar 2018 – Present",
+      "date2": "1 yr 9 mos",
+      "roles": [
+        {
+          "title": "Java Developer",
+          "date1": "Mar 2018 – Present",
+          "date2": "1 yr 9 mos",
+          "location": "Coimbatore Area, India"
+        },
+        {
+          "title": "Project Engineer Trainee",
+          "date1": "Nov 2017 – Feb 2018",
+          "date2": "4 mos",
+          "location": "Greater Noida"
+        }
+      ]
+    },
+    {
+      "title": "Title\nJava Developer",
+      "location": "Coimbatore Area, India",
+      "description": "Working as Full Stack Developer in an agile project with Java as the major application language. Role is to deal with customers, gather requirements, design analysis with team, developing the solutions for the functionalities, support to quality assurance teams, analyzing and solving the defects and to deploy the code bases in different environments.\n\nClient is a major satellite television provider at US and is one among the top 200 Fortune companies. The project is based on the Work Force Management (WFM) of the Client's resources for fulfilling the In-home services work orders.",
+      "date1": "Mar 2018 – Present",
+      "date2": "1 yr 9 mos",
+      "roles": [
+        {
+          "title": "Java Developer",
+          "date1": "Mar 2018 – Present",
+          "date2": "1 yr 9 mos",
+          "location": "Coimbatore Area, India"
+        }
+      ]
+    },
+    {
+      "title": "Title\nProject Engineer Trainee",
+      "location": "Greater Noida",
+      "description": "Started career at this organization as a fresher and got trained in Core java and Java Platform, Enterprise Edition Skills.\n\nCourse-end Mini Projects: Bank transaction and Electricity Billing management Web-Systems.",
+      "date1": "Nov 2017 – Feb 2018",
+      "date2": "4 mos",
+      "roles": [
+        {
+          "title": "Project Engineer Trainee",
+          "date1": "Nov 2017 – Feb 2018",
+          "date2": "4 mos",
+          "location": "Greater Noida"
+        }
+      ]
+    }
+  ],
+  "educations": [
+    {
+      "title": "Rajalakshmi Engineering College",
+      "degree": "Bachelor of Engineering (BE)",
+      "fieldofstudy": "Computer Science",
+      "date1": "2013",
+      "date2": "2017"
+    },
+    {
+      "title": "SRV Matriculation Higher Secondary School",
+      "degree": "10th and 12th grade",
+      "fieldofstudy": "Mathematics and Science",
+      "date1": "2009",
+      "date2": "2013"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Management",
+      "count": "12"
+    },
+    {
+      "title": "Research",
+      "count": "10"
+    },
+    {
+      "title": "Project Management",
+      "count": "8"
+    },
+    {
+      "title": "Big Data",
+      "count": "2"
+    },
+    {
+      "title": "Data Analysis",
+      "count": "1"
+    },
+    {
+      "title": "HTML",
+      "count": "5"
+    },
+    {
+      "title": "Microsoft Office",
+      "count": "5"
+    },
+    {
+      "title": "C",
+      "count": "4"
+    },
+    {
+      "title": "PowerPoint",
+      "count": "4"
+    },
+    {
+      "title": "Java",
+      "count": "3"
+    },
+    {
+      "title": "Microsoft PowerPoint",
+      "count": "1"
+    },
+    {
+      "title": "Hadoop",
+      "count": "1"
+    },
+    {
+      "title": "Core Java"
+    },
+    {
+      "title": "Microsoft Azure"
+    },
+    {
+      "title": "JavaScript"
+    },
+    {
+      "title": "JavaServer Pages (JSP)"
+    },
+    {
+      "title": "Java Database Connectivity (JDBC)"
+    },
+    {
+      "title": "jQuery"
+    },
+    {
+      "title": "Cascading Style Sheets (CSS)"
+    },
+    {
+      "title": "MySQL"
+    },
+    {
+      "title": "Spring Framework"
+    },
+    {
+      "title": "Spring boot"
+    },
+    {
+      "title": "java"
+    },
+    {
+      "title": "javascript"
+    },
+    {
+      "title": "Html"
+    },
+    {
+      "title": "Public Speaking",
+      "count": "6"
+    },
+    {
+      "title": "Team Building",
+      "count": "4"
+    },
+    {
+      "title": "Leadership",
+      "count": "4"
+    },
+    {
+      "title": "Hive",
+      "count": "1"
+    },
+    {
+      "title": "Content Writing",
+      "count": "3"
+    },
+    {
+      "title": "hadoop development",
+      "count": "1"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "3",
+      "items": [
+        "English",
+        "Hindi",
+        "Tamil"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Rotaract Club of Rajalakshmi Engineering College"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/nithya-isaac/",
+      "text": "Java Lead Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jagathesewaren-kuppuraj-b7608225/",
+      "text": "Senior Software Engineer at Gavs Technologies"
+    },
+    {
+      "user": "https://www.linkedin.com/in/swathi-vishwanathan-a18b02159/",
+      "text": "Senior Java Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/savita-patil/",
+      "text": "Senior Java Developer at Citi"
+    },
+    {
+      "user": "https://www.linkedin.com/in/anusha-baskaran-5b4256b/",
+      "text": "Talent Acquisition at Wipro Limited"
+    },
+    {
+      "user": "https://www.linkedin.com/in/keerthana-soundrapandi-54297877/",
+      "text": "Consultant-QA at VIRTUSA"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ragavi-ramalingam/",
+      "text": "Java Developer at Wirecard"
+    },
+    {
+      "user": "https://www.linkedin.com/in/srideepthi-uppalapati-67971759/",
+      "text": "Java Developer @Virtusa"
+    },
+    {
+      "user": "https://www.linkedin.com/in/niveda-velan-3613137b/",
+      "text": "Open to new opportunities"
+    },
+    {
+      "user": "https://www.linkedin.com/in/janani-velmurugan-b9214521/",
+      "text": "Senior Java Trainer at Revature"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Professional Service Director - Rotaract Club of Rajalakshmi Engineering College",
+      "experience": "Rotaract",
+      "description": "Social Services",
+      "date1": "Aug 2016 – Aug 2017",
+      "date2": "1 yr 1 mo"
+    }
+  ],
+  "profile": {
+    "name": "Aishwarya Chandrabose",
+    "headline": "Java Developer",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQG4JjPFKRsfOQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=ZO3YKv5yMIjr0U73jc-bIotCjSuYvyyx-vR1ucH5BY4",
+    "location": "Chennai, Tamil Nadu, India",
+    "connections": "282",
+    "summary": "Working as a Java web Developer in an agile project, experienced in dealing with databases, functionality development, continuous deployment/integration, defect fixes and User Interface designing."
+  }
+}

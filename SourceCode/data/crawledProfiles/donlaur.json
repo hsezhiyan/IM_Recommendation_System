@@ -1,0 +1,262 @@
+{
+  "profileAlternative": {
+    "name": "Donnie Laur",
+    "headline": "Web Developer - HTML5 and JavaScript for 19 years. Also a freelance Fantasy Sports Developer.",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQHehtsZjh6gRg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=rfnSHWrYoKeyxG6Uibz42LPt0HAU8nYcAl7Se7RIF9Y",
+    "location": "Lawrenceville, Georgia",
+    "connections": "500+",
+    "summary": "Pure and simple ... I am a developer that loves to code and solve problems. I'm Code Blooded with Code and Coffee in my veins. In the day and age of the specialist, I admit that I am a generalist. I program in whatever is needed to do the job. It has been more than often PHP, HTML and JavaScript but I am moving to Python and more JS libraries like React, Angular or even developing on the MEAN stack and trying to develop more in the DevOps movement. My work background is working in smaller teams as I work both in the frontend and backend. I manage servers, talk with non-technical clients and do support and I architect web applications. I work on freelance sports projects and I am learning data science fundamentals.\n\nPROFESSIONAL STRENGTHS\n- PHP + mySQL (17 yrs) as a full-stack LAMP development\n- Python + Flask, AngularJS, ReactJS, Node, MEAN Stack and DevOps are new to me but I'm learning fast.\n- Hand-coding HTML (18 years) with CSS and have advanced to HTML5 and CSS3 with mobile development\n- Strong working knowledge of Photoshop; building design comps into standards compliant HTML/HTML5 with CSS3\n- Ability to manage concurrent projects independently\n- Autonomously meet deadlines\n- Can present technical ideas and strategies to audiences"
+  },
+  "aboutAlternative": {
+    "text": "Pure and simple ... I am a developer that loves to code and solve problems. I'm Code Blooded with Code and Coffee in my veins. In the day and age of the specialist, I admit that I am a generalist. I program in whatever is needed to do the job. It has been more than often PHP, HTML and JavaScript but I am moving to Python and more JS libraries like React, Angular or even developing on the MEAN stack and trying to develop more in the DevOps movement. My work background is working in smaller teams as I work both in the frontend and backend. I manage servers, talk with non-technical clients and do support and I architect web applications. I work on freelance sports projects and I am learning data science fundamentals.\n\nPROFESSIONAL STRENGTHS\n- PHP + mySQL (17 yrs) as a full-stack LAMP development\n- Python + Flask, AngularJS, ReactJS, Node, MEAN Stack and DevOps are new to me but I'm learning fast.\n- Hand-coding HTML (18 years) with CSS and have advanced to HTML5 and CSS3 with mobile development\n- Strong working knowledge of Photoshop; building design comps into standards compliant HTML/HTML5 with CSS3\n- Ability to manage concurrent projects independently\n- Autonomously meet deadlines\n- Can present technical ideas and strategies to audiences"
+  },
+  "positions": [
+    {
+      "title": "JavaScript Developer",
+      "companyName": "Piksel Inc",
+      "location": "Greater Atlanta Area",
+      "description": "HTML5/JS developer using Node and pure JS on the frontend using Gulp and VideoJS and PHP and Wordpress on backend. Live and video on demand video streaming.",
+      "date1": "Jun 2018 – Present",
+      "date2": "1 yr 6 mos"
+    },
+    {
+      "title": "Freelance Fantasy Sports Web Developer",
+      "companyName": "Donnie Laur Web Development",
+      "description": "I have built over 30 sports or fantasy sports websites, blogs, membership applications, tools and data presentation over the last 17 years.",
+      "date1": "Jan 2000 – Present",
+      "date2": "19 yrs 11 mos"
+    },
+    {
+      "title": "Senior Web Application Developer",
+      "companyName": "Visix, Inc.",
+      "location": "Norcross, Georgia",
+      "description": "As Application Developer I work with several high quality designers who provide with me designs to build in either Flash and/or HTML5 with CSS3. Led by project managers who navigate a project idea from quote to a full build. The applications display data in Digital Signage solutions and products and use ActionScript 3 and Flex programming in Flash projects and JavaScript and JQuery in HTML5 projects. These applications are used by thousands of people and the touch screen interactive files run inside the flagship AxisTV software product. Products consume data from JSON or XML. Some data is standalone, others are pulled from databases and from SOAP based API's or RESTful API services. Functionality is often interactive way-finding and mapping of buildings on higher education campuses, healthcare facilities or large businesses.\n…\nsee more",
+      "date1": "Nov 2013 – Jun 2018",
+      "date2": "4 yrs 8 mos"
+    },
+    {
+      "title": "CTO",
+      "companyName": "Draftshot Fantasy Sports",
+      "description": "http://www.draftshot.com - Web Developer and CTO of Draftshot Fantasy Sports, a premium fantasy sports membership website. We do daily fantasy sports for DraftKings and Fanduel and work on projections, player and team profiles and tools and articles for NFL, NBA, MLB, CFL, NASCAR ,and PGA.",
+      "date1": "Jun 2014 – Mar 2017",
+      "date2": "2 yrs 10 mos"
+    },
+    {
+      "title": "Web Developer & Editor, Owner",
+      "companyName": "618 Football and 618 Basketball",
+      "location": "The 618 Area Code",
+      "description": "The 618 Football project started seven years ago as my masters degree thesis but grew into a social media sports website where fans would update sports scores. I send out yearly coach questionnaires to coaches and write pre-season previews. Follow the teams through the season and also shoot and produce game films and highlight reels. I have shot a state championship game from the sideline and changed the way scores are reported on the prep scene.\n\nDeveloped hyper-local regional high school football in the 618 Area Code that has been a personal project for 5 years with the goal of highlighting local high school prep sports. After playing some college football, years later, I realized that prep sport athletes do not get the credit they deserve. This started as my Interactive Masters thesis project to highlight regionalism in sports. The website and facebook campaigns are powered by my custom scoreboard web application software.\n\n• Licensed scoreboard to 3 other websites.\n• Scoreboard updates live scores with AJAX, JSON, and XML to a PHP/mySQL database without refresh on either side.\n• Live video streaming from Du Quoin games.\n• Sell local ad space and Google Adsense ads.\n• Partnership with local radio broadcasters.\n• 2.3m page views and 673K visits in 5 years.\n• Each Friday Nite up to 5K fans visit.\n• Site has 371K long-tail visits from search engines, 165K direct traffic, and 131K from referring sites.\n• I manually enter in 5K team games per year.\n• Pre-season previews and info for 70+ teams.\n\nThe website has lead to other regional websites such as 217 Football, Illinois Pigskin, and 618 Basketball with plans to expand into baseball and softball. All websites run the same custom-built web application using PHP/MySQL to update teams, scores, top players, and coaches. This system also hosts a weekly pick’em contest.\n…\nsee more",
+      "date1": "Jul 2007 – Jul 2015",
+      "date2": "8 yrs 1 mo"
+    },
+    {
+      "title": "Senior Web Developer",
+      "companyName": "Kellen Digital (formerly Kellen Interactive) - Division of Kellen Company",
+      "description": "Kellen Company is the ninth largest PR firm in Atlanta (June - Atlanta Business Chronicle). I work with project managers, creative artist, and clients to develop custom solutions based on specs and wireframes. This has included custom PHP, WordPress or Drupal and HTML based websites. This could be front-end development of PHP/HTML5 sites with jQuery from Photoshop design to a pixel perfect outcomes, at times back-end web applications, or diagnostic solutions for broken sites.\n\nMy role at Kellen changed when I took over as a Primary Developer and Project Manager for our largest non-association client. I was able to handle all tasks and keep everything moving forward so now I manage all incoming tasks and projects in Base Camp and talk directly to several contacts of the client on a day-to-day basis. I seek and assign graphical tasks if needed and report back to the client. This is a large client with multiple contacts managing their own promotions and projects over ten websites with domains. I also work directly with a 3rd-party marketing firm converting monthly Direct Mail pieces from design comps to online Landing Pages.\n\nThe Front-End part of my job takes most of the time and is about 50% of the time spent developing with 10% of the time creating and updating graphic assets for the build outs. Project Management is about 15% and the other 25% of the time is developing web applications for the client including working with third-party vendors. I developed and maintain a web application to complete customer enrollment that includes a back-end area for CSR to process orders. This required increased communication and project management skills to keep projects we are handling on time and to manage communication with other vendors. I have to be very organized and driven to keep everything on time and up to date for these web assets that receive over 4 million visits per year.\n…\nsee more",
+      "date1": "May 2012 – Nov 2013",
+      "date2": "1 yr 7 mos"
+    },
+    {
+      "title": "Contract PHP Developer",
+      "companyName": "Freelance at 1187 Creative",
+      "location": "Carbondale, IL",
+      "description": "Used PHP and HTML to fix functionality on several web projects as well as full-scale WordPress builds.",
+      "date1": "2008 – Dec 2012",
+      "date2": "4 yrs"
+    },
+    {
+      "title": "Digital Media Specialist",
+      "companyName": "Southern Illinois University Carbondale",
+      "location": "Carbondale, Illinois",
+      "description": "As the Digital Media Systems Specialist I pushed the college into the forefront of the Communications field. Most aspects of my job related to using technology such as the social web and digital media to recruit students. I used technology to highlight faculty and student achievements and build microsites to push faculty projects into reality.\n\nDigital media and web technologies include content management systems, social media, web 2.0 features, and instructional and promotional video. As a specialist, I developed strategies and marketing recommendations using data and Analytics to keep the college at the top of the search engine results. I provided expertise and leadership to make sure that emerging technologies were utilized. I was the IT administrator for the college web servers, databases, LAN, and web security.\n\nConceptualized and programmed custom-built web applications over several improvements. The equipment checkout application is a ticket-based student equipment reservation/checkout solution. The application manages the availability of 600 units of equipment to over 20 classes per semester and has access control for operators, users and resources. This system has handled 5K checkout transactions and allows students to reserve equipment in advance. Developing this application has saved the college at least $20K-30K in license fees over commercial options like WebCheckout.\n\nIn times of need I have performed duties such as substitute teaching graduate level courses. Liaison to campus and peer groups by providing experience, knowledge and leadership.\n• Campus tech administrator of University video podcasting iTunes U and Youtube channels.\n• Member of the Social Media Policy Committee & the Social Media Working Group.\n• Given workshops and special tutorials or training sessions on social media, CMS, HTML, podcasting, SEO, our equipment checkout system, and facebook advertising.\n…\nsee more",
+      "date1": "Feb 2004 – May 2012",
+      "date2": "8 yrs 4 mos"
+    },
+    {
+      "title": "Technology Committee Co-Chair and Strategic Planning Committee Member",
+      "companyName": "St Bruno Catholic School",
+      "description": "Helping St Bruno Catholic School with technology issues. Donate and volunteer time when I have available and serve on technology and strategic planning committees.",
+      "date1": "Sep 2010 – Feb 2012",
+      "date2": "1 yr 6 mos"
+    },
+    {
+      "title": "Instructor",
+      "companyName": "John A. Logan College",
+      "description": "Instructor of continuing education course. Full semester of Web Design with HTML.",
+      "date1": "2007 – 2008",
+      "date2": "1 yr"
+    },
+    {
+      "title": "Independent Consultant Web Programmer",
+      "companyName": "Girl Geek Web Designs",
+      "description": "Built proposals and design and build websites as a partnership.",
+      "date1": "2004 – 2006",
+      "date2": "2 yrs"
+    },
+    {
+      "title": "Software Engineer",
+      "companyName": "Dechow Technologies",
+      "location": "Galesburg, IL",
+      "description": "Lead project manager on several database driven web applications including a full medical health card system and independent Health System application. Worked independently on multiple simultaneous web projects and collaborated with outside agencies and organizations.\n\nDeveloped custom portal, Heath electronic record, web application for InnerLink Inc. used by the New York Giants for health screening of retired athletes (in cooperation with the Living Heart Foundation in 2003). Programming would almost exclusively use PHP with mySQL. I also built a sales lead development SaaS application for a St. Louis based marketing agency. I also worked on several Accenture conference events. Some projects would use ASP & MS SQL Server. I would meet with clients and work the project from discussion, to proposal and completion. Most meetings were held remotely.\n…\nsee more",
+      "date1": "Jul 2001 – Feb 2004",
+      "date2": "2 yrs 8 mos"
+    },
+    {
+      "title": "Clerk",
+      "companyName": "Circus Video",
+      "date1": "1997 – 1999",
+      "date2": "2 yrs"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Southern Illinois University, Carbondale",
+      "degree": "Master of Arts (M.A.)",
+      "fieldofstudy": "Interactive Multimedia",
+      "date1": "2000",
+      "date2": "2002"
+    },
+    {
+      "title": "Southern Illinois University, Carbondale",
+      "degree": "BS",
+      "fieldofstudy": "Computer Science",
+      "date1": "1997",
+      "date2": "2000"
+    },
+    {
+      "title": "John A. Logan Junior College",
+      "degree": "AA",
+      "fieldofstudy": "Computers",
+      "date1": "1996",
+      "date2": "1997"
+    },
+    {
+      "title": "Millikin University",
+      "degree": "Transferred",
+      "fieldofstudy": "Biology",
+      "date1": "1993",
+      "date2": "1995"
+    },
+    {
+      "title": "Du Quoin High School",
+      "date1": "1989",
+      "date2": "1993"
+    }
+  ],
+  "skills": [
+    {
+      "title": "WordPress",
+      "count": "50"
+    },
+    {
+      "title": "CMS",
+      "count": "40"
+    },
+    {
+      "title": "PHP",
+      "count": "37"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "7",
+    "receivedCount": "14",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/erik-cornett-8249264b/",
+        "text": "I utilized Donnie to develop a retail web site with tremendous results. He was punctual, efficient, and very informative with completion of the website."
+      },
+      {
+        "user": "https://www.linkedin.com/in/bwilzen/",
+        "text": "Donnie did a great job of outlining goals for me to accomplish throughout the semester, and was always timely in providing feedback and help. He also proved to be a good mentor, taking the time to teach me about Joomla and phpmyadmin, and lending me reading materials. By the end of the semester, I had finished a set of over 20 videos to include in my portfolio. It was a pleasure to work with Donnie!\n…\nSee more"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/joelain/",
+        "text": "Joe Lain is not your average Joe.  He knows what he is doing when it comes to development and Drupal.  He is someone that I would certainly recommend if someone asked for a top senior level Drupal developer.  He knows what he is doing, how to take a design and craft it into a custom Drupal theme and website with all of the proper content types and information needed for the site to succeed.  He is well versed in developing in other languages and whatever is needed for the job.  He has no problem understanding complex shopping cart and payment modules that can be books by themselves.  The most important thing about a developer is if you can ask a question, they understand it, and can offer meaningful advice to solve your problem being going past the basics, and Joe can do that."
+      },
+      {
+        "user": "https://www.linkedin.com/in/stacyjillcalvert/",
+        "text": "I worked with Stacy in several social media committees and groups on campus at SIU.  She has extensive knowledge and experience with social media and how to promote in that area.  Several people after being selected to a University wide committee simply appear and stay quiet or after one meeting do not attend at all.  Stacy was always present and active in the community discussion and had very worthwhile things to say."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "11",
+      "items": [
+        "2017 Communicator Award",
+        "2017 Gold Winner - AVA Digital Awards",
+        "2017 Hermes Creative Award",
+        "2017 Davey Awards",
+        "2016 Platinum Award",
+        "Communicator Award of Distinction - LSU HTML5 Wayfinding",
+        "Communicator Award of Distinction - UNLV Flash Wayfinding",
+        "Hermes Gold Award - design and coding for Louisiana State University’s HTML5 interactive wayfinding project",
+        "Platinum AVA Digital Award - Virginia Commonwealth University Academic Learning Commons",
+        "Platinum AVA Digital Awards - Louisiana State University HTML5 Project (Developer)",
+        "2017"
+      ]
+    },
+    {
+      "count": "4",
+      "items": [
+        "RotoGoat WNBA Daily Fantasy Project",
+        "Daily Fantasy Sports Golf Optimizer for Fanduel and Draftkings",
+        "Draftshot.com",
+        "618 Football"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/molly-wood-78499260/",
+      "text": "Full Stack Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/pamela-anderson-85b98a89/",
+      "text": "Full Stack Software Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sean-mcquaid-292b3588/",
+      "text": "Software Engineer at Chick-fil-A Corporate"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jamieking0/",
+      "text": "Senior Frontend Engineer at Honeywell"
+    },
+    {
+      "user": "https://www.linkedin.com/in/abdus1983/",
+      "text": "Full Stack Web Developer - MERN Stack."
+    },
+    {
+      "user": "https://www.linkedin.com/in/travis-hescox-97420313a/",
+      "text": "Computer Science Student/ App Development and Cyber Security Intern"
+    },
+    {
+      "user": "https://www.linkedin.com/in/guatambu/",
+      "text": "iOS Developer | Swift | UI / UX | CocoaTouch | CoreData | Firebase"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jrewmohamed/",
+      "text": "Big Data Software Developer at State Farm ®"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shante-austin/",
+      "text": "Software Engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/victor-aragon-27b5994a/",
+      "text": "Web Developer"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Donnie Laur",
+    "headline": "Web Developer - HTML5 and JavaScript for 19 years. Also a freelance Fantasy Sports Developer.",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQHehtsZjh6gRg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=rfnSHWrYoKeyxG6Uibz42LPt0HAU8nYcAl7Se7RIF9Y",
+    "location": "Lawrenceville, Georgia",
+    "connections": "500+",
+    "summary": "Pure and simple ... I am a developer that loves to code and solve problems. I'm Code Blooded with Code and Coffee in my veins. In the day and age of the specialist, I admit that I am a generalist. I program in whatever is needed to do the job. It has been more than often PHP, HTML and JavaScript but I am moving to Python and more JS libraries like React, Angular or even developing on the MEAN stack and trying to develop more in the DevOps movement. My work background is working in smaller teams as I work both in the frontend and backend. I manage servers, talk with non-technical clients and do support and I architect web applications. I work on freelance sports projects and I am learning data science fundamentals.\n\nPROFESSIONAL STRENGTHS\n- PHP + mySQL (17 yrs) as a full-stack LAMP development\n- Python + Flask, AngularJS, ReactJS, Node, MEAN Stack and DevOps are new to me but I'm learning fast.\n- Hand-coding HTML (18 years) with CSS and have advanced to HTML5 and CSS3 with mobile development\n- Strong working knowledge of Photoshop; building design comps into standards compliant HTML/HTML5 with CSS3\n- Ability to manage concurrent projects independently\n- Autonomously meet deadlines\n- Can present technical ideas and strategies to audiences"
+  }
+}

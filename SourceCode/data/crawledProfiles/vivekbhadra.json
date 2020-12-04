@@ -1,0 +1,274 @@
+{
+  "profileAlternative": {
+    "name": "Vivek Bhadra",
+    "headline": "Embedded C/C++/C++11/Python/QML/Qt Developer at Raymarine",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQGlpzHhRbalWA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=J_cJZACrlmAAhK8pEXkaDcNfyIe2GEW_rOo_-NxsbCQ",
+    "location": "Chandler’s Ford, Hampshire, United Kingdom",
+    "connections": "500+",
+    "summary": "Areas of expertise\n- C, C++/C++11, STL\n- Qt (5.11), QtQuick (2.6), QML\n- Python 2.x, 3.x\n- Board Bring up\n- Writing Device Drivers from scratch\n- Developing and porting embedded middleware/applications for various hardware platforms.\n- In depth knowledge of RTOS (embedded Linux 2.6, 3.18, 4.4 Kernel, PowerTV, ST OS20, OS21,\nFreeRTOS)\n- Linux Kernel Internals, Linux device driver development.\n- Wireless networking 802.11 networking protocol\n- Excel at providing embedded (software) system analysis and developing end-to-end embedded\nsolutions.\n- Exceptional skills in troubleshooting.\n- Very proficient at using debugging tools for fixing the system related critical issue and providing\nsolutions."
+  },
+  "aboutAlternative": {
+    "text": "Areas of expertise\n- C, C++/C++11, STL\n- Qt (5.11), QtQuick (2.6), QML\n- Python 2.x, 3.x\n- Board Bring up\n- Writing Device Drivers from scratch\n- Developing and porting embedded middleware/applications for various hardware platforms.\n- In depth knowledge of RTOS (embedded Linux 2.6, 3.18, 4.4 Kernel, PowerTV, ST OS20, OS21,\nFreeRTOS)\n- Linux Kernel Internals, Linux device driver development.\n- Wireless networking 802.11 networking protocol\n- Excel at providing embedded (software) system analysis and developing end-to-end embedded\nsolutions.\n- Exceptional skills in troubleshooting.\n- Very proficient at using debugging tools for fixing the system related critical issue and providing\nsolutions."
+  },
+  "positions": [
+    {
+      "title": "Embedded C/C++/C++11/Python/QML Developer",
+      "companyName": "Raymarine",
+      "location": "Fareham",
+      "description": "- Writing high quality C++11, QML code for feature development for Raymarine MFD device running Android operating system. Work involves design, analysis, refactoring, implementation, bug fixing, Squish Testing (Python based automation tool).\n- Porting Raymarine SeaTalk2 (STNG) CAN Bus protocol stack (stack implemented fully in C++11) from FreeRTOS/ThreadX to linux.\n- Enabling Linux CAN driver in the Raymarine customized Kernel. Identifying kernel patches for CAN driver. Writing/porting Yocto recipe for the Linux CAN driver for integrating the driver into the Kernel.\n- Raymarine camera feature development in C/C++. Designing and implementing Automatic Gain Control (AGC) application for Raymarine M300 camera. This typically requires the use of third party SDK (Atlas SDK) for the interface to the PC (for prototyping and testing) and deployment on the Raymarine M300 camera (Intel Apollo Lake processor E3940). The Atlas AGC library runs on the Intel GPU while the hosting software runs on the Intel CPU.\n- Customization and cross-compilation and installation of OpenCL run-time for the Intel Platform in Yocto. This includes working with the source code of Intel Graphics Compiler (IGC), Intel Compute Runtime (ICR), Installable Client Driver ICD (OpenCL interface for application development) in Yocto platform.\n- Expertise in writing bitbake recipe for integrating application/modules into Yocto build.\n- Expertise in developing video frame grabbing, post processing applications using video4Linux driver/OpenCv.\n- Developing module for collecting diagnostic information on IPC exchange between the Intel Atom processor and the STM32 micro-controller. The communication happens over 6 UART channels. The diagnostic module gathers statistics on number of CRC errors, Max frame length per channel, total number of frames per channel etc.\n…\nsee more",
+      "date1": "Jan 2019 – Present",
+      "date2": "11 mos"
+    },
+    {
+      "title": "C++/C++11 Developer at Siemens",
+      "companyName": "Siemens",
+      "location": "Poole, UK",
+      "description": "• Developed and delivered feature called Compound Image for Siemen’s Intelligent Traffic Systems (ITS) Sicore2 Cameras. Feature tested, and Beta deployed and running successfully without any defect. Development based on OpenCv library v 3.4.3 and C++/C++11.\n• Designed and delivered test harness for Compound Image feature. Test harness running in the automated system.\n• Developed and delivered feature called Multi-image Evidence for Siemen’s Intelligent Traffic Systems (ITS) Sicore2 Cameras. Feature tested, and Beta deployed and running successfully without any defect. Development based on OpenCv lib v 3.4.3 library and C++/C++11.\n• Developed new algorithm for searching image frames from the image source which has significantly enhanced the performance with respect to the earlier legacy algorithm.\n• Introduced and implemented exception-based error handling in the Siemens code which has remarkably enhanced the stability of the software stack particularly during software upgrade.\n• Introduced and implemented OpenCv call back registering mechanism for better handling of OpenCv exceptions during runtime.\n• Helped in porting C++98 legacy to C++11 which has helped in code maintainability, better memory management (introduction of Unique and Shared pointers in the legacy code), introduced STL algorithms to get rid of lengthy complicated algorithm in frame searching.\n• Designed and delivered test harness for the Multi-image Evidence feature. Test harness running in the automated system.\n• Designing and developing feature called Video Evidence for Siemen’s Intelligent Traffic Systems (ITS) Sicore2 Cameras. Feature tested, and Beta deployed and running successfully without any defect. Development based on OpenCv library and C++/C++11.\n• Wrote design and test specification documentation for Compound Image and Multi-image Evidence.\n…\nsee more",
+      "date1": "Aug 2018 – Jan 2019",
+      "date2": "6 mos"
+    },
+    {
+      "title": "Embedded Network (Ethernet) developer (C/C++)",
+      "companyName": "IDEAL INDUSTRIES, INC",
+      "location": "stokenchurch",
+      "description": "• Designing and developing Profinet (Ethernet Standard) feature for Ideal NaviTek network meter. \n• Wrote functional spec for Profinet from MRS document.\n• Designed and implemented the control plane for Node discovery, Device Reset, Flashing LED, Setting IP and other properties. Implementation in C++11 with Lenaro ARM cross compiler toolchain. \n• Designing and implementing the Profinet GUI in Qt 4.6 (target)/5.7.0 (desktop).\n• Designed and implemented API for writing the profinet results in xlm format on the disk/USB using QtXMLWriter.\n• Designed and implemented xml file comparison of different profinet test results in Qt/C++ and then rendering the results on the NaviTek network meter screens as per requirements.\n• Designed and developed API for converting the Profinet xml file comparison results to PDF file using PDFlib.\n• Designing and Implementing functionalities like copying files to and from the USB drive.\n…\nsee more",
+      "date1": "Mar 2018 – Aug 2018",
+      "date2": "6 mos"
+    },
+    {
+      "title": "Wifi IoT Engineer, Qualcomm",
+      "companyName": "Qualcomm",
+      "location": "Farnborough",
+      "description": "• Board bring-up for Qualcomm chipset QCA4010, QCA4012, QCA4020, QCA4024 with ThreadX and Linux environment.\n• Developing demo application for customer using QAPI. Resolving all application bugs from customers and internal test team.\n• Debugging Wifi related customer issues and proposing fix\n• Resolving high priority customer issues in a critical time frame.\n…\nsee more",
+      "date1": "Sep 2017 – Mar 2018",
+      "date2": "7 mos"
+    },
+    {
+      "title": "Linux Kernel Engineer",
+      "companyName": "Sondrel Ltd",
+      "location": "Watford, United Kingdom",
+      "description": "- Worked with Buildroot package infrastructure. Creating new buildroot packages for new IP integration.\n- Integrated JPEG encoder in Virtual Platform for Solaris project which includes JPEG Encoder hw bring-up in pre-silicon Solaris SoC (MIPS CPU) base Virtual Platform , BSP changes, writing the platform driver for the JPEG encoder in Virtual Platform.\n- Wrote device driver for Imagination IP “Ring Oscillator” from scratch.\n- General board bring-up activity in Europa project: bring up devices like PWM, PDM, VXE(video encoder), VXD (video decoder) which involves device driver writing/porting, dts/dtsi file porting.\n- Writing driver test framework in python and shell scripts for test automation of VXD and VXE hardware for Europa project.\n…\nsee more",
+      "date1": "Feb 2017 – Aug 2017",
+      "date2": "7 mos"
+    },
+    {
+      "title": "Linux Kernel (Wifi Driver) Engineer",
+      "companyName": "Samsung Cambridge Solution Centre",
+      "location": "Cambridge, United Kingdom",
+      "description": "- Writing PCIE simulation driver for DTE simulator in linux kernel 3.18 (Maxwell project). Independently developing the DTE simulator kernel module in linux kernel space for running the host Wifi device driver code without the PCIE driver layer and the Wifi Firmware. The simulator can also be run in a desktop environment. It reproduces the functionalities of the PCIE device driver providing the interface layer between the host processor and the Wifi FW. The simulator also simulates the FW functionalities and responds back to the host processor for wifi service start/stop, mlme message handling, network scanning, connecting using the wlan0 interface.\n- Writing mlme state machine for parsing mlme messages forwarded by the simulator driver.\n- Identified skb packet handling related defects in the Wifi device driver code using the simulator\n- Identified bugs in the Wifi driver code causing kernel crash using the simulator.\n…\nsee more",
+      "date1": "Nov 2015 – Feb 2017",
+      "date2": "1 yr 4 mos"
+    },
+    {
+      "title": "Software Engineering Consultant, Embedded Systems",
+      "companyName": "Cisco",
+      "location": "Southampton, United Kingdom",
+      "description": "- Embedded System Engineering.\n- Integration of STB firmware components, STB feature integration, developing test applications, supporting customer issues, bug fixing.\n- Worked on features like pay-per-view, Digital SCR, home networking, Software Download etc.\n- STB System integration for providing end-to-end STB solution\n- Knowledge of Continuous Integration (CI) System\n\n…\nsee more",
+      "date1": "Apr 2013 – Oct 2015",
+      "date2": "2 yrs 7 mos"
+    },
+    {
+      "title": "Software Engineering Consultant, Embedded Systems",
+      "companyName": "Alcatel-Lucent, United Kingdom",
+      "location": "Swindon, United Kingdom",
+      "description": "Providing embedded solutions on linux based platform.\n- Redesign and implementation of Linux Kernel Timers based watchdog module (ARM chipset)\n- Timer based polling using tasklets in the bottom half (ARM chipset).\n- Working with DMA driver for ARM chipset.\n- Integration of LED driver for the new hardware variant (Broadcom chipset)\n- Working on fixing existing issues and enhancement in the linux based drivers.\n- Working with yaffs2 file system, upgrading to the latest yaffs2 release, integrating into the existing Kernel 2.6.31 for the product.\n- Working with watchdog timers, high resolution timers, board reset due to watchdog related issues in real time environment.\n- Using tools like Valgrind, Coverity for memory offline error detection.\n…\nsee more",
+      "date1": "Sep 2011 – Mar 2013",
+      "date2": "1 yr 7 mos"
+    },
+    {
+      "title": "Sr. Engineer, Linux Device Drivers",
+      "companyName": "Sky",
+      "location": "Brentwood",
+      "description": "- Linux CDI Driver Development on Broadcom and Samsung Platform.\n- Working to resolve Sky Peripheral device drivers related issues.\n- Writing prototype application in linux as a proof of concept for new Broadcom Drivers.\n- Partly working in Sky Adsmart (Video Splicing) project.\n- Cross platform device driver development and maintenance.\n- Single point engineering contact for PACE in AdSmart Project.\n- Working with performance enhancement in Samsung Platform. Profiling Samsung Drivers with Time Doctor for performance tuning.\n- Memory optimization in Samsung platform as an extension of performance enhancement work package.\n…\nsee more",
+      "date1": "Feb 2011 – Sep 2011",
+      "date2": "8 mos"
+    },
+    {
+      "title": "Chief Engineer",
+      "companyName": "Samsung India Software Center",
+      "location": "Noida Area, India",
+      "description": "- Project Lead of Linux DTV Emulator project as well as individual Contributor to System Platform group for the Linux DTV emulator project. Lead in all design related decisions, architectural issues, performance enhancement for emulator and integration decisions for the project.\n- Machine emulation in linux over ARM processor.\n- Working with different linux kernel versions, customizing linux kernel using patches for ARM realview PBX platform.\n- Emulation of devices like I2C, GPIO, NVRAM etc in realview PBX platform.\n- Emulated devices are being used in Samsung Exe-Dsp(DTV stack) for different application level functionalities.\n…\nsee more",
+      "date1": "Oct 2010 – Feb 2011",
+      "date2": "5 mos"
+    },
+    {
+      "title": "Sr. Technical Lead",
+      "companyName": "itaas India Pvt Ltd",
+      "location": "Noida Area, India",
+      "description": "Leading an engineering team for supporting and enhancing CISCO based IP DVR settop box. Working for continuous software enhancement, providing fixes for issues and new feature development.",
+      "date1": "Jun 2008 – Sep 2010",
+      "date2": "2 yrs 4 mos"
+    },
+    {
+      "title": "Sr. Software Engineer.",
+      "companyName": "Dilithium networks",
+      "location": "Noida Area, India",
+      "description": "- Working with DTG 2000 and DTG 3000 video telephony gateways. - Porting interface layer for TI DSP based transcoders\n- Debugging and fixing current customer issues\n- porting H264-pass-through feature from DTG 2K to DTG 3K, - Enhancement of AVSynchronization mechanism in existing RTSP/SIP call\n- Enhancement of existing RTCP design and fixing current issues etc.\n…\nsee more",
+      "date1": "Aug 2007 – Jun 2008",
+      "date2": "11 mos"
+    },
+    {
+      "title": "Sr. Software Engineer",
+      "companyName": "ST Microelectronics",
+      "location": "Noida Area, India",
+      "description": "Driver Work:\nApplication Developemnt on STM32 processor\nWorking with MMDSP based/ST231 Lx companion Audio\nDriver for the device STB5301,STi5588, STi5589.Resolving customer bugs.\n\nLinux:\n-In depth knowledge/understanding of Linux Kernel 2.6 and above, driver development.\n-Configuring, patching and compiling Linux Kernel using cross compilers.\n-Developing, debugging and maintaining Linux Networking Drivers.\n-Using Sh4-linux-gdb for debugging application.\n\nSerial Communication Protocol: I2C, SPI, I2S.\n\nDriver Integration:\n-Integration of Audio driver, STV0299, STV0399, and STX0288 TUNER drivers into reference tree.\n-Implementing Audio related features like PCM Mixing,\nVolume Control, Stream Change etc. in the application\n-Hands-on experience of using Packet Injector,DTV Modulator,JTAG.\n…\nsee more",
+      "date1": "Sep 2003 – Aug 2007",
+      "date2": "4 yrs"
+    },
+    {
+      "title": "Project Associate",
+      "companyName": "Foundation for Innovation and Technology Transfer",
+      "location": "New Delhi Area, India",
+      "description": "Developing MIDlets for handheld devices; Implementation of CLDC and MIDP for handheld devices in FITT, IIT Delhi (2003). Worked with MOTOROLA 6908 Micro-controller in FITT, IIT Delhi (2003). Experiments on LED Blinking, Remote Temperature Sensing. Worked in project “An Automated Gesture Based Interface for Tele-robotic Application” in IRD, IIT Delhi (2002).",
+      "date1": "Jun 2002 – Sep 2003",
+      "date2": "1 yr 4 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Anglia Ruskin University",
+      "degree": "Master of Business Administration - MBA",
+      "fieldofstudy": "Project Management",
+      "date1": "2016",
+      "date2": "2018"
+    },
+    {
+      "title": "University of Kalyani",
+      "degree": "Bachelor of Technology - BTech",
+      "fieldofstudy": "Computer Science and Technology",
+      "date1": "1998",
+      "date2": "2002"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Embedded Systems",
+      "count": "99+"
+    },
+    {
+      "title": "Device Drivers",
+      "count": "99+"
+    },
+    {
+      "title": "Embedded Software",
+      "count": "92"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "10",
+    "receivedCount": "7",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/nick-sanders-5b301a1/",
+        "text": "Vivek is a very focussed, and capable engineer, and can be relied on to deliver within the agreed timescales. He has proven his capability to think \"outside the box\" and work proactively in tough situations. He is open, and honest, and this together with excellent communication skills allow him to work effectively with internal/external teams, customers and partners. To summarise: Regardless of the issues the project brings Vivek will negociate these and meet the project goals.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/rohit-gupta-20402b2/",
+        "text": "Vivek is a great resource, he is full of energy and enthusiasm."
+      },
+      {
+        "user": "https://www.linkedin.com/in/sharad-jain-pmp%C2%AE-csm%C2%AE-2554449/",
+        "text": "Vivek is a dynamic and hardworking person. he is having strong Acadmic background and very good understanding of Audio sub system in Digital Set-Top Box. He is very helping and nice human being."
+      },
+      {
+        "user": "https://www.linkedin.com/in/kausikmaiti/",
+        "text": "I knew Vivek from his research scholar days at IIT, Delhi. He was a very detailed oriented person and executed his work till the end. His work in STMicroelectronics frequently resulted in our interaction and I found that he did his homework before bringing up any issue. He went beyond his domain to understand things. He was also very open minded and accepted critical remarks in his stride.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/bejoythomas/",
+        "text": "I have worked with Vivek as a part of STB integration team for more than 1 year and during all my interaction with him he has time and again proven to be a very reliable engineer. He has a an insatiable curiosity to thoroughly understand the technology, design logic and implementation details that goes into a embedded product. He is always ready to share this knowledge that he has gained through his own perseverance with colleagues and use the same to resolve critical customer issues at crunch time. I wish him all the very best for his future ...\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/navneet-kumar-a701475/",
+        "text": "I worked with Vivek in ST. He is a result oriented , always ready to take challenges and hard working person. Also comes the great sense of humor. All the best to him for his future assignments"
+      },
+      {
+        "user": "https://www.linkedin.com/in/sujitmishra/",
+        "text": "Vivek is result-oriented, focused, cool-headed and technically sharp and talented engineer; and always delivered his commitments in time with high quality. I wish him all the very best for all his future endeavors."
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/danielle-jackson-1a7b4aa7/",
+        "text": "I have been interacting with Danielle for quite some time now and I think she is very affable person. She is always to the point, precise about any potential opportunity. She is very patient in listening to any concern you may have about the role. She is quite prompt in replying to emails. I have always found her emails regarding any job role to be precise but with adequate information about the role. Overall I have had a very good experience working with her  so far. I would like to thank her for the helps in finding job and wish her all the best for future endeavours."
+      },
+      {
+        "user": "https://www.linkedin.com/in/pmgupta/",
+        "text": "I worked with Pankaj in STMicroelectronics for quite a long time. He was the 'go to' guy in the dept. You can go to him for advice on any technical issue. He is a scholar. He has vast knowledge on embedded systems. Apart from his technical qualities he has exceptional interpersonal and people management skills. It has been a pleasure working with Pankaj and I wish him all the best in his future endeavours."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "3",
+      "items": [
+        "Bengali",
+        "English",
+        "Hindi"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Bachelor of Technology"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Embed Logic Ltd."
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/martin-king-b5214b25/",
+      "text": "Director at AMBERVIEW SYSTEMS LIMITED"
+    },
+    {
+      "user": "https://www.linkedin.com/in/chris-yeomans-026383a/",
+      "text": "Software Development Manager at Raymarine"
+    },
+    {
+      "user": "https://www.linkedin.com/in/bryan-gillingham-56864338/",
+      "text": "Principal test design engineer at Raymarine"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nic-castaldo-a317759a/",
+      "text": "Senior Operations Manager at Arm (Education Division) Global Operations"
+    },
+    {
+      "user": "https://www.linkedin.com/in/james-bokhorst-bokkie-670a27103/",
+      "text": "Senior Recruitment Consultant at SoCode - Electronics / Mechanical Engineering"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sarah-muoneke-a80987187/",
+      "text": "HR Recruitment Assistant at MRC Laboratory of Molecular Biology (LMB)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ventsialav-trayanov-61966a151/",
+      "text": "Student at Anglia Ruskin University"
+    },
+    {
+      "user": "https://www.linkedin.com/in/giusy-sciacca-5686a8150/",
+      "text": "Post Production Agent at Blueberry Creatives Consultants Ltd"
+    },
+    {
+      "user": "https://www.linkedin.com/in/edward-james-grundy-170b0834/",
+      "text": "Cambridge Catalyst: A unique, quality magazine for Cambridge's Business Community."
+    },
+    {
+      "user": "https://www.linkedin.com/in/oosullivan/",
+      "text": "Helping companies explore and expand"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Vivek Bhadra",
+    "headline": "Embedded C/C++/C++11/Python/QML/Qt Developer at Raymarine",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQGlpzHhRbalWA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=J_cJZACrlmAAhK8pEXkaDcNfyIe2GEW_rOo_-NxsbCQ",
+    "location": "Chandler’s Ford, Hampshire, United Kingdom",
+    "connections": "500+",
+    "summary": "Areas of expertise\n- C, C++/C++11, STL\n- Qt (5.11), QtQuick (2.6), QML\n- Python 2.x, 3.x\n- Board Bring up\n- Writing Device Drivers from scratch\n- Developing and porting embedded middleware/applications for various hardware platforms.\n- In depth knowledge of RTOS (embedded Linux 2.6, 3.18, 4.4 Kernel, PowerTV, ST OS20, OS21,\nFreeRTOS)\n- Linux Kernel Internals, Linux device driver development.\n- Wireless networking 802.11 networking protocol\n- Excel at providing embedded (software) system analysis and developing end-to-end embedded\nsolutions.\n- Exceptional skills in troubleshooting.\n- Very proficient at using debugging tools for fixing the system related critical issue and providing\nsolutions."
+  }
+}

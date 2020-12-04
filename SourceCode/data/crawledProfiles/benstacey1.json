@@ -1,0 +1,310 @@
+{
+  "profileAlternative": {
+    "name": "Ben Stacey",
+    "headline": "Enterprise Account Executive at MongoDB",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQHH_82FvcYsaQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=_iIK65UJzvcF-gtnX5M6M52V4_GLZEm3z4KzlVGvhak",
+    "location": "United Kingdom",
+    "connections": "500+",
+    "summary": "I am a highly driven professional, working for MongoDB , the leading next generation database.\n\nWhat drew me to MongoDB was how quickly it was making strides in a rapidly growing market, ripe for disruption, due to the pain caused from legacy systems that are simply no longer able meet modern demands. Our value proposition transforms the way businesses process and harness their data & technology, to maximize competitive advantage & accelerate time to value ,whilst dramatically reducing total cost of ownership vs incumbent vendors across software, hardware and people.\n\nThis, has led to over 50 million downloads, 8500 satisfied customers and MongoDB becoming the only database public company to successfully IPO in the last 20 years.\n\nI enjoy speaking to people who are interested in learning how to harness MongoDB to transform their business - If you'd like to organise an initial chat or cup of coffee, please feel free to contact me via Linkedin.\n\nWhen not at the office, I enjoy nothing more then spending time with friends socializing, cracking jokes and a bit of banter."
+  },
+  "aboutAlternative": {
+    "text": "I am a highly driven professional, working for MongoDB , the leading next generation database.\n\nWhat drew me to MongoDB was how quickly it was making strides in a rapidly growing market, ripe for disruption, due to the pain caused from legacy systems that are simply no longer able meet modern demands. Our value proposition transforms the way businesses process and harness their data & technology, to maximize competitive advantage & accelerate time to value ,whilst dramatically reducing total cost of ownership vs incumbent vendors across software, hardware and people.\n\nThis, has led to over 50 million downloads, 8500 satisfied customers and MongoDB becoming the only database public company to successfully IPO in the last 20 years.\n\nI enjoy speaking to people who are interested in learning how to harness MongoDB to transform their business - If you'd like to organise an initial chat or cup of coffee, please feel free to contact me via Linkedin.\n\nWhen not at the office, I enjoy nothing more then spending time with friends socializing, cracking jokes and a bit of banter."
+  },
+  "positions": [
+    {
+      "title": "Enterprise Account Executive",
+      "companyName": "MongoDB",
+      "location": "London, United Kingdom",
+      "description": "MongoDB is the leading next generation database. Designed for how we build and run applications today, MongoDB empowers organisations to be more agile and scalable. It enables new types of applications, better customer experience, faster time to market and lower costs for organisations of all sizes.\n\nMongoDB is a multi-model, general purpose database. It features:\nDocument data model with dynamic schemas\nFull, flexible index support and rich queries\nAuto-Sharding for horizontal scalability\nBuilt-in replication for high availability\nText search\nAdvanced security\nAggregation Framework and MapReduce\nLarge media storage with GridFS\n\nTry MongoDB: http://www.mongodb.org/\nLearn the Basics for Free: https://education.mongodb.com/\nProduction Deployments: http://www.mongodb.org/about/production-deployments/\nCloud Management Services: https://mms.mongodb.com/\n…\nsee more",
+      "date1": "Jun 2018 – Present",
+      "date2": "1 yr 6 mos"
+    },
+    {
+      "title": "Amazon Web Services",
+      "location": "London, United Kingdom",
+      "description": "Field based role, responsible for Engineering & Pharmaceutical verticals\n\nLaunched in 2006, Amazon Web Services (AWS) began exposing key infrastructure services to businesses in the form of web services -- now widely known as cloud computing. The ultimate benefit of cloud computing, and AWS, is the ability to leverage a new business model and turn capital infrastructure expenses into variable costs. Businesses no longer need to plan and procure servers and other IT resources weeks or months in advance. Using AWS, businesses can take advantage of Amazon's expertise and economies of scale to access resources when their business needs them, delivering results faster and at a lower cost.\n\nToday, Amazon Web Services provides a highly reliable, scalable, low-cost infrastructure platform in the cloud that powers hundreds of thousands of businesses in 190 countries around the world. With data center locations in the U.S., Europe, Singapore, and Japan, customers across all industries are taking advantage of our low cost, elastic, open and flexible, secure platform.\n…\nsee more",
+      "date1": "May 2016 – May 2018",
+      "date2": "2 yrs 1 mo",
+      "roles": [
+        {
+          "title": "Enterprise Account Executive",
+          "date1": "May 2016 – May 2018",
+          "date2": "2 yrs 1 mo",
+          "location": "London, United Kingdom"
+        },
+        {
+          "title": "Named Account Manager (Mid-Market)",
+          "date1": "Apr 2015 – Apr 2016",
+          "date2": "1 yr 1 mo",
+          "location": "London, United Kingdom"
+        }
+      ]
+    },
+    {
+      "title": "Title\nEnterprise Account Executive",
+      "location": "London, United Kingdom",
+      "description": "Field based role, responsible for Engineering & Pharmaceutical verticals\n\nLaunched in 2006, Amazon Web Services (AWS) began exposing key infrastructure services to businesses in the form of web services -- now widely known as cloud computing. The ultimate benefit of cloud computing, and AWS, is the ability to leverage a new business model and turn capital infrastructure expenses into variable costs. Businesses no longer need to plan and procure servers and other IT resources weeks or months in advance. Using AWS, businesses can take advantage of Amazon's expertise and economies of scale to access resources when their business needs them, delivering results faster and at a lower cost.\n\nToday, Amazon Web Services provides a highly reliable, scalable, low-cost infrastructure platform in the cloud that powers hundreds of thousands of businesses in 190 countries around the world. With data center locations in the U.S., Europe, Singapore, and Japan, customers across all industries are taking advantage of our low cost, elastic, open and flexible, secure platform.\n…\nsee more",
+      "date1": "May 2016 – May 2018",
+      "date2": "2 yrs 1 mo",
+      "roles": [
+        {
+          "title": "Enterprise Account Executive",
+          "date1": "May 2016 – May 2018",
+          "date2": "2 yrs 1 mo",
+          "location": "London, United Kingdom"
+        }
+      ]
+    },
+    {
+      "title": "Title\nNamed Account Manager (Mid-Market)",
+      "location": "London, United Kingdom",
+      "description": "Responsible for our Large and XL clients in the UK mid-market territory.\n\nLaunched in 2006, Amazon Web Services (AWS) began exposing key infrastructure services to businesses in the form of web services -- now widely known as cloud computing. The ultimate benefit of cloud computing, and AWS, is the ability to leverage a new business model and turn capital infrastructure expenses into variable costs. Businesses no longer need to plan and procure servers and other IT resources weeks or months in advance. Using AWS, businesses can take advantage of Amazon's expertise and economies of scale to access resources when their business needs them, delivering results faster and at a lower cost.\n\nToday, Amazon Web Services provides a highly reliable, scalable, low-cost infrastructure platform in the cloud that powers hundreds of thousands of businesses in 190 countries around the world. With data center locations in the U.S., Europe, Singapore, and Japan, customers across all industries are taking advantage of our low cost, elastic, open and flexible, secure platform.\n…\nsee more",
+      "date1": "Apr 2015 – Apr 2016",
+      "date2": "1 yr 1 mo",
+      "roles": [
+        {
+          "title": "Named Account Manager (Mid-Market)",
+          "date1": "Apr 2015 – Apr 2016",
+          "date2": "1 yr 1 mo",
+          "location": "London, United Kingdom"
+        }
+      ]
+    },
+    {
+      "title": "Business Development Consultant (Mid-Market)",
+      "companyName": "Rackspace, the #1 managed cloud company",
+      "location": "London, United Kingdom",
+      "description": "Rackspace is the global leader in hybrid cloud and founder of OpenStack, the open-source operating system for the cloud. We have delivered enterprise-level hosting services to businesses of all sizes and kinds around the world since 1998 and have grown to serve more than 205,000 customers. We operate on four continents, and have been featured on Sunday Times' 100 Best Companies to work for.\n\nWe integrate the industry's best technologies for each customer's specific need. We deliver best-fit solutions by leveraging a portfolio of public cloud, private cloud, dedicated servers, and a combination of platforms. Most importantly, it's all backed by our award-winning Fanatical Support.\n…\nsee more",
+      "date1": "Aug 2014 – Mar 2015",
+      "date2": "8 mos"
+    },
+    {
+      "title": "Corporate Sales Executive (ANZ)",
+      "companyName": "Citrix Online",
+      "description": "Every month, more than 17,000 new customers start using Citrix GoTo cloud services to work from anywhere with anyone – using our remote-connectivity and online collaboration solutions to save time, get more done and connect to others around the world. For example:\n\nA small business owner works from home thanks to GoToMyPC.\nA sales executive turns a phone call into an instant video conference using GoToMeeting.\nA trainer cancels her flights and conducts live online training with GoToTraining.\nA marketer generates leads by inviting prospects to online webinars using GoToWebinar.\nAn IT manager updates a remote worker’s computer after hours with GoToAssist.\nA support agent fixes a customer’s PC remotely on the first call using GoToAssist Corporate.\n…\nsee more",
+      "date1": "Jul 2012 – Jun 2014",
+      "date2": "2 yrs"
+    },
+    {
+      "title": "Inside Sales Executive",
+      "companyName": "Go To Market",
+      "description": "• Specialised in lead generation and appointment setting from cold calling and hunting down new leads either from either my own prospecting or lists provided\n\n• Based on the success of hitting expected KPI’s, the business grew by >200%\n\n• Able to double the # of qualified opportunities within the first quarter\n\n• Provided sales solutions in a business to business market primarily based around companies including Oracle, SAP, Microsoft, Polycom, CSA Australia, Go To Market\n\n• Helped directly grow Go To Market through identifying leads which were closed and became direct clients for Go To Market’s lead generation services\n\n• Worked with clients to formulate campaigns with clear measurable objectives and goals\n\n• Performed 60 – 90 calls each shift depending on contact rate / talk time\n\n• Was able to work autonomously and interacted with colleagues in a friendly and positive manner\n…\nsee more",
+      "date1": "Jul 2010 – Jun 2012",
+      "date2": "2 yrs"
+    },
+    {
+      "title": "Sales Assistant",
+      "companyName": "Rebel Sport",
+      "location": "Hornsby",
+      "description": "• Successfully sold goods in a retail setting achieving a minimum of 100% of target every week\n\n• Consistently outstanding performance in providing a knowledgeable, friendly, approachable demeanor in assisting customers to make a purchase using consultative selling techniques\n\n• Specially ordered merchandise to meet customer’s requirements\n\n• Provided both direct and indirect sales assistance to between 15 and 50 customers per shift\n\n• Orchestrated sales strategies within my department, determining price and setting up sales displays to ensure optimum results\n\n• Work effectively as a vital team member, successfully interacting with over 50 members of staff throughout the store\n…\nsee more",
+      "date1": "May 2006 – Dec 2010",
+      "date2": "4 yrs 8 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "University of Technology Sydney",
+      "degree": "bachelor of management in Business",
+      "fieldofstudy": "Events",
+      "date1": "2008",
+      "date2": "2010"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Solution Selling",
+      "count": "41"
+    },
+    {
+      "title": "Cloud Computing",
+      "count": "32"
+    },
+    {
+      "title": "Sales Process",
+      "count": "28"
+    },
+    {
+      "title": "B2B",
+      "count": "21"
+    },
+    {
+      "title": "Sales",
+      "count": "21"
+    },
+    {
+      "title": "Information Technology",
+      "count": "11"
+    },
+    {
+      "title": "Direct Sales",
+      "count": "6"
+    },
+    {
+      "title": "Virtualization",
+      "count": "4"
+    },
+    {
+      "title": "IT Service Management",
+      "count": "2"
+    },
+    {
+      "title": "Music Theory",
+      "count": "2"
+    },
+    {
+      "title": "Business Development",
+      "count": "1"
+    },
+    {
+      "title": "Enterprise Software",
+      "count": "19"
+    },
+    {
+      "title": "SaaS",
+      "count": "19"
+    },
+    {
+      "title": "Salesforce.com",
+      "count": "10"
+    },
+    {
+      "title": "Cold Calling",
+      "count": "26"
+    },
+    {
+      "title": "Training",
+      "count": "1"
+    },
+    {
+      "title": "New Business Development",
+      "count": "16"
+    },
+    {
+      "title": "Networking",
+      "count": "6"
+    },
+    {
+      "title": "Impersonations",
+      "count": "5"
+    },
+    {
+      "title": "Mobility Strategy",
+      "count": "1"
+    },
+    {
+      "title": "Dance Education",
+      "count": "1"
+    },
+    {
+      "title": "Making It Happen",
+      "count": "2"
+    },
+    {
+      "title": "Collaboration"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "7",
+    "receivedCount": "4",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/liamdoconnor/",
+        "text": "I had the pleasure of working alongside and managing Ben for quite some time. Ben was one of the most tenacious salespeople I’ve ever met and possesses a fantastic work ethic. I watched his skillset grow rapidly with a great ability to understand the key challenges his customers are trying to solve and crafting a solution that adds true value. Ben’s greatest strength is his personality; he has an ability to build instant rapport with his customers that moves him from a salesperson to a friend and trusted advisor. I would happily recommend Ben. He would be a valued member of any team with his genuine, honest nature and his transparency will help build instant trust in both the business as well as with his customers.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/joelgibbs/",
+        "text": "Ben Stacey is the most determined, successful and talented sales person i have worked with. He is the ultimate professional and works extremely diligently. His work ethic is second to none however what makes Ben such a great sales advisor is his personality. Ben instantly builds rapport with a customer making the call a conversation not a sales pitch. Ben would be instantly successful in any organisation, and i would highly recommend him!\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/wallaceross/",
+        "text": "I've had the pleasure of working with Ben over the last 12 months. Ben is that guy who is the first person you go to when you want to workshop, troubleshoot or generally need to discuss. He has that ability to help you step back, look at things objectively and seek the best outcome in your business. Ben is a fantastic performer, consistently ranking at the top of his team. He is an absolute valued member of the team, not only in his work ethic but also as a friend. I would be happy to recommend Ben to anyone.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/seamusking/",
+        "text": "Ben has a never ending energy, passion and enthusiasm in practising and succeeding with his sales art! He is one of those people that raises the bar each time, with each of his endeavours and engagements; may they be with a new client, an existing customer, a peer, an internal stakeholder, or whomever he happens to interact with. Ben will continue to do well as he further grows and develops, and I would welcome the opportunity to work with him again and highly recommend his overall capabilities as a solid sales contributor!\n…\nSee more"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/ejc01/",
+        "text": "EJ elevates the recruiting profession and sets the bar for which all other recruiters should strive for. \n\nEJ is passionate about what she does and it shows in her actions through every stage of the recruitment process. Through proper screening, EJ seeks to understand her candidates strengths, what drives them and what opportunity would best match to excel her candidates career.\n\nDuring the interview process, EJ provided fantastic coaching and guidance, all the while, conducting it in a friendly manner that is fun and easy to work with. \n\nLast but not least, the fact EJ wasn’t even representing me directly, yet still took time to help prepare and coach, shows how passionate she is about representing true talent in London. \n\nI wouldn’t hesitate to recommend EJ to anyone who is looking for a recruiting professional, who’s truly vested in their candidates success."
+      },
+      {
+        "user": "https://www.linkedin.com/in/lmcclary/",
+        "text": "Liam is one of the most successful colleagues I have worked with in my career to date. \n\nSoon after joining AWS, Liam quickly identified a substantial opportunity working with some of the UK’s most strategic startup’s. Liam then took it upon himself to not only create and define the role, but based on his success, was able to lead the growth of the segment, into what is now one of the most profitable areas of the business for AWS in the UK. \n\nIt was a pleasure working with Liam and I look forward to following his career, as I've no doubt he will continue his current trajectory. Onwards."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "2",
+      "items": [
+        "English",
+        "Spanglish"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Selling Through Curiosity - Barry Rhein (Stanford University Lecturer)"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "100% Quota"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/tomaltmann/",
+      "text": "Enterprise Account Executive at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/harry-peacock-9b561837/",
+      "text": "Enterprise Account Executive at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/laurence-lyons-6aa1423a/",
+      "text": "Enterprise Account Executive at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/hugh-killingbeck-jones-a9a56538/",
+      "text": "Regional Director at MongoDB- Looking to join a fantastic Enterprise growth team, contact me!"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nickbloomfield/",
+      "text": "Enterprise Account Executive at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/george-olesen-34992a8b/",
+      "text": "Technology and Education"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jeremy-duggan-819473/",
+      "text": "Investor at WhiteHat GB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/perry-forbes-814346b0/",
+      "text": "Enterprise Account Executive at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jennifer-clark-31534940/",
+      "text": "Enterprise Account Executive at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jameskirk07/",
+      "text": "Regional Vice President at MongoDB"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Ben Stacey",
+    "headline": "Enterprise Account Executive at MongoDB",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQHH_82FvcYsaQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=_iIK65UJzvcF-gtnX5M6M52V4_GLZEm3z4KzlVGvhak",
+    "location": "United Kingdom",
+    "connections": "500+",
+    "summary": "I am a highly driven professional, working for MongoDB , the leading next generation database.\n\nWhat drew me to MongoDB was how quickly it was making strides in a rapidly growing market, ripe for disruption, due to the pain caused from legacy systems that are simply no longer able meet modern demands. Our value proposition transforms the way businesses process and harness their data & technology, to maximize competitive advantage & accelerate time to value ,whilst dramatically reducing total cost of ownership vs incumbent vendors across software, hardware and people.\n\nThis, has led to over 50 million downloads, 8500 satisfied customers and MongoDB becoming the only database public company to successfully IPO in the last 20 years.\n\nI enjoy speaking to people who are interested in learning how to harness MongoDB to transform their business - If you'd like to organise an initial chat or cup of coffee, please feel free to contact me via Linkedin.\n\nWhen not at the office, I enjoy nothing more then spending time with friends socializing, cracking jokes and a bit of banter."
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "profileAlternative": {
+    "name": "Ilya Kantor",
+    "headline": "Javascript ninja",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQEnIPfCKkiOBQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=vNW9m86RoCjOXwbhKtSAVMgqRRx9HZGkWQYZ155CFdk",
+    "location": "Moscow, Russian Federation",
+    "connections": "500+",
+    "summary": "Frontend developer and trainer.\n\n* 20+ years overall programming experience (12+ frontend).\n* 15+ years overall teaching experience (8+ frontend dev trainings, the rest is maths)\n* Ph.D in Computer Science, Masters degree in maths.\n\nExtensive consulting and training experience, gratitudes etc. I'm not looking for a job or relocations.\nI apologize for not answering recruitment inquiries."
+  },
+  "aboutAlternative": {
+    "text": "Frontend developer and trainer.\n\n* 20+ years overall programming experience (12+ frontend).\n* 15+ years overall teaching experience (8+ frontend dev trainings, the rest is maths)\n* Ph.D in Computer Science, Masters degree in maths.\n\nExtensive consulting and training experience, gratitudes etc. I'm not looking for a job or relocations.\nI apologize for not answering recruitment inquiries."
+  },
+  "positions": [
+    {
+      "title": "Trainer in javascript and related technologies",
+      "companyName": "javascript.ru",
+      "description": "Teaching people to program in JavaScript.\n1) Corporate and public trainings\n2) Online-seminars\n3) Consulting\nMany positive responses from attendees, including those from leading Russian/Ukrainian IT-companies.\nAuthor of professional seminars and courses.\nAuthor/Developer of https://learn.javascript.ru, the open-source node.js-based modern javascript tutorial.\n…\nsee more",
+      "date1": "Jan 2007 – Present",
+      "date2": "12 yrs 11 mos"
+    },
+    {
+      "title": "Team lead",
+      "companyName": "iTour",
+      "description": "Duties: architecture, interviewing applicants, programming of difficult places, UX planning, team leading.\nProjects:\n1) Informational websites for tourists (some of them top-5 in yandex/google).\n2) A travel-searching system.\n3) A large Russian site for mothers and children, a side project of the same company.\n…\nsee more",
+      "date1": "Jun 2005 – Aug 2011",
+      "date2": "6 yrs 3 mos"
+    },
+    {
+      "title": "Team member",
+      "companyName": "Dojo Toolkit",
+      "description": "Contributed to widgets, deferreds, various parts of the library.",
+      "date1": "2005 – 2006",
+      "date2": "1 yr"
+    },
+    {
+      "title": "Personal web project",
+      "companyName": "algolist.manual.ru",
+      "description": "A student's hobby, http://algolist.manual.ru was once one of best sites in Russian internet about algorithms and data structures. The design looks old, but the information is still of a good quality, algorithms do not age.",
+      "date1": "2001 – 2003",
+      "date2": "2 yrs"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Moscow State Institute of Electronics and Mathematics (Technical University)",
+      "degree": "Ph.D",
+      "fieldofstudy": "Computer Science",
+      "date1": "2005",
+      "date2": "2008"
+    },
+    {
+      "title": "Lomonosov Moscow State University (MSU)",
+      "degree": "Master of Science",
+      "fieldofstudy": "Mathematics",
+      "date1": "1999",
+      "date2": "2004"
+    }
+  ],
+  "skills": [
+    {
+      "title": "JavaScript",
+      "count": "99+"
+    },
+    {
+      "title": "Web Development",
+      "count": "99+"
+    },
+    {
+      "title": "CSS",
+      "count": "99+"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "1",
+    "receivedCount": "0",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/amaxcz/",
+        "text": "Alexey is one of the best Linux admins I had a chance to work with. He's dedicated, knowledgeable, always ready to help in case of an emergency (which never happens when he's in charge). If one wants to have a rock-stable service, Alexey is the right guy to do it. Alexey knows a *lot* about other networking and web-development stuff too. I cannot list all the technologies that Alexey knows here, cause there's a bunch. Really. Alexey a great Project Manager as well. His broad knowledge allows him to really understand what's going on, suggest features, participate in discussions and easily manage the team. If he takes something to do, he does it really good. *Thumbs up*, Alexey! P.S. (in another language) Лёша отличный админ и гуру по пачке технологий. А также клёвый деловой PM, который понимает что и как в проекте. Рекомендую!\n…\nSee more"
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "3",
+      "items": [
+        "Chinese",
+        "English",
+        "Russian"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/styazhkinv/",
+      "text": "Javascript developer looking for new opportunity"
+    },
+    {
+      "user": "https://www.linkedin.com/in/alexander-prisazhny-93b749b3/",
+      "text": "JavaScript Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sergei-kulikov-3bb63b90/",
+      "text": "Javascript fullstack developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/arsen-afaunov-1b1a69112/",
+      "text": "Senior JavaScript Developer at Superjob.ru"
+    },
+    {
+      "user": "https://www.linkedin.com/in/daniil-shvedov-43b51a78/",
+      "text": "Senior Oracle Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/gregserov/",
+      "text": "Executive Search Expert 3k+"
+    },
+    {
+      "user": "https://www.linkedin.com/in/pavel-litvinenko-46917218/",
+      "text": "Digital artist"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ekaterina-khripunova/",
+      "text": "--"
+    },
+    {
+      "user": "https://www.linkedin.com/in/%D0%BF%D0%B0%D0%B2%D0%B5%D0%BB-%D0%BA%D0%BE%D1%82%D0%BE%D0%B2%D1%89%D0%B8%D0%BA%D0%BE%D0%B2/",
+      "text": "BUSINESS MANAGEMENT & DEVELOPMENT EXPERT"
+    },
+    {
+      "user": "https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9-%D0%B1%D0%B5%D0%BB%D0%BE%D0%B2-0b411911b/",
+      "text": "Javascript разработчик"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Ilya Kantor",
+    "headline": "Javascript ninja",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQEnIPfCKkiOBQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=vNW9m86RoCjOXwbhKtSAVMgqRRx9HZGkWQYZ155CFdk",
+    "location": "Moscow, Russian Federation",
+    "connections": "500+",
+    "summary": "Frontend developer and trainer.\n\n* 20+ years overall programming experience (12+ frontend).\n* 15+ years overall teaching experience (8+ frontend dev trainings, the rest is maths)\n* Ph.D in Computer Science, Masters degree in maths.\n\nExtensive consulting and training experience, gratitudes etc. I'm not looking for a job or relocations.\nI apologize for not answering recruitment inquiries."
+  }
+}

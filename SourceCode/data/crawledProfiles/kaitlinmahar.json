@@ -1,0 +1,196 @@
+{
+  "profileAlternative": {
+    "name": "Kaitlin Mahar",
+    "headline": "Software Engineer at MongoDB",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQGqfDEqMjffxA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=-V5oGcYf3befL8UQOO1OdirHXu8N2AkpEmiPpVu9HwE",
+    "location": "New York, New York",
+    "connections": "500+"
+  },
+  "aboutAlternative": {},
+  "positions": [
+    {
+      "title": "Software Engineer",
+      "companyName": "MongoDB",
+      "location": "Greater New York City Area",
+      "description": "I'm a member of the Drivers team. We build the open source libraries that enable users of all programming languages to use MongoDB in their applications.\n\nI am the lead developer of MongoSwift, the official MongoDB Swift driver. The driver provides an idiomatic MongoDB API for Swift applications running on iOS, tvOS, watchOS, MacOS, and Linux, and works with both traditional and embedded MongoDB (i.e. MongoDB Mobile). I wrote the driver from scratch with the oversight of a lead engineer and continue to maintain it and add new features along with two teammates. Please see the GitHub repo and documentation linked below for more information.\n\nI serve as a mentor to more junior engineers and interns, and speak about Swift and MongoDB at technical conferences.\n…\nsee more",
+      "date1": "Aug 2017 – Present",
+      "date2": "2 yrs 4 mos"
+    },
+    {
+      "title": "Teaching Assistant",
+      "companyName": "Massachusetts Institute of Technology",
+      "location": "Greater Boston Area",
+      "description": "I was a teaching assistant for 6.00, Introduction to Computer Science and Programming in Python. My responsibilities included teaching weekly recitations to ~20 students, writing and editing problem sets and exams, supervising office hours, grading, and communicating with students via email and the class Piazza forum.",
+      "date1": "Aug 2016 – May 2017",
+      "date2": "10 mos"
+    },
+    {
+      "title": "Software Engineering Intern",
+      "companyName": "MongoDB",
+      "location": "Greater New York City Area",
+      "description": "I worked with the Cloud Automation team on the automation agent software, used in MongoDB's Atlas, Ops Manager, and Cloud Manager services.\n\nThe automation agent is written primarily in Go. It automates the server configuration for monitored MongoDB deployments and deploying changes when requested.\n\nMy work involved adding additional capabilities to the agent -- for example, the ability to perform a \"rolling restart\" - i.e. restart each server in a cluster in turn with no loss of data availability.\n…\nsee more",
+      "date1": "Jun 2016 – Aug 2016",
+      "date2": "3 mos"
+    },
+    {
+      "title": "Lab Assistant",
+      "companyName": "Massachusetts Institute of Technology",
+      "location": "Greater Boston Area",
+      "description": "I helped to teach various introductory classes as a lab assistant for 6.149 - Introduction to Python, 6.01 - Introduction to Electrical Engineering and Computer Science, and 6.0001/6.0002 - Introduction to Computer Science and Programming in Python.\n\nMy responsibilities included assisting students in lab sections, giving “check-offs” (orally testing students on their mastery of material), proofreading and providing feedback on future assignments, grading problem sets and exams, and working with students in office hours.\n…\nsee more",
+      "date1": "Jan 2014 – May 2016",
+      "date2": "2 yrs 5 mos"
+    },
+    {
+      "title": "Intern Software Analyst and Developer",
+      "companyName": "Intentional Software Corporation",
+      "description": "As a member of the Developer Services team, I created internal web applications to improve developers’ interactions with the company’s continuous integration server. I integrated APIs from Amazon Web Services and Jenkins CI, and implemented a transformation to present detailed test results in an HTML report.",
+      "date1": "Jun 2015 – Aug 2015",
+      "date2": "3 mos"
+    },
+    {
+      "title": "Systems and Analysis Group Intern",
+      "companyName": "MIT Lincoln Laboratory",
+      "location": "Greater Boston Area",
+      "description": "I developed a rapid aircraft infrared signature generation tool in MATLAB to provide signature data to the lab’s production code ~5x times faster than the previous model. I also designed and implemented validation software to verify accuracy of the data produced by the tool.",
+      "date1": "May 2014 – Aug 2014",
+      "date2": "4 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Massachusetts Institute of Technology",
+      "degree": "Master of Engineering (M.Eng.)",
+      "fieldofstudy": "Electrical Engineering and Computer Science",
+      "date1": "2016",
+      "date2": "2017"
+    },
+    {
+      "title": "Massachusetts Institute of Technology",
+      "degree": "Bachelor of Science (S.B.)",
+      "fieldofstudy": "Computer Science and Engineering",
+      "date1": "2012",
+      "date2": "2016"
+    },
+    {
+      "title": "Manlius Pebble Hill School",
+      "degree": "High School Diploma",
+      "date1": "2006",
+      "date2": "2012"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Swift"
+    },
+    {
+      "title": "Golang"
+    },
+    {
+      "title": "Software Development",
+      "count": "1"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "18",
+      "items": [
+        "Advanced Natural Language Processing",
+        "Artificial Intelligence",
+        "Calculus I & II",
+        "Computation Structures",
+        "Computer Systems Engineering",
+        "Computer Systems Security",
+        "Computer and Network Security",
+        "Database Systems",
+        "Design & Analysis of Algorithms",
+        "Differential Equations",
+        "Elements of Software Construction",
+        "Intelligent Multimodal User Interfaces",
+        "Linear Algebra",
+        "Math for Computer Science",
+        "Physics I & II",
+        "Probability and Random Variables",
+        "Software Studio",
+        "User Interface Design and Implementation"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "English",
+        "Latin"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "(demo paper) Squadbox: A Tool To Combat Online Harassment Using Friendsourced Moderation",
+        "Squadbox: A Tool to Combat Email Harassment Using Friendsourced Moderation"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/suganthi-mani-3ba93b55/",
+      "text": "Senior Software Engineer, Distributed Systems at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/annie-black12/",
+      "text": "Software Engineer at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/pia-kochar-a4790b99/",
+      "text": "Software Engineer at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/pavithravetriselvan/",
+      "text": "Software Engineer at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/blake-oler-b9b31181/",
+      "text": "Software Engineer at MongoDB, Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/jalpatrivedi/",
+      "text": "Software Engineer at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shreyas-kalyan-1011b326/",
+      "text": "Software Engineer at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/natalie-tsvetkova-814023a1/",
+      "text": "Software Engineer at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/martin-burdette-73aa8b76/",
+      "text": "Software Engineer at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/devin-hilly-554866ab/",
+      "text": "Software Engineer at MongoDB"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Admissions Interviewer",
+      "experience": "MIT Educational Council",
+      "description": "Education",
+      "date1": "Oct 2017 – Present",
+      "date2": "2 yrs 2 mos"
+    }
+  ],
+  "profile": {
+    "name": "Kaitlin Mahar",
+    "headline": "Software Engineer at MongoDB",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQGqfDEqMjffxA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=-V5oGcYf3befL8UQOO1OdirHXu8N2AkpEmiPpVu9HwE",
+    "location": "New York, New York",
+    "connections": "500+"
+  }
+}

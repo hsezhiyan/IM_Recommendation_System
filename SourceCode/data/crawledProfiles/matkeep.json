@@ -1,0 +1,269 @@
+{
+  "profileAlternative": {
+    "name": "Mat Keep",
+    "headline": "Product Management, Marketing, and Business Development",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQFu5_dmhR1hMQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=M2dzAMGSrGmiGWk2_kosZ2TGc2VODR9TYwkk68FFUW4",
+    "location": "Portsmouth, United Kingdom",
+    "connections": "500+",
+    "summary": "High performing product marketing and management executive with proven track record in developing and delivering high growth product adoption and go-to-market strategies. Focused on building businesses around open source software, cloud computing, and data analytics solutions.\n\nCurrently part of the MongoDB team that led the industry's first successful database vendor IPO in over 25 years – growing the company in 2013 from a 150 person VC-backed start-up generating $25m in revenue, to today's publicly traded company with over 1,000 employees, $150m revenues, expanding at 50%+ per annum.\n\nAwarded Infoworld Top Data Leader and Influencer"
+  },
+  "aboutAlternative": {
+    "text": "High performing product marketing and management executive with proven track record in developing and delivering high growth product adoption and go-to-market strategies. Focused on building businesses around open source software, cloud computing, and data analytics solutions.\n\nCurrently part of the MongoDB team that led the industry's first successful database vendor IPO in over 25 years – growing the company in 2013 from a 150 person VC-backed start-up generating $25m in revenue, to today's publicly traded company with over 1,000 employees, $150m revenues, expanding at 50%+ per annum.\n\nAwarded Infoworld Top Data Leader and Influencer"
+  },
+  "positions": [
+    {
+      "title": "Senior Director, Products and Solutions",
+      "companyName": "MongoDB Inc.",
+      "location": "London, United Kingdom",
+      "description": "The Product Marketing team is responsible for building the vision and executing the strategy that drives adoption and monetization of MongoDB's products and cloud services. Key responsibilities include:\n\n- Market Definition: shape product strategy and go-to-market by identifying emerging, high growth market segments, capturing customer requirements and buyer insights\n\n- Product & Services Launches: develop compelling messages, positioning, and content that addresses developer, business, and C-suite audiences\n\n- Content & Collateral: produce technical product, thought leadership, case study, and sales enablement content that brings the key business and technology elements of our product story to life\n\n- Competitive Analysis: generate intelligence and build tools to support our account teams differentiate MongoDB from alternative vendors\n\n- Voice of the Company: represent MongoDB to customers, partners, analysts, and press, with support for complex sales cycles in Fortune 100 companies\n\n\nAccomplishments\n- Successfully launched 5 major new MongoDB releases and its first managed database cloud service, growing the business to 30,000+ product downloads per day, 100,000 active cloud customers, and commercial relationships with more than 50% of the Fortune 100.\n\n- Made online collateral the number one source of leads into the sales organization by elevating MongoDB messaging and go-to-market beyond product to business solutions (e.g., IoT, Customer 360, Application Modernization, GDPR) and alignment with emerging (e.g., Machine Learning, Microservices, Data Analytics with Apache Spark, Kafka, and Hadoop, Blockchain, and Serverless Computing).\n\n- Built out competitive intelligence resources, enabling account teams to increase win ratio to 90% of all opportunities.\n\n- Defined differentiation between open source and commercial product editions, enabling accelerated monetization of the open source installed base, with revenues consistently growing 50% year on year\n…\nsee more",
+      "date1": "Jul 2013 – Present",
+      "date2": "6 yrs 5 mos"
+    },
+    {
+      "title": "Director, MySQL Product Management and Marketing",
+      "companyName": "Oracle",
+      "location": "Global",
+      "description": "Responsible for the development and execution of software product lifecycle, go-to-market and business development strategies enabling growth in developer communities and monetizing installed base users.\n\nSpecific responsibility for MySQL big data & Hadoop integration, NoSQL APIs, cloud and High Availability (HA) distributed database offerings.\n\nAccomplishments\n− Established MySQL as the leading relational database for Big Data platforms by defining and launching Hadoop integration features and NoSQL APIs. Independent estimates now size MySQL as commanding an 80% share of RDBMS’ integrated with Hadoop;\n\n− Created the MySQL Web Reference Architecture program to support product adoption in new mobile and cloud services;\n\n− Developed a high-volume content marketing engine to accelerate sales-cycles through lead generation and automated qualification;\n\n− Released multiple MySQL solution offerings with open source projects and commercial ISVs, including joint marketing, sales and engineering initiatives.\n…\nsee more",
+      "date1": "May 2008 – Jul 2013",
+      "date2": "5 yrs 3 mos"
+    },
+    {
+      "title": "Sun Microsystems",
+      "location": "Global",
+      "description": "Running the product management and marketing team responsible for Sun's T-Series servers. Achieved $1bn in sales revenue in just 18 months - 5 times faster than Intel's ramp of their new processor architecture, while operating with a fraction of the people and budget",
+      "date1": "Jan 2004 – May 2008",
+      "date2": "4 yrs 5 mos",
+      "roles": [
+        {
+          "title": "Group Manager, T-Series (Niagara) Servers",
+          "date1": "Jan 2004 – May 2008",
+          "date2": "4 yrs 5 mos",
+          "location": "Global"
+        },
+        {
+          "title": "Product Sales",
+          "date1": "2000 – 2004",
+          "date2": "4 yrs",
+          "location": "Global"
+        }
+      ]
+    },
+    {
+      "title": "Title\nGroup Manager, T-Series (Niagara) Servers",
+      "location": "Global",
+      "description": "Running the product management and marketing team responsible for Sun's T-Series servers. Achieved $1bn in sales revenue in just 18 months - 5 times faster than Intel's ramp of their new processor architecture, while operating with a fraction of the people and budget",
+      "date1": "Jan 2004 – May 2008",
+      "date2": "4 yrs 5 mos",
+      "roles": [
+        {
+          "title": "Group Manager, T-Series (Niagara) Servers",
+          "date1": "Jan 2004 – May 2008",
+          "date2": "4 yrs 5 mos",
+          "location": "Global"
+        }
+      ]
+    },
+    {
+      "title": "Title\nProduct Sales",
+      "location": "Global",
+      "description": "Responsible for business development and product sales of Sun's volume server products across multiple channels, along with ISV-driven solutions",
+      "date1": "2000 – 2004",
+      "date2": "4 yrs",
+      "roles": [
+        {
+          "title": "Product Sales",
+          "date1": "2000 – 2004",
+          "date2": "4 yrs",
+          "location": "Global"
+        }
+      ]
+    },
+    {
+      "title": "Product Management, Business Development",
+      "companyName": "Ricoh",
+      "description": "Variety of direct, channel and business development positions promoting and selling digital imaging solutions to enterprise, pre-press and SMB customers.",
+      "date1": "1997 – 2000",
+      "date2": "3 yrs"
+    },
+    {
+      "title": "Sales Engineering, Account Management",
+      "companyName": "Canon Europe Ltd.",
+      "description": "Sales Engineering and then Account Management positions, initially selling indirectly through Canon's dealer network before moving into direct sales with responsibility for Canon's range of document management products and services.",
+      "date1": "Nov 1994 – Nov 1997",
+      "date2": "3 yrs 1 mo"
+    },
+    {
+      "title": "Analyst / Programmer",
+      "companyName": "Tuboscope Pipeline Services",
+      "description": "Joining the company from college as a Junior Programmer / Analyst, my progression lead to Senior Systems Analyst, with responsibility for capturing business requirements with the definition and delivery of technology solutions, through software development and systems analysis & design using SSADM. (Structured Systems Analysis and Design Methodology).",
+      "date1": "Sep 1990 – Nov 1994",
+      "date2": "4 yrs 3 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "University of Portsmouth",
+      "degree": "BSc Computer Science, First",
+      "fieldofstudy": "Computing & Information Systems",
+      "date1": "1987",
+      "date2": "1990"
+    },
+    {
+      "title": "Churchers College",
+      "date1": "1980",
+      "date2": "1987"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Cloud Computing",
+      "count": "75"
+    },
+    {
+      "title": "Product Management",
+      "count": "69"
+    },
+    {
+      "title": "Enterprise Software",
+      "count": "66"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "15",
+    "receivedCount": "12",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/jrobyoung/",
+        "text": "Mat and I worked together as part of the product management and marketing teams at Oracle/MySQL and, most recently, MongoDB. At MySQL, Mat spearheaded projects that positioned Oracle's MySQL as a key player in the Hadoop, Big Data, Cloud and DaaS market spaces. He also led efforts to develop and promote MySQL Cluster for mainstream use across traditional web application use cases. At MongoDB, Mat is working on similar efforts to drive developer adoption and enterprise deployments. In both cases Mat has proven to be a true professional and consummate team player to sales, engineering and others along the way. Mat's blend of business acumen, technical know-how and unique sense of humor make for an easy endorsement as he continues to grow in his career; I am better for having worked with him and I give him my highest recommendation.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/bertrandmatthelie/",
+        "text": "Mat is a brilliant marketeer with strong skills in both product management and product marketing. He has a keen understanding of market trends influencing product evolution and messaging. He is very responsive, hard working, and one can count on him to deliver high quality content, on time."
+      },
+      {
+        "user": "https://www.linkedin.com/in/denissheahan/",
+        "text": "When Matt made the move to mySQL I was very sorry to see him go as he is one of the best Marketing people I have worked with. The move, however, was great for Matt who has really grown in the position. He has a key skill of bringing Engineering and Marketing together to drive product success as he did with mySQL Cluster. He also excels at recognizing market opportunities such as Hadoop and Big Data. His relationship with technical leadership has enabled the pursuit of these opportunities\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/ianmeakin/",
+        "text": "I worked with Mat for several years at Sun and he was an outstanding Product Marketing Manager, very focused on sales revenues as well as the customer experience. Deeply analytical with excellent strategy, planning and execution skills - I very much enjoyed working with Mat and admired his dedication and professionalism."
+      },
+      {
+        "user": "https://www.linkedin.com/in/amorg/",
+        "text": "I've worked closely with Mat since I joined MySQL/Sun Microsystems in Feb 2009 and this continued after the acquisition by Oracle. He has always shown great skills in understanding how our products and solutions line up against the market demands - including for the open source community. Mat always thinks out great marketing strategies and his willingness to plan the events out in advance and his ability to produce great material make it straight-forward for me to add my contribution. Mat is always responsive to both internal and external requests and this results in very effective professional relationships.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/severalnines/",
+        "text": "I have worked closely with Mat for 3 years at MySQL. Mat has a very good understanding of the technology and how to market it. He is very fast, accurate, and methodical in the way he delivers. I am always impressed by his fast turn-around times as well as the quality of his content. I can highly recommend Mat."
+      },
+      {
+        "user": "https://www.linkedin.com/in/harnishbizent/",
+        "text": "Matt was an extremely effective product marketing manager, I would regularly seek his advice on product launches and for feedback to provide the engineering teams on how to evolve the product line that he was responsible for."
+      },
+      {
+        "user": "https://www.linkedin.com/in/michaelavis/",
+        "text": "Mat is a very thorough, thoughtful and pragmatic individual who works very hard to achieve results. He gains credibility through his use of facts and data and is able to asimilate a wealth of information down into a very clear strategy with clear objectives along with an execution plan that he then implements through to the results. In addition to his results orientation, he is focussed on the bigger picture of business goals - i.e. a marketer who undertands the need and understands how to affect the top and bottom lines of the organisation he's in.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/denissheahan/",
+        "text": "Mat is a tireless, product focused, marketing guru that has helped drive our Niagara based technology to the fastest ramp in Sun's history. He combines a wealth of product knowledge with great business sense and is the perfect bridge between our Engineering and Marketing organisations"
+      },
+      {
+        "user": "https://www.linkedin.com/in/robertjharris/",
+        "text": "Matt is a specialist in Sun, whose combination of business acumen, marketing skills and market knowledge is second to none. I had the opportunity of working with Matt when I firstjoined Computacenter driving the Sun Microsystems server business. Matts attention to detail, his knowledge of the Sun roadmaps and superb presentation skills enabled me to make some key business decisions, and foster greater relationships within CC and the customer base. A delight to work with. I would not hesitate in recommending him, or working alongside him in the future. He is a diamond in a Sun Cluster !!\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/caglae/",
+        "text": "Mat is one of the most gifted, brilliant and dedicated colleagues I have ever met. He really understands the products and the marketplace. He is talented in developing successful programs to generate revenue. He never stops generating new ideas - the new benchmarking metric he developed is now widely acknowledged by the industry. Highly recommended, if you ever get a chance to work with Mat.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/paulleonard2/",
+        "text": "I have worked with Mat on many projects over the last 6 years. Matts thorough & professional approach to his role delivers tangible results.Never afraid to stand by his decisions & always contributes over & above what is expected whether working alone or as part of a team."
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/jrobyoung/",
+        "text": "I have been fortunate enough to work with Rob at both MySQL/Oracle and at MongoDB. He has a great track record working in end-user companies in senior dev/DBA roles, and then made the transition to engineering and product management.\r\n\r\nThis experience gives him keen insight into how users perceive products, and what they care about. He can blend that with strong development skills to ensure engineering teams deliver what is needed, when it is needed, and in the timeframe that the market needs it\r\n\r\nRob is a well rounded, experienced product leader, and I'd have no reservation in recommending him"
+      },
+      {
+        "user": "https://www.linkedin.com/in/lauraczajkowski/",
+        "text": "The core goal for any community manager is to bring together disparate groups who share the same set of goals and values, so they can learn, grow and ultimately evangelise a project. Laura is the best practitioner of community marketing I've ever worked with. \r\n\r\nIn her time at MongoDB, she grew community membership by over 4x, driving engagement across the entire EMEA region- which is no small feat considering the geographic and cultural diversity of the region.  \r\n\r\nNot only did the newly energised community provide vital input into how MongoDB's product and services should evolve, it also spread adoption of the technology through organisations of all sizes, helping MongoDB to grow to the most widely used NoSQL database on the planet"
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "1",
+      "items": [
+        "Awarded Infoworld Top Data Leader and Influencer"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/annakarinastiller/",
+      "text": "B2B Marketing | Technology | ABM | Demand Generation | EMEA"
+    },
+    {
+      "user": "https://www.linkedin.com/in/rich-cullen-8090467a/",
+      "text": "Director, Solutions Architecture - EMEA"
+    },
+    {
+      "user": "https://www.linkedin.com/in/amorg/",
+      "text": "Senior Application Engineer at MongoDB, Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/ross-hinchcliffe-399546/",
+      "text": "Start-up focusing on Blockchain, Smart Contracts and Distributed Ledgers"
+    },
+    {
+      "user": "https://www.linkedin.com/in/codepope/",
+      "text": "Now at MongoDB, & still a new adventure where I’m writing code and words and all the things between (mostly coffee)."
+    },
+    {
+      "user": "https://www.linkedin.com/in/sonam-popat-931b0021/",
+      "text": "Demand Generation Specialist at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jack-costley/",
+      "text": "Director, Corporate Communications, MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/karim-chester-89060517/",
+      "text": "Senior Enterprise Account Executive at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sheetalsewsanker/",
+      "text": "Director of Field and Cloud Marketing"
+    },
+    {
+      "user": "https://www.linkedin.com/in/samuelfrancis1/",
+      "text": "Director, Global Demand Generation at MongoDB"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Fundraising",
+      "experience": "Pilgrims Hospices",
+      "description": "Health",
+      "date1": "Dec 2012 – Present",
+      "date2": "7 yrs"
+    },
+    {
+      "title": "Fundraising",
+      "experience": "British Heart Foundation",
+      "description": "Health",
+      "date1": "Apr 2006",
+      "date2": "1 mo"
+    }
+  ],
+  "profile": {
+    "name": "Mat Keep",
+    "headline": "Product Management, Marketing, and Business Development",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQFu5_dmhR1hMQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=M2dzAMGSrGmiGWk2_kosZ2TGc2VODR9TYwkk68FFUW4",
+    "location": "Portsmouth, United Kingdom",
+    "connections": "500+",
+    "summary": "High performing product marketing and management executive with proven track record in developing and delivering high growth product adoption and go-to-market strategies. Focused on building businesses around open source software, cloud computing, and data analytics solutions.\n\nCurrently part of the MongoDB team that led the industry's first successful database vendor IPO in over 25 years – growing the company in 2013 from a 150 person VC-backed start-up generating $25m in revenue, to today's publicly traded company with over 1,000 employees, $150m revenues, expanding at 50%+ per annum.\n\nAwarded Infoworld Top Data Leader and Influencer"
+  }
+}

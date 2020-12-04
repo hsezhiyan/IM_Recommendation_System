@@ -1,0 +1,325 @@
+{
+  "profileAlternative": {
+    "name": "Sumant Tambe",
+    "headline": "Senior Software Engineer and Microsoft MVP",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQGKH89ZrM1m7Q/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=vq3SZutMJyhEPUk5jYhQ9nc5nUNCzWOen2Fe10rhpfU",
+    "location": "Mountain View, California",
+    "connections": "500+",
+    "summary": "Software Developer, Distributed Systems Engineer, Researcher, Microsoft MVP, Blogger, Speaker, Author, and Mentor. Interested in everything from caches to catamorphisms."
+  },
+  "aboutAlternative": {
+    "text": "Software Developer, Distributed Systems Engineer, Researcher, Microsoft MVP, Blogger, Speaker, Author, and Mentor. Interested in everything from caches to catamorphisms."
+  },
+  "positions": [
+    {
+      "title": "Senior Software Engineer",
+      "companyName": "LinkedIn",
+      "location": "Mountain View, CA",
+      "description": "I'm an Apache Kafka developer and I help run LinkedIn's streaming data infrastructure.",
+      "date1": "Jun 2016 – Present",
+      "date2": "3 yrs 6 mos"
+    },
+    {
+      "title": "RTI",
+      "location": "Sunnyvale, CA",
+      "description": "Authored, executed, and transitioned multiple Small Business Innovation Research (SBIR) projects to differentiated products for the company. Lead author and principal investigator (PI) of over $1.7M in SBIR funding from various government agencies.\n\nSoftware development lead for multiple open-source projects including RefleX, Rx4DDS, Generators, DDS-RPC, Request-Reply over DDS, RDMA over DDS, StreamCoCo. Led many product phases including including gap identification, architecture, specification, design, implementation, testing, productization, and evangelization.\n\nLead, developed, and managed a number of DDS standards at the Object Management Group (OMG). Liaison between RTI and Object Management Group (OMG). Chair of the RPC-over-DDS, DDS PSM for Java, and the DDS X-Types task forces at OMG. Contributor in various capacities in other standards including modern C++ API for DDS, Application Instrumentation, TCP/IP mapping for the RTPS protocol, and IDL to C++11 mapping.\n\nDirected work of 3 graduate interns and mentored 2 Ph.D. students. Served on a PhD committee as an industry member. Published multiple research papers in international conferences on systems, programming languages, and C++.\n\nTechnology Experience\n* Distributed real-time systems, Data-centric QoS-enabled publish/subscribe middleware, Data Distribution Service (DDS)\n* Embedded stream processing using Reactive Extensions (Rx) in C#, JavaScript, and C++. Asynchronous programming.\n* Multi-paradigm software design: Object-oriented, generic, functional, and meta-programming in languages that support the style (e.g., modern C++, C#)\n* C++11/14, C#, Java, Lua, JavaScript, and ELK\n* RDMA, InfiniBand\n…\nsee more",
+      "date1": "Mar 2015 – May 2016",
+      "date2": "1 yr 3 mos",
+      "roles": [
+        {
+          "title": "Principal Research Engineer",
+          "date1": "Mar 2015 – May 2016",
+          "date2": "1 yr 3 mos",
+          "location": "Sunnyvale, CA"
+        },
+        {
+          "title": "Senior Software Research Engineer",
+          "date1": "Jul 2012 – Mar 2015",
+          "date2": "2 yrs 9 mos",
+          "location": "Sunnyvale, ca"
+        },
+        {
+          "title": "Software Research Engineer",
+          "date1": "Oct 2010 – Jul 2012",
+          "date2": "1 yr 10 mos",
+          "location": "Sunnyvale, CA"
+        }
+      ]
+    },
+    {
+      "title": "Title\nPrincipal Research Engineer",
+      "location": "Sunnyvale, CA",
+      "description": "Authored, executed, and transitioned multiple Small Business Innovation Research (SBIR) projects to differentiated products for the company. Lead author and principal investigator (PI) of over $1.7M in SBIR funding from various government agencies.\n\nSoftware development lead for multiple open-source projects including RefleX, Rx4DDS, Generators, DDS-RPC, Request-Reply over DDS, RDMA over DDS, StreamCoCo. Led many product phases including including gap identification, architecture, specification, design, implementation, testing, productization, and evangelization.\n\nLead, developed, and managed a number of DDS standards at the Object Management Group (OMG). Liaison between RTI and Object Management Group (OMG). Chair of the RPC-over-DDS, DDS PSM for Java, and the DDS X-Types task forces at OMG. Contributor in various capacities in other standards including modern C++ API for DDS, Application Instrumentation, TCP/IP mapping for the RTPS protocol, and IDL to C++11 mapping.\n\nDirected work of 3 graduate interns and mentored 2 Ph.D. students. Served on a PhD committee as an industry member. Published multiple research papers in international conferences on systems, programming languages, and C++.\n\nTechnology Experience\n* Distributed real-time systems, Data-centric QoS-enabled publish/subscribe middleware, Data Distribution Service (DDS)\n* Embedded stream processing using Reactive Extensions (Rx) in C#, JavaScript, and C++. Asynchronous programming.\n* Multi-paradigm software design: Object-oriented, generic, functional, and meta-programming in languages that support the style (e.g., modern C++, C#)\n* C++11/14, C#, Java, Lua, JavaScript, and ELK\n* RDMA, InfiniBand\n…\nsee more",
+      "date1": "Mar 2015 – May 2016",
+      "date2": "1 yr 3 mos",
+      "roles": [
+        {
+          "title": "Principal Research Engineer",
+          "date1": "Mar 2015 – May 2016",
+          "date2": "1 yr 3 mos",
+          "location": "Sunnyvale, CA"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSenior Software Research Engineer",
+      "location": "Sunnyvale, ca",
+      "description": "Lead author and principal investigator of SBIR projects. Developed the Request/Reply API for DDS in C++ and C#. Led standardization of the Request/Reply API as RPC-over-DDS in OMG.",
+      "date1": "Jul 2012 – Mar 2015",
+      "date2": "2 yrs 9 mos",
+      "roles": [
+        {
+          "title": "Senior Software Research Engineer",
+          "date1": "Jul 2012 – Mar 2015",
+          "date2": "2 yrs 9 mos",
+          "location": "Sunnyvale, ca"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSoftware Research Engineer",
+      "location": "Sunnyvale, CA",
+      "description": "Lead author and principal investigator for SBIR research projects. Contributor in the design and implementation of the Request/Reply communication pattern for RTI Connext Messaging. A technical liaison between RTI and OMG",
+      "date1": "Oct 2010 – Jul 2012",
+      "date2": "1 yr 10 mos",
+      "roles": [
+        {
+          "title": "Software Research Engineer",
+          "date1": "Oct 2010 – Jul 2012",
+          "date2": "1 yr 10 mos",
+          "location": "Sunnyvale, CA"
+        }
+      ]
+    },
+    {
+      "title": "Research Assistant",
+      "companyName": "ISIS, Vanderbilt Univesity",
+      "description": "Graduate student research assistant\n* Advisor: Dr. Aniruddha Gokhale\n* PhD Dissertation: Model-driven Fault-tolerance Provisioning for Component-based Distributed Real-time Embedded Systems\n\nInvented and implemented protocols for fault-tolerance, data consistency, and rapid recovery of component-based distributed real-time systems. Developed CORBA services and model-driven code generators to reduce fault-tolerance and network configuration efforts upto 70% in CORBA Component Model (CCM) systems.\n\nInvented a multi-paradigm design approach for type-safe XML programming in C++. Designed and implemented an efficient, generic XML processing library (LEESA) in C++ that reduces traversal code size upto 87%.\n…\nsee more",
+      "date1": "Aug 2005 – Oct 2010",
+      "date2": "5 yrs 3 mos"
+    },
+    {
+      "title": "Graduate Student Intern",
+      "companyName": "Telcordia Technologies",
+      "description": "Experimented with Amazon Elastic Compute Cloud (EC2) and developed \"Cloud-Launcher\" Java application for automatic deployment and configuration of J2EE multi-tier applications in 4 different topologies. Investigated how to auto-configure service-oriented applications to meet quality-of-service requirements in cloud computing environment.",
+      "date1": "Jun 2009 – Aug 2009",
+      "date2": "3 mos"
+    },
+    {
+      "title": "Part-time Adjunct Faculty",
+      "companyName": "Fisk University",
+      "description": "Instructed \"Introduction to Computer Science II /Lab\" -- a C++ programming course on object-oriented design, STL, exception-safety, and C++ idioms. Lab/project/presentations were based on the \"More C++ Idioms\" wikibook. Students rated the course as excellent in most metrics including subject matter expertise and clarity of communication. Course details: http://bit.ly/sutfisk09",
+      "date1": "Jan 2009 – Apr 2009",
+      "date2": "4 mos"
+    },
+    {
+      "title": "Programming Intern",
+      "companyName": "ATD",
+      "description": "Joined the core infrastructure team and developed fault-tolerance extensions to a low-latency algorithmic trading system using C++, Adaptive Communication Environment (ACE), TCP/IP sockets, Berkeley DB embedded database, and Linux",
+      "date1": "May 2007 – Aug 2007",
+      "date2": "4 mos"
+    },
+    {
+      "title": "Graduate Student Research Assistant",
+      "companyName": "New Mexico State University",
+      "description": "Research assistant under associate professor Dr. Jonathan Cook. Area: Transparent reconfiguration and evolution of shared library-based legacy software.\nDesigned and implemented an efficient, thread-safe C library for run-time introspection, analysis, and evolution of Linux native applications.",
+      "date1": "Aug 2003 – Jul 2005",
+      "date2": "2 yrs"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Vanderbilt University",
+      "degree": "PhD",
+      "fieldofstudy": "Computer Science",
+      "date1": "2005",
+      "date2": "2010"
+    },
+    {
+      "title": "New Mexico State University",
+      "degree": "Master of Science",
+      "fieldofstudy": "Computer Science",
+      "date1": "2003",
+      "date2": "2005"
+    },
+    {
+      "title": "University of Mumbai",
+      "degree": "Bachelor of Engineering",
+      "fieldofstudy": "Information Technology",
+      "date1": "1999",
+      "date2": "2003"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Distributed Systems",
+      "count": "44"
+    },
+    {
+      "title": "C++",
+      "count": "35"
+    },
+    {
+      "title": "Object Oriented Design",
+      "count": "28"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "1",
+    "receivedCount": "7",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/janvanbruaene/",
+        "text": "I had the pleasure of having Sumant as part of the research team at RTI. He wrote several winning SBIR phase 1 and phase 2 research proposals. He was the lead investigator on an important phase 2 research contract, which funded several key features and products. Sumant was excellent in experimenting with new technologies, and demonstrated his expertise with the C++ programming language. Sumant was also a key representative at the OMG, working on standardizing middleware technology. Lastly, I admired Sumant's work beyond the technical work: he worked tirelessly on evangelizing the new technologies, through papers, presentations, webinars, blogposts, and the like.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/paulpazandak/",
+        "text": "I really enjoyed working with Sumant at RTI. He was a key member of RTI’s research team, notably leading industrial research in real-time distributed systems in support of Fermi National Accelerator Lab. As a Principal Investigator I found his ideas to be quite innovative, his proposals well thought out, and he had the technical depth to oversee and execute the research. Sumant is also a highly capable C++ programmer, and he was a strong team player who was invested in the company’s success.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/kyoungho/",
+        "text": "Sumant provided me great guidance on research ideas and implementations while I was working with him on a project of Department of Energy as an intern at RTI. He was always available whenever I needed to discuss with him and provided insightful ideas. He has strong software development skills as well as research capabilities and is very passionate about C++, reactive programming, and stream processing. I also worked with him on a DEBS grand challenge while I was at Vanderbilt and I enjoyed collaborating with him as he was always willing to help us with providing answers and instructions on Connext DDS and distributed systems in general. I believe he is a great addition to any team and he can make successful contributions.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/heidi-schubert-4851181/",
+        "text": "Sumant has a rare combination of deep software development skills and strong research capabilities. In the time I managed him, Sumant took the technical lead on multiple proposals: leading both the technical concept and the writing. Three-fourths of the SBIR proposals he led resulted in an award -- a much higher award rate than typical. After award, Sumant successfully designed and implemented a technical approach to both meet the needs of the funding agency and develop technology to drive the company’s products forward. In addition, Sumant has strong software development skills and has successfully developed code for both research projects and released software.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/francescocaruso/",
+        "text": "Sumant is a knowledgeable and pragmatic researcher. He was able to quickly assemble an effective demonstration of the EC2 cloud to profile different configurations of distributed applications. Working with Sumant is a pleasure and I would highly recommend his work. --Francesco Caruso"
+      },
+      {
+        "user": "https://www.linkedin.com/in/cristian-ferretti-67b3a23/",
+        "text": "It is not common to find depth in C++ and fault tolerant systems knowledge combined with a goal-oriented, pragmatic approach. Sumant excels at both. If you are building a system where performance and fault tolerance are critical, and you are building it in C++, you want Sumant in your team."
+      },
+      {
+        "user": "https://www.linkedin.com/in/lei-qian-81166411/",
+        "text": "Sumant did a great job when he taught in Fisk University when he served as an adjunct professor. He taught very well and the response of students is very positive."
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/markbashian/",
+        "text": "I worked with Mark on my recorded session at CppCon'15. CppCon produced over 100 hrs of content in 5 days. All the sessions recorded by Bash Films were professionally done and audio/video quality is top-notch. Keynote videos were uploaded on YouTube promptly and regular sessions followed quickly after that. My video had some slide synchronization issues as I had a few pre-recorded videos embedded in the presentation. Mark worked directly with me to resolve all the issues and the final production came out absolutely flawless. When Mark's on your side, you don't have to worry about video production."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "11",
+      "items": [
+        "Advanced Algorithms",
+        "Advanced Operating Systems",
+        "Advanced Operating Systems",
+        "Advanced Software Engineering",
+        "Computer Architecture",
+        "Computer Networks",
+        "Model Integrated Computing",
+        "Parallel Programming",
+        "QosS-enabled Middleware",
+        "Software Design",
+        "Software Engineering"
+      ]
+    },
+    {
+      "count": "6",
+      "items": [
+        "RPC over DDS Java bindings",
+        "Rx4DDS",
+        "RPC over DDS C++ bindings",
+        "RTI RefleX",
+        "More C++ Idioms Wikibook",
+        "LEESA: Language for Embedded Query and Travesal"
+      ]
+    },
+    {
+      "count": "4",
+      "items": [
+        "Functional Reactive Stream Processing Using DDS and Rx",
+        "Content-based filtering discovery protocol (CFDP): Scalable and Efficient OMG DDS Discovery Protocol",
+        "Toward Native XML Processing Using Multi-paradigm Design in C++",
+        "Rectifying Orphan Components using Group-Failover in Distributed Real-time and Embedded Systems"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "Microsoft Most Valuable Professional (MVP) in Visual Studio and Development Technologies",
+        "RTI Excellence Award"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/abhishekmendhekar/",
+      "text": "Senior Software Engineer at LinkedIn"
+    },
+    {
+      "user": "https://www.linkedin.com/in/pralhadsapre/",
+      "text": "Software Engineer II at RTI"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yusheng-yang-0a19474/",
+      "text": "Senior Software Engineer at RTI"
+    },
+    {
+      "user": "https://www.linkedin.com/in/gil-cottle/",
+      "text": "Staff Software Engineer at LinkedIn"
+    },
+    {
+      "user": "https://www.linkedin.com/in/gianpiero/",
+      "text": "Principal Software Engineer at RTI"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shusheng-li-529b362/",
+      "text": "Principal Software Engineer Manager at Microsoft"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mayureshrgharat/",
+      "text": "Programs must be written for people to read, and only incidentally for machines to execute..."
+    },
+    {
+      "user": "https://www.linkedin.com/in/yao-lu-6a465426/",
+      "text": "Staff Software Engineer at LinkedIn"
+    },
+    {
+      "user": "https://www.linkedin.com/in/vladam/",
+      "text": "Software Engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/hanh-nguyen-20b6504/",
+      "text": "Test Development Engineer at Cisco Systems"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Ph.D. Committee Member",
+      "experience": "Vanderbilt University",
+      "description": "Education",
+      "date1": "Oct 2014 – Present",
+      "date2": "5 yrs 2 mos"
+    },
+    {
+      "title": "C++Now Program Committee Member",
+      "experience": "C++ Now Conference",
+      "description": "Science and Technology",
+      "date1": "May 2013 – Present",
+      "date2": "6 yrs 7 mos"
+    },
+    {
+      "title": "CppCon Program Committee Member",
+      "experience": "CppCon",
+      "description": "Science and Technology",
+      "date1": "Sep 2014 – Present",
+      "date2": "5 yrs 3 mos"
+    }
+  ],
+  "profile": {
+    "name": "Sumant Tambe",
+    "headline": "Senior Software Engineer and Microsoft MVP",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQGKH89ZrM1m7Q/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=vq3SZutMJyhEPUk5jYhQ9nc5nUNCzWOen2Fe10rhpfU",
+    "location": "Mountain View, California",
+    "connections": "500+",
+    "summary": "Software Developer, Distributed Systems Engineer, Researcher, Microsoft MVP, Blogger, Speaker, Author, and Mentor. Interested in everything from caches to catamorphisms."
+  }
+}

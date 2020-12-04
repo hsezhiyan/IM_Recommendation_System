@@ -1,0 +1,300 @@
+{
+  "profileAlternative": {
+    "name": "Dwayne Washington",
+    "headline": "Full Stack Developer Drupal and Javascript Developer, UX/UI Designer and IA Specialist at Washington Apps Inc.",
+    "location": "Los Angeles, California",
+    "connections": "97"
+  },
+  "aboutAlternative": {},
+  "positions": [
+    {
+      "title": "Independent Full Stack Developer Drupal and Javascript Developer, UX/UI Designer and IA Specialist",
+      "companyName": "Washington Apps Inc.",
+      "location": "Los Angeles",
+      "date1": "Jan 2017 – Present",
+      "date2": "2 yrs 11 mos"
+    },
+    {
+      "title": "UCLA",
+      "location": "Los Angeles",
+      "description": "Promoted to the Student Affairs Information Technology (SAIT) department to work with stakeholders and the development team on a variety of high priority and deadline sensitive projects. Collaborated with an outside consultant to advise on IA. Developed new approaches to complex interface and UX problems, created user-focused interfaces and refactored designs for the UCLA Online Registration and Student Enrollment Management System. Provided consulting for a variety of interdepartmental projects that included the development of UI interfaces for web CMS, mobile web, tablet, and mobile applications (iOS).\n\n…\nsee more",
+      "date1": "May 2012 – Apr 2015",
+      "date2": "3 yrs",
+      "roles": [
+        {
+          "title": "Senior UX/UI Designer and IA Specialist",
+          "date1": "May 2012 – Apr 2015",
+          "date2": "3 yrs",
+          "location": "Los Angeles"
+        },
+        {
+          "title": "Web Designer/UI Specialist",
+          "date1": "Oct 2007 – May 2012",
+          "date2": "4 yrs 8 mos",
+          "location": "Los Angeles"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSenior UX/UI Designer and IA Specialist",
+      "location": "Los Angeles",
+      "description": "Promoted to the Student Affairs Information Technology (SAIT) department to work with stakeholders and the development team on a variety of high priority and deadline sensitive projects. Collaborated with an outside consultant to advise on IA. Developed new approaches to complex interface and UX problems, created user-focused interfaces and refactored designs for the UCLA Online Registration and Student Enrollment Management System. Provided consulting for a variety of interdepartmental projects that included the development of UI interfaces for web CMS, mobile web, tablet, and mobile applications (iOS).\n\n…\nsee more",
+      "date1": "May 2012 – Apr 2015",
+      "date2": "3 yrs",
+      "roles": [
+        {
+          "title": "Senior UX/UI Designer and IA Specialist",
+          "date1": "May 2012 – Apr 2015",
+          "date2": "3 yrs",
+          "location": "Los Angeles"
+        }
+      ]
+    },
+    {
+      "title": "Title\nWeb Designer/UI Specialist",
+      "location": "Los Angeles",
+      "description": "Worked as a web design specialist to refactor and update a variety of fitness and health-based web sites. Promoted to work on Bridges 2 Health (B2H) project, a multilayered recreation management web application. Collaborated with technology professionals from UC Berkeley, UC Davis, UCLA and other outside development vendors.",
+      "date1": "Oct 2007 – May 2012",
+      "date2": "4 yrs 8 mos",
+      "roles": [
+        {
+          "title": "Web Designer/UI Specialist",
+          "date1": "Oct 2007 – May 2012",
+          "date2": "4 yrs 8 mos",
+          "location": "Los Angeles"
+        }
+      ]
+    },
+    {
+      "title": "Lab Director",
+      "companyName": "UCLA",
+      "location": "Los Angeles",
+      "description": "Designed, built and managed a post-production facility that served over 15 faculty and 2,500 students annually for the Office of Instruction Development. This facility provided media production services for students outside of the UCLA Film and Television department. This position required collaboration with faculty to develop media-based curriculum projects as student assignments that included the production and manipulation of various types of media: photos, video and audio.\n…\nsee more",
+      "date1": "Dec 1996 – Jun 2004",
+      "date2": "7 yrs 7 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "University of California, Los Angeles",
+      "degree": "Bachelor's degree",
+      "fieldofstudy": "Economics",
+      "date1": "1982",
+      "date2": "1987"
+    }
+  ],
+  "skills": [
+    {
+      "title": "User Experience",
+      "count": "7"
+    },
+    {
+      "title": "Information Assurance",
+      "count": "7"
+    },
+    {
+      "title": "User-centered Design",
+      "count": "6"
+    },
+    {
+      "title": "Information Architecture",
+      "count": "4"
+    },
+    {
+      "title": "Higher Education",
+      "count": "3"
+    },
+    {
+      "title": "Editing",
+      "count": "2"
+    },
+    {
+      "title": "Strategic Planning",
+      "count": "2"
+    },
+    {
+      "title": "Interaction Design",
+      "count": "2"
+    },
+    {
+      "title": "Human Computer Interaction",
+      "count": "2"
+    },
+    {
+      "title": "UX/UI",
+      "count": "2"
+    },
+    {
+      "title": "Usability Testing",
+      "count": "1"
+    },
+    {
+      "title": "User Experience Design",
+      "count": "1"
+    },
+    {
+      "title": "Event Planning",
+      "count": "1"
+    },
+    {
+      "title": "Nonprofits",
+      "count": "1"
+    },
+    {
+      "title": "Research",
+      "count": "1"
+    },
+    {
+      "title": "Social Media",
+      "count": "1"
+    },
+    {
+      "title": "CSS",
+      "count": "2"
+    },
+    {
+      "title": "Adobe Photoshop",
+      "count": "2"
+    },
+    {
+      "title": "Drupal",
+      "count": "2"
+    },
+    {
+      "title": "React.js",
+      "count": "2"
+    },
+    {
+      "title": "React Native",
+      "count": "2"
+    },
+    {
+      "title": "Microsoft Office",
+      "count": "1"
+    },
+    {
+      "title": "Linux",
+      "count": "1"
+    },
+    {
+      "title": "Node.js",
+      "count": "1"
+    },
+    {
+      "title": "Public Speaking",
+      "count": "5"
+    },
+    {
+      "title": "Community Outreach",
+      "count": "3"
+    },
+    {
+      "title": "Fundraising",
+      "count": "2"
+    },
+    {
+      "title": "Teaching",
+      "count": "2"
+    },
+    {
+      "title": "Training",
+      "count": "2"
+    },
+    {
+      "title": "Customer Service",
+      "count": "1"
+    },
+    {
+      "title": "Coaching",
+      "count": "1"
+    },
+    {
+      "title": "Team Building",
+      "count": "1"
+    },
+    {
+      "title": "Management",
+      "count": "1"
+    },
+    {
+      "title": "OmniGraffle",
+      "count": "3"
+    },
+    {
+      "title": "Sports Performance Enhancement",
+      "count": "2"
+    },
+    {
+      "title": "Heuristic Evaluation",
+      "count": "1"
+    },
+    {
+      "title": "Sketch App",
+      "count": "1"
+    },
+    {
+      "title": "MondoDb",
+      "count": "2"
+    },
+    {
+      "title": "System Ad",
+      "count": "1"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/latha-sadineni-63143a13/",
+      "text": "Looking for opportunities - Results-driven IT leader wth passion for building high-performing teams and delivery."
+    },
+    {
+      "user": "https://www.linkedin.com/in/ramon-quiusky-4632a1115/",
+      "text": "PHP Developer at Internet Brands"
+    },
+    {
+      "user": "https://www.linkedin.com/in/manish-shashi-1774645a/",
+      "text": "Guidewire PC Integration Developer at State Farm ®"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kathi-s-083776163/",
+      "text": "Actively looking for a change as Java Full Stack Developer."
+    },
+    {
+      "user": "https://www.linkedin.com/in/tracysliu/",
+      "text": "Principal Technical Program Manager at Amazon Alexa"
+    },
+    {
+      "user": "https://www.linkedin.com/in/adam-whitley-20797524/",
+      "text": "UI/UX Director at Quest Automated Services"
+    },
+    {
+      "user": "https://www.linkedin.com/in/l-sharma-174393142/",
+      "text": "CPP Developer actively seeking for contract positions."
+    },
+    {
+      "user": "https://www.linkedin.com/in/meisha-sherman/",
+      "text": "Vice President, Global Human Resources at Danaher Corporation | Dental Platform | Operating Company Ormco"
+    },
+    {
+      "user": "https://www.linkedin.com/in/patricia-cage-8126b110/",
+      "text": "Producer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/brian-williams-2314b99/",
+      "text": "Executive Director Los Angeles County Sheriff Civilian Oversight Commission"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Dwayne Washington",
+    "headline": "Full Stack Developer Drupal and Javascript Developer, UX/UI Designer and IA Specialist at Washington Apps Inc.",
+    "location": "Los Angeles, California",
+    "connections": "97"
+  }
+}

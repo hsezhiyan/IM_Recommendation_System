@@ -1,0 +1,166 @@
+{
+  "profileAlternative": {
+    "name": "Jordan Rhodes",
+    "headline": "Full Stack JavaScript Developer at Exzeo",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQFsj1H5d3Vdhw/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=NmWc48yA9Xs4GJxdsyCwoX6zbsBnQjzlGguYir_imT4",
+    "location": "Tampa/St. Petersburg, Florida Area",
+    "connections": "500+",
+    "summary": "Currently on a mission to become a software architect."
+  },
+  "aboutAlternative": {
+    "text": "Currently on a mission to become a software architect."
+  },
+  "positions": [
+    {
+      "title": "Full Stack Javascript Developer",
+      "companyName": "Exzeo",
+      "location": "Tampa, Florida",
+      "description": "Focusing on large scale Enterprise application development.",
+      "date1": "Apr 2018 – Present",
+      "date2": "1 yr 8 mos"
+    },
+    {
+      "title": "Frontend Developer",
+      "companyName": "AgileThought",
+      "location": "Tampa, Fl",
+      "description": "Focusing on Javascript, specifically Node, and React one an extremely large scale, long running, greenfield project. In company that historically used Java and .Net (c#) solutions, I helped establish best practices and development/build infrastructure for future projects that would rely on JavaScript heavily.\n\nHaving been exposed to such a large project - both in terms of team size/ speed of development and scope of the applications - so early in my career, I gained a deep understanding of JavaScript the language and the JavaScript ecosystem.\n\nI quickly became a leader on the project, pushing standards, best practices, knowledge sharing and collaboration, and process improvement.\n…\nsee more",
+      "date1": "Oct 2016 – Apr 2018",
+      "date2": "1 yr 7 mos"
+    },
+    {
+      "title": "Development Technician",
+      "companyName": "Mercury New Media",
+      "location": "Tampa/St. Petersburg, Florida Area",
+      "description": "Worked in a full stack Javascript stack. This included Node.js, React, MongoDB, and the frontend build pipeline in a traditionally .Net software consulting firm. I was given ownership of several projects during my time here.\n\nProvided solutions for clients in a wide range of industries. I was responsible for developing cross platform applications, with a focus on reusable code across web, native, and server side applications.\n\nWorked in an agile workflow including backlog refinement, story grooming / discovery, sprint planning and estimation, sprint retrospectives, and daily stand-ups.\n…\nsee more",
+      "date1": "Jun 2016 – Oct 2016",
+      "date2": "5 mos"
+    },
+    {
+      "title": "Intern Full Stack Web Developer",
+      "companyName": "WeVue",
+      "location": "Tampa/St. Petersburg, Florida Area",
+      "description": "Feature development on a Ruby on Rails web application / api. As an Intern at an early stage startup, I was given many responsibilities including quality assurance, documenting the API for mobile app consumption, test automation using rspec, UI/UX design and development, business strategy, and new feature development on the web app.",
+      "date1": "Feb 2016 – Jun 2016",
+      "date2": "5 mos"
+    },
+    {
+      "title": "Senior Marketing Consultant",
+      "companyName": "Prospect Smarter",
+      "location": "Tampa, FL",
+      "description": "Prospect Smarter provides software and services to automate, measure and maximize marketing and sales effectiveness. We’re a unique fusion of software provider and marketing services firm.\n\nOur team is made up of savvy technologists and fresh creative thinkers who are lead by experienced executives with a proven record of software, marketing and sales success.\n\nSince 1998, we've had the good fortune of working with some of the world's largest and most successful marketing and sales organizations along with hundreds of equally impressive smaller companies.\n\nToday our software and services support thousands of marketing and sales initiatives for over 400 organizations. Our services are used across a broad range of companies and we specialize in business to business initiatives within the software/technology, manufacturing and industrial markets.\n\nSpecialties\ndirect marketing, software development, lead generation, pay-per-performance marketing\n…\nsee more",
+      "date1": "Mar 2014 – Jun 2015",
+      "date2": "1 yr 4 mos"
+    },
+    {
+      "title": "Web Expert",
+      "companyName": "WebStarts",
+      "location": "Tampa/St. Petersburg, Florida Area",
+      "description": "Helped small businesses create, maintain, and monetize their web sites and web presence.",
+      "date1": "Sep 2011 – Mar 2014",
+      "date2": "2 yrs 7 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Florida Institute of Technology",
+      "degree": "Associate of Science (A.S.)",
+      "fieldofstudy": "Electrical Engineering",
+      "date1": "2006",
+      "date2": "2007"
+    }
+  ],
+  "skills": [
+    {
+      "title": "JavaScript",
+      "count": "11"
+    },
+    {
+      "title": "Web Development",
+      "count": "9"
+    },
+    {
+      "title": "Marketing",
+      "count": "5"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "2",
+    "receivedCount": "1",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/johncallaway/",
+        "text": "Jordan is the kind of professional I love working with. He's bright, talented, eager, and passionate about software. His knowledge and expertise with JavaScript makes him invaluable. He's comfortable teaching as well as learning from others. I'm extremely grateful to have benefited from his instruction. Jordan is a fantastic developer, leader, and technologist. If you have the opportunity to work with, for, or hire Jordan then do it now!\n…\nSee more"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/jeffmelendi/",
+        "text": "Being constantly bombarded by recruiters, working with Jeff was a breath of fresh air. From initial contact, to following up, and following through, Jeff was professional and personable.\n\nHe took his time and worked with me to find a great opportunity that was the right fit. When it was time to make a decision, he left me to decided what was best for me. \n\nI now consider Jeff a friend, and will be working with him again in the future."
+      },
+      {
+        "user": "https://www.linkedin.com/in/taylor-wallace-4087363b/",
+        "text": "I worked for Taylor as an intern, looking to break into the software development world. Taylor quickly became more than an employer, mentoring me in various aspects of being a professional. He made himself available for everything from touching up my resume, to giving me insight on how to run a business, and everywhere in between. My career has been on a steep upward trajectory, and I attribute that directly to my time working with Taylor."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "2",
+      "items": [
+        "English",
+        "Spanish"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/glenjantz/",
+      "text": "Full Stack Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sharonclausen/",
+      "text": "QA Analyst at Exzeo"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mmtrujillo/",
+      "text": "Full Stack Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nimaclara/",
+      "text": "Full Stack Java Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/drew-robinson-a54a02174/",
+      "text": "Full Stack Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/itsamemarco/",
+      "text": "Frontend Developer at Exzeo"
+    },
+    {
+      "user": "https://www.linkedin.com/in/lee-hull-59268518/",
+      "text": "DevOps Engineer at Exzeo"
+    },
+    {
+      "user": "https://www.linkedin.com/in/lucywiswall/",
+      "text": "Java Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/cyrille-guemba-3657bb78/",
+      "text": "Full-Stack Software Developer at Gopher Resource"
+    },
+    {
+      "user": "https://www.linkedin.com/in/gcchaconas/",
+      "text": "Partner, Southeast Region Automotive Division & National Harley-Davidson & Powersports Division"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Jordan Rhodes",
+    "headline": "Full Stack JavaScript Developer at Exzeo",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQFsj1H5d3Vdhw/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=NmWc48yA9Xs4GJxdsyCwoX6zbsBnQjzlGguYir_imT4",
+    "location": "Tampa/St. Petersburg, Florida Area",
+    "connections": "500+",
+    "summary": "Currently on a mission to become a software architect."
+  }
+}

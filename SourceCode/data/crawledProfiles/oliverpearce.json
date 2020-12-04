@@ -1,0 +1,169 @@
+{
+  "profileAlternative": {
+    "name": "Oliver Pearce",
+    "headline": "Sr. Director, EMEA Partners at MongoDB, Inc.",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQFT0fR8q76YGA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=wz4K_PPmt_eWQD0SCOu92D1Dusl5jXfK5ngR0YywU_g",
+    "location": "United Kingdom",
+    "connections": "500+",
+    "summary": "19+ years of successful new business development, major account management and partner business development experience (Global Accounts).\nSolutions and customer centric selling - focusing on Enterprise Infrastructure & Cloud Solutions.\nResults driven with a successful record of consistent over-achievement across a broad range of public and enterprise industry sectors.\nExtensive experience of leveraging strategic partners and a large industry relevant personal network.\nCreated, negotiated, and closed complex sales cycles with multiple single order transactions of up to $50m.\nArticulate with a strong ability to deliver compelling business value and technical propositions.\nRelationship builder with CxO, Director, Program Management, Business Leaders, and Technical Architects,\nAbility to navigate, map, understand and leverage complex multi-national organisation.\nAchievements acting as both “sell to & sell through”.\nResults focused mentality with a “can do” attitude.\nExtensively MEDDPICC trained"
+  },
+  "aboutAlternative": {
+    "text": "19+ years of successful new business development, major account management and partner business development experience (Global Accounts).\nSolutions and customer centric selling - focusing on Enterprise Infrastructure & Cloud Solutions.\nResults driven with a successful record of consistent over-achievement across a broad range of public and enterprise industry sectors.\nExtensive experience of leveraging strategic partners and a large industry relevant personal network.\nCreated, negotiated, and closed complex sales cycles with multiple single order transactions of up to $50m.\nArticulate with a strong ability to deliver compelling business value and technical propositions.\nRelationship builder with CxO, Director, Program Management, Business Leaders, and Technical Architects,\nAbility to navigate, map, understand and leverage complex multi-national organisation.\nAchievements acting as both “sell to & sell through”.\nResults focused mentality with a “can do” attitude.\nExtensively MEDDPICC trained"
+  },
+  "positions": [
+    {
+      "title": "Sr. Director, EMEA Partners at MongoDB",
+      "companyName": "MongoDB, Inc.",
+      "location": "London, United Kingdom",
+      "date1": "Sep 2016 – Present",
+      "date2": "3 yrs 3 mos"
+    },
+    {
+      "title": "Global Account Manager - Global Outsourcer & System Integrators",
+      "companyName": "BMC Software",
+      "location": "United Kingdom",
+      "date1": "Sep 2013 – Sep 2016",
+      "date2": "3 yrs 1 mo"
+    },
+    {
+      "title": "Strategic Alliance Manager, covering EMEA, NEMEA, and UK&Ire",
+      "companyName": "VMware",
+      "description": "Working as part of; or directing virtual teams within VMware focusing upon our Strategic Outsourcing & System Integrator partners. This includes the development and execution of focused initiatives transforming and developing partners to drive VMware’s growth and accelerate the wider adoption of our products and solutions. Global and regional activities include the development and execution of application modernization initiatives, business critical application virtualization, and multi-tenancy Cloud environments/platforms (development of the technology stack and cross-regional go-to-market programs).\n\nDaily responsibilities included leading and directing engagements of large pursuits, execution of education & training programs, account management (alignment & engagement), development & support of enterprise license agreements in line with field sales, forecasting & pipeline management/ development, and marketing initiatives - supporting key organizational goals & specific CIP program activities.\n\nOther responsibilities have included; EMEA Alliance Manager for IBM Global Technology Services and leading the NEMEA CIP team. (Partners covered have included; HP Enterprise Services, IBM Global Technology Services, Capgemini, SAP, and Steria).\n…\nsee more",
+      "date1": "Oct 2010 – Sep 2013",
+      "date2": "3 yrs"
+    },
+    {
+      "title": "Senior Account Manager",
+      "companyName": "RES Software",
+      "description": "RES Software opened their UK Office January 2007. I was recruited as the first UK sales focused employee. During the last 3 years I developed the organisation from nominal annual revenues, minimal channel partners, and negligible market awareness to generating in excess of $6m revenue per annum, with an annual pipeline of opportunities in access of $10m. During this period I developed a growing base of certified partners, additional distributors, and an increased market share among the Strategic Outsourcers & System Integrators.\n\nI succeeded in closing sales cycles through partnering with previously uninterested resellers and system integrator. Predominantly this has been achieved through the demonstration of value add, technology strengths, SPIN and solution selling, flexibility in “go-to-market strategy” and sheer determination to win.\n\nPrimary Roles; Enterprise Sales, Pipeline Generation/Qualification, Proposal & Business Case creations, Legal and Contractual requirements/negotiation, Reporting and Forecasting, Presentations, Internal Business Plans, Globally sales & organizational support as required (US, Asia, and EMEA); Office Management; General Administration.\n…\nsee more",
+      "date1": "Jan 2007 – Oct 2010",
+      "date2": "3 yrs 10 mos"
+    },
+    {
+      "title": "Sales",
+      "companyName": "Intercept IT Limited",
+      "description": "Intercept IT Limited is a London based consultancy firm specialising in the design, optimisation and support of complex enterprise infrastructure solutions and hosted services offerings.\n\nPrimary role requirements:\nManagement of all aspects associated to the commercial/sales process.\nConsistently hitting targets in excess of £500K gross margin per annum.\nDevelopment of GTM strategies for new emerging technologies such as server, desktop, and application virtualization.\nEnd to end management of both new enterprise tier business opportunities and existing clients.\nThe creation of multiple business relationships throughout customer and partner organizational hierarchy; including director and technical infrastructure team levels.\nCreation of design briefs relating to specific business challenges/requirements.\nThe design of technical based solutions to fulfill business/technical briefs including high availability solutions based upon industry leading technology (hardware and software).\nIdentifying solution justification through reducing operational costs and highlighting increases in efficiencies.\n…\nsee more",
+      "date1": "Aug 2003 – Dec 2006",
+      "date2": "3 yrs 5 mos"
+    },
+    {
+      "title": "Sales",
+      "companyName": "SSI Computer Services",
+      "date1": "May 2002 – Aug 2003",
+      "date2": "1 yr 4 mos"
+    },
+    {
+      "title": "Sales",
+      "companyName": "Corporate IT Limted",
+      "date1": "Jun 1999 – Mar 2002",
+      "date2": "2 yrs 10 mos"
+    },
+    {
+      "title": "Sales",
+      "companyName": "Byte Computers",
+      "date1": "1997",
+      "date2": "less than a year"
+    }
+  ],
+  "educations": [
+    {
+      "title": "University of East Anglia",
+      "date1": "1997",
+      "date2": "1998"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Cloud Computing",
+      "count": "42"
+    },
+    {
+      "title": "Enterprise Software",
+      "count": "34"
+    },
+    {
+      "title": "Solution Selling",
+      "count": "27"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "2",
+    "receivedCount": "3",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/jbishop1612/",
+        "text": "I worked in partnership with Oliver managing the existing accounts at SSI and we both enjoyed vast personal success. His ambition and drive are beyond question, which combined with an excellent understanding of technology and his natural sales ability ensure he will excel in whatever he puts his mind to."
+      },
+      {
+        "user": "https://www.linkedin.com/in/alanmcintosh/",
+        "text": "I had the real pleasure of working with Oliver as business partner for around 2 years on one of mine and his key accounts. His focus for the customer, knowledge of his products and his sales and realtionship skills make me more than comfortable to recommend him to anyone he may be engaged in business with. Relentless, astute and very personable, I wish him every success and know he will achieve it.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/perrywillis/",
+        "text": ""
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/perlofqvist/",
+        "text": "I have known Per for a number of years and he has always been an extremely professional partner manager. Per consistently demonstrated his abilities to develop and support a channel program, always rolling up his sleeves and getting stuck in. I was glad of the opportunity to work alongside him at RES Software."
+      },
+      {
+        "user": "https://www.linkedin.com/in/alanmcintosh/",
+        "text": "I had the pleasure of working with Alan on an enterprise account for approximately two years. During this period he added significant value to the all the joint sales cycles completed. Being very approachable, astute, fast, and Knowledgable, I would not hesitate to recommend him or work with him again."
+      }
+    ]
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/singhpj/",
+      "text": "Director of Partners at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/hollyengelbrecht/",
+      "text": "Senior Enterprise Account Executive at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/benstacey1/",
+      "text": "Enterprise Account Executive at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/donnd/",
+      "text": "GVP EMEA at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/rich-cullen-8090467a/",
+      "text": "Director, Solutions Architecture - EMEA"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jamesabhall/",
+      "text": "Regional Director UK - Snowflake Computing"
+    },
+    {
+      "user": "https://www.linkedin.com/in/hillgail/",
+      "text": "IT Sales Consultant at Strategic Technologies & Solutions Ltd"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mayankgee/",
+      "text": "Senior Director at Infosys"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jonrangel/",
+      "text": "Practice Director, Global Professional Services at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/eliogambetta/",
+      "text": "Enterprise Sales Manager at GitHub"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Oliver Pearce",
+    "headline": "Sr. Director, EMEA Partners at MongoDB, Inc.",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQFT0fR8q76YGA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=wz4K_PPmt_eWQD0SCOu92D1Dusl5jXfK5ngR0YywU_g",
+    "location": "United Kingdom",
+    "connections": "500+",
+    "summary": "19+ years of successful new business development, major account management and partner business development experience (Global Accounts).\nSolutions and customer centric selling - focusing on Enterprise Infrastructure & Cloud Solutions.\nResults driven with a successful record of consistent over-achievement across a broad range of public and enterprise industry sectors.\nExtensive experience of leveraging strategic partners and a large industry relevant personal network.\nCreated, negotiated, and closed complex sales cycles with multiple single order transactions of up to $50m.\nArticulate with a strong ability to deliver compelling business value and technical propositions.\nRelationship builder with CxO, Director, Program Management, Business Leaders, and Technical Architects,\nAbility to navigate, map, understand and leverage complex multi-national organisation.\nAchievements acting as both “sell to & sell through”.\nResults focused mentality with a “can do” attitude.\nExtensively MEDDPICC trained"
+  }
+}

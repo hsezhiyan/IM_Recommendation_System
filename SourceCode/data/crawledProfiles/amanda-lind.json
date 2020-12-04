@@ -1,0 +1,328 @@
+{
+  "profileAlternative": {
+    "name": "Amanda Lind, Ph.D.",
+    "headline": "Acoustics & EE",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQHE96sSBJWWNw/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=iUWT_3SBf8FCFAQyorpLpS7EWFIjKG6XjL6tVn4gNAc",
+    "location": "Greater New York City Area",
+    "connections": "500+",
+    "summary": "Skilled in Audio Engineering, C++, DSP, Audio Processing, SketchUp/Rhino, and Sound. Electrical Engineering background. Strong research professional with prototyping experience, and a Ph.D. in Acoustics from Penn State University."
+  },
+  "aboutAlternative": {
+    "text": "Skilled in Audio Engineering, C++, DSP, Audio Processing, SketchUp/Rhino, and Sound. Electrical Engineering background. Strong research professional with prototyping experience, and a Ph.D. in Acoustics from Penn State University."
+  },
+  "positions": [
+    {
+      "title": "Cruise",
+      "location": "San Francisco Bay Area / Remote",
+      "date1": "Aug 2019 – Present",
+      "date2": "4 mos",
+      "roles": [
+        {
+          "title": "Staff Engineer - Acoustic Lead",
+          "date1": "Aug 2019 – Present",
+          "date2": "4 mos",
+          "location": "San Francisco Bay Area / Remote"
+        },
+        {
+          "title": "Consultant - Acoustic Sensing & Audio",
+          "date1": "Mar 2019 – Aug 2019",
+          "date2": "6 mos",
+          "location": "San Francisco Bay Area"
+        }
+      ]
+    },
+    {
+      "title": "Title\nStaff Engineer - Acoustic Lead",
+      "location": "San Francisco Bay Area / Remote",
+      "date1": "Aug 2019 – Present",
+      "date2": "4 mos",
+      "roles": [
+        {
+          "title": "Staff Engineer - Acoustic Lead",
+          "date1": "Aug 2019 – Present",
+          "date2": "4 mos",
+          "location": "San Francisco Bay Area / Remote"
+        }
+      ]
+    },
+    {
+      "title": "Title\nConsultant - Acoustic Sensing & Audio",
+      "location": "San Francisco Bay Area",
+      "date1": "Mar 2019 – Aug 2019",
+      "date2": "6 mos",
+      "roles": [
+        {
+          "title": "Consultant - Acoustic Sensing & Audio",
+          "date1": "Mar 2019 – Aug 2019",
+          "date2": "6 mos",
+          "location": "San Francisco Bay Area"
+        }
+      ]
+    },
+    {
+      "title": "Acoustic Sub Consultant",
+      "companyName": "Criterion Acoustics",
+      "location": "Greater New York City Area",
+      "date1": "Jan 2017 – Mar 2019",
+      "date2": "2 yrs 3 mos"
+    },
+    {
+      "title": "Digital Signal Processing & Acoustics R&D",
+      "companyName": "Alpha Audiotronics, Inc.",
+      "location": "Greater New York City Area",
+      "date1": "Jul 2017 – Oct 2017",
+      "date2": "4 mos"
+    },
+    {
+      "title": "Audio & Acoustic Consultant",
+      "companyName": "Zoox Inc.",
+      "location": "Remote",
+      "date1": "May 2017 – Jul 2017",
+      "date2": "3 mos"
+    },
+    {
+      "title": "Graduate Research Assistant, M.S. Acoustics, Ph.D. Acoustics",
+      "companyName": "Pennsylvania State University",
+      "description": "Programmed Computational Acoustics Models in C++.\n\nThe specific model for my PhD Dissertation was a time accurate combined Specular Reflection and Edge Diffraction model for outdoor applications. It was validated, applied to a Sonic Boom modeling problem, and results were compare to experimental data.\n…\nsee more",
+      "date1": "Aug 2007 – 2017",
+      "date2": "10 yrs"
+    },
+    {
+      "title": "Audio / Acoustic Project Lead",
+      "companyName": "Zoox Inc.",
+      "location": "San Francisco Bay Area",
+      "description": "Design and implementation of novel purpose-built multichannel audio systems.",
+      "date1": "Nov 2014 – Oct 2016",
+      "date2": "2 yrs"
+    },
+    {
+      "title": "Consultant | Acoustics",
+      "companyName": "Arup",
+      "location": "San Francisco",
+      "description": "Executed acoustic measurements, some to spec and legally binding, some designed in house to answer questions.\n\nProgrammed spatial audio demonstrations for technical communication purposes.\n\nCommunicated design ideas verbally and through technical drawings and deliverables.\n…\nsee more",
+      "date1": "Apr 2013 – Oct 2014",
+      "date2": "1 yr 7 mos"
+    },
+    {
+      "title": "Chief Audio Engineer",
+      "companyName": "Trade The News",
+      "description": "Cheif Audio Engineer for the Subscription Only Investment Advice Radio Station.\n\nOn call 24 hours, 5.5 days a week. Ensured stability of the system and audio quality.\n\nOutfitted a second station on short notice in preparation for hurricane Sandy.\n\nProvided recommendations, and applied improvements to maximize broadcast quality.\n\nTask based projects included: tuning the processing of talents voices in Ableton Live, building custom electronics, and selection/calibration of VU meters.\n…\nsee more",
+      "date1": "May 2012 – Apr 2013",
+      "date2": "1 yr"
+    },
+    {
+      "title": "Part Time Sound Tech : Stage Hand / Monitor Engineer",
+      "companyName": "(Le) Poisson Rouge",
+      "location": "West Village, New York City",
+      "date1": "Aug 2010 – May 2012",
+      "date2": "1 yr 10 mos"
+    },
+    {
+      "title": "Participant",
+      "companyName": "Summer Concert Hall Research Group",
+      "date1": "2010",
+      "date2": "less than a year"
+    },
+    {
+      "title": "Summer Intern",
+      "companyName": "Artec",
+      "description": "Built geometry for CATT-Acoustic model of the Orlando Performing Arts Center (Dpac) from CAD drawings, selected parameters for the model, and ran simulations\n\nToured NJPAC, Lincoln Center venues",
+      "date1": "2008",
+      "date2": "less than a year"
+    },
+    {
+      "title": "Multimedia Specialist",
+      "companyName": "University of Miami",
+      "description": "Created multimedia web content for the College of Engineering\n\nDJ-ed a weekly radio show for WVUM",
+      "date1": "Aug 2005 – Jul 2007",
+      "date2": "2 yrs"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Penn State University",
+      "degree": "Ph.D.",
+      "fieldofstudy": "Acoustics",
+      "date1": "2012",
+      "date2": "2017"
+    },
+    {
+      "title": "Penn State University",
+      "degree": "M.S.",
+      "fieldofstudy": "Acoustics",
+      "date1": "2007",
+      "date2": "2011"
+    },
+    {
+      "title": "University of Miami",
+      "degree": "B.S.",
+      "fieldofstudy": "Electrical Engineering, Audio Emphasis (EAN)",
+      "date1": "2002",
+      "date2": "2007"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Acoustics",
+      "count": "27"
+    },
+    {
+      "title": "Sound",
+      "count": "22"
+    },
+    {
+      "title": "Simulations",
+      "count": "15"
+    },
+    {
+      "title": "Signal Processing",
+      "count": "14"
+    },
+    {
+      "title": "Audio Engineering",
+      "count": "4"
+    },
+    {
+      "title": "Electronics",
+      "count": "4"
+    },
+    {
+      "title": "Physics",
+      "count": "3"
+    },
+    {
+      "title": "Modeling",
+      "count": "3"
+    },
+    {
+      "title": "Digital Signal Processors",
+      "count": "2"
+    },
+    {
+      "title": "Multimedia",
+      "count": "2"
+    },
+    {
+      "title": "Research",
+      "count": "1"
+    },
+    {
+      "title": "Data Analysis",
+      "count": "1"
+    },
+    {
+      "title": "Matlab",
+      "count": "10"
+    },
+    {
+      "title": "LaTeX",
+      "count": "4"
+    },
+    {
+      "title": "C++",
+      "count": "4"
+    },
+    {
+      "title": "Microsoft Office",
+      "count": "2"
+    },
+    {
+      "title": "Mathematica",
+      "count": "1"
+    },
+    {
+      "title": "Photoshop",
+      "count": "1"
+    },
+    {
+      "title": "Adobe Creative Suite",
+      "count": "1"
+    },
+    {
+      "title": "Digital Signal Processing",
+      "count": "4"
+    },
+    {
+      "title": "Audio Processing",
+      "count": "3"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "2",
+      "items": [
+        "Method for robotic vehicle communication with an external environment via acoustic beam forming",
+        "Robotic vehicle active safety systems and methods"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Spanish"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Acoustical Society of America"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/anneevans/",
+      "text": "Global Talent Acquisition Leader"
+    },
+    {
+      "user": "https://www.linkedin.com/in/meemaesguerra/",
+      "text": "Software Engineer at Splunk"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jayshilling/",
+      "text": "Cameras TPM at Cruise"
+    },
+    {
+      "user": "https://www.linkedin.com/in/bobbygonzalezatucla/",
+      "text": "Talent Operations Coordinator @ Zoox"
+    },
+    {
+      "user": "https://www.linkedin.com/in/alex-van-dorn/",
+      "text": "Fleet Operations Engineer at Cruise"
+    },
+    {
+      "user": "https://www.linkedin.com/in/hyung-suk-kim-2b640b36/",
+      "text": "Software Engineer at Apple"
+    },
+    {
+      "user": "https://www.linkedin.com/in/bae43/",
+      "text": "Cruise, Vision Detection Engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/troy-lingle-b399ab122/",
+      "text": "Autonomous Vehicle Tester"
+    },
+    {
+      "user": "https://www.linkedin.com/in/carl-jenkins-bbb30210/",
+      "text": "VP of Hardware Engineering at Cruise Automation"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nina-laurent-53957b74/",
+      "text": "RETIRED at DOG MAMA"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Amanda Lind, Ph.D.",
+    "headline": "Acoustics & EE",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQHE96sSBJWWNw/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=iUWT_3SBf8FCFAQyorpLpS7EWFIjKG6XjL6tVn4gNAc",
+    "location": "Greater New York City Area",
+    "connections": "500+",
+    "summary": "Skilled in Audio Engineering, C++, DSP, Audio Processing, SketchUp/Rhino, and Sound. Electrical Engineering background. Strong research professional with prototyping experience, and a Ph.D. in Acoustics from Penn State University."
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "profileAlternative": {
+    "name": "Richard Kreuter",
+    "headline": "SVP, Field Engineering at MongoDB",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQFTvpK2xjhgLA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=n4PMXIv8gB2imITv3YQNMiJUa81WdFG3OWt2g-43i2I",
+    "location": "Greater New York City Area",
+    "connections": "500+",
+    "summary": "Technologist turned consultant turned executive."
+  },
+  "aboutAlternative": {
+    "text": "Technologist turned consultant turned executive."
+  },
+  "positions": [
+    {
+      "title": "MongoDB",
+      "location": "New York, New York",
+      "description": "* Develop MongoDB's Professional Services business, Customer Success program, and Pre-Sales (Solutions Architects) function\n* Collaborate with Sales, Marketing, Legal, Finance teams to grow MongoDB globally.\n* Collaborate with Product Management, Engineering to inform product direction based on field experience.",
+      "date1": "Sep 2017 – Present",
+      "date2": "2 yrs 3 mos",
+      "roles": [
+        {
+          "title": "SVP, Field Engineering",
+          "date1": "Sep 2017 – Present",
+          "date2": "2 yrs 3 mos",
+          "location": "New York, New York"
+        },
+        {
+          "title": "VP, Field Engineering",
+          "date1": "Feb 2017 – Aug 2017",
+          "date2": "7 mos",
+          "location": "Global"
+        },
+        {
+          "title": "Vice President of Global Professional Services",
+          "date1": "May 2015 – Jan 2017",
+          "date2": "1 yr 9 mos",
+          "location": "Global"
+        },
+        {
+          "title": "Global Director of Consulting Services",
+          "date1": "Nov 2014 – Apr 2015",
+          "date2": "6 mos",
+          "location": "Global"
+        },
+        {
+          "title": "Director of Consulting Engineering (North America)",
+          "date1": "Apr 2014 – Oct 2014",
+          "date2": "7 mos"
+        },
+        {
+          "title": "Consulting Manager",
+          "date1": "Jan 2013 – Apr 2014",
+          "date2": "1 yr 4 mos",
+          "location": "NY, NY"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSVP, Field Engineering",
+      "location": "New York, New York",
+      "description": "* Develop MongoDB's Professional Services business, Customer Success program, and Pre-Sales (Solutions Architects) function\n* Collaborate with Sales, Marketing, Legal, Finance teams to grow MongoDB globally.\n* Collaborate with Product Management, Engineering to inform product direction based on field experience.",
+      "date1": "Sep 2017 – Present",
+      "date2": "2 yrs 3 mos",
+      "roles": [
+        {
+          "title": "SVP, Field Engineering",
+          "date1": "Sep 2017 – Present",
+          "date2": "2 yrs 3 mos",
+          "location": "New York, New York"
+        }
+      ]
+    },
+    {
+      "title": "Title\nVP, Field Engineering",
+      "location": "Global",
+      "description": "* Develop MongoDB's Professional Services business, Customer Success program, and Pre-Sales (Solutions Architects) function\n* Collaborate with Sales, Marketing, Legal, Finance teams to grow MongoDB globally.\n* Collaborate with Product Management, Engineering to inform product direction based on field experience.\n\n…\nsee more",
+      "date1": "Feb 2017 – Aug 2017",
+      "date2": "7 mos",
+      "roles": [
+        {
+          "title": "VP, Field Engineering",
+          "date1": "Feb 2017 – Aug 2017",
+          "date2": "7 mos",
+          "location": "Global"
+        }
+      ]
+    },
+    {
+      "title": "Title\nVice President of Global Professional Services",
+      "location": "Global",
+      "description": "* Develop MongoDB's Consulting practices and products.\n* Coordinate management of Professional Services operations.\n* Collaborate with Sales, Pre-Sales, Marketing, Legal, Finance teams to grow global PS business.\n* Collaborate with Product Management, Engineering to inform product direction based on field experiences.\n…\nsee more",
+      "date1": "May 2015 – Jan 2017",
+      "date2": "1 yr 9 mos",
+      "roles": [
+        {
+          "title": "Vice President of Global Professional Services",
+          "date1": "May 2015 – Jan 2017",
+          "date2": "1 yr 9 mos",
+          "location": "Global"
+        }
+      ]
+    },
+    {
+      "title": "Title\nGlobal Director of Consulting Services",
+      "location": "Global",
+      "description": "* Develop MongoDB's Consulting practices and products.\n* Manage Global team of Consulting Engineers at MongoDB, Inc.\n* Collaborate with Sales, Pre-Sales, Marketing, Legal, Finance teams to grow global consulting business",
+      "date1": "Nov 2014 – Apr 2015",
+      "date2": "6 mos",
+      "roles": [
+        {
+          "title": "Global Director of Consulting Services",
+          "date1": "Nov 2014 – Apr 2015",
+          "date2": "6 mos",
+          "location": "Global"
+        }
+      ]
+    },
+    {
+      "title": "Title\nDirector of Consulting Engineering (North America)",
+      "description": "* Develop MongoDB's Consulting business practices and products.\n* Manage team of Consulting Engineers at MongoDB, Inc.",
+      "date1": "Apr 2014 – Oct 2014",
+      "date2": "7 mos",
+      "roles": [
+        {
+          "title": "Director of Consulting Engineering (North America)",
+          "date1": "Apr 2014 – Oct 2014",
+          "date2": "7 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nConsulting Manager",
+      "location": "NY, NY",
+      "description": "* Managed team of Consulting Engineers at MongoDB, Inc.\n* Consulted/advised customers with MongoDB deployments.",
+      "date1": "Jan 2013 – Apr 2014",
+      "date2": "1 yr 4 mos",
+      "roles": [
+        {
+          "title": "Consulting Manager",
+          "date1": "Jan 2013 – Apr 2014",
+          "date2": "1 yr 4 mos",
+          "location": "NY, NY"
+        }
+      ]
+    },
+    {
+      "title": "Lead Consulting Engineer",
+      "companyName": "10gen, Inc",
+      "location": "NY, NY",
+      "description": "* Consulted/advised customers with MongoDB deployments.\n* Hired & mentored team of 6 consulting engineers for 10gen.",
+      "date1": "Jun 2012 – Jan 2013",
+      "date2": "8 mos"
+    },
+    {
+      "title": "Software Engineer",
+      "companyName": "10gen",
+      "description": "* Maintenance programming on MongoDB core server.\n* Developed and maintain infrastructure for packaging MongoDB for various Linux distributions.\n* Enhanced CI infrastructure, regression testing frameworks.\n* Consulted/advised customers with MongoDB deployments.",
+      "date1": "Jan 2010 – Jun 2012",
+      "date2": "2 yrs 6 mos"
+    },
+    {
+      "title": "SBCL Hacker (contract work)",
+      "companyName": "ITA Software",
+      "description": "Brought into ITA to work on Steel Bank Common Lisp compiler and runtime for use in ITA's airfare search engine. While there, I made some changes to SBCL's compiler that improved its performance by about 10% on ITA's code base. After a few months, I also worked on ITA's search engine product: routine bug fixes, small feature additions, standard sort of maintenance work on a large, mature software system.\n…\nsee more",
+      "date1": "Jun 2008 – Nov 2008",
+      "date2": "6 mos"
+    },
+    {
+      "title": "Bioinformatics Analyst",
+      "companyName": "Cornell University (Dept. of Plant Breeding & Genetics)",
+      "description": "Developed and maintained existing bioinformatics software, including web-based and batch-oriented database-backed Perl programs for manipulating and presenting genomic data for plants related to the tomato.",
+      "date1": "May 2005 – Jul 2007",
+      "date2": "2 yrs 3 mos"
+    },
+    {
+      "title": "System Administrator (part time)",
+      "companyName": "Okuili Associates",
+      "description": "Administered a co-located host for a few dozen customers with web-based applications, mostly written in PHP. Performed some PHP work for a few customers.",
+      "date1": "Jul 2003 – Apr 2005",
+      "date2": "1 yr 10 mos"
+    },
+    {
+      "title": "System Administrator",
+      "companyName": "Rutgers University (Chemistry Department)",
+      "description": "Administered a network of Unix and Linux server hosts, MacOS and Windows workstations, and 2 Cisco switches for a scientific project with 25 on-site researchers and several partner sites around the world.",
+      "date1": "Feb 2002 – May 2003",
+      "date2": "1 yr 4 mos"
+    },
+    {
+      "title": "Junior System Administrator",
+      "companyName": "Rutgers University (Statistics Department)",
+      "description": "Administered Solaris, Linux, and Windows servers and workstations for the Statistics Department.",
+      "date1": "May 2001 – Feb 2002",
+      "date2": "10 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Rutgers University",
+      "degree": "BA",
+      "fieldofstudy": "Philosophy, Mathematics",
+      "date1": "1998",
+      "date2": "2000"
+    },
+    {
+      "title": "Rowan College at Burlington County",
+      "degree": "AA, AS",
+      "fieldofstudy": "Philosophy, Mathematics",
+      "date1": "1996",
+      "date2": "1998"
+    }
+  ],
+  "skills": [],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/grahamseamans/",
+      "text": "Regional Director, Enterprise Sales @ MongoDB - Hiring Great People!"
+    },
+    {
+      "user": "https://www.linkedin.com/in/seong17/",
+      "text": "Vice President, Strategy & Product Marketing"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tjcooley/",
+      "text": "VP WW Sales - We are hiring!"
+    },
+    {
+      "user": "https://www.linkedin.com/in/seandrew/",
+      "text": "SVP, Worldwide Corporate Sales at MongoDB, Inc at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/cailinanne/",
+      "text": "SVP Engineering, Cloud Services at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/alanchhabra/",
+      "text": "SVP, WW Partners + SVP, Asia at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sarahbranfman/",
+      "text": "Ensuring Success with MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/danpasette/",
+      "text": "SVP, Core Engineering at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ozgetuncel/",
+      "text": "VP of Customer Success & Sales Development at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/eliothorowitz/",
+      "text": "CTO and Co-Founder at MongoDB"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Richard Kreuter",
+    "headline": "SVP, Field Engineering at MongoDB",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQFTvpK2xjhgLA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=n4PMXIv8gB2imITv3YQNMiJUa81WdFG3OWt2g-43i2I",
+    "location": "Greater New York City Area",
+    "connections": "500+",
+    "summary": "Technologist turned consultant turned executive."
+  }
+}

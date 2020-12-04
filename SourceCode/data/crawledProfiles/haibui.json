@@ -1,0 +1,230 @@
+{
+  "profileAlternative": {
+    "name": "Hai Bui",
+    "headline": "Lead Senior Systems Software Engineer at Ricoh Innovations Corporation",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQFpyB7_muGQ6w/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=thgzDSARhJHbwclbejbWomdVMs_H-_Dgx6w4W1Ns40o",
+    "location": "San Francisco Bay Area",
+    "connections": "500+",
+    "summary": "I have over 18 years of systems software engineering experience, which includes virtualization, storage management, and distributed systems (high-availability, load-balancing, and fault-tolerance clustering).\n\nU.S. citizen, with a Master of Science degree in Computer Engineering, from the University of Texas at Austin."
+  },
+  "aboutAlternative": {
+    "text": "I have over 18 years of systems software engineering experience, which includes virtualization, storage management, and distributed systems (high-availability, load-balancing, and fault-tolerance clustering).\n\nU.S. citizen, with a Master of Science degree in Computer Engineering, from the University of Texas at Austin."
+  },
+  "positions": [
+    {
+      "title": "Lead Senior Systems Software Engineer",
+      "companyName": "Ricoh Innovations Corporation",
+      "location": "Cupertino, California",
+      "description": "Design and implement systems and software for new Machine Vision/Machine Learning/AI initiatives at Ricoh Research.\n\nWorking with Machine Vision, Machine Learning, AI systems, Kafka, Zookeeper, Docker containers, Swarm, Kubernetes, MongoDB, Gluster, distributed systems, Python, Java, C++, NodeJS, React.",
+      "date1": "Feb 2019 – Present",
+      "date2": "10 mos"
+    },
+    {
+      "title": "Senior Software Developer and Architect",
+      "companyName": "SLAC National Accelerator Laboratory",
+      "location": "Menlo Park, California",
+      "description": "Design and develop software to control laser beams, capture and analyze subatomic particle movements. Working with Python, PyQt, Qt, and C++. Development platforms: Linux, macOS, Windows.",
+      "date1": "Feb 2018 – Feb 2019",
+      "date2": "1 yr 1 mo"
+    },
+    {
+      "title": "Senior Software Engineer",
+      "companyName": "VMware",
+      "location": "Palo Alto, California",
+      "description": "Designed and implemented features, and provided solutions to problems related to the performance, security, and usability of vCenter LifeCycle, a system to deploy, upgrade, and migrate thousands of pre-configured virtual machines to set up high-availability clustering infrastructures; part of vSphere and Cloud Platform Business Unit (CPBU).\n\nTechnologies: Python, JSON, Shell Scripting, C++, TLS/SSL, x.509 certificates.\nPlatforms: Linux, macOS, Windows.\n…\nsee more",
+      "date1": "Sep 2015 – Feb 2018",
+      "date2": "2 yrs 6 mos"
+    },
+    {
+      "title": "Principal Member of Technical Staff, Oracle Clusterware",
+      "companyName": "Oracle",
+      "location": "Redwood Shores, California",
+      "description": "Owned and maintained major high-availability features (fault-tolerance, load-balancing, and high-availability) for Oracle Clusterware, which managed both Oracle database clusters (as a part of Oracle RAC), and other, generic server clusters.\n\nTechnologies: C++, Perl, Design Patterns, Distributed Systems, Multithreading, High-Availability (HA).\n\nPlatforms: Linux, Solaris, Windows.\n…\nsee more",
+      "date1": "Mar 2013 – Sep 2015",
+      "date2": "2 yrs 7 mos"
+    },
+    {
+      "title": "Senior Member of Technical Staff",
+      "companyName": "VMware",
+      "location": "Palo Alto, California",
+      "description": "Delivered complex bug fixes and support release features for VMware Site Recovery Manager (SRM), versions 4.1.1, 4.1.2, 4.1.3, 5.0.1, 5.0.2, 5.0.3, and 5.1.1.\n\nVMware SRM is a disaster management application for data centers, which host a large quantity of virtual machines and virtual machine hosts. Data replication is performed via SAN or ESX hosts at scheduled intervals, between a primary site and a secondary site. When recovery is triggered, SRM turns off the disaster-struck primary site, and activates the secondary site. The data center is up and running again -- its losses of data and configurations are mitigated.\n\nTechnologies: C++, STL, boost, Java (Spring Framework), Multithreading, Scripting, Storage Management, Digital Security (X.509, SSL/TLS, RSA, SHA), Virtualization, vCenter, ESX.\n\nPlatforms: Windows, Linux.\n…\nsee more",
+      "date1": "Feb 2011 – Mar 2013",
+      "date2": "2 yrs 2 mos"
+    },
+    {
+      "title": "Computer Scientist",
+      "companyName": "Adobe Systems Incorporated",
+      "location": "San Jose, California",
+      "description": "Developed key features for ubiquitous Adobe products: AIR (Adobe Integrated Runtime), 2-D barcodes, Acrobat, Reader, Flash Player, LiveCycle Designer, and LiveCycle Workbench.\n\nTechnologies: C++, Design Patterns, Java, Flex, AIR, ActionScript, PDF, XML, JavaScript, Objective-C, XCode.\n\nPlatforms: Windows, Mac OS.\n…\nsee more",
+      "date1": "Mar 2004 – Feb 2011",
+      "date2": "7 yrs"
+    },
+    {
+      "title": "Hewlett-Packard Company",
+      "location": "Cupertino, California",
+      "description": "Developed key features for the Array Configuration Utility (ACU), a storage management application for RAID array creation, deletion, extension, and migration while at HP-Houston.\n\nWorked on distribution of system management software components for IA-64 (Itanium) servers while at HP-Cupertino.\n\nTechnologies: C, C++, Win32, SNMP, Scripting.\n\nPlatforms: Windows, Linux.\n…\nsee more",
+      "date1": "May 2002 – Mar 2004",
+      "date2": "1 yr 11 mos",
+      "roles": [
+        {
+          "title": "Software Design Engineer V",
+          "date1": "May 2002 – Mar 2004",
+          "date2": "1 yr 11 mos",
+          "location": "Cupertino, California"
+        },
+        {
+          "title": "Systems/Software Engineer",
+          "date1": "Jun 2000 – May 2002",
+          "date2": "2 yrs",
+          "location": "Houston, Texas"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSoftware Design Engineer V",
+      "location": "Cupertino, California",
+      "description": "Developed key features for the Array Configuration Utility (ACU), a storage management application for RAID array creation, deletion, extension, and migration while at HP-Houston.\n\nWorked on distribution of system management software components for IA-64 (Itanium) servers while at HP-Cupertino.\n\nTechnologies: C, C++, Win32, SNMP, Scripting.\n\nPlatforms: Windows, Linux.\n…\nsee more",
+      "date1": "May 2002 – Mar 2004",
+      "date2": "1 yr 11 mos",
+      "roles": [
+        {
+          "title": "Software Design Engineer V",
+          "date1": "May 2002 – Mar 2004",
+          "date2": "1 yr 11 mos",
+          "location": "Cupertino, California"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSystems/Software Engineer",
+      "location": "Houston, Texas",
+      "description": "Developed features for the Array Configuration Utility (ACU), a storage management application for RAID array creation, deletion, extension, and migration.\n\nTechnologies: C, C++, Win32, scripting.\n\nPlatforms: Windows, Linux.\n…\nsee more",
+      "date1": "Jun 2000 – May 2002",
+      "date2": "2 yrs",
+      "roles": [
+        {
+          "title": "Systems/Software Engineer",
+          "date1": "Jun 2000 – May 2002",
+          "date2": "2 yrs",
+          "location": "Houston, Texas"
+        }
+      ]
+    }
+  ],
+  "educations": [
+    {
+      "title": "The University of Texas at Austin",
+      "degree": "Master of Science",
+      "fieldofstudy": "Computer Engineering",
+      "date1": "2002",
+      "date2": "2003"
+    },
+    {
+      "title": "Milwaukee School of Engineering",
+      "degree": "Bachelor of Science",
+      "fieldofstudy": "Computer Engineering",
+      "date1": "1996",
+      "date2": "2000"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Java",
+      "count": "23"
+    },
+    {
+      "title": "Distributed Systems",
+      "count": "18"
+    },
+    {
+      "title": "C++",
+      "count": "16"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "9",
+    "receivedCount": "4",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/marcovarrub/",
+        "text": "I had the pleasure of working with Hai in the same group, he is very smart, technical, very friendly and professional individual with extensive knowledge of systems and programming. I would give my highest recommendation for Hai. He would bring a lot of new and positive contributions to the team, as well as starting new processes that were very much needed.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/betty-kochpatcharin-3a00a54/",
+        "text": "Hai has very strong communication skills both written and spoken. He always tries to find ways to improve code to make code more efficient, readable. He has deep understanding of technical topics such security, C++. He has high determination to solve customer issues. I enjoyed working with him."
+      },
+      {
+        "user": "https://www.linkedin.com/in/gene-wang-2316651/",
+        "text": "I've worked together with Hai on different projects with wide range of complexity, on different platforms and technologies at Adobe. As a former member of the team which I joined, Hai has been very helpful and resourceful. He is very articulated with gifted communication skills. He takes pride in his work and does whatever it takes to get the job done on time with high quality and efficiency. He is very organized and always looking for complete and optimum result. As a co-worker, he is a very nice person to work with, who would spend his own extra time when he can be helpful, even if that is beyond his own duty. He is a good and smart friend whom you can trust.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/keithkinnan/",
+        "text": "I worked with Hai at HP/Compaq for several years and also attended graduate school with him. Hai is an \"out of the box\" thinker and is great at coming up with innovative ideas. He is very passionate about technology and his work, and his positive attitude always lifts those around him. It was a great pleasure to work with Hai, and I would not hesitate to work with him again.\n…\nSee more"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/marcovarrub/",
+        "text": "Marco and I worked together on an innovative system composed of Docker, Kafka, Zookeeper, NoSQL, EC2, S3, and custom Python/shell scripting Linux services, among other advanced technologies. I was very impressed that Marco was always on top of his job, knowing the entire technology stack very well. He is definitely detail-oriented, works hard, and is a natural at systems engineering. I am confident that Marco will continue being a strong player in any engineering team, and would work with him again."
+      },
+      {
+        "user": "https://www.linkedin.com/in/yingyifang/",
+        "text": "Frank worked tirelessly and relentlessly with my development team toward the common goal, that was to ensure the software product enterprise-class, i.e. it must have the highest quality, reliability, and usability possible. Nothing could stop him from initiating, and successfully executing, extensive plans and strategies to thoroughly test the product. His communication to developers was clear, comprehensive, and fast, almost always around the clock. Many successful test plans and automation tests were created and executed successfully from Frank's vision. Overall, Frank led an excellent QE team that did a great job ensuring the quality of the product, and his leadership made the team execute even better. He's an excellent QE manager."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "15",
+      "items": [
+        "Business Law",
+        "Computer Graphics",
+        "Computer Networking",
+        "Data Mining",
+        "Data Structures",
+        "Design of Operating Systems",
+        "Distributed System Security and Data Encryption",
+        "Embedded Systems",
+        "Empirical Studies in Software Engineering",
+        "Independent Study (Java Programming)",
+        "Microeconomics",
+        "Program Management and Evaluation",
+        "Software Design Patterns, UML and Java Reflection",
+        "Speech",
+        "Technical Composition"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "English",
+        "Vietnamese"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "Method and apparatus to reward users of content and hosting applications",
+        "Methods and Systems for Advertising and Facilitating Consumer-Related Activities Including Pay-Per-Redemption Methods and Electronic Voucher Use, Storage, and Management"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [],
+  "volunteerExperience": [
+    {
+      "title": "Area Governor; Club President/VP of Education/VP of Membership/Treasurer/Contest Judge",
+      "experience": "Toastmasters International",
+      "description": "Education",
+      "date1": "Sep 2005",
+      "date2": "1 mo"
+    }
+  ],
+  "profile": {
+    "name": "Hai Bui",
+    "headline": "Lead Senior Systems Software Engineer at Ricoh Innovations Corporation",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQFpyB7_muGQ6w/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=thgzDSARhJHbwclbejbWomdVMs_H-_Dgx6w4W1Ns40o",
+    "location": "San Francisco Bay Area",
+    "connections": "500+",
+    "summary": "I have over 18 years of systems software engineering experience, which includes virtualization, storage management, and distributed systems (high-availability, load-balancing, and fault-tolerance clustering).\n\nU.S. citizen, with a Master of Science degree in Computer Engineering, from the University of Texas at Austin."
+  }
+}

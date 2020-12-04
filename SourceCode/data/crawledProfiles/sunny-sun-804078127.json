@@ -1,0 +1,81 @@
+{
+  "profileAlternative": {
+    "name": "Sunny Sun",
+    "headline": "--",
+    "location": "United States",
+    "connections": "112"
+  },
+  "aboutAlternative": {},
+  "positions": [],
+  "educations": [
+    {
+      "title": "Carnegie Mellon University - Tepper School of Business",
+      "degree": "Bachelor of Business Administration - BBA",
+      "fieldofstudy": "Business Administration and Management, General",
+      "date1": "2019",
+      "date2": "2023"
+    },
+    {
+      "title": "Mission San Jose High School",
+      "date1": "2015",
+      "date2": "2019"
+    }
+  ],
+  "skills": [],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/maria-wang-a0932874/",
+      "text": "Assistant Editor at Junior Library Guild"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kateslin/",
+      "text": "Engineering Practicum Intern at Google AI Research"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jack-wang01/",
+      "text": "Freshman at NYU Stern School of Business"
+    },
+    {
+      "user": "https://www.linkedin.com/in/dennis-yang-227b72191/",
+      "text": "Student at George L. Argyros School of Business & Economics"
+    },
+    {
+      "user": "https://www.linkedin.com/in/danyellnuwin/",
+      "text": "Student at Purdue University"
+    },
+    {
+      "user": "https://www.linkedin.com/in/austin-zuo-4350a0177/",
+      "text": "Looking For Summer Internships"
+    },
+    {
+      "user": "https://www.linkedin.com/in/gustavo-sanchez-8036a3bb/",
+      "text": "WE ARE GOD🙏❤"
+    },
+    {
+      "user": "https://www.linkedin.com/in/hannah-chou-0aaa76190/",
+      "text": "Student at University of California, Berkeley"
+    },
+    {
+      "user": "https://www.linkedin.com/in/durga-arjun-02b9a8140/",
+      "text": "Student at the University of Southern California"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jonathan-ho-319617191/",
+      "text": "Student at University of Illinois at Urbana-Champaign"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Sunny Sun",
+    "headline": "--",
+    "location": "United States",
+    "connections": "112"
+  }
+}

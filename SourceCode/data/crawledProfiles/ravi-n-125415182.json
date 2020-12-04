@@ -1,0 +1,103 @@
+{
+  "profileAlternative": {
+    "name": "Ravi N",
+    "headline": "Sr. Python Developer at Shire",
+    "location": "United States",
+    "connections": "461",
+    "summary": "Involved in analysis, specification, design, and implementation and testing phases of Software Development Life Cycle (SDLC) and used agile methodology for developing application.Participate in requirement gathering and analysis phase of the project in documenting the business requirements by conducting workshops/meetings with various business user.Worked with team of developers on Python applications for RISK managementWorked on Python Open stack API's,used Python scripts to update content in the database and manipulate filesImplemented machine learning schemes using Python libraries scikit-learn and scipy.Designed front end and backend of the application using Python on Django Web Framework.Experience in MVC architecture using Django for web based application in OOP concepts.Worked on several python packages like Matpoltlib, Pillow, Numpy, SQL Alchemy, and sockets.Designed and deployed machine learning solutions in Python to classify millions of previously unclassified Twitter users into core data productUsed Pandas API to put the data as time series and tabular form for east timestamp data manipulation and retrieval to handle time series data and do data manipulationWorked on front end frame works like CSS, Angular JS, Bootstrap for development of Web application.Developed views and templates with Python and Django's view controller and templating language to create a user-friendly interface using MVC architecture.Used AWS lambda to run servers without managing them and to trigger to run code by S3 and SNS.Used Python and Django to interface with the jQuery UI and manage the storage and deletion of content.Using Git version control tool to coordinate team-development.Designed and developed the UI of the website using HTML, XHTML, AJAX, CSS and JavaScript, also used Bootstrap as a mechanism to manage and organize the html page layout"
+  },
+  "aboutAlternative": {
+    "text": "Involved in analysis, specification, design, and implementation and testing phases of Software Development Life Cycle (SDLC) and used agile methodology for developing application.Participate in requirement gathering and analysis phase of the project in documenting the business requirements by conducting workshops/meetings with various business user.Worked with team of developers on Python applications for RISK managementWorked on Python Open stack API's,used Python scripts to update content in the database and manipulate filesImplemented machine learning schemes using Python libraries scikit-learn and scipy.Designed front end and backend of the application using Python on Django Web Framework.Experience in MVC architecture using Django for web based application in OOP concepts.Worked on several python packages like Matpoltlib, Pillow, Numpy, SQL Alchemy, and sockets.Designed and deployed machine learning solutions in Python to classify millions of previously unclassified Twitter users into core data productUsed Pandas API to put the data as time series and tabular form for east timestamp data manipulation and retrieval to handle time series data and do data manipulationWorked on front end frame works like CSS, Angular JS, Bootstrap for development of Web application.Developed views and templates with Python and Django's view controller and templating language to create a user-friendly interface using MVC architecture.Used AWS lambda to run servers without managing them and to trigger to run code by S3 and SNS.Used Python and Django to interface with the jQuery UI and manage the storage and deletion of content.Using Git version control tool to coordinate team-development.Designed and developed the UI of the website using HTML, XHTML, AJAX, CSS and JavaScript, also used Bootstrap as a mechanism to manage and organize the html page layout"
+  },
+  "positions": [
+    {
+      "title": "Sr. Python Developer",
+      "companyName": "Shire",
+      "date1": "Apr 2017 – Present",
+      "date2": "2 yrs 8 mos"
+    },
+    {
+      "title": "Sr. Python developer",
+      "companyName": "P H GLATFELTER COMPANY",
+      "location": "York, Pennsylvania Area",
+      "description": "Design, develop, test, deploy and maintain the website.Designed and developed the UI of the website using HTML, XHTML, AJAX, CSS and JavaScript.Developed entire frontend and backend modules using Python on Django Web Framework.Designed and developed data management system using MySQL.Implemented client-side Interface using React JS.Technical experience with LAMP (Linux, Apache, MySQL, PYTHON) architecture.Involved in various phases of the project like Analysis, Design, Development, and TestingDeveloped rich user interface using CSS, HTML, JavaScript and JQueryBuild React components and stand-alone functions to be added to any future pages.Rewrite existing Java application in Python module to deliver certain format of data.Wrote Python scripts to parse XML documents and load the data in database.Generated property list for every application dynamically using Python.Working on AWS services (S3, EC2) and deployment services (Lambda) and RDS, DynamoDB (NoSQL), Beanstalk, SQSand Jenkins CICD.Upgraded the program to Pyspark to accommodate big data.Developed consumer-based features and applications using Python and Django in test driven DevelopmentRefactored messaging and storage implementation in loan originator service to use AWS SQS and S3Developed corresponding ETL jobs, batches and automated real-time data load.Created a backend server with Python Flask that implemented routing for indexing & showing page, and receiving the video & info data sent from the userResponsible for search engine optimization to improve the visibility of the website.Implemented code according to coding standards and Created AngularJS Controller, which Isolate scopes perform operations.Implemented Bash, Perl, Python scripting to Automate many day-to-day tasks.\n\n…\nsee more",
+      "date1": "Jan 2015 – Feb 2017",
+      "date2": "2 yrs 2 mos"
+    },
+    {
+      "title": "Python Developer",
+      "companyName": "Nike",
+      "location": "Portland, Oregon Area",
+      "description": "Exposed to various phases of Software Development Life Cycle using Agile - Scrum Software development methodology.Developed views and templates with Python and Django's view controller and templating language to create a user-friendly website interface.Developed the customer complaints application using Django Framework, which includes Python code.Implemented web applications in Flask frame works following MVC architecture.Developed Restful API's using Python Flask and SQLAlchemy data models as well as ensured code quality by writing unit tests using PyTest.Worked on JavaScript MVC Framework like Angular.js.Worked on Python Open stack API's.Used Python library BeautifulSoup for web scrapping to extract data for building graphs.Created entire application using Python, Django, MySQL and Linux.Created Data tables utilizing PyQt to display patient and policy information and add, delete, update patient records.Involved in web designing using HTML 4/5, XHTML, CSS 2/3, JQuery, JavaScript extensively used Table less Design in CSS for positioning.Developed the required XML Schema documents and implemented the framework for parsing XML documents.Used JQuery and Ajax calls for transmitting JSON data objects between frontend and controllers.Created a Git repository and added the project to GitHub.Utilize PyUnit, the Python unit test framework, for all Python applicationsDesigned and developed the UI of the website using HTML, XHTML, AJAX, CSS and JavaScript.Worked in MySQL and NoSQL database on simple queries and writing Stored Procedures for normalization and renormalization.Responsible for debugging and troubleshooting of web application.\n\n…\nsee more",
+      "date1": "Mar 2013 – Dec 2014",
+      "date2": "1 yr 10 mos"
+    },
+    {
+      "title": "Python Developer",
+      "companyName": "Dalco Enterprises, Inc.",
+      "location": "New Brighton, MN",
+      "description": "Developed the presentation layer using HTML, CSS, JavaScript, JQuery and AJAX and Used JQuery libraries for all client-side JavaScript manipulations.Involved in Developing a Restful service using Python Flask framework.Involved in the Design, development, test, deploy and maintenance of the website.Wrote validation scripts in SQL to validate data loading.Hosted various company-wide training sessions on Pandas, RESTful, Microservices.To fetch data of definite options that are selected, Python routines were written to log into websites.Developed a web tool that monitors and drives the automated continuous integration system allowing release managers to track changes.\nDeveloped a Coverity mail script that extracts code defects data per component for a daily report to drive reducing defects in the code base.Built various graphs for business decision making using Python matplotlib.\n\n…\nsee more",
+      "date1": "Nov 2011 – Jan 2013",
+      "date2": "1 yr 3 mos"
+    }
+  ],
+  "educations": [],
+  "skills": [],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/lori-koehler-96904512/",
+      "text": "Zone Director, Midwest - Rare Disease"
+    },
+    {
+      "user": "https://www.linkedin.com/in/pranay-kumar-92315a181/",
+      "text": "SR PYTHON DEVELOPER at ROCKWELL AUTOMATION"
+    },
+    {
+      "user": "https://www.linkedin.com/in/rajasekhar-k-090063168/",
+      "text": "Sr Python Developer at AT&T"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ediestringfellow/",
+      "text": "Director, Diversity & Inclusion at MassBio (she/her)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/karaeder/",
+      "text": "Health Systems Director at Sobi - North America"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nachell-kirley-4b233a56/",
+      "text": "Proven Team Builder, People Developer and Sales Leader fearlessly dedicated to simplicity, gratitude and contributing"
+    },
+    {
+      "user": "https://www.linkedin.com/in/krissy-klimek-4a68a5a/",
+      "text": "Senior Clinical Specialist at Genentech"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sai-h-832689159/",
+      "text": "Sr. Python Developer at Johnson & Johnson"
+    },
+    {
+      "user": "https://www.linkedin.com/in/niranjan-cheerla-13510412a/",
+      "text": "Sr. Lead Engineer- DeltaV Recipes"
+    },
+    {
+      "user": "https://www.linkedin.com/in/dwsmithtx/",
+      "text": "Senior Sales Representative at Novartis"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Ravi N",
+    "headline": "Sr. Python Developer at Shire",
+    "location": "United States",
+    "connections": "461",
+    "summary": "Involved in analysis, specification, design, and implementation and testing phases of Software Development Life Cycle (SDLC) and used agile methodology for developing application.Participate in requirement gathering and analysis phase of the project in documenting the business requirements by conducting workshops/meetings with various business user.Worked with team of developers on Python applications for RISK managementWorked on Python Open stack API's,used Python scripts to update content in the database and manipulate filesImplemented machine learning schemes using Python libraries scikit-learn and scipy.Designed front end and backend of the application using Python on Django Web Framework.Experience in MVC architecture using Django for web based application in OOP concepts.Worked on several python packages like Matpoltlib, Pillow, Numpy, SQL Alchemy, and sockets.Designed and deployed machine learning solutions in Python to classify millions of previously unclassified Twitter users into core data productUsed Pandas API to put the data as time series and tabular form for east timestamp data manipulation and retrieval to handle time series data and do data manipulationWorked on front end frame works like CSS, Angular JS, Bootstrap for development of Web application.Developed views and templates with Python and Django's view controller and templating language to create a user-friendly interface using MVC architecture.Used AWS lambda to run servers without managing them and to trigger to run code by S3 and SNS.Used Python and Django to interface with the jQuery UI and manage the storage and deletion of content.Using Git version control tool to coordinate team-development.Designed and developed the UI of the website using HTML, XHTML, AJAX, CSS and JavaScript, also used Bootstrap as a mechanism to manage and organize the html page layout"
+  }
+}

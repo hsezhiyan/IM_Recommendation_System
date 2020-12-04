@@ -1,0 +1,214 @@
+{
+  "profileAlternative": {
+    "name": "Boyan Marinov",
+    "headline": ".NET and JavaScript Software Developer at FIO",
+    "imageurl": "https://media.licdn.com/dms/image/C5103AQEExZ-XF-Cr7g/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=KKyCk9Hf-5OGBwu5M0lxOkJQ0T0hs-CZO7K_NquJf9g",
+    "location": "Bulgaria area",
+    "connections": "500+"
+  },
+  "aboutAlternative": {},
+  "positions": [
+    {
+      "title": "FIO",
+      "date1": "Jul 2015 – Present",
+      "date2": "4 yrs 5 mos",
+      "roles": [
+        {
+          "title": ".NET and JavaScript Software Developer",
+          "date1": "Jul 2015 – Present",
+          "date2": "4 yrs 5 mos"
+        },
+        {
+          "title": "Junior .NET and JavaScript Software Developer",
+          "date1": "Nov 2013 – Present",
+          "date2": "6 yrs 1 mo"
+        }
+      ]
+    },
+    {
+      "title": "Title\n.NET and JavaScript Software Developer",
+      "date1": "Jul 2015 – Present",
+      "date2": "4 yrs 5 mos",
+      "roles": [
+        {
+          "title": ".NET and JavaScript Software Developer",
+          "date1": "Jul 2015 – Present",
+          "date2": "4 yrs 5 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nJunior .NET and JavaScript Software Developer",
+      "date1": "Nov 2013 – Present",
+      "date2": "6 yrs 1 mo",
+      "roles": [
+        {
+          "title": "Junior .NET and JavaScript Software Developer",
+          "date1": "Nov 2013 – Present",
+          "date2": "6 yrs 1 mo"
+        }
+      ]
+    },
+    {
+      "title": "Student",
+      "companyName": "Telerik Academy",
+      "date1": "2012 – Present",
+      "date2": "7 yrs"
+    },
+    {
+      "title": "Trainee in Software Implementation Department",
+      "companyName": "Stone Computers",
+      "description": "Participation in IBM Tivoli License Compliance Implementation. Installation, instruction development and know-how-to building a DB2-based project. Maintenance of processes needed for the development of a quality monitoring system.",
+      "date1": "2008",
+      "date2": "less than a year"
+    }
+  ],
+  "educations": [
+    {
+      "title": "FMI - Sofia University",
+      "degree": "Bachelor's degree",
+      "fieldofstudy": "Informatics",
+      "date1": "2009",
+      "date2": "2013"
+    },
+    {
+      "title": "Cisco Networking Academy at Bulgarian Indusrial Association",
+      "degree": "CCNA",
+      "fieldofstudy": "Information Technology",
+      "date1": "2008",
+      "date2": "2009"
+    },
+    {
+      "title": "NUKK and Italian lyceum",
+      "degree": "Secondary school",
+      "fieldofstudy": "Applied Sciences and Italian",
+      "date1": "1997",
+      "date2": "2009"
+    },
+    {
+      "title": "UNWE",
+      "degree": "Professional Degree",
+      "fieldofstudy": "Corporate management",
+      "date1": "2005",
+      "date2": "2007"
+    }
+  ],
+  "skills": [
+    {
+      "title": "C#",
+      "count": "99+"
+    },
+    {
+      "title": ".NET",
+      "count": "76"
+    },
+    {
+      "title": "JavaScript",
+      "count": "99+"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "41",
+      "items": [
+        "ASP.NET MVC",
+        "ASP.NET Web Forms",
+        "Artificial Inteligence",
+        "C# Fundamentals Part 1",
+        "C# Fundamentals Part 2",
+        "CSS3 Styling",
+        "Computer Graphics",
+        "Computer networks and communications",
+        "Data Structures and Algorithms",
+        "Databases",
+        "Databases (RDB and NoSQL)",
+        "Design and analysis of algorithms",
+        "Desktop Application with XAML and WPF",
+        "Development of web applications with .NET framework and ASP.NET",
+        "Functional Programming",
+        "HTML5 Basics",
+        "High Quality Programming Code",
+        "Hybrid Mobile Applications",
+        "JavaScript Applications",
+        "JavaScript Frameworks"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "Bulgarian",
+        "English",
+        "Italian"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "C.A.R.S.",
+        "Young Energy 2007"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "IT/Photography blog"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/elena-stoyanova-618b16126/",
+      "text": "Javascript Developer at SAP"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sevginhashimov/",
+      "text": "Software Developer at FIO"
+    },
+    {
+      "user": "https://www.linkedin.com/in/anna-milenkova-2a630a65/",
+      "text": "Software Engineer at Musala Soft"
+    },
+    {
+      "user": "https://www.linkedin.com/in/viktor-klisurski-1b403980/",
+      "text": "Development Lead at Concep"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yasen-alexandrov-417a2b50/",
+      "text": "Senior Java Developer at Bosch Software Innovations"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mkovachev/",
+      "text": "Looking for job as Junior .NET Software Developer / Javascript / Node.js"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ventsislavg/",
+      "text": "Senior Software Engineer, NativeScript Tooling at Progress"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tonyaplachkova/",
+      "text": "HR Specialist / IT Recruiter at Adastra Bulgaria EOOD"
+    },
+    {
+      "user": "https://www.linkedin.com/in/detelin-popov-92688540/",
+      "text": "Senior .Net Developer, Next Gen"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kiril-hristanow-1990bab0/",
+      "text": "Atmosphere Entertainment Studios Ltd."
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Boyan Marinov",
+    "headline": ".NET and JavaScript Software Developer at FIO",
+    "imageurl": "https://media.licdn.com/dms/image/C5103AQEExZ-XF-Cr7g/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=KKyCk9Hf-5OGBwu5M0lxOkJQ0T0hs-CZO7K_NquJf9g",
+    "location": "Bulgaria area",
+    "connections": "500+"
+  }
+}

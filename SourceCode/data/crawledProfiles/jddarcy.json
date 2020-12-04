@@ -1,0 +1,206 @@
+{
+  "profileAlternative": {
+    "name": "Joseph D. Darcy",
+    "headline": "Member of the Technical Staff at Oracle Corporation",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQH-P7tkA4ngYA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=Tjt8THW1YSGA8Q7678G54RjxZoNsbCYDzMvauGFk0IA",
+    "location": "San Francisco Bay Area",
+    "connections": "229",
+    "summary": "Joe is currently the technical lead for infrastructure in Oracle's JDK organization. This includes setting and implementing policies related to development practices in JDK 9.\n\nPreviously, Joe was the lead engineer of Project Coin and specification lead for JSR 334, the effort to select and implement a set of small Java language changes for JDK 7. From its inception in 2007 until March 2011, Joe was the release manager, lead engineer, and quality lead for OpenJDK 6, an open source implementation of the Java SE 6 platform. A longtime member of the JDK engineering group, Joe was previously specification lead for JSR 269, the Pluggable Annotation Processing API, which delivered a standardized annotation processing API and mirror-based language model into JDK 6, and remains maintenance lead of that effort. JSR 269 was a replacement for the earlier apt tool from JDK 5. Joe assisted in implementing the JDK 5 language changes with work spanning core reflection, javac hacking, and general library support.\n\nJoe is a reviewer for multiple OpenJDK projects including JDK 6, JDK 7, JDK 7 updates, JDK 8, JDK 8 updates, JDK 9, and the on-going JDK and JDK updates projects.\n\nJoe holds a master's degree in computer science from UC Berkeley and a master's degree in applied math from Stanford University.\n\nTalk Archive, including JavaOne, Devoxx, and EclipseCon:\nhttp://blogs.oracle.com/darcy/resource/SpeakingArchive.html"
+  },
+  "aboutAlternative": {
+    "text": "Joe is currently the technical lead for infrastructure in Oracle's JDK organization. This includes setting and implementing policies related to development practices in JDK 9.\n\nPreviously, Joe was the lead engineer of Project Coin and specification lead for JSR 334, the effort to select and implement a set of small Java language changes for JDK 7. From its inception in 2007 until March 2011, Joe was the release manager, lead engineer, and quality lead for OpenJDK 6, an open source implementation of the Java SE 6 platform. A longtime member of the JDK engineering group, Joe was previously specification lead for JSR 269, the Pluggable Annotation Processing API, which delivered a standardized annotation processing API and mirror-based language model into JDK 6, and remains maintenance lead of that effort. JSR 269 was a replacement for the earlier apt tool from JDK 5. Joe assisted in implementing the JDK 5 language changes with work spanning core reflection, javac hacking, and general library support.\n\nJoe is a reviewer for multiple OpenJDK projects including JDK 6, JDK 7, JDK 7 updates, JDK 8, JDK 8 updates, JDK 9, and the on-going JDK and JDK updates projects.\n\nJoe holds a master's degree in computer science from UC Berkeley and a master's degree in applied math from Stanford University.\n\nTalk Archive, including JavaOne, Devoxx, and EclipseCon:\nhttp://blogs.oracle.com/darcy/resource/SpeakingArchive.html"
+  },
+  "positions": [
+    {
+      "title": "Member of the Technical Staff",
+      "companyName": "Oracle Corporation",
+      "location": "San Francisco Bay Area",
+      "description": "Java Platform Group\n\nCurrent Projects: JDK feature release development, OpenJDK Compatibility and Specification Review (CSR) group lead, JDK Infrastructure Architecton.\n\nAssorted on-going JDK core libraries work including but not limited to core reflection, annotations, enums, wrapper classes, and numerics; frequent contributor and reviewer of code changes to the JDK: http://hg.openjdk.java.net/jdk/jdk/search/?rev=darcy&revcount=250\n\nCross-release engineering responsibilities:\nSince April 2010, chairman of the ccc, a JDK-internal process which reviews all API and interfaces changes to the platform. Superseded by being lead of the OpenJDK Compatibility and Specification Review (CSR) group since February 2017.\n\nAnnotation processing maintainer\nMaintenance lead for JSR 269\nJava Floating-Point Czar, owner of specification and implementation of numerical aspects of the Java platform including the java.math package and java.lang.Math and java.lang.StrictMath.\n\nJavaOne Core Java SE track reviewer 2005-2010, 2013-2017\n\n…\nsee more",
+      "date1": "Feb 2010 – Present",
+      "date2": "9 yrs 10 mos"
+    },
+    {
+      "title": "Senior Staff Engineer",
+      "companyName": "Sun Microsystems",
+      "description": "Member of JDK engineering team with responsibilities ranging from floating-point support to core reflection to open source release management.",
+      "date1": "1998 – Feb 2010",
+      "date2": "12 yrs"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Stanford University",
+      "degree": "MS",
+      "fieldofstudy": "ICME (Institute for Computational and Mathematical Engineering)"
+    },
+    {
+      "title": "University of California, Berkeley",
+      "degree": "MS",
+      "fieldofstudy": "Computer Science",
+      "date1": "1995",
+      "date2": "1998"
+    },
+    {
+      "title": "Rutgers, The State University of New Jersey-New Brunswick",
+      "degree": "BS",
+      "fieldofstudy": "Computer Science"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Java",
+      "count": "39"
+    },
+    {
+      "title": "Core Java",
+      "count": "21"
+    },
+    {
+      "title": "Software Engineering",
+      "count": "20"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "19",
+      "items": [
+        "Advanced Programming Language Implementation",
+        "Algorithms of Computing",
+        "Computer Architecture",
+        "Cryptography",
+        "Fundamental Concepts of Analysis",
+        "Intelligent DRAM (IRAM)",
+        "Law for Computer Science Professionals",
+        "Linearly Constrained Optimization",
+        "Numerical Linear Algebra",
+        "Numerical Solution of PDEs",
+        "Parallel Computer Architecture and Programming",
+        "Parallel Computing Research Project",
+        "Patent Law and Strategy",
+        "Programming Language Design",
+        "Programming Language Implementation",
+        "Software Engineering",
+        "Stochastic Methods in Engineering",
+        "Stochastic Processes",
+        "System Support for Scientific Computation"
+      ]
+    },
+    {
+      "count": "16",
+      "items": [
+        "Lead of Compatibility & Specification Review OpenJDK Group",
+        "JDK Infrastructure Architecton",
+        "JEPs (JDK Enhancement Proposals)",
+        "JSR 269 - Pluggable Annotation Processing API",
+        "JavaOne / Oracle Code One",
+        "JDK 10/18.3",
+        "JDK 9",
+        "JDK 8",
+        "JDK Bug Migration",
+        "JDK 7",
+        "Project Coin / JSR 334",
+        "Project Lambda",
+        "OpenJDK 6 Release Manager",
+        "JDK 6 - \"Mustang\"",
+        "IEEE 754r Working Group Participant (update to the floating-point standard)",
+        "JDK 5 - \"Tiger\""
+      ]
+    },
+    {
+      "count": "15",
+      "items": [
+        "Using annotation processors defined by modules with annotation processors defined by non-module code",
+        "System and method for conversion of numeric values between different number base formats, for use with software applications",
+        "Error propagation",
+        "Indicators for resources with close methods that do not complete erroneously in software programs",
+        "Indicators for resources with idempotent close methods in software programs",
+        "Efficient and expansive conversions between reference and primitive",
+        "Characterizing artificiality in object code",
+        "Type inference of partially-specified parameterized types",
+        "Encoding switch on ordered universes with binary decision diagrams",
+        "Pluperfect hashing",
+        "Method and system for compiling a dynamically-typed method invocation in a statically-typed programming language",
+        "Annotation processing from source files and class files",
+        "Annotation processor discovery",
+        "Introspection support for generic types",
+        "Introspection support for local and anonymous classes"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "The Scramble Illusion",
+        "Fixed, Floating, and Exact Computation with Java's BigDecimal"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "JavaOne 2011 Rock Star Speaker"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "English"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/sean-mullan-314694/",
+      "text": "Consulting Member of Technical Staff at Oracle"
+    },
+    {
+      "user": "https://www.linkedin.com/in/phil-race-bb3624/",
+      "text": "Consulting Member of Technical Staff, at Oracle"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jiangli-zhou-7342852/",
+      "text": "Software Engineer at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sangheon-kim/",
+      "text": "Senior Member of Technical Staff at Oracle"
+    },
+    {
+      "user": "https://www.linkedin.com/in/valerie-peng-57782/",
+      "text": "Software Engineer at Oracle"
+    },
+    {
+      "user": "https://www.linkedin.com/in/david-therkelsen-94815411/",
+      "text": "Director, SW Engineering at Oracle"
+    },
+    {
+      "user": "https://www.linkedin.com/in/karenkinnear/",
+      "text": "Architect, JVM Runtime Team Lead at Oracle"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mandy-chung-0986a71/",
+      "text": "Consulting Member Of Technical Staff at Oracle"
+    },
+    {
+      "user": "https://www.linkedin.com/in/calvin-cheung-2a2275/",
+      "text": "Principal Member of Technical Staff at Oracle"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jcl123/",
+      "text": "Software QA at NVIDIA"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Joseph D. Darcy",
+    "headline": "Member of the Technical Staff at Oracle Corporation",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQH-P7tkA4ngYA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=Tjt8THW1YSGA8Q7678G54RjxZoNsbCYDzMvauGFk0IA",
+    "location": "San Francisco Bay Area",
+    "connections": "229",
+    "summary": "Joe is currently the technical lead for infrastructure in Oracle's JDK organization. This includes setting and implementing policies related to development practices in JDK 9.\n\nPreviously, Joe was the lead engineer of Project Coin and specification lead for JSR 334, the effort to select and implement a set of small Java language changes for JDK 7. From its inception in 2007 until March 2011, Joe was the release manager, lead engineer, and quality lead for OpenJDK 6, an open source implementation of the Java SE 6 platform. A longtime member of the JDK engineering group, Joe was previously specification lead for JSR 269, the Pluggable Annotation Processing API, which delivered a standardized annotation processing API and mirror-based language model into JDK 6, and remains maintenance lead of that effort. JSR 269 was a replacement for the earlier apt tool from JDK 5. Joe assisted in implementing the JDK 5 language changes with work spanning core reflection, javac hacking, and general library support.\n\nJoe is a reviewer for multiple OpenJDK projects including JDK 6, JDK 7, JDK 7 updates, JDK 8, JDK 8 updates, JDK 9, and the on-going JDK and JDK updates projects.\n\nJoe holds a master's degree in computer science from UC Berkeley and a master's degree in applied math from Stanford University.\n\nTalk Archive, including JavaOne, Devoxx, and EclipseCon:\nhttp://blogs.oracle.com/darcy/resource/SpeakingArchive.html"
+  }
+}

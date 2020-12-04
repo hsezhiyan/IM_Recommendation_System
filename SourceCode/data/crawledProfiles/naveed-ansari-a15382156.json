@@ -1,0 +1,162 @@
+{
+  "profileAlternative": {
+    "name": "NAVEED ANSARI",
+    "headline": "Senior SQL Server Database Administrator",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQGz7u-vfgBbrw/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=D4H6IT44M5mYTtOTERkvVFIGRjX0fLBojcY3hQrhPjs",
+    "location": "Chicago, Illinois",
+    "connections": "69",
+    "summary": "10+ years of IT experience in Database Administration, Design Development and Support of MS SQLServer 2017/2016/2014/2012/2008R2/2008/2005 in Production, Staging, Test, Development and Cluster ServerEnvironments.\nExperience in RDBMS database design, performance tuning, optimization, backup and recovery in SQL Server 2005/2008/2008R2/2012/2014/2016.\nExperience in building new customized and automation processes.\nSSAS, SSIS and SSRS experience.\nExperience in Disaster Recovery Planning.\nExperience in maintaining database security.\nExperience in using SQL Server Tools like DTS, Import/Export Wizard, SQL Server Enterprise Manager, SQL Server Management Studio, SQL Profiler, Database Engine Tuning Advisor Activity Monitor, Query Execution Plan, Debugging, and SQL Query Analyzer.\nMigration experience from MS SQL Server 2000 to MS SQL Server 2005/2008, MS SQL Server 2005 to MS SQL Server 2008 & SQL Server 2008 to 2012/2014/2016.\nProvided expertise in Data warehouse and Data Marts methodologies as well as extensive knowledge of OLTP/OLAP technologies.\nMaster in performing administrative tasks: database files management, backup/restore, security management, Alwayson, Replication, log shipping, Database Mirroring, data integration and synchronization.\nExtensive use of DTS/SSIS in SQL Server, Performance Tuning & Index Tuning, Disaster Recovery Planning, Security Management, Managing server and clients.\nExpertise in using 3rd part tools (Idera, Solarwinds, Avamar, Rubrik)\nExperience in designing/generating/using/deploying Visual Studio 2008/2010/2012/2015 Business Intelligence Reports.\nExtensive work experience on system analysis, design, development, testing and implementation of projects with full SDLC (Software Development Life Cycle).\nExtensive experience of debugging.\nExpert with Database Administration backup/recovery methodologies and procedures on a Windows/SQL Server platform.\nExpert in Implementing Database Mirroring, Log shipping, replication and Alwayson"
+  },
+  "aboutAlternative": {
+    "text": "10+ years of IT experience in Database Administration, Design Development and Support of MS SQLServer 2017/2016/2014/2012/2008R2/2008/2005 in Production, Staging, Test, Development and Cluster ServerEnvironments.\nExperience in RDBMS database design, performance tuning, optimization, backup and recovery in SQL Server 2005/2008/2008R2/2012/2014/2016.\nExperience in building new customized and automation processes.\nSSAS, SSIS and SSRS experience.\nExperience in Disaster Recovery Planning.\nExperience in maintaining database security.\nExperience in using SQL Server Tools like DTS, Import/Export Wizard, SQL Server Enterprise Manager, SQL Server Management Studio, SQL Profiler, Database Engine Tuning Advisor Activity Monitor, Query Execution Plan, Debugging, and SQL Query Analyzer.\nMigration experience from MS SQL Server 2000 to MS SQL Server 2005/2008, MS SQL Server 2005 to MS SQL Server 2008 & SQL Server 2008 to 2012/2014/2016.\nProvided expertise in Data warehouse and Data Marts methodologies as well as extensive knowledge of OLTP/OLAP technologies.\nMaster in performing administrative tasks: database files management, backup/restore, security management, Alwayson, Replication, log shipping, Database Mirroring, data integration and synchronization.\nExtensive use of DTS/SSIS in SQL Server, Performance Tuning & Index Tuning, Disaster Recovery Planning, Security Management, Managing server and clients.\nExpertise in using 3rd part tools (Idera, Solarwinds, Avamar, Rubrik)\nExperience in designing/generating/using/deploying Visual Studio 2008/2010/2012/2015 Business Intelligence Reports.\nExtensive work experience on system analysis, design, development, testing and implementation of projects with full SDLC (Software Development Life Cycle).\nExtensive experience of debugging.\nExpert with Database Administration backup/recovery methodologies and procedures on a Windows/SQL Server platform.\nExpert in Implementing Database Mirroring, Log shipping, replication and Alwayson"
+  },
+  "positions": [
+    {
+      "title": "Senior SQL Database Administrator",
+      "companyName": "Evolent Health",
+      "description": "• Install and configure SQL Server 2008R2, 2012, 2014, 2016 and 2017 in production, Staging, UAT and Development environment.\n• Monitor complete environment for resource utilizations and to avoid any bottlenecks.\n• Manage security on Production, Staging, UAT and Development environments.\n• Monitor Logshipping on Prod and UAT, perform data refresh, and perform application and data upgrade for new service pack testing.\n• Troubleshoot the service pack issues and slow running procs and make recommendation to optimize the performance\n• Deploy application related and database related hotfixes to UAT environment for test\n• Perform application and database service pack upgrades on production and montor production 24/7 to make sure no new issues arise after the upgrade\n• Monitor application and SQL maintenance job and resolve any failure issues\n• Debug lengthy and nested procedures to find the root cause of issue(s) and make recommendation to resolve the issues\n• Build and configure customized and automation processes to help SQL.\n• Designed Disaster recovery process and make recommendation suitable process according to the budget and requirements. (log shipping, mirroring, replication, alwayson, clustering)\n• Resolve and Eliminate primary key job error and SSIS jobs data integrity issues\n• Develop and implement backup and recovery strategies involving complete database backup/Restore, transaction log backup/restore.\n• Create Databases according to the application team requirement.\n• Perform Administrative functions Update Statistics, Re-indexing\n• Write Stored Procedures and Create Views\n• Used SSIS, Import/Export to Copy, move Data from one server to another, Excel to SQL Server, SQL to Excel, SQL to CVS and CVS to SQL\n• Work on jboss web server to standup new client web pages. Configure xml.\n• Troubleshoot any application related culprit code to avoid application errors.\n• Built Dashboard\n\n\n…\nsee more",
+      "date1": "Dec 2014 – Present",
+      "date2": "5 yrs"
+    },
+    {
+      "title": "Sr SQL Server Database Administrator",
+      "companyName": "First Data Corporation",
+      "location": "Omaha NE",
+      "description": "• Installed and configured SQL Server 2008R2, and 2012 in production, UAT, and Development environment.\n• In my project I performed upgrade of SQL server from 2000/2005/2008 to 2008R2 using in-place and Side by Side migration in Prod PPE and lab environments.\n• Experties in applying service packs on SQL 2005, 2008 and 2008R2 to the latest version.\n• In migration project I performed setting up high availability concepts like mirroring, log shipping and replication.\n• Performed Active/Active and Active/Passive clustering.\n• Troubleshooted issues realted to databases during migration.\n• Performed Disaster recovery procedures log shipping, mirroring, and replication.\n• Resolved mirroring issues.\n• Resolved any agent jobs related issues\n• Determined any Orphaned users and Fixed them during migration process.\n• Involved in scheduling Jobs, Alerts using SQL Server Agent as required.\n• Developed and implemented backup and recovery strategies involving complete database backup/Restore, transaction log backup/restore.\n• Created Databases according to the application team requirement.\n• Created windows and SQL logins and assigned permissions according to the management approval.\n• Performed Administrative functions which are Update Statistics, Re-indexing.\n• Wrote Stored Procedures and Views.\n• Used SSIS, Import/Export to Copy, moved Data from one server to another.\n• Performed migration on SSIS packages from lagecy to new servers.\n• Migrated DTS to SSIS\n• Provided 24 x 7 on call support for all the SQL application on production server.\n\n…\nsee more",
+      "date1": "Jun 2014 – Dec 2014",
+      "date2": "7 mos"
+    },
+    {
+      "title": "Sql Server Database Administrator",
+      "companyName": "Allstate",
+      "location": "Woodridge IL",
+      "description": "• Installed and Configured SQL Server 2005, 2008 R2 and 2012 Servers.\n• Upgraded SQL Server 2000/2005 to 2008R2 using In-place and Side by Side Upgrade in Prod, PPE and lab environments.\n• Experience in upgrading databases from 2008 to 2012 side by side.\n• Extensive experience in applying service packs on SQL 2005, 2008 and 2008 R2 to the latest version.\n• Experience in setting up high availability concept on clustering Active/Active and Active/Passive.\n• Involved in setting up database level HA Mirroring, Replication and Logshipping.\n• Performed troubleshooting of database related issues during upgrading and migration process.\n• Solved Issues related to Orphaned Users and Managed Logins, Users, Roles and User permissions.\n• Performance tune and Optimize frequently used SQL Queries, Indexes and Stored Procedures.\n• Designed and Implemented Disaster Recovery Procedures Log Shipping, Mirroring and Replication as well as Backup and Restore Strategies.\n• Resolved issues in Mirroring setup.\n• Solved backup, copy, restore job failure, space, network, latency Issues related to Log Shipping.\n• Handled various issues related to setup and configuration of Database Mirroring, log shipping and replication.\n• Implemented Transactional replication to Admin and Report databases and resolved the issues.\n• Solved latency, agent job failure, Synchronization issues related to Replication,\n• Involved in scheduling Jobs, Alerts using SQL Server Agent as required.\n• Created automation procedure for patching production servers.\n• Involved in deploying changes to production and PPE environments.\n\n…\nsee more",
+      "date1": "Apr 2008 – Jun 2014",
+      "date2": "6 yrs 3 mos"
+    }
+  ],
+  "educations": [],
+  "skills": [
+    {
+      "title": "Healthcare",
+      "count": "1"
+    },
+    {
+      "title": "Strategic Planning",
+      "count": "1"
+    },
+    {
+      "title": "Enterprise Software",
+      "count": "1"
+    },
+    {
+      "title": "Healthcare Information Technology (HIT)",
+      "count": "1"
+    },
+    {
+      "title": "Database Administration",
+      "count": "1"
+    },
+    {
+      "title": "Automation",
+      "count": "1"
+    },
+    {
+      "title": "Scripting",
+      "count": "1"
+    },
+    {
+      "title": "Data Analysis",
+      "count": "1"
+    },
+    {
+      "title": "Microsoft SQL Server",
+      "count": "1"
+    },
+    {
+      "title": "SQL Server Integration Services (SSIS)",
+      "count": "1"
+    },
+    {
+      "title": "SQL Server Reporting Services (SSRS)",
+      "count": "1"
+    },
+    {
+      "title": "Powershell"
+    },
+    {
+      "title": "Leadership"
+    },
+    {
+      "title": "Coding Experience"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "1",
+    "receivedCount": "1",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/chidambarsaraf/",
+        "text": "Naveed is one of the great assets to any organization, He is a person who always tries to give 110% on his dedicated activity also he knowledge about health care tremendous. He is very good at developing T-SQL's and performance tuning. It was really good working with him where he shared a healthy working space to his team member. I would like to work again if i get a chance in future.\n…\nSee more"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/chidambarsaraf/",
+        "text": "chidamber is very knowledgeable and has very extensive level of skills in Microsoft sql database systems. he is very advanced in troubleshooting any type of performance issues not only limited at database layer but also at application layer. he always has great ideas on automation that help less manual work and free up the hands to work on projects and new stuff. I would definitely recommend him to any company who is looking advanced level of skills and looking to improve their database layer."
+      }
+    ]
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/nairsmita/",
+      "text": "Chief Product Officer at WithMe Health (We are Hiring!)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/dan-christenson-2b21225/",
+      "text": "Senior SQL Database Administrator"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tai-kim-97b99978/",
+      "text": "Senior SQL Developer and Database Administrator"
+    },
+    {
+      "user": "https://www.linkedin.com/in/venkata-raghava-5197045/",
+      "text": "Lead Database Administrator at Evolent Health"
+    },
+    {
+      "user": "https://www.linkedin.com/in/zachary-graham-98940a89/",
+      "text": "Senior Sql Database Administrator at GEICO"
+    },
+    {
+      "user": "https://www.linkedin.com/in/lukasz-bizon-aa84344/",
+      "text": "Senior SQL Database Administrator at Seyfarth Shaw LLP"
+    },
+    {
+      "user": "https://www.linkedin.com/in/harrison-faust/",
+      "text": "IT Project Manager Implementations"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sanjeev-kumar-dattatreyulu-belagal-a1954713/",
+      "text": "Pega Business Analyst at Verizon"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kishangowdhaman/",
+      "text": "Specialist Master at Deloitte Consulting LLP"
+    },
+    {
+      "user": "https://www.linkedin.com/in/gowrijagadeesh/",
+      "text": "2018 Facebook PyTorch Scholar / 2018 Grow with Google Developer Scholar"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "NAVEED ANSARI",
+    "headline": "Senior SQL Server Database Administrator",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQGz7u-vfgBbrw/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=D4H6IT44M5mYTtOTERkvVFIGRjX0fLBojcY3hQrhPjs",
+    "location": "Chicago, Illinois",
+    "connections": "69",
+    "summary": "10+ years of IT experience in Database Administration, Design Development and Support of MS SQLServer 2017/2016/2014/2012/2008R2/2008/2005 in Production, Staging, Test, Development and Cluster ServerEnvironments.\nExperience in RDBMS database design, performance tuning, optimization, backup and recovery in SQL Server 2005/2008/2008R2/2012/2014/2016.\nExperience in building new customized and automation processes.\nSSAS, SSIS and SSRS experience.\nExperience in Disaster Recovery Planning.\nExperience in maintaining database security.\nExperience in using SQL Server Tools like DTS, Import/Export Wizard, SQL Server Enterprise Manager, SQL Server Management Studio, SQL Profiler, Database Engine Tuning Advisor Activity Monitor, Query Execution Plan, Debugging, and SQL Query Analyzer.\nMigration experience from MS SQL Server 2000 to MS SQL Server 2005/2008, MS SQL Server 2005 to MS SQL Server 2008 & SQL Server 2008 to 2012/2014/2016.\nProvided expertise in Data warehouse and Data Marts methodologies as well as extensive knowledge of OLTP/OLAP technologies.\nMaster in performing administrative tasks: database files management, backup/restore, security management, Alwayson, Replication, log shipping, Database Mirroring, data integration and synchronization.\nExtensive use of DTS/SSIS in SQL Server, Performance Tuning & Index Tuning, Disaster Recovery Planning, Security Management, Managing server and clients.\nExpertise in using 3rd part tools (Idera, Solarwinds, Avamar, Rubrik)\nExperience in designing/generating/using/deploying Visual Studio 2008/2010/2012/2015 Business Intelligence Reports.\nExtensive work experience on system analysis, design, development, testing and implementation of projects with full SDLC (Software Development Life Cycle).\nExtensive experience of debugging.\nExpert with Database Administration backup/recovery methodologies and procedures on a Windows/SQL Server platform.\nExpert in Implementing Database Mirroring, Log shipping, replication and Alwayson"
+  }
+}

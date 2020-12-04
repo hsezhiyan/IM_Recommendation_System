@@ -1,0 +1,166 @@
+{
+  "profileAlternative": {
+    "name": "Alex Allain",
+    "headline": "Collaborative Problem Solver",
+    "location": "San Francisco Bay Area",
+    "connections": "500+",
+    "summary": "I enjoy working with smart, nice, passionate people who want to build great software. I've run both infrastructure and product engineering groups @ Dropbox, and I built many of the early features of Dropbox Business. Now, I help teams discover new product ideas.\n\nIn my spare time, I run the popular website Cprogramming.com and I wrote a well-received book on C++, Jumping into C++. I've also taught C, C++, and Scheme as a teaching fellow at Harvard."
+  },
+  "aboutAlternative": {
+    "text": "I enjoy working with smart, nice, passionate people who want to build great software. I've run both infrastructure and product engineering groups @ Dropbox, and I built many of the early features of Dropbox Business. Now, I help teams discover new product ideas.\n\nIn my spare time, I run the popular website Cprogramming.com and I wrote a well-received book on C++, Jumping into C++. I've also taught C, C++, and Scheme as a teaching fellow at Harvard."
+  },
+  "positions": [
+    {
+      "title": "Director of Engineering",
+      "companyName": "Dropbox",
+      "location": "San Francisco Bay Area",
+      "description": "Currently:\n- Helping Dropbox incubate new ideas...\n\nPreviously:\n- lead engineering for a number of Dropbox's core product experiences, including several parts of our core file experience for individuals and teams, our identity model, and Dropbox Business features.\n- led Dropbox's Product Platform, with the mission to make developing and shipping products easier, faster, and safer across all of our platforms (mobile, desktop, web, and servers). Product Platform does this by maximizing the happiness and productiveness of Dropbox developers, the speed and quality of our product releases, and the stability and performance of our core platforms.\n\n- one of the first engineers working on what is now known as Dropbox Business - it was pretty awesome to see it grow into a full featured business product, and I helped build many of the pieces of that (SSO, remote wipe, sharing audit logs, and account transfer) as well as helping out a bit with payments stuff on the side. (You do a bit of everything at a startup :P)\n…\nsee more",
+      "date1": "May 2012 – Present",
+      "date2": "7 yrs 7 mos"
+    },
+    {
+      "title": "Creator",
+      "companyName": "Cprogramming.com",
+      "description": "Authored articles on C and C++, including popular beginner tutorials and articles on advanced language features.\n\nMigrated site from static content pages to a CMS, Jekyll, while scaling to over 1 million monthly users on a single Linux server.\n\nOptimized site design to measurably increase engagement using AB testing.\n…\nsee more",
+      "date1": "May 1996 – Present",
+      "date2": "23 yrs 7 mos"
+    },
+    {
+      "title": "Software Developer",
+      "companyName": "Check Point Software Technologies",
+      "description": "I was part of a small team developing a scalable C++-based server providing SOAP-based web services to provide policies and encryption keys to desktop clients.",
+      "date1": "Jun 2010 – Apr 2012",
+      "date2": "1 yr 11 mos"
+    },
+    {
+      "title": "Software Engineer",
+      "companyName": "Liquid Machines",
+      "description": "At Liquid Machines, I worked to deeply integrate our desktop client with a number of 3rd party products, including Microsoft Office and Adobe Reader. This involved a great deal of interesting analysis of disassembly and other low-level work on Windows (I learned to love IDA and Hex-Rays and a great deal about function hooking and process injection on Windows), as well as lots of work to design systems that would be robust to the vagaries of desktop software environments. As part of this, I implemented an interpreter for our in-house programming language, designed and built language primitives to support modular code (e.g. a package system), designed a substantial portion of the core modules and code written in this language, wrote a debugging shell, and helped design and build a unit test framework for the language. I also did a ton of debugging when things went wrong, learning to love the power of good logging frameworks and viewing (and modifying) disassembly during debugging.\n\nMost of my coding was in C++ or our custom language, with occasional small snippets of assembly.\n\nI also helped a bunch with planning, estimation, debugging customer issues, organization of projects and testing.\n\nIn June of 2010, Liquid Machines was acquired by Check Point\n…\nsee more",
+      "date1": "Jul 2006 – Jun 2010",
+      "date2": "4 yrs"
+    },
+    {
+      "title": "Teaching Fellow",
+      "companyName": "Harvard University",
+      "description": "In my Junior year, I was a teaching fellow for both CS 50 and CS 51. CS 50 was at the time Harvard's introductory class to programming in C and CS 51 was the follow-on class taught half in Scheme and half in C++ (culminating in building a Scheme interpreter in C++).\n\nI twice won the DEAS Teaching Fellow Award (once for CS 50 and once for CS 51), given to two TFs in the Division of Engineering and Applied Sciences each semester, for excellence in teaching.\n\nIn my senior year, I was the co-head TF for CS 50, both teaching a section and organizing the course. The following semester, I was sole head TF for CS 51.\n…\nsee more",
+      "date1": "Sep 2004 – Jun 2006",
+      "date2": "1 yr 10 mos"
+    },
+    {
+      "title": "Assistant Software Engineer",
+      "companyName": "Charles River Analytics",
+      "date1": "Jun 2004 – Aug 2004",
+      "date2": "3 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Harvard University",
+      "degree": "AB",
+      "fieldofstudy": "Computer Science",
+      "date1": "2002",
+      "date2": "2006"
+    },
+    {
+      "title": "Isidore Newman",
+      "date1": "1989",
+      "date2": "2002"
+    }
+  ],
+  "skills": [
+    {
+      "title": "C++",
+      "count": "23"
+    },
+    {
+      "title": "Programming",
+      "count": "17"
+    },
+    {
+      "title": "C",
+      "count": "14"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "6",
+    "receivedCount": "2",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/vincentjon/",
+        "text": "You've probably heard whispers of a rare breed of \"10x engineers\" who are so incredible and have such an outsized impact that you can build an entire organization around them. Well, allow me to introduce you to Alex. It's pretty obvious as soon as you meet him (or read his resume, I suppose) that he has all the ingredients you'd expect from a great engineer: he's smart and dedicated, empathetic and collaborative, has a bunch of useful experience and knowledge, and he immediately engages 100% in any conversation he joins. All of these attributes make him valuable in any group effort. But I think the truly incredible \"10x\" folks all have some magic power -- something that they're just WAY better than everyone else at. Alex definitely has that, and it might just be the best magic power of all: no matter what the task, challenge, or role, Alex will find a way to become the very best at it. It's like he can entirely reinvent himself at will. At Dropbox, I saw him go from being the best engineer to the best project lead to the best manager in the company, and do it all with genuine humility and grace. He doesn't rest until he's world class at whatever he's signed up to do, and able to teach others to do the same. It really is kind of like magic. Whatever the parameters, if you have the chance to work with Alex, take it.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/marclsiegel/",
+        "text": "Alex is an extremely talented and knowledgable developer, and a ranked chess player. Right out of college, he demonstrated his competence, creativity, and maturity by taking the lead in extending a bare-bones rules engine into a full interpreted rules language providing an abstraction of behavioral inheritance, allowing derivative rules for different applications. Alex also demonstrated excellent communication skills and teamwork during our design and code reviews, improving on the work of others and accepting improvements from others. Also important, Alex is excellent with tools - he was the creator of a wide variety of improvements and hacks built on top of our editor and toolset.\n…\nSee more"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/mutwiri/",
+        "text": "Alex is eager and capable of taking on new challenges. Alex came up with a Hack Week project that added a new (soon to be launched!) mobile feature for Dropbox Paper despite having no prior experience/knowledge with iOS development. He was able to mobilize a team of 5 interns who collaboratively delivered on the project, with the team winning the Intern Hack Week grand prize and demoing the new feature at Dropbox's all-hands. Alex is also not shy about reaching out for advice or help - a key skill when taking on new challenges."
+      },
+      {
+        "user": "https://www.linkedin.com/in/ghayes/",
+        "text": "Gil is a pleasure to work with; he is a hard worker with a great, positive attitude and works very well with the rest of the on and offshore teams, and with both dev and QE.  He picks up new technologies quickly, and learned a complex automation framework while developing automation for the client (itself a challenge).  Gil designed significant portions of the client automation, and came up with a number of creative and clever solutions to tricky problems with getting automation to run."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "1",
+      "items": [
+        "Jumping into C++"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/vibha-rao-18409162/",
+      "text": "Preferably, a Product Engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/aaron-passey-a87368/",
+      "text": "Principal Engineer at Dropbox"
+    },
+    {
+      "user": "https://www.linkedin.com/in/marla-potterveld-0a995234/",
+      "text": "Taking time to travel explore new places and study new things"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jcowling/",
+      "text": "Senior Principal Engineer at Dropbox"
+    },
+    {
+      "user": "https://www.linkedin.com/in/cluefulsoftwareengineer/",
+      "text": "Builder of amazing teams who care about building amazing technology"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sunnybr/",
+      "text": "Director of Engineering at Dropbox"
+    },
+    {
+      "user": "https://www.linkedin.com/in/emil-ibrishimov-58151041/",
+      "text": "Director of Engineering at Dropbox"
+    },
+    {
+      "user": "https://www.linkedin.com/in/maggie-daorai-572672101/",
+      "text": "Global SMB Strategy & Operations at Dropbox"
+    },
+    {
+      "user": "https://www.linkedin.com/in/andrewtwyman/",
+      "text": "Software Engineer/Architect"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tonyleesf/",
+      "text": "VP Engineering at Dropbox"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Alex Allain",
+    "headline": "Collaborative Problem Solver",
+    "location": "San Francisco Bay Area",
+    "connections": "500+",
+    "summary": "I enjoy working with smart, nice, passionate people who want to build great software. I've run both infrastructure and product engineering groups @ Dropbox, and I built many of the early features of Dropbox Business. Now, I help teams discover new product ideas.\n\nIn my spare time, I run the popular website Cprogramming.com and I wrote a well-received book on C++, Jumping into C++. I've also taught C, C++, and Scheme as a teaching fellow at Harvard."
+  }
+}

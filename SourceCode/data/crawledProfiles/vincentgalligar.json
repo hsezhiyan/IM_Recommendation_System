@@ -1,0 +1,206 @@
+{
+  "profileAlternative": {
+    "name": "Vincent Galligar",
+    "headline": "SQL Services Professional as Self-Employed Contractor and Consultant",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQF6iym5AkB_LQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=NdKcA6MipPwYe44Suj5mwLDcKUsmrIuK4aSfNPI3qho",
+    "location": "Greater Denver Area",
+    "connections": "131",
+    "summary": "Over 30 years as an IT professional with over 20 years in database related work. Strong SQL Server credentials with 14 years work experience and recent Microsoft professional certifications as a Database Administrator (DBA) and Database Developer (DBD). Proficient at providing BI support (SSIS and SSRS).\n\nPassionate about attention to details and quality. Strive to get it right the first time, and in time and within budget. Enjoy tackling a new challenge."
+  },
+  "aboutAlternative": {
+    "text": "Over 30 years as an IT professional with over 20 years in database related work. Strong SQL Server credentials with 14 years work experience and recent Microsoft professional certifications as a Database Administrator (DBA) and Database Developer (DBD). Proficient at providing BI support (SSIS and SSRS).\n\nPassionate about attention to details and quality. Strive to get it right the first time, and in time and within budget. Enjoy tackling a new challenge."
+  },
+  "positions": [
+    {
+      "title": "SQL Services Professional",
+      "companyName": "Self-Employed Contractor and Consultant",
+      "description": "Provide SQL Server DBA, DBD and BI (SSIS and SSRS) solutions. Also reporting development for Oracle.",
+      "date1": "Mar 2012 – Present",
+      "date2": "7 yrs 9 mos"
+    },
+    {
+      "title": "Senior SQL Developer",
+      "companyName": "Denver International Airport City and County of Denver",
+      "description": "Conversion of SQL 2000 and SQL 2008 databases into SQL Server 2014 database. Significant data analysis was done to find data and design issues and make recommendations on database design upgrades. Data and design analysis required a large amount of writing moderate to complex SQL queries. Pivot and Unpivot table relational operators were used as part of the database design analysis. Provided support and data checks and cleanup during user testing. Detailed documentation was provided so that the overall process could be repeated at a later time onto a production server.\n…\nsee more",
+      "date1": "Oct 2015 – Jan 2016",
+      "date2": "4 mos"
+    },
+    {
+      "title": "Data Architect/Analyst",
+      "companyName": "Office of Clerk and Recorder at City and County of Denver",
+      "description": "Contract position through reVision, Inc. “As-Is” and “To-Be” database analysis and design drawings. “As-Is” analysis covered design and data issues within existing databases. “To-Be” included the architecture of a Federated database system into which common elements of many City and County of Denver databases could be merged. Design drawings included mapping of the major Office of the Clerk and Records databases into the Federated database design and documentation for Federated System Standards and Rules. Data analysis required a large amount of writing moderate to complex SQL queries. Extensive use of Microsoft Visio for “As-Is” and “To-Be” design drawings.\n…\nsee more",
+      "date1": "Oct 2014 – Aug 2015",
+      "date2": "11 mos"
+    },
+    {
+      "title": "Contract Programmer",
+      "companyName": "Black Hills Energy",
+      "description": "Contractor through Catch Intelligence. ETL and reports project. Create Destination tables and T-SQL scripts to transfer data from raw Staging tables to these new Destination tables to provide for needed reports. Design and write T-SQL scripts and parameterized stored procedures for reports. Perform tuning and subsequent indexing to optimize performance.\n\nThe client had thought that this was a 3-4 month job. I initially told them that it would take less time. It ended up being about 6 weeks to provide everything that Black Hills Energy needed and this saved them quite a bit of money.\n…\nsee more",
+      "date1": "May 2014 – Jun 2014",
+      "date2": "2 mos"
+    },
+    {
+      "title": "Subcontractor",
+      "companyName": "Denver Public Schools",
+      "location": "Denver, CO",
+      "description": "Subcontractor through DawaBI, Inc at Denver Public Schools. Rewriting and creating new reports for new database design. These were Oracle databases using Oracle SQL Developer and Microsoft BIDS. Scripts were in PL/SQL but were written to be as compatible as possible to T-SQL for future Microsoft SQL Server database.",
+      "date1": "Sep 2012 – Mar 2013",
+      "date2": "7 mos"
+    },
+    {
+      "title": "Senior Database Software Engineer",
+      "companyName": "Grand Canyon National Park",
+      "description": "Analysis and updates for a ‘Plants and Species Research Application’ database used by the parks scientists. Much of this was reviewing and updating the database design to provide more efficient processing through the application. New data entities and data loads were provided. Data cleanup was performed to identify and remove duplicate data,",
+      "date1": "Mar 2012 – Aug 2012",
+      "date2": "6 mos"
+    },
+    {
+      "title": "Senior Database Software Engineer",
+      "companyName": "US Navy (North Island Navy Base, San Diego)",
+      "location": "Denver, CO",
+      "description": "Collaborated with Environmental Chemists and Analysts to provide data collection and management for environmental sampling data for NAVY facilities in San Diego. Modified an existing SQL Server database design for use with the Navy environmental restoration data. Data transfer was done from the legacy database to the new SQL Server Database along with a detailed analysis of the data and data issue. Provided support for loading new sample data and analytical results of the environmental sample collections (Soil, Air, Asbestos). New data was then extracted, bundled and loaded from SQL Server back into the Navy legacy system for their custom reports. A great deal of design setup of staging tables and SQL scripting was developed in a manner that it could be reused with minimum effort. This had to meet tight deadline and budget constraints.\n…\nsee more",
+      "date1": "Oct 2009 – Feb 2012",
+      "date2": "2 yrs 5 mos"
+    },
+    {
+      "title": "Senior Database Software Engineer",
+      "companyName": "Los Alamos National Laboratory",
+      "description": "Major high-profile endeavor for the Environment Restoration department of Los Alamos Nuclear Laboratory. Collaborated with Environmental Chemists, Analysts and Field people to provide data collection and management for environmental sampling data and their analytical results. This included tracking the measuring of various element, chemical and radiation in spatial locations from ground, water and air samples,\n\nTwo major phases. First was a SQL Server release 2000 production database to which data was consolidated from data sources including Oracle, Excel , Microsoft Access and flat files. Wrote stored procedures and triggers to support an a .net input/update application system. Incorporated an data verification and validations for each of the critical steps in gathering and completing samples. Designed, developed, and wrote data load scripts for a data warehouse that could be used for mapping and reports. Stored report criteria so that the reports could be verified and rerun as needed. Saved info about updated production data that would affect the results of saved reports. Designed production and data warehouse reports which included views, stored procedures and using Crystal Reports.\n\nSecond phase is when is was decided that the SQL production database and warehouse had to be redesigned to meet new business requirements and new technology. Started with SQL Server release 2005 and went through 2008 and 2008 R2. Several SSIS projects to feed data into legacy databases for the short tern and also to provide a method of moving data from the legacy databases to the new production database. Data analysis and SQL scripts were provided to enable data cleanup prior to moving to production. The production database had a audit database to track all data updates or deletions that was fed from triggers in the production database. New data warehouse was created and production and warehouse reports were redeveloped using views, stored procedure and BIDS (SSRS).\n…\nsee more",
+      "date1": "Mar 2000 – Jun 2011",
+      "date2": "11 yrs 4 mos"
+    },
+    {
+      "title": "Senior Database Software Engineer",
+      "companyName": "SAIC",
+      "description": "This was a project for EPA (Environmental Protection Agency). A SQL Server database was design and loaded from FoxPro data collection. Also setup the methodology for tracking the scanning of many hardcopy documents.",
+      "date1": "Sep 1999 – Mar 2000",
+      "date2": "7 mos"
+    },
+    {
+      "title": "Senior Database Developer",
+      "companyName": "R L Polk",
+      "location": "Denver, CO",
+      "description": "Maintained and developed applications for the database supporting the National Demograpics and Lifestyle division of the company.",
+      "date1": "Mar 1995 – Aug 1999",
+      "date2": "4 yrs 6 mos"
+    },
+    {
+      "title": "Contract IT position",
+      "companyName": "Western Gas Resources",
+      "location": "Denver, CO",
+      "description": "Maintained a legacy system while new system was being developed. Developed a FoxPro database and supporting application for tracking taxes on gas pipeline flows per state.",
+      "date1": "Sep 1992 – Dec 1994",
+      "date2": "2 yrs 4 mos"
+    },
+    {
+      "title": "Technical programmer",
+      "companyName": "Chevron",
+      "location": "Denver, CO",
+      "description": "Chevron Exploration and Production Services and Chevron Geosciences headquartered in Houston, TX",
+      "date1": "Sep 1980 – Aug 1992",
+      "date2": "12 yrs"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Michigan State University",
+      "degree": "Bachelor of Science (B.S.)",
+      "fieldofstudy": "Mathematics",
+      "date1": "1965",
+      "date2": "1969"
+    },
+    {
+      "title": "Michigan State University",
+      "degree": "Teaching Certificate",
+      "fieldofstudy": "Secondary Education and Teaching",
+      "date1": "1969",
+      "date2": "1970"
+    },
+    {
+      "title": "Michigan State University",
+      "degree": "Geology/Earth Science, General",
+      "fieldofstudy": "Geology/Earth Science, General",
+      "date1": "1972",
+      "date2": "1974"
+    },
+    {
+      "title": "University of Colorado at Boulder",
+      "degree": "Masters degree Secondary Education",
+      "fieldofstudy": "Masters degree Secondary Education",
+      "date1": "1978",
+      "date2": "1978"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Microsoft SQL Server",
+      "count": "14"
+    },
+    {
+      "title": "SQL",
+      "count": "12"
+    },
+    {
+      "title": "Data Warehousing",
+      "count": "11"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/jason-light-86379714/",
+      "text": "Project Executive - Healthcare at Okland Construction"
+    },
+    {
+      "user": "https://www.linkedin.com/in/michael-sparks-a49034154/",
+      "text": "Major Projects Manager at Otis Elevator"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jennifer-hamm-b7997124/",
+      "text": "Principal Consultant at LTS"
+    },
+    {
+      "user": "https://www.linkedin.com/in/deewilliamsresults/",
+      "text": "VP of Government Sales at PerSys Medical"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ram-krishna-13578b166/",
+      "text": "Sr. Technical Recruiter at Avani Tech Solutions Private Limited"
+    },
+    {
+      "user": "https://www.linkedin.com/in/david-metcalf-37b34135/",
+      "text": "Consultant"
+    },
+    {
+      "user": "https://www.linkedin.com/in/rajgundrathi/",
+      "text": "Sales Manager at AA Solutions Inc"
+    },
+    {
+      "user": "https://www.linkedin.com/in/david-cooper-3b524423/",
+      "text": "SQL Server Database Administrator"
+    },
+    {
+      "user": "https://www.linkedin.com/in/bhavya-reddy-68965645/",
+      "text": "Data Analytics | Business Intelligence | Data Visualization | Python | R | SQL | Tableau"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mike-hulen-96b9b2/",
+      "text": "Senior SQL Database Administrator"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Vincent Galligar",
+    "headline": "SQL Services Professional as Self-Employed Contractor and Consultant",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQF6iym5AkB_LQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=NdKcA6MipPwYe44Suj5mwLDcKUsmrIuK4aSfNPI3qho",
+    "location": "Greater Denver Area",
+    "connections": "131",
+    "summary": "Over 30 years as an IT professional with over 20 years in database related work. Strong SQL Server credentials with 14 years work experience and recent Microsoft professional certifications as a Database Administrator (DBA) and Database Developer (DBD). Proficient at providing BI support (SSIS and SSRS).\n\nPassionate about attention to details and quality. Strive to get it right the first time, and in time and within budget. Enjoy tackling a new challenge."
+  }
+}

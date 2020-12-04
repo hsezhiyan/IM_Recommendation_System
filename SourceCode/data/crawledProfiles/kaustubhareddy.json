@@ -1,0 +1,228 @@
+{
+  "profileAlternative": {
+    "name": "Kaustubha Govind",
+    "headline": "Software Engineering Manager at Google",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQHmJYA0HtMadA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=nCnBA4J_8YxaWdy3Xp87EFhmMDkqE6rnxW6WKAXmwgA",
+    "location": "Boston, Massachusetts",
+    "connections": "490"
+  },
+  "aboutAlternative": {},
+  "positions": [
+    {
+      "title": "Software Engineering Manager",
+      "companyName": "Google",
+      "location": "Cambridge, Massachusetts",
+      "date1": "Jan 2019 – Present",
+      "date2": "11 mos"
+    },
+    {
+      "title": "MathWorks",
+      "location": "Natick, Massachusetts",
+      "description": "Lead a team responsible for:\n* Developing infrastructure and tools for all phases of Simulink custom block/blockset authoring including user interface, implementation, building, testing, and deployment.\n* Extending core capabilities of Simulink, including modeling of attributes such as physical units.",
+      "date1": "May 2018 – Jan 2019",
+      "date2": "9 mos",
+      "roles": [
+        {
+          "title": "Senior Team Lead and Principal Software Engineer",
+          "date1": "May 2018 – Jan 2019",
+          "date2": "9 mos",
+          "location": "Natick, Massachusetts"
+        },
+        {
+          "title": "Senior Team Lead",
+          "date1": "May 2016 – Jan 2019",
+          "date2": "2 yrs 9 mos",
+          "location": "Greater Boston Area"
+        },
+        {
+          "title": "Senior Simulink Engine Developer",
+          "date1": "May 2014 – Apr 2016",
+          "date2": "2 yrs",
+          "location": "Natick, MA"
+        },
+        {
+          "title": "Simulink Engine & Real-Time Workshop Developer",
+          "date1": "Jun 2010 – May 2014",
+          "date2": "4 yrs",
+          "location": "Natick, Massachusetts"
+        },
+        {
+          "title": "Application Support Engineer",
+          "date1": "Jan 2008 – Jun 2010",
+          "date2": "2 yrs 6 mos",
+          "location": "Natick, Massachusetts"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSenior Team Lead and Principal Software Engineer",
+      "location": "Natick, Massachusetts",
+      "date1": "May 2018 – Jan 2019",
+      "date2": "9 mos",
+      "roles": [
+        {
+          "title": "Senior Team Lead and Principal Software Engineer",
+          "date1": "May 2018 – Jan 2019",
+          "date2": "9 mos",
+          "location": "Natick, Massachusetts"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSenior Team Lead",
+      "location": "Greater Boston Area",
+      "description": "Lead a team responsible for:\n* Developing infrastructure and tools for all phases of Simulink custom block/blockset authoring including user interface, implementation, building, testing, and deployment.\n* Extending core capabilities of Simulink, including modeling of attributes such as physical units.",
+      "date1": "May 2016 – Jan 2019",
+      "date2": "2 yrs 9 mos",
+      "roles": [
+        {
+          "title": "Senior Team Lead",
+          "date1": "May 2016 – Jan 2019",
+          "date2": "2 yrs 9 mos",
+          "location": "Greater Boston Area"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSenior Simulink Engine Developer",
+      "location": "Natick, MA",
+      "description": "* Lead specific areas for extending modeling capabilities in Simulink\n* Mentor new team members\n* Support internal and external customers",
+      "date1": "May 2014 – Apr 2016",
+      "date2": "2 yrs",
+      "roles": [
+        {
+          "title": "Senior Simulink Engine Developer",
+          "date1": "May 2014 – Apr 2016",
+          "date2": "2 yrs",
+          "location": "Natick, MA"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSimulink Engine & Real-Time Workshop Developer",
+      "location": "Natick, Massachusetts",
+      "description": "* Design and develop core Simulink Engine features\n* Support internal and external Simulink customers\n\nMATLAB Answers Profile: http://www.mathworks.com/matlabcentral/answers/contributors/1280935-kaustubha-govind/answers\n…\nsee more",
+      "date1": "Jun 2010 – May 2014",
+      "date2": "4 yrs",
+      "roles": [
+        {
+          "title": "Simulink Engine & Real-Time Workshop Developer",
+          "date1": "Jun 2010 – May 2014",
+          "date2": "4 yrs",
+          "location": "Natick, Massachusetts"
+        }
+      ]
+    },
+    {
+      "title": "Title\nApplication Support Engineer",
+      "location": "Natick, Massachusetts",
+      "description": "* Provided technical support for users of MATLAB and Simulink - specialized in the Simulink Code Generation and MATLAB Deployment areas.\n* Supported recruiting activities as Career Fair representative and interviewer.\n* Worked with various business groups within MathWorks on several projects:\n** Integration of Xilinx ISE with MATLAB/Simulink using TCL interface to allow a seamless workflow between Simulink HDL Coder and Xilinx Synthesis Tool.\n** Developed a Simulink custom target for the MPC 5567.\n** Designed and implemented training material on \"Developing Simulink Embedded Targets\" using the Arduino Duemilanove.\n** Worked on an internal infrastructure project with the Simulink Code Generation Development team.\n…\nsee more",
+      "date1": "Jan 2008 – Jun 2010",
+      "date2": "2 yrs 6 mos",
+      "roles": [
+        {
+          "title": "Application Support Engineer",
+          "date1": "Jan 2008 – Jun 2010",
+          "date2": "2 yrs 6 mos",
+          "location": "Natick, Massachusetts"
+        }
+      ]
+    }
+  ],
+  "educations": [
+    {
+      "title": "University of Pennsylvania",
+      "degree": "Master of Sciences in Engineering",
+      "fieldofstudy": "Electrical Engineering",
+      "date1": "2006",
+      "date2": "2007"
+    },
+    {
+      "title": "National Institute of Technology Warangal",
+      "degree": "B.Tech.",
+      "fieldofstudy": "Electronics and Commincation Engineering",
+      "date1": "2002",
+      "date2": "2006"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Matlab",
+      "count": "23"
+    },
+    {
+      "title": "Simulink",
+      "count": "21"
+    },
+    {
+      "title": "Embedded Systems",
+      "count": "16"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "3",
+      "items": [
+        "English",
+        "Hindi",
+        "Telugu"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/jamesgonthier/",
+      "text": "Senior Engineering Manager at The MathWorks, Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/ashokcharry/",
+      "text": "Software Engineering Architect"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jaya-shankar-4251868/",
+      "text": "Software Engineering, Senior Team Lead at MathWorks"
+    },
+    {
+      "user": "https://www.linkedin.com/in/poonamchawla2010/",
+      "text": "Software Engineer at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kunalshah5/",
+      "text": "Engineering Manager at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shannontran/",
+      "text": "Senior Director, Engineering Development Group at MathWorks"
+    },
+    {
+      "user": "https://www.linkedin.com/in/dong-jia-3323398/",
+      "text": "Engineering Manager at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/brenda-zhuang-073b91/",
+      "text": "Software Development Manager at MathWorks"
+    },
+    {
+      "user": "https://www.linkedin.com/in/keerthijosyula/",
+      "text": "Senior Application Developer at Starbucks"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ritika-pathak-88ab34a8/",
+      "text": "Engineering Manager at Google"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Kaustubha Govind",
+    "headline": "Software Engineering Manager at Google",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQHmJYA0HtMadA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=nCnBA4J_8YxaWdy3Xp87EFhmMDkqE6rnxW6WKAXmwgA",
+    "location": "Boston, Massachusetts",
+    "connections": "490"
+  }
+}

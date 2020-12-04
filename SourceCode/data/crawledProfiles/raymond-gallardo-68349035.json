@@ -1,0 +1,148 @@
+{
+  "profileAlternative": {
+    "name": "Raymond Gallardo",
+    "headline": "User Assistance Developer for Java SE at Oracle",
+    "location": "Montreal, Quebec, Canada",
+    "connections": "72"
+  },
+  "aboutAlternative": {},
+  "positions": [
+    {
+      "title": "Oracle",
+      "description": "• Documentation Release Lead for Java SE 8, 9, 10, 11, and 12. In this role, developed documentation plans and assigned tasks to other writers.\n• Created content for Java SE 7, 8, 9, 10, 11, and 12 for these guides: The Java Tutorials, Nashorn, Java Scripting, Internationalization, Java Usage Tracker, Garbage Collection, Internationalization, Accessibility, What's New, Tools, Core Libraries, and Java Security. Highlights include:\n- Managed the publication of The Java Tutorials (6th ed., Addison Wesley), including copy editing\n- Created document on invokedynamic instruction, which simplifies implementations of compilers for dynamic languages on JVM; was published in Java Magazine (Premiere Issue 2011) as \"Dynamically Typed Languages and the invokedynamic Instruction.\"\n- Created sample application for JDBC tutorial that supports MySQL and Java DB and includes Swing-based GUI.\n- Created section on how to work with bidirectional text in GUI applications.\n- Created sections on lambda expressions and method parameter reflection\n• Developed a certification preparation video for Java Programming II and wrote and reviewed questions for certification exams.\n• Helped plan migration of authoring format from FrameMaker to Arbortext/DITA/SDL and create Java documentation guidelines for DITA.\n• Responded to customer feedback and promptly fixed issues reported by customers.\n• Posted several blogs related to documentation during JavaOne and every Java SE release.\n• Coordinated a major nroff man page review for the tools pages.\n• Maintained build scripts that generate the developer's guide.\n• Updated and maintained scripts (written in Perl, C shell, and XSLT) that build documentation; updates include adding XML validation and documentation accessibility tests.\n• Presented web conferences to other Java writers. Previous topics include performing competitive reviews and virtual teams.\n…\nsee more",
+      "date1": "Apr 2009 – Present",
+      "date2": "10 yrs 8 mos",
+      "roles": [
+        {
+          "title": "User Assistance Developer for Java SE",
+          "date1": "Apr 2009 – Present",
+          "date2": "10 yrs 8 mos"
+        },
+        {
+          "title": "Technical Writer for Oracle Beehive and Oracle Collaboration Suite",
+          "date1": "Jul 2004 – Apr 2009",
+          "date2": "4 yrs 10 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nUser Assistance Developer for Java SE",
+      "description": "• Documentation Release Lead for Java SE 8, 9, 10, 11, and 12. In this role, developed documentation plans and assigned tasks to other writers.\n• Created content for Java SE 7, 8, 9, 10, 11, and 12 for these guides: The Java Tutorials, Nashorn, Java Scripting, Internationalization, Java Usage Tracker, Garbage Collection, Internationalization, Accessibility, What's New, Tools, Core Libraries, and Java Security. Highlights include:\n- Managed the publication of The Java Tutorials (6th ed., Addison Wesley), including copy editing\n- Created document on invokedynamic instruction, which simplifies implementations of compilers for dynamic languages on JVM; was published in Java Magazine (Premiere Issue 2011) as \"Dynamically Typed Languages and the invokedynamic Instruction.\"\n- Created sample application for JDBC tutorial that supports MySQL and Java DB and includes Swing-based GUI.\n- Created section on how to work with bidirectional text in GUI applications.\n- Created sections on lambda expressions and method parameter reflection\n• Developed a certification preparation video for Java Programming II and wrote and reviewed questions for certification exams.\n• Helped plan migration of authoring format from FrameMaker to Arbortext/DITA/SDL and create Java documentation guidelines for DITA.\n• Responded to customer feedback and promptly fixed issues reported by customers.\n• Posted several blogs related to documentation during JavaOne and every Java SE release.\n• Coordinated a major nroff man page review for the tools pages.\n• Maintained build scripts that generate the developer's guide.\n• Updated and maintained scripts (written in Perl, C shell, and XSLT) that build documentation; updates include adding XML validation and documentation accessibility tests.\n• Presented web conferences to other Java writers. Previous topics include performing competitive reviews and virtual teams.\n…\nsee more",
+      "date1": "Apr 2009 – Present",
+      "date2": "10 yrs 8 mos",
+      "roles": [
+        {
+          "title": "User Assistance Developer for Java SE",
+          "date1": "Apr 2009 – Present",
+          "date2": "10 yrs 8 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nTechnical Writer for Oracle Beehive and Oracle Collaboration Suite",
+      "description": "• Updated Oracle Calendar Application Developer’s Guide. Created XSL stylesheets to convert C/C++ API documentation (generated by Doxygen) to FrameMaker XML.\n• Updated Oracle Real-Time Collaboration Application Developer’s Guide.\n• Wrote Oracle Workspaces Application Developer’s Guide.\n• Created End-User Documentation Portal, which includes Web application that allows administrators to edit Web site’s table of contents without editing any HTML source.\n• Created XSL stylesheets to transform FrameMaker XML (of Oracle Calendar Server UNIX commands) to nroff-formatted text files.\n…\nsee more",
+      "date1": "Jul 2004 – Apr 2009",
+      "date2": "4 yrs 10 mos",
+      "roles": [
+        {
+          "title": "Technical Writer for Oracle Beehive and Oracle Collaboration Suite",
+          "date1": "Jul 2004 – Apr 2009",
+          "date2": "4 yrs 10 mos"
+        }
+      ]
+    },
+    {
+      "title": "Adjunct Faculty",
+      "companyName": "Macomb Community College",
+      "description": "Taught the following courses:\n\n• Preparatory Composition: Focuses on punctuation, sentence and paragraph structure. Prepares students for first year composition courses.\n\n• Communications 1: Combines study of composition with intensive preparation for professional and specialized writing needs. Develops competence in English sentence elements and skills in organizing, proofreading, and revising reports and essays.\n…\nsee more",
+      "date1": "Sep 2003 – May 2004",
+      "date2": "9 mos"
+    },
+    {
+      "title": "Technical Writer",
+      "companyName": "IBM Canada, Ltd",
+      "description": "• Designed, wrote, and revised manuals, tutorials, and other technical documents.\n• Developed sample applications and tools to facilitate generation and manipulation of documents.\n• Updated IBM Open Class User's Guide consisting of ten volumes. Wrote example applications, including those demonstrating IOC's user interface classes. Covered internationalization issues such as Unicode Standard.\n• Created ANSI/ISO-compliant, cross-platform, C/C++ language reference. Wrote and tested sample code. Collaborated with developers working on AS/400, S/390, and Intel platforms to ensure coverage of all IBM-supported operating systems.\n• Ported internal text-replacement tool from Windows to AIX.\n• Wrote several Perl scripts facilitating management of HTML documents, including script that generates table of contents for Dinkumware's Standard Template Library documentation.\n• Mentored co-op students. Familiarized them with information development processes and tools, and delegated to them assignments and projects.\n• Coordinated standardized process of generating PDF documents from HTML files.\n• Designed tutorial for WebSphere Business Components (WSBC). Tutorial included instructions for building Rose models, and basic concepts of Enterprise JavaBeans and JSP/Servlets development.\n• Documented use cases and functional requirements for Advanced and Base Components from WSBC.\n…\nsee more",
+      "date1": "Jan 1999 – Jul 2001",
+      "date2": "2 yrs 7 mos"
+    },
+    {
+      "title": "Assistant Kendo Instructor",
+      "companyName": "University of Toronto Kendo Club",
+      "description": "• Taught beginners fundamentals of kendo. Achieved 2-dan level (second-degree black belt).",
+      "date1": "Sep 1996 – Jul 2001",
+      "date2": "4 yrs 11 mos"
+    },
+    {
+      "title": "Volunteer High School Teacher",
+      "companyName": "WSBC",
+      "description": "• Taught Grades 11, 12, and OAC (Grade 13) courses.\n• Introduced fundamentals of C and C++ through data structures and algorithms.\n• Created lesson plans. Administered and graded programming assignments and tests.\n• Worked with supervising teachers to ensure that my lesson plans were in accordance with Ministry guidelines.\n• Provided necessary software for students to use to complete their assignments.\n…\nsee more",
+      "date1": "Sep 1997 – May 1999",
+      "date2": "1 yr 9 mos"
+    },
+    {
+      "title": "Bicycle Courier",
+      "companyName": "APX International Corp",
+      "description": "• Delivered packages throughout asphalt tributaries of Metropolitan Toronto.",
+      "date1": "Apr 1995 – May 1996",
+      "date2": "1 yr 2 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "The City College of New York",
+      "degree": "MA",
+      "fieldofstudy": "Creative Writing",
+      "date1": "2001",
+      "date2": "2003"
+    },
+    {
+      "title": "University of Toronto",
+      "degree": "BSc (Honours)",
+      "fieldofstudy": "Computer Science and English",
+      "date1": "1994",
+      "date2": "1999"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Technical Writing",
+      "count": "5"
+    },
+    {
+      "title": "HTML",
+      "count": "4"
+    },
+    {
+      "title": "Java",
+      "count": "3"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "1",
+      "items": [
+        "French"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "The Java Tutorials"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Raymond Gallardo",
+    "headline": "User Assistance Developer for Java SE at Oracle",
+    "location": "Montreal, Quebec, Canada",
+    "connections": "72"
+  }
+}

@@ -1,0 +1,343 @@
+{
+  "profileAlternative": {
+    "name": "Conor Cunningham",
+    "headline": "Partner Software Architect, SQL Server Engine at Microsoft",
+    "imageurl": "https://media.licdn.com/dms/image/C5103AQE9L5P2zJNdYA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=_eUjYtBPZGF-f5Xg6ruDN_BK2kZrgO4XEA_3dlcr-Mk",
+    "location": "Austin, Texas Area",
+    "connections": "500+",
+    "summary": "I develop software/services and grow teams to solve cutting-edge data problems for Microsoft. I serve as both a software executive and breadth architect for SQL Server/SQL Azure.\n\nSpecialties: managing large software projects, managing and growing software teams, architecture, scaling/performance, relational database query processing and optimization, disaster recovery planning, cloud services/PaaS, helping customers with cloud transitions/strategy"
+  },
+  "aboutAlternative": {
+    "text": "I develop software/services and grow teams to solve cutting-edge data problems for Microsoft. I serve as both a software executive and breadth architect for SQL Server/SQL Azure.\n\nSpecialties: managing large software projects, managing and growing software teams, architecture, scaling/performance, relational database query processing and optimization, disaster recovery planning, cloud services/PaaS, helping customers with cloud transitions/strategy"
+  },
+  "positions": [
+    {
+      "title": "Partner Software Architect, SQL Server Engine",
+      "companyName": "Microsoft",
+      "location": "Austin, TX; Seattle, WA",
+      "description": "Drove the architecture, feature teams, and quality for SQL Server's core database engine for SQL Server 2016 and SQL Server 2017. I also managed these two releases.\n\nBuilding next-generation relational database technologies that will appear in Microsoft SQL Server and Microsoft SQL Azure, SQL's online database service. Responsibilities include solving complex, end-to-end problems including working with large traditional and SaaS ISVs to integrate with SQL, designing next-generation database architectures, public speaking to about the value of the SQL platform and how it can make people successful, and interacting with external companies to inform and influence their use of Microsoft technologies. I have extensive experience working with diverse, international teams and guiding large groups of engineers to deliver on multiple software projects concurrently. I have experience and range to work on both the technical and the business parts of products, influencing product scope and focus to meet goals in both areas.\n…\nsee more",
+      "date1": "Jul 2008 – Present",
+      "date2": "11 yrs 5 mos"
+    },
+    {
+      "title": "Engineering Manager",
+      "companyName": "Lombardi Software",
+      "description": "Building/Managing a team working on future software products for Lombardi's Business Process Management offerings. Experience managing remote teams, building J2EE and C# applications, and doing SDLC developmental activities to improve the organization's software practices.",
+      "date1": "Dec 2006 – Jul 2008",
+      "date2": "1 yr 8 mos"
+    },
+    {
+      "title": "Microsoft Corporation",
+      "description": "Acted as a Development Lead and Architect in the Microsoft SQL Server Query Processor Team.\n\nManagement responsibilities included recruiting talent, performance evaluations, growing individual contributors, and making and meeting schedules using a number of development methodoligies over all aspects of the software development process. I have extensive experience in cross-team technical negotiations in large software development projects, often in undefined environments where each team has different, conflicting goals.\n\nMy technical experience in this role relates to building and tuning database management systems. I have experience with a range of different types of applications (OLTP, DSS, Data Warehouses), specifically with making each of these types of applications scale well.\n\nI am the author or co-author of a number of white papers, patents, specifications, blog entries, and peer-reviewed academic papers related to database system design and implementation.\n…\nsee more",
+      "date1": "Jun 2001 – Dec 2006",
+      "date2": "5 yrs 7 mos",
+      "roles": [
+        {
+          "title": "Architect/Development Lead",
+          "date1": "Jun 2001 – Dec 2006",
+          "date2": "5 yrs 7 mos"
+        },
+        {
+          "title": "Software Development Lead",
+          "date1": "Jun 1996 – Jun 2001",
+          "date2": "5 yrs 1 mo"
+        }
+      ]
+    },
+    {
+      "title": "Title\nArchitect/Development Lead",
+      "description": "Acted as a Development Lead and Architect in the Microsoft SQL Server Query Processor Team.\n\nManagement responsibilities included recruiting talent, performance evaluations, growing individual contributors, and making and meeting schedules using a number of development methodoligies over all aspects of the software development process. I have extensive experience in cross-team technical negotiations in large software development projects, often in undefined environments where each team has different, conflicting goals.\n\nMy technical experience in this role relates to building and tuning database management systems. I have experience with a range of different types of applications (OLTP, DSS, Data Warehouses), specifically with making each of these types of applications scale well.\n\nI am the author or co-author of a number of white papers, patents, specifications, blog entries, and peer-reviewed academic papers related to database system design and implementation.\n…\nsee more",
+      "date1": "Jun 2001 – Dec 2006",
+      "date2": "5 yrs 7 mos",
+      "roles": [
+        {
+          "title": "Architect/Development Lead",
+          "date1": "Jun 2001 – Dec 2006",
+          "date2": "5 yrs 7 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSoftware Development Lead",
+      "description": "I worked on a team that shipped a version 1.0 software product on a tight schedule. We developed a database engine that worked on approximately 16 different hardware instruction sets and small-footprint platforms and required debugging a variety of compiler, operating system, and hardware issues to deliver our product.",
+      "date1": "Jun 1996 – Jun 2001",
+      "date2": "5 yrs 1 mo",
+      "roles": [
+        {
+          "title": "Software Development Lead",
+          "date1": "Jun 1996 – Jun 2001",
+          "date2": "5 yrs 1 mo"
+        }
+      ]
+    }
+  ],
+  "educations": [
+    {
+      "title": "University of Washington, Seattle",
+      "degree": "Masters",
+      "fieldofstudy": "Computer Science",
+      "date1": "2002",
+      "date2": "2004"
+    },
+    {
+      "title": "University of Texas at Austin",
+      "degree": "Bachelor of Science",
+      "fieldofstudy": "Computer Science",
+      "date1": "1992",
+      "date2": "1996"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Software Development",
+      "count": "99+"
+    },
+    {
+      "title": "Databases",
+      "count": "99+"
+    },
+    {
+      "title": "Microsoft SQL Server",
+      "count": "99+"
+    },
+    {
+      "title": "Database Design",
+      "count": "67"
+    },
+    {
+      "title": "Scalability",
+      "count": "44"
+    },
+    {
+      "title": "Software Design",
+      "count": "38"
+    },
+    {
+      "title": "Agile Methodologies",
+      "count": "29"
+    },
+    {
+      "title": "Architecture",
+      "count": "24"
+    },
+    {
+      "title": "Distributed Systems",
+      "count": "23"
+    },
+    {
+      "title": "Performance Tuning",
+      "count": "22"
+    },
+    {
+      "title": "Data Warehousing",
+      "count": "18"
+    },
+    {
+      "title": "Web Services",
+      "count": "17"
+    },
+    {
+      "title": "Software Engineering",
+      "count": "16"
+    },
+    {
+      "title": "Architectures",
+      "count": "15"
+    },
+    {
+      "title": "Enterprise Architecture",
+      "count": "14"
+    },
+    {
+      "title": "SDLC",
+      "count": "9"
+    },
+    {
+      "title": "Cloud Computing",
+      "count": "9"
+    },
+    {
+      "title": "Integration",
+      "count": "7"
+    },
+    {
+      "title": "Algorithms",
+      "count": "3"
+    },
+    {
+      "title": "Software Project Management",
+      "count": "3"
+    },
+    {
+      "title": "System Architecture",
+      "count": "1"
+    },
+    {
+      "title": "SOA",
+      "count": "1"
+    },
+    {
+      "title": "ETL"
+    },
+    {
+      "title": "SQL",
+      "count": "91"
+    },
+    {
+      "title": "C#",
+      "count": "50"
+    },
+    {
+      "title": "Visual Studio",
+      "count": "22"
+    },
+    {
+      "title": ".NET",
+      "count": "15"
+    },
+    {
+      "title": "SaaS",
+      "count": "13"
+    },
+    {
+      "title": "C++",
+      "count": "9"
+    },
+    {
+      "title": "T-SQL",
+      "count": "7"
+    },
+    {
+      "title": "Windows Azure",
+      "count": "7"
+    },
+    {
+      "title": "Java Enterprise Edition",
+      "count": "6"
+    },
+    {
+      "title": "Java",
+      "count": "3"
+    },
+    {
+      "title": "XML",
+      "count": "2"
+    },
+    {
+      "title": "Operating Systems",
+      "count": "2"
+    },
+    {
+      "title": "SSIS",
+      "count": "2"
+    },
+    {
+      "title": "IIS",
+      "count": "2"
+    },
+    {
+      "title": "SSRS",
+      "count": "1"
+    },
+    {
+      "title": "Enterprise Software",
+      "count": "1"
+    },
+    {
+      "title": "Query Optimization",
+      "count": "6"
+    },
+    {
+      "title": "Large Scale Systems",
+      "count": "2"
+    },
+    {
+      "title": "SQL Tuning",
+      "count": "2"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "12",
+    "receivedCount": "4",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/rogerfleig/",
+        "text": "Conor is a world class developer and architect."
+      },
+      {
+        "user": "https://www.linkedin.com/in/ciprian-clinciu-824b352/",
+        "text": "Conor is going to be a key piece in any software development team he will work on. He is very smart, has excellent design/coding skills and excellent interpersonal skills. He is one of the few persons I know that have the luxury to chose between a management career and a techincal career because he is extremely capable of both. Conor was also a very good mentor for me\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/srik-raghavan-2a9594/",
+        "text": "Conor is incredibly smart and is a very clear thinker. He is also a very good leader and can communicate complex technical issues very well. Conor is very passionate about the work he does and it comes through. Conor is a great asset to any engineering organization."
+      },
+      {
+        "user": "https://www.linkedin.com/in/samueldruker/",
+        "text": "Conor is a great guy. Very smart, highly dedicated and a team player. I'd work with him anytime."
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/saimadhav-tiruvuri-1b4b0130/",
+        "text": "Sai has been instrumental in working with the SQL Server team to manage one of the largest TFS installations in the world.  It is a challenging environment because the scale of the server (many 10s of TB) make even simple tasks like branching difficult to execute.  We also are often testing pre-release versions of SQL or TFS on the server in production, adding even more complexity.  Sai has been a great partner in helping to debug hard problems at scale, deal with sometimes \"odd\" requests from the engineering team, and generally being beyond flexible to allow us to push the limits of what the software and hardware can do.  It's a great pleasure to work with someone on such a fun problem space where normal playbooks are often just not written to cover the class of challenges that exist in this environment."
+      },
+      {
+        "user": "https://www.linkedin.com/in/honggang/",
+        "text": "Honggang is able to look at complex problems and work through the details well.  He does not get frustrated easily and it is very easy to work with him.  I enjoy having him around.  Working with people like Honggang is one of the big reasons I returned to Microsoft."
+      }
+    ]
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/prakashsundaresan/",
+      "text": "VP of Software Engineering at Workday"
+    },
+    {
+      "user": "https://www.linkedin.com/in/dragan-tomic-b59710/",
+      "text": "Partner Engineering Manager at Microsoft"
+    },
+    {
+      "user": "https://www.linkedin.com/in/steve-herbert-2517155b/",
+      "text": "Principal Group Software Engineering Manager - Azure Data Platform - Data Governance at Microsoft"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sudin-bhat/",
+      "text": "PRINCIPAL ENGINEERING MANAGER"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sapnajeswani/",
+      "text": "Bringing customers to Azure Platform, enabling them to use Azure services worldwide"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tijefferson/",
+      "text": "Principal Development Director at Microsoft"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kapilg1/",
+      "text": "Director of Engineering for Azure Data Warehouse"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tobias-ternstr%C3%B6m-4281701/",
+      "text": "Director, Product Management @ Amazon Web Services"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ambanerjee/",
+      "text": "Principal Group Program Manager at Microsoft"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ttalius/",
+      "text": "Partner Director of Engineering at Azure Big Data, Microsoft"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Conor Cunningham",
+    "headline": "Partner Software Architect, SQL Server Engine at Microsoft",
+    "imageurl": "https://media.licdn.com/dms/image/C5103AQE9L5P2zJNdYA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=_eUjYtBPZGF-f5Xg6ruDN_BK2kZrgO4XEA_3dlcr-Mk",
+    "location": "Austin, Texas Area",
+    "connections": "500+",
+    "summary": "I develop software/services and grow teams to solve cutting-edge data problems for Microsoft. I serve as both a software executive and breadth architect for SQL Server/SQL Azure.\n\nSpecialties: managing large software projects, managing and growing software teams, architecture, scaling/performance, relational database query processing and optimization, disaster recovery planning, cloud services/PaaS, helping customers with cloud transitions/strategy"
+  }
+}

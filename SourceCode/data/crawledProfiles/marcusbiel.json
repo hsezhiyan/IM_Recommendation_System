@@ -1,0 +1,229 @@
+{
+  "profileAlternative": {
+    "name": "Marcus Biel",
+    "headline": "Java/Cloud Freelancer Munich/Remote at Clean Code Academy",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQFp4BCs30pgHQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=JCJ56xeJu9QIjaI8lMA-ISuXmdtQ2N7fOle1fOj_Y3Q",
+    "location": "Munich Area, Germany",
+    "connections": "500+",
+    "summary": "Marcus Biel (@MarcusBiel) is a well-known software craftsman, Java influencer and Clean Code Evangelist. He is also a regular speaker at Java conferences all over the world, such as JBCN Conf Barcelona, JavaZone Oslo and Oracle Code One in San Francisco. Besides this, he works as a technical reviewer for renowned Java books such as Effective Java, Core Java SE 9 for the Impatient or Java by Comparison.\n\nMarcus is well-known in the Java community, with a total of 75 000 followers across various social media platforms. In 2017, the editorial team at jaxenter.com rated him #13 in their list of the world’s top Java influencers.\n\nConsulting Services Profile\nMarcus offers services such as coaching of development teams in topics such as Java architecture and development, refactoring and clean code, cloud infrastructure, test automation, agile methodologies, and continuous deployment. He also offers requirements analysis, business, and technical design, implementation and code reviews.\n\nInternational Conference Appearances 2019\n\nJavaForum Stuttgart, 4th July, Stuttgart, Germany\nhttp://bit.ly/2S1Umhi\n\nDevoxx Poland, 24th of June, Krakow, Poland\nhttp://bit.ly/2Jw797Z\n\nDevTalks Bucharest, 6th June, Bucharest, Romania\nhttp://bit.ly/2Jm3uLb\n\nJNation, 4th June, Coimbra, Portugal\nhttp://bit.ly/30hB0YA\n\nJBCN Conf, 27th May, Barcelona, Spain\nhttp://bit.ly/2G3Dh22\n\nJOnTheBeach, 17th May, Marbella, Spain\nhttp://bit.ly/2JtJHYX\n\nKeynote: Teqnation, 15th May, Utrecht, Netherland\nhttp://bit.ly/2xyFTA7\n\nVirtual JUG, 2nd May, Online Event\nhttp://bit.ly/2G1ped6\n\nLatest Interviews\nManual on Java 11: http://bit.ly/ManualOnJava11\n\nJava 10 interview series — Part 1-5\nhttp://bit.ly/2JtxuD3\nhttp://bit.ly/2IFqMsh\nhttp://bit.ly/2HkPA9x\nhttp://bit.ly/2IqXDp3\nhttp://bit.ly/2k5b5jE\n\nExpert Check: What new features await us in Java 10?\nhttp://bit.ly/java10NewFeatures"
+  },
+  "aboutAlternative": {
+    "text": "Marcus Biel (@MarcusBiel) is a well-known software craftsman, Java influencer and Clean Code Evangelist. He is also a regular speaker at Java conferences all over the world, such as JBCN Conf Barcelona, JavaZone Oslo and Oracle Code One in San Francisco. Besides this, he works as a technical reviewer for renowned Java books such as Effective Java, Core Java SE 9 for the Impatient or Java by Comparison.\n\nMarcus is well-known in the Java community, with a total of 75 000 followers across various social media platforms. In 2017, the editorial team at jaxenter.com rated him #13 in their list of the world’s top Java influencers.\n\nConsulting Services Profile\nMarcus offers services such as coaching of development teams in topics such as Java architecture and development, refactoring and clean code, cloud infrastructure, test automation, agile methodologies, and continuous deployment. He also offers requirements analysis, business, and technical design, implementation and code reviews.\n\nInternational Conference Appearances 2019\n\nJavaForum Stuttgart, 4th July, Stuttgart, Germany\nhttp://bit.ly/2S1Umhi\n\nDevoxx Poland, 24th of June, Krakow, Poland\nhttp://bit.ly/2Jw797Z\n\nDevTalks Bucharest, 6th June, Bucharest, Romania\nhttp://bit.ly/2Jm3uLb\n\nJNation, 4th June, Coimbra, Portugal\nhttp://bit.ly/30hB0YA\n\nJBCN Conf, 27th May, Barcelona, Spain\nhttp://bit.ly/2G3Dh22\n\nJOnTheBeach, 17th May, Marbella, Spain\nhttp://bit.ly/2JtJHYX\n\nKeynote: Teqnation, 15th May, Utrecht, Netherland\nhttp://bit.ly/2xyFTA7\n\nVirtual JUG, 2nd May, Online Event\nhttp://bit.ly/2G1ped6\n\nLatest Interviews\nManual on Java 11: http://bit.ly/ManualOnJava11\n\nJava 10 interview series — Part 1-5\nhttp://bit.ly/2JtxuD3\nhttp://bit.ly/2IFqMsh\nhttp://bit.ly/2HkPA9x\nhttp://bit.ly/2IqXDp3\nhttp://bit.ly/2k5b5jE\n\nExpert Check: What new features await us in Java 10?\nhttp://bit.ly/java10NewFeatures"
+  },
+  "positions": [
+    {
+      "title": "Independent Senior Java Architect",
+      "companyName": "undisclosed",
+      "location": "Munich, Germany",
+      "description": "Java 11, Microservices, Micronaut, Rest, JSON",
+      "date1": "Jul 2019 – Present",
+      "date2": "5 mos"
+    },
+    {
+      "title": "Director of Developer Experience / Principal Product Manager Technical",
+      "companyName": "Red Hat",
+      "location": "Munich Area, Germany",
+      "description": "Helping create the vision for Red Hat's tools and technology and inspiring professional software and systems engineers to solve problems. Leading Developer Experience strategies across multiple product teams.\n\nResponsibilities:\n• Creating technical content\n• Speaking at conferences\n• Empowering engineers by delivering hands-on workshops\n• Building partnerships with individuals, companies, and organizations\n• Connecting with other engineers to identify how Red Hat might help them to be even more successful\n• Gathering product feedback that will inform engineering decision-making\n• Supporting engineers on forums, social media, meet-ups and other places\n…\nsee more",
+      "date1": "Mar 2019 – Jul 2019",
+      "date2": "5 mos"
+    },
+    {
+      "title": "Freelance",
+      "companyName": "Vodafone",
+      "location": "München",
+      "description": "Responsible for design, development, test and maintenance of distributed, large scale resilient systems. Backend / Middleware Development - Mostly SOA Webservices and Batch-Jobs\nJava 8, Spring 4, Spring Batch, JPA 2.1, Mockito, PowerMock, Junit, Maven, Sonar Qube",
+      "date1": "Jun 2013 – Mar 2019",
+      "date2": "5 yrs 10 mos"
+    },
+    {
+      "title": "Java Freelancer",
+      "companyName": "financial.com",
+      "location": "Munich, Germany",
+      "description": "Loadbalanced Jboss-domain-clustering in consideration of fulltime availability and full system resilience.\n\nJboss AS 7.1, Apache 2.2, Modcluster 1.2, Linux, MySQL 5, Maven 3.0.4, Hudson 2.x, Nexus 2.x",
+      "date1": "Feb 2013 – Mar 2013",
+      "date2": "2 mos"
+    },
+    {
+      "title": "Senior Software Engineer Java",
+      "companyName": "Wirecard AG",
+      "location": "Munich, Germany",
+      "description": "Processing of nfc/ credit card-transactions in in the six-figure range, in real time as well as in batch operations, in consideration of performance and full reliability. Rest and SOAP based remote communication (B2B and B2C), web frontend extensions,\nspecifying design-, architecture- and implementation-guidelines for the whole development team, interviews with new developers and acting as direct interface to product management.\n\n…\nsee more",
+      "date1": "Jul 2010 – Feb 2013",
+      "date2": "2 yrs 8 mos"
+    },
+    {
+      "title": "Senior Software Developer Java",
+      "companyName": "abs Fondsplattform",
+      "location": "Munich, Germany",
+      "description": "Development of the UI of a SOAP-based stock-market-ordering-proxy, introduction of quality guidelines using Sonar Server, release-management and productive rollout on a tomcat-cluster in consideration of fulltime availability and full system resilience",
+      "date1": "Jun 2009 – Jun 2010",
+      "date2": "1 yr 1 mo"
+    },
+    {
+      "title": "Developer Frontend",
+      "companyName": "Searchteq (formerly t-info GmbH)",
+      "location": "Munich, Germany",
+      "description": "Man in charge for SEO and XML local search interface, as used by bing maps. Analysis, design and implementation of a technical concept which increased the number of unique visitors of the local search engine by ten times.\nBased on my own (freetime) initiative, conversion of all development projects from Maven 1 to Maven2, inhouse training of all developer colleagues, integration of Hudson and Nexus as the company’s CI environment\nFrontend development (Java, HTML, CSS, Ajax) for a local search engine\n…\nsee more",
+      "date1": "Jun 2007 – Apr 2009",
+      "date2": "1 yr 11 mos"
+    },
+    {
+      "title": "Intern",
+      "companyName": "NCR AG",
+      "location": "Augsburg, Germany",
+      "description": "Thesis: Cash Office – The design and implementation of a retail cash management application in a store environment (Java Swing + JGoodies Forms Framework)\n\nUsed Tools & Technologies\nJava SE 5, Swing, JGoodies Framework, SQL, MS SQL, Tomcat 5.5, Eclipse 3.2\n…\nsee more",
+      "date1": "Aug 2006 – Mar 2007",
+      "date2": "8 mos"
+    },
+    {
+      "title": "Working Student",
+      "companyName": "Innowake GmbH",
+      "location": "Ulm, Germany",
+      "description": "Extensions for PHP based image database\nExtensions for an XML Parser\nDevelopment of an interface for a barcode scanner\nJava SE 5, J2EE 1.4, Struts 1.2, PHP 4, XML, Maven 1, Apache, Tomcat 5.5, DB2, Eclipse 3.1",
+      "date1": "Apr 2006 – Jul 2006",
+      "date2": "4 mos"
+    },
+    {
+      "title": "Intern",
+      "companyName": "Digicon Ltd",
+      "location": "Brisbane, Australia",
+      "description": "Refactoring of a Java CMS\nJUnit Testing\nAcceptance Tests with Fitnesse\nSEO Optimization of a Website\nJava SE 1.4, J2EE 1.4, Servlets, JSP, SEO, Fit + FitNesse, JBoss, Eclipse 2.1\n…\nsee more",
+      "date1": "Jun 2004 – Sep 2004",
+      "date2": "4 mos"
+    },
+    {
+      "title": "Intern",
+      "companyName": "Site Ezy Ltd.",
+      "location": "Brisbane, Australia",
+      "description": "Implementation of a PHP SMS Module\nDevelopment of user interfaces with access to a database in VB.Net\nDatabase design for MySQL and MS SQL Server\nPHP 4, VB.NET, SQL, MySQL, Visual Studio, MS SQL Server, Dreamweaver",
+      "date1": "Apr 2004 – Jun 2004",
+      "date2": "3 mos"
+    },
+    {
+      "title": "Intern",
+      "companyName": "2003 BMW AG",
+      "location": "Munich, Germany",
+      "description": "Development of a Struts-based user interface to simplify queries to an Oracle database for BMW vehicle parts.\nJava SE 1.4, J2EE 1.3, Struts 1.02, Tomcat 4.1, JDBC, SQL, Oracle, Eclipse 2.0",
+      "date1": "Sep 2002 – Feb 2003",
+      "date2": "6 mos"
+    },
+    {
+      "title": "Intern",
+      "companyName": "PC Professional Magazine",
+      "location": "Munich, Germany",
+      "description": "Working as a technical editor, editorial meetings, research for magazine articles, composition of magazine news flashs, Hardware benchmarking",
+      "date1": "Jul 2001 – Aug 2001",
+      "date2": "2 mos"
+    },
+    {
+      "title": "Social service in lieu of military service",
+      "companyName": "Eltern-Kind-Programm e.V.",
+      "location": "Gauting, Germany",
+      "description": "08/2000 - 07/2001 Office work, child care, computer administration, implementation of a PHP based website including a self-written CMS and some SEO (www.ekp.de)",
+      "date1": "Aug 2000 – Jul 2001",
+      "date2": "1 yr"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Hochschule Augsburg",
+      "degree": "Diplom(FH)",
+      "fieldofstudy": "Computer Science",
+      "date1": "2001",
+      "date2": "2007"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Java",
+      "count": "41"
+    },
+    {
+      "title": "Micronaut"
+    },
+    {
+      "title": "Quarkus"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "3",
+      "items": [
+        "English",
+        "German",
+        "Spanish"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Software Craftsmanship Community Munich"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/wolfgang-hennes-259235/",
+      "text": "Co-Founder / Entrepreneur / AI Data Scientist"
+    },
+    {
+      "user": "https://www.linkedin.com/in/markuseisele/",
+      "text": "father, dreamer, doer. living for solutions."
+    },
+    {
+      "user": "https://www.linkedin.com/in/meckel/",
+      "text": "What would you do if you weren‘t afraid?"
+    },
+    {
+      "user": "https://www.linkedin.com/in/philipp-redmann-0b911745/",
+      "text": "Java Tech-Recruiter & Gesellschafter bei MEINSTACK - Philipp Redmann und Moritz Heinen GbR"
+    },
+    {
+      "user": "https://www.linkedin.com/in/katharina-wagner-97734015a/",
+      "text": "Team Manager at Giga Recruitment"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mulalomadida/",
+      "text": "Software Engineer | Founder of Project Next SE | AI & Data Science Enthusiast"
+    },
+    {
+      "user": "https://www.linkedin.com/in/christianreber/",
+      "text": "Founder & CEO Pitch"
+    },
+    {
+      "user": "https://www.linkedin.com/in/courtney-mcgowan-b71296148/",
+      "text": "Head of Digital - We are hiring!"
+    },
+    {
+      "user": "https://www.linkedin.com/in/aakavalevich/",
+      "text": "Tech Lead@N26. We are hiring in best cities in Europe: Barcelona, Berlin and Vienna."
+    },
+    {
+      "user": "https://www.linkedin.com/in/patrikzlatic/",
+      "text": "Helping great developers find their next career adventure 🚀"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Administrator",
+      "experience": "EKP e.V.",
+      "description": "Science and Technology",
+      "date1": "Sep 2001 – Dec 2013",
+      "date2": "12 yrs 4 mos"
+    }
+  ],
+  "profile": {
+    "name": "Marcus Biel",
+    "headline": "Java/Cloud Freelancer Munich/Remote at Clean Code Academy",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQFp4BCs30pgHQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=JCJ56xeJu9QIjaI8lMA-ISuXmdtQ2N7fOle1fOj_Y3Q",
+    "location": "Munich Area, Germany",
+    "connections": "500+",
+    "summary": "Marcus Biel (@MarcusBiel) is a well-known software craftsman, Java influencer and Clean Code Evangelist. He is also a regular speaker at Java conferences all over the world, such as JBCN Conf Barcelona, JavaZone Oslo and Oracle Code One in San Francisco. Besides this, he works as a technical reviewer for renowned Java books such as Effective Java, Core Java SE 9 for the Impatient or Java by Comparison.\n\nMarcus is well-known in the Java community, with a total of 75 000 followers across various social media platforms. In 2017, the editorial team at jaxenter.com rated him #13 in their list of the world’s top Java influencers.\n\nConsulting Services Profile\nMarcus offers services such as coaching of development teams in topics such as Java architecture and development, refactoring and clean code, cloud infrastructure, test automation, agile methodologies, and continuous deployment. He also offers requirements analysis, business, and technical design, implementation and code reviews.\n\nInternational Conference Appearances 2019\n\nJavaForum Stuttgart, 4th July, Stuttgart, Germany\nhttp://bit.ly/2S1Umhi\n\nDevoxx Poland, 24th of June, Krakow, Poland\nhttp://bit.ly/2Jw797Z\n\nDevTalks Bucharest, 6th June, Bucharest, Romania\nhttp://bit.ly/2Jm3uLb\n\nJNation, 4th June, Coimbra, Portugal\nhttp://bit.ly/30hB0YA\n\nJBCN Conf, 27th May, Barcelona, Spain\nhttp://bit.ly/2G3Dh22\n\nJOnTheBeach, 17th May, Marbella, Spain\nhttp://bit.ly/2JtJHYX\n\nKeynote: Teqnation, 15th May, Utrecht, Netherland\nhttp://bit.ly/2xyFTA7\n\nVirtual JUG, 2nd May, Online Event\nhttp://bit.ly/2G1ped6\n\nLatest Interviews\nManual on Java 11: http://bit.ly/ManualOnJava11\n\nJava 10 interview series — Part 1-5\nhttp://bit.ly/2JtxuD3\nhttp://bit.ly/2IFqMsh\nhttp://bit.ly/2HkPA9x\nhttp://bit.ly/2IqXDp3\nhttp://bit.ly/2k5b5jE\n\nExpert Check: What new features await us in Java 10?\nhttp://bit.ly/java10NewFeatures"
+  }
+}

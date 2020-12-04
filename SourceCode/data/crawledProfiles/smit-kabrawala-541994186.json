@@ -1,0 +1,154 @@
+{
+  "profileAlternative": {
+    "name": "Smit Kabrawala",
+    "headline": "Python Developer at Pfizer",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQHxLGhuMT36SQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=MfAFxmuuzxp7X5SnlrjvPIWML721WL_vP9rUOxlPRdE",
+    "location": "Greater New York City Area",
+    "connections": "496",
+    "summary": "• 3+ years of IT experience in Analysis, Design, Development, Implementation and Testing of various stand-alone and client-server architecture-based enterprise application software in Python.\n• Experience working on Waterfall and Agile Methodologies - Scrum.\n• Handy experience in developing Web-Applications implementing Model View Control architectureusing Django, Flask and Spring web application frameworks.\n• Good Experience in Object Oriented Analysis in developing Front-End and Back-End frameworkusing various design patterns.\n• Experienced in developing API services in Python, Node.JS while leveraging AMQP and RabbitMQ for distributed architectures\n• Strong exposure in User interface, Web-based applications and Client-side validations using HTML5, CSS3, JavaScript, AJAX, JSON, XML, XSLT, Python, Django, Flask and jQuery.\n• Experienced in developing Web-based Applications using Python, CSS3, HTML5, JavaScript and jQuery, Angular.JS, Node.JS, React.JS and Bootstrap.\n• Experienced in developing Web Services with Python programming language.\n• Good knowledge of Web Services with protocols SOAP, REST.\n• Skilled experience in Python with using new tools and technical developments (Libraries Used: libraries - Beautiful Soup, Jasy, numpy, Scipy, matplotlib, Pickle, PySide, Pandas dataframe, network, urllib2, Pychart, High charts) to drive improvements throughout entire SDLC.\n• Wrote Python based APIs to interface between software and hardware by using Web Sockets and Flask.\n• Expertise in working with server-side technologies including databases, Restful APL and MVC design patterns.\n• Responsible for Data Backups, Restores and Recovery using tape.sys software.\n• Using Django evolution and manual SQL modifications were able to modify Django models while retaining all data, while the site was in production mode.\n• Hands-on experience with using software version control tools like Git and SVN.Familiar with RaspberryPI and Raspbian OS."
+  },
+  "aboutAlternative": {
+    "text": "• 3+ years of IT experience in Analysis, Design, Development, Implementation and Testing of various stand-alone and client-server architecture-based enterprise application software in Python.\n• Experience working on Waterfall and Agile Methodologies - Scrum.\n• Handy experience in developing Web-Applications implementing Model View Control architectureusing Django, Flask and Spring web application frameworks.\n• Good Experience in Object Oriented Analysis in developing Front-End and Back-End frameworkusing various design patterns.\n• Experienced in developing API services in Python, Node.JS while leveraging AMQP and RabbitMQ for distributed architectures\n• Strong exposure in User interface, Web-based applications and Client-side validations using HTML5, CSS3, JavaScript, AJAX, JSON, XML, XSLT, Python, Django, Flask and jQuery.\n• Experienced in developing Web-based Applications using Python, CSS3, HTML5, JavaScript and jQuery, Angular.JS, Node.JS, React.JS and Bootstrap.\n• Experienced in developing Web Services with Python programming language.\n• Good knowledge of Web Services with protocols SOAP, REST.\n• Skilled experience in Python with using new tools and technical developments (Libraries Used: libraries - Beautiful Soup, Jasy, numpy, Scipy, matplotlib, Pickle, PySide, Pandas dataframe, network, urllib2, Pychart, High charts) to drive improvements throughout entire SDLC.\n• Wrote Python based APIs to interface between software and hardware by using Web Sockets and Flask.\n• Expertise in working with server-side technologies including databases, Restful APL and MVC design patterns.\n• Responsible for Data Backups, Restores and Recovery using tape.sys software.\n• Using Django evolution and manual SQL modifications were able to modify Django models while retaining all data, while the site was in production mode.\n• Hands-on experience with using software version control tools like Git and SVN.Familiar with RaspberryPI and Raspbian OS."
+  },
+  "positions": [
+    {
+      "title": "Python Developer",
+      "companyName": "Pfizer",
+      "location": "Collegeville, PA",
+      "description": "• Review and provide recommendations and feedback on application content\n\n• Provide expertise with automation/orchestration\n\n• Participate in team Agile development process including planning meetings, design reviews, code reviews, and sprint retrospectives\n\n• Develop production-quality code\n\n• Document design and implementation details of development projects\n\n• Follows good software design practices\n\n• Must be abreast of latest technologies and trends and provide guidance\n\n• Performs other related duties as assigned\n…\nsee more",
+      "date1": "Aug 2019 – Present",
+      "date2": "4 mos"
+    },
+    {
+      "title": "Python Fullstack Developer",
+      "companyName": "Roche",
+      "description": "• Responsible for gathering requirements, system analysis, design, development, testing and deployment.\n• Attend walk-thru meetings with the clients to understand the requirements.\n• Extensively used Python requests module to call webservices. Used jQuery Ajax calls to build dynamic websites.\n• Worked on creating log-in authentication modules using AngularJS and JavaScript.\n• Deployed Django web application in Apache webserver and Carpathia cloud web deployment.\n• Written numerous Django templates for page rendering.\n• Build JSON objects using the framework which will be used by JavaScript to control the flow of the page.\n• Resolved performance related issues using efficient coding. Develop dynamic webpages using HTML5, CSS3, JavaScript and AJAX. Good knowledge on Python pickles. Worked on Bug fixes.\n• Created numerous reports using report lab and python packages. Installed numerous Python modules.\n• Built dB context, run context and other python objects that are reused by the application.\n• Developed complex web, middleware, and back end systems in Python, SQL and pearl for Linux and windows.\n• Used Pandas API to put the data as time series and tabular format for east timestamp data manipulation and retrieval. Created proof-of-concept using responsive web design, Node.js, React JS, HTML5 and CSS3.\n• For data conversion scripts used AMQP/Rabbit MQ, REST, JSON, and CRUD scripts for API Integration.\n• Involved in converting Hive/SQL queries into Spark transformations using Spark RDD, Scala and Python.\n\n…\nsee more",
+      "date1": "Oct 2018 – Present",
+      "date2": "1 yr 2 mos"
+    },
+    {
+      "title": "Python Developer",
+      "companyName": "Exert Infotech",
+      "location": "India",
+      "description": "• Programming in Python as well as Perl.Participated in the complete SDLC process.\n• Developed views and templates with Python and Django’s view controller and templating language to create a user-friendly website interface.\n• Developed user interface using CSS3, HTML5, JavaScript and jQuery.\n• Created entire applications using Python, Django, MySQL and Linux.\n• Designed and implemented a dedicated MYSQL database server to drive the web apps and report on daily progress.Used the Django framework for application development.\n• Wrote unit test cases for testing tools.Developed API modularizing existing python module with the help of pyyaml libraries.Designed and configured database and back end applications and programs.\n\n…\nsee more",
+      "date1": "Jan 2015 – Jul 2017",
+      "date2": "2 yrs 7 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "New Jersey Institute of Technology",
+      "degree": "Master's degree",
+      "fieldofstudy": "Computer Software Engineering",
+      "date1": "2017",
+      "date2": "2019"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Software Development Life Cycle (SDLC)",
+      "count": "1"
+    },
+    {
+      "title": "Python (Programming Language)",
+      "count": "1"
+    },
+    {
+      "title": "Agile Methodologies"
+    },
+    {
+      "title": "scrum"
+    },
+    {
+      "title": "Shell Scripting"
+    },
+    {
+      "title": "JavaScript"
+    },
+    {
+      "title": "JSON"
+    },
+    {
+      "title": "Pandas (Software)"
+    },
+    {
+      "title": "AngularJS"
+    },
+    {
+      "title": "Django"
+    },
+    {
+      "title": "SQL"
+    },
+    {
+      "title": "Windows"
+    },
+    {
+      "title": "Robotic Process Automation (RPA)"
+    },
+    {
+      "title": "Lunix"
+    },
+    {
+      "title": "Pyside"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/keitheberle/",
+      "text": "Python Developer at Advance Digital"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sarithak2011/",
+      "text": "Python Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/neel-patel-8090a592/",
+      "text": "Python Developer at Steele Compliance Solutions, Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/gusthedev/",
+      "text": "Python Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/eugen-jonas-0aab06189/",
+      "text": "Python Developer at ViaCoding"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shekharanjireddy/",
+      "text": "Python Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/skyler-x-a38a67157/",
+      "text": "Python Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sailaja-chint/",
+      "text": "Python Developer at AT&T"
+    },
+    {
+      "user": "https://www.linkedin.com/in/anusha-k-667199161/",
+      "text": "Python Developer at Charter"
+    },
+    {
+      "user": "https://www.linkedin.com/in/alexander-morgan-4356454/",
+      "text": "Python Developer"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Smit Kabrawala",
+    "headline": "Python Developer at Pfizer",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQHxLGhuMT36SQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=MfAFxmuuzxp7X5SnlrjvPIWML721WL_vP9rUOxlPRdE",
+    "location": "Greater New York City Area",
+    "connections": "496",
+    "summary": "• 3+ years of IT experience in Analysis, Design, Development, Implementation and Testing of various stand-alone and client-server architecture-based enterprise application software in Python.\n• Experience working on Waterfall and Agile Methodologies - Scrum.\n• Handy experience in developing Web-Applications implementing Model View Control architectureusing Django, Flask and Spring web application frameworks.\n• Good Experience in Object Oriented Analysis in developing Front-End and Back-End frameworkusing various design patterns.\n• Experienced in developing API services in Python, Node.JS while leveraging AMQP and RabbitMQ for distributed architectures\n• Strong exposure in User interface, Web-based applications and Client-side validations using HTML5, CSS3, JavaScript, AJAX, JSON, XML, XSLT, Python, Django, Flask and jQuery.\n• Experienced in developing Web-based Applications using Python, CSS3, HTML5, JavaScript and jQuery, Angular.JS, Node.JS, React.JS and Bootstrap.\n• Experienced in developing Web Services with Python programming language.\n• Good knowledge of Web Services with protocols SOAP, REST.\n• Skilled experience in Python with using new tools and technical developments (Libraries Used: libraries - Beautiful Soup, Jasy, numpy, Scipy, matplotlib, Pickle, PySide, Pandas dataframe, network, urllib2, Pychart, High charts) to drive improvements throughout entire SDLC.\n• Wrote Python based APIs to interface between software and hardware by using Web Sockets and Flask.\n• Expertise in working with server-side technologies including databases, Restful APL and MVC design patterns.\n• Responsible for Data Backups, Restores and Recovery using tape.sys software.\n• Using Django evolution and manual SQL modifications were able to modify Django models while retaining all data, while the site was in production mode.\n• Hands-on experience with using software version control tools like Git and SVN.Familiar with RaspberryPI and Raspbian OS."
+  }
+}

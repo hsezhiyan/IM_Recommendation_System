@@ -1,0 +1,425 @@
+{
+  "profileAlternative": {
+    "name": "Arun Gupta",
+    "headline": "Principal Open Source Technologist at Amazon Web Services",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQHDxHR3vnlQFg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=VDEoVuHhh5wl6FxiN0WQdMlXgFad6olx83E7KFkMpvU",
+    "location": "San Francisco Bay Area",
+    "connections": "500+",
+    "summary": "Arun Gupta is a Principal Open Source Technologist at Amazon Web Services. He has been building and leading developer communities for 10+ years at Sun, Oracle, Red Hat and Couchbase. He has deep expertise in leading cross-functional teams to develop and execute strategy, planning and execution of content, marketing campaigns, and programs. Prior to that he led engineering teams at Sun and is a founding member of the Java EE team.\n\nGupta has authored more than 2,000 blog posts on technology. He has extensive speaking experience in more than 40 countries on myriad topics and is a JavaOne Rock Star. Gupta also founded the Devoxx4Kids chapter in the US and continues to promote technology education among children. An author of a best-selling book, an avid runner, a globe trotter, a Java Champion, and a JUG leader, he is easily accessible at @arungupta."
+  },
+  "aboutAlternative": {
+    "text": "Arun Gupta is a Principal Open Source Technologist at Amazon Web Services. He has been building and leading developer communities for 10+ years at Sun, Oracle, Red Hat and Couchbase. He has deep expertise in leading cross-functional teams to develop and execute strategy, planning and execution of content, marketing campaigns, and programs. Prior to that he led engineering teams at Sun and is a founding member of the Java EE team.\n\nGupta has authored more than 2,000 blog posts on technology. He has extensive speaking experience in more than 40 countries on myriad topics and is a JavaOne Rock Star. Gupta also founded the Devoxx4Kids chapter in the US and continues to promote technology education among children. An author of a best-selling book, an avid runner, a globe trotter, a Java Champion, and a JUG leader, he is easily accessible at @arungupta."
+  },
+  "positions": [
+    {
+      "title": "Principal Open Source Technologist",
+      "companyName": "Amazon Web Services",
+      "location": "Palo Alto, CA",
+      "date1": "Apr 2017 – Present",
+      "date2": "2 yrs 8 mos"
+    },
+    {
+      "title": "OCI Trademark Board Member",
+      "companyName": "Open Container Initiative",
+      "date1": "Mar 2018 – Present",
+      "date2": "1 yr 9 mos"
+    },
+    {
+      "title": "Board Member",
+      "companyName": "CNCF [Cloud Native Computing Foundation]",
+      "date1": "Aug 2017 – Present",
+      "date2": "2 yrs 4 mos"
+    },
+    {
+      "title": "Vice President, Developer Relations",
+      "companyName": "Couchbase",
+      "location": "Mountain View, CA",
+      "description": "Any thing and everything related to developer evangelism/advocacy/marketing",
+      "date1": "Sep 2015 – Apr 2017",
+      "date2": "1 yr 8 mos"
+    },
+    {
+      "title": "Red Hat",
+      "location": "Mountain View, CA",
+      "description": "• Manage a team of Technical Marketing Managers and Developer Advocates\n• Plan and execute strategy for developer outreach efforts of JBoss Middleware products\n• Coordinate creation of collateral for field and sales enablement, developer awareness, and partner training\n• Build cross-functional partnerships with Product Management, Engineering, Marketing, Sales, and Services at multiple levels within the company\n• Actively work in a cross-functional team to define and drive launches of products,\nevents, and campaigns\n• Work with sales and and partner community for joint marketing events and collateral\n• Active blogging, authoring screencasts, whitepapers, articles, demos\n• Present technical sessions at conferences and community events globally\n…\nsee more",
+      "date1": "Apr 2015 – Sep 2015",
+      "date2": "6 mos",
+      "roles": [
+        {
+          "title": "Director Technical Marketing and Developer Advocacy",
+          "date1": "Apr 2015 – Sep 2015",
+          "date2": "6 mos",
+          "location": "Mountain View, CA"
+        },
+        {
+          "title": "Director, Developer Advocacy",
+          "date1": "Oct 2013 – Mar 2015",
+          "date2": "1 yr 6 mos",
+          "location": "Mountain View, CA"
+        }
+      ]
+    },
+    {
+      "title": "Title\nDirector Technical Marketing and Developer Advocacy",
+      "location": "Mountain View, CA",
+      "description": "• Manage a team of Technical Marketing Managers and Developer Advocates\n• Plan and execute strategy for developer outreach efforts of JBoss Middleware products\n• Coordinate creation of collateral for field and sales enablement, developer awareness, and partner training\n• Build cross-functional partnerships with Product Management, Engineering, Marketing, Sales, and Services at multiple levels within the company\n• Actively work in a cross-functional team to define and drive launches of products,\nevents, and campaigns\n• Work with sales and and partner community for joint marketing events and collateral\n• Active blogging, authoring screencasts, whitepapers, articles, demos\n• Present technical sessions at conferences and community events globally\n…\nsee more",
+      "date1": "Apr 2015 – Sep 2015",
+      "date2": "6 mos",
+      "roles": [
+        {
+          "title": "Director Technical Marketing and Developer Advocacy",
+          "date1": "Apr 2015 – Sep 2015",
+          "date2": "6 mos",
+          "location": "Mountain View, CA"
+        }
+      ]
+    },
+    {
+      "title": "Title\nDirector, Developer Advocacy",
+      "location": "Mountain View, CA",
+      "description": "• Plan and execute strategy for developer outreach efforts of JBoss Middleware products\n• Hire and manage a team of developer advocates\n• Actively work in a cross-functional team to develop and drive launches of products,\nevents, and campaigns\n• Create collateral for developer awareness, field sales enablement, and partner training\n• Work with sales and and partner community for joint marketing events and collateral\n• Active blogging, authoring screencasts, whitepapers, articles, demos\n• Present technical sessions at conferences and community events globally\n• Actively monitor and manage social media presence\n…\nsee more",
+      "date1": "Oct 2013 – Mar 2015",
+      "date2": "1 yr 6 mos",
+      "roles": [
+        {
+          "title": "Director, Developer Advocacy",
+          "date1": "Oct 2013 – Mar 2015",
+          "date2": "1 yr 6 mos",
+          "location": "Mountain View, CA"
+        }
+      ]
+    }
+  ],
+  "educations": [
+    {
+      "title": "Delhi University",
+      "degree": "MCA",
+      "fieldofstudy": "Computers",
+      "date1": "1993",
+      "date2": "1996"
+    },
+    {
+      "title": "Hans Raj College",
+      "degree": "BS Electronics",
+      "fieldofstudy": "Electronics",
+      "date1": "1990",
+      "date2": "1993"
+    },
+    {
+      "title": "D. T. E. A. Sr Sec School, Mandir Marg",
+      "degree": "XIIth standard",
+      "fieldofstudy": "Science",
+      "date1": "1988",
+      "date2": "1990"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Java Enterprise Edition",
+      "count": "99+"
+    },
+    {
+      "title": "Java",
+      "count": "99+"
+    },
+    {
+      "title": "Glassfish",
+      "count": "67"
+    },
+    {
+      "title": "Web Services",
+      "count": "64"
+    },
+    {
+      "title": "Cloud Computing",
+      "count": "30"
+    },
+    {
+      "title": "Agile Methodologies",
+      "count": "29"
+    },
+    {
+      "title": "Distributed Systems",
+      "count": "23"
+    },
+    {
+      "title": "Software Engineering",
+      "count": "14"
+    },
+    {
+      "title": "SOA",
+      "count": "8"
+    },
+    {
+      "title": "Enterprise Architecture",
+      "count": "8"
+    },
+    {
+      "title": "Web Development",
+      "count": "6"
+    },
+    {
+      "title": "Start-ups",
+      "count": "5"
+    },
+    {
+      "title": "Elementary Education"
+    },
+    {
+      "title": "Education"
+    },
+    {
+      "title": "REST",
+      "count": "60"
+    },
+    {
+      "title": "AJAX",
+      "count": "55"
+    },
+    {
+      "title": "Enterprise Software",
+      "count": "48"
+    },
+    {
+      "title": "Open Source",
+      "count": "46"
+    },
+    {
+      "title": "JSP",
+      "count": "33"
+    },
+    {
+      "title": "Weblogic",
+      "count": "28"
+    },
+    {
+      "title": "Oracle",
+      "count": "21"
+    },
+    {
+      "title": "JDBC",
+      "count": "12"
+    },
+    {
+      "title": "JavaScript",
+      "count": "9"
+    },
+    {
+      "title": "JSON",
+      "count": "6"
+    },
+    {
+      "title": "Ant",
+      "count": "4"
+    },
+    {
+      "title": "Hibernate",
+      "count": "3"
+    },
+    {
+      "title": "NetBeans",
+      "count": "3"
+    },
+    {
+      "title": "Ruby on Rails",
+      "count": "3"
+    },
+    {
+      "title": "CSS",
+      "count": "2"
+    },
+    {
+      "title": "Core Java",
+      "count": "2"
+    },
+    {
+      "title": "Tomcat",
+      "count": "1"
+    },
+    {
+      "title": "SOAP",
+      "count": "1"
+    },
+    {
+      "title": "EJB",
+      "count": "1"
+    },
+    {
+      "title": "Web 2.0",
+      "count": "1"
+    },
+    {
+      "title": "Public Speaking",
+      "count": "2"
+    },
+    {
+      "title": "Educational Leadership"
+    },
+    {
+      "title": "APIs",
+      "count": "23"
+    },
+    {
+      "title": "Middleware",
+      "count": "5"
+    },
+    {
+      "title": "Groovy",
+      "count": "2"
+    },
+    {
+      "title": "API"
+    },
+    {
+      "title": "Technology Evangelist",
+      "count": "20"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "9",
+    "receivedCount": "31",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/jonatkins/",
+        "text": "Arun is not only a Java luminary, he's also a prolific blogger and outstanding presenter that adds value to any team he's on."
+      },
+      {
+        "user": "https://www.linkedin.com/in/carlowaelens/",
+        "text": "Arun was just awesome to work with. He was always very correct and very interested about the possibilities of our Parleys platform. It was a true honor to be working with him and promoting his course."
+      },
+      {
+        "user": "https://www.linkedin.com/in/petr-jiricka-9463122/",
+        "text": "Arun did a great job orchestrating the Java EE 7 launch. This was a highly visible and successful event, thanks to Arun's central role. Thanks to Arun, the Java EE 7 platform is receiving a lot of attention these days."
+      },
+      {
+        "user": "https://www.linkedin.com/in/ayallagoldschmidt/",
+        "text": "Arun's passion for Java EE and Glassfish are second to none and it drives him to incredible accomplishments. As the Senior Director of Product Marketing, I had the opportunity to collaborate with Arun on the Java EE 7 launch, driving results that exceeded all expectations. Arun's relationships with our community and partners were instrumental to this event. He is a true Evangelist and he does it with love.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/heather-vancura-400395/",
+        "text": "Arun is a fantastic evangelist for Java EE and GlassFish. Not only does he understand the value that the community and the JCP program brings to the development of JSRs delivered as part of Java EE 7, he is also able to harness the energy of the JCP membership and Java User Groups as part of the Adopt-a-JSR effort. The diverse array of community participants that he brought into the product launch for Java EE 7 was impressive, and delivered in a highly innovative way.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/janiceheiss/",
+        "text": "Arun Gupta did a super-human job on this launch. A vast array of colleagues commented on the stellar job he did. The only thing that we questioned is \"when does he sleep?!\" Seriously, if I were running a launch, Arun would be my top pick bar none. His energy, smarts, know-how, etc., etc., cannot be lauded loudly enough. All I can say is Wow! I'm so glad to put this into words as he deserves every word of it.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/ashwinraop/",
+        "text": "Arun is without exaggeration the epitome of an evangelist. Passionate, enthusiastic and dedicated. As a Java EE evangelist, Arun has been instrumental in engaging with the community and driving adoption. In addition, his advocacy of developer productivity has been crucial in improving developer tooling for the Java EE platform and by NetBeans specifically. He was the driving force behind the recent, very successful, Java EE 7 world wide launch and he continues to play a key role in the continued adoption of the Java EE platform by the Java and enterprise communities.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/ganeshhiregoudar/",
+        "text": "Arun is a great person to work with. He is very helpful and very supportive in building student community in India and rest of the world. His talks have been appreciated a lot by developer community."
+      },
+      {
+        "user": "https://www.linkedin.com/in/paulhinz/",
+        "text": "Arun is absolutely a leading expert in Java EE and middleware application platforms. Arun is a highly skilled engineer leading multiple specs and helping to guide product requirements in multiple areas including rich web development, scripting and web services development as part of GlassFish. He's also the key world wide evangelist for GlassFish, the industry leading open web platform - meeting with multitudes of university staffs and students, with enterprising start-ups, established medium businesses and with major fortune 500 companies with mission critical application needs. For each audience, Arun provides deeply technical discussions but with focused simplified explanations. His efforts have resulted in the growth of worldwide sales over $100M in FY09, a 100% growth over FY08 and multitudes of new GlassFish advocates and customers worldwide.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/carlavmott/",
+        "text": "Arun has mastered many of the Java EE technologies to the point of effectively communicating the problem the technology solves as well as when and how to use it. He can quickly understand a technology and develops sample code that show how to utilize it to solve a real world problem so others can learn too. He regularly provides excellent feedback to development groups including how to improve common use case scenarios or APIs. Arun is self motivated, passionate and very enthusiastic about his work.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/dbotterill/",
+        "text": "Arun is very enthusiastic about everything he does. He brings energy to any situation he's in. Arun has delivered many technical webinars for Sun's Campus Ambassador program and always did a very professional job. Arun's technical ability along with his charisma make him a perfect match for high profile, high output positions."
+      },
+      {
+        "user": "https://www.linkedin.com/in/sharatchander/",
+        "text": "If there is anyone in my professional career who I would always want to work with, it's Arun. He is the epitomy of a self-starter, who needs little to zero direction to execute flawlessly. He has single-handedly developed the evangelism efforts for much of Sun's middleware stack, which has helped put it on the radar. His technical skills are unmatched and his personal skills makes him rise to the top. \"NO\" is not in Arun's vocabulary, and failure is never an option. I'll take Arun over any five employees every time. On many days, that's how he operates as 5 people in one. Simply amazing.\n…\nSee more"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/andressathorne/",
+        "text": "Andressa and I worked in the same team for a short period. She was EA to the SVP of Products and Engineering.\r\n\r\nHowever, her promptness and attention to detail was remarkable. She would always send meeting reminders on time and follow up on Action Items quite diligently. Giving a task to her means it'll be done!\r\n\r\nI would love to work with her again!"
+      },
+      {
+        "user": "https://www.linkedin.com/in/anilgaur/",
+        "text": "Anil is one of the best managers I've ever had.\r\n\r\nI was in Anil's org for ~6 years during my time at Sun/Oracle. At one point, I was reporting three levels under Anil. I was directly reporting to Anil during my last few years. I was one of the main evangelists for Enterprise Java. I was also responsible for planning and implementing Java EE part of the JavaOne keynote and tracks. I also led the launch of Java EE 7 during my last few months at Oracle.\r\n\r\nHis constant guidance and mentorship was truly instrumental in helping me operate and succeed. He was always available and was a perfect sounding board for any idea. His uncanny ability to balance between WebLogic/GlassFish product and Java EE community allowed me to execute on my crazy ideas on the community side and yet ensuring that business is growing.\r\n\r\nEven though he was three levels above me, he was very much accessible and always interested in listening to my ideas. He was prompt in responding to emails, reachable over IM, and just a walk down the hall. He would always encourage and suggest ideas to maintain the work/life balance.\r\n\r\nI would always look forward to his staff meetings to not only get an update on the overall business, but also as an opportunity to discuss common concerns. I've been highly inspired by his management style and adopted similar techniques for my teams at other places as well. His photography skills and penchant for music was evident in the creative slides he has presented at All Hands.\r\n\r\nEven though I left Oracle a while back, we've still maintained a steady friendship and greet each other on personal occasions. I'm always delighted to see a message from him. And feel comfortable reaching out to him for any personal consultation as well.\r\n\r\nI would love to work for/with him any day. Anybody would be lucky to have Anil as his manager."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "8",
+      "items": [
+        "Firecracker First Look",
+        "Kubernetes for Java Developers",
+        "Docker for Java Developers",
+        "Docker for Java Developers",
+        "Minecraft Modding with Forge",
+        "Java EE 7 and HTML5 Enterprise Application Development",
+        "Java EE 7 Essentials",
+        "Java EE 6 Pocket Guide"
+      ]
+    },
+    {
+      "count": "4",
+      "items": [
+        "OSCON",
+        "Devoxx Belgium",
+        "Devoxx UK",
+        "Devoxx4Kids USA"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/mjgowdar/",
+      "text": "Sr. Product Manager - Tech, Amazon Elastic Compute Cloud (EC2) at Amazon Web Services"
+    },
+    {
+      "user": "https://www.linkedin.com/in/alex-crichton-b99b7554/",
+      "text": "Staff Research Engineer at Mozilla"
+    },
+    {
+      "user": "https://www.linkedin.com/in/smw355/",
+      "text": "Co-Founder of Rancher"
+    },
+    {
+      "user": "https://www.linkedin.com/in/swaminathansivasubramanian/",
+      "text": "VP, Amazon AI"
+    },
+    {
+      "user": "https://www.linkedin.com/in/zaheda-bhorat-143121/",
+      "text": "Head of Open Source Strategy, Board of Directors"
+    },
+    {
+      "user": "https://www.linkedin.com/in/srividhyasrinivasan/",
+      "text": "VP, Google Ads"
+    },
+    {
+      "user": "https://www.linkedin.com/in/linustorvalds/",
+      "text": "Fellow at Linux Foundation"
+    },
+    {
+      "user": "https://www.linkedin.com/in/deekumar/",
+      "text": "Vice President, Product Marketing & Developer Relations, Keynote Speaker, Developer Advocate, Linux Foundation"
+    },
+    {
+      "user": "https://www.linkedin.com/in/vijoy/",
+      "text": "VP & CTO, Cloud & Distributed Systems | Cisco, Ex-Google, Ex-IBM"
+    },
+    {
+      "user": "https://www.linkedin.com/in/brad-topol-6273536/",
+      "text": "IBM Distinguished Engineer, Open Technology and Developer Advocate CTO for Kubernetes Technologies"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "President of the Board",
+      "experience": "Devoxx4Kids",
+      "description": "Education",
+      "date1": "Dec 2013 – Present",
+      "date2": "6 yrs"
+    }
+  ],
+  "profile": {
+    "name": "Arun Gupta",
+    "headline": "Principal Open Source Technologist at Amazon Web Services",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQHDxHR3vnlQFg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=VDEoVuHhh5wl6FxiN0WQdMlXgFad6olx83E7KFkMpvU",
+    "location": "San Francisco Bay Area",
+    "connections": "500+",
+    "summary": "Arun Gupta is a Principal Open Source Technologist at Amazon Web Services. He has been building and leading developer communities for 10+ years at Sun, Oracle, Red Hat and Couchbase. He has deep expertise in leading cross-functional teams to develop and execute strategy, planning and execution of content, marketing campaigns, and programs. Prior to that he led engineering teams at Sun and is a founding member of the Java EE team.\n\nGupta has authored more than 2,000 blog posts on technology. He has extensive speaking experience in more than 40 countries on myriad topics and is a JavaOne Rock Star. Gupta also founded the Devoxx4Kids chapter in the US and continues to promote technology education among children. An author of a best-selling book, an avid runner, a globe trotter, a Java Champion, and a JUG leader, he is easily accessible at @arungupta."
+  }
+}

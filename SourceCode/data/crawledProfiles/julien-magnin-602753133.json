@@ -1,0 +1,99 @@
+{
+  "profileAlternative": {
+    "name": "Julien Magnin",
+    "headline": "C, C++, ASM Programmer, Emulator Programmer",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQHXaP8gufv-Og/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=52-DQd6U-yXfAVU2GFW43DBAqdRcOECzCXskf3FLgx8",
+    "location": "Marseille 01, Provence-Alpes-Côte d’Azur, France",
+    "connections": "127",
+    "summary": "I'm part of the RyujiNX development team, a Nintendo Switch Emulator.\n\nI also program an OS."
+  },
+  "aboutAlternative": {
+    "text": "I'm part of the RyujiNX development team, a Nintendo Switch Emulator.\n\nI also program an OS."
+  },
+  "positions": [
+    {
+      "title": "Programmeur C, C++, ASM",
+      "companyName": "JoshProd",
+      "location": "Région de Marseille, France",
+      "date1": "Apr 2019 – Present",
+      "date2": "8 mos"
+    }
+  ],
+  "educations": [],
+  "skills": [
+    {
+      "title": "Programmation web",
+      "count": "3"
+    },
+    {
+      "title": "Programmation C",
+      "count": "5"
+    },
+    {
+      "title": "Assembleur",
+      "count": "2"
+    },
+    {
+      "title": "Programmation Vieux Hardware (NES, SNES, ATARI VCS)",
+      "count": "2"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/pia-du-bourguet/",
+      "text": "Présidente chez Junior CentraleSupélec"
+    },
+    {
+      "user": "https://www.linkedin.com/in/pierre-guillem-941ba224/",
+      "text": "Directeur commercial chez Traiteur la Truffe Noire"
+    },
+    {
+      "user": "https://www.linkedin.com/in/laurenebergman/",
+      "text": "Developpeur Java Fullstack chez HCube Conseil"
+    },
+    {
+      "user": "https://www.linkedin.com/in/anne-berger-sabbatel-725543a8/",
+      "text": "Responsable d'Affaires Junior chez CEGELEC TERTIAIRE ILE DE FRANCE ELECTRICITÉ"
+    },
+    {
+      "user": "https://www.linkedin.com/in/xavier-b%C3%A9net-a761ba15b/",
+      "text": "Développeur Junior Sage X3 Alternance chez Alternative Consult' Partner"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ibni-yamine/",
+      "text": "agent de conditionnement intérimaire chez SIBELL SA"
+    },
+    {
+      "user": "https://www.linkedin.com/in/david-debrun/",
+      "text": "Ingénieur informatique chez Atos"
+    },
+    {
+      "user": "https://www.linkedin.com/in/emilie-jaworski-543018149/",
+      "text": "Assistante ressources humaines"
+    },
+    {
+      "user": "https://www.linkedin.com/in/camille-francia-b4b616a6/",
+      "text": "Développeuse web chez Digital Virgo | Marketing Digital à la Performance"
+    },
+    {
+      "user": "https://www.linkedin.com/in/olivier-b-ab4a4466/",
+      "text": "Ingénieur / chef de Projet Informatique"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Julien Magnin",
+    "headline": "C, C++, ASM Programmer, Emulator Programmer",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQHXaP8gufv-Og/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=52-DQd6U-yXfAVU2GFW43DBAqdRcOECzCXskf3FLgx8",
+    "location": "Marseille 01, Provence-Alpes-Côte d’Azur, France",
+    "connections": "127",
+    "summary": "I'm part of the RyujiNX development team, a Nintendo Switch Emulator.\n\nI also program an OS."
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "profileAlternative": {
+    "name": "Jonathan Cleva",
+    "headline": "Full Stack Developer: Java, XML, XSLT, JavaScript, HTML5, CSS3 - at ec-systems.de",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQEh_6TXdsh4Uw/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=NBXdGkyXNqQCwinZQITqiGjK15F4f2LS6avZCyzGHWA",
+    "location": "Argentina",
+    "connections": "500+",
+    "summary": "I love programming, in any language and platform. I started in 2004 with vague knowledge of html, css and php, over time I was improving and incorporating new ones. Curious, restless and self-taught, convinced that everything can be learned and no language is impossible. I am currently a developer at EC Systems (www.ec-systems.de), a German company specializing in the development of technical documentation, which offers a web-based platform for the production of documentation in multiple languages and the possibility of re-use The different contents generated, which can be exported in different formats: PDF, Indesign, Photoshop, HTML, among others. Incursing in arduino and electronics."
+  },
+  "aboutAlternative": {
+    "text": "I love programming, in any language and platform. I started in 2004 with vague knowledge of html, css and php, over time I was improving and incorporating new ones. Curious, restless and self-taught, convinced that everything can be learned and no language is impossible. I am currently a developer at EC Systems (www.ec-systems.de), a German company specializing in the development of technical documentation, which offers a web-based platform for the production of documentation in multiple languages and the possibility of re-use The different contents generated, which can be exported in different formats: PDF, Indesign, Photoshop, HTML, among others. Incursing in arduino and electronics."
+  },
+  "positions": [
+    {
+      "title": "Java, xml, xslt, xsd, HTML5, CSS3 and Javascript Development",
+      "companyName": "Expert Communication Systems GmbH",
+      "location": "Munich y alrededores, Alemania",
+      "description": "We work in a online platform to manage documentation, which allows customers to generate documents in different languages and export the manuals in different formats: Word, Excel, indesign, pdf, html, Html Help (chm), and others.\nWe work with ExtJS as user interface and Java + xml + xslt in server.\n\nwww.ec-systems.de",
+      "date1": "Dec 2014 – Present",
+      "date2": "5 yrs"
+    },
+    {
+      "title": "Web Development - Front End Engineer",
+      "companyName": "Trend Design",
+      "location": "Córdoba, Argentina",
+      "description": "I worked as a full stack developer, developing templates and plugins in wordpress, ecommerce with woocommerce and prestashop, dynamic websites with php (codeigniter), in the last time began to develop mobile applications with phonegap and api rest in PHP",
+      "date1": "Dec 2006 – Dec 2014",
+      "date2": "8 yrs 1 mo"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Instituto Superior Santo domingo",
+      "degree": "Analista en sistemas",
+      "fieldofstudy": "Analista en sistemas",
+      "date1": "2018"
+    },
+    {
+      "title": "Udemy",
+      "degree": "JavaScript",
+      "date1": "2017",
+      "date2": "2017"
+    },
+    {},
+    {
+      "title": "Udemy",
+      "degree": "React, Angular and Vue - Basics.",
+      "date1": "2017",
+      "date2": "2017"
+    },
+    {},
+    {
+      "title": "Udemy",
+      "degree": "Sass: basic concepts and first practices",
+      "date1": "2017",
+      "date2": "2017"
+    },
+    {},
+    {
+      "title": "La Metro",
+      "degree": "Diseñador Multimedia",
+      "fieldofstudy": "Desarrollo web - multimedia",
+      "date1": "2004",
+      "date2": "2007"
+    }
+  ],
+  "skills": [
+    {
+      "title": "CSS",
+      "count": "15"
+    },
+    {
+      "title": "jQuery",
+      "count": "11"
+    },
+    {
+      "title": "HTML5",
+      "count": "7"
+    },
+    {
+      "title": "PHP",
+      "count": "7"
+    },
+    {
+      "title": "WordPress",
+      "count": "5"
+    },
+    {
+      "title": "Photoshop",
+      "count": "5"
+    },
+    {
+      "title": "HTML",
+      "count": "4"
+    },
+    {
+      "title": "MySQL",
+      "count": "4"
+    },
+    {
+      "title": "JavaScript",
+      "count": "3"
+    },
+    {
+      "title": "XML",
+      "count": "1"
+    },
+    {
+      "title": "XSLT"
+    },
+    {
+      "title": "Java"
+    },
+    {
+      "title": "Arduino"
+    },
+    {
+      "title": "React.js"
+    },
+    {
+      "title": "Angular"
+    },
+    {
+      "title": "ES6"
+    },
+    {
+      "title": "Team Leadership",
+      "count": "2"
+    },
+    {
+      "title": "Apache Cordova"
+    },
+    {
+      "title": "Desarrollo web",
+      "count": "8"
+    },
+    {
+      "title": "Inglés",
+      "count": "3"
+    },
+    {
+      "title": "Optimización en buscadores",
+      "count": "2"
+    },
+    {
+      "title": "Liderazgo de equipos",
+      "count": "1"
+    },
+    {
+      "title": "Desarrollo de programas para Android"
+    },
+    {
+      "title": "Lenguaje SASS"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "2",
+    "receivedCount": "1",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/maximiliano-miotti/",
+        "text": "Excelente desempeño como supervisor de trabajo y consejero durante mi período como programador iniciado. Destaco a Jonathan por su alta capacidad de llevar adelante proyectos multimedia y de software para la web."
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/maximiliano-miotti/",
+        "text": "Maximiliano es un excelente desarrollador. Atento al detalle y el funcionamiento y constante superación.\r\nExigente, proactivo y resolutivo.\r\nEs una persona para confiar a la hora de emprender desarrollos desafiantes."
+      },
+      {
+        "user": "https://www.linkedin.com/in/matiasfuentes/",
+        "text": "Hace mucho tiempo que trabajo para Matías en el desarrollo de sitios web, aplicaciones y todo tipo de piezas digitales. Es organizado y se interesa por los proyectos. Se asesora previamente, para estar al tanto de las condicinoes y posibilidades de cada desarrollo. Es muy buen coordinador y muy buen diseñador."
+      }
+    ]
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/ncostamagna/",
+      "text": "FullStack Developer & Data Scientist"
+    },
+    {
+      "user": "https://www.linkedin.com/in/fernandogoliva/",
+      "text": "Programador .NET"
+    },
+    {
+      "user": "https://www.linkedin.com/in/maurisandev/",
+      "text": "Java Software Developer en Reserv IT Solutions / 15K.+"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nicol%C3%A1s-lucas-taboada-511105a8/",
+      "text": "Javascript Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nicol%C3%A1s-bertolucci-25596792/",
+      "text": "PHP Developer en Egencia"
+    },
+    {
+      "user": "https://www.linkedin.com/in/claudia-martirena-b8309129/",
+      "text": "Comunicadora radial en FM Ciudad 104.9 - \"Por Amor al Arte\" programa dedicado a la Cultura y a las Artes."
+    },
+    {
+      "user": "https://www.linkedin.com/in/darrengj/",
+      "text": "Head Of Technology at PrivateFly"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ryan-staniforth-a2924438/",
+      "text": "Test Manager at Legal & General"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sophanypun/",
+      "text": "Freelance Fullstack Web Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/branislav-havrila-57922a57/",
+      "text": "Mobile developer"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Jonathan Cleva",
+    "headline": "Full Stack Developer: Java, XML, XSLT, JavaScript, HTML5, CSS3 - at ec-systems.de",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQEh_6TXdsh4Uw/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=NBXdGkyXNqQCwinZQITqiGjK15F4f2LS6avZCyzGHWA",
+    "location": "Argentina",
+    "connections": "500+",
+    "summary": "I love programming, in any language and platform. I started in 2004 with vague knowledge of html, css and php, over time I was improving and incorporating new ones. Curious, restless and self-taught, convinced that everything can be learned and no language is impossible. I am currently a developer at EC Systems (www.ec-systems.de), a German company specializing in the development of technical documentation, which offers a web-based platform for the production of documentation in multiple languages and the possibility of re-use The different contents generated, which can be exported in different formats: PDF, Indesign, Photoshop, HTML, among others. Incursing in arduino and electronics."
+  }
+}

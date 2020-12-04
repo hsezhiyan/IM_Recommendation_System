@@ -1,0 +1,388 @@
+{
+  "profileAlternative": {
+    "name": "Rachelle Palmer",
+    "headline": "Global Director, Atlas Technical Services Engineering at MongoDB",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQF4xHus0VtNBQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=gf090qelgXGM4_YCVzb0Eiw8DRZX1jmWj_ARS7DG4b8",
+    "location": "Raleigh-Durham, North Carolina Area",
+    "connections": "500+",
+    "summary": "Engineering Management with focus on SREs, DevOps, and SysAdmin. 14 years of experience in technology software engineering, implementation, and technical program management. Current focus is MongoDB, cloud operations and automation. Team size: 36 engineers."
+  },
+  "aboutAlternative": {
+    "text": "Engineering Management with focus on SREs, DevOps, and SysAdmin. 14 years of experience in technology software engineering, implementation, and technical program management. Current focus is MongoDB, cloud operations and automation. Team size: 36 engineers."
+  },
+  "positions": [
+    {
+      "title": "Member",
+      "companyName": "Forbes Technology Council",
+      "date1": "Aug 2019 – Present",
+      "date2": "4 mos"
+    },
+    {
+      "title": "MongoDB",
+      "location": "Greater New York City Area",
+      "description": "Technical Services Engineering is responsible for customer success with MongoDB, our tools ecosystem, and hardware sizing and set up for scalable, high availability architectures. We provide application support for backup, monitoring, automation tools, BI Connectors, drivers, backend as a service, and cloud products.\n\nMy day to day primarily is spent supervising a team of 18 engineers who are busy resolving network, security, operational, and systems integration issues for MongoDB's largest customers, as well as troubleshooting monitoring, backup, and automation tools for MongoDB deployments.\n\n\n…\nsee more",
+      "date1": "Jan 2018 – Present",
+      "date2": "1 yr 11 mos",
+      "roles": [
+        {
+          "title": "Global Director, Technical Services Engineering (Atlas)",
+          "date1": "Jan 2018 – Present",
+          "date2": "1 yr 11 mos",
+          "location": "Greater New York City Area"
+        },
+        {
+          "title": "Director, Applications and Integrations Technical Services Engineering - North America",
+          "date1": "Mar 2017 – Jan 2018",
+          "date2": "11 mos",
+          "location": "Greater New York City Area"
+        },
+        {
+          "title": "Manager, Applications and Integration - North America. Technical Services Engineering Team.",
+          "date1": "Apr 2015 – Mar 2017",
+          "date2": "2 yrs",
+          "location": "Greater New York City Area"
+        },
+        {
+          "title": "Technical Program Manager, Cloud Engineering",
+          "date1": "Dec 2013 – Apr 2015",
+          "date2": "1 yr 5 mos",
+          "location": "Greater New York City Area"
+        }
+      ]
+    },
+    {
+      "title": "Title\nGlobal Director, Technical Services Engineering (Atlas)",
+      "location": "Greater New York City Area",
+      "date1": "Jan 2018 – Present",
+      "date2": "1 yr 11 mos",
+      "roles": [
+        {
+          "title": "Global Director, Technical Services Engineering (Atlas)",
+          "date1": "Jan 2018 – Present",
+          "date2": "1 yr 11 mos",
+          "location": "Greater New York City Area"
+        }
+      ]
+    },
+    {
+      "title": "Title\nDirector, Applications and Integrations Technical Services Engineering - North America",
+      "location": "Greater New York City Area",
+      "date1": "Mar 2017 – Jan 2018",
+      "date2": "11 mos",
+      "roles": [
+        {
+          "title": "Director, Applications and Integrations Technical Services Engineering - North America",
+          "date1": "Mar 2017 – Jan 2018",
+          "date2": "11 mos",
+          "location": "Greater New York City Area"
+        }
+      ]
+    },
+    {
+      "title": "Title\nManager, Applications and Integration - North America. Technical Services Engineering Team.",
+      "location": "Greater New York City Area",
+      "description": "Technical Services Engineering is responsible for customer success with MongoDB, our tools ecosystem, and hardware sizing and set up for scalable, high availability architectures. We provide application support for backup, monitoring, automation tools, BI Connectors, drivers, backend as a service, and cloud products.\n\nMy day to day primarily is spent supervising a team of 18 engineers who are busy resolving network, security, operational, and systems integration issues for MongoDB's largest customers, as well as troubleshooting monitoring, backup, and automation tools for MongoDB deployments.\n\n\n…\nsee more",
+      "date1": "Apr 2015 – Mar 2017",
+      "date2": "2 yrs",
+      "roles": [
+        {
+          "title": "Manager, Applications and Integration - North America. Technical Services Engineering Team.",
+          "date1": "Apr 2015 – Mar 2017",
+          "date2": "2 yrs",
+          "location": "Greater New York City Area"
+        }
+      ]
+    },
+    {
+      "title": "Title\nTechnical Program Manager, Cloud Engineering",
+      "location": "Greater New York City Area",
+      "description": "Program Manager - Cloud Engineering.\n\nPrimarily responsible for technical program management of the MongoDB Management Service, a software as a service (SaaS) product focused on monitoring, backup, and automation of MongoDB. Major responsibilities:\n- Manage technical projects and features, working closely with software engineers and technical staff to develop and track release milestones and schedules for the many moving parts that need to come together for an agile, 3 week release cycle\n- Develop a plan and schedule with well-defined milestones.\n- Manage communication of progress/status within the engineering team and external to the team (with customers, partners, etc). Escalate issues as necessary.\n- Assess the quality of releases through monitoring of incoming bugs. Identify quality issues and trends.\n- Develop tools and processes to monitor and improve software engineering productivity\n- Communicate product updates and release notes internally to other MongoDB teams\n\n…\nsee more",
+      "date1": "Dec 2013 – Apr 2015",
+      "date2": "1 yr 5 mos",
+      "roles": [
+        {
+          "title": "Technical Program Manager, Cloud Engineering",
+          "date1": "Dec 2013 – Apr 2015",
+          "date2": "1 yr 5 mos",
+          "location": "Greater New York City Area"
+        }
+      ]
+    },
+    {
+      "title": "Co-Founder",
+      "companyName": "EDM Sauce",
+      "location": "Greater New York City Area",
+      "date1": "2011 – Nov 2013",
+      "date2": "2 yrs"
+    },
+    {
+      "title": "Senior Consultant & Product Manager - Deloitte Consulting Innovation (DCI)",
+      "companyName": "Deloitte Consulting",
+      "location": "Greater New York City Area",
+      "description": "From 2010 to early 2013, I served as a senior consultant on various technology projects. Typically, I was involved from statement of work through go live, serving clients through scoping and requirements to deployment. In this capacity, I have served as a tester, trainer, functional lead, technical lead, developer, data modeler, integration lead, and project manager. I facilitated interviews and meetings with internal and external partners to gather business requirements, discuss current and future state processes, and other surrounding context required to build technical solutions of all kinds, including mobile, web, and desktop custom applications.\n\nIn 2013, I moved to the Deloitte Consulting Innovation (DCI) team, and became responsible for the strategy and ideation of new technology, lines of business, or strategies for Deloitte USA. In this capacity, I lead and participated in Strategy and Product Ideation sessions, ran innovation challenges via Spigit, evaluated and developed innovative concepts, prototypes, pilot programs, pricing analysis, and designed/implemented new parts of our organizational structure (small teams, particularly Agile development teams).\n\nAs an example of the type of work\n- DCI would receive a proposal\n- A member of the team would evaluate it in lieu of our current offerings, market needs, and adjacency to future strategy\n- Put together a business case, including pricing analysis, competitive analysis, cost estimates, and rough outline of project timeline and implementation details\n- Present that proposal to teammates at DCI and Chief Innovation officer\n- If approved, the proposal would be passed along by CIO to the board\n- If approved, the DCI team member would commence early stage startup requirements, such as identifying facilities needs, nailing down the budget, and finding a leadership team for the project.\n- Turn over the project to new leadership team\n…\nsee more",
+      "date1": "Jan 2010 – Nov 2013",
+      "date2": "3 yrs 11 mos"
+    },
+    {
+      "title": "Partner",
+      "companyName": "Spinnakr",
+      "description": "Web Optimization and Customer Analytics firm advisor.",
+      "date1": "Jan 2011 – Jan 2012",
+      "date2": "1 yr 1 mo"
+    },
+    {
+      "title": "Partner",
+      "companyName": "Giv.to",
+      "description": "Technology start up focusing on social media fundraising for nonprofits and political campaigns",
+      "date1": "2009 – 2011",
+      "date2": "2 yrs"
+    },
+    {
+      "title": "Senior Consultant",
+      "companyName": "Accenture",
+      "location": "Greater Los Angeles Area",
+      "description": "Technology implementations senior consultant focused on web and mobile applications. Responsible for design, build, test, and training. Clients in Consumer Products and Retail primarily.\n\nClients:\n- US Postal Service\n- Best Buy\n- Johnson and Johnson\n\n…\nsee more",
+      "date1": "May 2007 – Aug 2008",
+      "date2": "1 yr 4 mos"
+    },
+    {
+      "title": "Consultant",
+      "companyName": "BearingPoint",
+      "location": "McLean, Virginia",
+      "date1": "Nov 2004 – Jun 2007",
+      "date2": "2 yrs 8 mos"
+    },
+    {
+      "title": "Intern / Analyst",
+      "companyName": "Rothschild",
+      "description": "Financial analysis, excel, valuation, and identification of potential M&A clients.",
+      "date1": "May 2004 – Nov 2004",
+      "date2": "7 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Georgetown University",
+      "degree": "Masters",
+      "fieldofstudy": "Business Administration",
+      "date1": "2010",
+      "date2": "2013"
+    },
+    {
+      "title": "Indiana University - Kelley School of Business",
+      "degree": "Certificate",
+      "fieldofstudy": "Business Analytics",
+      "date1": "2011",
+      "date2": "2011"
+    },
+    {
+      "title": "Mount Holyoke College",
+      "degree": "BA",
+      "fieldofstudy": "Political Science and African Studies",
+      "date1": "2000",
+      "date2": "2004"
+    },
+    {
+      "title": "Harvard University",
+      "date1": "2002",
+      "date2": "2002"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Management",
+      "count": "7"
+    },
+    {
+      "title": "Linux",
+      "count": "4"
+    },
+    {
+      "title": "Strategy",
+      "count": "51"
+    },
+    {
+      "title": "Management Consulting",
+      "count": "39"
+    },
+    {
+      "title": "Start-ups",
+      "count": "27"
+    },
+    {
+      "title": "Project Management",
+      "count": "27"
+    },
+    {
+      "title": "Business Process Improvement",
+      "count": "22"
+    },
+    {
+      "title": "Strategic Planning",
+      "count": "17"
+    },
+    {
+      "title": "Technology Integration",
+      "count": "3"
+    },
+    {
+      "title": "Agile"
+    },
+    {
+      "title": "Software Development"
+    },
+    {
+      "title": "Distributed Systems"
+    },
+    {
+      "title": "MongoDB",
+      "count": "7"
+    },
+    {
+      "title": "Bash",
+      "count": "1"
+    },
+    {
+      "title": "Amazon Web Services (AWS)"
+    },
+    {
+      "title": "Google Cloud Platform (GCP)"
+    },
+    {
+      "title": "Open Source Software"
+    },
+    {
+      "title": "Software as a Service (SaaS)"
+    },
+    {
+      "title": "Leadership",
+      "count": "15"
+    },
+    {
+      "title": "Engineering Management"
+    },
+    {
+      "title": "Infrastructure as a Service (IaaS)"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "4",
+    "receivedCount": "6",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/joshuamaag/",
+        "text": "Rachelle has been the best manager I have ever reported to. She's intelligent and honest, works fantastically under pressure and is always striving to solve real issues in the environments that she manages. I learned a great deal from her and continue to do so. Anyone who works for her should use the opportunity to grow and excel in their own careers. For those who work besides her, she is a force to be reckoned with and her opinion should always be seriously considered.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/holly-barnett/",
+        "text": "I have been fortunate to have had the opportunity to work with Rachelle for a little over two years now at MongoDB during her time as a director for our Applications and Integrations support team, and more recently while she’s held a position as Global Director (Atlas Support) within the Technical Services Engineering organization. While working with Rachelle, she has shown time and time again her ability and desire to do what is best for our customers, our team, and the company. She has consistently gone above and beyond for those around her without hesitation. Throughout my time here, Rachelle has scaled the ever-growing Cloud Support team to nearly 40 global team members. She has also held a mentorship program to help guide those within the organization in developing their leadership skills, passing along the expertise she’s learned during her time as a leader to those around her. She has repeatedly solved complex issues with her technical knowledge, innovation, and passion. I know with absolute certainty that Rachelle would be an asset to any team she’s apart of and they would be extremely lucky to have her.\n…\nSee more"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/alan-mccoy-sf/",
+        "text": "I highly recommend Alan as a colleague and a technical professional. He is diligent, organized, and clear in his approach to challenges; he is dependable, pleasant, and unfailingly positive in his outlook no matter the situation. Our team and our customers rely on him heavily and I consider myself lucky to work with him."
+      },
+      {
+        "user": "https://www.linkedin.com/in/jarrodphipps/",
+        "text": "It was a true pleasure working with Jarrod on the 3D printing discovery center initiative at Deloitte Consulting. He is clear, strategic, focused, and also approaches challenges with humor and enthusiasm."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "3",
+      "items": [
+        "German",
+        "Japanese",
+        "Spanish"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "2nd Place, Mergers, Integration and Divestiture Case Competition",
+        "Finalist, \"Women in DC Tech\""
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "U.S Food Aid Resource Management System (USFARMS)"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/charles-lee-530806100/",
+      "text": "Sr Solutions Architect at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/cailinanne/",
+      "text": "SVP Engineering, Cloud Services at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/marieatterbury/",
+      "text": "Technical Services at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/coralparmar/",
+      "text": "Seasoned Technology Executive Focused on Customer Experience"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sarahcottay/",
+      "text": "VP Engineering, Consumer at Spotify"
+    },
+    {
+      "user": "https://www.linkedin.com/in/27017/",
+      "text": "Senior Application Engineer at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/niyati1/",
+      "text": "Business Operations, Product Management, & Growth Leader"
+    },
+    {
+      "user": "https://www.linkedin.com/in/alexandra-bogus-56669a49/",
+      "text": "Senior Product Manager at Amplify"
+    },
+    {
+      "user": "https://www.linkedin.com/in/luli-ordinola-89481b2a/",
+      "text": "Director of Accounting"
+    },
+    {
+      "user": "https://www.linkedin.com/in/steven-collins-694b9674/",
+      "text": "Cloud Support Associate at MongoDB"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Editor",
+      "experience": "Lean In Women In Tech India",
+      "description": "Science and Technology",
+      "date1": "Feb 2018 – Present",
+      "date2": "1 yr 10 mos"
+    },
+    {
+      "title": "Member of the Board",
+      "experience": "Kid Power, Inc.",
+      "description": "Children",
+      "date1": "2010",
+      "date2": "less than a year"
+    },
+    {
+      "title": "Surgical Intern",
+      "experience": "Johns Hopkins Bayview Medical Center",
+      "description": "Health",
+      "date1": "Feb 2011 – May 2011",
+      "date2": "4 mos"
+    }
+  ],
+  "profile": {
+    "name": "Rachelle Palmer",
+    "headline": "Global Director, Atlas Technical Services Engineering at MongoDB",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQF4xHus0VtNBQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=gf090qelgXGM4_YCVzb0Eiw8DRZX1jmWj_ARS7DG4b8",
+    "location": "Raleigh-Durham, North Carolina Area",
+    "connections": "500+",
+    "summary": "Engineering Management with focus on SREs, DevOps, and SysAdmin. 14 years of experience in technology software engineering, implementation, and technical program management. Current focus is MongoDB, cloud operations and automation. Team size: 36 engineers."
+  }
+}

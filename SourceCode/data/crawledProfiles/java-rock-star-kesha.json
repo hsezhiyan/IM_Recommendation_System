@@ -1,0 +1,305 @@
+{
+  "profileAlternative": {
+    "name": "Kesha Williams",
+    "headline": "Software Engineer & AWS Technical Instructor @ A Cloud Guru, AWS ML Hero, Alexa Champion, AWS Certified, Speaker, Author",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQHTUhq67DugjA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=t5DBK0HrF2YOilaNEOMHi8EglJeCXfut-yvFQh4iMHo",
+    "location": "Atlanta, Georgia",
+    "connections": "500+",
+    "summary": "Kesha Williams is an award-winning software engineer, machine learning practitioner, and technical instructor at A Cloud Guru with 24 years’ experience. She's trained and mentored thousands of software engineers in the US, Europe, and Asia while teaching at the university level. She routinely leads innovation teams in proving out emerging technologies and shares her learnings at conferences across the globe. She's spoken about machine learning on the TED stage as a winner of TED’s Spotlight Presentation Academy. Additionally, her pioneering work in the field of artificial intelligence earned her the distinction of both Alexa Champion and AWS Machine Learning Hero from Amazon. In her spare time, she leads the Georgia chapter of Technovation and mentors women in tech.\n\n-To learn more about me, visit my website at http://www.kesha.tech.\n-Do you want me to speak at your event, set up a meeting using my calendar https://calendly.com/keshawillz"
+  },
+  "aboutAlternative": {
+    "text": "Kesha Williams is an award-winning software engineer, machine learning practitioner, and technical instructor at A Cloud Guru with 24 years’ experience. She's trained and mentored thousands of software engineers in the US, Europe, and Asia while teaching at the university level. She routinely leads innovation teams in proving out emerging technologies and shares her learnings at conferences across the globe. She's spoken about machine learning on the TED stage as a winner of TED’s Spotlight Presentation Academy. Additionally, her pioneering work in the field of artificial intelligence earned her the distinction of both Alexa Champion and AWS Machine Learning Hero from Amazon. In her spare time, she leads the Georgia chapter of Technovation and mentors women in tech.\n\n-To learn more about me, visit my website at http://www.kesha.tech.\n-Do you want me to speak at your event, set up a meeting using my calendar https://calendly.com/keshawillz"
+  },
+  "positions": [
+    {
+      "title": "A Cloud Guru",
+      "location": "Atlanta, GA",
+      "description": "-Develop video courses and short-form content for the Amazon Web Services (AWS) platform\n-Serve as an evangelist for A Cloud Guru in the technical community",
+      "date1": "Jul 2019 – Present",
+      "date2": "5 mos",
+      "roles": [
+        {
+          "title": "AWS Technical Instructor",
+          "date1": "Jul 2019 – Present",
+          "date2": "5 mos",
+          "location": "Atlanta, GA"
+        },
+        {
+          "title": "Freelance Technical Instructor",
+          "date1": "Aug 2018 – Jul 2019",
+          "date2": "1 yr"
+        }
+      ]
+    },
+    {
+      "title": "Title\nAWS Technical Instructor",
+      "location": "Atlanta, GA",
+      "description": "-Develop video courses and short-form content for the Amazon Web Services (AWS) platform\n-Serve as an evangelist for A Cloud Guru in the technical community",
+      "date1": "Jul 2019 – Present",
+      "date2": "5 mos",
+      "roles": [
+        {
+          "title": "AWS Technical Instructor",
+          "date1": "Jul 2019 – Present",
+          "date2": "5 mos",
+          "location": "Atlanta, GA"
+        }
+      ]
+    },
+    {
+      "title": "Title\nFreelance Technical Instructor",
+      "description": "I am the instructor/author for A Cloud Guru's Soda-theft Detection Device maker lab. In this lab, I unbox the AWS DeepLens device and use deep learning models and computer vision to prevent soda theft.",
+      "date1": "Aug 2018 – Jul 2019",
+      "date2": "1 yr",
+      "roles": [
+        {
+          "title": "Freelance Technical Instructor",
+          "date1": "Aug 2018 – Jul 2019",
+          "date2": "1 yr"
+        }
+      ]
+    },
+    {
+      "title": "Guest Speaker",
+      "companyName": "Independent Speaking Engagements",
+      "description": "-AWS Machine Learning Web Day - 11/19\n-NW Atlanta AWS Meetup - 10/19\n-Grace Hopper Celebration - 10/19\n-AWS Developer Influencer Summit - 8/19\n-Revolution Conference (Keynote) - 6/19\n-AWS Summit Atlanta - 5/19\n-DevOps Days Atlanta - 4/19\n-Multi-Unit Restaurant Technology Conference (MURTEC) - 3/19\n-AIMA Innovation Series Speaker - 2/19\n-Alexa Conference (Keynote) - 1/19\n-AI World - 12/18\n-AWS re:Invent 2018 - 11/18\n-WITI Atlanta - 10/18\n-Pluralsight LIVE - 8/18\n-O'Reilly OSCON - 7/18\n-KeepCoding Connect (Keynote) - 7/18\n-Thunder Nerds Interview - 6/18\n-We RISE by Women Who Code - 6/18\n-Women in Technology (WIT) - 6/18\n-Alexa in Canada podcast 6/18\n-This Week in Voice podcast 6/18\n-WITI Summit 6/18\n-PHP[TEK] 6/18\n-Georgia State University (GSU) (Keynote) 4/18\n-ChickTech: ACT-W 4/18\n-New Orleans Entrepreneur Week 3/18\n-JazzCon.Tech 3/18\n-Women of Silicon Valley 3/18\n-Women Who Code Atlanta 3/18\n-Southern Company HQ 3/18\n-SushinePHP 2/18\n-NDC{London} 1/18\n-PubConf London 1/18\n-.NET Rocks Interview 1/18\n-Femgineer Interview 12/17\n-The Connect Show 12/17\n-DataSciCon.Tech 12/17\n-PHP[World] 11/17\n-Google DevFest Orlando 11/17\n-Thunder Nerds Interview 11/17\n-Google DevFest Atlanta (Keynote) 11/17\n-All Things Open 10/17\n-NomadPHP 10/17\n- HBCU Tech Summit 10/17\n-Women Who Code Atlanta 9/17\n-STEM Atlanta Women 9/17\n-Connect.Tech 9/17\n-The Connect Show 8/17\n-Scenic City Summit 7/17\n-TED Institute - Spotlight Presentation Academy- 7/17\n-We RISE by Women Who Code - 6/17\n-MailChimp HQ 6/17\n-Open for Business 6/17\n-PHP[TEK] 5/17\n-Women in Technology (WIT) 3/17\n-Atlanta Science Festival/Emory 3/17\n-General Assembly 3/17\n-Hollis Innovation Academy 2/17\n-Tech Square Labs 2/17\n-General Assembly 2/17\n-Usher's New Look Foundation 10/16\n…\nsee more",
+      "date1": "Oct 2016 – Present",
+      "date2": "3 yrs 2 mos"
+    },
+    {
+      "title": "Freelance Instructor",
+      "companyName": "Udacity",
+      "description": "I am an instructor in the following nanodegree programs: Cloud Developer, Cloud DevOps, and Java Developer.",
+      "date1": "Mar 2019 – Present",
+      "date2": "9 mos"
+    },
+    {
+      "title": "Freelance Author",
+      "companyName": "Pluralsight",
+      "description": "I am the author of \"Spring Boot Fundamentals”, Spring Data Mongo: Getting Started\", \"Building Microservices REST APIs Using Spring Data REST\", and \"Data Transactions with Spring\".",
+      "date1": "Dec 2017 – Present",
+      "date2": "2 yrs"
+    },
+    {
+      "title": "Freelance Author",
+      "companyName": "LinkedIn",
+      "description": "I am the author of \"Debiasing AI using Amazon SageMaker\", \"Java Persistence API (JPA): The Basics\", \"Java Persistence API (JPA): Inheritance and Querying\", \"Java EE: Web Services\", and \"Programming Foundations: APIs and Web Services\".",
+      "date1": "Nov 2017 – Present",
+      "date2": "2 yrs 1 mo"
+    },
+    {
+      "title": "Freelance Author",
+      "companyName": "Manning Publications Co.",
+      "description": "I am the author of \"AWS Machine Learning in Motion\".",
+      "date1": "Dec 2017 – Present",
+      "date2": "2 yrs"
+    },
+    {
+      "title": "Freelance Author",
+      "companyName": "Cloud Academy, Inc.",
+      "description": "I am the author of the course, \"Using Amazon Alexa to Perform Voice Activated CI/CD Builds and Deployments\".",
+      "date1": "Feb 2019 – Present",
+      "date2": "10 mos"
+    },
+    {
+      "title": "Freelance Author",
+      "companyName": "Packt",
+      "description": "I am the co-author of \"Beginning Machine Learning with AWS\"",
+      "date1": "Oct 2018 – Present",
+      "date2": "1 yr 2 mos"
+    },
+    {
+      "title": "Java Editor",
+      "companyName": "InfoQ",
+      "description": "I am an editor for the Java section of InfoQ. I contribute news on all aspects of Java, the JVM and related ecosystem.",
+      "date1": "Jan 2018 – Present",
+      "date2": "1 yr 11 mos"
+    },
+    {
+      "title": "Adjunct Instructor (Java)",
+      "companyName": "University of California, Irvine Division of Continuing Education",
+      "location": "Irvine, California",
+      "description": "Developed online courses in the topics of Java programming, object-oriented analysis & design, and design patterns. I taught and mentored students of various ages from around the world.",
+      "date1": "Jan 2008 – Present",
+      "date2": "11 yrs 11 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Spelman College",
+      "degree": "Bachelor of Science in Computer Science and Mathematics",
+      "fieldofstudy": "Computer Science",
+      "date1": "1992",
+      "date2": "1996"
+    },
+    {
+      "title": "University of Phoenix",
+      "degree": "Master of Information Systems",
+      "fieldofstudy": "Management Information Systems, General",
+      "date1": "2005",
+      "date2": "2007"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Java",
+      "count": "20"
+    },
+    {
+      "title": "Conference Speaking",
+      "count": "17"
+    },
+    {
+      "title": "Machine Learning",
+      "count": "13"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "63",
+      "items": [
+        "Alexa, Happy Birthday! 5 Developers Reflect on Voice for Alexa’s 5th Birthday (INTERVIEW)",
+        "re:Invent Guide: Machine Learning",
+        "The women of AWS: 12 AWS Heroes you should be following (PRESS)",
+        "Grace Hopper Celebration is more than just a tech conference (INTERVIEW)",
+        "Becoming a machine learning practitioner (INTERVIEW)",
+        "AWS Machine Learning (ML) Hero: Kesha Williams",
+        "Meet the Newest AWS Heroes!",
+        "Introducing Udacity’s School of Cloud Computing (PRESS)",
+        "An Interview with Kesha Williams, Java Rockstar (PRESS)",
+        "HT's 2019 Top Women in Restaurant Technology (PRESS)",
+        "Jenkins + Alexa: Say Hello to Voice Controlled CI/CD",
+        "Hear It from a Skill Builder: Alexa + Jenkins, Say Hello to Voice-Controlled CI/CD",
+        "Biometrics: The “About Face\" Hospitality Needs",
+        "(PRESS) Women Engineers You Should Know: Kesha Williams",
+        "(INTERVIEW) re:Invent 2018 ACG Instructor Interview",
+        "(INTERVIEW) Machine Learning with SAM and Alexa",
+        "Why Diversity in Tech Matters",
+        "(PRESS) Introducing the Newest Alexa Champions",
+        "(PRESS) Alexa Champion - Kesha Williams",
+        "(PRESS) 10 tech all-stars to look for at Pluralsight LIVE"
+      ]
+    },
+    {
+      "count": "27",
+      "items": [
+        "Emotion Detection Model (AWS SageMaker)",
+        "Java Developer Nanodegree (Udacity)",
+        "Spring Boot Fundamentals (Pluralsight)",
+        "Cloud DevOps Nanodegree (Udacity)",
+        "Cloud Developer Nanodegree (Udacity)",
+        "Debiasing AI Using Amazon SageMaker (Lynda/LinkedIn Learning)",
+        "Crime Prediction Model (AWS SageMaker)",
+        "Spring Data Mongo: Getting Started (Pluralsight)",
+        "Programming Foundations: APIs and Web Services (Lynda/LinkedIn Learning)",
+        "Using Amazon Alexa to Perform Voice Activated CI/CD Builds and Deployments (CloudAcademy)",
+        "Beginning Machine Learning with AWS (Packt)",
+        "Java EE: Web Services (Lynda/LinkedIn Learning)",
+        "Data Transactions with Spring (Pluralsight)",
+        "Phone Tracker (Amazon Alexa Skill)",
+        "Soda-theft Detection Device (A Cloud Guru)",
+        "Java Persistence API (JPA): Inheritance and Querying (Lynda/LinkedIn Learning)",
+        "Word Jumble (Amazon Alexa Skill)",
+        "Java Persistence API: The Basics (Lynda/LinkedIn Learning)",
+        "AWS Machine Learning in Motion (Manning Publications)",
+        "Building Microservices REST APIs Using Spring Data REST (Pluralsight)"
+      ]
+    },
+    {
+      "count": "15",
+      "items": [
+        "AWS Machine Learning Hero",
+        "Top Women in Restaurant Technology: Innovator Award",
+        "Walker's Legacy Power Award",
+        "\"Pursue What's Next\" Innovation Award",
+        "Alexa Champion",
+        "AWS \"We Power Tech\" Speakers Bureau Inductee",
+        "Ada Lovelace Award (Software Engineering)",
+        "A Cloud Guru’s \"Speak Up\" Alexa Challenge Winner",
+        "A Cloud Guru and Women Who Code Scholarship",
+        "TED Spotlight Presentation Academy Winner",
+        "First Certified (Alexa) Skill Published",
+        "\"Think Different\" Innovation Award",
+        "Distinguished Instructor Award",
+        "Keystone Award",
+        "Top Secret (TS/SCI) Security Clearance"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "Women Who Code",
+        "Women Techmakers (Google)"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [],
+  "volunteerExperience": [
+    {
+      "title": "Executive Board Member",
+      "experience": "Voicefirst.Community",
+      "date1": "Mar 2019 – Present",
+      "date2": "9 mos"
+    },
+    {
+      "title": "Director & Regional Ambassador, Atlanta Chapter",
+      "experience": "Technovation Challenge",
+      "date1": "Aug 2016 – Present",
+      "date2": "3 yrs 4 mos"
+    },
+    {
+      "title": "STEM Mentor",
+      "experience": "The New York Academy of Sciences",
+      "description": "Science and Technology",
+      "date1": "Feb 2017 – Present",
+      "date2": "2 yrs 10 mos"
+    },
+    {
+      "title": "Mentor",
+      "experience": "WEST Diversity & Inclusion, LLC",
+      "date1": "Jul 2017 – Present",
+      "date2": "2 yrs 5 mos"
+    },
+    {
+      "title": "Community Leader",
+      "experience": "Anita Borg Institute for Women and Technology",
+      "description": "Science and Technology",
+      "date1": "May 2017 – Sep 2017",
+      "date2": "5 mos"
+    },
+    {
+      "title": "Online Volunteer",
+      "experience": "United Nations Volunteers",
+      "description": "Economic Empowerment",
+      "date1": "Jan 2017 – Oct 2017",
+      "date2": "10 mos"
+    },
+    {
+      "title": "Tech Instructor",
+      "experience": "Black Girls CODE",
+      "description": "Science and Technology",
+      "date1": "Nov 2016 – Jul 2017",
+      "date2": "9 mos"
+    },
+    {
+      "title": "Hour of Code Facilitator",
+      "experience": "Code.org",
+      "date1": "Oct 2016 – Present",
+      "date2": "3 yrs 2 mos"
+    }
+  ],
+  "profile": {
+    "name": "Kesha Williams",
+    "headline": "Software Engineer & AWS Technical Instructor @ A Cloud Guru, AWS ML Hero, Alexa Champion, AWS Certified, Speaker, Author",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQHTUhq67DugjA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=t5DBK0HrF2YOilaNEOMHi8EglJeCXfut-yvFQh4iMHo",
+    "location": "Atlanta, Georgia",
+    "connections": "500+",
+    "summary": "Kesha Williams is an award-winning software engineer, machine learning practitioner, and technical instructor at A Cloud Guru with 24 years’ experience. She's trained and mentored thousands of software engineers in the US, Europe, and Asia while teaching at the university level. She routinely leads innovation teams in proving out emerging technologies and shares her learnings at conferences across the globe. She's spoken about machine learning on the TED stage as a winner of TED’s Spotlight Presentation Academy. Additionally, her pioneering work in the field of artificial intelligence earned her the distinction of both Alexa Champion and AWS Machine Learning Hero from Amazon. In her spare time, she leads the Georgia chapter of Technovation and mentors women in tech.\n\n-To learn more about me, visit my website at http://www.kesha.tech.\n-Do you want me to speak at your event, set up a meeting using my calendar https://calendly.com/keshawillz"
+  }
+}

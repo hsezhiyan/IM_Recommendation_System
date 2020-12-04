@@ -1,0 +1,239 @@
+{
+  "profileAlternative": {
+    "name": "Oliver Ernster",
+    "headline": "Python Developer at Memset Ltd",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQHPWeS26uDJCw/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=tU6RraYBXbMRVIkiSfGy1taLdNXPxV3TNWOxYJhQpZU",
+    "location": "London, Greater London, United Kingdom",
+    "connections": "500+",
+    "summary": "Profile\n---------\nExperienced Software Developer with 6 years in Python, 15 years of experience developing C++ and 4 years in C; on Windows and Linux. Full development life-cycle. I have excellent oral and written communication skills. I have a strong aptitude for learning fast. I’m keenly proactive and have a willingness to take ownership of solutions. I am very conscientious. I am a senior Python developer looking to progress later in my career to senior management; Development Manager then ultimately ideally Chief Technical Officer.\n\nOverview\n-------------\nI have been involved in the development process from raw requirements to product inception to completion and through to the maintenance phase as a Senior Software Developer using Python and C++ and as a Team Leader/Project Manager as well as a Project Technical Lead and Scrum Master in startups/medium/large companies. I have extensive experience in the Telecoms industry working with many different protocol architectures; wireless and wired. I have also worked within the FinTech, Broadcast, Defence, Security, non governmental organisations, Automotive and web development industries, in addition to multiple roles working in Retail and Television simultaneously during my university breaks.\n\nI have extensive experience using Python and Django, some Flask; as well as core Python code. This has often included working with HTML, Javascript, JQuery and CSS web technologies. I have also worked with the PyQt framework."
+  },
+  "aboutAlternative": {
+    "text": "Profile\n---------\nExperienced Software Developer with 6 years in Python, 15 years of experience developing C++ and 4 years in C; on Windows and Linux. Full development life-cycle. I have excellent oral and written communication skills. I have a strong aptitude for learning fast. I’m keenly proactive and have a willingness to take ownership of solutions. I am very conscientious. I am a senior Python developer looking to progress later in my career to senior management; Development Manager then ultimately ideally Chief Technical Officer.\n\nOverview\n-------------\nI have been involved in the development process from raw requirements to product inception to completion and through to the maintenance phase as a Senior Software Developer using Python and C++ and as a Team Leader/Project Manager as well as a Project Technical Lead and Scrum Master in startups/medium/large companies. I have extensive experience in the Telecoms industry working with many different protocol architectures; wireless and wired. I have also worked within the FinTech, Broadcast, Defence, Security, non governmental organisations, Automotive and web development industries, in addition to multiple roles working in Retail and Television simultaneously during my university breaks.\n\nI have extensive experience using Python and Django, some Flask; as well as core Python code. This has often included working with HTML, Javascript, JQuery and CSS web technologies. I have also worked with the PyQt framework."
+  },
+  "positions": [
+    {
+      "title": "Python Developer",
+      "companyName": "Memset Ltd",
+      "location": "GU6 8TB",
+      "description": "Cloud and web development software engineering with Python, Django and many other technologies.",
+      "date1": "Aug 2019 – Present",
+      "date2": "4 mos"
+    },
+    {
+      "title": "N/A",
+      "companyName": "Medical break",
+      "location": "Sunningdale, Berkshire",
+      "description": "Temporary break from work.",
+      "date1": "Feb 2019 – Present",
+      "date2": "10 mos"
+    },
+    {
+      "title": "Senior Software Developer",
+      "companyName": "MPC Advertising",
+      "location": "London, United Kingdom",
+      "description": "As a Python Developer, I work in a global environment developing solutions for facilities management and video tech in the advertising space for customers such as international producers and other television oriented clients.",
+      "date1": "Sep 2018 – Present",
+      "date2": "1 yr 3 mos"
+    },
+    {
+      "title": "Senior Software Developer",
+      "companyName": "Duologi",
+      "location": "Reading, United Kingdom",
+      "description": "As a Python Developer, I jointly developed a CRM solution from scratch and deployed it externally and internally for use by the finance team. I also created a business information internal website for the company. Additionally, I worked with a data analyst to create a customer facing loan finance application website; amongst other projects in Python and Django. My contract was extended whilst I worked at Duologi.\n…\nsee more",
+      "date1": "Nov 2017 – Jun 2018",
+      "date2": "8 mos"
+    },
+    {
+      "title": "Senior Software Developer",
+      "companyName": "Glint",
+      "location": "London, United Kingdom",
+      "description": "As a Python Developer, I contributed to the development of the back end of a gold-based e-payment system improving micro-services.",
+      "date1": "Aug 2017 – Sep 2017",
+      "date2": "2 mos"
+    },
+    {
+      "title": "Senior Python Developer",
+      "companyName": "Bink",
+      "location": "Ascot, Berkshire, UK",
+      "description": "As a Python Developer, I worked on back end micro-services development as part of a multidisciplinary team for a financial startup creating a mobile app that enables the automatic collection of loyalty card points through your payment cards; thereby removing the need to carry around lots of plastic in your wallet.",
+      "date1": "Sep 2016 – Aug 2017",
+      "date2": "1 yr"
+    },
+    {
+      "title": "Senior Software Developer",
+      "companyName": "Armour Comms",
+      "description": "Security software professional developing with Linux Mint, Python, Django, Docker, Jira, Bitbucket, git etc, Javascript, JQuery, C++, MariaDB, SQLite3, JSON, XML, HTML5 and CSS for a small startup.",
+      "date1": "Apr 2015 – Sep 2016",
+      "date2": "1 yr 6 mos"
+    },
+    {
+      "title": "Senior Software Developer",
+      "companyName": "Photon Star Technology",
+      "location": "Romsey, Hampshire, UK",
+      "description": "I worked on a cloud implementation of a product called Halcyon for the internet of things (IoT); specifically to integrate the highly flexible light bulb solution that Photon Star Technology provide with the cloud; allowing data to be logged and control of settings within the firmware of the devices. I used Python, Imagination Technologies FlowCloud, Bottle, Beaker and HTML.",
+      "date1": "Sep 2014 – Nov 2014",
+      "date2": "3 mos"
+    },
+    {
+      "title": "Senior Software Developer",
+      "companyName": "Forbidden Technologies plc",
+      "location": "Wimbledon, London",
+      "description": "Developing front and back end web services and video streaming technology from the cloud for editing purposes in the broadcast industry using Python, Cheetah, HTML, CSS, C, C++, a little Java and a little Objective-C",
+      "date1": "Feb 2014 – May 2014",
+      "date2": "4 mos"
+    },
+    {
+      "title": "Project Technical Lead",
+      "companyName": "HCL Hewlett Packard",
+      "location": "Hook, Surrey",
+      "description": "I worked as a Project Technical Lead leading a team of 17 people, the design and development and took the project through process gates of an aircraft application for the defence industry. I programmed in C, C++ and Python on Red Hat Enterprise Linux.",
+      "date1": "Dec 2012 – Mar 2014",
+      "date2": "1 yr 4 mos"
+    },
+    {
+      "title": "Senior Software Developer",
+      "companyName": "EditShare",
+      "location": "Basingstoke, Hampshire, UK",
+      "description": "I developed software to perform media ingest through to VT editing and post production for the broadcast industry. I also created version one of the www.RedSharkNews.com app for the iPhone/iPad from scratch.",
+      "date1": "Jul 2012 – Nov 2012",
+      "date2": "5 mos"
+    },
+    {
+      "title": "Senior Software Developer",
+      "companyName": "Artfinder",
+      "location": "Holborn, London",
+      "description": "I contributed to the development of the www.artfinder.com website in Python, Django, HTML and CSS.",
+      "date1": "Feb 2012 – Apr 2012",
+      "date2": "3 mos"
+    },
+    {
+      "title": "Senior Software Developer",
+      "companyName": "Semafone",
+      "location": "Chertsey, Surrey",
+      "description": "I developed device drivers for a payment processing system for call centres. This was done in C++/STL on Windows and Linux using ISDN, Aculab Prosody X and SIP technologies.",
+      "date1": "Nov 2010 – Dec 2011",
+      "date2": "1 yr 2 mos"
+    },
+    {
+      "title": "Senior Software Developer",
+      "companyName": "Malden Electronics Limited",
+      "description": "I developed C++ software for a virtual node product that implemented the SIP protocol and naturally used RTP for voice media. The purpose of the product was to test voice quality between telephony nodes.",
+      "date1": "Jul 2010 – Sep 2010",
+      "date2": "3 mos"
+    },
+    {
+      "title": "Senior Software Developer",
+      "companyName": "NGO for the Home Office",
+      "description": "Python, PostgreSQL, Django, RESTful Web Services, JSON, Linux, Apache web server, Agile methodology.\n\nI learnt many new technologies in a very short time and applied them to create some application servers on green field development projects.\n…\nsee more",
+      "date1": "Jan 2010 – Apr 2010",
+      "date2": "4 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "The University of Manchester",
+      "degree": "BSc (Hons)",
+      "fieldofstudy": "Physics",
+      "date1": "1994",
+      "date2": "1997"
+    }
+  ],
+  "skills": [
+    {
+      "title": "C++",
+      "count": "17"
+    },
+    {
+      "title": "Python",
+      "count": "9"
+    },
+    {
+      "title": "Linux",
+      "count": "9"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "6",
+    "receivedCount": "2",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/aditya-vijay/",
+        "text": "I work alongside Oliver in GeeVS sports development. Oliver is details oriented software developer with always has new ideas and a team player. During GeeVS brain storm sessions, he is the person who is always having innovative ideas to contribute. It was my great pleasure and a opportunity to work with Oliver."
+      },
+      {
+        "user": "https://www.linkedin.com/in/chris-trenning-441a158/",
+        "text": "Oliver is an efficient and pragmatic developer. I have had the privileged of working with him while at the Home Office in London. Despite the role being in a very challenging environment Oliver produced some excellent work and contributed greatly to the future direction of the unit. I hope to have the opportunity to work with him again in the future as his skills will be in significant demand.\n…\nSee more"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/matthew-tyler-22315498/",
+        "text": "Throughout the recruitment process Matthew was very professional and effective in his communications.  I would not hesitate to work with him again in the future."
+      },
+      {
+        "user": "https://www.linkedin.com/in/aditya-vijay/",
+        "text": "I can highly recommend Aditya to anyone who might be considering him for future employment.  He is hard working and conscientious in addition to being a very friendly and amenable chap to work with and is definitely a team player.\r\n\r\nI can particularly recommend his Qt experience and C++ work as he is quite the knowledgable expert on the subjects.  I have seen him develop green field software projects swiftly when given raw requirements to an effective solution single handedly very effectively.  \r\n\r\nIn short, I have been very impressed and look forward to a good continuing working relationship for the future."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "2",
+      "items": [
+        "English",
+        "French"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/stephanie-crampin-37791653/",
+      "text": "Python Developer at SportPursuit"
+    },
+    {
+      "user": "https://www.linkedin.com/in/magdalenamackow/",
+      "text": "Python Data Analyst at Quantbot Technologies LP"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nicolas-leydet-41352213/",
+      "text": "Python developer at Smartodds"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kim-terry-short-64709828/",
+      "text": "Python Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/glenlavery/",
+      "text": "Python/Django Developer at Transform"
+    },
+    {
+      "user": "https://www.linkedin.com/in/johnbywater/",
+      "text": "Python Consultant"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ankit-haroon-16052751/",
+      "text": "Python developer at Amdocs Consultant"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tom-winchester-48427a30/",
+      "text": "DevOps Engineer at Bink"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tomasz-walotek-44302285/",
+      "text": "Software Engineer at Lyst"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tyne-davidson-66b0ab191/",
+      "text": "Associate at Buchanan Search"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Oliver Ernster",
+    "headline": "Python Developer at Memset Ltd",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQHPWeS26uDJCw/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=tU6RraYBXbMRVIkiSfGy1taLdNXPxV3TNWOxYJhQpZU",
+    "location": "London, Greater London, United Kingdom",
+    "connections": "500+",
+    "summary": "Profile\n---------\nExperienced Software Developer with 6 years in Python, 15 years of experience developing C++ and 4 years in C; on Windows and Linux. Full development life-cycle. I have excellent oral and written communication skills. I have a strong aptitude for learning fast. I’m keenly proactive and have a willingness to take ownership of solutions. I am very conscientious. I am a senior Python developer looking to progress later in my career to senior management; Development Manager then ultimately ideally Chief Technical Officer.\n\nOverview\n-------------\nI have been involved in the development process from raw requirements to product inception to completion and through to the maintenance phase as a Senior Software Developer using Python and C++ and as a Team Leader/Project Manager as well as a Project Technical Lead and Scrum Master in startups/medium/large companies. I have extensive experience in the Telecoms industry working with many different protocol architectures; wireless and wired. I have also worked within the FinTech, Broadcast, Defence, Security, non governmental organisations, Automotive and web development industries, in addition to multiple roles working in Retail and Television simultaneously during my university breaks.\n\nI have extensive experience using Python and Django, some Flask; as well as core Python code. This has often included working with HTML, Javascript, JQuery and CSS web technologies. I have also worked with the PyQt framework."
+  }
+}

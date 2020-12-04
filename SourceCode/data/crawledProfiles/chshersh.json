@@ -1,0 +1,154 @@
+{
+  "profileAlternative": {
+    "name": "Dmitrii Kovanikov",
+    "headline": "Co-creator @ Kowainik | Haskell Adept @ Holmusk",
+    "imageurl": "https://media.licdn.com/dms/image/C5103AQHV-BpKlJGuCQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=M5mjbm5GEvM88W089YJqfw28eBLyOoEZC3rYbqDcN0c",
+    "location": "Singapore",
+    "connections": "132"
+  },
+  "aboutAlternative": {},
+  "positions": [
+    {
+      "title": "Middle Haskell Software Developer",
+      "companyName": "Holmusk",
+      "location": "Singapore",
+      "description": "Backend development of web applications in Haskell. Working on healthcare projects that sync information from multiple sources and display them to users. Integration with machine learning models in other languages. Technologies included: Haskell, Elm, PostgreSQL, Amazon services (S3, SQS), Protocol buffers.",
+      "date1": "May 2018 – Present",
+      "date2": "1 yr 7 mos"
+    },
+    {
+      "title": "Co-Founder",
+      "companyName": "Kowainik",
+      "location": "World-wide",
+      "description": "Kowainik is a small team of enthusiasts who use Haskell and other functional technologies to develop more reliable libraries and tools. We enjoy creating our projects, and we want everybody to enjoy using them.\n\nIn our team, we have developers with 5+ years of Haskell production experience, people skilled in Elm, Kotlin, PostgreSQL any many other technologies.\n\nWhat we do:\n• Developing and maintaining more than 20 open-source production-level libraries which are used in free and commercial projects\n• Providing Haskell mentorship for beginners\n• Helping with learning materials\n• Consulting about best-practices and Haskell projects architecture\n…\nsee more",
+      "date1": "Mar 2018 – Present",
+      "date2": "1 yr 9 mos"
+    },
+    {
+      "title": "Haskell Software Engineer",
+      "companyName": "Serokell",
+      "location": "Saint Petersburg, Russian Federation",
+      "description": "Developing distributed cryptocurrency systems using Haskell.\nImplementing cryptocurrency protocols, creating logging framework, writing jekyll documentation in English, Haskell development and refactoring tooling support, performance optimizations, benchmarking, making world better.",
+      "date1": "May 2016 – Apr 2018",
+      "date2": "2 yrs"
+    },
+    {
+      "title": "Tutor",
+      "companyName": "ITMO University",
+      "location": "Saint Petersburg, Russian Federation",
+      "description": "Tutoring the course about functional programming and Haskell.\nCourse page: https://github.com/jagajaga/FP-Course-ITMO",
+      "date1": "Sep 2015 – Apr 2018",
+      "date2": "2 yrs 8 mos"
+    },
+    {
+      "title": "Software Engineering Intern",
+      "companyName": "Yandex",
+      "location": "Saint Petersburg, Russian Federation",
+      "description": "Writing monitoring system for microservices at Yandex.Metrics",
+      "date1": "Feb 2016 – May 2016",
+      "date2": "4 mos"
+    },
+    {
+      "title": "Software Engineering Intern",
+      "companyName": "JetBrains",
+      "description": "Integrating Kotlin REPL into IDE",
+      "date1": "Jul 2015 – Sep 2015",
+      "date2": "3 mos"
+    },
+    {
+      "title": "Software Engineering Intern",
+      "companyName": "Этерон",
+      "description": "Prototyping Android app for BigBird system: http://bigbird.ru/",
+      "date1": "Apr 2015 – Jun 2015",
+      "date2": "3 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "ITMO University",
+      "degree": "Bachelor’s Degree",
+      "fieldofstudy": "Computer Science",
+      "date1": "2011",
+      "date2": "2015"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Haskell",
+      "count": "17"
+    },
+    {
+      "title": "Functional Programming",
+      "count": "9"
+    },
+    {
+      "title": "Kotlin",
+      "count": "4"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "2",
+      "items": [
+        "English",
+        "Russian"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/veronikaromashkina/",
+      "text": "Haskell Developer at Holmusk | Co-creator Kowainik"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kavya-george/",
+      "text": "Data Scientist at Holmusk"
+    },
+    {
+      "user": "https://www.linkedin.com/in/dr-rahul-singhal-1134674/",
+      "text": "Founder at Cerebry, looking for an experienced Mathematics teacher (CBSE, IGCSE, ICSE), Delhi/Faridabad location."
+    },
+    {
+      "user": "https://www.linkedin.com/in/mrrussellong/",
+      "text": "Senior Software Engineer - iOS at Holmusk"
+    },
+    {
+      "user": "https://www.linkedin.com/in/joydeep-sarkar-618b154/",
+      "text": "Chief Analytics Officer @ Holmusk"
+    },
+    {
+      "user": "https://www.linkedin.com/in/srinesh-c-shenoi-96787350/",
+      "text": "Data Scientist"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jolandanava/",
+      "text": "Frontend Developer at Holmusk"
+    },
+    {
+      "user": "https://www.linkedin.com/in/rtaero/",
+      "text": "Director of Business Development at Holmusk"
+    },
+    {
+      "user": "https://www.linkedin.com/in/gjgoh/",
+      "text": "Risk Analyst at Olam"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nawalroy/",
+      "text": "Founder & CEO, Holmusk | Technology Pioneer 2019 at World Economic Forum"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Dmitrii Kovanikov",
+    "headline": "Co-creator @ Kowainik | Haskell Adept @ Holmusk",
+    "imageurl": "https://media.licdn.com/dms/image/C5103AQHV-BpKlJGuCQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=M5mjbm5GEvM88W089YJqfw28eBLyOoEZC3rYbqDcN0c",
+    "location": "Singapore",
+    "connections": "132"
+  }
+}

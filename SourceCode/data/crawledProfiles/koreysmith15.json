@@ -1,0 +1,186 @@
+{
+  "profileAlternative": {
+    "name": "Korey Smith",
+    "headline": "Front-End and Java Developer",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQGHyMgCFOcQCQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=GR73Pvq0XnWfJBP-AX3UNkPNJmUyd3aP0MR-izuypOo",
+    "location": "Sherman, Texas",
+    "connections": "172",
+    "summary": "I am currently enrolled in the TreeHouse Community and Udemy for Java Development, Front-End Development, and Software Development. I am interested in building programs and software using Java and C++ and also creating websites using JavaScript, HTML, CSS, WordPress, and BootStrap. I have completed over 100 hours of Java, C++, and Front-End Development courses. I have earned multiple certificates and can prove my worth. I am willing to begin a job with a very low rate to prove my worth. It is a high reward and no risk situation. I know I will be successful in this industry. I am a dedicated and hardworking individual. I write clean and readable code and am up to date with the industry standard. All I need is a shot to prove myself."
+  },
+  "aboutAlternative": {
+    "text": "I am currently enrolled in the TreeHouse Community and Udemy for Java Development, Front-End Development, and Software Development. I am interested in building programs and software using Java and C++ and also creating websites using JavaScript, HTML, CSS, WordPress, and BootStrap. I have completed over 100 hours of Java, C++, and Front-End Development courses. I have earned multiple certificates and can prove my worth. I am willing to begin a job with a very low rate to prove my worth. It is a high reward and no risk situation. I know I will be successful in this industry. I am a dedicated and hardworking individual. I write clean and readable code and am up to date with the industry standard. All I need is a shot to prove myself."
+  },
+  "positions": [
+    {
+      "title": "Front-End and Java Developer",
+      "companyName": "Self-employed",
+      "location": "Remote",
+      "date1": "Sep 2017 – Present",
+      "date2": "2 yrs 3 mos"
+    },
+    {
+      "title": "Website Developer",
+      "companyName": "Lucky2BBQ",
+      "location": "Sherman/Denison, Texas Area",
+      "description": "Updated the LUCKY2BBQ website and added mobile responsiveness.",
+      "date1": "Jan 2018",
+      "date2": "1 mo"
+    },
+    {
+      "title": "Patient Advocate/ IT",
+      "companyName": "Capio Partners",
+      "location": "Sherman/Denison, Texas Area",
+      "date1": "Feb 2014 – Sep 2016",
+      "date2": "2 yrs 8 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Udemy",
+      "degree": "Java and C++ Development",
+      "fieldofstudy": "Java and C++ Development",
+      "date1": "2016",
+      "date2": "2017"
+    },
+    {
+      "title": "Treehouse",
+      "degree": "Web Page, Digital/Multimedia and Information Resources Design, Front-End Web Development",
+      "fieldofstudy": "Web Page, Digital/Multimedia and Information Resources Design, Front-End Web Development",
+      "date1": "2016",
+      "date2": "2017"
+    },
+    {
+      "title": "Ector High School",
+      "degree": "High School Diploma",
+      "fieldofstudy": "n/a",
+      "date1": "2008",
+      "date2": "2012"
+    },
+    {
+      "title": "SoloLearn",
+      "degree": "Java Development",
+      "fieldofstudy": "Java Development",
+      "date1": "2017",
+      "date2": "2017"
+    },
+    {},
+    {
+      "title": "Udemy",
+      "degree": "Front-End Development/ JavaScript and JQuery",
+      "fieldofstudy": "Front-End Development/ JavaScript and JQuery",
+      "date1": "2016",
+      "date2": "2018"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Java",
+      "count": "1"
+    },
+    {
+      "title": "HTML5",
+      "count": "2"
+    },
+    {
+      "title": "JavaScript",
+      "count": "2"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "18",
+      "items": [
+        "AJAX Basics",
+        "Beginner JavaScript Track",
+        "Bootstrap 4 Basics",
+        "CSS Basics",
+        "Complete Java Masterclass",
+        "Computer Science for Beginners learn by building 6 Java Applications",
+        "Front End Web Development Track",
+        "How to Make a Website",
+        "Java Basics",
+        "Java Objects",
+        "Java Tutorial for Complete Beginners",
+        "Javascript Basics",
+        "Logo Design Basics",
+        "Photoshop Foundations",
+        "SVG Basics",
+        "Web Design Track",
+        "Website Optimization",
+        "jQuery Basics"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "English",
+        "Javanese"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/sarahjunefischer/",
+      "text": "Senior Designer at PRR"
+    },
+    {
+      "user": "https://www.linkedin.com/in/damon-chivers/",
+      "text": "Lead Instructor at Flatiron School"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jeremy-chavers/",
+      "text": "HTML/CSS/JavaScript/AJAX Developer | Front and Back End | Customer Service | Currently Seeking Opportunities"
+    },
+    {
+      "user": "https://www.linkedin.com/in/adrienne-karnoski/",
+      "text": "Python Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/damienmacielinski/",
+      "text": "QA Manager at HealthSparq"
+    },
+    {
+      "user": "https://www.linkedin.com/in/brian-jensen-b40a96132/",
+      "text": "Student Success Specialist at Treehouse"
+    },
+    {
+      "user": "https://www.linkedin.com/in/pavelparkhomey/",
+      "text": "React Native Developer / Co-Founder at Visual Demand LLC"
+    },
+    {
+      "user": "https://www.linkedin.com/in/parrottdavid/",
+      "text": "Creating high throughput Java services to monitor customer data"
+    },
+    {
+      "user": "https://www.linkedin.com/in/alex-j-short/",
+      "text": "Freelance Python/Javascript Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/christopher-wallace-a7aaa613b/",
+      "text": "Mobile Application Engineer at MATCHCo Makeup: Custom Foundation"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Pet Care",
+      "experience": "Sherman Animal Shelter",
+      "description": "Animal Welfare",
+      "date1": "Sep 2016",
+      "date2": "1 mo"
+    }
+  ],
+  "profile": {
+    "name": "Korey Smith",
+    "headline": "Front-End and Java Developer",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQGHyMgCFOcQCQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=GR73Pvq0XnWfJBP-AX3UNkPNJmUyd3aP0MR-izuypOo",
+    "location": "Sherman, Texas",
+    "connections": "172",
+    "summary": "I am currently enrolled in the TreeHouse Community and Udemy for Java Development, Front-End Development, and Software Development. I am interested in building programs and software using Java and C++ and also creating websites using JavaScript, HTML, CSS, WordPress, and BootStrap. I have completed over 100 hours of Java, C++, and Front-End Development courses. I have earned multiple certificates and can prove my worth. I am willing to begin a job with a very low rate to prove my worth. It is a high reward and no risk situation. I know I will be successful in this industry. I am a dedicated and hardworking individual. I write clean and readable code and am up to date with the industry standard. All I need is a shot to prove myself."
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "profileAlternative": {
+    "name": "Yael Eliahoo",
+    "headline": "Frontend Developer - HTML Specialist",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQHfBwqdC2XsIA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=bSA8h7lwzEGQCVpJObCHrvt3aESo-tUVVTvxL1VRWlU",
+    "location": "Israel",
+    "connections": "500+",
+    "summary": "SERVICES:\nUX/UI Design and development\nFrontend Development\nCustom Website\nBootstrap Sites / Responsive Sites\nWordpress\nLanding pages\nCross Browser Compatibility\nAccessibility\nW3C Validation\nHTML5 / Css3 / Jquery / JS\nSass/Less\n\nTOOLS:\nAdobe Photoshop\nVisual Studio\nDreamweaver\nWordpress\nWIX\n\n\nLANGUAGES\nMother tongue: Italian and Hebrew\nGood knowledge: French and English (written and spoken)\nBasic knowledge: Spanish"
+  },
+  "aboutAlternative": {
+    "text": "SERVICES:\nUX/UI Design and development\nFrontend Development\nCustom Website\nBootstrap Sites / Responsive Sites\nWordpress\nLanding pages\nCross Browser Compatibility\nAccessibility\nW3C Validation\nHTML5 / Css3 / Jquery / JS\nSass/Less\n\nTOOLS:\nAdobe Photoshop\nVisual Studio\nDreamweaver\nWordpress\nWIX\n\n\nLANGUAGES\nMother tongue: Italian and Hebrew\nGood knowledge: French and English (written and spoken)\nBasic knowledge: Spanish"
+  },
+  "positions": [
+    {
+      "title": "Frontend developer and HTML Specialist",
+      "companyName": "Matrix",
+      "location": "Israel",
+      "date1": "Nov 2016 – Present",
+      "date2": "3 yrs 1 mo"
+    },
+    {
+      "title": "UX/UI Designer and Frontend Developer",
+      "companyName": "WEBBYA = Concept + Design + Development Studio - 054-7496989",
+      "date1": "Oct 2010 – Present",
+      "date2": "9 yrs 2 mos"
+    },
+    {
+      "title": "Frontend Developer",
+      "companyName": "Aman Group",
+      "description": "Responsible for the development side of the company, from the phase of evaluating the project, developing it and managing it in front of the client. Working directly with the designers and giving a lot of attention to the project UX and UI.\nMy primary responsibility was to develop web and mobile platforms that look the same in all devices and browsers and are responsive and accessible.\n\n…\nsee more",
+      "date1": "Mar 2015 – Nov 2016",
+      "date2": "1 yr 9 mos"
+    },
+    {
+      "title": "Webmaster",
+      "companyName": "888holdings",
+      "date1": "Sep 2014 – Feb 2015",
+      "date2": "6 mos"
+    },
+    {
+      "title": "Web and User Interface Designer and HTML/CSS coder",
+      "companyName": "Trade Networks",
+      "description": "Web Designer UI Designer and HTML/CSS coder in an internet software company specializes in the financial market.\nTasks:\n- Design the affiliate and the company websites\n- Develop and maintain affiliate and company websites\n- Create landing pages\n- Wordpress blogs\n- Helping the development department by creating html sites and implement their code in a .net environment\n…\nsee more",
+      "date1": "Jan 2008 – Oct 2010",
+      "date2": "2 yrs 10 mos"
+    },
+    {
+      "title": "Web and Gui Designer",
+      "companyName": "IFP- Internet Financial Products",
+      "description": "Senior Designer in an internet software company specializes in the financial market .\nThe most part of my job in the last 4 years is :\n- Design the the Online Trading Platform\n- Design the affiliate and the company websites\n- Develop and maintain affiliate and company websites\n…\nsee more",
+      "date1": "Nov 2004 – Dec 2007",
+      "date2": "3 yrs 2 mos"
+    },
+    {
+      "title": "Web Designer",
+      "companyName": "iPoint-Media",
+      "description": "Web designer",
+      "date1": "Sep 2001 – Oct 2003",
+      "date2": "2 yrs 2 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Tel Aviv University",
+      "degree": "BA",
+      "fieldofstudy": "Middle East Studies and French Language and Literature",
+      "date1": "1994",
+      "date2": "1998"
+    },
+    {
+      "title": "עץ דעת השרון",
+      "degree": "קורס מעצבת מולטימדיה ואתרי אינטרנט",
+      "fieldofstudy": "קורס מעצבת מולטימדיה ואתרי אינטרנט",
+      "date1": "2000",
+      "date2": "2001"
+    },
+    {
+      "title": "Scuola della Comunità Ebraica - Milano",
+      "date1": "1982",
+      "date2": "1992"
+    }
+  ],
+  "skills": [
+    {
+      "title": "SASS"
+    },
+    {
+      "title": "Bootstrap"
+    },
+    {
+      "title": "less"
+    },
+    {
+      "title": "User Interface",
+      "count": "13"
+    },
+    {
+      "title": "Mobile Applications",
+      "count": "8"
+    },
+    {
+      "title": "Web Design",
+      "count": "5"
+    },
+    {
+      "title": "Web Applications",
+      "count": "9"
+    },
+    {
+      "title": "User Interface Design",
+      "count": "8"
+    },
+    {
+      "title": "User Experience",
+      "count": "4"
+    },
+    {
+      "title": "Web Development",
+      "count": "7"
+    },
+    {
+      "title": "Software Design",
+      "count": "2"
+    },
+    {
+      "title": "Responsive websites"
+    },
+    {
+      "title": "CSS",
+      "count": "14"
+    },
+    {
+      "title": "HTML",
+      "count": "13"
+    },
+    {
+      "title": "WordPress",
+      "count": "8"
+    },
+    {
+      "title": "Photoshop",
+      "count": "5"
+    },
+    {
+      "title": "JavaScript",
+      "count": "2"
+    },
+    {
+      "title": "HTML5",
+      "count": "2"
+    },
+    {
+      "title": "Sass"
+    },
+    {
+      "title": "bootstrap"
+    },
+    {
+      "title": "LESS"
+    },
+    {
+      "title": "Italian",
+      "count": "2"
+    },
+    {
+      "title": "French",
+      "count": "1"
+    },
+    {
+      "title": "W3C Accessibility"
+    },
+    {
+      "title": "Cross-browser Compatibility",
+      "count": "1"
+    },
+    {
+      "title": "AMP"
+    },
+    {
+      "title": "amp"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "4",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/nagina-eliav-0117b27/",
+        "text": "Yael Eliahoo worked with Amdocs innovations solutions lab on new dashboard web application for a strategic customer demo. As part of this project amdocs design department provided the baseline design for a new application while the web pages were developed by Yael using HTML5 and CSS3. Yael performed her tasks in a professional and accurate way. The end result looked exactly as designs and supported multiple screen resolution. It was my pleasure to work with Yael.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/yaniv-ben-hamou-1a16302/",
+        "text": "Yael was working with us in our first steps of building 888casino webapp, supporting iOS and Android devices. Yael is a dedicated webmaster, that strive to the success of the project, always happy to assist, even beyond her role boundaries"
+      },
+      {
+        "user": "https://www.linkedin.com/in/tomer-ben-ari-508a742/",
+        "text": "Yael is very dedicated designer with a great personality which makes her a great person to work with. Yael can produce great products within tight deadlines, moreover she is also very open to new ideas, tools and technologies."
+      },
+      {
+        "user": "https://www.linkedin.com/in/jacob-nes-el-b5a47/",
+        "text": "Yael is very creative and knows how to bring best performance just from the first sketch. she is quick and knows how to manage pressure and creative :-) one of the strong skills among creativity and very high quality performance is her nice and calm personality"
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "5",
+      "items": [
+        "English",
+        "French",
+        "Hebrew",
+        "Italian",
+        "Spanish"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/sigal-regev-admoni-1041a43/",
+      "text": "Entrep PMO at Leumi Mind"
+    },
+    {
+      "user": "https://www.linkedin.com/in/danielle-dimenshtein-41070b59/",
+      "text": "Illustrator/ storyboarder/ animator"
+    },
+    {
+      "user": "https://www.linkedin.com/in/maromdavid/",
+      "text": "Product Manager"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ronit-kfir-360b335/",
+      "text": "Enterprise sales Commerce cloud at Salesforce"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yavin-gill-more-69a35/",
+      "text": "Yad2 CEO | Classified, Big Data, B2B2C, Ecommerce & Directory | Builder & Scaler"
+    },
+    {
+      "user": "https://www.linkedin.com/in/gilad-globen-1186241/",
+      "text": "CTO & VP R&D at SELF POINT"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shiri-bramson-336424134/",
+      "text": "Frontend Developer at Matrix"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nitay-kuris-6353931a/",
+      "text": "Software Engineer at Yael Group"
+    },
+    {
+      "user": "https://www.linkedin.com/in/gil-ben-ami-97620147/",
+      "text": "--"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ramez-shawkan-a58347123/",
+      "text": "Civil Engineer at Idf"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Yael Eliahoo",
+    "headline": "Frontend Developer - HTML Specialist",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQHfBwqdC2XsIA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=bSA8h7lwzEGQCVpJObCHrvt3aESo-tUVVTvxL1VRWlU",
+    "location": "Israel",
+    "connections": "500+",
+    "summary": "SERVICES:\nUX/UI Design and development\nFrontend Development\nCustom Website\nBootstrap Sites / Responsive Sites\nWordpress\nLanding pages\nCross Browser Compatibility\nAccessibility\nW3C Validation\nHTML5 / Css3 / Jquery / JS\nSass/Less\n\nTOOLS:\nAdobe Photoshop\nVisual Studio\nDreamweaver\nWordpress\nWIX\n\n\nLANGUAGES\nMother tongue: Italian and Hebrew\nGood knowledge: French and English (written and spoken)\nBasic knowledge: Spanish"
+  }
+}

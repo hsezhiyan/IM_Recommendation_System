@@ -1,0 +1,121 @@
+{
+  "profileAlternative": {
+    "name": "Martin Hejna",
+    "headline": "C++ and Java Developer at ESET",
+    "location": "Prague, The Capital, Czech Republic",
+    "connections": "122",
+    "summary": "C/C++ and Java developer"
+  },
+  "aboutAlternative": {
+    "text": "C/C++ and Java developer"
+  },
+  "positions": [
+    {
+      "title": "C++ and Java Developer",
+      "companyName": "ESET",
+      "date1": "Jan 2011 – Present",
+      "date2": "8 yrs 11 mos"
+    },
+    {
+      "title": "C++ and Java Developer",
+      "companyName": "Opera Software",
+      "description": "Opera Mobile for Android\nOpera SDK for Windows CE",
+      "date1": "Jul 2009 – Mar 2011",
+      "date2": "1 yr 9 mos"
+    },
+    {
+      "title": "Java Developer",
+      "companyName": "OKsystem",
+      "description": "Java, Spring, Hibernate",
+      "date1": "Apr 2009 – Jul 2009",
+      "date2": "4 mos"
+    },
+    {
+      "title": "C++ Developer",
+      "companyName": "TTC TELEKOMUNIKACE, s.r.o.",
+      "description": "part-time job",
+      "date1": "Jan 2009 – Mar 2009",
+      "date2": "3 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Charles University in Prague",
+      "degree": "Mgr.",
+      "fieldofstudy": "Computer Science",
+      "date1": "2001",
+      "date2": "2007"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Android",
+      "count": "3"
+    },
+    {
+      "title": "C++",
+      "count": "3"
+    },
+    {
+      "title": "Java",
+      "count": "3"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/elias-cizl/",
+      "text": "Student & Junior Game Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/veronika-%C4%8Dernohorsk%C3%A1-129201106/",
+      "text": "Java developer v Cleverlance"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jakub-silar-14a0153/",
+      "text": "C++ SW developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/david-stup%C5%88%C3%A1nek-91538bb2/",
+      "text": "Senior Java Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/aykut4/",
+      "text": "Barclays"
+    },
+    {
+      "user": "https://www.linkedin.com/in/daniel-hanek-6898a817b/",
+      "text": "Student školy Vysoká škola ekonomická v Praze"
+    },
+    {
+      "user": "https://www.linkedin.com/in/michal-%C5%A1olc-17aaa6182/",
+      "text": "I believe one should never stop learning, because the knowledge is the key for the world."
+    },
+    {
+      "user": "https://www.linkedin.com/in/filip-%C5%A1t%C4%9Bp%C3%A1nek-7255199a/",
+      "text": "Code hard, Play hard"
+    },
+    {
+      "user": "https://www.linkedin.com/in/david-krasovskij-7a04a1192/",
+      "text": "Student at Czech Technical University in Prague"
+    },
+    {
+      "user": "https://www.linkedin.com/in/krist-hakobyan-3b11b4171/",
+      "text": "Oracle DBA ve společnosti CETIN"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Martin Hejna",
+    "headline": "C++ and Java Developer at ESET",
+    "location": "Prague, The Capital, Czech Republic",
+    "connections": "122",
+    "summary": "C/C++ and Java developer"
+  }
+}

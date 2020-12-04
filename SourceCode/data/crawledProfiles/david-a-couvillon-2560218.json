@@ -1,0 +1,143 @@
+{
+  "profileAlternative": {
+    "name": "David A Couvillon",
+    "headline": "Senior Business Intelligence Developer and Database Administrator at First Guaranty Bank",
+    "location": "Greater New Orleans Area",
+    "connections": "113"
+  },
+  "aboutAlternative": {},
+  "positions": [
+    {
+      "title": "Senior Business Intelligence Developer and SQL Server Database Administrator",
+      "companyName": "First Guaranty Bank",
+      "location": "Hammond, LA",
+      "description": "– Responsible for all systems Reporting Development and Administration from the FGB core banking system Horizon. Utilized IBM Cognos 10.2 Report Studio to create banking data List, Master-Detail, Cross-tab, Pivot, and Chart reports from the Horizon Reporting Data Warehouse; H360.\n– Responsible for the creation/administration of automated report schedules and distribution lists for the bank's daily, weekly, and monthly Cognos reports, as well as the daily monitoring of 300 + reports.\n– Developed SQL reports for the SolarWinds Orion network monitoring system. Created SQL reports to track network downtime in minutes per month by main circuit IP Address for each of the 22 banking branches. Utilized SQL Server Reporting Services (SSRS) to build out SQL Reports and layouts, and schedule reports through Exchange Email.\n- Managed app upgrades and moved the Track-IT helpdesk software, Sage Financials software, and LoanVantage credit software from a Windows 2003 to a Windows 2012 server environment. Also, upgraded these SQL Server 2005 application databases to SQL Server 2012 databases. Moved the databases and updated application config files to point to the new database server location. Modified/Created Windows Server 2012 Tasks/Schedules, Windows Services, Local Security Policy, Service Accts, Active Directory users/groups/OU, folder permissions, WinSCP Jobs, and setup core extracts as appropriate.\n- Currently working on a SQL Server 2012-2016 database High Availability Clustering project to move over 100 2005-2008 SQL Server decentralized application databases on various Windows virtual servers running SQL Server, to a centralized virtual SQL Server 2012 mirrored environment. Set up database maintenance plans and backup/restore jobs. Developed SQL scripts to pull reports of SQL Server logins and roles, and database users and roles for audit purposes. Developed an SSIS package to move databases, server Logins, and jobs to the centralized target server.\n…\nsee more",
+      "date1": "Sep 2014 – Present",
+      "date2": "5 yrs 3 mos"
+    },
+    {
+      "title": "NFPPS Navy Future Pers/Pay - Sr IT Consultant - PeopleSoft HCM Technical Systems Programmer/Analyst",
+      "companyName": "HGI - HAMMERMAN AND GAINER INC.",
+      "location": "New Orleans, LA",
+      "description": "– Performing technical software decomposition analysis of the Navy Standard Integrated Personnel System (NSIPS), which is a custom PeopleSoft HCM v9.x system with an Oracle back-end. Analyzed Peoplecode, SQL views, Crystal reports, SQR reports and documented the codes detailed functionality by Component, Page, Record/Field, and Business Process. Translated all Record/Component/Page Peoplecode and search records into functional business rules detailing program logic, variable initializations, page edits, records read and updated, and Interface file layouts and their corresponding transformations generated from the staging of the Business Process within the system on the front-end.\n- Performing technical software decomposition analysis of the Navy Reserve Headquarters System (RHS), which is a VMS/VAX based personnel system for the Navy Reserve. Analyzed BASIC, DCL, and SQL programs within the RHS system, and documented the codes detailed functionality.\n– Used Toad database tool to create SQL scripts to analyze data and views in the NSIPS Oracle 11g relational back-end database system for code and data analysis, query development, testing, and data staging analysis for the technical decomposition task order.\n– Assisted in the initial creation of a Data Dictionary for several Navy Legacy Personnel systems including NSIPS, NES, RHS, OPINS, and IMAPMIS. Created an Access database for the initial data sets of all the system tables, fields, field descriptions, and field attributes, which were then loaded into an Oracle database. Assisted in the creation and loading of initial Oracle tables, fields, keys, indexes, sequences, triggers, and constraints on the table fields in the consolidated Data Dictionary Oracle database.\n– Analyzed and documented the functionality and issues with various DIMHRS PeopleSoft HCM v8.9 Global Payroll Formulas, Arrays, Generation Controls, Brackets, Variables, for various DIMHRS Payroll allowances, deductions, and allotments.\n…\nsee more",
+      "date1": "Nov 2009 – Sep 2014",
+      "date2": "4 yrs 11 mos"
+    },
+    {
+      "title": "DIMHRS - EPMO - PeopleSoft Data/Interface Technical Architect",
+      "companyName": "NOLA Computer Services",
+      "location": "New Orleans, LA",
+      "description": "– Worked with the DIMHRS Government Enterprise Program Management Office team that managed tests of several Army, DFAS, and DOD system interfaces. DIMHRS (Defense Integrated Military Human Resource System), a large scale Peoplesoft based ERP system is being implemented as the centralized military personnel and payroll core system for the armed forces which was primarily Army-Centric at this stage of the SDLC.\n– Conducted teleconference meetings with military Legacy System Administrators, Military SMEs, and the developers in order to review testing results, review software engineering interface designs, discuss resolutions for testing issues, identify functionality gaps with ETL data mappings/transformations in current interface designs, gather new design requirements, define test scenarios, create test scripts, and discuss data staging rules and dependencies for future testing.\n– Verified outbound text and xml schema data files from Inbound/Outbound interface testing matched the transformation and layout requirements as detailed in the Interface Design and Control Documents. Validated inbound files populated appropriate database/data-warehouse tables in the DB2 development database, data transformations/translations were applied, pages were populated on the DIMHRS PeopleSoft front-end, and all testing scenarios were represented. Monitored incoming and outgoing interface file message queues through IBM MQ series middleware.\n– Developed SQL queries to extract application data from the test database to create testing datasets.\n– Assessing requirements needs of over 150 system interfaces to the DIMHRS system. Extracting DIMHRS System Interface data from requirements databases, and building custom Access databases of this System Interface architectural data for the development of DOD technical software architectural diagrams (DODAF views) for the DIMHRS Information Support Plan document. Created initial versions of the SV-4 and SV-6 DIMHRS DODAF views.\n…\nsee more",
+      "date1": "Mar 2007 – Nov 2009",
+      "date2": "2 yrs 9 mos"
+    },
+    {
+      "title": "NSIPS (Navy Standard Integrated Personnel System) - Peoplesoft HRMS Developer",
+      "companyName": "Lockheed Martin Information Technology",
+      "location": "New Orleans, LA",
+      "description": "– Applications Programmer for the Navy Standard Integrated Personnel System (NSIPS) utilizing Peoplecode, SQR, and Peopletools Application Designer. Peoplesoft HRMS versions 8.8, tools 8.47, were the current versions utilized.\n– Implemented customizations detailed by software problem/change reports to Peoplecode, SQR reports, Crystal reports, Pages, Records, Peoplesoft Querys, SQL Views, Record/Component Peoplecode, Application Engine programs, and other Peoplesoft objects. Used STAT, PVCS, and XML/INI files to migrate Peoplesoft objects from development to test environments.\n– Work with requirements teams in order to develop technical solutions for system enhancements and fixes. Used Benthic and Toad query tool with Oracle 10g relational back-end database system, for query development, testing, and data staging analysis.\n…\nsee more",
+      "date1": "May 2006 – Mar 2007",
+      "date2": "11 mos"
+    },
+    {
+      "title": "DIMHRS (Defense Integrated Military Human Resource System) - IT Consultant – Peoplesoft Security",
+      "companyName": "Accenture",
+      "location": "New Orleans, LA and Reston, VA",
+      "description": "– The Northrop Grumman/Department of Defense project DIMHRS involves the design and implementation of a human resources and payroll system for all branches of the armed services utilizing PeopleSoft HCM version 8.9.\n– As member of the Information Assurance team, Systems Engineering division, performed software development life cycle design and implementation of Peoplesoft Application Security for Roles, Permission Lists, Row Level Security, Query Security Access Groups, Time and Labor, Component Interfaces, Workflow, Reporting, EPM, Portal, Department Tree, Self Service, Global Payroll, and other Peoplesoft Security application sub-components. Map Business Process Maps and Gap Analysis requirements to build user security Roles, Permission Lists, Row Level Security, and the Dept Tree to design menu navigation and data security for user access groups. Collaborate with functional and development teams for technical architecture support through design phases.\n– Member of team working on the use of LDAP directories as central repositories for user profile data and authentication information for all users of the DIMHRS system. Utilized IBM Tivoli Identity/Access Manager to create user access profiles and groups to integrate with PeopleSoft security profile roles and permissions. Assisted in implementing PeopleSoft Single Sign on into test and development databases. Assisted in the security integration of the third party software reporting tools Crystal, Actuate, and Cognos with DIMHRS PeopleSoft Security.\n– Provide Peoplesoft application security design and support for over 50 Peoplesoft test and development databases, and managed user access to these databases. Developed SQL security reports. Ran SQL traces in databases to aid in production of SQL script reports. Developed Change Management data migration solutions for development/test databases. Modified and developed SQL Data Mover scripts to copy Peoplesoft security configurations to various databases.\n…\nsee more",
+      "date1": "Dec 2004 – Apr 2006",
+      "date2": "1 yr 5 mos"
+    },
+    {
+      "title": "IT Systems Analyst/Administrator (Information Security)",
+      "companyName": "LOUISIANA STATE UNIVERSITY HEALTH SCIENCES CENTER (LSUHSC)",
+      "location": "New Orleans, LA",
+      "description": "– Managed the creation, deletion, and updates of PeopleSoft HR/Financials v 7.5 and 8.0 user accounts with appropriate roles and permissions. Worked with the PeopleSoft functional team to create PeopleSoft Classes, Roles, and Permission Lists, row level security, as well as make modifications to the HR Department tree and Financials Business Units. Assisted in the upgrade of LSUHSC PeopleSoft Security HR/Financials from version 7.5 to 8.0. Created PeopleSoft security SQL queries to generate user access and audit reports as needed.\n– Managed the creation, deletion, and updates of enterprise windows network Active Directory NT domain accounts, login scripts, and group access for all students, medical, and administrative members of LSUHSC, and managed the creation and deletion of email accounts on Microsoft Exchange. Managed Microsoft SQL Server database security permissions. Modified Visual Basic Scripts to batch disable/enable Windows NT domain accounts and set expiration dates.\n– Created SQL scripts to mass update security access related data-warehouse tables within SQL Server. Redesigned existing Security data warehouse SQL reports for upper management with statistical data as per changing requirements. Created Microsoft Access databases for management of security data. Built queries to produce security reports for management.\n– Modified an automated network user account setup batch process. Modified Mercury Winrunner scripts and Access database Visual Basic code modules, macros, and queries to implement new functional requirements and fixes for this batch process as delegated by upper management. Ran and used this batch process for the creation of user network, email, and PeopleSoft accounts to provide quick and efficient access for all LSUHSC users.\n…\nsee more",
+      "date1": "Dec 1997 – Dec 2004",
+      "date2": "7 yrs 1 mo"
+    }
+  ],
+  "educations": [
+    {
+      "title": "University of New Orleans",
+      "degree": "Bachelor of Science",
+      "fieldofstudy": "Computer Science",
+      "date1": "1997",
+      "date2": "2000"
+    }
+  ],
+  "skills": [
+    {
+      "title": "SDLC",
+      "count": "9"
+    },
+    {
+      "title": "Requirements Analysis",
+      "count": "7"
+    },
+    {
+      "title": "Integration",
+      "count": "7"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "1",
+    "receivedCount": "0",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/rich-rizzuto-36919914/",
+        "text": "I have worked with Rich Rizzuto on a government IT project in the past, and have personally witnessed the application of his expertise in his profession. He is an industry grade expert in the Computer Networking and Technology Support field of IT. Rich has the type of skills that other professionals in his field strive to achieve. Rich also possesses a solid business background as well. He is a friendly and lively person to work around and talk to, and I believe his knowledge and skills would be a long-term asset to any company.\n…\nSee more"
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/rebecca-milazzo/",
+      "text": "UI/UX Manager at Netchex"
+    },
+    {
+      "user": "https://www.linkedin.com/in/devancormier/",
+      "text": "."
+    },
+    {
+      "user": "https://www.linkedin.com/in/mark-ducoing-561859bb/",
+      "text": "Chief Deposit Officer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/giovanni-ferrazzano-25318615/",
+      "text": "Business Intelligence Analyst at Chevron via US Computer Corp"
+    },
+    {
+      "user": "https://www.linkedin.com/in/virgie-v-788a1b26/",
+      "text": "Database Administrator/PeopleSoft Administrator"
+    },
+    {
+      "user": "https://www.linkedin.com/in/amy-lee-1835334/",
+      "text": "PeopleSoft Administrator"
+    },
+    {
+      "user": "https://www.linkedin.com/in/debbie-mihalow-4a71721/",
+      "text": "PeopleSoft HRIS Analyst at National Finance Center"
+    },
+    {
+      "user": "https://www.linkedin.com/in/enriquetejera/",
+      "text": "Microsoft SQL Database Administrator at Netchex"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sal-volpe-b3944a3/",
+      "text": "PeopleSoft System Administrator/Database Administrator at LSU Health Sciences Center"
+    },
+    {
+      "user": "https://www.linkedin.com/in/aruna-raghunam-b4515220/",
+      "text": "Crystal Reports/BO Developer"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "David A Couvillon",
+    "headline": "Senior Business Intelligence Developer and Database Administrator at First Guaranty Bank",
+    "location": "Greater New Orleans Area",
+    "connections": "113"
+  }
+}

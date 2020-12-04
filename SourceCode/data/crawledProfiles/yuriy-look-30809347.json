@@ -1,0 +1,140 @@
+{
+  "profileAlternative": {
+    "name": "Yuriy Look",
+    "headline": "Software Developer in West Bloomfield, MI",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQHMqEtcCm2S-w/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=gRR16LAoSFV6FSJan7pNGWJrVpAvIXjUBV6tuSwemNk",
+    "location": "West Bloomfield, Michigan",
+    "connections": "391",
+    "summary": "I am a highly experienced, innovative, and goal-oriented Software Engineer with over 30 years in the software development field. I have deep experience in the research, design, development, and troubleshooting of new and existing software solutions. I have a particular interest in and extensive expertise working on enterprise software for Windows using C/C++.\n\nI love the challenge of working on new projects as well as troubleshooting, diagnosing, and solving customer problems using whatever software tools and technology are necessary. Throughout my career, I have always been willing to do whatever was necessary to help ensure project progress and customer satisfaction. I seek out the most difficult problems and do not quit until a solution is found. Although my strength is in the C++ and C languages on Windows platforms, I do have considerable experience in other technologies that allows me to be successful in many environments.\n\nAreas of expertise: Enterprise Software, Test Automation, Performance Monitoring, Windows Programming, Java Programming, .NET Programming, Software Lifecycle Management.\n\nOperating systems/Networks: Windows – all supported versions (x86 and x64), OS/2, UNIX, DOS, Microsoft Networks, TCP/IP, MVS, OS, TSO.\n\nLanguages: C++/C, C++ CLI/Managed C++, Java, C#, WPF, P/Invoke, SQL, Pro*C/C++, HTML, XML, UML, PL/1, IBM Mainframe Assembler, COBOL, FORTRAN, JCL.\n\nDevelopment environments: Visual Studio, Visual C++, Eclipse, Borland JBuilder, IntelliJ IDEA, Borland C++, InstallShield, ISPF.\n\nDatabases: MS SQL Server, Oracle, DB2, Access, c-tree.\n\nComponents/Tools:, Enterpise Synthetic Monitoring, TestPartner, JNI, Log4J, JNLP/Java Web Start, Gecko, FreeRDP, OpenCV, Tesseract, Lucene, CLucene, POI, API Monitor, Spring, DataNucleous, JUnit, Subversion, TFS, StarTeam, Perforce, PVCS, CVS, YourKit, DevPartner, Wireshark, MS Network Monitor, EtherPeek, cygwin, Hamilton C-Shell, JIRA, Confluence, MediaWiki, Caliber, OpenCV, Rally, XPlanner, MS Project"
+  },
+  "aboutAlternative": {
+    "text": "I am a highly experienced, innovative, and goal-oriented Software Engineer with over 30 years in the software development field. I have deep experience in the research, design, development, and troubleshooting of new and existing software solutions. I have a particular interest in and extensive expertise working on enterprise software for Windows using C/C++.\n\nI love the challenge of working on new projects as well as troubleshooting, diagnosing, and solving customer problems using whatever software tools and technology are necessary. Throughout my career, I have always been willing to do whatever was necessary to help ensure project progress and customer satisfaction. I seek out the most difficult problems and do not quit until a solution is found. Although my strength is in the C++ and C languages on Windows platforms, I do have considerable experience in other technologies that allows me to be successful in many environments.\n\nAreas of expertise: Enterprise Software, Test Automation, Performance Monitoring, Windows Programming, Java Programming, .NET Programming, Software Lifecycle Management.\n\nOperating systems/Networks: Windows – all supported versions (x86 and x64), OS/2, UNIX, DOS, Microsoft Networks, TCP/IP, MVS, OS, TSO.\n\nLanguages: C++/C, C++ CLI/Managed C++, Java, C#, WPF, P/Invoke, SQL, Pro*C/C++, HTML, XML, UML, PL/1, IBM Mainframe Assembler, COBOL, FORTRAN, JCL.\n\nDevelopment environments: Visual Studio, Visual C++, Eclipse, Borland JBuilder, IntelliJ IDEA, Borland C++, InstallShield, ISPF.\n\nDatabases: MS SQL Server, Oracle, DB2, Access, c-tree.\n\nComponents/Tools:, Enterpise Synthetic Monitoring, TestPartner, JNI, Log4J, JNLP/Java Web Start, Gecko, FreeRDP, OpenCV, Tesseract, Lucene, CLucene, POI, API Monitor, Spring, DataNucleous, JUnit, Subversion, TFS, StarTeam, Perforce, PVCS, CVS, YourKit, DevPartner, Wireshark, MS Network Monitor, EtherPeek, cygwin, Hamilton C-Shell, JIRA, Confluence, MediaWiki, Caliber, OpenCV, Rally, XPlanner, MS Project"
+  },
+  "positions": [
+    {
+      "title": "Software Developer",
+      "companyName": "Dynatrace",
+      "location": "Detroit, MI",
+      "description": "Principal Researcher and Developer of Enterprise Synthetic Monitoring (ESM, former Client Vantage) Agent Recorder (AR) with involvement in other ESM components. The technologies used were primarily C++/C and Windows API, and many other technologies were also used. The Recorder is based on TestPartner, back licensed from Micro Focus.\n\n• Principal researcher and developer for the ESM 2.0 project – an envisioned next generation Enterprise Synthetic Monitoring component of an integrated Dynatrace offering. The focus was on enhancing security, allowing multiple user sessions, and providing a unified approach to working with applications running on different OSes.\n• Authored a patent application for an innovative approach to GUI automation. Proposed an approach to enhancing precision in transactions time measurement; the first phase was later implemented by a coworker.\n• Principle role in the research, design, and implementation the project to enable Agent Recorder support of 64-bit applications. Re-implemented shared memory creation and usage that allows effective communication between 32 bit and 64-bit processes. Improved the original design to avoid crashes on disconnecting from the shared memory. Later implemented support for Java applications running in a 64-bit JRE.\n• Designed and developed RelativeRectangle functionality to simplify scripting when working with multiple physical agents with inconsistent screen resolution.\n• Conducted research for moving all ESM components to Visual Studio 2015 and converted AutoChecks code.\n…\nsee more",
+      "date1": "2011 – 2019",
+      "date2": "8 yrs"
+    },
+    {
+      "title": "Senior Software Systems Developer",
+      "companyName": "Micro Focus",
+      "location": "Troy, MI",
+      "description": "Researcher and Developer of several products that came from acquisitions of Compuware QACenter product line and of Borland.\n\n• Participated in the research, design, and prototyping of Change Management Hub (CMHub), prospective Micro Focus persistence and versioning platform, a backend component, based on current StarTeam backend, with focus on Lucene/CLucene-based search, load partitioning, and parallel execution.\n• Participated in development of CaliberRDM, a new product targeted to replace two market-visible Requirements Management tools Borland CaliberRM and Micro Focus (former Compuware) Optimal Trace, including Borland TeamDefine, a requirements definition tool. Worked on the framework that was supposed to be a foundation for CaliberRDM and several other Micro Focus products. Designed and implemented search inside Office documents attachments.\n• After acquisition of Compuware Quality Solutions by Micro Focus, developed and maintained TrackRecord (a bug tracking tool and proprietary object database) as a leader, later sole developer, and then part-time developer. Resolved numerous product stability issues of different nature to the level where no further problems have arisen for over a year. Designed and developed/enhanced TrackRecord data extraction and editing capabilities to allow customer data to be transitioned to StarTeam. After a complete loss of the product support team, trained and consulted the new support team.\n• Developed and maintained TestPartner, a functional testing tool. Discovered and fixed for several intermittent or otherwise inconsistent problems. Helped coworkers and support teams in learning low-level debugging methods.\n…\nsee more",
+      "date1": "2009 – 2011",
+      "date2": "2 yrs"
+    },
+    {
+      "title": "Team Lead, Senior Software Developer",
+      "companyName": "Compuware",
+      "location": "Detroit, MI",
+      "description": "Developer of TrackRecord – an object database and a workflow management system marketed as a bug tracking system. C++/C, Windows API, and other technologies.\n\nDesigned and developed handling user accounts in transactional environment. Resolved many database integrity issues and improved product reliability. Ported demo applications from VB6 into VB.NET and tested new C# API. Enhanced product licensing capabilities allowing widening company’s product offerings. Introduced and implemented new approach to storing file attachments that eliminated limitations of the old approach. Improved product performance, scalability, and reliability. Fixed numerous bugs, some with very long history. Resolved many customer issues, including database integrity issues. Worked on product testing and discovered many bugs missed during previous test cycles. Contributed to internal product knowledge base and supported web site.\n…\nsee more",
+      "date1": "2003 – 2009",
+      "date2": "6 yrs"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Saint Petersburg State University of Aerospace and Instrumentation",
+      "degree": "Masrter of Science",
+      "fieldofstudy": "Computer Science"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Software Development",
+      "count": "48"
+    },
+    {
+      "title": "C++",
+      "count": "9"
+    },
+    {
+      "title": "Visual Studio",
+      "count": "28"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "4",
+    "receivedCount": "3",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/pawelsiwek/",
+        "text": "I’ve worked with Yuriy in Dynatrace for 1+ year on Enterprise Synthetic Monitoring project being software architect. Yuriy huge experience in performance monitoring and deep knowledge of customers use cases helped to shape the solution and not to lose any of potential requirements. His open minded attitude and passion together with commitment, lead us to deliver modern, well designed and efficient solution. Yuriy is the developer Ninja: he can find himself in low level programming in C, C++ as well as with .NET , Visual Basic and Windows API master.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/marty-cracchiolo-980256107/",
+        "text": "I've worked with Yuriy since 2011. He is one of the most tenacious developers I’ve had the pleasure to work with. He's passionate and loyal to the company and an incredibly hard worker. He is very intelligent, able to work on complicated tasks and come up with reliable solutions. I've turned to him on several occasions to help work out difficult tasks and he is always willing to assist. His development skills are very astute and I would welcome the chance to work with him in the future.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/carol-ott-109a529/",
+        "text": "I was Yuriy's Team Lead in Compuware/Dynatrace for more than seven years on the development team for Enterprise Synthetic Monitoring. Yuriy was one of the principle researchers/developers for the Agent Recorder and also helped design new features, test, maintain and support the product. Yuriy’s technical skills are stellar. He also was diligent in researching alternative approaches and proposing design changes to improve the product. His efforts were key in applying for a patent for a new approach to automated monitoring. This same diligence and critical thinking proved essential in addressing specific customer needs. Yuriy is a quick study; he adapts quickly to changing environments. These adaptations are critical to surviving in our ever-changing technology world. He successfully used advanced techniques like instrumenting application's code on the fly, snapshot and postmortem debugging, along with many others. His experience primarily includes C, C++, C#, Java, .NET, different flavors of VB (VB6, VB.NET, VBA, and VBScript). His knowledge of Windows is phenomenal. Additionally, Yuriy has a teaching spirit and is eager to patiently share knowledge with co-workers and customers. He readily and effectively cooperated with his coworkers. He would prove successful in any technology endeavor.\n…\nSee more"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/vince-benkert-5260197/",
+        "text": "\"I worked with Vince in Compuware/Dynatrace for three and half years being a developer of the Agent Recorder – the product Vince supported along with other components of Compuware Enterprise Synthetic Monitoring. Vince continuously learned the product and associated troubleshooting and diagnostic techniques, managed relations with the customers Vince was always putting close attention that support cases progress well and resolved to customer satisfaction and when appropriate would lead to necessary fixes or improvements in the product. When I worked with Vince, I was always confident that collecting diagnostic materials and applying fixes are going to be performed properly and all necessary glue will be applied.\""
+      },
+      {
+        "user": "https://www.linkedin.com/in/neiljalandoni/",
+        "text": "I worked with Neil in Compuware/Dynatrace for two and half years being a developer of the Agent Recorder – the product Neil supported along with other components of Compuware Enterprise Synthetic Monitoring.  Neil continuously learned the product and associated troubleshooting and diagnostic techniques, managed relations with the customers.  Neil was very patient and persistent in tough slow moving cases which could not be reproduced in-house, where collecting diagnostic information was difficult and many iterations were necessary to address the issue."
+      }
+    ]
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/pragati-thakur-87a002148/",
+      "text": "Technical IT Recruiter"
+    },
+    {
+      "user": "https://www.linkedin.com/in/bhargavi-pajjuri-8026073/",
+      "text": "Sr. Manager at GM"
+    },
+    {
+      "user": "https://www.linkedin.com/in/dhanyamenon/",
+      "text": "Senior Product Manager at Wells Fargo"
+    },
+    {
+      "user": "https://www.linkedin.com/in/marty-cracchiolo-980256107/",
+      "text": "Software Developer at Dynatrace"
+    },
+    {
+      "user": "https://www.linkedin.com/in/lisa-miller-065992a/",
+      "text": "Software Developer at Resolute Building Intelligence"
+    },
+    {
+      "user": "https://www.linkedin.com/in/george-tsitinis-14a30730/",
+      "text": "Senior Applications Development Manager at Dassault Systèmes 3DEXCITE"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tom-kelly-43164311/",
+      "text": "Systems Engineer at AIG"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kristie-mathewson-3a295752/",
+      "text": "Procure to Pay Manager at Dynatrace"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ashooshetty/",
+      "text": "Technology Advisor at Amazon Web Services"
+    },
+    {
+      "user": "https://www.linkedin.com/in/indira-harracksingh-93a3782/",
+      "text": "Technical Product Manager at GE"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Yuriy Look",
+    "headline": "Software Developer in West Bloomfield, MI",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQHMqEtcCm2S-w/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=gRR16LAoSFV6FSJan7pNGWJrVpAvIXjUBV6tuSwemNk",
+    "location": "West Bloomfield, Michigan",
+    "connections": "391",
+    "summary": "I am a highly experienced, innovative, and goal-oriented Software Engineer with over 30 years in the software development field. I have deep experience in the research, design, development, and troubleshooting of new and existing software solutions. I have a particular interest in and extensive expertise working on enterprise software for Windows using C/C++.\n\nI love the challenge of working on new projects as well as troubleshooting, diagnosing, and solving customer problems using whatever software tools and technology are necessary. Throughout my career, I have always been willing to do whatever was necessary to help ensure project progress and customer satisfaction. I seek out the most difficult problems and do not quit until a solution is found. Although my strength is in the C++ and C languages on Windows platforms, I do have considerable experience in other technologies that allows me to be successful in many environments.\n\nAreas of expertise: Enterprise Software, Test Automation, Performance Monitoring, Windows Programming, Java Programming, .NET Programming, Software Lifecycle Management.\n\nOperating systems/Networks: Windows – all supported versions (x86 and x64), OS/2, UNIX, DOS, Microsoft Networks, TCP/IP, MVS, OS, TSO.\n\nLanguages: C++/C, C++ CLI/Managed C++, Java, C#, WPF, P/Invoke, SQL, Pro*C/C++, HTML, XML, UML, PL/1, IBM Mainframe Assembler, COBOL, FORTRAN, JCL.\n\nDevelopment environments: Visual Studio, Visual C++, Eclipse, Borland JBuilder, IntelliJ IDEA, Borland C++, InstallShield, ISPF.\n\nDatabases: MS SQL Server, Oracle, DB2, Access, c-tree.\n\nComponents/Tools:, Enterpise Synthetic Monitoring, TestPartner, JNI, Log4J, JNLP/Java Web Start, Gecko, FreeRDP, OpenCV, Tesseract, Lucene, CLucene, POI, API Monitor, Spring, DataNucleous, JUnit, Subversion, TFS, StarTeam, Perforce, PVCS, CVS, YourKit, DevPartner, Wireshark, MS Network Monitor, EtherPeek, cygwin, Hamilton C-Shell, JIRA, Confluence, MediaWiki, Caliber, OpenCV, Rally, XPlanner, MS Project"
+  }
+}

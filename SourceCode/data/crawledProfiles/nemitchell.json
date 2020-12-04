@@ -1,0 +1,299 @@
+{
+  "profileAlternative": {
+    "name": "Neil Mitchell",
+    "headline": "Programmer at Facebook",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQGMfo5fBrqyGg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=9BR_l4xYUcKihNLF5NaiChRWa1_TzartMKs34ab6eKw",
+    "location": "Cambridge, United Kingdom",
+    "connections": "500+",
+    "summary": "I'm a Haskell programmer who lives in Cambridge with my wife Emily and son Henry. I have a PhD in Computer Science from York University, working on making functional programs shorter, faster and safer. Since then I've worked with F# at Credit Suisse, Haskell/F#/C++ at Standard Chartered and Haskell/F# at Barclays Bank, taking the lessons of functional programming and applying them in finance. I currently work for Digital Asset, but all content and opinions are my own. I'm a strong believer in the functional approach, finding the combination of conciseness, static-typing and testability to offer significant advantages."
+  },
+  "aboutAlternative": {
+    "text": "I'm a Haskell programmer who lives in Cambridge with my wife Emily and son Henry. I have a PhD in Computer Science from York University, working on making functional programs shorter, faster and safer. Since then I've worked with F# at Credit Suisse, Haskell/F#/C++ at Standard Chartered and Haskell/F# at Barclays Bank, taking the lessons of functional programming and applying them in finance. I currently work for Digital Asset, but all content and opinions are my own. I'm a strong believer in the functional approach, finding the combination of conciseness, static-typing and testability to offer significant advantages."
+  },
+  "positions": [
+    {
+      "title": "Programmer",
+      "companyName": "Facebook",
+      "location": "London, United Kingdom",
+      "date1": "Jul 2019 – Present",
+      "date2": "5 mos"
+    },
+    {
+      "title": "Digital Asset",
+      "location": "Cambridge, United Kingdom",
+      "date1": "Feb 2019 – Jul 2019",
+      "date2": "6 mos",
+      "roles": [
+        {
+          "title": "Head of DAML Language",
+          "date1": "Feb 2019 – Jul 2019",
+          "date2": "6 mos",
+          "location": "Cambridge, United Kingdom"
+        },
+        {
+          "title": "Senior Product Architect",
+          "date1": "Jan 2018 – Feb 2019",
+          "date2": "1 yr 2 mos",
+          "location": "Cambridge, United Kingdom"
+        }
+      ]
+    },
+    {
+      "title": "Title\nHead of DAML Language",
+      "location": "Cambridge, United Kingdom",
+      "date1": "Feb 2019 – Jul 2019",
+      "date2": "6 mos",
+      "roles": [
+        {
+          "title": "Head of DAML Language",
+          "date1": "Feb 2019 – Jul 2019",
+          "date2": "6 mos",
+          "location": "Cambridge, United Kingdom"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSenior Product Architect",
+      "location": "Cambridge, United Kingdom",
+      "date1": "Jan 2018 – Feb 2019",
+      "date2": "1 yr 2 mos",
+      "roles": [
+        {
+          "title": "Senior Product Architect",
+          "date1": "Jan 2018 – Feb 2019",
+          "date2": "1 yr 2 mos",
+          "location": "Cambridge, United Kingdom"
+        }
+      ]
+    },
+    {
+      "title": "Director",
+      "companyName": "Barclays",
+      "location": "London, United Kingdom",
+      "date1": "Aug 2016 – Jan 2018",
+      "date2": "1 yr 6 mos"
+    },
+    {
+      "title": "Director",
+      "companyName": "Standard Chartered Bank",
+      "date1": "Dec 2008 – Aug 2016",
+      "date2": "7 yrs 9 mos"
+    },
+    {
+      "title": "Summer Associate",
+      "companyName": "Credit Suisse",
+      "date1": "Sep 2008 – Nov 2008",
+      "date2": "3 mos"
+    },
+    {
+      "title": "Summer of code project with Haskell.org",
+      "companyName": "Google",
+      "location": "St Andrews, United Kingdom",
+      "date1": "Jul 2008 – Sep 2008",
+      "date2": "3 mos"
+    },
+    {
+      "title": "Programmer (Intern)",
+      "companyName": "Simulation Systems LTD",
+      "date1": "Jun 2003 – Aug 2003",
+      "date2": "3 mos"
+    },
+    {
+      "title": "Programmer and co-owner",
+      "companyName": "Blue Perfection",
+      "date1": "Apr 2000 – Oct 2002",
+      "date2": "2 yrs 7 mos"
+    },
+    {
+      "title": "Programmer (Intern)",
+      "companyName": "Amadeus IT Group",
+      "date1": "Jun 2002 – Aug 2002",
+      "date2": "3 mos"
+    },
+    {
+      "title": "IT Consultant",
+      "companyName": "C V Mitchell & Co",
+      "date1": "May 1993 – Sep 2001",
+      "date2": "8 yrs 5 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "University of York",
+      "degree": "Doctor of Philosophy (Ph.D.)",
+      "fieldofstudy": "Computer Science",
+      "date1": "2004",
+      "date2": "2008"
+    },
+    {
+      "title": "University of York",
+      "degree": "Master of Engineering (MEng)",
+      "fieldofstudy": "Computer Science",
+      "date1": "2000",
+      "date2": "2004"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Haskell",
+      "count": "62"
+    },
+    {
+      "title": "Computer Science",
+      "count": "46"
+    },
+    {
+      "title": "Algorithms",
+      "count": "42"
+    },
+    {
+      "title": "Software Engineering",
+      "count": "30"
+    },
+    {
+      "title": "Programming",
+      "count": "28"
+    },
+    {
+      "title": "Software Development",
+      "count": "21"
+    },
+    {
+      "title": "Multithreading",
+      "count": "15"
+    },
+    {
+      "title": "Distributed Systems",
+      "count": "10"
+    },
+    {
+      "title": "Shell Scripting",
+      "count": "7"
+    },
+    {
+      "title": "Machine Learning",
+      "count": "4"
+    },
+    {
+      "title": "C++",
+      "count": "14"
+    },
+    {
+      "title": "C",
+      "count": "13"
+    },
+    {
+      "title": "Git",
+      "count": "11"
+    },
+    {
+      "title": "JavaScript",
+      "count": "7"
+    },
+    {
+      "title": "Subversion",
+      "count": "6"
+    },
+    {
+      "title": "LaTeX",
+      "count": "5"
+    },
+    {
+      "title": "Java",
+      "count": "1"
+    },
+    {
+      "title": "Linux",
+      "count": "1"
+    },
+    {
+      "title": "Python"
+    },
+    {
+      "title": "Quantitative Finance",
+      "count": "5"
+    },
+    {
+      "title": "Functional Support",
+      "count": "4"
+    },
+    {
+      "title": "GNU Make",
+      "count": "2"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "2",
+    "receivedCount": "0",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/shayne-fletcher/",
+        "text": "I worked with Shayne at Digital Asset. He joined the team with an O'Caml background, but aware he was going to do Haskell. Rather than just any Haskell, I dropped him in at the deep end as our GHC compiler hacker. He was able to implement a number of GHC extensions, mostly in the parser/desugarer, but some which involved the type checker, and work with the community to get them upstream. Shayne took on the challenge of GHC and learnt Haskell at the same time - no mean feat. Shayne is a genuine \"nice guy\" who has made the office a more pleasant environment. I look forward to our paths crossing again in future.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/dimarzio/",
+        "text": "I worked with Paul at Digital Asset, where one of the things Paul did was produce material for external audiences via the company blog. Paul was relentless in taking our raw thoughts and ideas, polishing them, and giving it an overarching story that matched the company message. Paul managed to serve as an effective conduit to communicate complex engineering topics into a business-friendly message, and also served as a valuable sounding board to get the perspective \"from the other side\". Throughout, Paul always stayed away from the limelight himself, leaving others to pick up the credit - an admirable trait.\n…\nSee more"
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "1",
+      "items": [
+        "English"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/dons00/",
+      "text": "Software engineering​"
+    },
+    {
+      "user": "https://www.linkedin.com/in/andreymokhov/",
+      "text": "Software Engineer at Jane Street"
+    },
+    {
+      "user": "https://www.linkedin.com/in/edward-crichton-8b62aa66/",
+      "text": "Software Developer at Department of Computer Science, University of Oxford"
+    },
+    {
+      "user": "https://www.linkedin.com/in/simonpj/",
+      "text": "Principal Researcher at Microsoft Research (Cambridge UK)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/dario-elice/",
+      "text": "DevOps Engineer at NCC Group"
+    },
+    {
+      "user": "https://www.linkedin.com/in/harriet-kislama-ab336067/",
+      "text": "Manager, Country Risk at Standard Chartered Bank"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ivan-veselov-2b27523/",
+      "text": "Haskell Developer at Barclays"
+    },
+    {
+      "user": "https://www.linkedin.com/in/esmolanka/",
+      "text": "Functional programmer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jasminthomas/",
+      "text": "Founder at OhanaCBD"
+    },
+    {
+      "user": "https://www.linkedin.com/in/souhail-hannouf-4b07824/",
+      "text": "Senior FX Quantitative Analyst at Deutsche Bank"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Neil Mitchell",
+    "headline": "Programmer at Facebook",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQGMfo5fBrqyGg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=9BR_l4xYUcKihNLF5NaiChRWa1_TzartMKs34ab6eKw",
+    "location": "Cambridge, United Kingdom",
+    "connections": "500+",
+    "summary": "I'm a Haskell programmer who lives in Cambridge with my wife Emily and son Henry. I have a PhD in Computer Science from York University, working on making functional programs shorter, faster and safer. Since then I've worked with F# at Credit Suisse, Haskell/F#/C++ at Standard Chartered and Haskell/F# at Barclays Bank, taking the lessons of functional programming and applying them in finance. I currently work for Digital Asset, but all content and opinions are my own. I'm a strong believer in the functional approach, finding the combination of conciseness, static-typing and testability to offer significant advantages."
+  }
+}

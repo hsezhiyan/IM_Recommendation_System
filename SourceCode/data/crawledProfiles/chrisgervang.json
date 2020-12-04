@@ -1,0 +1,370 @@
+{
+  "profileAlternative": {
+    "name": "Chris Gervang",
+    "headline": "Senior Software Engineer at Uber Elevate",
+    "imageurl": "https://media.licdn.com/dms/image/C5103AQGK0kqDLAZjSA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=dM3C3gxTquT_hXwFM7p5zdB8dIO1adHl6X3ov72fvHk",
+    "location": "San Francisco Bay Area",
+    "connections": "481",
+    "summary": "Visualization and Data Software Engineer by day, Hardware Art enthusiast by night. Loves to learn how stuff is built. Skilled in TypeScript, React, Deck.gl, Python, Java, F#, SQL, and HTML/CSS. Strong self taught engineering professional."
+  },
+  "aboutAlternative": {
+    "text": "Visualization and Data Software Engineer by day, Hardware Art enthusiast by night. Loves to learn how stuff is built. Skilled in TypeScript, React, Deck.gl, Python, Java, F#, SQL, and HTML/CSS. Strong self taught engineering professional."
+  },
+  "positions": [
+    {
+      "title": "Uber",
+      "location": "San Francisco, California",
+      "description": "Uber Air Systems Simulation & Network Design",
+      "date1": "Aug 2019 – Present",
+      "date2": "4 mos",
+      "roles": [
+        {
+          "title": "Senior Software Engineer",
+          "date1": "Aug 2019 – Present",
+          "date2": "4 mos",
+          "location": "San Francisco, California"
+        },
+        {
+          "title": "Software Engineer II",
+          "date1": "Sep 2017 – Aug 2019",
+          "date2": "2 yrs",
+          "location": "San Francisco Bay Area"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSenior Software Engineer",
+      "location": "San Francisco, California",
+      "description": "Uber Air Systems Simulation & Network Design",
+      "date1": "Aug 2019 – Present",
+      "date2": "4 mos",
+      "roles": [
+        {
+          "title": "Senior Software Engineer",
+          "date1": "Aug 2019 – Present",
+          "date2": "4 mos",
+          "location": "San Francisco, California"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSoftware Engineer II",
+      "location": "San Francisco Bay Area",
+      "description": "Building the Flux Optimizer, Uber Elevate's market design & experimentation tool for Uber Air.\n\nPreviously, color research for Uber Beacon.",
+      "date1": "Sep 2017 – Aug 2019",
+      "date2": "2 yrs",
+      "roles": [
+        {
+          "title": "Software Engineer II",
+          "date1": "Sep 2017 – Aug 2019",
+          "date2": "2 yrs",
+          "location": "San Francisco Bay Area"
+        }
+      ]
+    },
+    {
+      "title": "Tachyus",
+      "location": "San Mateo, CA",
+      "description": "Increased site performance considerably by optimizing data visualizations. Implemented the commenting experience to increase collaboration on our optimization platform. Unified 7 front end architectures into 1. Improved engineer effort estimations by 50% with breakdown documents.",
+      "date1": "Nov 2015 – Jul 2017",
+      "date2": "1 yr 9 mos",
+      "roles": [
+        {
+          "title": "Software Engineer II",
+          "date1": "Nov 2015 – Jul 2017",
+          "date2": "1 yr 9 mos",
+          "location": "San Mateo, CA"
+        },
+        {
+          "title": "Hardware Engineer",
+          "date1": "Nov 2014 – Nov 2015",
+          "date2": "1 yr 1 mo",
+          "location": "San Mateo, CA"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSoftware Engineer II",
+      "location": "San Mateo, CA",
+      "description": "Increased site performance considerably by optimizing data visualizations. Implemented the commenting experience to increase collaboration on our optimization platform. Unified 7 front end architectures into 1. Improved engineer effort estimations by 50% with breakdown documents.",
+      "date1": "Nov 2015 – Jul 2017",
+      "date2": "1 yr 9 mos",
+      "roles": [
+        {
+          "title": "Software Engineer II",
+          "date1": "Nov 2015 – Jul 2017",
+          "date2": "1 yr 9 mos",
+          "location": "San Mateo, CA"
+        }
+      ]
+    },
+    {
+      "title": "Title\nHardware Engineer",
+      "location": "San Mateo, CA",
+      "description": "Developed water cut sensors. Designed PCB layouts which proved product viability. Implemented firmware. Researched valve mechanics. Deployed prototype to field. Named on patent for sensing methods.",
+      "date1": "Nov 2014 – Nov 2015",
+      "date2": "1 yr 1 mo",
+      "roles": [
+        {
+          "title": "Hardware Engineer",
+          "date1": "Nov 2014 – Nov 2015",
+          "date2": "1 yr 1 mo",
+          "location": "San Mateo, CA"
+        }
+      ]
+    },
+    {
+      "title": "Product Design & Developer Intern",
+      "companyName": "Stanford University",
+      "location": "d.school",
+      "description": "Worked Compass, a website for Stanford undergraduates to design a mission-driven educational plan.",
+      "date1": "Jun 2013 – Oct 2013",
+      "date2": "5 mos"
+    }
+  ],
+  "educations": [],
+  "skills": [
+    {
+      "title": "JavaScript",
+      "count": "18"
+    },
+    {
+      "title": "Python",
+      "count": "9"
+    },
+    {
+      "title": "Java",
+      "count": "12"
+    },
+    {
+      "title": "Software Engineering",
+      "count": "7"
+    },
+    {
+      "title": "Design",
+      "count": "4"
+    },
+    {
+      "title": "Graphic Design",
+      "count": "5"
+    },
+    {
+      "title": "Video Editing",
+      "count": "9"
+    },
+    {
+      "title": "Research",
+      "count": "5"
+    },
+    {
+      "title": "Soldering",
+      "count": "4"
+    },
+    {
+      "title": "Software Development",
+      "count": "8"
+    },
+    {
+      "title": "Software Documentation",
+      "count": "2"
+    },
+    {
+      "title": "Web Development",
+      "count": "1"
+    },
+    {
+      "title": "Audio Engineering",
+      "count": "1"
+    },
+    {
+      "title": "React.js",
+      "count": "8"
+    },
+    {
+      "title": "Redux",
+      "count": "3"
+    },
+    {
+      "title": "D3.js",
+      "count": "2"
+    },
+    {
+      "title": "C++",
+      "count": "7"
+    },
+    {
+      "title": "HTML",
+      "count": "11"
+    },
+    {
+      "title": "CSS",
+      "count": "3"
+    },
+    {
+      "title": "PostgreSQL"
+    },
+    {
+      "title": "Computer Hardware",
+      "count": "10"
+    },
+    {
+      "title": "Meteor",
+      "count": "5"
+    },
+    {
+      "title": "OS X",
+      "count": "4"
+    },
+    {
+      "title": "Cascading Style Sheets (CSS)",
+      "count": "1"
+    },
+    {
+      "title": "Adobe Creative Suite",
+      "count": "3"
+    },
+    {
+      "title": "Microsoft SQL Server",
+      "count": "2"
+    },
+    {
+      "title": "Public Speaking",
+      "count": "6"
+    },
+    {
+      "title": "Problem Solving",
+      "count": "8"
+    },
+    {
+      "title": "Leadership",
+      "count": "1"
+    },
+    {
+      "title": "Hardware",
+      "count": "4"
+    },
+    {
+      "title": "TypeScript",
+      "count": "8"
+    },
+    {
+      "title": "F#",
+      "count": "1"
+    },
+    {
+      "title": "Technical Intuition",
+      "count": "2"
+    },
+    {
+      "title": "PC building",
+      "count": "1"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "2",
+    "receivedCount": "3",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/ctaggart/",
+        "text": "When Chris was invited to switch from hardware to software, I wanted him on my team. Everyone wanted him on their team. I was primarily doing devops and back-end development. It was easy to mentor Chris. He asks the right questions and picks stuff up fast. He opted for front-end web development and excelled at it. When I switched back to the front-end team, he was mentoring me. He provided wonderful documentation and patience. Chris was a pleasure to work with. He possesses both the necessary soft and technical skills and comes highly recommended.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/adam-jensen-72009322/",
+        "text": "I was Chris's product manager, and I dearly hope Chris Gervang and I get to work together again sometime. He cares about WHY the product matters, and HOW the customer feels using it. If he disagrees with a design decision, he'll bring it up the problem AND propose possible solutions. When he asked me a question, most of the time I just asked him \"what would you do if you couldn't ask me?\" And his answers were almost always what we ended up going with.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/tylermenezes/",
+        "text": "In running CodeDay SV, Chris showed that not only does he have fantastic technical skills (which I'd already known), but that he's able to get things done in a business setting, as well. He did a great job at making partnerships, promoting, and managing the budget for the event, and made sure the entire thing went down without any bugs. I feel extremely lucky to have had him on my team.\n…\nSee more"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/adam-jensen-72009322/",
+        "text": "Adam has an impressive ability to come to understand the world, and transit that understanding to others. When he doesn't know something, Adam will ask fantastic questions.\n\nThe attitude he brings to work inspires focus and positivity. Even when faced with a challenge, Adam remains collected and enthusiastic.\n\nWhen presenting, Adam clearly demonstrates the motivations for our work, and reminds me to focus on the people we are building for and the problems they face. The lessons I've learned from him I believe will continue to help me far into my career."
+      },
+      {
+        "user": "https://www.linkedin.com/in/tylermenezes/",
+        "text": "Tyler has been an enormous help in organizing my first CodeDay. His unique set of skills as a developer, instructor, and mentor makes him an efficient and experienced leader. I hope to work with him again soon."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "5",
+      "items": [
+        "Pinpoint",
+        "21 Days - IoT Habit Tracking Picture Frame",
+        "Reflectrum Smart Mirror",
+        "Compass",
+        "Wat'son"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "Grand Prize Winner - Clyde",
+        "Finalist - Wat'son",
+        "Best Overall Award - Plexis"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "StudentRND",
+        "Focus.vc",
+        "StudentRND"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/drew-thompson-5a651141/",
+      "text": "777X Primary Flight Control Systems Engineer at Boeing"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sarlandie/",
+      "text": "Entrepreneur, CTO, Software Engineering Management, Hardware"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ying-tat-leung-3223a941/",
+      "text": "Vice President, Data Science at Noodle.ai"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jennifer-shook-5b910412a/",
+      "text": "Associate at EY-Parthenon"
+    },
+    {
+      "user": "https://www.linkedin.com/in/achalnshah/",
+      "text": "Senior Software Engineer at Uber - Deep Learning Infrastructure, Machine Learning Platform"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mattno/",
+      "text": "Senior Software Engineer at Uber Elevate"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ktian00/",
+      "text": "Senior Software Engineer, Airspace Systems at Uber"
+    },
+    {
+      "user": "https://www.linkedin.com/in/andrei-iancu/",
+      "text": "Founder and CEO at Halo Industries, Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/alirezarostamzadeh/",
+      "text": "Data Science & ML Lead at Uber Elevate"
+    },
+    {
+      "user": "https://www.linkedin.com/in/j-stephen-sichina-81a2b957/",
+      "text": "Software Developer"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Chris Gervang",
+    "headline": "Senior Software Engineer at Uber Elevate",
+    "imageurl": "https://media.licdn.com/dms/image/C5103AQGK0kqDLAZjSA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=dM3C3gxTquT_hXwFM7p5zdB8dIO1adHl6X3ov72fvHk",
+    "location": "San Francisco Bay Area",
+    "connections": "481",
+    "summary": "Visualization and Data Software Engineer by day, Hardware Art enthusiast by night. Loves to learn how stuff is built. Skilled in TypeScript, React, Deck.gl, Python, Java, F#, SQL, and HTML/CSS. Strong self taught engineering professional."
+  }
+}

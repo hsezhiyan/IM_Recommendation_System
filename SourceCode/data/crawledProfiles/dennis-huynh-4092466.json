@@ -1,0 +1,177 @@
+{
+  "profileAlternative": {
+    "name": "Dennis Huynh",
+    "headline": "Senior DBA at EP Energy",
+    "location": "Houston, Texas",
+    "connections": "158"
+  },
+  "aboutAlternative": {},
+  "positions": [
+    {
+      "title": "Senior Oracle and SQL Server DBA",
+      "companyName": "EP ENERGY",
+      "location": "Houston, Texas Area",
+      "date1": "Jan 2005 – Present",
+      "date2": "14 yrs 11 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "University of Houston",
+      "degree": "Bachelor's degree of Science",
+      "fieldofstudy": "Computer Science",
+      "date1": "1987",
+      "date2": "1992"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Oracle",
+      "count": "15"
+    },
+    {
+      "title": "SharePoint",
+      "count": "14"
+    },
+    {
+      "title": "Disaster Recovery",
+      "count": "13"
+    },
+    {
+      "title": "SDLC",
+      "count": "5"
+    },
+    {
+      "title": "ITIL",
+      "count": "4"
+    },
+    {
+      "title": "Business Intelligence",
+      "count": "4"
+    },
+    {
+      "title": "Troubleshooting",
+      "count": "3"
+    },
+    {
+      "title": "Integration",
+      "count": "3"
+    },
+    {
+      "title": "Requirements Analysis",
+      "count": "3"
+    },
+    {
+      "title": "Data Warehousing",
+      "count": "2"
+    },
+    {
+      "title": "Enterprise Architecture",
+      "count": "2"
+    },
+    {
+      "title": "IT Management",
+      "count": "2"
+    },
+    {
+      "title": "Database Administration",
+      "count": "1"
+    },
+    {
+      "title": "Microsoft SQL Server",
+      "count": "12"
+    },
+    {
+      "title": "SQL",
+      "count": "6"
+    },
+    {
+      "title": "Visio",
+      "count": "5"
+    },
+    {
+      "title": "Databases",
+      "count": "4"
+    },
+    {
+      "title": "PeopleSoft",
+      "count": "3"
+    },
+    {
+      "title": "Crystal Reports",
+      "count": "3"
+    },
+    {
+      "title": "Linux",
+      "count": "2"
+    },
+    {
+      "title": "Unix",
+      "count": "2"
+    },
+    {
+      "title": "Servers",
+      "count": "2"
+    },
+    {
+      "title": "Windows Server",
+      "count": "2"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/david-karamol-2278588/",
+      "text": "SCCM & SCSM Administrator/Desktop Engineer/Help Desk & Desktop Lead at EP ENERGY"
+    },
+    {
+      "user": "https://www.linkedin.com/in/phuong-rachel-ferguson-52b89996/",
+      "text": "Non-Operated Revenue and Check Disbursement at EP ENERGY"
+    },
+    {
+      "user": "https://www.linkedin.com/in/gary-lemm-b418aa3/",
+      "text": "Retired"
+    },
+    {
+      "user": "https://www.linkedin.com/in/william-burleson-5474aa23/",
+      "text": "Production Systems at Noble Energy"
+    },
+    {
+      "user": "https://www.linkedin.com/in/fred-norwood-18583a39/",
+      "text": "Director of IT Infrastructure & Operations at EP Energy, Retired"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kathy-nichols-69138413a/",
+      "text": "Division Order Supervisor at NextEra Energy Resources"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sara-griffin-6a23637/",
+      "text": "Senior Accounting Technician"
+    },
+    {
+      "user": "https://www.linkedin.com/in/patricksartor/",
+      "text": "Senior Manager Integration Management Offic at WellCare Health Plans"
+    },
+    {
+      "user": "https://www.linkedin.com/in/barshayla-kitchen-89614b107/",
+      "text": "Sr. Business Services Tech at NextEra Energy Resources"
+    },
+    {
+      "user": "https://www.linkedin.com/in/david-elizondo-9b442221/",
+      "text": "IT at Exterran"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Dennis Huynh",
+    "headline": "Senior DBA at EP Energy",
+    "location": "Houston, Texas",
+    "connections": "158"
+  }
+}

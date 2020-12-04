@@ -1,0 +1,155 @@
+{
+  "profileAlternative": {
+    "name": "Pavan Kotehal",
+    "headline": "Python Developer | Cloud Architect",
+    "location": "Melbourne, Australia",
+    "connections": "500+",
+    "summary": "A professional with about 8 years of experience in Software Development.\n• Skilled in developing application by using Python language with Django framework.\n• Experience with many versions of Python as well as their differences and features.\n• Good knowledge of AngularJS, Storage, Hadoop ecosystems, HDFS, Big Data & JavaScript.\n• Excellent problem solving skills, high analytical skills, good communication and interpersonal\nskills.\n• Technical abilities are complemented by sound communication and user interaction abilities;\nfeasible enough to take new skills efficiently.\n• Permanent Resident of Australia"
+  },
+  "aboutAlternative": {
+    "text": "A professional with about 8 years of experience in Software Development.\n• Skilled in developing application by using Python language with Django framework.\n• Experience with many versions of Python as well as their differences and features.\n• Good knowledge of AngularJS, Storage, Hadoop ecosystems, HDFS, Big Data & JavaScript.\n• Excellent problem solving skills, high analytical skills, good communication and interpersonal\nskills.\n• Technical abilities are complemented by sound communication and user interaction abilities;\nfeasible enough to take new skills efficiently.\n• Permanent Resident of Australia"
+  },
+  "positions": [
+    {
+      "title": "Python Developer",
+      "companyName": "ANZ",
+      "location": "Melbourne, Australia",
+      "date1": "Aug 2018 – Present",
+      "date2": "1 yr 4 mos"
+    },
+    {
+      "title": "Python Developer",
+      "companyName": "nbn™ Australia",
+      "location": "Melbourne, Australia",
+      "date1": "Oct 2017 – Jul 2018",
+      "date2": "10 mos"
+    },
+    {
+      "title": "IT Analyst",
+      "companyName": "Tata Consultancy Services",
+      "location": "Bengaluru Area, India",
+      "description": "I currently work here As an IT Analyst.\n\nWorking on Python , Django, AWS, HTML and CSS.\n\nSkill set : Python, Django, Jenkins, AWS, Cloud Automation, WebDevelopment, BigData, Hadoop.\n…\nsee more",
+      "date1": "Mar 2014 – Sep 2017",
+      "date2": "3 yrs 7 mos"
+    },
+    {
+      "title": "Associate Software Engineer",
+      "companyName": "Thomson Reuters",
+      "description": "B2CC—Billing to Cash collection in Financial & Risk Business.\nDuration : December 2011 till March 2014.\nBrief Description:\nB2CC Billing to Cash Collection (Thomson Reuters India Pvt Ltd)\nThe Clients ERP system was designed with Siebel as front end, Oracle 10g EAI as middleware carrying the information from front end to the SAP as the back end of the ERP.\nThe Information logged in Siebel frontend was the first level data through which the order has to flow to SAP for billing, once the billing is complete in SAP the status information has to be sent back and displayed in Siebel. Oracle 10g EAI was the middleware which exchanges then data between Siebel and SAP for the complete billing cycle. Used SOAP for carrying the Payloads and to change the info of the order at backendResponsibilities:\nHave one year of experience in end to end Application support with core focus on SAP SD and ABAP exposure.\n• Involved in supporting to daily SAP SD & ABAP related issue.\n• Learned SIEBEL CRM basic order process functionality as it is basic interface for B2CC project.\n• Involved in end users training and given basic SAP functional training to SIEBEL support team.\n• Did root cause analysis of some code failures issues and get them fixed by raising problem management tickets.\n• Handling a team of 4 fresher’s, to guide them resolving tickets.\n• At the time of ticket resolving some of the easy tickets, provided training instantly to users fixes.\n\n…\nsee more",
+      "date1": "Dec 2011 – Mar 2014",
+      "date2": "2 yrs 4 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "East Point College Of Engineering And Technology",
+      "degree": "Bachelor of Engineering (BEng)",
+      "fieldofstudy": "Electronics and Communications Engineering",
+      "date1": "2007",
+      "date2": "2011"
+    },
+    {
+      "title": "Visvesvaraya Technological University",
+      "degree": "Bachelor of Engineering - BE",
+      "fieldofstudy": "Electronics and Communications Engineering",
+      "date1": "2007",
+      "date2": "2011"
+    },
+    {
+      "title": "Maria Nivas High School, Harihar",
+      "degree": "Associate's Degree",
+      "fieldofstudy": "High School/Secondary Diplomas and Certificates",
+      "date1": "1993",
+      "date2": "2005"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Python",
+      "count": "18"
+    },
+    {
+      "title": "Amazon Web Services (AWS)",
+      "count": "4"
+    },
+    {
+      "title": "Django",
+      "count": "16"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "5",
+      "items": [
+        "Ideas",
+        "Manning",
+        "Hardware Inventory Tool",
+        "TIM",
+        "Customer Insight"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "English",
+        "English"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/johnuiterwyk/",
+      "text": "Senior Big Data Software Engineer at nbn™ Australia"
+    },
+    {
+      "user": "https://www.linkedin.com/in/bardin-h-4b1b6360/",
+      "text": "Solutions Architect at Accenture"
+    },
+    {
+      "user": "https://www.linkedin.com/in/virjit-dhillon-01b6b06a/",
+      "text": "Python Developer/ Web Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sylvia-yap-483560129/",
+      "text": "Python Developer at reecetech"
+    },
+    {
+      "user": "https://www.linkedin.com/in/andrew-j-noble/",
+      "text": "Front End Development Lead at Jetstar Airways"
+    },
+    {
+      "user": "https://www.linkedin.com/in/simone-laskis-154b7272/",
+      "text": "--"
+    },
+    {
+      "user": "https://www.linkedin.com/in/vijit-shah-29898948/",
+      "text": "Senior Agile Developer at nbn™ Australia"
+    },
+    {
+      "user": "https://www.linkedin.com/in/amrita-d-0b033778/",
+      "text": "Certified Oracle Database [PL/SQL] & Informatica Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/gerrit-thomson-80125534/",
+      "text": "Independent software technologist."
+    },
+    {
+      "user": "https://www.linkedin.com/in/spsoni/",
+      "text": "BigData DevOps Engineer"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Pavan Kotehal",
+    "headline": "Python Developer | Cloud Architect",
+    "location": "Melbourne, Australia",
+    "connections": "500+",
+    "summary": "A professional with about 8 years of experience in Software Development.\n• Skilled in developing application by using Python language with Django framework.\n• Experience with many versions of Python as well as their differences and features.\n• Good knowledge of AngularJS, Storage, Hadoop ecosystems, HDFS, Big Data & JavaScript.\n• Excellent problem solving skills, high analytical skills, good communication and interpersonal\nskills.\n• Technical abilities are complemented by sound communication and user interaction abilities;\nfeasible enough to take new skills efficiently.\n• Permanent Resident of Australia"
+  }
+}

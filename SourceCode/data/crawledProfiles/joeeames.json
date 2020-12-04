@@ -1,0 +1,214 @@
+{
+  "profileAlternative": {
+    "name": "Joe Eames",
+    "headline": "Chief Executive Officer at Thinkster.io",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQHFPfzatU3sMg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=W8nVsbrfPdc3upwiPNmKvfmqcnfDIKMdcq0pIAh0dnA",
+    "location": "Riverton, Utah",
+    "connections": "500+",
+    "summary": "Joe is a front end web developer and educator on a quest to bring software engineering practices, especially test driven development, to the JavaScript world. He is an organizer of ng-conf, the world's first and best AngularJS conference, LoopConf, the WordPress developer conference, a panelist on the JavaScriptJabber podcast, a panelist on the Adventures in Angular podcast, and an author of over 10 Pluralsight.com courses (http://www.pluralsight.com/author/joe-eames). Joe has a strong interest in education, is a frequent blogger and speaker, meetup organizer, and was the keynote speaker for the 2014 FamilySearch DevCon."
+  },
+  "aboutAlternative": {
+    "text": "Joe is a front end web developer and educator on a quest to bring software engineering practices, especially test driven development, to the JavaScript world. He is an organizer of ng-conf, the world's first and best AngularJS conference, LoopConf, the WordPress developer conference, a panelist on the JavaScriptJabber podcast, a panelist on the Adventures in Angular podcast, and an author of over 10 Pluralsight.com courses (http://www.pluralsight.com/author/joe-eames). Joe has a strong interest in education, is a frequent blogger and speaker, meetup organizer, and was the keynote speaker for the 2014 FamilySearch DevCon."
+  },
+  "positions": [
+    {
+      "title": "Chief Executive Officer",
+      "companyName": "Thinkster.io",
+      "location": "Greater Salt Lake City Area",
+      "date1": "Dec 2018 – Present",
+      "date2": "1 yr"
+    },
+    {
+      "title": "Organizer",
+      "companyName": "Loopconf",
+      "description": "Loopconf is the world's greatest premier developer-specific WordPress conference. www.loopconf.io",
+      "date1": "Jun 2014 – Present",
+      "date2": "5 yrs 6 mos"
+    },
+    {
+      "title": "Freelance Author",
+      "companyName": "Pluralsight.com",
+      "location": "Riverton, UT",
+      "description": "I am a full time freelance author of video screencast courses for pluralsight.com",
+      "date1": "Sep 2013 – Present",
+      "date2": "6 yrs 3 mos"
+    },
+    {
+      "title": "Organizer",
+      "companyName": "ng-conf",
+      "description": "ng-conf is the world's first and greatest Angular conference. www.ng-conf.org",
+      "date1": "Jul 2013 – Present",
+      "date2": "6 yrs 5 mos"
+    },
+    {
+      "title": "Panelist",
+      "companyName": "JavaScript Jabber & Adventures in Angular Podcast",
+      "description": "We interview community leaders & cover topics of interest on Angular and JavaScript.\nhttp://devchat.tv/js-jabber/\nhttp://devchat.tv/adventures-in-angular/",
+      "date1": "2012 – Present",
+      "date2": "7 yrs"
+    },
+    {
+      "title": "Founder",
+      "companyName": "Wasatch Web Solutions, LLC",
+      "description": "I offer on-site and off-site training on front end topics, and on-site and off-site consulting services.",
+      "date1": "Jan 2004 – Present",
+      "date2": "15 yrs 11 mos"
+    },
+    {
+      "title": "Senior Front End Engineer",
+      "companyName": "Domo, Inc.",
+      "location": "American Fork, UT, USA",
+      "description": "Senior Front End Developer",
+      "date1": "Aug 2012 – Sep 2013",
+      "date2": "1 yr 2 mos"
+    },
+    {
+      "title": "Front End Consultant",
+      "companyName": "Pluralsight",
+      "description": "Helped them build a HTML5 video player",
+      "date1": "May 2012 – Aug 2012",
+      "date2": "4 mos"
+    },
+    {
+      "title": "Senior Developer",
+      "companyName": "VacationRoost",
+      "location": "SLC, UT",
+      "date1": "Nov 2011 – May 2012",
+      "date2": "7 mos"
+    },
+    {
+      "title": "Tech Lead",
+      "companyName": "Verisk Health",
+      "location": "South Jordan, UT",
+      "date1": "Apr 2011 – Nov 2011",
+      "date2": "8 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Certified Technical Institute",
+      "degree": "MCSE",
+      "fieldofstudy": "Computer Engineering",
+      "date1": "1997",
+      "date2": "1998"
+    },
+    {
+      "title": "University of Utah",
+      "degree": "Computer Science",
+      "fieldofstudy": "Computer Science",
+      "date1": "1993",
+      "date2": "1994"
+    }
+  ],
+  "skills": [
+    {
+      "title": "JavaScript",
+      "count": "99+"
+    },
+    {
+      "title": "jQuery",
+      "count": "91"
+    },
+    {
+      "title": "Web Development",
+      "count": "84"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "6",
+    "receivedCount": "2",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/bob-hanson-b5b712a/",
+        "text": "Joe is a talented engineer and a rare one that possesses skills across the board. From working server side to javascript in the UI. Joe brought valuable insight to the project. I learned a few things from him along the way and would enjoy working with him again on any project."
+      },
+      {
+        "user": "https://www.linkedin.com/in/gbradberry/",
+        "text": "Joe is one of the most talented software developers I have ever had the privilege of working with. I continue to hire Joe for the development jobs that I think no one else can do. He always comes through. If you have a software project that you need developed in an efficient, cost effective manner, Joe is your best bet."
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/iammerrick/",
+        "text": "Merrick is an amazing developer. When I worked with him at Domo I had almost 10 years more experience then Merrick, yet I was constantly learning from him. He loves technology and good software practices. He is talented at design. He is a great employee, always willing to help out others. He is a peacemaker on whatever team he is on, and is well liked by all his colleagues.\r\n\r\nMerrick is a brilliant architect, able to quickly understand the value and importance of new technology, information and practices, while not getting blinded by \"latest and greatest\" fever. He is constantly learning, not only the core technologies he uses day to day, but he is also interested in and studies all aspects of computer science to use to the benefit of the software he writes. Merrick is a true technologist."
+      },
+      {
+        "user": "https://www.linkedin.com/in/krystyl/",
+        "text": "Krystyl is a friendly, effective marketer. She works well with groups and is always very organized. She would be a valuable asset at any company."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "2",
+      "items": [
+        "ng-conf Organizer",
+        "Pluralsight HTML5 Video Player"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "TDD: is there really any debate any longer?",
+        "jQuery Advanced Topics"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Russian"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/deborahkurata/",
+      "text": "GDE | MVP | Independent Software Developer | Consultant | Speaker"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jim-cooper-aa6bb65/",
+      "text": "Sr Director of Engineering Practice at Pluralsight"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jeffbcross/",
+      "text": "Co-Founder, CEO at Narwhal Technologies Inc (Nrwl)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jared-sallee-1ba17698/",
+      "text": "Field Account Executive at Okta, Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/blesh/",
+      "text": "Software Engineer at Google, RxJS 5+ Project Lead"
+    },
+    {
+      "user": "https://www.linkedin.com/in/perri-bird-0b14a9/",
+      "text": "Sales, Service, & Project / Product Management Professional"
+    },
+    {
+      "user": "https://www.linkedin.com/in/aaronreed/",
+      "text": "President at Neumont College of Computer Science"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jeanette-beckwith-925455110/",
+      "text": "Certification Education Administration at Gweynedd Mercy"
+    },
+    {
+      "user": "https://www.linkedin.com/in/papajohn/",
+      "text": "Hi, I'm John Papa. I'm a Web architect, author of 30+ courses at Pluralsight and I speak at events & contribute to OSS"
+    },
+    {
+      "user": "https://www.linkedin.com/in/michael-coble-8a601b48/",
+      "text": "Vice President of Recruiting"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Joe Eames",
+    "headline": "Chief Executive Officer at Thinkster.io",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQHFPfzatU3sMg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=W8nVsbrfPdc3upwiPNmKvfmqcnfDIKMdcq0pIAh0dnA",
+    "location": "Riverton, Utah",
+    "connections": "500+",
+    "summary": "Joe is a front end web developer and educator on a quest to bring software engineering practices, especially test driven development, to the JavaScript world. He is an organizer of ng-conf, the world's first and best AngularJS conference, LoopConf, the WordPress developer conference, a panelist on the JavaScriptJabber podcast, a panelist on the Adventures in Angular podcast, and an author of over 10 Pluralsight.com courses (http://www.pluralsight.com/author/joe-eames). Joe has a strong interest in education, is a frequent blogger and speaker, meetup organizer, and was the keynote speaker for the 2014 FamilySearch DevCon."
+  }
+}

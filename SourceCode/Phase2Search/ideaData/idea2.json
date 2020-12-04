@@ -1,0 +1,69 @@
+
+{
+    "_id" : "5df7a99ce8287f467d809d53",
+    "ideaId" : 2,
+    "programId" : "5df401b402156c2d46402b79",
+    "status" : "5df401b402156c2d46402c35",
+    "owner" : "5d0326891aadd25ce0da8778",
+    "body" : {
+        "lastModified" : "17-Dec-2019 12:00 AM",
+        "createdAt" : "16-Dec-2019 11:58 PM",
+        "clientTimeZone" : "480",
+        "LinkedproblemId" : "0",
+        "problemId" : "",
+        "Challenge" : "",
+        "Title" : "Fuel from the sea",
+        "Description" : "Novation came to fruition in 2010, a year before his death. The company's solar-powered islands use desalinization and electrolysis to extract hydrogen and carbon dioxide from the water in order to create methanol, which is pumped into a neighboring ship to take back to land.\r\nLedergerber-Hinderling is hopeful that the first island, which could supply thousands of households, will be launched at one of three possible locations: the Persian Gulf, the coast of South Asia, or northern Australia, aiming for spots where the waves are not too high and hurricanes are rare.",
+        "problemStatement" : "Thomas Hinderling was a man ahead of his time. A nuclear physicist and CEO of the Swiss Centre for Electronics and Microtechnology (CSEM, he was the brains behind solar islands and, one year before his death, founded Novaton with his wife Christine Ledergerber-Hinderling, who today carries on his legacy.\r\nWhile the whole world was still blithely praising oil, gas and nuclear power, Hinderling already believed in the power of the sun and invented solar islands that extract the greenhouse gas carbon dioxide from the sea and convert it into methanol fuel in a chemical process, thereby supplying energy.\r\nHe was \"ridiculed by many as a lunatic\", according to his wife, who also described him as an \"a unifying figure, a researcher, a visionary, someone who wanted to shape our future for the better – a philanthropist.\"",
+        "_csrf" : "IEzcw8np-FqvLYsQ5GSkXiJE9N-h75l3ZQuI",
+        "skills" : "Team Building",
+        "teamMembers" : "Sample Data",
+        "tags" : "Technology",
+        "category" : "Marketplace"
+    },
+    "lastModified" : "2020-01-03T23:23:42.635Z",
+    "overallImpactScore" : 25,
+    "overallEffectiveScore" : 11,
+    "sixthonscore" : [ 
+        {
+            "totalEffectiveScore" : 11,
+            "scoreowner" : "5df4076e02156c2d46402ccc",
+            "scores" : {
+                "Score0" : 57,
+                "EffectiveScore0" : 11
+            },
+            "_id" : "5df85b523da1706eaa532c39"
+        }
+    ],
+    "impact_score" : 5,
+    "effort_score" : 1,
+    "workFlowLogs" : [ 
+        "5e0f8f60259b930bda622f82", 
+        "5e0fccfe259b930bda622f8d"
+    ],
+    "teamMembersId" : [ 
+        "5df4076e02156c2d46402ccc"
+    ],
+    "displayOrder" : 0,
+    "voteScore" : 0,
+    "createdAt" : "2019-12-16T15:58:20.093Z",
+    "noViews" : [ 
+        "", 
+        "nathan.mahan@redbull.com", 
+        "debbie@innovationminds.com", 
+        "rosemary@innovationminds.com", 
+        "sample@gmail.com"
+    ],
+    "noDislikes" : 0,
+    "noLikes" : 1,
+    "likes" : [ 
+        "5df83325e8287f467d809da6"
+    ],
+    "subscribers" : [ 
+        "5df7a36c02156c2d46402f6a"
+    ],
+    "comments" : [ 
+        "5df83330e8287f467d809da8"
+    ],
+    "__v" : 9
+}

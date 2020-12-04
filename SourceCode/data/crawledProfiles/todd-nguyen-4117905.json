@@ -1,0 +1,70 @@
+{
+  "profileAlternative": {
+    "name": "Todd Nguyen",
+    "headline": "Unix and Java Developer at AT&T",
+    "location": "Greater Atlanta Area",
+    "connections": "70"
+  },
+  "aboutAlternative": {},
+  "positions": [
+    {
+      "title": "Unix and Java Developer",
+      "companyName": "AT&T"
+    }
+  ],
+  "educations": [],
+  "skills": [
+    {
+      "title": "Unix",
+      "count": "5"
+    },
+    {
+      "title": "Agile Methodologies",
+      "count": "4"
+    },
+    {
+      "title": "Java Enterprise Edition",
+      "count": "3"
+    },
+    {
+      "title": "Testing",
+      "count": "2"
+    },
+    {
+      "title": "SDLC",
+      "count": "2"
+    },
+    {
+      "title": "SQL",
+      "count": "2"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/vasanth-murali-3b34862/",
+      "text": "Director, Software Engineering"
+    },
+    {
+      "user": "https://www.linkedin.com/in/gokul-nandagopal-a862063/",
+      "text": "Director | Sr. Architect - Enterprise Architecture"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sunkara-haritha-55321257/",
+      "text": "--"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Todd Nguyen",
+    "headline": "Unix and Java Developer at AT&T",
+    "location": "Greater Atlanta Area",
+    "connections": "70"
+  }
+}

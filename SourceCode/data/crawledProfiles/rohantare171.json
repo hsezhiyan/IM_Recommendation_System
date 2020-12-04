@@ -1,0 +1,185 @@
+{
+  "profileAlternative": {
+    "name": "Rohan Tare",
+    "headline": "Python Enthusiast, Software development in Python. Data Analysis and Visualisation in Python and R. Backend Engineer",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQE22ST_zcR7Jw/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=MEVza0HSRp0Fltu6JO_dTjrg-gfcTZBvmU7W6r3UKjE",
+    "location": "Thane, Maharashtra, India",
+    "connections": "403",
+    "summary": "Developing micro services, writing RESTful API's using different python frameworks like Django, Flask, Falcon etc. Data manipulation and visualisation (using different machine learning techniques) using R and Python(pandas)"
+  },
+  "aboutAlternative": {
+    "text": "Developing micro services, writing RESTful API's using different python frameworks like Django, Flask, Falcon etc. Data manipulation and visualisation (using different machine learning techniques) using R and Python(pandas)"
+  },
+  "positions": [
+    {
+      "title": "Sr. Python Developer",
+      "companyName": "Essentio Software",
+      "location": "Mumbai Area, India",
+      "description": "Developing Micro services, RESTful API's and software application using Python.",
+      "date1": "Jun 2017 – Present",
+      "date2": "2 yrs 6 mos"
+    },
+    {
+      "title": "Associate Consultant",
+      "companyName": "Capgemini",
+      "location": "Mumbai Area, India",
+      "description": "Writing RESTful APIs as well as backend code in Python for web applications.",
+      "date1": "Aug 2015 – Jun 2017",
+      "date2": "1 yr 11 mos"
+    },
+    {
+      "title": "Python developer",
+      "companyName": "Paladion Networks",
+      "location": "Mahape",
+      "description": "Data analysis & visualization using different libraries of Python(Pandas, Sci-kit etc.) and R(programming language).",
+      "date1": "Jan 2015 – Aug 2015",
+      "date2": "8 mos"
+    },
+    {
+      "title": "Python developer",
+      "companyName": "Fafadia Tech",
+      "location": "Vile Parle",
+      "description": "writes Python backend code and REST API's.",
+      "date1": "Jun 2013 – Jan 2015",
+      "date2": "1 yr 8 mos"
+    },
+    {
+      "title": "Software Engineer",
+      "companyName": "Chintan Systems Pvt. Ltd.",
+      "location": "Andheri",
+      "description": "An intensive training program for software engineers. Web app development and software development in Python",
+      "date1": "Sep 2012 – Jun 2013",
+      "date2": "10 mos"
+    },
+    {
+      "title": "Software Developer",
+      "companyName": "Coin Technologies",
+      "date1": "Oct 2011 – Aug 2012",
+      "date2": "11 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "University of Mumbai",
+      "degree": "Engineer's Degree",
+      "fieldofstudy": "Electronics",
+      "date1": "2006",
+      "date2": "2010"
+    },
+    {
+      "title": "VPM's Polytechnic Thane , MSBTE",
+      "degree": "Diploma(I.E)",
+      "fieldofstudy": "Industrial Electronics Technology/Technician",
+      "date1": "2003",
+      "date2": "2006"
+    },
+    {
+      "title": "S. V. Joshi High school",
+      "degree": "High School"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Python",
+      "count": "13"
+    },
+    {
+      "title": "Flask"
+    },
+    {
+      "title": "python-pandas",
+      "count": "2"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "7",
+      "items": [
+        "Theseus (Dupont Pioneer)",
+        "VOS - Data Collection System(Cisco)",
+        "Security Intelligence Product",
+        "StuCo(Student council)(Python + Django)",
+        "Gnip-ingestor",
+        "MumbaiSOS (Python + Django)",
+        "myPurpleSlate ( Python + Django)"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "English",
+        "Hindi",
+        "Marathi"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Data analysis using R"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Team of the Quarter (OND 2015)"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/shyam1089/",
+      "text": "Senior Python Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shashankshuklalucknow/",
+      "text": "Django, Python, GCP, AWS, RestAPI, RabbitMQ, GIT, SVN, Caching, Docker."
+    },
+    {
+      "user": "https://www.linkedin.com/in/sneha-shinde-95ba6a78/",
+      "text": "Python/Django Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/abhishek-jadhav-3b5a37121/",
+      "text": "Looking for opportunity | Python Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sumit-kumar-yadav-21ab7081/",
+      "text": "Python Developer at Freelance Python Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/priya-gupta-2018/",
+      "text": "Python, Django, and RPA developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/saideep-marripati/",
+      "text": "Python | Flask | Docker | AWS | Django| OOPS"
+    },
+    {
+      "user": "https://www.linkedin.com/in/meet-parekh-746219160/",
+      "text": "looking for job in python Django"
+    },
+    {
+      "user": "https://www.linkedin.com/in/vineet3/",
+      "text": "Python Developer | Web Scraper | Data Scientist"
+    },
+    {
+      "user": "https://www.linkedin.com/in/rajanmandanka/",
+      "text": "Sr. Python Developer (Django, CSM)"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Rohan Tare",
+    "headline": "Python Enthusiast, Software development in Python. Data Analysis and Visualisation in Python and R. Backend Engineer",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQE22ST_zcR7Jw/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=MEVza0HSRp0Fltu6JO_dTjrg-gfcTZBvmU7W6r3UKjE",
+    "location": "Thane, Maharashtra, India",
+    "connections": "403",
+    "summary": "Developing micro services, writing RESTful API's using different python frameworks like Django, Flask, Falcon etc. Data manipulation and visualisation (using different machine learning techniques) using R and Python(pandas)"
+  }
+}

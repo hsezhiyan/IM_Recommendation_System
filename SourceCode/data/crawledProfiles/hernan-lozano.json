@@ -1,0 +1,152 @@
+{
+  "profileAlternative": {
+    "name": "Hernán Lozano",
+    "headline": "Full-stack Python and Javascript Developer",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQHPPtqbK3hPxg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=sY0fipK76LO0huw2txBv9c7noycqx85KwFP1SxdOfhM",
+    "location": "Argentina",
+    "connections": "240",
+    "summary": "Experienced Senior Django Developer with a demonstrated history of working in the computer software industry. Skilled in Python, PostgreSQL, Django, E-commerce, and Backbone.js. Strong engineering professional with a Bachelor's degree focused in Tecnicatura Superior en Programación from Universidad Tecnológica Nacional."
+  },
+  "aboutAlternative": {
+    "text": "Experienced Senior Django Developer with a demonstrated history of working in the computer software industry. Skilled in Python, PostgreSQL, Django, E-commerce, and Backbone.js. Strong engineering professional with a Bachelor's degree focused in Tecnicatura Superior en Programación from Universidad Tecnológica Nacional."
+  },
+  "positions": [
+    {
+      "title": "Full-stack Python and Javascript Developer",
+      "companyName": "Acrobatiq by VitalSource",
+      "location": "Remote",
+      "description": "Development contracting services for various projects and features.",
+      "date1": "Mar 2018 – Present",
+      "date2": "1 yr 9 mos"
+    },
+    {
+      "title": "Fullstack Python and Javascript Developer",
+      "companyName": "Machinalis",
+      "description": "SAM (through Machinalis)\nAugust 2017 – March 2018: Fullstack Python Developer\nPython 3, Django REST Framework, Postgresql, Celery, Elasticsearch, Docker, Jira, Github.\n\nA project from Red Hat for the argentinean migrations agency that ingest huge amounts of data from different databases with different structures and merges them into a single model easily consumable by users that need to extract information / patterns / connections / events from that data.\n• Improved Elasticsearch indexing time by paralelizing the process with celery tasks, removing unnecessary queries and db indexes.\n• Refactored the “saved searches” feature to skip the postgres database and run a ES query instead, improving response time and reducing the amount of code.\n• Designed the “similarity search” feature to identify db rows that could be accidental duplicates or clones.\n\nDivvyHQ (through Machinalis)\nJanuary 2014 – August 2017: Fullstack Python Developer\nPython 2, Django Tastypie, Postgresql, BackboneJS, MarionetteJS, Celery, Ansible, Jenkins, Github, Sass, Bootstrap, ES6, Jira.\n\nKansas City startup (divvyhq.com) which builds a SPA platform to help marketing teams organize their campaigns and coordinate their content creation workflows.\n\n• Create django forms, views, models and data migrations, create API endpoints using Tastypie.\n• Refactored mocks and unit tests into integration tests.\n• Refactored and denormalized several models into a Postgresql’s table view that paid off lots of technical debt.\n• Designed the frontend architecture of the MarionetteJS SPA, to use controllers and dummy views and integration tests for views.\n• Debugged memory leaks from BackboneJS views.\n• In 2016, I relocated in Kansas City MO, USA for 6 months for a knowledge transfer programme, working from the client’s offices.\n…\nsee more",
+      "date1": "Feb 2014 – Mar 2018",
+      "date2": "4 yrs 2 mos"
+    },
+    {
+      "title": "Python/PHP programmer / Linux sysadmin",
+      "companyName": "Infoxel",
+      "description": "June 2013 – November 2013: Fullstack Django Developer / Sysadmin\nDjango, Python, Jquery, PHP, Nginx, MySQL, Linux.\n\nInfoxel (infoxel.com) records multiple TV channels to extract ad clips (using manual and automatic detection) for audition and analysis purposes.\n• Developed and maintained the web platform used for manually cliping ads.\n• Maintained the Linux servers infraestructure (recording and detection pipeline) up and running, automated mainenance scripts and alerts with python and cron jobs.\n…\nsee more",
+      "date1": "Jun 2013 – Nov 2013",
+      "date2": "6 mos"
+    },
+    {
+      "title": "Fullstack PHP / Javascript Developer",
+      "companyName": "Dequo Systems",
+      "description": "Dequo Web Systems\nJune 2011 – December 2012: Fullstack PHP / Javascript Developer\nOSCommerce, Jquery, PHP, Nginx, MySQL, DotProject.\n\nAn PHP shop, focused on small to medium scale websites (dequo.com.ar)\n\n• Developed and maintained small to medium sites of all kinds like CMS, e-commerce, online ticketing systems, forums, brochureware, among many other, using a custom made web framework.\n\n…\nsee more",
+      "date1": "Jun 2011 – Dec 2012",
+      "date2": "1 yr 7 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Universidad Tecnológica Nacional",
+      "degree": "Bachelor's degree",
+      "fieldofstudy": "Tecnicatura Superior en Programación",
+      "date1": "2010",
+      "date2": "2012"
+    },
+    {
+      "title": "Santo Tomas de Aquino",
+      "degree": "Economics",
+      "fieldofstudy": "Economics",
+      "date1": "2005",
+      "date2": "2008"
+    }
+  ],
+  "skills": [
+    {
+      "title": "JavaScript",
+      "count": "9"
+    },
+    {
+      "title": "Python",
+      "count": "8"
+    },
+    {
+      "title": "Django",
+      "count": "6"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "1",
+    "receivedCount": "0",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/hduran/",
+        "text": "Horacio is very detail-oriented and responsible, always keeps an eye on improving his professional skills and shares his knowledge with others."
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "2",
+      "items": [
+        "English",
+        "Spanish"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "DivvyHQ",
+        "DivvyHQ"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/nahuel-ambrosini-65a625b2/",
+      "text": "Python Developer at Onapsis Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/german-fereggia-0bb247135/",
+      "text": "Technical Analyst at Solstice"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nahuelseiler/",
+      "text": "PhD Student at CONICET"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jmschillaci/",
+      "text": "System Analyst, Python/Django Developer and Software Architect"
+    },
+    {
+      "user": "https://www.linkedin.com/in/leonardodevia/",
+      "text": "Cyber Security Consultant"
+    },
+    {
+      "user": "https://www.linkedin.com/in/agostino-tappa-386a4714a/",
+      "text": "Estudiante en Universidad Tecnológica Nacional"
+    },
+    {
+      "user": "https://www.linkedin.com/in/diegogarbiglia/",
+      "text": "Software Developer en Mercado Libre"
+    },
+    {
+      "user": "https://www.linkedin.com/in/paparelli/",
+      "text": "Sr Python Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/carlos-nicol%C3%A1s-aldao-4a5619163/",
+      "text": "Desarrollador en Baufest"
+    },
+    {
+      "user": "https://www.linkedin.com/in/david-mart%C3%ADnez-56535a106/",
+      "text": "Sr. Software Engineer"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Hernán Lozano",
+    "headline": "Full-stack Python and Javascript Developer",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQHPPtqbK3hPxg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=sY0fipK76LO0huw2txBv9c7noycqx85KwFP1SxdOfhM",
+    "location": "Argentina",
+    "connections": "240",
+    "summary": "Experienced Senior Django Developer with a demonstrated history of working in the computer software industry. Skilled in Python, PostgreSQL, Django, E-commerce, and Backbone.js. Strong engineering professional with a Bachelor's degree focused in Tecnicatura Superior en Programación from Universidad Tecnológica Nacional."
+  }
+}

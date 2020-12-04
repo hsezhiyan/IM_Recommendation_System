@@ -1,0 +1,298 @@
+{
+  "profileAlternative": {
+    "name": "Sunil Datt Vashisht",
+    "headline": "Front End Web Developer and HTML5 Developer at Academic Partnerships",
+    "location": "Garland, Texas",
+    "connections": "293"
+  },
+  "aboutAlternative": {},
+  "positions": [
+    {
+      "title": "Front End Web Developer and HTML Developer",
+      "companyName": "Academic Partnerships",
+      "description": "Developed and edited websites, landing pages and HTML email templates based on Adobe Photoshop designs. The combined use of HTML, CSS, Javascript, jQuery, and ASPX, among other languages, was employed in accomplishing these tasks. These items were coded with an emphasis on maximizing efficiency, load time, browser compatibility, flexibility, scalability, and the allowance of simple and timely modification and updating. Developed and maintained many successful working relationships with graphic designers, other front-end developers, back-end developers, networking/IT professionals, analytics experts, marketing coordinators, marketing managers, and email specialists in the process of completing these assignments. Some of the technologies and services utilized in these endeavors include, but are not limited to Basecamp, Marketing Pilot, Adobe Test & Target, IIS (Internet Information Services), Google Tag Manager, and VSS (Virtual Source Safe).\n…\nsee more",
+      "date1": "Apr 2013 – Present",
+      "date2": "6 yrs 8 mos"
+    },
+    {
+      "title": "Web Designer and Developer, Front End Web Developer",
+      "companyName": "WebTel Solutions",
+      "description": "developing website in Symfony MVC framework, and using HTML5, CSS3, javascript, jquery, jquery UI, photoshop, PHP.",
+      "date1": "Feb 2013 – Mar 2014",
+      "date2": "1 yr 2 mos"
+    },
+    {
+      "title": "Front End Web Developer",
+      "companyName": "Amplifi Commerce",
+      "date1": "Mar 2012 – Dec 2012",
+      "date2": "10 mos"
+    },
+    {
+      "title": "Web Developer",
+      "companyName": "The Point Group",
+      "date1": "Oct 2011 – Feb 2012",
+      "date2": "5 mos"
+    },
+    {
+      "title": "Web/Graphic designer and developer",
+      "companyName": "BRIT Systems",
+      "date1": "Aug 2007 – Sep 2011",
+      "date2": "4 yrs 2 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Govt.Degree College Dharamshala",
+      "degree": "Bachelor",
+      "fieldofstudy": "Eng, Psychology, Economics",
+      "date1": "1987",
+      "date2": "1991"
+    },
+    {
+      "title": "Govt Se.Sec.School Dharamshala",
+      "degree": "matric",
+      "fieldofstudy": "eng, hindi, sci, sst,arts",
+      "date1": "1981",
+      "date2": "1985"
+    }
+  ],
+  "skills": [
+    {
+      "title": "CSS",
+      "count": "15"
+    },
+    {
+      "title": "Web Development",
+      "count": "13"
+    },
+    {
+      "title": "jQuery",
+      "count": "12"
+    },
+    {
+      "title": "Web Design",
+      "count": "5"
+    },
+    {
+      "title": "User Interface Design",
+      "count": "1"
+    },
+    {
+      "title": "Email Marketing",
+      "count": "1"
+    },
+    {
+      "title": "Mobile Applications",
+      "count": "1"
+    },
+    {
+      "title": "User Experience"
+    },
+    {
+      "title": "Web Services"
+    },
+    {
+      "title": "Software Development"
+    },
+    {
+      "title": "Scrum"
+    },
+    {
+      "title": "User Interface"
+    },
+    {
+      "title": "HTML",
+      "count": "10"
+    },
+    {
+      "title": "PHP",
+      "count": "8"
+    },
+    {
+      "title": "HTML 5",
+      "count": "4"
+    },
+    {
+      "title": "JavaScript",
+      "count": "3"
+    },
+    {
+      "title": "Photoshop",
+      "count": "3"
+    },
+    {
+      "title": "CMS",
+      "count": "2"
+    },
+    {
+      "title": "XML",
+      "count": "1"
+    },
+    {
+      "title": "Dreamweaver",
+      "count": "1"
+    },
+    {
+      "title": "ASP.NET MVC",
+      "count": "1"
+    },
+    {
+      "title": "AJAX",
+      "count": "1"
+    },
+    {
+      "title": "WordPress",
+      "count": "1"
+    },
+    {
+      "title": "SQL"
+    },
+    {
+      "title": "Linux"
+    },
+    {
+      "title": "Windows"
+    },
+    {
+      "title": "Illustrator"
+    },
+    {
+      "title": "Premiere"
+    },
+    {
+      "title": "After Effects"
+    },
+    {
+      "title": "Visual Basic"
+    },
+    {
+      "title": "CodeIgniter"
+    },
+    {
+      "title": "jQuery UI"
+    },
+    {
+      "title": "Visual Studio"
+    },
+    {
+      "title": "MySQL"
+    },
+    {
+      "title": "XHTML"
+    },
+    {
+      "title": "Microsoft SQL Server"
+    },
+    {
+      "title": "Flash"
+    },
+    {
+      "title": "ActionScript"
+    },
+    {
+      "title": "Google Adwords"
+    },
+    {
+      "title": "Teamwork"
+    },
+    {
+      "title": "Communication"
+    },
+    {
+      "title": "Flash Professional"
+    },
+    {
+      "title": "Ext JS"
+    },
+    {
+      "title": "Web Standards"
+    },
+    {
+      "title": "Front-end",
+      "count": "5"
+    },
+    {
+      "title": "Advanced CSS",
+      "count": "1"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "2",
+    "receivedCount": "1",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/marvinmcfadin/",
+        "text": "Sunil and I worked in the same are of the BRIT facility and had many occasions to discuss our different projects. During that time I observed the ingenuity and attention to detail that Sunil delivered with each task and project. On multiple occasions Sunil was required to learn new technology to solve a problem, and he succeeded in doing so and produced a good solution. I would not hesitate to rely on Sunil to perform his tasks and produce an excellent work product. On a personal level, Sunil is easy to work with and a good communicator. I highly recommend him.\n…\nSee more"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/jasongrant12/",
+        "text": ""
+      },
+      {
+        "user": "https://www.linkedin.com/in/hienkhuu/",
+        "text": "“Hien and I worked in the same are of the Point Group facility and had many occasions to discuss our different projects. During that time I observed the ingenuity and attention to detail that Hien delivered with each task and project. On multiple occasions Hien was required to learn new technology to solve a problem, and he succeeded in doing so and produced a good solution. I would not hesitate to rely on Hien to perform his tasks and produce an excellent work product. He is a very good and helpful person.\r\n\r\nOn a personal level, Hien is easy to work with and a good communicator. I highly recommend him.”"
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "3",
+      "items": [
+        "English",
+        "Hindi",
+        "Punjabi"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/jachfo/",
+      "text": "Front End Web Developer - React.js - Army veteran seeking full-time opportunity with great company"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mitesh-mehta-578b841/",
+      "text": "Director and Client Partner"
+    },
+    {
+      "user": "https://www.linkedin.com/in/qhood/",
+      "text": "Front End Web Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/lisajanssen/",
+      "text": "IBM Global Chief Data Office - Manager M&A Data"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sunil-patel-9661515/",
+      "text": "Director Digital Product Management at The Freeman Company"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tamara-messina-2205915/",
+      "text": "Meaningful Use / MIPS Compliance Analyst at Community Health Systems"
+    },
+    {
+      "user": "https://www.linkedin.com/in/wmlpez/",
+      "text": "Senior Application Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sheryl-cooper-a48aa8/",
+      "text": "Vice President Sandata Technologies, Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/hugh-legister-46251715a/",
+      "text": "Principal Consultant at Confidential"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kiran-kumar-0694945a/",
+      "text": "IT recruiter at Molinatek LLC"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Sunil Datt Vashisht",
+    "headline": "Front End Web Developer and HTML5 Developer at Academic Partnerships",
+    "location": "Garland, Texas",
+    "connections": "293"
+  }
+}

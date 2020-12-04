@@ -1,0 +1,202 @@
+{
+  "profileAlternative": {
+    "name": "Simon Marlow",
+    "headline": "Software Engineer at Facebook",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQF-DxF_DxN3oQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=NsfH60yNfNNRPXu699cT98PMyLoWMdcI7_5gB9OYhCI",
+    "location": "Cambridge, United Kingdom",
+    "connections": "452",
+    "summary": "Co-author of the Glasgow Haskell Compiler (GHC), and author of its parallel runtime system.\n\nAuthor of \"Parallel and Concurrent Programming in Haskell\" (O'Reilly) 2013.\n\nChair of the Haskell 2010 language committee.\n\nWinner of the ACM Programming Languages Software Award, 2011, along with Simon Peyton Jones, for GHC.\n\nAuthor of many other Haskell-related tools and libraries, including Happy, Alex, Haddock, ThreadScope, monad-par, and async.\n\nI have authored and co-authored a number of papers on subjects including parallel garbage collection, language design, and concurrency (see http://simonmar.github.io/bib/bib.html)."
+  },
+  "aboutAlternative": {
+    "text": "Co-author of the Glasgow Haskell Compiler (GHC), and author of its parallel runtime system.\n\nAuthor of \"Parallel and Concurrent Programming in Haskell\" (O'Reilly) 2013.\n\nChair of the Haskell 2010 language committee.\n\nWinner of the ACM Programming Languages Software Award, 2011, along with Simon Peyton Jones, for GHC.\n\nAuthor of many other Haskell-related tools and libraries, including Happy, Alex, Haddock, ThreadScope, monad-par, and async.\n\nI have authored and co-authored a number of papers on subjects including parallel garbage collection, language design, and concurrency (see http://simonmar.github.io/bib/bib.html)."
+  },
+  "positions": [
+    {
+      "title": "Software Engineer",
+      "companyName": "Facebook",
+      "date1": "Mar 2013 – Present",
+      "date2": "6 yrs 9 mos"
+    },
+    {
+      "title": "Senior Research Software Engineer",
+      "companyName": "Microsoft Research",
+      "date1": "Nov 1998 – Dec 2012",
+      "date2": "14 yrs 2 mos"
+    },
+    {
+      "title": "Research Assistant",
+      "companyName": "The University of Glasgow",
+      "date1": "1996 – 1998",
+      "date2": "2 yrs"
+    }
+  ],
+  "educations": [
+    {
+      "title": "The University of Glasgow",
+      "degree": "PhD",
+      "date1": "1991",
+      "date2": "1996"
+    },
+    {
+      "title": "University of Bristol",
+      "degree": "BSc",
+      "date1": "1988",
+      "date2": "1991"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Haskell",
+      "count": "82"
+    },
+    {
+      "title": "Concurrent Programming",
+      "count": "49"
+    },
+    {
+      "title": "Computer Science",
+      "count": "45"
+    },
+    {
+      "title": "Software Engineering",
+      "count": "34"
+    },
+    {
+      "title": "Multithreading",
+      "count": "24"
+    },
+    {
+      "title": "Programming",
+      "count": "14"
+    },
+    {
+      "title": "Software Design",
+      "count": "12"
+    },
+    {
+      "title": "Data Structures",
+      "count": "9"
+    },
+    {
+      "title": "Artificial Intelligence",
+      "count": "2"
+    },
+    {
+      "title": "C",
+      "count": "29"
+    },
+    {
+      "title": "Unix",
+      "count": "12"
+    },
+    {
+      "title": "Git",
+      "count": "11"
+    },
+    {
+      "title": "C++",
+      "count": "11"
+    },
+    {
+      "title": "Linux",
+      "count": "10"
+    },
+    {
+      "title": "Programming Languages",
+      "count": "42"
+    },
+    {
+      "title": "Compilers",
+      "count": "36"
+    },
+    {
+      "title": "Parallel Computing",
+      "count": "36"
+    },
+    {
+      "title": "Parallel Programming",
+      "count": "34"
+    },
+    {
+      "title": "Functional Programming",
+      "count": "30"
+    },
+    {
+      "title": "Garbage Collection",
+      "count": "14"
+    },
+    {
+      "title": "GNU Make",
+      "count": "7"
+    },
+    {
+      "title": "Runtimes",
+      "count": "15"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "1",
+      "items": [
+        "Parallel and Concurrent Programming in Haskell"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/dons00/",
+      "text": "Software engineering​"
+    },
+    {
+      "user": "https://www.linkedin.com/in/gemma-silvers-7217231/",
+      "text": "Engineering Director at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/andrew-kennedy-3324287/",
+      "text": "Software Engineer at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/vassilis-plachouras-2223992/",
+      "text": "Software Engineer at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/rlaemmel/",
+      "text": "Software Engineer at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nick-benton-430b45/",
+      "text": "Software Engineering Manager at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/andyam/",
+      "text": "I build trust"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tamarchristina/",
+      "text": "Server Performance Team Lead & Senior Compiler Engineer at Arm"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mitnamin/",
+      "text": "Assistant Professor of Computer Science at Harvard University"
+    },
+    {
+      "user": "https://www.linkedin.com/in/peter-o-hearn-81471647/",
+      "text": "Research Scientist at Facebook"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Simon Marlow",
+    "headline": "Software Engineer at Facebook",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQF-DxF_DxN3oQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=NsfH60yNfNNRPXu699cT98PMyLoWMdcI7_5gB9OYhCI",
+    "location": "Cambridge, United Kingdom",
+    "connections": "452",
+    "summary": "Co-author of the Glasgow Haskell Compiler (GHC), and author of its parallel runtime system.\n\nAuthor of \"Parallel and Concurrent Programming in Haskell\" (O'Reilly) 2013.\n\nChair of the Haskell 2010 language committee.\n\nWinner of the ACM Programming Languages Software Award, 2011, along with Simon Peyton Jones, for GHC.\n\nAuthor of many other Haskell-related tools and libraries, including Happy, Alex, Haddock, ThreadScope, monad-par, and async.\n\nI have authored and co-authored a number of papers on subjects including parallel garbage collection, language design, and concurrency (see http://simonmar.github.io/bib/bib.html)."
+  }
+}

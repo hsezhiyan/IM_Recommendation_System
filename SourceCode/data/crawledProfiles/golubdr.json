@@ -1,0 +1,300 @@
+{
+  "profileAlternative": {
+    "name": "David Golub",
+    "headline": "Staff Software Engineer at MongoDB",
+    "location": "New York, New York",
+    "connections": "112",
+    "summary": "I am currently a Senior Software Engineer on the Cloud Services Team at MongoDB in New York City, where I work on the development of the core components (e.g. REST API, alerts, billing, users/groups) of MongoDB Cloud Manager, MongoDB Ops Manager, and MongoDB Atlas and serve as the Windows specialist for the team. Previously, I worked at Organic Motion as the primary developer of the OpenStage SDK and BackStage client software. I am also the developer of CMake Tools for Visual Studio, an open source Visual Studio extension providing syntax highlighting and IntelliSense for CMake. I hold the degrees of Master of Science and Bachelor of Science, both in computer science, from Columbia University and Yale University, respectively. My undergraduate program also included extensive coursework in mathematics. Prior to beginning full-time work, I completed an internship at Fog Creek Software. I also have experience in academic research and open source development."
+  },
+  "aboutAlternative": {
+    "text": "I am currently a Senior Software Engineer on the Cloud Services Team at MongoDB in New York City, where I work on the development of the core components (e.g. REST API, alerts, billing, users/groups) of MongoDB Cloud Manager, MongoDB Ops Manager, and MongoDB Atlas and serve as the Windows specialist for the team. Previously, I worked at Organic Motion as the primary developer of the OpenStage SDK and BackStage client software. I am also the developer of CMake Tools for Visual Studio, an open source Visual Studio extension providing syntax highlighting and IntelliSense for CMake. I hold the degrees of Master of Science and Bachelor of Science, both in computer science, from Columbia University and Yale University, respectively. My undergraduate program also included extensive coursework in mathematics. Prior to beginning full-time work, I completed an internship at Fog Creek Software. I also have experience in academic research and open source development."
+  },
+  "positions": [
+    {
+      "title": "MongoDB",
+      "location": "Greater New York City Area",
+      "description": "Ported MongoDB Cloud Manager and MongoDB Ops Manager to Windows.\nDeveloped public REST API for MongoDB Cloud.\nDeveloped billing system for MongoDB Cloud Manager and MongoDB Atlas.",
+      "date1": "Aug 2018 – Present",
+      "date2": "1 yr 4 mos",
+      "roles": [
+        {
+          "title": "Staff Software Engineer",
+          "date1": "Aug 2018 – Present",
+          "date2": "1 yr 4 mos",
+          "location": "Greater New York City Area"
+        },
+        {
+          "title": "Senior Software Engineer",
+          "date1": "Oct 2016 – Aug 2018",
+          "date2": "1 yr 11 mos",
+          "location": "New York, NY"
+        },
+        {
+          "title": "Software Engineer",
+          "date1": "Dec 2013 – Oct 2016",
+          "date2": "2 yrs 11 mos",
+          "location": "New York, NY"
+        }
+      ]
+    },
+    {
+      "title": "Title\nStaff Software Engineer",
+      "location": "Greater New York City Area",
+      "date1": "Aug 2018 – Present",
+      "date2": "1 yr 4 mos",
+      "roles": [
+        {
+          "title": "Staff Software Engineer",
+          "date1": "Aug 2018 – Present",
+          "date2": "1 yr 4 mos",
+          "location": "Greater New York City Area"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSenior Software Engineer",
+      "location": "New York, NY",
+      "date1": "Oct 2016 – Aug 2018",
+      "date2": "1 yr 11 mos",
+      "roles": [
+        {
+          "title": "Senior Software Engineer",
+          "date1": "Oct 2016 – Aug 2018",
+          "date2": "1 yr 11 mos",
+          "location": "New York, NY"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSoftware Engineer",
+      "location": "New York, NY",
+      "description": "Ported MongoDB Cloud Manager and MongoDB Ops Manager to Windows.\nDeveloped public REST API for MongoDB Cloud.\nDeveloped billing system for MongoDB Cloud Manager and MongoDB Atlas.",
+      "date1": "Dec 2013 – Oct 2016",
+      "date2": "2 yrs 11 mos",
+      "roles": [
+        {
+          "title": "Software Engineer",
+          "date1": "Dec 2013 – Oct 2016",
+          "date2": "2 yrs 11 mos",
+          "location": "New York, NY"
+        }
+      ]
+    },
+    {
+      "title": "Software Engineer",
+      "companyName": "Organic Motion",
+      "location": "New York, NY",
+      "description": "Wrote majority of code for OpenStage SDK and BackStage client software.\nDeveloped video viewer to play video files in Organic Motion's proprietary format.\nDeveloped infrastructure for offline tracking of videos.\nDeveloped web-based interface for managing OpenStage vision processors.\nSet up, maintained, and administered build server for continuous integration.\n…\nsee more",
+      "date1": "Jan 2012 – Nov 2013",
+      "date2": "1 yr 11 mos"
+    },
+    {
+      "title": "Intern in Software Development",
+      "companyName": "Fog Creek Software",
+      "location": "New York, NY",
+      "description": "Developed new features for Kiln, a Mercurial-based source code control system.",
+      "date1": "May 2011 – Aug 2011",
+      "date2": "4 mos"
+    },
+    {
+      "title": "Lab Assistant",
+      "companyName": "Columbia University",
+      "location": "New York, NY",
+      "description": "Performed research on computer vision for medical robotics and grasping.\nWrote code for camera calibration and triangulation of 3-dimensional points.\nDevised, implemented, and tested several approaches to track the position of a robot snake.\nWorked full-time during the summer and part-time during the academic year.",
+      "date1": "Jun 2010 – May 2011",
+      "date2": "1 yr"
+    },
+    {
+      "title": "Yale University",
+      "location": "New Haven, CT",
+      "description": "Performed research on kinematic learning, the ability of a robot’s software to determine the robot’s physical structure using a stereo vision system, avoiding the need for it to be pre-programmed.\nWrote code to implement various computer vision algorithms needed for the project.\nDerived equations to find the kinematic parameters of each joint of the robot from the data obtained through vision.\nWorked on upgrade of hardware and drivers for humanoid robot.\nWorked full-time during the summer and part-time during the academic year.\n…\nsee more",
+      "date1": "Jun 2008 – May 2010",
+      "date2": "2 yrs",
+      "roles": [
+        {
+          "title": "Research Assistant",
+          "date1": "Jun 2008 – May 2010",
+          "date2": "2 yrs",
+          "location": "New Haven, CT"
+        },
+        {
+          "title": "Student Technologist",
+          "date1": "Aug 2007 – May 2010",
+          "date2": "2 yrs 10 mos",
+          "location": "New Haven, CT"
+        }
+      ]
+    },
+    {
+      "title": "Title\nResearch Assistant",
+      "location": "New Haven, CT",
+      "description": "Performed research on kinematic learning, the ability of a robot’s software to determine the robot’s physical structure using a stereo vision system, avoiding the need for it to be pre-programmed.\nWrote code to implement various computer vision algorithms needed for the project.\nDerived equations to find the kinematic parameters of each joint of the robot from the data obtained through vision.\nWorked on upgrade of hardware and drivers for humanoid robot.\nWorked full-time during the summer and part-time during the academic year.\n…\nsee more",
+      "date1": "Jun 2008 – May 2010",
+      "date2": "2 yrs",
+      "roles": [
+        {
+          "title": "Research Assistant",
+          "date1": "Jun 2008 – May 2010",
+          "date2": "2 yrs",
+          "location": "New Haven, CT"
+        }
+      ]
+    },
+    {
+      "title": "Title\nStudent Technologist",
+      "location": "New Haven, CT",
+      "description": "Assisted students at the university with computer problems, performing repairs such as virus\nremoval, data recovery, OS reinstall, and hardware replacement.",
+      "date1": "Aug 2007 – May 2010",
+      "date2": "2 yrs 10 mos",
+      "roles": [
+        {
+          "title": "Student Technologist",
+          "date1": "Aug 2007 – May 2010",
+          "date2": "2 yrs 10 mos",
+          "location": "New Haven, CT"
+        }
+      ]
+    }
+  ],
+  "educations": [
+    {
+      "title": "Columbia University in the City of New York",
+      "degree": "Master of Science",
+      "fieldofstudy": "Computer Science",
+      "date1": "2010",
+      "date2": "2011"
+    },
+    {
+      "title": "Yale University",
+      "degree": "Bachelor of Science",
+      "fieldofstudy": "Computer Science",
+      "date1": "2006",
+      "date2": "2010"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Algorithms",
+      "count": "9"
+    },
+    {
+      "title": "C++",
+      "count": "8"
+    },
+    {
+      "title": "Software Development",
+      "count": "7"
+    },
+    {
+      "title": "C#",
+      "count": "6"
+    },
+    {
+      "title": "Visual Studio",
+      "count": "6"
+    },
+    {
+      "title": "Java",
+      "count": "2"
+    },
+    {
+      "title": "Visual Basic",
+      "count": "1"
+    },
+    {
+      "title": "Matlab"
+    },
+    {
+      "title": "LaTeX"
+    },
+    {
+      "title": "MongoDB"
+    },
+    {
+      "title": "JavaScript"
+    },
+    {
+      "title": "Qt",
+      "count": "4"
+    },
+    {
+      "title": "Perforce",
+      "count": "3"
+    },
+    {
+      "title": "MFC",
+      "count": "2"
+    },
+    {
+      "title": "Win32 API",
+      "count": "2"
+    },
+    {
+      "title": "CMake",
+      "count": "2"
+    },
+    {
+      "title": "Mercurial"
+    },
+    {
+      "title": "Go"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/devin-hilly-554866ab/",
+      "text": "Software Engineer at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/suganthi-mani-3ba93b55/",
+      "text": "Senior Software Engineer, Distributed Systems at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/john-m-liu/",
+      "text": "Software Engineer at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/wisdomomuya/",
+      "text": "Engineering Lead at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/bardbloom/",
+      "text": "Software Engineer at Spotify"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yuening-li-65562688/",
+      "text": "Software Engineer at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/randolpht/",
+      "text": "Software Engineer at MongoDB Inc"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jamespastan/",
+      "text": "Incoming Associate at Boston Consulting Group (BCG)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/esha-maharishi-648a9751/",
+      "text": "Software Engineer at MongoDB, Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/robert-guo-59755225/",
+      "text": "Software Engineer at MongoDB"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "David Golub",
+    "headline": "Staff Software Engineer at MongoDB",
+    "location": "New York, New York",
+    "connections": "112",
+    "summary": "I am currently a Senior Software Engineer on the Cloud Services Team at MongoDB in New York City, where I work on the development of the core components (e.g. REST API, alerts, billing, users/groups) of MongoDB Cloud Manager, MongoDB Ops Manager, and MongoDB Atlas and serve as the Windows specialist for the team. Previously, I worked at Organic Motion as the primary developer of the OpenStage SDK and BackStage client software. I am also the developer of CMake Tools for Visual Studio, an open source Visual Studio extension providing syntax highlighting and IntelliSense for CMake. I hold the degrees of Master of Science and Bachelor of Science, both in computer science, from Columbia University and Yale University, respectively. My undergraduate program also included extensive coursework in mathematics. Prior to beginning full-time work, I completed an internship at Fog Creek Software. I also have experience in academic research and open source development."
+  }
+}

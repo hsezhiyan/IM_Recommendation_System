@@ -1,0 +1,45 @@
+{
+  "profileAlternative": {
+    "name": "Natalie Bubak",
+    "headline": "Owner, nuVibe Juice and Java",
+    "location": "Lincoln, Nebraska Area",
+    "connections": "40"
+  },
+  "aboutAlternative": {},
+  "positions": [
+    {
+      "title": "Owner",
+      "companyName": "nuVibe Juice and Java"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Denver Seminary",
+      "degree": "MA Counseling",
+      "fieldofstudy": "Counseling",
+      "date1": "1991",
+      "date2": "1994"
+    },
+    {
+      "title": "Doane University",
+      "date1": "1987",
+      "date2": "1991"
+    }
+  ],
+  "skills": [],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Natalie Bubak",
+    "headline": "Owner, nuVibe Juice and Java",
+    "location": "Lincoln, Nebraska Area",
+    "connections": "40"
+  }
+}

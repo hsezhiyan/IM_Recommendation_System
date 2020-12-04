@@ -1,0 +1,240 @@
+{
+  "profileAlternative": {
+    "name": "Karl Arthur",
+    "headline": "Java and Android Software Engineer",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQHWRH70pXgdLA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=yFhxL9T9wJsvWYRWdp9uF-VMRodpTTwiotOUFIXxplo",
+    "location": "Provo, Utah",
+    "connections": "232",
+    "summary": "I am a software engineer and a collector and teacher of skills. You can usually find me solving puzzles and creating ways to automate solutions: electronically using Android, Java, Docker, Raspberry Pi, and micro-controllers; and physically using patterns and templates. Recently I wrote Linux scripts to install PostgreSQL on 3 OS flavors, significantly improving the productivity of my teammates."
+  },
+  "aboutAlternative": {
+    "text": "I am a software engineer and a collector and teacher of skills. You can usually find me solving puzzles and creating ways to automate solutions: electronically using Android, Java, Docker, Raspberry Pi, and micro-controllers; and physically using patterns and templates. Recently I wrote Linux scripts to install PostgreSQL on 3 OS flavors, significantly improving the productivity of my teammates."
+  },
+  "positions": [
+    {
+      "title": "Micro Focus",
+      "location": "Provo, Utah Area",
+      "description": "• Improving installation experiences using Java, logic, scripting and InstallAnywhere on Linux, Windows, and Cloud\n• Providing scripts, containers, examples, and instruction on configuring secured web environments\n• Helping to maintain up-to-date documentation",
+      "date1": "Apr 2015 – Present",
+      "date2": "4 yrs 8 mos",
+      "roles": [
+        {
+          "title": "Software Engineer V - Installation Expert (Bash, PowerShell, InstallAnywhere, and Java)",
+          "date1": "Apr 2015 – Present",
+          "date2": "4 yrs 8 mos"
+        },
+        {
+          "title": "Software Engineer II (C++)",
+          "date1": "Mar 2012 – Apr 2015",
+          "date2": "3 yrs 2 mos",
+          "location": "Provo, Utah Area"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSoftware Engineer V - Installation Expert (Bash, PowerShell, InstallAnywhere, and Java)",
+      "description": "• Improving installation experiences using Java, logic, scripting and InstallAnywhere on Linux, Windows, and Cloud\n• Providing scripts, containers, examples, and instruction on configuring secured web environments\n• Helping to maintain up-to-date documentation",
+      "date1": "Apr 2015 – Present",
+      "date2": "4 yrs 8 mos",
+      "roles": [
+        {
+          "title": "Software Engineer V - Installation Expert (Bash, PowerShell, InstallAnywhere, and Java)",
+          "date1": "Apr 2015 – Present",
+          "date2": "4 yrs 8 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSoftware Engineer II (C++)",
+      "location": "Provo, Utah Area",
+      "description": "• Enhanced product and Visual Studio plugins to improve debugging efficiency for the team\n• Directly resolved customer issues related to custom third-party objects (C3POs)\n• Modified a customer's dynamically linked library (DLL) so Visual Studio would recognize their code",
+      "date1": "Mar 2012 – Apr 2015",
+      "date2": "3 yrs 2 mos",
+      "roles": [
+        {
+          "title": "Software Engineer II (C++)",
+          "date1": "Mar 2012 – Apr 2015",
+          "date2": "3 yrs 2 mos",
+          "location": "Provo, Utah Area"
+        }
+      ]
+    },
+    {
+      "title": "GREAT High School Robotics Instructor",
+      "companyName": "University of Utah",
+      "description": "• Built, maintained, and simplified several two degrees-of-freedom (unicycle-model) robots\n• Instructed on robotic components, such as buttons, pressure pads, servos and motors\n• Instructed, motivated, and disciplined high school aged students",
+      "date1": "Jun 2011 – Jul 2011",
+      "date2": "2 mos"
+    },
+    {
+      "title": "Teacher's Assistant - Mechanical Engineering",
+      "companyName": "University of Utah",
+      "location": "Greater Salt Lake City Areaj",
+      "description": "• Compiled lessons, trained lab teacher's assistants (TAs), and built lab components\n• Managed course content, wrote detailed lab instructions, and verified labs\n• Researched, analyzed, and applied sustainable energy techniques using numerical methods",
+      "date1": "Jan 2010 – Dec 2010",
+      "date2": "12 mos"
+    },
+    {
+      "title": "Math and Science Content Designer",
+      "companyName": "Waterford Research Institute",
+      "location": "Salt Lake City, Utah",
+      "description": "• Managed, prepared, and proposed math and science activities for ages 2 to 7\n• Investigated, documented, and improved company product and instructional materials\n• Organized and stabilized company logic sequencer for Waterford Assessment of Core Skills™ (WACS)",
+      "date1": "Jun 2007 – Sep 2009",
+      "date2": "2 yrs 4 mos"
+    },
+    {
+      "title": "Math Teacher",
+      "companyName": "San Diego Unified School District",
+      "location": "San Diego High School of International Studies",
+      "description": "• Taught high-school mathematics within the inner-city\n• Covered basic and intermediate algebra, pre-calculus, calculus, and statistics\n• Followed International Baccalaureate (IB) math studies curriculum",
+      "date1": "Jun 2006 – Apr 2007",
+      "date2": "11 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Udacity",
+      "degree": "Nanodegree",
+      "fieldofstudy": "Android Development",
+      "date1": "2019",
+      "date2": "2020"
+    },
+    {
+      "title": "University of Utah",
+      "degree": "Master of Science",
+      "fieldofstudy": "Mechanical Engineering - Robotics",
+      "date1": "2008",
+      "date2": "2011"
+    },
+    {
+      "title": "Brigham Young University",
+      "degree": "Bachelor of Science",
+      "fieldofstudy": "Mathematics Education, Computer Science",
+      "date1": "2003",
+      "date2": "2006"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Matlab",
+      "count": "10"
+    },
+    {
+      "title": "Programming",
+      "count": "8"
+    },
+    {
+      "title": "Microsoft Office",
+      "count": "8"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "1",
+    "receivedCount": "1",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/dawn-roan-0a5ab27/",
+        "text": "Karl is a gifted math and science educator with an eye for quality. He was tasked with evaluating existing products as well as researching and designing new activities. Karl not only has a thorough understanding of the subject matter across the math and science disciplines, he also knows how to analyze and assimilate others' work, filtering what's most useful. His suggestions and insights are always spot-on. Karl also has the patience and diligence to work on large-scale projects without flagging. He is detail-oriented, loyal, and has an excellent sense of humor. If you're lucky, Karl will share his character voices with you--everything from Donald Duck and Kermit the Frog to Hoggle from Labyrinth and the not-to-be-missed Chewbacca!\n…\nSee more"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/paulhardwick/",
+        "text": "Whenever I had an installation question, Paul was the man to ask. While he usually knew the answer off the top of his head, he could also find answers quickly, due to his proficiency using Linux."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "1",
+      "items": [
+        "Lock picking simulation using visual and bimanual haptic display"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/kimberly-guyton/",
+      "text": "Software Engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jake-hamblin-072868101/",
+      "text": "Software Engineer at HX5, LLC"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ryan-struthers/",
+      "text": "Back End Software Developer at Nokē"
+    },
+    {
+      "user": "https://www.linkedin.com/in/diepchristopher/",
+      "text": "Software Engineer at Wayfair"
+    },
+    {
+      "user": "https://www.linkedin.com/in/matt-nicholas/",
+      "text": "Javascript Software Engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/christian-allred-72027847/",
+      "text": "Software Engineer at Fluent Home"
+    },
+    {
+      "user": "https://www.linkedin.com/in/quinnjacob/",
+      "text": "Senior Software Engineer at Domo, Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/blakerollins/",
+      "text": "I love React!"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ryan-penfold/",
+      "text": "React Developer at Jolt"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jordan9smith/",
+      "text": "Assistant Football Coach at Cedar Valley High School"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Ecclesiastical Clerk",
+      "experience": "The Church of Jesus Christ of Latter-day Saints",
+      "date1": "Jun 2013 – Apr 2017",
+      "date2": "3 yrs 11 mos"
+    },
+    {
+      "title": "Ecclesiastic Secretary",
+      "experience": "The Church of Jesus Christ of Latter-day Saints",
+      "date1": "Apr 2010 – Feb 2012",
+      "date2": "1 yr 11 mos"
+    },
+    {
+      "title": "Instructional Coordinator",
+      "experience": "The Church of Jesus Christ of Latter-day Saints",
+      "description": "Education",
+      "date1": "May 2011 – Aug 2011",
+      "date2": "4 mos"
+    },
+    {
+      "title": "Photographer/Historian",
+      "experience": "The Church of Jesus Christ of Latter-day Saints",
+      "description": "Arts and Culture",
+      "date1": "Apr 2010 – Apr 2011",
+      "date2": "1 yr 1 mo"
+    },
+    {
+      "title": "Entertainer",
+      "experience": "Brigham Young University",
+      "description": "Arts and Culture",
+      "date1": "Jan 2003 – May 2005",
+      "date2": "2 yrs 5 mos"
+    }
+  ],
+  "profile": {
+    "name": "Karl Arthur",
+    "headline": "Java and Android Software Engineer",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQHWRH70pXgdLA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=yFhxL9T9wJsvWYRWdp9uF-VMRodpTTwiotOUFIXxplo",
+    "location": "Provo, Utah",
+    "connections": "232",
+    "summary": "I am a software engineer and a collector and teacher of skills. You can usually find me solving puzzles and creating ways to automate solutions: electronically using Android, Java, Docker, Raspberry Pi, and micro-controllers; and physically using patterns and templates. Recently I wrote Linux scripts to install PostgreSQL on 3 OS flavors, significantly improving the productivity of my teammates."
+  }
+}

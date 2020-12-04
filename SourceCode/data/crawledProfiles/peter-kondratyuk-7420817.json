@@ -1,0 +1,123 @@
+{
+  "profileAlternative": {
+    "name": "Peter Kondratyuk",
+    "headline": "C++, Qt Software Developer at Extrel CMS",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQF0IoFGzmRFqA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=GtluNZNPpMGSXPCJHOMvvzzdeKmHsaXSsIQRFV7YZ1o",
+    "location": "Pittsburgh, Pennsylvania",
+    "connections": "50",
+    "summary": "In my current role, I develop quantitative chemical analysis software using primarily C++ and Qt. In my free time I enjoy learning and experimenting with computer vision and robotics."
+  },
+  "aboutAlternative": {
+    "text": "In my current role, I develop quantitative chemical analysis software using primarily C++ and Qt. In my free time I enjoy learning and experimenting with computer vision and robotics."
+  },
+  "positions": [
+    {
+      "title": "C++, Qt Software Developer",
+      "companyName": "Extrel CMS",
+      "location": "Pittsburgh, PA",
+      "date1": "Oct 2018 – Present",
+      "date2": "1 yr 2 mos"
+    },
+    {
+      "title": "Research Associate",
+      "companyName": "Carnegie Mellon University",
+      "location": "Greater Pittsburgh Area",
+      "date1": "Feb 2016 – Jun 2018",
+      "date2": "2 yrs 5 mos"
+    },
+    {
+      "title": "Research Associate",
+      "companyName": "Carnegie Mellon University",
+      "location": "Pittburgh, PA",
+      "description": "Greater Pittsburgh Area",
+      "date1": "Jun 2007 – Jan 2013",
+      "date2": "5 yrs 8 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "University of Pittsburgh",
+      "date1": "2001",
+      "date2": "2007"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Programming",
+      "count": "1"
+    },
+    {
+      "title": "C++"
+    },
+    {
+      "title": "Qt"
+    },
+    {
+      "title": "Data Analysis"
+    },
+    {
+      "title": "OpenCV"
+    },
+    {
+      "title": "C++11"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/alexei-kondratiev/",
+      "text": "Unreal Engine 4, Qt 5, OpenCV 3 and Embedded Linux C / C++ software developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/julia-sobol-b933992b/",
+      "text": "Attorney"
+    },
+    {
+      "user": "https://www.linkedin.com/in/roland-labrecque-4a731211/",
+      "text": "Qt/C++ Senior Software Architecture Consultant at Integrated Computer Solutions"
+    },
+    {
+      "user": "https://www.linkedin.com/in/fogol/",
+      "text": "Software Developer, C/C++ Expert"
+    },
+    {
+      "user": "https://www.linkedin.com/in/john-weglein-29921048/",
+      "text": "Software Engineer at NinjaRMM"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mal-soon-lee-63bb1134/",
+      "text": "Senior Scientist at Pacific Northwest National Laboratory"
+    },
+    {
+      "user": "https://www.linkedin.com/in/hphamqtdev/",
+      "text": "Qt/QML/C++ Desktop/Embedded Software Engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sergzagor/",
+      "text": "IT Consultant for ArangoDB & Node.js based projects with Ember.js & C++/Qt apps"
+    },
+    {
+      "user": "https://www.linkedin.com/in/gouthami-kanchukatla/",
+      "text": "A Passionate GUI Qt(C++ Framework) Multi Platform Developer with touch of web technology"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kennsebesta/",
+      "text": "Pilot, sailor, cyclist. Scientist, engineer, hacker."
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Peter Kondratyuk",
+    "headline": "C++, Qt Software Developer at Extrel CMS",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQF0IoFGzmRFqA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=GtluNZNPpMGSXPCJHOMvvzzdeKmHsaXSsIQRFV7YZ1o",
+    "location": "Pittsburgh, Pennsylvania",
+    "connections": "50",
+    "summary": "In my current role, I develop quantitative chemical analysis software using primarily C++ and Qt. In my free time I enjoy learning and experimenting with computer vision and robotics."
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "profileAlternative": {
+    "name": "Alex Theedom",
+    "headline": "Principal Technical Instructor at MuleSoft",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQEgY4gfxXI3Dw/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=KZJ8fOkPcO5GQSuRgAP0YW87lgdn8mTBwF6lUvj-KRQ",
+    "location": "London, United Kingdom",
+    "connections": "500+",
+    "summary": "I am a senior MuleSoft training instructor, Java Champion, Jakarta EE Committee member, Java developer/architect and trainer with well over 10 years’ experience developing Java Enterprise Edition and Spring Framework applications in a variety of sectors including finance, gambling and e-learning.\n\nI am the author of \"Java EE 8: Only what’s new\" a straight-to-the-point book covering only what’s new in Java EE 8 and the co-author of \"Professional Java EE Design Patterns\" which discusses enterprise design patterns and architecture.\n\nI regular speaker at conferences and have presented at JavaOne San Francisco, Devoxx UK, jDay Sweden, Java Day Lviv, Kiev and Belarus, VoxxedDay Istanbul, and JEEConf Kiev and I am a member of the Oracle Technology Network Speaker Bureau.\n\nI share my passion for Java through my blog readlearncode.com and by publishing articles on IBM DeveloperWorks, DZone and JavaCodeGeeks.\n\nI am also a technical editor/reviewer for Packt Publishing and an Oracle Certified Professional in Java SE and Java EE.\n\nI was the vice-chairman and mentor of an after-school coders club, jerseycoders.com and a member of the Jersey Digital Users Committee and I was on the panel launch of the Eclipse MicroProfile initiative at JavaOne 2016, representing the London Java Community (LJC)."
+  },
+  "aboutAlternative": {
+    "text": "I am a senior MuleSoft training instructor, Java Champion, Jakarta EE Committee member, Java developer/architect and trainer with well over 10 years’ experience developing Java Enterprise Edition and Spring Framework applications in a variety of sectors including finance, gambling and e-learning.\n\nI am the author of \"Java EE 8: Only what’s new\" a straight-to-the-point book covering only what’s new in Java EE 8 and the co-author of \"Professional Java EE Design Patterns\" which discusses enterprise design patterns and architecture.\n\nI regular speaker at conferences and have presented at JavaOne San Francisco, Devoxx UK, jDay Sweden, Java Day Lviv, Kiev and Belarus, VoxxedDay Istanbul, and JEEConf Kiev and I am a member of the Oracle Technology Network Speaker Bureau.\n\nI share my passion for Java through my blog readlearncode.com and by publishing articles on IBM DeveloperWorks, DZone and JavaCodeGeeks.\n\nI am also a technical editor/reviewer for Packt Publishing and an Oracle Certified Professional in Java SE and Java EE.\n\nI was the vice-chairman and mentor of an after-school coders club, jerseycoders.com and a member of the Jersey Digital Users Committee and I was on the panel launch of the Eclipse MicroProfile initiative at JavaOne 2016, representing the London Java Community (LJC)."
+  },
+  "positions": [
+    {
+      "title": "MuleSoft",
+      "location": "London, United Kingdom",
+      "description": "On top of my responsibilities as Technical Instructor, I am the first Train The Trainer instructor in EMEA. I work with other instructors in EMEA through workshops and feedback to keep improving skills and customer satisfaction scores. I work closely with the Marketing & Ops teams to define and execute strategies that drive participants in the instructor lead training classes to successfully become certified.",
+      "date1": "Aug 2019 – Present",
+      "date2": "4 mos",
+      "roles": [
+        {
+          "title": "Principal Technical Instructor",
+          "date1": "Aug 2019 – Present",
+          "date2": "4 mos",
+          "location": "London, United Kingdom"
+        },
+        {
+          "title": "Senior Training Instructor",
+          "date1": "May 2018 – Jul 2019",
+          "date2": "1 yr 3 mos",
+          "location": "London, United Kingdom"
+        }
+      ]
+    },
+    {
+      "title": "Title\nPrincipal Technical Instructor",
+      "location": "London, United Kingdom",
+      "description": "On top of my responsibilities as Technical Instructor, I am the first Train The Trainer instructor in EMEA. I work with other instructors in EMEA through workshops and feedback to keep improving skills and customer satisfaction scores. I work closely with the Marketing & Ops teams to define and execute strategies that drive participants in the instructor lead training classes to successfully become certified.",
+      "date1": "Aug 2019 – Present",
+      "date2": "4 mos",
+      "roles": [
+        {
+          "title": "Principal Technical Instructor",
+          "date1": "Aug 2019 – Present",
+          "date2": "4 mos",
+          "location": "London, United Kingdom"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSenior Training Instructor",
+      "location": "London, United Kingdom",
+      "date1": "May 2018 – Jul 2019",
+      "date2": "1 yr 3 mos",
+      "roles": [
+        {
+          "title": "Senior Training Instructor",
+          "date1": "May 2018 – Jul 2019",
+          "date2": "1 yr 3 mos",
+          "location": "London, United Kingdom"
+        }
+      ]
+    },
+    {
+      "title": "Participant Member",
+      "companyName": "Jakarta EE Specification Committee",
+      "description": "I represent the London Java Community on the specification committee for Jakarta EE as a participant member.",
+      "date1": "Jul 2018 – Present",
+      "date2": "1 yr 5 mos"
+    },
+    {
+      "title": "Outside The Box Consultancy",
+      "location": "London, United Kingdom",
+      "description": "I founded a company providing online video training to industry leading training providers on an exclusive license basis. I authored and presented courses covering Java EE related topics for LinkedIn Learning (Lynda.com) and PluralSight. For Packt Publishing I provided Java SE training for the official Oracle Java SE Programmers certificates.\n\nI also author articles and tutorials for the IBM developer Works initiative on Java SE, Java EE and Spring Framework.\n\nSee below for more details.\n…\nsee more",
+      "date1": "Jan 2017 – Present",
+      "date2": "2 yrs 11 mos",
+      "roles": [
+        {
+          "title": "Founder/Technical Trainer",
+          "date1": "Jan 2017 – Present",
+          "date2": "2 yrs 11 mos",
+          "location": "London, United Kingdom"
+        },
+        {
+          "title": "Book Author: Java EE 8 Only What's New",
+          "date1": "Feb 2018 – Present",
+          "date2": "1 yr 10 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nFounder/Technical Trainer",
+      "location": "London, United Kingdom",
+      "description": "I founded a company providing online video training to industry leading training providers on an exclusive license basis. I authored and presented courses covering Java EE related topics for LinkedIn Learning (Lynda.com) and PluralSight. For Packt Publishing I provided Java SE training for the official Oracle Java SE Programmers certificates.\n\nI also author articles and tutorials for the IBM developer Works initiative on Java SE, Java EE and Spring Framework.\n\nSee below for more details.\n…\nsee more",
+      "date1": "Jan 2017 – Present",
+      "date2": "2 yrs 11 mos",
+      "roles": [
+        {
+          "title": "Founder/Technical Trainer",
+          "date1": "Jan 2017 – Present",
+          "date2": "2 yrs 11 mos",
+          "location": "London, United Kingdom"
+        }
+      ]
+    },
+    {
+      "title": "Title\nBook Author: Java EE 8 Only What's New",
+      "description": "My new book Java EE 8: Only What's New is a straight-to-the-point book covering only the additions to the Java EE Platform. With this book you won't waste time reading what you already know, only read what you don't.\n\nBook website: www.leanpub.com/javaee8\n…\nsee more",
+      "date1": "Feb 2018 – Present",
+      "date2": "1 yr 10 mos",
+      "roles": [
+        {
+          "title": "Book Author: Java EE 8 Only What's New",
+          "date1": "Feb 2018 – Present",
+          "date2": "1 yr 10 mos"
+        }
+      ]
+    },
+    {
+      "title": "Technical Author",
+      "companyName": "IBM",
+      "description": "I author one-off articles and series that dive deep into Java SE, Enterprise Java and Spring Framework related topics.\n\nUp-to-date list of articles: developer.ibm.com/author/alex.theedom",
+      "date1": "May 2017 – May 2018",
+      "date2": "1 yr 1 mo"
+    },
+    {
+      "title": "Training Instructor",
+      "companyName": "LinkedIn",
+      "location": "Santa Barbara, California Area",
+      "description": "I author and present online training courses for Lynda.com/LinkedinLearning.com.",
+      "date1": "Dec 2016 – May 2018",
+      "date2": "1 yr 6 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Kingston University",
+      "degree": "Bachelor of Arts",
+      "fieldofstudy": "Accounting and Law",
+      "date1": "1994",
+      "date2": "1998"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Java",
+      "count": "24"
+    },
+    {
+      "title": "Java Enterprise Edition",
+      "count": "20"
+    },
+    {
+      "title": "Eclipse",
+      "count": "17"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "3",
+    "receivedCount": "3",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/gwyngb/",
+        "text": "Alex has been a mentor at our teenage coding club, Jersey Coders, for approx two years. During this time he has been an enthusiastic and inspiring influence for the children and a valuable driving force on the mentoring team. Not only does he put in the time to teach the kids, but he has taken on additional roles, updating the website and social media channels, putting together the curriculum for the Java group and most recently working to develop a badge system to reward and recognise achievements. I can thoroughly recommend Alex for his infectious enthusiasm in this voluntary role, as well as his professionalism in everything he does.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/gustavodasilvaprado/",
+        "text": "Alex is pro-active and very focused on his tasks. He enjoys learning new technologies and is capable of doing it very quick. He has great technical skills mainly in Java platform. Ultimately, he is an easygoing person and helps to build a good teamwork environment."
+      },
+      {
+        "user": "https://www.linkedin.com/in/bgparra/",
+        "text": "Alex is a meticulous professional, responsible and motivated, he is proactive and always curious and does not cease in his learning. He is smart and clever, with a need to face new challenges. I have always found him an affable person, always near and not hesitant in helping colleagues in need. Very analytical and methodical in his approach to problem solving. Highly recommendable.\n…\nSee more"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/viranchi-shetty-74b833b4/",
+        "text": "It was a pleasure working with Viranchi on my recent publication. She was always professional, supportive and kept me on my toes. I would recommend her to other Packt Pub authors."
+      },
+      {
+        "user": "https://www.linkedin.com/in/pearsonthomas/",
+        "text": "Thomas is a highly competent recruiter who can quickly understand what you want and will recommend only the positions that are right for you. I know this because every position he recommended to me was exactly what I wanted. An expert recruit, highly recommendable."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "14",
+      "items": [
+        "Anypoint Platform Architecture: Application Networks",
+        "Anypoint Platform Architecture: Solution Design",
+        "Anypoint Platform Development: DataWeave",
+        "Anypoint Platform Development: Fundamentals (Mule 3)",
+        "Anypoint Platform Development: Mule 4 for Mule 3 Users",
+        "Anypoint Platform Operations: CloudHub",
+        "Anypoint Platform: API Design",
+        "BankSphere Framework",
+        "Computational Investing",
+        "Computer Networks",
+        "Data Modelar",
+        "MuleSoft Train-the-Trainer",
+        "Oracle Certified Professional, Java SE 6 Programmer (OCPJP 6)",
+        "SaaS Software as a service"
+      ]
+    },
+    {
+      "count": "4",
+      "items": [
+        "ATM Application for Santander UK",
+        "Islands Lotto",
+        "ATM Application for Sovereign Bank",
+        "checKing QA: Quality Assurance Portal"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "Servlet 4.0: Doing More Faster",
+        "Java EE 8: Only What's New",
+        "Professional Java EE Design Patterns"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "Java Champion",
+        "Firefox OS/HTML5 app - E-HEALTH category"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "English",
+        "Spanish"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [],
+  "volunteerExperience": [
+    {
+      "title": "Mentor",
+      "experience": "Jersey Coders",
+      "description": "Science and Technology",
+      "date1": "Sep 2014 – Nov 2016",
+      "date2": "2 yrs 3 mos"
+    },
+    {
+      "title": "Hub User Committee Member",
+      "experience": "Digital Jersey",
+      "description": "Science and Technology",
+      "date1": "Jan 2016 – Nov 2016",
+      "date2": "11 mos"
+    },
+    {
+      "title": "Vice-chairman",
+      "experience": "Jersey Coders",
+      "description": "Science and Technology",
+      "date1": "Mar 2016 – Nov 2016",
+      "date2": "9 mos"
+    }
+  ],
+  "profile": {
+    "name": "Alex Theedom",
+    "headline": "Principal Technical Instructor at MuleSoft",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQEgY4gfxXI3Dw/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=KZJ8fOkPcO5GQSuRgAP0YW87lgdn8mTBwF6lUvj-KRQ",
+    "location": "London, United Kingdom",
+    "connections": "500+",
+    "summary": "I am a senior MuleSoft training instructor, Java Champion, Jakarta EE Committee member, Java developer/architect and trainer with well over 10 years’ experience developing Java Enterprise Edition and Spring Framework applications in a variety of sectors including finance, gambling and e-learning.\n\nI am the author of \"Java EE 8: Only what’s new\" a straight-to-the-point book covering only what’s new in Java EE 8 and the co-author of \"Professional Java EE Design Patterns\" which discusses enterprise design patterns and architecture.\n\nI regular speaker at conferences and have presented at JavaOne San Francisco, Devoxx UK, jDay Sweden, Java Day Lviv, Kiev and Belarus, VoxxedDay Istanbul, and JEEConf Kiev and I am a member of the Oracle Technology Network Speaker Bureau.\n\nI share my passion for Java through my blog readlearncode.com and by publishing articles on IBM DeveloperWorks, DZone and JavaCodeGeeks.\n\nI am also a technical editor/reviewer for Packt Publishing and an Oracle Certified Professional in Java SE and Java EE.\n\nI was the vice-chairman and mentor of an after-school coders club, jerseycoders.com and a member of the Jersey Digital Users Committee and I was on the panel launch of the Eclipse MicroProfile initiative at JavaOne 2016, representing the London Java Community (LJC)."
+  }
+}

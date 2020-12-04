@@ -1,0 +1,239 @@
+{
+  "profileAlternative": {
+    "name": "Andrew Erlichson",
+    "headline": "Engineering at Google",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQF1cb0wVYeKWw/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=sRmZ0ZkpDifFFpVQDX1JanY55MOiMV2hvF0-b1lwp2c",
+    "location": "Greater New York City Area",
+    "connections": "500+",
+    "summary": "Contact me at aje at erlichson.net"
+  },
+  "aboutAlternative": {
+    "text": "Contact me at aje at erlichson.net"
+  },
+  "positions": [
+    {
+      "title": "Engineering Director, Google Cloud Platform",
+      "companyName": "Google",
+      "date1": "Nov 2017 – Present",
+      "date2": "2 yrs 1 mo"
+    },
+    {
+      "title": "Trustee",
+      "companyName": "Princeton Public Library, NJ",
+      "description": "Member of the Board of Trustees of the Princeton Public Library, the statutory board that governs the library and sets strategic direction. The Princeton Public Library, the community's living room, provides access to information and a place to meet and discuss ideas for the Princeton community. In 2016 the library had over 800,000 visits.",
+      "date1": "Jan 2010 – Present",
+      "date2": "9 yrs 11 mos"
+    },
+    {
+      "title": "MongoDB, Inc.",
+      "location": "New York, NY",
+      "description": "Oversaw the development efforts around the core MongoDB products and services including the MongoDB server, drivers, cloud services, education and integration tools.\n\nKey accomplishments during my tenure:\n• Shipped MongoDB Server 3.4 on time, including MongoDB OpsManager, MongoDB Compass and all supporting MongoDB Drivers\n• Delivered MongoDB Atlas fully managed cloud service that includes MongoDB automation, monitoring and backup.\n• Grew MongoDB University to over 200,000 new students per year\n• Improved regrettable attrition rates within engineering to single digits\n• Obtained record-setting Culture Amp engagement scores within engineering that exceed comparable scores at similar companies\n• Introduced Objective and Key Result (OKR) methodology throughout company\n…\nsee more",
+      "date1": "Nov 2014 – Jan 2017",
+      "date2": "2 yrs 3 mos",
+      "roles": [
+        {
+          "title": "Senior Vice President, Engineering",
+          "date1": "Nov 2014 – Jan 2017",
+          "date2": "2 yrs 3 mos",
+          "location": "New York, NY"
+        },
+        {
+          "title": "GM of Cloud Services, VP of Education",
+          "date1": "Apr 2012 – Nov 2014",
+          "date2": "2 yrs 8 mos",
+          "location": "Greater New York City Area"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSenior Vice President, Engineering",
+      "location": "New York, NY",
+      "description": "Oversaw the development efforts around the core MongoDB products and services including the MongoDB server, drivers, cloud services, education and integration tools.\n\nKey accomplishments during my tenure:\n• Shipped MongoDB Server 3.4 on time, including MongoDB OpsManager, MongoDB Compass and all supporting MongoDB Drivers\n• Delivered MongoDB Atlas fully managed cloud service that includes MongoDB automation, monitoring and backup.\n• Grew MongoDB University to over 200,000 new students per year\n• Improved regrettable attrition rates within engineering to single digits\n• Obtained record-setting Culture Amp engagement scores within engineering that exceed comparable scores at similar companies\n• Introduced Objective and Key Result (OKR) methodology throughout company\n…\nsee more",
+      "date1": "Nov 2014 – Jan 2017",
+      "date2": "2 yrs 3 mos",
+      "roles": [
+        {
+          "title": "Senior Vice President, Engineering",
+          "date1": "Nov 2014 – Jan 2017",
+          "date2": "2 yrs 3 mos",
+          "location": "New York, NY"
+        }
+      ]
+    },
+    {
+      "title": "Title\nGM of Cloud Services, VP of Education",
+      "location": "Greater New York City Area",
+      "description": "As GM of Cloud Services, responsible for the MongoDB Cloud Services business. Launched MongoDB online backup and MongoDB Cloud Manager product. Responsible for customer acquisition, strategy and product direction.\n\nAs VP of Education:\n• launched MongoDB University, an online education platform that (as of 2017) serves more than 200,000 students per year.\n• Developed and taught the first online class on MongoDB, MongoDB for Developers.\n• Responsible for overall education and training business including certification, in-person training and premium online education.\n\n…\nsee more",
+      "date1": "Apr 2012 – Nov 2014",
+      "date2": "2 yrs 8 mos",
+      "roles": [
+        {
+          "title": "GM of Cloud Services, VP of Education",
+          "date1": "Apr 2012 – Nov 2014",
+          "date2": "2 yrs 8 mos",
+          "location": "Greater New York City Area"
+        }
+      ]
+    },
+    {
+      "title": "Vice President, Mobile",
+      "companyName": "Carbonite",
+      "location": "Princeton, NJ",
+      "description": "Directed Carbonite's mobile strategy. Integrated Phanfare team into Carbonite. Designed new mobile applications to synchronize photos. Advised CEO on strategic direction.",
+      "date1": "Jun 2011 – May 2012",
+      "date2": "1 yr"
+    },
+    {
+      "title": "CEO",
+      "companyName": "Phanfare, Inc.",
+      "description": "Phanfare offers subscription-based photo and video hosting. Founded company along with Mark Heinrich. Hired team. Implemented version 1.0 of the product. Raised venture capital and negotiated the sale of the business to Carbonite, Inc.",
+      "date1": "Jun 2004 – Jun 2011",
+      "date2": "7 yrs 1 mo"
+    },
+    {
+      "title": "VP, Research and Development",
+      "companyName": "DoubleClick, Inc.",
+      "description": "Explored business opportunities for the company and evaluated new technical ideas. Did technical due diligence for M&A transactions. Held various managerial positions including running engineering team responsible for email marketing product, developing software for new email marketing product, and developing software for merchandising analytics.",
+      "date1": "Jun 2000 – Jan 2003",
+      "date2": "2 yrs 8 mos"
+    },
+    {
+      "title": "CEO",
+      "companyName": "Flashbase, Inc.",
+      "description": "Raised $1MM in venture capital and hired management team. Developed initial products along with the marketing and sales strategy for those products. Directed day-to-day operations. Flashbase provided end-to-end technology solutions to marketers for the creation and execution of online Sweepstakes. Negotiated the sale of the company to DoubleClick (Nasdaq: DCLK) in May of 2000",
+      "date1": "Jun 1998 – Jun 2000",
+      "date2": "2 yrs 1 mo"
+    },
+    {
+      "title": "Vice President",
+      "companyName": "Blackrock",
+      "description": "Developed software for core trading system that manages inventory, analyzes risk and automates the back-office of BlackRock’s $100 billion asset management business. Worked on initial pilot project for Freddie Mac that would be come the Aladdin product.",
+      "date1": "Jul 1997 – Feb 1999",
+      "date2": "1 yr 8 mos"
+    },
+    {
+      "title": "Engineer",
+      "companyName": "Silicon Graphics",
+      "date1": "Sep 1994 – May 1997",
+      "date2": "2 yrs 9 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Stanford University",
+      "degree": "M.S.",
+      "fieldofstudy": "Electrical Engineering",
+      "date1": "1989",
+      "date2": "1997"
+    },
+    {
+      "title": "Stanford University",
+      "degree": "Ph.D.",
+      "fieldofstudy": "Electrical Engineering, Computer Systems Lab",
+      "date1": "1989",
+      "date2": "1997"
+    },
+    {
+      "title": "Dartmouth College",
+      "degree": "A.B.",
+      "fieldofstudy": "Engineering Science",
+      "date1": "1985",
+      "date2": "1989"
+    },
+    {
+      "title": "Stuyvesant High School",
+      "degree": "NY State Regents Diploma",
+      "date1": "1981",
+      "date2": "1985"
+    }
+  ],
+  "skills": [
+    {
+      "title": "MongoDB",
+      "count": "86"
+    },
+    {
+      "title": "Strategy",
+      "count": "71"
+    },
+    {
+      "title": "Mobile Applications",
+      "count": "70"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "4",
+    "receivedCount": "0",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/peterscherr/",
+        "text": "Peter proved himself to be a intelligent and dedicated member of the Flashbase team. He showed flexibility and initiative, doing whatever job was required to make our startup successful. Plus, he's a great guy."
+      },
+      {
+        "user": "https://www.linkedin.com/in/deglynn/",
+        "text": "Dennis configured our Cisco office firewalls, specified our VOIP phone system and figured out solutions to tricky networking problems quickly and efficiently. I would not hesitate to recommend Dennis to others looking for help specifying, purchasing or configuring high-end networking gear."
+      },
+      {
+        "user": "https://www.linkedin.com/in/srosenbaum/",
+        "text": "We hired Steve to introduce the Phanfare photo and video sharing service to the world. We specifically wanted to target the industry and the tech pubs. He succeeded in getting us good hits in national publications and a profile within the industry that was disproportionate to our size and tenure. Steve is well known within the world of Photography and he approaches the industry with a depth of experience and authenticity that can only come from loving photography and having worked on the portfolio side of fence.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/troysechrist/",
+        "text": "Troy is a tenacious, detail-oriented business development manager who successfully introduced Phanfare to all the major players in the photo and video sharing space. He is a pleasure to work with and a great guy to have with you in the corporate foxhole."
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/nrh3k/",
+      "text": "Engineering Director at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yanbingli/",
+      "text": "VP of Engineering at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/abelikoff/",
+      "text": "Director Of Engineering at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/john-nevins-91964a27/",
+      "text": "Manager, Software Development Engineering at Workday"
+    },
+    {
+      "user": "https://www.linkedin.com/in/zoe-loveman/",
+      "text": "MBA Candidate at Harvard Business School"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ralph-benarrosh-a026b9187/",
+      "text": "Engineer, BlackRock Lab for Artificial Intelligence"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yuribroze/",
+      "text": "VP Engineering at Birchbox"
+    },
+    {
+      "user": "https://www.linkedin.com/in/davemandelbaum/",
+      "text": "At Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/stevebriskin/",
+      "text": "Software engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jacopo-cesareo-a810b82a/",
+      "text": "Software Engineer at Google"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Andrew Erlichson",
+    "headline": "Engineering at Google",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQF1cb0wVYeKWw/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=sRmZ0ZkpDifFFpVQDX1JanY55MOiMV2hvF0-b1lwp2c",
+    "location": "Greater New York City Area",
+    "connections": "500+",
+    "summary": "Contact me at aje at erlichson.net"
+  }
+}

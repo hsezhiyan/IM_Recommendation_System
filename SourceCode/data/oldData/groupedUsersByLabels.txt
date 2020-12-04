@@ -1,0 +1,56 @@
+Label  8.0          Dylan King
+11.0      Saavan Parikh
+13.0         Howard Tay
+15.0        Justin Tran
+17.0    Madeleine Beans
+31.0        Johnny Zhou
+34.0           Alex Lem
+39.0        Ridwan Syed
+43.0         Hayes Yang
+Name: Username, dtype: object : 0
+Label  2.0        Toufique Ahmed
+3.0             Jack Wang
+5.0        Ahmed Farooqui
+6.0              Alan Liu
+7.0           Neha Ranjan
+9.0          Ankit Mathur
+21.0       Adithya Suresh
+25.0        Daniel Nguyen
+28.0        Arbaaz Muslim
+33.0           Jemmy Zhou
+36.0    Haoyi(Cindy) Ding
+40.0          Wallace Lim
+44.0        Aanvi Guliani
+Name: Username, dtype: object : 1
+Label  1.0      Snehal Shirgure
+4.0          Trevina Tan
+10.0    Ankush Swarnakar
+12.0        Krish Avvari
+20.0        Krish Avvari
+41.0           Grace Cui
+42.0             Max Wu 
+45.0     Christian Young
+Name: Username, dtype: object : 2
+Label  0.0        Savvy Gupta
+16.0     Tiger Nguyen 
+18.0        Huy Nguyen
+19.0    Michelle Zhang
+24.0      Shannon Chau
+26.0        Kelsey Luu
+27.0       Juhi Thapar
+29.0         Lucy Chen
+30.0    Moksh Chitkara
+32.0      Lauren Leung
+35.0         Angela Lu
+38.0     Nihal Deopura
+Name: Username, dtype: object : 3
+Label  23.0    Punit Khanolkar
+Name: Username, dtype: object : 4
+Label  14.0       Wenhan Fang
+37.0    Devesh Kodnani
+Name: Username, dtype: object : 5
+Label  22.0    David Wang
+46.0     Derek Xia
+Name: Username, dtype: object : 6
+Label  NaN    Username
+Name: Username, dtype: object : Label

@@ -1,0 +1,233 @@
+{
+  "profileAlternative": {
+    "name": "Dirk Eddelbuettel",
+    "headline": "Quantitative Research, Development and Trading / Data Science / Machine Learning",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQFxfjVdBhy1Hw/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=k7wuQzMQNTxQzSFGSdqOtYdQu2SSNjfcYhhNK_hkeTo",
+    "location": "River Forest, Illinois",
+    "connections": "500+",
+    "summary": "Quantitative Research and Trading Professional with extensive experience in statistical / automated high-frequency automated trading strategies. (Adjunct) Clinical Professor of Statistics at the University of Illinois at Urbana-Champaign. Open Source Contributor and Debian Developer. Expert R User and Package Author. R Foundation Board Member. Ph.D. in Financial Econometrics from EHESS - Ecole des Hautes Etudes en Sciences Sociales.\n\nIf you and I have never met or worked on anything. please do not send me a connection invite. Thank you."
+  },
+  "aboutAlternative": {
+    "text": "Quantitative Research and Trading Professional with extensive experience in statistical / automated high-frequency automated trading strategies. (Adjunct) Clinical Professor of Statistics at the University of Illinois at Urbana-Champaign. Open Source Contributor and Debian Developer. Expert R User and Package Author. R Foundation Board Member. Ph.D. in Financial Econometrics from EHESS - Ecole des Hautes Etudes en Sciences Sociales.\n\nIf you and I have never met or worked on anything. please do not send me a connection invite. Thank you."
+  },
+  "positions": [
+    {
+      "title": "Senior Quantitative Developer",
+      "companyName": "Consolidated Trading LLC",
+      "location": "Greater Chicago Area",
+      "description": "Quantitative research and development for automated high-frequency trading and market-making , feature engieering, feature selection, data science, statistics, machine learning, econometrics, C++, R, Linux",
+      "date1": "May 2018 – Present",
+      "date2": "1 yr 7 mos"
+    },
+    {
+      "title": "Clinical Professor",
+      "companyName": "University of Illinois at Urbana-Champaign",
+      "location": "Urbana-Champaign, Illinois",
+      "description": "Clinical Professor of Statistics and Data Science, Department of Statistics.\nCurrently in an adjunct role at 25%.",
+      "date1": "Jan 2018 – Present",
+      "date2": "1 yr 11 mos"
+    },
+    {
+      "title": "Contributor, Package Author and R Foundation Board Member",
+      "companyName": "The R Project for Statistical Computing",
+      "date1": "Feb 2002 – Present",
+      "date2": "17 yrs 10 mos"
+    },
+    {
+      "title": "Developer / Maintainer",
+      "companyName": "Debian",
+      "description": "Responsible for a number of quantitative software packages (R and numerous R packages, GSL, QuantLib)",
+      "date1": "Jul 1995 – Present",
+      "date2": "24 yrs 5 mos"
+    },
+    {
+      "title": "Senior Financial Engineer",
+      "companyName": "Ketchum Trading, LLC.",
+      "location": "Greater Chicago Area",
+      "date1": "May 2012 – Feb 2018",
+      "date2": "5 yrs 10 mos"
+    },
+    {
+      "title": "Senior Quantitative Analyst",
+      "companyName": "NA",
+      "location": "Greater Seattle Area",
+      "date1": "Oct 2011 – Apr 2012",
+      "date2": "7 mos"
+    },
+    {
+      "title": "Senior Quantitative Strategist",
+      "companyName": "Simplex Investments",
+      "date1": "May 2011 – Aug 2011",
+      "date2": "4 mos"
+    },
+    {
+      "title": "Senior Quantitative Analyst",
+      "companyName": "Wolverine Trading",
+      "date1": "Sep 2008 – Apr 2011",
+      "date2": "2 yrs 8 mos"
+    },
+    {
+      "title": "Quantitative Research and Trading",
+      "companyName": "Jump Trading, LLC",
+      "date1": "Feb 2006 – Jul 2008",
+      "date2": "2 yrs 6 mos"
+    },
+    {
+      "title": "Quantitative Research",
+      "companyName": "Citadel Investment Group",
+      "date1": "Jan 2005 – Jan 2006",
+      "date2": "1 yr 1 mo"
+    },
+    {
+      "title": "Vice President, Research Analyst",
+      "companyName": "Bank of America",
+      "date1": "Mar 2002 – Jan 2005",
+      "date2": "2 yrs 11 mos"
+    },
+    {
+      "title": "Director, Quant. Research",
+      "companyName": "Bank of Montreal",
+      "date1": "Apr 1998 – Feb 2002",
+      "date2": "3 yrs 11 mos"
+    },
+    {
+      "title": "Associate, Fixed Income Research",
+      "companyName": "Goldman Sachs",
+      "date1": "Nov 1996 – Apr 1998",
+      "date2": "1 yr 6 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "EHESS - Ecole des Hautes Etudes en Sciences Sociales",
+      "degree": "Ph.D.",
+      "fieldofstudy": "Financial Econometrics",
+      "date1": "1992",
+      "date2": "1997"
+    },
+    {
+      "title": "EHESS - Ecole des Hautes Etudes en Sciences Sociales",
+      "degree": "M.A.",
+      "fieldofstudy": "Math Econ and Econometrics",
+      "date1": "1991",
+      "date2": "1992"
+    },
+    {
+      "title": "Karlsruhe Institute of Technology (KIT)",
+      "degree": "M.Sc.",
+      "fieldofstudy": "Industrial Engineering (Comp.Sci./OR)",
+      "date1": "1987",
+      "date2": "1992"
+    }
+  ],
+  "skills": [
+    {
+      "title": "R",
+      "count": "99+"
+    },
+    {
+      "title": "Quantitative Finance",
+      "count": "73"
+    },
+    {
+      "title": "C++",
+      "count": "70"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "1",
+    "receivedCount": "1",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/romain-francois/",
+        "text": "Dirk is a very sharp R and C++ developper. We have been working together for years in various open source projects. The largest of these projects (Rcpp) is being used by a large number of R programmers"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/marydeering/",
+        "text": "Our international conference on R in Finance not only keeps getting bigger and bigger -- but thanks to the unsurpassed work of Mary and her team at UIC also keeps running smoother and smoother.  An unmatched attention to even the smallest details is complemented by answering and even anticipating almost all of the organizing committee's needs.  We could hardly do it with her!"
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "3",
+      "items": [
+        "English",
+        "French",
+        "German"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Seamless R and C++ Integration with Rcpp"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/michael-miller-a5423a1b/",
+      "text": "Summer Consultant at EY-Parthenon"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kevinarifin/",
+      "text": "Quantitative Developer at Citadel LLC"
+    },
+    {
+      "user": "https://www.linkedin.com/in/hadleywickham/",
+      "text": "Chief Scientist at RStudio, Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/yangli03/",
+      "text": "Quantitative Researcher at Citadel LLC"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mckayewhiteside/",
+      "text": "MBA Candidate at Kellogg School of Management"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jack-gang-04a34535/",
+      "text": "Algorithmic Trader at Vector Trading, LLC"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ekaterina-vinkovskaya-6555248/",
+      "text": "Quantitative Researcher at Point72"
+    },
+    {
+      "user": "https://www.linkedin.com/in/joshuaulrich/",
+      "text": "Quantitative Analyst at NISA Investment Advisors, LLC"
+    },
+    {
+      "user": "https://www.linkedin.com/in/andreyermolinskiy/",
+      "text": "Chief Technology Officer at Consolidated Trading LLC"
+    },
+    {
+      "user": "https://www.linkedin.com/in/markus-leballeux-2a734065/",
+      "text": "Low Latency Trading Infrastructure Engineer at Consolidated Trading LLC"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Developer / Package Maintainer",
+      "experience": "Debian",
+      "date1": "Jun 1995 – Present",
+      "date2": "24 yrs 6 mos"
+    },
+    {
+      "title": "Contributor / Package Author / Foundation Board Member",
+      "experience": "R Project",
+      "date1": "Feb 2002 – Present",
+      "date2": "17 yrs 10 mos"
+    }
+  ],
+  "profile": {
+    "name": "Dirk Eddelbuettel",
+    "headline": "Quantitative Research, Development and Trading / Data Science / Machine Learning",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQFxfjVdBhy1Hw/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=k7wuQzMQNTxQzSFGSdqOtYdQu2SSNjfcYhhNK_hkeTo",
+    "location": "River Forest, Illinois",
+    "connections": "500+",
+    "summary": "Quantitative Research and Trading Professional with extensive experience in statistical / automated high-frequency automated trading strategies. (Adjunct) Clinical Professor of Statistics at the University of Illinois at Urbana-Champaign. Open Source Contributor and Debian Developer. Expert R User and Package Author. R Foundation Board Member. Ph.D. in Financial Econometrics from EHESS - Ecole des Hautes Etudes en Sciences Sociales.\n\nIf you and I have never met or worked on anything. please do not send me a connection invite. Thank you."
+  }
+}

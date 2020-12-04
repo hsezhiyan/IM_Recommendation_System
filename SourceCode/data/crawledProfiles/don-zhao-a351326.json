@@ -1,0 +1,182 @@
+{
+  "profileAlternative": {
+    "name": "Don Zhao",
+    "headline": "Director and Consultant (BI and SQL Server) at Intellidata Solutions (Consulting Services)",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQEX7BAjwuQHpA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=Z9Xe-MEwhezm7V2SsGlLIgPV2D0QwFXK_HTff00kzbQ",
+    "location": "Burnaby, British Columbia, Canada",
+    "connections": "231",
+    "summary": "Over 20 years extensive IT and business experience (focusing on database and BI), and help customers to design and improve data solutions. Provide practical BI road map and approach to create insightful business information out of raw data for better business decision and productivity.\n\nSpecialties: Data Modeling, BI Evangelist, BI Project Planing and Design, including business discovery, BI project management, data modeling, data science and data analytic, ETL/ELT design and implementation, reports and dashboard Delivery. SQL Server Architect/DBA, T-SQL Guru. Database Performance Tuning Expert."
+  },
+  "aboutAlternative": {
+    "text": "Over 20 years extensive IT and business experience (focusing on database and BI), and help customers to design and improve data solutions. Provide practical BI road map and approach to create insightful business information out of raw data for better business decision and productivity.\n\nSpecialties: Data Modeling, BI Evangelist, BI Project Planing and Design, including business discovery, BI project management, data modeling, data science and data analytic, ETL/ELT design and implementation, reports and dashboard Delivery. SQL Server Architect/DBA, T-SQL Guru. Database Performance Tuning Expert."
+  },
+  "positions": [
+    {
+      "title": "Director and Architect and Consultant (DW/BI and SQL Server)",
+      "companyName": "Intellidata Solutions (Consulting Services)",
+      "location": "Vancouver, Canada Area",
+      "description": "Projects including:\n- Sun Rich Fresh Fruits （SQL/BI consultant）2017\n- Interfor (EDI/SQL Consultant) 2016-1017\n- Industry Training Authority(BI Consultant) 2015 - 2016\n- British Columbia Provincial Health Service Authority(Senior Database Consultant) 2010 - 2017\n- Community Living of British Columbia(Senior DBA) 2011 - 2014\n- VanCity (SQL DBA)2014\n- Electronic Arts(BI Architect/Deveoper) 2007-2009\n- Metro Vancouver (Senior BI Consultant) 2006-2007\n- Envision Financial 2006 (BI/ETL Consultant)\n....\n…\nsee more",
+      "date1": "Nov 2005 – Present",
+      "date2": "14 yrs 1 mo"
+    },
+    {
+      "title": "Architect @ Microsoft BI Global Practice",
+      "companyName": "Microsoft Corp",
+      "location": "Aisa",
+      "date1": "Apr 2009 – Oct 2011",
+      "date2": "2 yrs 7 mos"
+    },
+    {
+      "title": "Database Consultant",
+      "companyName": "Microsoft",
+      "location": "Redmond, WA",
+      "date1": "2004 – 2006",
+      "date2": "2 yrs"
+    },
+    {
+      "title": "Data Architect",
+      "companyName": "Top Producer Systems",
+      "date1": "2001 – 2003",
+      "date2": "2 yrs"
+    },
+    {
+      "title": "Advisory Account specialist",
+      "companyName": "IBM",
+      "date1": "1997 – 2001",
+      "date2": "4 yrs"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Beijing Institute of Technology",
+      "degree": "Bachelor’s Degree",
+      "fieldofstudy": "Information Science",
+      "date1": "1990",
+      "date2": "1994"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Business Intelligence",
+      "count": "9"
+    },
+    {
+      "title": "Data Warehouse Architecture",
+      "count": "3"
+    },
+    {
+      "title": "ETL",
+      "count": "9"
+    },
+    {
+      "title": "Data Modeling",
+      "count": "9"
+    },
+    {
+      "title": "Agile Methodologies",
+      "count": "3"
+    },
+    {
+      "title": "Microsoft SQL Server",
+      "count": "8"
+    },
+    {
+      "title": "Databases",
+      "count": "10"
+    },
+    {
+      "title": "SSRS",
+      "count": "3"
+    },
+    {
+      "title": "Azure Data Factory"
+    },
+    {
+      "title": "Microsoft Power BI"
+    },
+    {
+      "title": "SQL Azure"
+    },
+    {
+      "title": "SQL Tuning",
+      "count": "2"
+    },
+    {
+      "title": "Business Intelligence Projects",
+      "count": "2"
+    },
+    {
+      "title": "Dashboard",
+      "count": "1"
+    },
+    {
+      "title": "SSAS"
+    },
+    {
+      "title": "Data Governance"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "1",
+    "receivedCount": "0",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/amber-y-34409110/",
+        "text": "Ambe always works in highly profession way. With excellent communication and understanding skills, Amber really took key role in the process helping me and my family to relocate to China from North Ameria back to four years ago...."
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/janzenbalasbas/",
+      "text": "Consultant / Senior Data Engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/richard-kachur-7462714/",
+      "text": "Data Management Office Manager"
+    },
+    {
+      "user": "https://www.linkedin.com/in/matthew-jones-b5196321/",
+      "text": "Data Architect"
+    },
+    {
+      "user": "https://www.linkedin.com/in/wasekk/",
+      "text": "Computer Science and Data Science at UBC | Ex-IBM"
+    },
+    {
+      "user": "https://www.linkedin.com/in/surender-sinwar-41903833/",
+      "text": "Information Management | Data Analytics | Data Governance | Data & Solution architecture"
+    },
+    {
+      "user": "https://www.linkedin.com/in/giancarlos-escalante-3397412b/",
+      "text": "Director, Corporate Data at Interfor"
+    },
+    {
+      "user": "https://www.linkedin.com/in/gagan-singh-475012101/",
+      "text": "MSc IT, ITIL, MCITP, IT Infrastructure Consultant"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ricardofelipe/",
+      "text": "Big Data Architect, Integration specialist"
+    },
+    {
+      "user": "https://www.linkedin.com/in/michaelhobbs1/",
+      "text": "Senior Partner"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sukhjit-samra-6918a716/",
+      "text": "Network Analyst at Interfor"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Don Zhao",
+    "headline": "Director and Consultant (BI and SQL Server) at Intellidata Solutions (Consulting Services)",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQEX7BAjwuQHpA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=Z9Xe-MEwhezm7V2SsGlLIgPV2D0QwFXK_HTff00kzbQ",
+    "location": "Burnaby, British Columbia, Canada",
+    "connections": "231",
+    "summary": "Over 20 years extensive IT and business experience (focusing on database and BI), and help customers to design and improve data solutions. Provide practical BI road map and approach to create insightful business information out of raw data for better business decision and productivity.\n\nSpecialties: Data Modeling, BI Evangelist, BI Project Planing and Design, including business discovery, BI project management, data modeling, data science and data analytic, ETL/ELT design and implementation, reports and dashboard Delivery. SQL Server Architect/DBA, T-SQL Guru. Database Performance Tuning Expert."
+  }
+}

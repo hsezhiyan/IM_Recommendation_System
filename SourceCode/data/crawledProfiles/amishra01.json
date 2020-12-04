@@ -1,0 +1,420 @@
+{
+  "profileAlternative": {
+    "name": "Ash Mishra",
+    "headline": "Engineering @ LinkedIn",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQHbuDUMlFx8RQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=97V3nCIaQD6ZNId5BSuPnBDYuaWJ8-pq0FuFGX-5Kco",
+    "location": "San Francisco Bay Area",
+    "connections": "500+",
+    "summary": "Engineering leader with expertise in building consumer and enterprise applications that are capable of performing at scale, and in building core infrastructure that powers web applications and rest services. Strong people management skills with a proven ability to hire and mentor stellar engineers. Several years of engineering experience in building large scale, complex and fault-tolerant applications - comprising of social platforms, content management, e-commerce, and business intelligence systems."
+  },
+  "aboutAlternative": {
+    "text": "Engineering leader with expertise in building consumer and enterprise applications that are capable of performing at scale, and in building core infrastructure that powers web applications and rest services. Strong people management skills with a proven ability to hire and mentor stellar engineers. Several years of engineering experience in building large scale, complex and fault-tolerant applications - comprising of social platforms, content management, e-commerce, and business intelligence systems."
+  },
+  "positions": [
+    {
+      "title": "LinkedIn",
+      "location": "San Francisco Bay Area",
+      "description": "Leading and managing the team that owns and builds the web frameworks that LinkedIn engineers build applications on.",
+      "date1": "Dec 2018 – Present",
+      "date2": "1 yr",
+      "roles": [
+        {
+          "title": "Senior Engineering Manager, Service Infrastructure and Java team",
+          "date1": "Dec 2018 – Present",
+          "date2": "1 yr",
+          "location": "San Francisco Bay Area"
+        },
+        {
+          "title": "Engineering Manager, Presentation Infrastructure",
+          "date1": "Oct 2015 – Dec 2018",
+          "date2": "3 yrs 3 mos",
+          "location": "San Francisco Bay Area"
+        },
+        {
+          "title": "Senior Software Engineer",
+          "date1": "Sep 2014 – Oct 2015",
+          "date2": "1 yr 2 mos"
+        },
+        {
+          "title": "Software Engineer",
+          "date1": "Aug 2013 – Sep 2014",
+          "date2": "1 yr 2 mos",
+          "location": "Mountain View"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSenior Engineering Manager, Service Infrastructure and Java team",
+      "location": "San Francisco Bay Area",
+      "date1": "Dec 2018 – Present",
+      "date2": "1 yr",
+      "roles": [
+        {
+          "title": "Senior Engineering Manager, Service Infrastructure and Java team",
+          "date1": "Dec 2018 – Present",
+          "date2": "1 yr",
+          "location": "San Francisco Bay Area"
+        }
+      ]
+    },
+    {
+      "title": "Title\nEngineering Manager, Presentation Infrastructure",
+      "location": "San Francisco Bay Area",
+      "description": "Leading and managing the team that owns and builds the web frameworks that LinkedIn engineers build applications on.",
+      "date1": "Oct 2015 – Dec 2018",
+      "date2": "3 yrs 3 mos",
+      "roles": [
+        {
+          "title": "Engineering Manager, Presentation Infrastructure",
+          "date1": "Oct 2015 – Dec 2018",
+          "date2": "3 yrs 3 mos",
+          "location": "San Francisco Bay Area"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSenior Software Engineer",
+      "description": "- Grew the microsites program at LinkedIn to more than 40 internal and external sites.\n- Architected and implemented complex integrations with other critical systems.\n- Took the sites multi-colo for reliability and to be ready for growing traffic.\n- Led initiatives to improve the site speed.\n- Worked with several teams on cross-functional projects.\n…\nsee more",
+      "date1": "Sep 2014 – Oct 2015",
+      "date2": "1 yr 2 mos",
+      "roles": [
+        {
+          "title": "Senior Software Engineer",
+          "date1": "Sep 2014 – Oct 2015",
+          "date2": "1 yr 2 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSoftware Engineer",
+      "location": "Mountain View",
+      "description": "- Led the microsites program at LinkedIn.\n- Was responsible for the overall operational and engineering direction of the platform.\n- Worked with a cross functional team including marketing, sales, webdev and security to\nmake decisions on the product roadmap and features.\n- Scaled the architecture to handle 10x the load.\n- Setup the tooling and defined processes to improve development efficiency.\n…\nsee more",
+      "date1": "Aug 2013 – Sep 2014",
+      "date2": "1 yr 2 mos",
+      "roles": [
+        {
+          "title": "Software Engineer",
+          "date1": "Aug 2013 – Sep 2014",
+          "date2": "1 yr 2 mos",
+          "location": "Mountain View"
+        }
+      ]
+    },
+    {
+      "title": "Senior Developer/Lead",
+      "companyName": "SolutionSet",
+      "location": "San Francisco",
+      "description": "Architected and implemented social software solutions for businesses.\n\n- Led the redesign of Adobe's EchoSign marketing website using Adobe CQ5.\n- Led the redesign and launch of Cloudera.com on Adobe's CQ5 platform.\n- Led migration of 7 Intel sites on the Jive SBS platform.\n- Worked as part of the Jive Professional Services team for Goldman Sachs. Morgan Stanley, AT&T and F5 networks.\n…\nsee more",
+      "date1": "Nov 2010 – Aug 2013",
+      "date2": "2 yrs 10 mos"
+    },
+    {
+      "title": "Java Consultant (E-commerce)",
+      "companyName": "Skillnet Solutions Inc",
+      "description": "Worked as an enterprise e-commerce consultant on projects for several clients that included HotTopic and JCrew, focused primarily on the Blue Martini e-commerce platform.",
+      "date1": "Jun 2010 – Nov 2010",
+      "date2": "6 mos"
+    },
+    {
+      "title": "J2EE developer/Lead",
+      "companyName": "Target",
+      "description": "Led a 7 member team for the redesign and migration of Target's vendor system, partnersonline.com from the ATG e-commerce platform to an open source Spring and iBatis stack.",
+      "date1": "Jan 2010 – May 2010",
+      "date2": "5 mos"
+    },
+    {
+      "title": "Business Intelligence/Java Consultant",
+      "companyName": "Prudential Financial",
+      "description": "Designed BI dashboards for the management team to understand expenses and review forecasts.",
+      "date1": "Aug 2009 – Dec 2009",
+      "date2": "5 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Purdue University",
+      "degree": "B.S.",
+      "fieldofstudy": "Computer Engineering",
+      "date1": "2005",
+      "date2": "2009"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Java",
+      "count": "58"
+    },
+    {
+      "title": "Software Development",
+      "count": "30"
+    },
+    {
+      "title": "Spring",
+      "count": "34"
+    },
+    {
+      "title": "iOS Development"
+    },
+    {
+      "title": "E-commerce",
+      "count": "16"
+    },
+    {
+      "title": "Web Applications",
+      "count": "9"
+    },
+    {
+      "title": "Web Services",
+      "count": "5"
+    },
+    {
+      "title": "Business Intelligence",
+      "count": "3"
+    },
+    {
+      "title": "Agile Methodologies",
+      "count": "13"
+    },
+    {
+      "title": "Scrum",
+      "count": "2"
+    },
+    {
+      "title": "Scalability",
+      "count": "2"
+    },
+    {
+      "title": "SOA"
+    },
+    {
+      "title": "OOP"
+    },
+    {
+      "title": "Design Patterns"
+    },
+    {
+      "title": "Apache",
+      "count": "8"
+    },
+    {
+      "title": "Maven",
+      "count": "8"
+    },
+    {
+      "title": "Tomcat",
+      "count": "25"
+    },
+    {
+      "title": "JSON",
+      "count": "29"
+    },
+    {
+      "title": "Struts",
+      "count": "18"
+    },
+    {
+      "title": "SOAP",
+      "count": "13"
+    },
+    {
+      "title": "REST",
+      "count": "16"
+    },
+    {
+      "title": "JSP",
+      "count": "15"
+    },
+    {
+      "title": "Java Enterprise Edition",
+      "count": "21"
+    },
+    {
+      "title": "Hibernate",
+      "count": "6"
+    },
+    {
+      "title": "Eclipse",
+      "count": "5"
+    },
+    {
+      "title": "Git",
+      "count": "4"
+    },
+    {
+      "title": "Subversion",
+      "count": "4"
+    },
+    {
+      "title": "JavaScript",
+      "count": "23"
+    },
+    {
+      "title": "jQuery",
+      "count": "3"
+    },
+    {
+      "title": "AJAX",
+      "count": "1"
+    },
+    {
+      "title": "XML",
+      "count": "3"
+    },
+    {
+      "title": "HTML 5",
+      "count": "1"
+    },
+    {
+      "title": "MySQL",
+      "count": "3"
+    },
+    {
+      "title": "Servlets"
+    },
+    {
+      "title": "XSLT"
+    },
+    {
+      "title": "Spring Framework",
+      "count": "9"
+    },
+    {
+      "title": "SQL",
+      "count": "9"
+    },
+    {
+      "title": "HTML",
+      "count": "4"
+    },
+    {
+      "title": "Linux",
+      "count": "3"
+    },
+    {
+      "title": "Unix",
+      "count": "2"
+    },
+    {
+      "title": "Team Leadership",
+      "count": "5"
+    },
+    {
+      "title": "CQ5",
+      "count": "4"
+    },
+    {
+      "title": "Jive SBS",
+      "count": "6"
+    },
+    {
+      "title": "JSP development",
+      "count": "3"
+    },
+    {
+      "title": "Hudson"
+    },
+    {
+      "title": "FTL",
+      "count": "1"
+    },
+    {
+      "title": "MVC"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "6",
+    "receivedCount": "5",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/byazaki/",
+        "text": "Ash is definitely a go-to guy when it comes to projects here. His insight and guidance were huge in the development and maturing of our current implementation of CQ5. He always has good advice and approaches each problem from both technical and business angles. He has recently been adding management roles to his already well developed skill set, and it's been wonderful learning from and growing with him. I look forward to each opportunity I have to work with him.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/nateyolles/",
+        "text": "Ash is an extremely valuable member of our team. His knowledge of Java, Adobe CQ, Maven, JCR, and software development in general is outstanding. His communication and collaboration skills make him invaluable to software planning. In short, he’s a dedicated team member and an impassioned software engineer. Ash is an absolute pleasure to work with and I whole-heartedly recommend him.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/adam-trissel-455689/",
+        "text": "I managed Ash, in the social business group, at SolutionSet for 3 ½ years. In that time he developed into a fine technologist and consultant. Ash was able to work independently and provide complex technical advise to a lay audience. I have nothing but admiration for the work that he did for our group. I would work with Ash again in a minute if the opportunity arose. I wish him luck in his new endeavors\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/chadiverson/",
+        "text": "Ash is a quick learner, intrinsically motivated, and great with clients. I had the pleasure of working with Ash on challenging platform customization projects. His determination to solve technical problems makes him a valuable team member. I also worked closely with a client that Ash had previously supported. I was asked about Ash three times in the first week. The clients love working with Ash. The personal relationships he builds with clients give every project team a running start. Disclaimer: This is a personal recommendation, and does not represent the views of Fidelity Investments.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/amadeodonofrio/",
+        "text": "Ash is an extremely talented engineer. We've worked side by side on more than one large project and it's always been a pleasure to do so. His technical expertise lies in Java engineering, but his professional expertise spans the breadth of project management. He's a clear communicator, a quick thinker, a strong developer, and a positive person. He'd be an asset on any team.\n…\nSee more"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/emilystran/",
+        "text": "Emily is an amazing program manager and has contributed greatly towards the success of the microsites program at LinkedIn. She has brought great structure and stability to the projects with her project management skills. She has strong analytical and problem solving skills and has the ability to manage multiple complex projects simultaneously and has helped the team meet tight deadlines with her great planning skills. She is a great team player who truly cares about the team's morale and happiness. I'm fortunate to have gotten the chance to work with Emily and truly believe that she will be a great asset to any team that she is a part of."
+      },
+      {
+        "user": "https://www.linkedin.com/in/byazaki/",
+        "text": "Brodie is one of the most dedicated and hard working people that I have worked with. He is talented developer who you can throw any problem at and he will figure out a way to solve it efficiently. Brodie is always ready to help the team out and he will go out of his way to make sure that the deadlines are met. I'll gladly jump at any opportunity to work with Brodie."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "2",
+      "items": [
+        "English",
+        "Hindi"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/j21wang/",
+      "text": "Software Engineering Manager at LinkedIn"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ssheng/",
+      "text": "Engineering Manager, Service Infrastructure at LinkedIn"
+    },
+    {
+      "user": "https://www.linkedin.com/in/avisheksharma/",
+      "text": "Engineering Manager at LinkedIn"
+    },
+    {
+      "user": "https://www.linkedin.com/in/raghu-hiremagalur/",
+      "text": "CTO at LinkedIn"
+    },
+    {
+      "user": "https://www.linkedin.com/in/upadhyayyogesh/",
+      "text": "Engineering Manager at LinkedIn"
+    },
+    {
+      "user": "https://www.linkedin.com/in/arunponniah/",
+      "text": "Service Infrastructure at LinkedIn"
+    },
+    {
+      "user": "https://www.linkedin.com/in/joshuahartman/",
+      "text": "Director Of Engineering at LinkedIn - Hiring ML Infra Engineers!"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nitantvaidya/",
+      "text": "Engineering Manager, Traffic Infrastructure, LinkedIn"
+    },
+    {
+      "user": "https://www.linkedin.com/in/swethakarthik/",
+      "text": "Engineering Manager at LinkedIn"
+    },
+    {
+      "user": "https://www.linkedin.com/in/goksel-genc-b654802/",
+      "text": "Director Of Engineering at LinkedIn"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Ash Mishra",
+    "headline": "Engineering @ LinkedIn",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQHbuDUMlFx8RQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=97V3nCIaQD6ZNId5BSuPnBDYuaWJ8-pq0FuFGX-5Kco",
+    "location": "San Francisco Bay Area",
+    "connections": "500+",
+    "summary": "Engineering leader with expertise in building consumer and enterprise applications that are capable of performing at scale, and in building core infrastructure that powers web applications and rest services. Strong people management skills with a proven ability to hire and mentor stellar engineers. Several years of engineering experience in building large scale, complex and fault-tolerant applications - comprising of social platforms, content management, e-commerce, and business intelligence systems."
+  }
+}

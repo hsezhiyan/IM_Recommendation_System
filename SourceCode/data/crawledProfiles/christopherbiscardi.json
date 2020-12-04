@@ -1,0 +1,168 @@
+{
+  "profileAlternative": {
+    "name": "Christopher Biscardi",
+    "headline": "Independent Consultant for Startups",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQEoqLUIyRlq2g/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=2bybWP8I8FFjCKBl5kt4OuKQyc7XdJhnYXFrcU81Nzk",
+    "location": "San Francisco, California",
+    "connections": "339",
+    "summary": "I am an entrepreneurial minded full stack engineer with expertise in JavaScript (React, GraphQL, CSS-in-JS, babel, node, etc), Golang, Kubernetes, Docker, and Haskell, including having written a book on Haskell web development. My talks can be viewed at conferences such as QCon, GopherCon, React Amsterdam, and ForwardJS as well as various meetups.\n\nI consult in two main areas:\n\n* Building teams around specific initiatives (such as building a Design System team).\n* Applying modern and emerging technologies (GraphQL, CSS-in-JS, K8s/Containerization, JAMStack/GatsbyJS, React) using mainly Golang and JavaScript."
+  },
+  "aboutAlternative": {
+    "text": "I am an entrepreneurial minded full stack engineer with expertise in JavaScript (React, GraphQL, CSS-in-JS, babel, node, etc), Golang, Kubernetes, Docker, and Haskell, including having written a book on Haskell web development. My talks can be viewed at conferences such as QCon, GopherCon, React Amsterdam, and ForwardJS as well as various meetups.\n\nI consult in two main areas:\n\n* Building teams around specific initiatives (such as building a Design System team).\n* Applying modern and emerging technologies (GraphQL, CSS-in-JS, K8s/Containerization, JAMStack/GatsbyJS, React) using mainly Golang and JavaScript."
+  },
+  "positions": [
+    {
+      "title": "Independent Product Engineer",
+      "companyName": "Self-Employed",
+      "location": "San Francisco Bay Area",
+      "description": "* Built the Gatsby Themes implementation including core Composition and Shadowing APIs, as well as the MDX integration. Drove advances in the project related to both projects outside of the core feature work.\n* Work with startups to build initial and early stage products (series A and earlier)\n* Guide implementation of emerging technologies such as CSS-in-JS (Emotion) and GraphQL\n* Evaluate current codebases to create a plan to build design systems and the teams that support them.\n* Build backend services and multi-platform UI\n* Onboard and train engineers to work with a variety of technologies\n\nClients include Gatsby, Slice.Capital, and other startups (stealth and launched).\n\nWork included React, React Native, GraphQL, CSS-in-JS, Emotion, JavaScript, Golang, Docker, Kubernetes\n…\nsee more",
+      "date1": "Jul 2017 – Present",
+      "date2": "2 yrs 5 mos"
+    },
+    {
+      "title": "Design Systems and UI Platform",
+      "companyName": "Dropbox",
+      "location": "San Francisco Bay Area",
+      "description": "Built the Design Systems and UI Platform team\nOperated an open source model inside of Dropbox, maintaining and growing contributions from the wider Dropbox product teams\nAutomated pipelines from design software such as Sketch to production.\nAdvocated for and implemented emerging technology such as Prettier and CSS-in-JS\n…\nsee more",
+      "date1": "Nov 2016 – Jul 2017",
+      "date2": "9 mos"
+    },
+    {
+      "title": "Consultant",
+      "companyName": "Myself",
+      "location": "San Francisco Bay Area",
+      "description": "Advised startups in the Bay Area on matters related to React, GraphQL, Haskell, and Product Development\nApplied Flow, React, and Haskell in an Electron context for a team-based database interaction tool.\nWrote a Docker based build system in Haskell applied to a monorepo context\nTrained engineers to be productive in React + Ecosystem\nEnabled the development of a GraphQL endpoint for V2 of a B2B API\n…\nsee more",
+      "date1": "Feb 2016 – Nov 2016",
+      "date2": "10 mos"
+    },
+    {
+      "title": "Senior Front End Engineer",
+      "companyName": "Docker, Inc",
+      "location": "SF, CA",
+      "description": "Architect and Build Docker Hub 2.0\nHire and Train UI Engineers\nDevelop a unified approach to UI across all products",
+      "date1": "Jul 2014 – Jan 2016",
+      "date2": "1 yr 7 mos"
+    },
+    {
+      "title": "Director of Technology",
+      "companyName": "Avant Digital Group",
+      "description": "Develop webapps, desktop and mobile applications, and servers.\nManage the development and deployment using: Haskell, Riak, Clojure, node.js, html5 mobile, Backbone, Angularjs, MongoDB, ElasticSearch, and Arduino.",
+      "date1": "Jun 2011 – Jul 2014",
+      "date2": "3 yrs 2 mos"
+    },
+    {
+      "title": "Website Architect",
+      "companyName": "Sketcht Design",
+      "description": "· Oversee company direction, finances, marketing strategy\n· Conceptualize design and website interactivity\n· Program websites and applications\n· Interface with clients\n· Maintain Social Network including: Blog, Twitter, and Facebook pages\n\nUse of:\nPhotoshop, Illustrator, InDesign, Flash, Fireworks Dreamweaver, Eclipse, Flash Builder, MySql, PHP, Actionscript 3, Blender\nTo:\nCreate interactive dynamic websites and stand out business identities.\n…\nsee more",
+      "date1": "Jan 2009 – Jul 2011",
+      "date2": "2 yrs 7 mos"
+    },
+    {
+      "title": "Division 1 Athlete",
+      "companyName": "Lewis University Mens Volleyball",
+      "description": "As an athlete playing for Lewis University's Men's Volleyball I am required to put in multiple hours daily working on various subjects. These include physical attributes and mental acuity.\n\nBeing a Division 1 Athlete requires one to juggle multiple activities on a day to day, week to week, and month to month basis. These activities include, but are not limited to, Work, School, and Athletic commitments.\n…\nsee more",
+      "date1": "Sep 2008 – Jan 2011",
+      "date2": "2 yrs 5 mos"
+    },
+    {
+      "title": "Graphic Designer",
+      "companyName": "Lewis University",
+      "description": "Performed design work for the summer that required use of Adobe Indesign, Photoshop, Illustrator, and Flash, versions CS4 and CS5.\nPosition required working with a team of designers in an office setting.",
+      "date1": "Jun 2010 – Aug 2010",
+      "date2": "3 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Full Sail University",
+      "degree": "Web Design and Development",
+      "fieldofstudy": "UX, HTML, CSS, JavaScript, Shell, Networks Actionscript",
+      "date1": "2011",
+      "date2": "2012"
+    },
+    {
+      "title": "Lewis University",
+      "degree": "Computer Graphic Design",
+      "fieldofstudy": "Graphic Design",
+      "date1": "2008",
+      "date2": "2011"
+    }
+  ],
+  "skills": [
+    {
+      "title": "JavaScript",
+      "count": "13"
+    },
+    {
+      "title": "Web Development",
+      "count": "9"
+    },
+    {
+      "title": "HTML",
+      "count": "6"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "1",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/kencochrane/",
+        "text": "I had the pleasure of hiring and managing Chris while working at Docker. Before we hired Chris we didn't really have a front end developer, and what we had was a mess. Chris was able to come in and help us completely change what we had so that it was a more modern stack, and it is still the basis for what is getting used today. He helped me hire other front end developers to build out our front end team, and lead in the creation of a common frontend toolset and framework which is still used today. Since I wasn't a front end developer, and I didn't stay up to date on all the day to day advances, I was able to count on Chris to keep me informed on what was going on, and to make sure we were not doing something wrong. I really liked working with Chris, and I hope I get a chance to work with him again in the future.\n…\nSee more"
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/emjburns/",
+      "text": "Senior Software Engineer at Netflix"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jorgeo/",
+      "text": "Engineering Manager at Stripe"
+    },
+    {
+      "user": "https://www.linkedin.com/in/lilybguo/",
+      "text": "Software Engineer at NurseFly"
+    },
+    {
+      "user": "https://www.linkedin.com/in/marius-repede-699645148/",
+      "text": "Full-stack Javascript Developer(Reactjs / Gatsby.js / Angular / Vue.js) looking for a remote position"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kaiyuhsu/",
+      "text": "I type things to make programs go"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jobelenus/",
+      "text": "Senior Fullstack Engineer at Owl Labs"
+    },
+    {
+      "user": "https://www.linkedin.com/in/coolaj86/",
+      "text": "Tech Lead, Visionary, Rule-Breaker. UX, Security, Go, Node (VanillaJS), Rust"
+    },
+    {
+      "user": "https://www.linkedin.com/in/pedronajeraolvera/",
+      "text": "Software Developer Engineering at Amazon"
+    },
+    {
+      "user": "https://www.linkedin.com/in/charity-majors/",
+      "text": "CTO, honeycomb"
+    },
+    {
+      "user": "https://www.linkedin.com/in/deitre-collins-parker-9a739b92/",
+      "text": "Head Volleyball Coach at San Diego State University"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Christopher Biscardi",
+    "headline": "Independent Consultant for Startups",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQEoqLUIyRlq2g/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=2bybWP8I8FFjCKBl5kt4OuKQyc7XdJhnYXFrcU81Nzk",
+    "location": "San Francisco, California",
+    "connections": "339",
+    "summary": "I am an entrepreneurial minded full stack engineer with expertise in JavaScript (React, GraphQL, CSS-in-JS, babel, node, etc), Golang, Kubernetes, Docker, and Haskell, including having written a book on Haskell web development. My talks can be viewed at conferences such as QCon, GopherCon, React Amsterdam, and ForwardJS as well as various meetups.\n\nI consult in two main areas:\n\n* Building teams around specific initiatives (such as building a Design System team).\n* Applying modern and emerging technologies (GraphQL, CSS-in-JS, K8s/Containerization, JAMStack/GatsbyJS, React) using mainly Golang and JavaScript."
+  }
+}

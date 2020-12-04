@@ -1,0 +1,184 @@
+{
+  "profileAlternative": {
+    "name": "Quang Bui",
+    "headline": "System Admin and SQL DBA at Monterpoint Technologies",
+    "location": "London, Greater London, United Kingdom",
+    "connections": "54"
+  },
+  "aboutAlternative": {},
+  "positions": [
+    {
+      "title": "System Admin and SQL DBA",
+      "companyName": "Monterpoint Technologies",
+      "date1": "Dec 2004 – Present",
+      "date2": "15 yrs"
+    },
+    {
+      "title": "System Admin",
+      "companyName": "pogo technology Ltd",
+      "date1": "Oct 2003 – Nov 2004",
+      "date2": "1 yr 2 mos"
+    },
+    {
+      "title": "Technical Lead",
+      "companyName": "Razorfish",
+      "date1": "Jul 1998 – Sep 2003",
+      "date2": "5 yrs 3 mos"
+    }
+  ],
+  "educations": [],
+  "skills": [
+    {
+      "title": "Microsoft SQL Server",
+      "count": "6"
+    },
+    {
+      "title": "T-SQL",
+      "count": "6"
+    },
+    {
+      "title": "SSRS",
+      "count": "4"
+    },
+    {
+      "title": "Database Design",
+      "count": "2"
+    },
+    {
+      "title": "Database Administration",
+      "count": "2"
+    },
+    {
+      "title": "IIS",
+      "count": "3"
+    },
+    {
+      "title": "SQL",
+      "count": "3"
+    },
+    {
+      "title": "ASP.NET",
+      "count": "2"
+    },
+    {
+      "title": "SSIS",
+      "count": "2"
+    },
+    {
+      "title": "VB.NET",
+      "count": "2"
+    },
+    {
+      "title": "Databases",
+      "count": "2"
+    },
+    {
+      "title": "HTML",
+      "count": "2"
+    },
+    {
+      "title": ".NET",
+      "count": "1"
+    },
+    {
+      "title": "Crystal Reports",
+      "count": "1"
+    },
+    {
+      "title": "VBScript",
+      "count": "1"
+    },
+    {
+      "title": "ASP",
+      "count": "1"
+    },
+    {
+      "title": "MySQL",
+      "count": "1"
+    },
+    {
+      "title": "Windows Server",
+      "count": "1"
+    },
+    {
+      "title": "XML",
+      "count": "1"
+    },
+    {
+      "title": "Powershell"
+    },
+    {
+      "title": "Active Directory"
+    },
+    {
+      "title": "Hyper-V"
+    },
+    {
+      "title": "Stored Procedures",
+      "count": "1"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "1",
+      "items": [
+        "Vietnamese"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/lee-spowart-69210837/",
+      "text": "Head of Technology - Constantly improving services in all areas of Database Technology both on-premises and Cloud."
+    },
+    {
+      "user": "https://www.linkedin.com/in/hanno-gregory-0914b153/",
+      "text": "Head of IT and UC Services"
+    },
+    {
+      "user": "https://www.linkedin.com/in/andy-pontin-4701311b/",
+      "text": "Director at Monterpoint Technologies"
+    },
+    {
+      "user": "https://www.linkedin.com/in/duy-bui-ba2663159/",
+      "text": "DB Administrator"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jayanthan-s/",
+      "text": "Network Engineer at Heathrow Airport at SITA"
+    },
+    {
+      "user": "https://www.linkedin.com/in/john-dryden-4591324b/",
+      "text": "Technical Design Authority at IT Lab"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jim-cozens-3ba27a/",
+      "text": "Director Of Product Engineering at LIMITLESS technology Ltd"
+    },
+    {
+      "user": "https://www.linkedin.com/in/han-hai-bui-b11349bb/",
+      "text": "Programming Supervisor at CGG"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tony-bowes-517aab3/",
+      "text": "Network Administrator at Abbott Mead Vickers BBDO"
+    },
+    {
+      "user": "https://www.linkedin.com/in/andrew-naismith-495817b5/",
+      "text": "MIS Consultant at FEA (UK)"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Quang Bui",
+    "headline": "System Admin and SQL DBA at Monterpoint Technologies",
+    "location": "London, Greater London, United Kingdom",
+    "connections": "54"
+  }
+}

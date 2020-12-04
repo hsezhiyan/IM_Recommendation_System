@@ -1,0 +1,287 @@
+{
+  "profileAlternative": {
+    "name": "Reuben Roth",
+    "headline": "Team Builder",
+    "imageurl": "https://media.licdn.com/dms/image/C5103AQHD2URcFJK6kA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=3Vte1ZqgFOzjaHv5jMUTs_c6iipFAXOPltoKJzbBir4",
+    "location": "New York, New York",
+    "connections": "500+",
+    "summary": "Zenture.io\nhttps://medium.com/@reubenroth"
+  },
+  "aboutAlternative": {
+    "text": "Zenture.io\nhttps://medium.com/@reubenroth"
+  },
+  "positions": [
+    {
+      "title": "Partner",
+      "companyName": "Zenture.io",
+      "location": "Greater New York City Area",
+      "date1": "Oct 2018 – Present",
+      "date2": "1 yr 2 mos"
+    },
+    {
+      "title": "Technical Recruiter",
+      "companyName": "Peloton Interactive",
+      "location": "Greater New York City Area",
+      "date1": "Apr 2019 – Present",
+      "date2": "8 mos"
+    },
+    {
+      "title": "Technical Recruiting Consultant",
+      "companyName": "MongoDB",
+      "location": "Greater New York City Area",
+      "date1": "Oct 2018 – Apr 2019",
+      "date2": "7 mos"
+    },
+    {
+      "title": "Senior Technical Recruitment Consultant",
+      "companyName": "Anvyl",
+      "location": "Greater New York City Area",
+      "date1": "Sep 2018 – Oct 2018",
+      "date2": "2 mos"
+    },
+    {
+      "title": "Senior Technical Recruitment Consultant",
+      "companyName": "Dia&Co",
+      "location": "Greater New York City Area",
+      "date1": "Jun 2018 – Oct 2018",
+      "date2": "5 mos"
+    },
+    {
+      "title": "Senior Embedded Recruiter",
+      "companyName": "SingleSprout",
+      "location": "Greater New York City Area",
+      "description": "Beme 1/18 - 2/18\nRubicondMD 1/18 - 3/18\nWeWork 2/18 - 6/18\nHonest Buildings 5/18 - 6/18\nDia&Co 6/18 - 10/18\nAnvyl 8/18 - 10/18\n\n…\nsee more",
+      "date1": "Oct 2017 – Oct 2018",
+      "date2": "1 yr 1 mo"
+    },
+    {
+      "title": "Senior Technical Recruitment Consultant",
+      "companyName": "Honest Buildings",
+      "location": "Greater New York City Area",
+      "date1": "May 2018 – Jun 2018",
+      "date2": "2 mos"
+    },
+    {
+      "title": "Senior Technical Recruitment Consultant",
+      "companyName": "WeWork",
+      "location": "Greater New York City Area",
+      "date1": "Feb 2018 – Jun 2018",
+      "date2": "5 mos"
+    },
+    {
+      "title": "Senior Technical Recruitment Consultant",
+      "companyName": "RubiconMD",
+      "location": "Greater New York City Area",
+      "date1": "Dec 2017 – Feb 2018",
+      "date2": "3 mos"
+    },
+    {
+      "title": "Senior Technical Recruitment Consultant",
+      "companyName": "Beme",
+      "date1": "Dec 2017 – Feb 2018",
+      "date2": "3 mos"
+    },
+    {
+      "title": "Account Executive",
+      "companyName": "Twiage",
+      "location": "Greater New York City Area",
+      "description": "Twiage is pre-hospital communication platform that streamlines workflows and accelerates life-saving care for EMS and hospital teams. Twiage tracks every incoming patient and is able to send pre-hospital EKGs, videos, and photos while decreasing EMS turnaround time.",
+      "date1": "2017",
+      "date2": "less than a year"
+    },
+    {
+      "title": "Direct Energy",
+      "location": "Houston, Texas Area",
+      "date1": "2016 – 2017",
+      "date2": "1 yr",
+      "roles": [
+        {
+          "title": "Financial Analysis",
+          "date1": "2016 – 2017",
+          "date2": "1 yr",
+          "location": "Houston, Texas Area"
+        },
+        {
+          "title": "Operations",
+          "date1": "2015 – 2016",
+          "date2": "1 yr",
+          "location": "Tulsa, Oklahoma Area"
+        }
+      ]
+    },
+    {
+      "title": "Title\nFinancial Analysis",
+      "location": "Houston, Texas Area",
+      "date1": "2016 – 2017",
+      "date2": "1 yr",
+      "roles": [
+        {
+          "title": "Financial Analysis",
+          "date1": "2016 – 2017",
+          "date2": "1 yr",
+          "location": "Houston, Texas Area"
+        }
+      ]
+    },
+    {
+      "title": "Title\nOperations",
+      "location": "Tulsa, Oklahoma Area",
+      "date1": "2015 – 2016",
+      "date2": "1 yr",
+      "roles": [
+        {
+          "title": "Operations",
+          "date1": "2015 – 2016",
+          "date2": "1 yr",
+          "location": "Tulsa, Oklahoma Area"
+        }
+      ]
+    }
+  ],
+  "educations": [
+    {
+      "title": "University of Oklahoma",
+      "degree": "Bachelor’s Degree",
+      "fieldofstudy": "Finance"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Tech Recruitment",
+      "count": "30"
+    },
+    {
+      "title": "Customer Service",
+      "count": "27"
+    },
+    {
+      "title": "Sourcing",
+      "count": "23"
+    },
+    {
+      "title": "Sales",
+      "count": "26"
+    },
+    {
+      "title": "Research",
+      "count": "20"
+    },
+    {
+      "title": "Strategic Planning",
+      "count": "20"
+    },
+    {
+      "title": "Microsoft Excel",
+      "count": "18"
+    },
+    {
+      "title": "Salesforce.com",
+      "count": "16"
+    },
+    {
+      "title": "cold calling",
+      "count": "22"
+    },
+    {
+      "title": "Management",
+      "count": "18"
+    },
+    {
+      "title": "Leadership",
+      "count": "17"
+    },
+    {
+      "title": "Time Management",
+      "count": "18"
+    },
+    {
+      "title": "Lead Generation",
+      "count": "15"
+    },
+    {
+      "title": "Early-stage Startups",
+      "count": "12"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "2",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/shashankkatlaparthi/",
+        "text": "Having worked with many recruiters from top companies from initial stages to offer stage, I would most definitely rate Reuben among the very best in the industry. Reuben was extremely efficient and communicative at all times with a seriously impressive work ethic. He is one of those few recruiters who could properly gauge/map Techincal expertise of the candidates with the company's position(s).\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/tarushaggarwal/",
+        "text": "Despite being at WeWork for only a brief time Reuben was one of, if not the most sought after recruiter in the technology team at WeWork. On top of his rock solid work ethic (first In, last out) he is able to balance both sides of the recruiting equation (if you have worked with recruiters you know how rare this is). On the candidate side - Reuben is able to connect with them personally, understand their situation and be a strong advocate for fit, role and comp. this in term decreases churn and promotes a healthy work culture. On the hiring manager side - Reuben can effortlessly distill the correct requirements for complex roles, minimizing time wasted in resume review. He is able to adapt to the different processes of each hiring manager and pro actively suggest next steps in both the interview and offer steps of the process. This is a dream for hiring managers. We were devastated to see Reuben’s contract end. So much so that the VP of the entire group sent out a memo saying that he is the best recruiter she has ever worked with. If you have any questions on Reuben please feel free to contract me directly. You might have just hit the jackpot.\n…\nSee more"
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/alliekagelexecrecruiter/",
+      "text": "Director, Sales Talent Acquisition"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sylvia-bier-a687837/",
+      "text": "Technical Recruiter - Technology Talent"
+    },
+    {
+      "user": "https://www.linkedin.com/in/johnpfoley/",
+      "text": "Founder and CEO of Peloton"
+    },
+    {
+      "user": "https://www.linkedin.com/in/elyssamfeliciano/",
+      "text": "Recruiter at Peloton Group"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sheashepard/",
+      "text": "Talent Acquisition Professional"
+    },
+    {
+      "user": "https://www.linkedin.com/in/aemckinley/",
+      "text": "Hiring @ Grailed - come join us!"
+    },
+    {
+      "user": "https://www.linkedin.com/in/johnnywahba/",
+      "text": "Founder of Amethyst Capital"
+    },
+    {
+      "user": "https://www.linkedin.com/in/christopherstringfellow/",
+      "text": "Recruiter @ Peloton Creative / Content / Corporate | 11 k+ Connections | Startup Recruitment | Resume Writing"
+    },
+    {
+      "user": "https://www.linkedin.com/in/justinedilworth/",
+      "text": "Senior Technical Recruiter at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/steph-vaye-2410b64a/",
+      "text": "Recruitment at Peloton Interactive"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Leader",
+      "experience": "Loveworks",
+      "description": "Children",
+      "date1": "Jan 2015 – Dec 2015",
+      "date2": "12 mos"
+    },
+    {
+      "title": "Volunteer",
+      "experience": "Samaritans Suicide Prevention",
+      "date1": "Aug 2018 – Mar 2019",
+      "date2": "8 mos"
+    }
+  ],
+  "profile": {
+    "name": "Reuben Roth",
+    "headline": "Team Builder",
+    "imageurl": "https://media.licdn.com/dms/image/C5103AQHD2URcFJK6kA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=3Vte1ZqgFOzjaHv5jMUTs_c6iipFAXOPltoKJzbBir4",
+    "location": "New York, New York",
+    "connections": "500+",
+    "summary": "Zenture.io\nhttps://medium.com/@reubenroth"
+  }
+}

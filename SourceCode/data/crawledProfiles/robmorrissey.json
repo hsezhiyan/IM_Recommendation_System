@@ -1,0 +1,346 @@
+{
+  "profileAlternative": {
+    "name": "Rob Morrissey",
+    "headline": "JavaScript Developer",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQFJv9Deq_hwUg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=7e--Gwu73ecEHn7ucIDNNS7lGrLEMy14q1-srl1-09I",
+    "location": "London, Greater London, United Kingdom",
+    "connections": "500+",
+    "summary": "Programmer. JavaScript Developer. CSS veteran. From Adobe AEM to Node, React and Vue.\n\nSome of the companies I have worked with include AKQA, LBi, R/GA, Razorfish, Karmarama, Imagination, Ford, Beats By Dre, Audi, Unilever, BT, Coke, Marks & Spencer, Volkswagen, Orange, Sky, Virgin, The Department for International Development, The Foreign Office, The Cabinet Office, The Ministry of Defence, Guys and St. Thomas' Hospital, The Times, The Times Online, The Sunday Times, BP Gas and Reuters - amongst many others!"
+  },
+  "aboutAlternative": {
+    "text": "Programmer. JavaScript Developer. CSS veteran. From Adobe AEM to Node, React and Vue.\n\nSome of the companies I have worked with include AKQA, LBi, R/GA, Razorfish, Karmarama, Imagination, Ford, Beats By Dre, Audi, Unilever, BT, Coke, Marks & Spencer, Volkswagen, Orange, Sky, Virgin, The Department for International Development, The Foreign Office, The Cabinet Office, The Ministry of Defence, Guys and St. Thomas' Hospital, The Times, The Times Online, The Sunday Times, BP Gas and Reuters - amongst many others!"
+  },
+  "positions": [
+    {
+      "title": "Senior JavaScript Developer",
+      "companyName": "Deeply",
+      "location": "London and Brighton",
+      "description": "NodeJS, React, Express, Vue, MongoDB, Material UI, Plot.ly JS.",
+      "date1": "Sep 2009 – Present",
+      "date2": "10 yrs 3 mos"
+    },
+    {
+      "title": "Freelance Senior Web Developer",
+      "companyName": "AKQA",
+      "description": "Based in BP's Canary Wharf office, part of the Product Development team, on behalf of AKQA.\n\nModular Design: Responsive Templates and Components for Adobe CQ5 / AEM.\n\nHTML5, CSS, JavaScript, LESS, Adobe CQ5 / AEM, Maven, Vagrant, VirtualBox, Git and Vault using Agile Methodologies.\n…\nsee more",
+      "date1": "Oct 2013 – Jun 2014",
+      "date2": "9 mos"
+    },
+    {
+      "title": "Freelance Senior Front End Developer",
+      "companyName": "Imagination",
+      "location": "London",
+      "description": "AnglularJS, BackboneJS, JavaScript, HTML5, CSS3, D3 and SVG with GruntJS, Bower and NodeJS For Tolv Center, Ford and Lincoln.",
+      "date1": "Sep 2013 – Oct 2013",
+      "date2": "2 mos"
+    },
+    {
+      "title": "R/GA",
+      "description": "HTML5, CSS and JavaScript on a VirtualBox, Vagrant, Puppet and Django environment that pushed to Heroku and Amazon S3 cloud hosting. Mercurial and FogBugz for versioning and bug tracking.\n\nFor Beats by Dre, both for integration with their primary website and also in the 'real world' with the Beats By Dre Times Square Takeover (New York).\n…\nsee more",
+      "date1": "Aug 2012 – Oct 2012",
+      "date2": "3 mos",
+      "roles": [
+        {
+          "title": "Freelance Senior Open Standards Developer",
+          "date1": "Aug 2012 – Oct 2012",
+          "date2": "3 mos"
+        },
+        {
+          "title": "Freelance Senior Open Standards Developer",
+          "date1": "May 2012 – Jul 2012",
+          "date2": "3 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nFreelance Senior Open Standards Developer",
+      "description": "HTML5, CSS and JavaScript on a VirtualBox, Vagrant, Puppet and Django environment that pushed to Heroku and Amazon S3 cloud hosting. Mercurial and FogBugz for versioning and bug tracking.\n\nFor Beats by Dre, both for integration with their primary website and also in the 'real world' with the Beats By Dre Times Square Takeover (New York).\n…\nsee more",
+      "date1": "Aug 2012 – Oct 2012",
+      "date2": "3 mos",
+      "roles": [
+        {
+          "title": "Freelance Senior Open Standards Developer",
+          "date1": "Aug 2012 – Oct 2012",
+          "date2": "3 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nFreelance Senior Open Standards Developer",
+      "description": "(X)HTML5, CSS, JavaScript, jQuery, Jekyll, Liquid and Ruby for Unilever.",
+      "date1": "May 2012 – Jul 2012",
+      "date2": "3 mos",
+      "roles": [
+        {
+          "title": "Freelance Senior Open Standards Developer",
+          "date1": "May 2012 – Jul 2012",
+          "date2": "3 mos"
+        }
+      ]
+    },
+    {
+      "title": "Freelance Senior RIA Developer",
+      "companyName": "Razorfish",
+      "description": "JavaScript for Audi.",
+      "date1": "Jul 2012 – Aug 2012",
+      "date2": "2 mos"
+    },
+    {
+      "title": "Freelance Senior Interface Developer",
+      "companyName": "LBi",
+      "location": "London",
+      "description": "(X)HTML5, CSS, JavaScript, RaphaelJS, jQuery, @font-face, Umbraco, RazorScript, Drupal, CodeIgniter, Facebook, Oracle, HTML5 iOS App. For BT, Coke, Diet Coke and Marks & Spencer.",
+      "date1": "Nov 2011 – Mar 2012",
+      "date2": "5 mos"
+    },
+    {
+      "title": "AKQA",
+      "description": "Google Maps API v3, JavaScript, jQuery, jQuery UI, HTML, CSS, Microformats, W3C Geolocation and @font-face on a Java, Spring, Velocity, Tomcat, SVN, Hudson and EC2 dev/production stack. For Volkswagen.",
+      "date1": "Jun 2010 – Jun 2011",
+      "date2": "1 yr 1 mo",
+      "roles": [
+        {
+          "title": "Freelance Senior Web Developer",
+          "date1": "Jun 2010 – Jun 2011",
+          "date2": "1 yr 1 mo"
+        },
+        {
+          "title": "Freelance Senior Web Developer",
+          "date1": "Jun 2010",
+          "date2": "1 mo"
+        }
+      ]
+    },
+    {
+      "title": "Title\nFreelance Senior Web Developer",
+      "description": "Google Maps API v3, JavaScript, jQuery, jQuery UI, HTML, CSS, Microformats, W3C Geolocation and @font-face on a Java, Spring, Velocity, Tomcat, SVN, Hudson and EC2 dev/production stack. For Volkswagen.",
+      "date1": "Jun 2010 – Jun 2011",
+      "date2": "1 yr 1 mo",
+      "roles": [
+        {
+          "title": "Freelance Senior Web Developer",
+          "date1": "Jun 2010 – Jun 2011",
+          "date2": "1 yr 1 mo"
+        }
+      ]
+    },
+    {
+      "title": "Title\nFreelance Senior Web Developer",
+      "description": "HTML, CSS and JavaScript for Sky and Orange.",
+      "date1": "Jun 2010",
+      "date2": "1 mo",
+      "roles": [
+        {
+          "title": "Freelance Senior Web Developer",
+          "date1": "Jun 2010",
+          "date2": "1 mo"
+        }
+      ]
+    },
+    {
+      "title": "Karmarama",
+      "description": "XHTML, CSS, JavaScript, PHP 5 (OO) and MySQL, CodeIgniter, jQuery and ActiveRecord for Karmarama.",
+      "date1": "Oct 2009 – Mar 2010",
+      "date2": "6 mos",
+      "roles": [
+        {
+          "title": "Freelance Senior Technical Consultant",
+          "date1": "Oct 2009 – Mar 2010",
+          "date2": "6 mos"
+        },
+        {
+          "title": "Freelance Senior Technical Consultant",
+          "date1": "Aug 2009 – Sep 2009",
+          "date2": "2 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nFreelance Senior Technical Consultant",
+      "description": "XHTML, CSS, JavaScript, PHP 5 (OO) and MySQL, CodeIgniter, jQuery and ActiveRecord for Karmarama.",
+      "date1": "Oct 2009 – Mar 2010",
+      "date2": "6 mos",
+      "roles": [
+        {
+          "title": "Freelance Senior Technical Consultant",
+          "date1": "Oct 2009 – Mar 2010",
+          "date2": "6 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nFreelance Senior Technical Consultant",
+      "description": "XHTML, CSS, JavaScript, PHP 5 (OO) and MySQL, CodeIgniter, jQuery and ActiveRecord for Karmarama.",
+      "date1": "Aug 2009 – Sep 2009",
+      "date2": "2 mos",
+      "roles": [
+        {
+          "title": "Freelance Senior Technical Consultant",
+          "date1": "Aug 2009 – Sep 2009",
+          "date2": "2 mos"
+        }
+      ]
+    },
+    {
+      "title": "Freelance JavaScript Developer",
+      "companyName": "Yard Studio",
+      "location": "Dublin, Ireland",
+      "description": "JavaScript, JSON, HTML and CSS for dotMobi.",
+      "date1": "Feb 2010",
+      "date2": "1 mo"
+    },
+    {
+      "title": "Freelance Senior Technical Consultant",
+      "companyName": "Kineo Open Source",
+      "date1": "Sep 2009 – Oct 2009",
+      "date2": "2 mos"
+    },
+    {
+      "title": "de-construct",
+      "description": "HTML, CSS & JQuery, PHP 5 (OO), MySQL, XML, RSS, CodeIgniter, EPiServer, phpBB3 and Twitter API for V Festival, Chivas and SCA Baby.",
+      "date1": "Aug 2009",
+      "date2": "1 mo",
+      "roles": [
+        {
+          "title": "Freelance Senior Interface Developer",
+          "date1": "Aug 2009",
+          "date2": "1 mo"
+        },
+        {
+          "title": "Freelance Senior Interface Developer",
+          "date1": "Jun 2009 – Jul 2009",
+          "date2": "2 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nFreelance Senior Interface Developer",
+      "description": "HTML, CSS & JQuery, PHP 5 (OO), MySQL, XML, RSS, CodeIgniter, EPiServer, phpBB3 and Twitter API for V Festival, Chivas and SCA Baby.",
+      "date1": "Aug 2009",
+      "date2": "1 mo",
+      "roles": [
+        {
+          "title": "Freelance Senior Interface Developer",
+          "date1": "Aug 2009",
+          "date2": "1 mo"
+        }
+      ]
+    },
+    {
+      "title": "Title\nFreelance Senior Interface Developer",
+      "description": "HTML, CSS & JQuery, PHP 5 (OO), MySQL, XML, RSS, CodeIgniter, EPiServer, phpBB3 and Twitter API for V Festival, Chivas and SCA Baby.",
+      "date1": "Jun 2009 – Jul 2009",
+      "date2": "2 mos",
+      "roles": [
+        {
+          "title": "Freelance Senior Interface Developer",
+          "date1": "Jun 2009 – Jul 2009",
+          "date2": "2 mos"
+        }
+      ]
+    },
+    {
+      "title": "Freelance Senior Interface Developer",
+      "companyName": "Purkiss Ltd.",
+      "description": "HTML, CSS, JS, JQuery, sIFR and Drupal CMS for HolyMoly.com",
+      "date1": "Apr 2009 – May 2009",
+      "date2": "2 mos"
+    },
+    {
+      "title": "Freelance PHP & XSLT Developer",
+      "companyName": "Airlock",
+      "description": "XML, XSL, XPath, PHP 5 (OO), MySQL and Symphony CMS for Virgin Media Shorts.",
+      "date1": "Mar 2009 – Apr 2009",
+      "date2": "2 mos"
+    },
+    {
+      "title": "Interface Developer & Software Developer",
+      "companyName": "Deeplysimple",
+      "date1": "Jan 2009 – Mar 2009",
+      "date2": "3 mos"
+    },
+    {
+      "title": "Interface Developer",
+      "companyName": "Designate",
+      "description": "XHTML, CSS, JavaScript, JQuery, JQuery UI, Google Maps, Google Earth, Virtual Earth, MapCruncher, XML, XSL, XPath, PHP, C#, .Net MVC, MySQL and MSSQL, Wordpress, Umbraco and .Net MVC for Octopus Travel, P&O Ferries, Provident Financial, Foviance, Sapient, Visit Wales, Travelbound, Wightlink, South West Wales Tourism Partnership, LV= Insurance.",
+      "date1": "Oct 2007 – Dec 2008",
+      "date2": "1 yr 3 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "University of Sussex",
+      "degree": "BSc (Hons)",
+      "fieldofstudy": "Computer Science and Artificial Intelligence",
+      "date1": "2003",
+      "date2": "2006"
+    }
+  ],
+  "skills": [
+    {
+      "title": "jQuery",
+      "count": "60"
+    },
+    {
+      "title": "JavaScript",
+      "count": "52"
+    },
+    {
+      "title": "HTML 5",
+      "count": "42"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "1",
+    "receivedCount": "5",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/sarahjarrett/",
+        "text": "Rob is hand's down one of the most phenomenal freelance Interface Developers that I've ever had the pleasure to work with. From the very first minute he arrived to LBi he was engaged in the project adding value, acute problem solving skills and all around buzzing productivity. Rob goes above and beyond his role and should be looked to as the benchmark of what all freelance Interface Developers should strive to be. If I had pom poms I would shake them. He's truly one of a kind and I have absolutely no qualms about reccomending him... however be warned, I'm still trying to figure out how to get him on all of my projects so you can't have him just yet!\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/dandelord/",
+        "text": "Even on a short contract Rob's contribution was described as awesome by the client. I've known Rob since he was first thinking about entering the contract market, but this is the first time I've had the pleasure of working with him on a project. In this time I have seen his skill set grow even further; he is a true open standards developer who can work on full build projects right through from heavy javascript interfaces to complex php back ends. I've also been amazed at how many other super talented people he knows. This is in no small part down to his supremely approachable and affable nature; he is never too busy to take the time to talk knowledgeably about anything development or industry-related. Highly recommended and a great guy.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/richterry87/",
+        "text": "Although only with us for a short period of time due to project requirements, I was very impressed with Rob's contribution to our team and his input to our projects was invaluable. Rob is very proactive and will seek thorough, well reasoned solutions to any challenge. Rob familiarised himself with our processes very easily, which is essential given the narrow timings in our projects. He also proved himself willing to go beyond the call of duty on a daily basis, in terms of both responsibilities and hours, and was a joy to work with. I'd love to work with Rob again as he is a very reliable and conscientious developer, as well as a very pleasant character to deal with.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/andydennis/",
+        "text": "Rob worked for me as an Interface Developer creating XHTML, CSS, and JavaScript interfaces based on web standards, progresive enhancement and unobtrusive DOM scripting. He is fun and upbeat, yet professional. His broad knowledge of software development and experience of working with Designers, Systems Developers, Producers and members of the Account team gives him the ability to look at solutions from a number of different angles and altitudes. Rob is passionate, intelligent, considerate, and hard-working. I would have no hesitation in working with Rob again.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/jasontill/",
+        "text": "Rob's a lateral and strategic thinker who's passionate about looking for solutions that do more than just fix the obvious. He's also resolutely inclined to strive for putting the best in, and getting the best out of every project - large or small."
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/andydennis/",
+        "text": "Andy has a passion for experience design, interface design and front-end development. He consistently delivers work of the highest standard, no matter how much pressured the project and environment.\r\n\r\nHe is strong promoter of good usability and accessibility. He provides excellent mentorship to team members of various disciplines, ensuring that the final product is always as good as it can possibly be. \r\n\r\nIf you want fast and efficient, rock solid, accessible, cross browser code that you wont need to rewrite every six months, then I’d get in contact with Andy."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "4",
+      "items": [
+        "Beats By Dre - Show Your Color",
+        "VW - Dealer Contact Center",
+        "Department for International Development - Joint Stabilisation Planning Framework",
+        "Reuters - Juno"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Rob Morrissey",
+    "headline": "JavaScript Developer",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQFJv9Deq_hwUg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=7e--Gwu73ecEHn7ucIDNNS7lGrLEMy14q1-srl1-09I",
+    "location": "London, Greater London, United Kingdom",
+    "connections": "500+",
+    "summary": "Programmer. JavaScript Developer. CSS veteran. From Adobe AEM to Node, React and Vue.\n\nSome of the companies I have worked with include AKQA, LBi, R/GA, Razorfish, Karmarama, Imagination, Ford, Beats By Dre, Audi, Unilever, BT, Coke, Marks & Spencer, Volkswagen, Orange, Sky, Virgin, The Department for International Development, The Foreign Office, The Cabinet Office, The Ministry of Defence, Guys and St. Thomas' Hospital, The Times, The Times Online, The Sunday Times, BP Gas and Reuters - amongst many others!"
+  }
+}

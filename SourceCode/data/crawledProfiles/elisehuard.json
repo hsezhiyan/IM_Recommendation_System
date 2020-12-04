@@ -1,0 +1,251 @@
+{
+  "profileAlternative": {
+    "name": "Elise Huard",
+    "headline": "Senior Development Engineer at IMDb.com",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQFvATLWq31y4Q/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=4WuLa5_8PkKn95CmdRiafDB9CWeG0D2ZzQnf06VtKms",
+    "location": "Bath, United Kingdom",
+    "connections": "500+",
+    "summary": "Machine learning engineer/Data engineer, team lead, coaching, author, speaker.\n\nData science: data processing, statistics, feature engineering, deep learning, ML, NLP\nData Engineering: Kafka, Cassandra, Elasticsearch, Spark\nExperience with python, Clojure and Haskell (polyglot). full-stack, including setting up AWS infrastructure (using terraform).\n\nBig fan of keeping things as simple as possible.\nAlso great coffee, running, science, science fiction."
+  },
+  "aboutAlternative": {
+    "text": "Machine learning engineer/Data engineer, team lead, coaching, author, speaker.\n\nData science: data processing, statistics, feature engineering, deep learning, ML, NLP\nData Engineering: Kafka, Cassandra, Elasticsearch, Spark\nExperience with python, Clojure and Haskell (polyglot). full-stack, including setting up AWS infrastructure (using terraform).\n\nBig fan of keeping things as simple as possible.\nAlso great coffee, running, science, science fiction."
+  },
+  "positions": [
+    {
+      "title": "Senior Development Engineer",
+      "companyName": "IMDb.com",
+      "location": "Bristol, United Kingdom",
+      "date1": "Oct 2018 – Present",
+      "date2": "1 yr 2 mos"
+    },
+    {
+      "title": "Data Science Lead",
+      "companyName": "Mastodon C",
+      "location": "London, United Kingdom",
+      "description": "Our team delivers insights and predictive models to help local authorities offer more optimized services. We also provide more general data consultancy. We combine software best practices, agile methodology, statistical knowledge and machine learning techniques to help companies get good value out of the information hidden in their data.\nI and my team take projects from their inception (sales conversations, estimates, discovery) to\ntheir conclusion (deliverables, deployment).\n(including data engineering: AWS infrastructure, Kafka, Cassandra ...)\n…\nsee more",
+      "date1": "Jun 2015 – Aug 2018",
+      "date2": "3 yrs 3 mos"
+    },
+    {
+      "title": "Software Consultant",
+      "companyName": "self-employed",
+      "location": "Berlin Area, Germany",
+      "description": "Remote analysis and development for several customers all over the world.",
+      "date1": "Apr 2013 – Jun 2015",
+      "date2": "2 yrs 3 mos"
+    },
+    {
+      "title": "Haskell consultant",
+      "companyName": "Prezi",
+      "date1": "2014",
+      "date2": "less than a year"
+    },
+    {
+      "title": "Senior Developer",
+      "companyName": "Forward Internet Group",
+      "description": "Worked as a senior dev in several parts of the business:\n- for USwitch: I led the development of the car insurance comparison website\n- in the startup incubator, Forward Labs, helping founders get their ideas to market",
+      "date1": "Jun 2011 – Nov 2012",
+      "date2": "1 yr 6 mos"
+    },
+    {
+      "title": "Owner",
+      "companyName": "Jabberwocky",
+      "location": "Brussels Area, Belgium",
+      "description": "Software consultancy, in a variety of challenging and interesting projects:\n- with VRT Medialab, developing a real-time system for a second screen application, leading to the spin-off http://www.smalltownheroes.be/\n- with IBBT-SMIT: using RFID chips with a web application for a proof of concept\n- with Vasco Data Security: developing an Authentication As A Service platform\n…\nsee more",
+      "date1": "Jun 2008 – Jun 2011",
+      "date2": "3 yrs 1 mo"
+    },
+    {
+      "title": "Core Team Member",
+      "companyName": "FOSDEM",
+      "date1": "Sep 2008 – Apr 2011",
+      "date2": "2 yrs 8 mos"
+    },
+    {
+      "title": "Senior Consultant",
+      "companyName": "Computer Science Corporation",
+      "date1": "Aug 2006 – Mar 2008",
+      "date2": "1 yr 8 mos"
+    },
+    {
+      "title": "Project Leader",
+      "companyName": "Callataÿ&Wouters",
+      "date1": "Oct 1999 – Aug 2006",
+      "date2": "6 yrs 11 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "KU Leuven",
+      "degree": "Master",
+      "fieldofstudy": "Artificial Intelligence",
+      "date1": "2005",
+      "date2": "2006"
+    },
+    {
+      "title": "Université Catholique de Louvain",
+      "degree": "DEC",
+      "fieldofstudy": "Management",
+      "date1": "1998",
+      "date2": "1999"
+    },
+    {
+      "title": "KU Leuven",
+      "degree": "Master",
+      "fieldofstudy": "Materials Engineering",
+      "date1": "1993",
+      "date2": "1998"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Ruby on Rails",
+      "count": "39"
+    },
+    {
+      "title": "JavaScript",
+      "count": "20"
+    },
+    {
+      "title": "Ruby",
+      "count": "17"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "11",
+    "receivedCount": "12",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/francine-bennett-a4a852/",
+        "text": "Elise has worked directly for me at Mastodon C as our data science lead. She's got a great combination of broad, pragmatic engineering knowledge - meaning she's great at figuring out a fast, robust route to getting data, working with it, and productionising longer-term data solutions - and data science know-how, meaning that she can see how to match the business's questions to a well-chosen data science solution. She's also done a brilliant job as data science team leader in a fast-changing startup, making sure the team has the space and structure to work together well and develop good data science and engineering practices, and providing a dose of sanity when life is complicated. I'd definitely recommend working with Elise if you get the chance.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/brucedurling/",
+        "text": "Elise is a great coder, but beyond that she is great at listening and understanding what the user needs actually are in both data science and broader development. She also brings her years of programming experience to make her data science work quick when needed and robust when appropriate and not letting delivery speed or quality demands hurt the other. Elise is great at using her experience to lead technical and data science teams to get at the right questions and then get at the answers.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/samantha-softley-48765634/",
+        "text": "Elise combines her wealth of experience with her great technical expertise to be able to effectively identify and apply the most relevant data science, machine learning or engineering technique to solve the complex problems we were tasked with at Mastodon C. Elise was core to all the project teams I worked with her in; always willing to step up to any challenge and happily support her peers in the process. I enjoyed working alongside Elise and hope we get the opportunity to do so again in future.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/sunnytownsend/",
+        "text": "Elise and I worked together on a number of complex data science projects at Mastodon C. She is very supportive and wise colleague and her thoughts are always collected and meaningful. Her code is of the highest quality, I am constantly learning from her. As lead of the Data Science at Mastodon C she brought the data scientists to a new level, gelling us as a team and encouraging opportunities for our development.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/agazso/",
+        "text": "It was very easy to work with Elise although she was working remotely from a different country. She was well-prepared and very organised and she had the unique combination of skills of Haskell and Javascript and that's what we needed. She delivered the project on time, managed the expectations and difficulties well. I highly recommend her.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/kjeldelaey/",
+        "text": "Elise is one of the most knowledgeable and passionate software developers I know. She has great insight and loves to share, a good team player. She is truly an expert in her field. I would highly recommend her!"
+      },
+      {
+        "user": "https://www.linkedin.com/in/hendrikdacquin/",
+        "text": "Elise was a truly remarkable colleague. She is clever, self-organized, honest and dedicated. She sets her goals and ideals, inspects and adapts them when needed and she just executes them. She would make a perfect poster-child for agile software development."
+      },
+      {
+        "user": "https://www.linkedin.com/in/wernerramaekers/",
+        "text": "Elise did a great job revamping the Rails project she worked on and she worked very well in team with the designer of the project."
+      },
+      {
+        "user": "https://www.linkedin.com/in/eric-guffens-3106781/",
+        "text": "Elise is very much interested in new technologies. She is curious, eager to learn and conscientious in her work. Highly recommended !"
+      },
+      {
+        "user": "https://www.linkedin.com/in/rudi-verheyen-a3a7651/",
+        "text": "Elise is an intelligent, efficient, diehard staff member. She has the necessary technical skills and soft skills to act as a project leader. She is a good teamplayer, passionate and motivated. She understands the importance of commitment in a competitive IT world. Elise needs challenges, she always wants to move forward, full of energy. It has been nice working with Elise.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/frederic-pluymers-2662bb1/",
+        "text": "Lors des quelques projets que j'ai partagé avec Elise, j'ai remarqué un très grand profesionnalisme et une grande riguer dans son travail. Aussi, elle est très au fait des dernières techniques informatiques et n'hésite pas à les essayer dans des projets concrets. Cet aspect lui donne une capacité à apporter un regard nouveau sur des problèmes concrets. Elle constitue réellement un plus dans une équipe.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/etiennehermand/",
+        "text": "I had the chance to work with Elise for 2 years and this has been a wonderful experience: Elise is always eager to tackle new challenges and will do whatever it takes to achieve them. Despite the crazy workload we had at the time, Elise had the energy to spend her nights studying different IT research subjects while successfully passing her Sun certification and learning Chinese Mandarin! She is also fun to work with and has a very nice sense of humor. I would love to work with her again.\n…\nSee more"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/sunnytownsend/",
+        "text": "I really appreciate Sunny.  She's thoughtful, thorough, and full of good ideas.  She's good at asking those '... hang on' questions that end up making a big difference.\nShe brings a solid grounding in statistics, and extensive modeling experience.  She delivers quality code in R and python, and is a quick study for anything there is to learn. \nShe's also super friendly and fun, making me wish we weren't remote colleagues :)"
+      },
+      {
+        "user": "https://www.linkedin.com/in/samantha-softley-48765634/",
+        "text": "Samantha is an excellent delivery manager.\nShe maintains a good forward momentum, improved our processes to be more result-driven, and made a big difference in how we measured project performance.  She combines care for detail with a strong holistic view of the project,  and always asks the right questions.\nIt was a learning experience to work with Samantha, she gave me a better insight in what a professional manager can be."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "4",
+      "items": [
+        "Dutch",
+        "English",
+        "French",
+        "German"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Game programming in Haskell"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/richbrooks1/",
+      "text": "Software Development Manager at IMDb.com - an Amazon subsidary"
+    },
+    {
+      "user": "https://www.linkedin.com/in/gilles-philippart-43425525/",
+      "text": "Principal Software Engineer at Funding Circle UK"
+    },
+    {
+      "user": "https://www.linkedin.com/in/markcalrissian/",
+      "text": "Software Development Manager at IMDb.com"
+    },
+    {
+      "user": "https://www.linkedin.com/in/guy-barlow-4a0419148/",
+      "text": "Senior Software Engineer at Functional Works"
+    },
+    {
+      "user": "https://www.linkedin.com/in/miguel-vieiraramos/",
+      "text": "Business Analyst Freelance (Available at the end of November)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/davewm/",
+      "text": "Clojure engineer at Funding Circle UK"
+    },
+    {
+      "user": "https://www.linkedin.com/in/marylise-milhaud-8253642/",
+      "text": "marketing manager at Active 24"
+    },
+    {
+      "user": "https://www.linkedin.com/in/andrew-birkett-a841581/",
+      "text": "Principal Engineer at Amazon.com"
+    },
+    {
+      "user": "https://www.linkedin.com/in/clarketom/",
+      "text": "Head of Product at CharlieHR | 🚀Join us: charliehr.com/careers 🎉"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tim-mizon-68928442/",
+      "text": "Games Researcher - The Crystal Maze USA at RDF Media"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Core Team member",
+      "experience": "FOSDEM"
+    }
+  ],
+  "profile": {
+    "name": "Elise Huard",
+    "headline": "Senior Development Engineer at IMDb.com",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQFvATLWq31y4Q/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=4WuLa5_8PkKn95CmdRiafDB9CWeG0D2ZzQnf06VtKms",
+    "location": "Bath, United Kingdom",
+    "connections": "500+",
+    "summary": "Machine learning engineer/Data engineer, team lead, coaching, author, speaker.\n\nData science: data processing, statistics, feature engineering, deep learning, ML, NLP\nData Engineering: Kafka, Cassandra, Elasticsearch, Spark\nExperience with python, Clojure and Haskell (polyglot). full-stack, including setting up AWS infrastructure (using terraform).\n\nBig fan of keeping things as simple as possible.\nAlso great coffee, running, science, science fiction."
+  }
+}

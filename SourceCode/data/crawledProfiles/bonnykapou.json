@@ -1,0 +1,177 @@
+{
+  "profileAlternative": {
+    "name": "Bonny Kapou",
+    "headline": "DBA Oracle and SQL Server at PSP Investments",
+    "location": "Pointe-Claire, Quebec, Canada",
+    "connections": "500+",
+    "summary": "• Senior IT professional in Database Administration\n• Excel at Installing, Configuring, Optimizing Oracle and Microsoft SQL Server\n• Specialized database performance tuning and queries optimization\n• Hand-on elaborating strategies for DB backup and recovery, DB replication, Disaster Recovery and High Availability, DB user accounts management, privileges and profiles, data security, disk space management\n• Proficient in technical documentation and DB project planning\n• Specialize in installing monitoring system (Oracle Grid Control)"
+  },
+  "aboutAlternative": {
+    "text": "• Senior IT professional in Database Administration\n• Excel at Installing, Configuring, Optimizing Oracle and Microsoft SQL Server\n• Specialized database performance tuning and queries optimization\n• Hand-on elaborating strategies for DB backup and recovery, DB replication, Disaster Recovery and High Availability, DB user accounts management, privileges and profiles, data security, disk space management\n• Proficient in technical documentation and DB project planning\n• Specialize in installing monitoring system (Oracle Grid Control)"
+  },
+  "positions": [
+    {
+      "title": "DBA Oracle and SQL Server",
+      "companyName": "PSP Investments",
+      "date1": "Aug 2012 – Present",
+      "date2": "7 yrs 4 mos"
+    },
+    {
+      "title": "DBA Consulting",
+      "companyName": "CGI",
+      "description": "CGI – Global Infrastructure Services (Multi-Client team)\n• Realize a mass of implementation of database infrastructure projects for various Clients on different OS\n• Implement backup and restore strategy\n• Configure database replication according to technological solution retained.\n• Provide change report on Clients environments\n• Design and implement security procedure and configure database auditing.\n• Participate to production implementation.\n• Monitor and manage availability of database services and provide 24/7 support for Clients production environments.\n• Participate to projects planning meetings.\n• Resolve incidents and tuning database performance.\n• Participate to disaster recovery exercise to maintain services availabilities.\n• Upgrade, migrate databases and apply patches\n• Optimize database resources and re-engineer application by queries optimizations\n…\nsee more",
+      "date1": "Jan 2009 – Aug 2012",
+      "date2": "3 yrs 8 mos"
+    },
+    {
+      "title": "Oracle DBA / Designer",
+      "companyName": "Genizon BioSciences",
+      "description": "Project « Unified Genotype Database loading » Extract Transform and Load genotype final result from flat files produce by different genotyping platforms (Illumina, affimetrix..) base on samples and markers used for future analysis.\nProject «ECI project» Restructure existing data model to fit business need to select subject for specific studies according to known criteria.\n\n• Give Databases support to development team members\n• Design, document and deploy data models.\n• Design code and execute data migration scripts.\n• Tune SQL queries performance and data structures.\n• Maintain and execute database backup and recovery procedures.\n• Design, document and deploy data integrity procedures\n• Write ad-hoc queries and reports according to final users needs\n…\nsee more",
+      "date1": "Sep 2008 – Nov 2008",
+      "date2": "3 mos"
+    },
+    {
+      "title": "IT Manager",
+      "companyName": "Bell Canada",
+      "description": "Project « Pre - Qualification all services phase 2 » provides more coverage of the network and accuracy of DSL theoretical sync rates some data source has been changed and ETL modules revised.\nProject «BARC asset tracker» The purpose of this project is to properly identify asset ownership within BELL Canada’s NPP inventory and reporting system.\nProject «NDW Hardware Hardening»: Major project that replace Network Data Warehouse server infrastructure and migrate data on new servers.\n\n• Install, configure Oracle server, create database and setup data access politics, backup and recovery mechanism and manage users\n• Design data models and maintain physical structures and generate database objects script.\n• Tune queries; optimize procedures and packages performance and processing transformations.\n• Develop ETL flows using PowerCenter 8.5 and PL/SQL.\n• Manage currents projects deliveries and works monitoring.\n…\nsee more",
+      "date1": "Apr 2007 – Aug 2008",
+      "date2": "1 yr 5 mos"
+    },
+    {
+      "title": "Oracle DBA",
+      "companyName": "Keyrus",
+      "description": "Inverse groupe has merge with Keyrus",
+      "date1": "2004 – Mar 2007",
+      "date2": "3 yrs"
+    },
+    {
+      "title": "Database Administrator",
+      "companyName": "Inverse",
+      "description": "Mandates: Bell Canada\nProject « Prequalification all services » a data warehouse which compute users potential loops sync rate. This provides information to evaluate service available to client before taking order from them.\n\nProject « xDSL Assignment and Flow Thru – (BOA4146) » create a data model that integrates copper access network data with those of xDSL equipment data which give a global view of the BELL network.\n\nProject « Data warehouse of Bell Canada pairs» developed and implemented a data warehouse which gathers all terminal and pairs of Bell Canada’s access network. The ETL process runs on a weekly basis and handles several millions of records.\n\n• Convert system designs, physical model and technical specifications into database objects and promote production\n• Develop and maintain logical and physical data model\n• Provide appropriate information to ETL developers so that the database resources are effectively used and optimised.\n• Assists the testing groups to use Database objects in their testing (prepare test environments).\n• Install and configure database server on Unix HP, create database and objects such a tables, tablespaces, indexes, and user access.\n• Audit database performance, backup and recovery procedure, than create and maintain procedural document to resolve any existing issue.\n…\nsee more",
+      "date1": "2002 – 2004",
+      "date2": "2 yrs"
+    },
+    {
+      "title": "Team leader",
+      "companyName": "EKZ Kolchuginsky",
+      "description": "Project « ERP system for production »\n\n• Create and manage project plans and status reports\n• Plan and execute customer meetings and coordinate team of developers\n• Match appropriate solutions with business and technical requirements\n• Administrate Oracle Database and Designer and Migrate from Oracle 8i to 9i\n• Understand the consequences of the installation of new versions of the Operating System and the Database Management systems.\n• Install, maintain, troubleshoot and upgrade web-server hardware and software\n• Perform data backups and disaster recovery operations.\n• Operate master consoles to monitor the performance of computer systems and networks and to co-ordinate access and use of computer networks\n…\nsee more",
+      "date1": "1996 – 2002",
+      "date2": "6 yrs"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Vladimir State University",
+      "degree": "Bachelor's degree",
+      "fieldofstudy": "Computer Engineering",
+      "date1": "1989",
+      "date2": "1994"
+    },
+    {
+      "title": "Lycée Technique d'Adidogome"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Oracle",
+      "count": "28"
+    },
+    {
+      "title": "Microsoft SQL Server",
+      "count": "17"
+    },
+    {
+      "title": "PL/SQL",
+      "count": "16"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "1",
+    "receivedCount": "2",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/christophetognetti/",
+        "text": "J'ai été le chef d'équipe de Bonny pendant deux ans et demi. Durant toute cette période, j'ai eu le plaisir de côtoyer un excellent administrateur de bases de données. Doté d'une compétence technique très pointue, Bonny est également un excellent équipier faisant preuve en tout temps d'une grande efficacité et du plus grand des professionnalismes. Je le recommande sans aucune hésitation.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/michelzaarour/",
+        "text": "Bonny is a very dedicated and professional Oracle DBA. In production env., he is always there to solve any problem or incident occuring to the DB, no matter how serious or complicated is the situation. In development env., he manages well his projects and is considered a team player, where his opinion contributes much to the success of the projects. His positive and flexible attitude makes working with him a real pleasure. Definitely, I recommand him for any position looking for a knowledgeable Oracle DBA.\n…\nSee more"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/michelzaarour/",
+        "text": "Michel is an easy going person that achieves tasks with a high degree of professionalism.    He is methodical while maintaining a sense of humor.  I really appreciated working with him.   He has mastered different Oracle technologies such as replication server, data guard, enterprise manager grid control, etc…  \r\nMichel is a colleague you can rely on, he is highly autonomous, always delivers projects on time.   He can definitely work in both development and/or production support.   He can really make a difference when needed."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "4",
+      "items": [
+        "Informatica PowerCenter 8.5 (Informatica)",
+        "Microsoft SQL Server: Adminstration and Management (Technologia Formation)",
+        "Oracle 10g : Performance Tuning (Oracle)",
+        "Project Management (FGT)"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "English",
+        "French",
+        "Russian"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/serban-patriciu/",
+      "text": "SQL Server Database Developer and Administrator"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ismayl-ouledgharri-26372937/",
+      "text": "DevOps Specialist at BDC"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ming-guo-0aba3769/",
+      "text": "Looking for new challenge as a SQL database developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kevinsytsma/",
+      "text": "SQL Server Consultant at Fujitsu Consulting (Canada) Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/patrickdelifer/",
+      "text": "Senior Integration Consultant at PSP Investments"
+    },
+    {
+      "user": "https://www.linkedin.com/in/wei-zheng-1022b212/",
+      "text": "Senior Database Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/toni-manoleas-4a49483a/",
+      "text": "NA Application Management Manager at Computershare Technology Services"
+    },
+    {
+      "user": "https://www.linkedin.com/in/gdyca/",
+      "text": "SQL Developer at PSL Group"
+    },
+    {
+      "user": "https://www.linkedin.com/in/marc-andre-barbeau-010637121/",
+      "text": "Product Tools support specialist at Ubisoft Montréal"
+    },
+    {
+      "user": "https://www.linkedin.com/in/etiennedudley/",
+      "text": "Director @ SCALE AI"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Bonny Kapou",
+    "headline": "DBA Oracle and SQL Server at PSP Investments",
+    "location": "Pointe-Claire, Quebec, Canada",
+    "connections": "500+",
+    "summary": "• Senior IT professional in Database Administration\n• Excel at Installing, Configuring, Optimizing Oracle and Microsoft SQL Server\n• Specialized database performance tuning and queries optimization\n• Hand-on elaborating strategies for DB backup and recovery, DB replication, Disaster Recovery and High Availability, DB user accounts management, privileges and profiles, data security, disk space management\n• Proficient in technical documentation and DB project planning\n• Specialize in installing monitoring system (Oracle Grid Control)"
+  }
+}

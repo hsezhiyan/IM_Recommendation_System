@@ -1,0 +1,331 @@
+{
+  "profileAlternative": {
+    "name": "Ricardo Augusto Giaviti",
+    "headline": "Senior Consultant and Java Developer na Sensedia",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQHEj5PKRSAHfA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=SA8b9NdIegjgXV1JCuRm7Ad6CszGEH-bSE0r8srI_fE",
+    "location": "Campinas, São Paulo, Brazil",
+    "connections": "500+",
+    "summary": "For 10 years, I have been working directly with software development using the main open source languages, tools and frameworks available in the community, mainly using the Java platform and its main frameworks, with excellent experience in the execution of projects, from gathering requirements to deployment in production. I participated in the most varied sizes of projects, from small projects for internal uses to large projects for public initiative, banking and international projects.\n\nI had the opportunity to work with integration between the different software like ERPs, Human Resources, Costs, Reimbursement of Expenses, Wordpress, Drupal, GitHub, JIRA, Zapier, Salesforce among others, using SOAP and REST.\n\nI participated and technically led software development teams using SCRUM, providing technical support to the entire development team whenever necessary. I acted many times as SCRUM Master organizing all the rites as dailies, plannings, demonstrations, restrospectives, etc ...\n\nSolid Java experience for creating web applications, backend and APIs using frameworks like, SPring (and almost all Spring collection), JPA, Maven, Gradle, JBehave, JUnit, Mockito, WildFly (aka JBoss AS) and Glassfish. I also worked with the use of queues like RabbitMQ.\n\nIn addition to Java, I have knowledge in PHP, Ruby JavaScript and Python languages."
+  },
+  "aboutAlternative": {
+    "text": "For 10 years, I have been working directly with software development using the main open source languages, tools and frameworks available in the community, mainly using the Java platform and its main frameworks, with excellent experience in the execution of projects, from gathering requirements to deployment in production. I participated in the most varied sizes of projects, from small projects for internal uses to large projects for public initiative, banking and international projects.\n\nI had the opportunity to work with integration between the different software like ERPs, Human Resources, Costs, Reimbursement of Expenses, Wordpress, Drupal, GitHub, JIRA, Zapier, Salesforce among others, using SOAP and REST.\n\nI participated and technically led software development teams using SCRUM, providing technical support to the entire development team whenever necessary. I acted many times as SCRUM Master organizing all the rites as dailies, plannings, demonstrations, restrospectives, etc ...\n\nSolid Java experience for creating web applications, backend and APIs using frameworks like, SPring (and almost all Spring collection), JPA, Maven, Gradle, JBehave, JUnit, Mockito, WildFly (aka JBoss AS) and Glassfish. I also worked with the use of queues like RabbitMQ.\n\nIn addition to Java, I have knowledge in PHP, Ruby JavaScript and Python languages."
+  },
+  "positions": [
+    {
+      "title": "Senior Consultant and Java Developer",
+      "companyName": "Sensedia",
+      "location": "Campinas e Região, Brasil",
+      "description": "Work developing APIs, Microservices, Backends and other scalable, high-quality, resilient and fault-tolerant software components for various business sectors such as financial, banking, telecommunications, e-commerces and many others.\n\nWe use various technologies in a deep way, mainly with the range of Spring frameworks (Spring Boot, Spring Data ...), Apache Camel, Apache CXF, Webflux, Reactive Architecture, Netty, Netflix Hystrix, JPA, NoSQL databases (document oriented ones) and several others technologies.\n\nEvents and Seminars:\n- API Experience 2018;\n- QCon São Paulo 2019;\n…\nsee more",
+      "date1": "Mar 2018 – Present",
+      "date2": "1 yr 9 mos"
+    },
+    {
+      "title": "Full-stack Developer",
+      "companyName": "Padtec S/A",
+      "location": "Campinas e Região, Brasil",
+      "description": "As a Full Stack developer, I am responsible for developing both backend and frontend software. Several technologies and frameworks are used in software development such as JEE, WildFly, Angular 1 and 4.X, Apache Kafka, Microservices, Spring, Spring Boot, Hibernate, MySQL, Rest and JMS (HornetQ).\n\nThe development focused on software and network management solution using NETCONF and SNMP protocols.\n…\nsee more",
+      "date1": "May 2017 – Mar 2018",
+      "date2": "11 mos"
+    },
+    {
+      "title": "QA Automation Developer",
+      "companyName": "Daitan Group",
+      "location": "Campinas Area, Brazil",
+      "description": "Software developer focused on test automation. I work by providing and developing testing automation solutions across platforms such as Rest APIs, Web, and Mobile. We use various technologies, frameworks and applications to achieve our objectives, such as JBehave (BDD), Robot Framework, Selenium Webdriver, Appium ...\n\nWork in direct and permanent contact with the client, which is located outside Brazil, keeping with the same daily meetings for alignment of project status and updates.\n…\nsee more",
+      "date1": "Sep 2016 – May 2017",
+      "date2": "9 mos"
+    },
+    {
+      "title": "Software Architect and Developer",
+      "companyName": "ADTsys Software S.A.",
+      "description": "I was responsible to develop scalable software and highly integrated with cloud computing using the concept of microservices, automation and RESTful APIs for an JS frontends (mostly AngularJS). To reach this objective, I used Java (Spring Frameworks), Ruby on Rails, AngularJS, and several others open source software.\n\nIt was our responsibility to always innovate in cloud computing, mainly on AWS, and provide to the customer the best solution available in the cloud.\n\nWe also developed software to run and scale smoothly in cloud with Amazon Web Sevices, Windows Azure, Softlayer, Heroku and other providers.\n\nEvents and Seminars\n- Amazon Web Services Summit - São Paulo - 2016\n…\nsee more",
+      "date1": "Jul 2015 – Aug 2016",
+      "date2": "1 yr 2 mos"
+    },
+    {
+      "title": "CPqD",
+      "description": "As software architects, we check the integration between various software, such as ERP, Human Resources, Refunds and many others. Also, we did the modeling, componentization, feasibility evaluation and proof of concept for new solutions.\n\nAs developers, it was our mission to create what was planned by the software architects using the latest open source frameworks avaliable like JSF 2, Primefaces, JPA 2, Spring, Spring MVC, Spring Data, Maven, Laravel, Ruby on Rails, Bootstrap, jQuery etc...\n\nThe maintenance of legacy software was also our responsibility.\n\nWe worked with several languages: Java, PHP, Ruby and ASP.\n\nEvents and seminars\n- Oracle JavaOne - São Paulo - 2012\n- IBM Analytics Day - São Paulo - 2013\n- Mulesoft Summit 2013;\n- Amazon Web Services Summit - São Paulo - 2013, 2014;\n- DevCamp 2014, 2015;\n…\nsee more",
+      "date1": "Nov 2011 – Jul 2015",
+      "date2": "3 yrs 9 mos",
+      "roles": [
+        {
+          "title": "Software Architect and Developer",
+          "date1": "Nov 2011 – Jul 2015",
+          "date2": "3 yrs 9 mos"
+        },
+        {
+          "title": "Software Developer",
+          "date1": "Nov 2010 – Nov 2011",
+          "date2": "1 yr 1 mo"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSoftware Architect and Developer",
+      "description": "As software architects, we check the integration between various software, such as ERP, Human Resources, Refunds and many others. Also, we did the modeling, componentization, feasibility evaluation and proof of concept for new solutions.\n\nAs developers, it was our mission to create what was planned by the software architects using the latest open source frameworks avaliable like JSF 2, Primefaces, JPA 2, Spring, Spring MVC, Spring Data, Maven, Laravel, Ruby on Rails, Bootstrap, jQuery etc...\n\nThe maintenance of legacy software was also our responsibility.\n\nWe worked with several languages: Java, PHP, Ruby and ASP.\n\nEvents and seminars\n- Oracle JavaOne - São Paulo - 2012\n- IBM Analytics Day - São Paulo - 2013\n- Mulesoft Summit 2013;\n- Amazon Web Services Summit - São Paulo - 2013, 2014;\n- DevCamp 2014, 2015;\n…\nsee more",
+      "date1": "Nov 2011 – Jul 2015",
+      "date2": "3 yrs 9 mos",
+      "roles": [
+        {
+          "title": "Software Architect and Developer",
+          "date1": "Nov 2011 – Jul 2015",
+          "date2": "3 yrs 9 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSoftware Developer",
+      "description": "I worked with Research & Development for the Brazilian Digital TV developing software to run embedded in set-up-box and a backend software to provide data for embedded software.\n\nFor embedded software, we had to use the Ginga Middleware. For that, we developed software using NCL (Nested Context Language) and Lua language. Some examples of the applications we developed: News, E-Learning, E-Shopping and some others.\n\nTo provide data for the software above, we developed a Java Backend running in JBoss. The backend was composed by two parts: administrative (web) and web services. For administrative interface, we used JPA, JSF and EJBs. For web services, we used Axis 2 (contract first).\n\nFor this project, we received the \"Duke's Choice Award\" from Oracle. This software was available as open source.\n\nEvents and Seminars:\n- The Developer's Conference - 2011\n…\nsee more",
+      "date1": "Nov 2010 – Nov 2011",
+      "date2": "1 yr 1 mo",
+      "roles": [
+        {
+          "title": "Software Developer",
+          "date1": "Nov 2010 – Nov 2011",
+          "date2": "1 yr 1 mo"
+        }
+      ]
+    },
+    {
+      "title": "Software Developer - Team Leader",
+      "companyName": "Ci&T",
+      "description": "Strong Java development for banking and financial sector. We developed some critical mission software and we did a lot of processing analytical data using parallelism. Our backend ran in a computer grid and performance was a high priority. Sybase was used here.\n\nWe also developed web applications and web services (SOAP) using Spring, Maven, Apache Tomcat, JBoss and Struts. For web services we used Apache Axis 2 (contract first).\n\nSCRUM was used as a agile development methodology in all projects listed above. Sometimes I had to be Scrum Master of the team.\n…\nsee more",
+      "date1": "Oct 2009 – Nov 2010",
+      "date2": "1 yr 2 mos"
+    },
+    {
+      "title": "CPqD",
+      "description": "I started my career as a Java Developer. I had the chance to work in projects for Public Administration for cities and states. These projects were developed using open source libraries for J2EE platform such as Hibernate, EJBs, ANT and JBoss. We used Oracle and PostgreSQL for relational databases.\n\nBesides the projects for Public Administration, we also developed applications for private companies. In these projects, we used open source frameworks and libraries like Hibernate, Spring, JSF (Java Server Faces) and Maven.\n\nI also had to maintain legacy software made in classic ASP and Oracle.\n\nEvents and Seminars:\n- Google Developer Day - 2008\n- Ruby on Rails Summit Latin America - 2008\n…\nsee more",
+      "date1": "Nov 2007 – Nov 2009",
+      "date2": "2 yrs 1 mo",
+      "roles": [
+        {
+          "title": "Software Developer",
+          "date1": "Nov 2007 – Nov 2009",
+          "date2": "2 yrs 1 mo"
+        },
+        {
+          "title": "Intern in Software Quality",
+          "date1": "Jun 2006 – Nov 2007",
+          "date2": "1 yr 6 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSoftware Developer",
+      "description": "I started my career as a Java Developer. I had the chance to work in projects for Public Administration for cities and states. These projects were developed using open source libraries for J2EE platform such as Hibernate, EJBs, ANT and JBoss. We used Oracle and PostgreSQL for relational databases.\n\nBesides the projects for Public Administration, we also developed applications for private companies. In these projects, we used open source frameworks and libraries like Hibernate, Spring, JSF (Java Server Faces) and Maven.\n\nI also had to maintain legacy software made in classic ASP and Oracle.\n\nEvents and Seminars:\n- Google Developer Day - 2008\n- Ruby on Rails Summit Latin America - 2008\n…\nsee more",
+      "date1": "Nov 2007 – Nov 2009",
+      "date2": "2 yrs 1 mo",
+      "roles": [
+        {
+          "title": "Software Developer",
+          "date1": "Nov 2007 – Nov 2009",
+          "date2": "2 yrs 1 mo"
+        }
+      ]
+    },
+    {
+      "title": "Title\nIntern in Software Quality",
+      "description": "I was an intern in software quality department. I had the opportunity to work with the elaboration of software quality processes, implementation of the CMMi model and develop applications related to that software quality.\n\nIn software development, I had the chance to program web applications using PHP, PostgreSQL, Javascript and HTML. It was my responsibility to develop the software, put it into production and finally support it.\n\nEvents and seminars:\n- SPIN Campinas (Software and Systems Process Improvement Network) - 2007.\n…\nsee more",
+      "date1": "Jun 2006 – Nov 2007",
+      "date2": "1 yr 6 mos",
+      "roles": [
+        {
+          "title": "Intern in Software Quality",
+          "date1": "Jun 2006 – Nov 2007",
+          "date2": "1 yr 6 mos"
+        }
+      ]
+    },
+    {
+      "title": "Intern in IT Support",
+      "companyName": "PUC-Campinas",
+      "description": "It was my responsibility to help students and teachers use technology in the university's computer lab, such as operating system, Microsoft Office, Adobe Photoshop, Corel Draw and other software.\n\nIn addition to the assistance provided to teachers and students, I also developed small web applications for internal use in the university's computer lab. For these developments was used Classic ASP server running on IIS.\n…\nsee more",
+      "date1": "May 2005 – Jun 2006",
+      "date2": "1 yr 2 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Pontifícia Universidade Católica de Campinas",
+      "degree": "Bachelor",
+      "fieldofstudy": "Computer Science",
+      "date1": "2004",
+      "date2": "2007"
+    },
+    {
+      "title": "DeVry Educacional do Brasil",
+      "degree": "MBA",
+      "fieldofstudy": "Project Management - PMI",
+      "date1": "2011",
+      "date2": "2012"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Java",
+      "count": "48"
+    },
+    {
+      "title": "Hibernate",
+      "count": "36"
+    },
+    {
+      "title": "Scrum",
+      "count": "47"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "11",
+    "receivedCount": "10",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/marcos-leandro-francischinelli-24562020/",
+        "text": "Ricardo Giaviti tem profundos conhecimentos em Java e durante o tempo que trabalhamos juntos aprendi muito com ele. É um profissional de fácil adaptação e é muito tranqüilo trabalhar com ele. Enfrentou muitos desafios durante em diversos projetos e sempre contribuiu com excelência em todos os projetos em que trabalhamos. Recomendo fortemente ele como profissional.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/telma-guatura-9856a921/",
+        "text": "Profissional de habilidades diversas, possui uma curiosidade nata que o impulsiona a sempre aprender e explorar o novo. Muito focado e de senso apurado, sempre colabora com ideias relevantes. Se expressa muito bem e tem ótimo relacionamento com a equipe. Essas características que o tornam referência."
+      },
+      {
+        "user": "https://www.linkedin.com/in/andregiraldi/",
+        "text": "O Ricardo, é um profissional dedicado e com amplo conhecimento técnico em Tecnologia da Informação. Possui um grande senso de urgência que o deixa com um excelente tempo de resposta na resolução dos problemas que surgem inesperadamente.Lida de maneira positiva com a pressão na entrega dos trabalhos."
+      },
+      {
+        "user": "https://www.linkedin.com/in/danielvaranda/",
+        "text": "O Ricardo é um profissional dedicado e comprometido, possui um excelente conhecimento técnico e se relaciona muito bem com o time. Está sempre inteirado com as novas tecnologia e tendencias do mercado. Fico tranquilo em recomendá-lo."
+      },
+      {
+        "user": "https://www.linkedin.com/in/rafaelpcm/",
+        "text": "Ricardo é um profissional extremamente competente e dedicado. Possui um excelente nível técnico e se interessa bastante por novas tecnologias. Sempre disposto a ajudar e a transmitir seus conhecimentos, o período em que trabalhamos ajudou muito no meu desenvolvimento profissional."
+      },
+      {
+        "user": "https://www.linkedin.com/in/marcelo-fontana-98a03119/",
+        "text": "."
+      },
+      {
+        "user": "https://www.linkedin.com/in/armando-zampar-junior-pmp-185b9023/",
+        "text": "Ricardo eh um profissional competente e cumpre toda tarefa a ele destinada, com qualidade. Tem facilidade para resolver problemas tecnicos e dar solucoes eficazes. Eh um profissional que de facil relacionamento e sabe trabalhar em equipe colaborando com todos."
+      },
+      {
+        "user": "https://www.linkedin.com/in/marcelo-fontana-98a03119/",
+        "text": "Recomento sim, muito bom profissional , experiente e dedicado. Confiante e muito competente."
+      },
+      {
+        "user": "https://www.linkedin.com/in/apeligrini/",
+        "text": "Ricardo Giaviti is a brilliant person with a very strong problem solving skills, smart, highly organized, and a intelligent developer. Shows all the time an easiness to build interpersonal relations."
+      },
+      {
+        "user": "https://www.linkedin.com/in/bcubiaco/",
+        "text": "Giaviti was a very creative Java programmer at CPqD, knew how to deal with problems and work under pressure, as well as very friendly with teammates."
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/lfsilveira/",
+        "text": "O Lucas foi um dos melhores Scrum Masters com quem já trabalhei. Ele realmente interage com o time, não deixa que disruptions externas atrapalhem o andamento da produtividade do time e consegue fazer um excelente elo entre o time e o Product Owner do projeto."
+      },
+      {
+        "user": "https://www.linkedin.com/in/fernando-ramos-de-souza-732331110/",
+        "text": "Trabalhei com o Fernando por aproximadamente 5 anos. Nesses anos pude perceber que além de um conhecimento técnico abrangente em diversas ferramentas, ele possui muita facilidade para absorver e entender regras de negócios dos sistemas por mais complexas que elas sejam. Ele possui ótima relação com clientes, facilidade de aprendizagem de novas tecnologias, muito pró-ativo e é muito receptivo com mudanças.\r\n\r\nProfissional muito recomendado."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "17",
+      "items": [
+        "AWS Business Professional Course",
+        "AWS Internal Workshop (EC2, VPC, S3, Beanstalk and ELB)",
+        "AWS Technical Professional Course",
+        "BPEL, BPA and Process Engineer",
+        "Basics of Scrum, Agile and Project Delivery",
+        "Deep Dive in AWS (VPC, ELB, Autoscaling, Cloudwatch)",
+        "Linux Command Line (Code Academy)",
+        "MongoDB for Developers (MongoDB University)",
+        "MongoDB for Java Developers (MongoDB University)",
+        "Python Programming Language (Code Academy)",
+        "Risk Management",
+        "Ruby Programming Language (Code Academy)",
+        "SCRUM Agile Development",
+        "SOA Foundation",
+        "Systems Operations on AWS",
+        "WebFocus Software (BI)",
+        "Workflow Process for Global Antares Software"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "Site CPqD - Migration from Drupal to Wordpress",
+        "Site CPqD - Migration from Joomla to Dupal (no longer online)",
+        "Multiplataform Services for interactive digital TV (aka SMTVI)"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "Daitan Recognition",
+        "Software Developer"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "Inglês",
+        "Português"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/vinicius-soares-51609a118/",
+      "text": "Desenvolvedor Java"
+    },
+    {
+      "user": "https://www.linkedin.com/in/victoriagoncalves/",
+      "text": "Quality Assurance Analyst - Pleno na Zup Innovation"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kleberbacili/",
+      "text": "CEO at Sensedia"
+    },
+    {
+      "user": "https://www.linkedin.com/in/vinnerocha/",
+      "text": "Software Developer Node.js | .NET"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kleberpoli/",
+      "text": "Senior Java Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/marcos-campos-8304b0a3/",
+      "text": "Desenvolvedor de Software na Platform Builders"
+    },
+    {
+      "user": "https://www.linkedin.com/in/fabiola-tinti-b0193299/",
+      "text": "Analista de recrutamento e seleção na PLUS-IT Consulting"
+    },
+    {
+      "user": "https://www.linkedin.com/in/arnaldoimamura/",
+      "text": "SOA Consultant na Sensedia"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mariogneto/",
+      "text": "Analista de desenvolvimento sênior | Vivakey"
+    },
+    {
+      "user": "https://www.linkedin.com/in/weder-carlos-vieira-736a2732/",
+      "text": "Desenvolvedor Java Senior"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Ricardo Augusto Giaviti",
+    "headline": "Senior Consultant and Java Developer na Sensedia",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQHEj5PKRSAHfA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=SA8b9NdIegjgXV1JCuRm7Ad6CszGEH-bSE0r8srI_fE",
+    "location": "Campinas, São Paulo, Brazil",
+    "connections": "500+",
+    "summary": "For 10 years, I have been working directly with software development using the main open source languages, tools and frameworks available in the community, mainly using the Java platform and its main frameworks, with excellent experience in the execution of projects, from gathering requirements to deployment in production. I participated in the most varied sizes of projects, from small projects for internal uses to large projects for public initiative, banking and international projects.\n\nI had the opportunity to work with integration between the different software like ERPs, Human Resources, Costs, Reimbursement of Expenses, Wordpress, Drupal, GitHub, JIRA, Zapier, Salesforce among others, using SOAP and REST.\n\nI participated and technically led software development teams using SCRUM, providing technical support to the entire development team whenever necessary. I acted many times as SCRUM Master organizing all the rites as dailies, plannings, demonstrations, restrospectives, etc ...\n\nSolid Java experience for creating web applications, backend and APIs using frameworks like, SPring (and almost all Spring collection), JPA, Maven, Gradle, JBehave, JUnit, Mockito, WildFly (aka JBoss AS) and Glassfish. I also worked with the use of queues like RabbitMQ.\n\nIn addition to Java, I have knowledge in PHP, Ruby JavaScript and Python languages."
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "profileAlternative": {
+    "name": "Andre Spiegel",
+    "headline": "Distinguished Engineer at MongoDB",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQEYNavtN8emPA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=ngTNEaecFBUFdaGpEjpKEddYKlcc53xH9XF-KJx5i5c",
+    "location": "New York, New York",
+    "connections": "400",
+    "summary": "I work in Professional Services at MongoDB. This means I help our customers build better systems using our database. Over the years, I have seen hundreds of companies and projects from the inside, and every single one of them has been interesting and challenging in a unique way. I have distilled these experiences into some of our model solutions and reference architectures at MongoDB, including ETL processes and single-view (MDM) systems. Show me a problem and if you find me staring out the window shortly thereafter, you know you've captured my attention.\n\nAnd so I was recently given the title of a Distinguished Engineer. I'm not sure what to make of that. Distinguished for what? Maybe for the fact that from each and every engagement, I come home and tell everybody that \"hey, they have this very interesting problem over there, not quite like anything we've ever seen, and I think I found a great solution for it\". Or maybe just as a subtle hint for my co-workers half my age that when they show me something, they shouldn't use the smallest font their screen can render because I might have trouble reading that."
+  },
+  "aboutAlternative": {
+    "text": "I work in Professional Services at MongoDB. This means I help our customers build better systems using our database. Over the years, I have seen hundreds of companies and projects from the inside, and every single one of them has been interesting and challenging in a unique way. I have distilled these experiences into some of our model solutions and reference architectures at MongoDB, including ETL processes and single-view (MDM) systems. Show me a problem and if you find me staring out the window shortly thereafter, you know you've captured my attention.\n\nAnd so I was recently given the title of a Distinguished Engineer. I'm not sure what to make of that. Distinguished for what? Maybe for the fact that from each and every engagement, I come home and tell everybody that \"hey, they have this very interesting problem over there, not quite like anything we've ever seen, and I think I found a great solution for it\". Or maybe just as a subtle hint for my co-workers half my age that when they show me something, they shouldn't use the smallest font their screen can render because I might have trouble reading that."
+  },
+  "positions": [
+    {
+      "title": "MongoDB",
+      "location": "Greater New York City Area",
+      "description": "I work in Professional Services at MongoDB. Which means I work with our users, helping them to build better systems involving our database. Over the years, I have seen hundreds of companies and projects from the inside, and every single one of them has been interesting and challenging in a unique way. I have distilled these experiences into some of our model solutions and reference architectures at MongoDB, including ETL processes and single-view (MDM) systems. Show me a problem and if you find me staring out the window shortly thereafter, you know you've captured my attention.\n\nAnd so I was recently given the title of Distinguished Engineer, and I'm not sure what to make of that. Distinguished for what? Maybe for the fact that from each and every engagement, I come home and tell everybody that \"hey, they have this very interesting problem and I think we found a great solution for it\". Or maybe just as a subtle hint for my colleagues half my age that when they show me something, they shouldn't use the smallest font their screen can render because I might have trouble reading it.\n\n…\nsee more",
+      "date1": "Mar 2019 – Present",
+      "date2": "9 mos",
+      "roles": [
+        {
+          "title": "Distinguished Engineer",
+          "date1": "Mar 2019 – Present",
+          "date2": "9 mos",
+          "location": "Greater New York City Area"
+        },
+        {
+          "title": "Consulting Engineer",
+          "date1": "Jul 2013 – Present",
+          "date2": "6 yrs 5 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nDistinguished Engineer",
+      "location": "Greater New York City Area",
+      "description": "I work in Professional Services at MongoDB. Which means I work with our users, helping them to build better systems involving our database. Over the years, I have seen hundreds of companies and projects from the inside, and every single one of them has been interesting and challenging in a unique way. I have distilled these experiences into some of our model solutions and reference architectures at MongoDB, including ETL processes and single-view (MDM) systems. Show me a problem and if you find me staring out the window shortly thereafter, you know you've captured my attention.\n\nAnd so I was recently given the title of Distinguished Engineer, and I'm not sure what to make of that. Distinguished for what? Maybe for the fact that from each and every engagement, I come home and tell everybody that \"hey, they have this very interesting problem and I think we found a great solution for it\". Or maybe just as a subtle hint for my colleagues half my age that when they show me something, they shouldn't use the smallest font their screen can render because I might have trouble reading it.\n\n…\nsee more",
+      "date1": "Mar 2019 – Present",
+      "date2": "9 mos",
+      "roles": [
+        {
+          "title": "Distinguished Engineer",
+          "date1": "Mar 2019 – Present",
+          "date2": "9 mos",
+          "location": "Greater New York City Area"
+        }
+      ]
+    },
+    {
+      "title": "Title\nConsulting Engineer",
+      "date1": "Jul 2013 – Present",
+      "date2": "6 yrs 5 mos",
+      "roles": [
+        {
+          "title": "Consulting Engineer",
+          "date1": "Jul 2013 – Present",
+          "date2": "6 yrs 5 mos"
+        }
+      ]
+    },
+    {
+      "title": "Consultant",
+      "companyName": "Talend",
+      "description": "I worked at Talend as a Senior Technical Consultant, helping our customers to get the most out of our data integration products. This usually involved project work, such as designing and implementing ETL jobs and custom Java components. One of my major projects was a master data management (MDM) solution for a New York publishing house.",
+      "date1": "Dec 2010 – Jul 2013",
+      "date2": "2 yrs 8 mos"
+    },
+    {
+      "title": "Consultant",
+      "companyName": "Pfizer",
+      "description": "Providing regular support to a software group that uses JacORB in one of their services. This is at Pfizer's research facility in Groton, CT.",
+      "date1": "Apr 2004 – Dec 2010",
+      "date2": "6 yrs 9 mos"
+    },
+    {
+      "title": "Trainer",
+      "companyName": "IBM",
+      "description": "I have been teaching seminars for IBM, mostly Java and WebSphere-related subjects, for many years.",
+      "date1": "1998 – Dec 2010",
+      "date2": "12 yrs"
+    },
+    {
+      "title": "Owner",
+      "companyName": "Free Software Consulting",
+      "description": "I worked as a self-employed consultant for numerous clients, the most prominent of which were IBM, UBS, and Pfizer (see separate entries for details).",
+      "date1": "2000 – 2010",
+      "date2": "10 yrs"
+    },
+    {
+      "title": "Consultant",
+      "companyName": "UBS",
+      "description": "Implemented many custom software solutions, mostly in the field of production engineering. Including automation of the rollout process, security infrastructure, and monitoring tools.",
+      "date1": "Oct 2003 – Apr 2009",
+      "date2": "5 yrs 7 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Freie Universität Berlin",
+      "degree": "PhD",
+      "fieldofstudy": "Computer Science",
+      "date1": "1997",
+      "date2": "2002"
+    },
+    {
+      "title": "University of Stuttgart",
+      "degree": "Master's",
+      "fieldofstudy": "Computer Science, Philosophy",
+      "date1": "1988",
+      "date2": "1996"
+    }
+  ],
+  "skills": [
+    {
+      "title": "ETL",
+      "count": "16"
+    },
+    {
+      "title": "Linux",
+      "count": "16"
+    },
+    {
+      "title": "Solution Architecture",
+      "count": "16"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "5",
+    "receivedCount": "4",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/marcelorochadasilva/",
+        "text": "André is an extraordinarily bright and knowledgeable engineer. We worked closely together when André first joined MongoDB. André has a very diverse background, and an innate curiosity that makes for outstanding engineering."
+      },
+      {
+        "user": "https://www.linkedin.com/in/josephjacks/",
+        "text": "I worked with Andre when I was an Account Executive @ Talend. Andre was a Senior Technical Consultant who came in some of my more strategic accounts and helped bring clarity to and solve challenging situations and complex problems (usually when customers wanted to push the limits of the software and endeavor to introduce another layer or two of complexity to a proposed grid computing solution design). I was very impressed with Andre's demeanor and very humble, transparent and honest (genuine) approach to his work. Most of all, the level in which my customers trusted him was very remarkable due to this approach. I learned a great deal from Andre by having the opportunity to observe him during many calls and meetings. I would consider it an honor to work with him again. I believe one of the unique qualities of Andre that makes him quite a valuable individual is that he possesses an infinite curiosity about whatever he sets his mind to accomplishing - and is very \"open minded\". He then applies that curiosity to productively and efficiently solving very challenging problems in an elegant way.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/josh-holman-831a152/",
+        "text": "Andre is an invaluable asset to any team, in any situation. Whether it's consulting with project stakeholders, making architectural decisions or digging into the code, Andre delivers. On top of that he's a wonderfully nice guy and a pleasure to work with,"
+      },
+      {
+        "user": "https://www.linkedin.com/in/bobkelton/",
+        "text": "André worked for me as a Technical Account Manager. He manages the technical relationship with our largest account, Citi. His work was outstanding. He developed a strong relationship with the client and our assigned sales team. Anyone who has the opportunity to work with André will be impressed with his skills, his personable manor and the quality of his work. I recommend him strongly. I would love the opportunity to work with him again.\n…\nSee more"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/rohitkn/",
+        "text": "Rohit was one of my colleagues as a MongoDB Consulting Engineer for more than a year. I was deeply impressed by the scope of his technical skills and unparalleled attention to detail with which he worked with our customers and provided great value to them. He has been a great part of our team and I would choose to work with him again in a heartbeat."
+      },
+      {
+        "user": "https://www.linkedin.com/in/elise-rairat-1a35b226/",
+        "text": "Elise is phenomenal. She was one of my fellow consultants at Talend, and one of our greatest resources to educate customers and help them succeed with our software. Elise is a top notch engineer but also has a great talent to deal with people and make them feel comfortable, even in difficult situations."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "3",
+      "items": [
+        "English",
+        "German",
+        "Swedish"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/charles-lee-530806100/",
+      "text": "Sr Solutions Architect at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sarah-dart-aa66b1a4/",
+      "text": "Regional Manager at Oracle"
+    },
+    {
+      "user": "https://www.linkedin.com/in/danpasette/",
+      "text": "SVP, Core Engineering at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/rachellepalmer/",
+      "text": "Global Director, Atlas Technical Services Engineering at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ranjitmanneth/",
+      "text": "Sr. Manager at AT&T"
+    },
+    {
+      "user": "https://www.linkedin.com/in/delia-nevola-0814b43/",
+      "text": "NY Registered Architect, AIA, LEED AP BD+C"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jeff-wauer-2bbb638/",
+      "text": "Senior Associate at Gehry Partners, LLP"
+    },
+    {
+      "user": "https://www.linkedin.com/in/peter-m-bryant-ba39804/",
+      "text": "Chief Operating Officer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sirish-reddi-8b66129/",
+      "text": "Delivery Lead - NetApp"
+    },
+    {
+      "user": "https://www.linkedin.com/in/cherish-richardson-22a20933/",
+      "text": "Project Manager at MongoDB"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Andre Spiegel",
+    "headline": "Distinguished Engineer at MongoDB",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQEYNavtN8emPA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=ngTNEaecFBUFdaGpEjpKEddYKlcc53xH9XF-KJx5i5c",
+    "location": "New York, New York",
+    "connections": "400",
+    "summary": "I work in Professional Services at MongoDB. This means I help our customers build better systems using our database. Over the years, I have seen hundreds of companies and projects from the inside, and every single one of them has been interesting and challenging in a unique way. I have distilled these experiences into some of our model solutions and reference architectures at MongoDB, including ETL processes and single-view (MDM) systems. Show me a problem and if you find me staring out the window shortly thereafter, you know you've captured my attention.\n\nAnd so I was recently given the title of a Distinguished Engineer. I'm not sure what to make of that. Distinguished for what? Maybe for the fact that from each and every engagement, I come home and tell everybody that \"hey, they have this very interesting problem over there, not quite like anything we've ever seen, and I think I found a great solution for it\". Or maybe just as a subtle hint for my co-workers half my age that when they show me something, they shouldn't use the smallest font their screen can render because I might have trouble reading that."
+  }
+}

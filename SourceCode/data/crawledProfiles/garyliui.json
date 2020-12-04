@@ -1,0 +1,185 @@
+{
+  "profileAlternative": {
+    "name": "Gary Li",
+    "headline": "JavaScript web UI developer at Bristol-Myers Squibb",
+    "location": "Greater New York City Area",
+    "connections": "117",
+    "summary": "6+ years professional experience working as UI/Web developer, developing rapid, powerful, robust user interface applications for various employers related to Finance, E-commerce and Information Technology.\nStrong knowledge and experience of HTML/HTML5, CSS/CSS3, JavaScript.\nExperience in jQuery, AJAX, JSON and DOM manipulation skills for implementing web technologies.\nExpertise in developing responsive website for different browsers and devices using Bootstrap. Outstanding knowledge in compatibility issue soling for web pages or web-enabled applications using Media Query to customize CSS in order to offer the audiences a better visiting experience.\nStrong experience in CSS pre-processors styling such as SASS and LESS.\nExperience in MVC (Model-View-Controller) framework such as AngularJS. Knowledge in creating Single Page Application (SPA) using AngularJS,\nFamiliar with Gulp task runner to manage project and Bower package manager to install libraries such as jQuery and Bootstrap.\nGood experience in consuming RESTful Web Services to implement AJAX call and updating dynamic functionality of HTML in JavaScript, jQuery and AngularJS.\nSolid proficiency with distributed version control tools such as SVN, GIT, Source Tree, branching and common deployment methods for collaborating on source code.\nOutstanding knowledge in debugging and troubleshooting existing code. Experience in coding and debugging application using debug tool, such as FireBug, IE Tester and Chrome inspector.\nExperience in manipulating IDE including WebStorm, Sublime, Netbeans, Notepad++, Visual Studio and Eclipse.\nStrong object oriented design principals and knowledge of design patterns. Experienced in multiple programming languages, like C/C++ and Java.\nHighly motivated web enthusiast to work in a fast-paced environment and learn new technology quickly."
+  },
+  "aboutAlternative": {
+    "text": "6+ years professional experience working as UI/Web developer, developing rapid, powerful, robust user interface applications for various employers related to Finance, E-commerce and Information Technology.\nStrong knowledge and experience of HTML/HTML5, CSS/CSS3, JavaScript.\nExperience in jQuery, AJAX, JSON and DOM manipulation skills for implementing web technologies.\nExpertise in developing responsive website for different browsers and devices using Bootstrap. Outstanding knowledge in compatibility issue soling for web pages or web-enabled applications using Media Query to customize CSS in order to offer the audiences a better visiting experience.\nStrong experience in CSS pre-processors styling such as SASS and LESS.\nExperience in MVC (Model-View-Controller) framework such as AngularJS. Knowledge in creating Single Page Application (SPA) using AngularJS,\nFamiliar with Gulp task runner to manage project and Bower package manager to install libraries such as jQuery and Bootstrap.\nGood experience in consuming RESTful Web Services to implement AJAX call and updating dynamic functionality of HTML in JavaScript, jQuery and AngularJS.\nSolid proficiency with distributed version control tools such as SVN, GIT, Source Tree, branching and common deployment methods for collaborating on source code.\nOutstanding knowledge in debugging and troubleshooting existing code. Experience in coding and debugging application using debug tool, such as FireBug, IE Tester and Chrome inspector.\nExperience in manipulating IDE including WebStorm, Sublime, Netbeans, Notepad++, Visual Studio and Eclipse.\nStrong object oriented design principals and knowledge of design patterns. Experienced in multiple programming languages, like C/C++ and Java.\nHighly motivated web enthusiast to work in a fast-paced environment and learn new technology quickly."
+  },
+  "positions": [
+    {
+      "title": "JavaScript web UI developer",
+      "companyName": "Bristol-Myers Squibb",
+      "location": "Pennington, NJ",
+      "date1": "Apr 2016 – Present",
+      "date2": "3 yrs 8 mos"
+    },
+    {
+      "title": "Front End Developer",
+      "companyName": "ADP",
+      "location": "Alpharetta, GA",
+      "description": " Worked directly with business analysts to ascertain requirements and defined projects plan documents.\n Used AngularJS framework created a well responsive single page website with HTML5, CSS3 and JavaScript.\n Used plug-in such as Smart Table.\n Used Bootstrap and media queries created a responsive website across different sizes of screen, from smart phone to laptop.\n Designed UI using HTML, and validated with JavaScript for providing the user interface and communication between the client and server.\n Worked on different web-browsers such as IE , Mozilla Firefox, Google Chrome and Safari. Focused on resolving numerous cross browser compatibility related to CSS and JavaScript.\n Developed webpage using AJAX and AngularJS that interact based on events.\n Implemented MVC architecture by applying Angular JS framework.\n Used version control tools Git and Sourcetree.\n Implemented package management by using Bower.\n Used W3C Validator to check the markup validity.\n Used Chrome Inspector, FireBug, IE Tester and other debugging toolkit to track and fix bugs.\n Involve in maintenance and support, including other existing applications.\n Develop innovative internal solutions to proactively meet the needs of our clients, communicate with Project Managers, Software Engineers and other creative team members throughout the planning meeting.\n Involved in the process Design, Development, Testing and Maintenance phases of the Software Development Life Cycle.\n Performed in an Agile Scrum Environment and work instrumentally with the development manager to ensure delivery of solutions that meet or exceed business objectives.\n\n…\nsee more",
+      "date1": "Jun 2014 – Apr 2016",
+      "date2": "1 yr 11 mos"
+    },
+    {
+      "title": "Front End Web Developer",
+      "companyName": "Capital Phones, Inc",
+      "location": "MD",
+      "description": " Worked closely with the client to clearly define project requirements and plans.\n Involved in designing and creating a dynamic website model as a guide for the development team.\n Created neat and user-friendly webpages using HTML5 and CSS3.\n Created responsive webpages for different platforms by applying Bootstrap.\n Developed maintainable CSS3 style sheet using Less.\n Created Trouble Ticketing System interface using JavaScript.\n Used Grunt as task runner for concating, compilation, testing and minification.\n Optimized HTML and JavaScript code to reduce web page loading time.\n Used JavaScript to parse JSON objects.\n Conducted multiple times of testing using testing tools such as Chrome Inspector, Firefox Firebox, IE Tester and Jasmine.\n Resolved Cross-Browser issues for Chrome, Mozilla Firefox, Internet Explorer, Safari and Opera.\n Collaborated with teammates and updated application versions using Git with GitHub.\n Involved in website maintenance and support.\n\n…\nsee more",
+      "date1": "Sep 2012 – Mar 2014",
+      "date2": "1 yr 7 mos"
+    },
+    {
+      "title": "UI Developer",
+      "companyName": "True & Associates",
+      "location": "NJ",
+      "description": " Involved in the requirements analysis, designing, development testing and maintenance of the website.\n Developed website using HTML, CSS, JavaScript, JQuery and AJAX.\n Created web page layouts using HTML and CSS.\n Implemented RESTful Web Services for other applications to communicate back-end.\n Updated the user interface design using CSS, JavaScript.\n Performed client side validations over the drop down selectors using JavaScript.\n Used AJAX to refresh only certain section of the page and reduce the load on the web server.\n Defined text alignment, borders, positioning and many other typographic characteristics.\n Used best coding practices and naming conventions while writing code in JavaScript, HTML and CSS.\n Extensively tested the websites identified the bugs using Firebug and fixed them.\n Took responsibility for code optimization and testing across other browsers.\n\n…\nsee more",
+      "date1": "Mar 2011 – Jun 2012",
+      "date2": "1 yr 4 mos"
+    },
+    {
+      "title": "UI Developer",
+      "companyName": "Cedar Risk Management",
+      "location": "NJ",
+      "description": " Communicated with client representative to clearly define project specifications and plans.\n Modified pictures to fit better on webpages using Adobe Photoshop.\n Developed user interface using HTML and CSS.\n Implemented fundamental web functions using JavaScript and JQuery.\n Fixed cross browser compatibility issues for Chrome, Firefox, Safari and IE.\n Implemented dynamic web applications using AJAX and JSON.\n Conducted multiple times of testing using testing tools such as Chrome Inspector, Firefox Firebug and IE Tester.\n Cooperated with teammates using version control tool SVN.\n\n…\nsee more",
+      "date1": "Jun 2009 – Dec 2010",
+      "date2": "1 yr 7 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "New Jersey Institute of Technology"
+    }
+  ],
+  "skills": [
+    {
+      "title": "JavaScript"
+    },
+    {
+      "title": "HTML5"
+    },
+    {
+      "title": "CSS3"
+    },
+    {
+      "title": "jQuery"
+    },
+    {
+      "title": "JSON"
+    },
+    {
+      "title": "AJAX"
+    },
+    {
+      "title": "SASS"
+    },
+    {
+      "title": "LESS"
+    },
+    {
+      "title": "Bootstrap"
+    },
+    {
+      "title": "AngularJS"
+    },
+    {
+      "title": "SVN"
+    },
+    {
+      "title": "Git"
+    },
+    {
+      "title": "Grunt"
+    },
+    {
+      "title": "C"
+    },
+    {
+      "title": "C++"
+    },
+    {
+      "title": "Java"
+    },
+    {
+      "title": "Ext JS"
+    },
+    {
+      "title": "npm"
+    },
+    {
+      "title": "bower"
+    },
+    {
+      "title": "Gulp"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "2",
+      "items": [
+        "Chinese",
+        "English"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/thomas-prince-68193624/",
+      "text": "Javascript Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/andrewzritter/",
+      "text": "Javascript Web Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/gayathri-sriram/",
+      "text": "Actively looking for opportunities"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shireesha-m-076255171/",
+      "text": "UI Developer at Delloite"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mohammed-a7743915a/",
+      "text": "Sr. UI Developer at Strategic Health Services, Atlanta, GA"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jonathan-talley-6493a32/",
+      "text": "UI Developer at General Dynamics"
+    },
+    {
+      "user": "https://www.linkedin.com/in/srikanth-anugu-841549141/",
+      "text": "Sr. UI Developer at HP"
+    },
+    {
+      "user": "https://www.linkedin.com/in/lauri-lagon-54ba0ab7/",
+      "text": "Sr.Web Developer/ Front End Web Developer/ UI Developer/ Angular Developer at JobTopia"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jmohyuddin/",
+      "text": "Web Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/lily-luo/",
+      "text": "Web Developer"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Gary Li",
+    "headline": "JavaScript web UI developer at Bristol-Myers Squibb",
+    "location": "Greater New York City Area",
+    "connections": "117",
+    "summary": "6+ years professional experience working as UI/Web developer, developing rapid, powerful, robust user interface applications for various employers related to Finance, E-commerce and Information Technology.\nStrong knowledge and experience of HTML/HTML5, CSS/CSS3, JavaScript.\nExperience in jQuery, AJAX, JSON and DOM manipulation skills for implementing web technologies.\nExpertise in developing responsive website for different browsers and devices using Bootstrap. Outstanding knowledge in compatibility issue soling for web pages or web-enabled applications using Media Query to customize CSS in order to offer the audiences a better visiting experience.\nStrong experience in CSS pre-processors styling such as SASS and LESS.\nExperience in MVC (Model-View-Controller) framework such as AngularJS. Knowledge in creating Single Page Application (SPA) using AngularJS,\nFamiliar with Gulp task runner to manage project and Bower package manager to install libraries such as jQuery and Bootstrap.\nGood experience in consuming RESTful Web Services to implement AJAX call and updating dynamic functionality of HTML in JavaScript, jQuery and AngularJS.\nSolid proficiency with distributed version control tools such as SVN, GIT, Source Tree, branching and common deployment methods for collaborating on source code.\nOutstanding knowledge in debugging and troubleshooting existing code. Experience in coding and debugging application using debug tool, such as FireBug, IE Tester and Chrome inspector.\nExperience in manipulating IDE including WebStorm, Sublime, Netbeans, Notepad++, Visual Studio and Eclipse.\nStrong object oriented design principals and knowledge of design patterns. Experienced in multiple programming languages, like C/C++ and Java.\nHighly motivated web enthusiast to work in a fast-paced environment and learn new technology quickly."
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "profileAlternative": {
+    "name": "Suchendra K",
+    "headline": "Python Developer at Dutsche Bank",
+    "location": "Greater New York City Area",
+    "connections": "11"
+  },
+  "aboutAlternative": {},
+  "positions": [
+    {
+      "title": "Python Developer",
+      "companyName": "Deutsche Bank",
+      "location": "Greater New York City Area",
+      "description": "Create, activate and program in Anaconda environment.\nWorked on predictive analytics use-cases using R language and Python\nUse Python unit and functional testing modules such as unit test, unit test2, mock, and custom frameworks in-line with Agile Software Development methodologies.\nDeveloped micro services API'S for an individual module and exposed the results in JSON format using Bottle framework.\nInvolved in development of testing frameworks, used selenium web driver for Automation.\nWrote Python code embedded with JSON and XML to produce HTTP GET and POST requests for parsing HTML data from website.\nUsed JIRA for issue tracking and bug tracking for each individual sprint, and used confluence to create design documents.\nInstalled Hadoop, Map Reduce, HDFS, AWS and developed multiple MapReduce jobs in PIG and Hive for data cleaning and pre-processing.\nManage datasets using Panda data frames and MySQL, queried MYSQL database queries from python using Python-MySQL connector and MySQL dB package to retrieve information.\nGenerate Python Django forms to record data of online users and used PyTest for writing test cases.\nImplemented and modified various SQL queries and Functions, Cursors and Triggers as per the client requirements.\nClean data and processed third party spending data into maneuverable deliverables within specific format with Excel macros and python libraries such as NumPy, SQLAlchemy and matplotlib.\nAnalyze Format data using Machine Learning algorithm by Python Scikit-Learn.\nDesign and maintain databases using Python and developed Python based API (RESTful Web Service) using Flask, SQL Alchemy and PostgreSQL.\nDesign and manage API system deployment using fast http server and Amazon AWS architecture. Develop remote integration with third party platforms by using RESTful web services and Successful implementation of Apache Spark and Spark Streaming applications for large scale data.\n…\nsee more",
+      "date1": "Apr 2017 – Present",
+      "date2": "2 yrs 8 mos"
+    },
+    {
+      "title": "Python Developer",
+      "companyName": "Anthem",
+      "location": "Mason",
+      "description": "Developed strategic partnerships with the business unit to develop a solid knowledge base of the business line, including the business plan, products, and processes.\nCreated Use-Case diagrams and State diagrams using MS Visio.\nCreated entire application using Python, Django, MySQL,and Linux.\nDesigned and managed API system deployment using fast HTTP server and Amazon AWS architecture. Developed entire frontend and backend modules using Python on Django Web Framework.\nUsed Python and Django creating graphics, XML processing, data exchange and business logic implementation.\nUtilized PyUnit, the Python unit test framework, for all Python applications.\nDesigned and maintained databases using Python and developed Python-based API (RESTful Web Service) using Flask, SQL Alchemy, and Postgre SQL.\nUsing Amazon EC2 command line interface along with Bash/Python to automate repetitive work.\nDeveloped GUI using webapp2 for dynamically displaying the test block documentation and other features of python code using a web browser.\nDesigned and developed components using Python with Django framework.\nImplemented code in python to retrieve and manipulate data.\nInvolved in writing SQL queries implementing functions, triggers, cursors, object types, sequences, indexes etc.\nResponsible for setting up Python REST API framework and spring framework using Django.\nInvolved in Installation and setting up Python /Linux test beds.\nWorked with JSON based REST Web services.\nWorked in Python on a SQL database.\nGenerated property list for every application dynamically using python.\nCreating unit test/regression test framework for working/new code.\nUsing Subversion version control tool to coordinate team-development.\nDelivered presentations on Project Status and Current Open Issues Report to Users, Stakeholders, and other involved groups.\n\n…\nsee more",
+      "date1": "Apr 2016 – Mar 2017",
+      "date2": "1 yr"
+    },
+    {
+      "title": "Python Developer",
+      "companyName": "Humana",
+      "location": "Lancaster, SC",
+      "date1": "Dec 2014 – Apr 2016",
+      "date2": "1 yr 5 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Osmania University",
+      "degree": "Bachelor's degree",
+      "fieldofstudy": "Computer Science",
+      "date1": "2009",
+      "date2": "2012"
+    }
+  ],
+  "skills": [],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/drew-joshu-904597186/",
+      "text": "Python Developer at Deutsche Bank - New York, NY"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ekta-chauhan-42a351160/",
+      "text": "Python , Angular and AWS Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/carlos-marin-a08000178/",
+      "text": "Python Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/neel-patel-8090a592/",
+      "text": "Python Developer at Steele Compliance Solutions, Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/tushar-teji-4268b6171/",
+      "text": "Python Developer at Nielson Communications, Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/ankur-g-3a3518177/",
+      "text": "Python Developer at Baxter International Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/kartikay-gautam-122083151/",
+      "text": "Python Developer at Epsilon"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sandeep-v-709618162/",
+      "text": "Python Developer. Actively looking for positions in NY/ NJ/PA."
+    },
+    {
+      "user": "https://www.linkedin.com/in/manasa-r-9489aa190/",
+      "text": "Python Developer at American Express"
+    },
+    {
+      "user": "https://www.linkedin.com/in/carl-walker-b5321b73/",
+      "text": "Python Developer & Consultant"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Suchendra K",
+    "headline": "Python Developer at Dutsche Bank",
+    "location": "Greater New York City Area",
+    "connections": "11"
+  }
+}

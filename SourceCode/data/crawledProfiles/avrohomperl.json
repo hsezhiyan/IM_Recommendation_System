@@ -1,0 +1,214 @@
+{
+  "profileAlternative": {
+    "name": "Avi (Avrohom Perl) Perl",
+    "headline": "PHP Developer at TransUnion (TLO)",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQGF5b61JV-QjQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=YePuxucZ9G4vAX9ZYqugMeO0hVu8meuy_xHK6vZEaJU",
+    "location": "Miami/Fort Lauderdale Area",
+    "connections": "370",
+    "summary": "Highly driven Python and SQL Developer with a passion for data and technology with marketing and management experience. Leverages strategic planning, production, organization, and technical skills to bring positive and efficient changes to operations and teams. Exceptional collaborative and interpersonal skills; able to build rapport and direct a diverse team towards a common goal, excel within deadline-driven environments. Strong background in commercial product photography, business management, database development, and marketing."
+  },
+  "aboutAlternative": {
+    "text": "Highly driven Python and SQL Developer with a passion for data and technology with marketing and management experience. Leverages strategic planning, production, organization, and technical skills to bring positive and efficient changes to operations and teams. Exceptional collaborative and interpersonal skills; able to build rapport and direct a diverse team towards a common goal, excel within deadline-driven environments. Strong background in commercial product photography, business management, database development, and marketing."
+  },
+  "positions": [
+    {
+      "title": "PHP Developer",
+      "companyName": "TransUnion",
+      "location": "Boca Raton, FL",
+      "date1": "Jul 2019 – Present",
+      "date2": "5 mos"
+    },
+    {
+      "title": "Commercial Photographer",
+      "companyName": "Perl Photography LLC",
+      "location": "Brooklyn, New York",
+      "description": "• Provide custom suite of software tools to school photographers to automate order fulfilment and photography workflow.\n• Used SQL Server, MS Access, Excel, Python, and online forms to develop a complete school photos management and ordering system. Automated all laborious backend processing, removing the need for support staff.\n• Created standard operating procedures and custom tools integrating with hardware using python and Batch scripts to manage photography workflow and handle image files, allowing the photographer to focus on their work.\n• Used Batch scripts and SSIS to integrate online order forms with SQL Server.\n• Wrote queries to transform customer orders into fulfilment instructions for the photo lab. Loaded image file data into SQL Server using Batch scripts and SSIS. Used MS Access reporting tools to create class lists and subject cards.\n• Increased profits by bringing on new schools, contracting photographers, and licensing management solution to photo studios.\n…\nsee more",
+      "date1": "Aug 2010 – Present",
+      "date2": "9 yrs 4 mos"
+    },
+    {
+      "title": "School Photographer",
+      "companyName": "SchoolPhotos.ch",
+      "location": "South Florida/NYC",
+      "description": "• Provide unique and impactful product and lifestyle photos for a wide variety of commercial clients.\n• Managed commercial photoshoots by contracting with models, stylists, and grips. Managed scheduling and crew responsibility. Scouted and rented locations when necessary.\n• Worked with clients to maximize the projects impact while staying on task, on schedule, and within budget.\n• Supervised multiple projects by giving art direction, delegating tasks, and managing progress.\n• Hired and trained additional photographers, retouchers, and 3rd party vendors, growing the studio into a well recognized and respected name in the field.\n…\nsee more",
+      "date1": "Sep 2014 – Present",
+      "date2": "5 yrs 3 mos"
+    },
+    {
+      "title": "SQL & Python Developer, Marketing Director",
+      "companyName": "Tile and Marble by Brastile",
+      "location": "Miami, FL",
+      "description": "• Built a full stack web application using Python, Flask, MySQL, SQLAlchemy, Bootstrap, HTML, CSS, JS and more to bring product data on a legacy system to employees phones. New access to product pricing and data, location information, images and more with modern search tools helps the sales team make sales, and improves warehouse operations.\n• Used SQL Server to develop custom warehouse management system to manage inventory movement and control physical inventory count. Used MS Access to build search, data entry, and reporting tools. Trained employees in system use.\n• Integrated legacy system with SQL Server using SSIS, procedures, ETL, and python to expose our data to modern applications.\n• Developed product information database in SQL Server with MS Access as a front end to manage product data and data entry by employees. Wrote queries and procedures to generate daily data exports to update multiple shopify websites and 3rd party retailer listings, automating maintenance of our online catalogs.\n• Created convention for photography assets to streamline integration with databases for use in web and marketing. Used Python and Batch scripts to automate file management, extract color information from images, FTP files to web servers, and trigger ETL process.\n• Developed web scraping tools with Python to gather marketing intelligence.\n…\nsee more",
+      "date1": "Jun 2017 – Jul 2019",
+      "date2": "2 yrs 2 mos"
+    },
+    {
+      "title": "Special Education Paraprofessional",
+      "companyName": "Darchai Menachem/Department of Education",
+      "location": "Brooklyn NY",
+      "description": "Partnered with teachers and students in a special education classroom, working on their studies/skills. Coordinated with the student’s therapists on techniques for assisting students with their social and learning abilities.",
+      "date1": "Sep 2012 – Jul 2013",
+      "date2": "11 mos"
+    }
+  ],
+  "educations": [],
+  "skills": [
+    {
+      "title": "Transact-SQL (T-SQL)"
+    },
+    {
+      "title": "SQL Server Integration Services (SSIS)"
+    },
+    {
+      "title": "Python (Programming Language)"
+    },
+    {
+      "title": "Studio Lighting",
+      "count": "3"
+    },
+    {
+      "title": "Studio Photography",
+      "count": "10"
+    },
+    {
+      "title": "Photography",
+      "count": "18"
+    },
+    {
+      "title": "Commercial Photography",
+      "count": "11"
+    },
+    {
+      "title": "Photoshop",
+      "count": "14"
+    },
+    {
+      "title": "Lightroom",
+      "count": "6"
+    },
+    {
+      "title": "Microsoft SQL Server",
+      "count": "1"
+    },
+    {
+      "title": "MySQL"
+    },
+    {
+      "title": "HTML"
+    },
+    {
+      "title": "Cascading Style Sheets (CSS)"
+    },
+    {
+      "title": "Flask"
+    },
+    {
+      "title": "Commercial Product Photography",
+      "count": "4"
+    },
+    {
+      "title": "Food Photography",
+      "count": "12"
+    },
+    {
+      "title": "Photo Shoot Production"
+    },
+    {
+      "title": "SQL SSMS"
+    },
+    {
+      "title": "SQLAlchemy"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "1",
+    "receivedCount": "5",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/leviteitlebaum/",
+        "text": "Avrohom has a careful eye for detail with his product and commercial photographer, honest as a buzzing bee, he keeps you informed, educated and scheduled at his top priority which ever project comes his way. I recommend him for all the complicated and simple projects."
+      },
+      {
+        "user": "https://www.linkedin.com/in/shneur-lakein-65a347110/",
+        "text": "Avrohom was very professional and efficient. His photos were excellent and we used them in multiple campaigns. I would highly recommend him!"
+      },
+      {
+        "user": "https://www.linkedin.com/in/rivkakorf/",
+        "text": "Avrohom Perl is a very talented product photographer. He did food product shots for Sushi K Bar which came out amazing! He is very professional and provides good results. I highly recommend him!"
+      },
+      {
+        "user": "https://www.linkedin.com/in/yossiitzinger/",
+        "text": "I collaborated with Avrohom on several projects. He's someone that you hire the first time based on his reputation. You hire him every time after that because you realize that hiring anyone else is an instantly noticeable downgrade."
+      },
+      {
+        "user": "https://www.linkedin.com/in/chani-goldberg-a968a627/",
+        "text": ""
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/boruchdubrow/",
+        "text": "Boruch has been more than just a copywriter for me, but a close friend and confident. It is specifically his range of skills and experience as a copywriter, life coach and teacher that I think makes him so good. More than just technical writing, Boruch got into the meat and potatoes of what I was working on so he truely could understand what he was writing about. In the end, his other insites and ideas proved just as valuable as his writing and I am forever greatful."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "1",
+      "items": [
+        "English"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/peter-levitan-9340a6181/",
+      "text": "Owner of small independent press publishing creative contemporary Jewish texts"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jordan-jacob-aba1b323/",
+      "text": "Customer Support Representative II for TransUnion Risk and Alternative Data Solutions, Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/richardiappel/",
+      "text": "Entrepreneur and Business Development Consultant"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sholomaber/",
+      "text": "Technical Support Engineer & Developer @ Rallybound - a Neon One Company"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tehila-abrekov-60a94664/",
+      "text": "Psychiatric Nurse Practitioner, Professor at WestCoast University"
+    },
+    {
+      "user": "https://www.linkedin.com/in/naftoli-rapoport-7617721b/",
+      "text": "Teacher of Currriculum Development"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sam-hauptman-a35b607/",
+      "text": "Chief Operating Officer at Greater New York Nursing Services"
+    },
+    {
+      "user": "https://www.linkedin.com/in/rikal-block-52844b5b/",
+      "text": "Co Director at Chabad Cayman"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mayer-schmukler-9103336/",
+      "text": "President at New Era Solutions"
+    },
+    {
+      "user": "https://www.linkedin.com/in/barry-sheinkopf-131b0145/",
+      "text": "Book Design"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Avi (Avrohom Perl) Perl",
+    "headline": "PHP Developer at TransUnion (TLO)",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQGF5b61JV-QjQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=YePuxucZ9G4vAX9ZYqugMeO0hVu8meuy_xHK6vZEaJU",
+    "location": "Miami/Fort Lauderdale Area",
+    "connections": "370",
+    "summary": "Highly driven Python and SQL Developer with a passion for data and technology with marketing and management experience. Leverages strategic planning, production, organization, and technical skills to bring positive and efficient changes to operations and teams. Exceptional collaborative and interpersonal skills; able to build rapport and direct a diverse team towards a common goal, excel within deadline-driven environments. Strong background in commercial product photography, business management, database development, and marketing."
+  }
+}

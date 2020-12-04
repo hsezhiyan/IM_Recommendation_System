@@ -1,0 +1,228 @@
+{
+  "profileAlternative": {
+    "name": "Monica Beckwith",
+    "headline": "Java Champion, First Lego League Coach, Passionate about JVM Performance at Microsoft",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQGS3PE1S_6XBw/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=CDDiH5-PkJDJJ62Vha7zKC382NedHIgW3A2MJn8CVQ0",
+    "location": "Georgetown, Texas",
+    "connections": "500+",
+    "summary": "Java Champion Monica Beckwith is considered a subject matter expert, has several published articles and gets regular invitations to give talks on JVM/JIT Compilation/Garbage Collection (GC). She is also a JavaOne Rock Star.\nMonica has made various performance contributions to the Java HotSpot VM by identifying the need for a NUMA-aware allocator and allocation patterns, reduction of redundant instructions, reduction of the Java object header, prefetching patterns, redundant array checks in a loop and various other optimizations for the JIT compiler, the generated code, the JVM heuristics and garbage collection and collectors.\nPrior to joining Microsoft, Monica was the JVM Performance Architect at Arm. Her past also includes leading Oracle’s Garbage First Garbage Collector performance team.\n\nMonica has co-authored the 'Java Performance Companion' book and is currently working on a book that would cover Java 11 features.\nMonica is considered one of the influential women in Java and Scala:\nhttps://twitter.com/java/status/1122930296423440384?s=19\nhttps://twitter.com/javinpaul/status/1134657350906683392?s=19\nhttps://twitter.com/javinpaul/status/1133734555385360386?s=19\nhttps://www.instana.com/blog/20-developer-experts-to-follow-on-twitter/ http://blog.takipi.com/10-influential-women-in-java-scala-and-everything-in-between/\n\nMonica is on the program committee and co-chair for QCon San Francisco, JAX London, JFokus, HeapCon, etc. She is a champion of girls in STEAM and loves volunteering her time in coaching kids in the field of (Java) programming and more recently, Lego Robotics.\n\nYou can catch Monica online @mon_beck (Twitter) and also look up her presentations @SlideShare"
+  },
+  "aboutAlternative": {
+    "text": "Java Champion Monica Beckwith is considered a subject matter expert, has several published articles and gets regular invitations to give talks on JVM/JIT Compilation/Garbage Collection (GC). She is also a JavaOne Rock Star.\nMonica has made various performance contributions to the Java HotSpot VM by identifying the need for a NUMA-aware allocator and allocation patterns, reduction of redundant instructions, reduction of the Java object header, prefetching patterns, redundant array checks in a loop and various other optimizations for the JIT compiler, the generated code, the JVM heuristics and garbage collection and collectors.\nPrior to joining Microsoft, Monica was the JVM Performance Architect at Arm. Her past also includes leading Oracle’s Garbage First Garbage Collector performance team.\n\nMonica has co-authored the 'Java Performance Companion' book and is currently working on a book that would cover Java 11 features.\nMonica is considered one of the influential women in Java and Scala:\nhttps://twitter.com/java/status/1122930296423440384?s=19\nhttps://twitter.com/javinpaul/status/1134657350906683392?s=19\nhttps://twitter.com/javinpaul/status/1133734555385360386?s=19\nhttps://www.instana.com/blog/20-developer-experts-to-follow-on-twitter/ http://blog.takipi.com/10-influential-women-in-java-scala-and-everything-in-between/\n\nMonica is on the program committee and co-chair for QCon San Francisco, JAX London, JFokus, HeapCon, etc. She is a champion of girls in STEAM and loves volunteering her time in coaching kids in the field of (Java) programming and more recently, Lego Robotics.\n\nYou can catch Monica online @mon_beck (Twitter) and also look up her presentations @SlideShare"
+  },
+  "positions": [
+    {
+      "title": "JVM Performance",
+      "companyName": "Microsoft",
+      "date1": "Jul 2019 – Present",
+      "date2": "5 mos"
+    },
+    {
+      "title": "Coach",
+      "companyName": "FIRST Lego League (FLL - Lego Robotics) - Volunteer",
+      "date1": "Sep 2017 – Present",
+      "date2": "2 yrs 3 mos"
+    },
+    {
+      "title": "Managed Runtimes Performance Architect",
+      "companyName": "Arm",
+      "location": "Austin, Texas",
+      "description": "Monica was the performance architect for managed runtimes for Arm64 servers. Monica developed a cohesive vision for the Arm ecosystem to help Arm partners and the various open source communities and to enable competitive performance on Arm based servers.",
+      "date1": "Mar 2018 – Jul 2019",
+      "date2": "1 yr 5 mos"
+    },
+    {
+      "title": "Principal Consultant and President",
+      "companyName": "Code Karam LLC",
+      "location": "www.codekaram.com",
+      "description": "For the latest news, check the summary section. You can also catch Monica online @mon_beck (Twitter) and also look up her presentations @SlideShare for the following conferences:\nDevoxxUS 2017\nJFokus 2017\nQCon NY 2016\nAPMCon 2016\nJavaZone 2016\nJDKIO 2016\nJAX London 2016\nEarlier in 2016, Monica presented a keynote at QCon Beijing 2016 and was invited to present at Huawei STW 2016.\n\nSE Radio:\nhttp://www.se-radio.net/2016/04/se-radio-episode-255-monica-beckwith-on-java-garbage-collection/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+se-radio+%28Software+Engineering+Radio%29\n\nVirtual JUG (March 2016):\nhttp://zeroturnaround.com/rebellabs/gc-tuning-confessions-of-a-performance-engineer-by-monica-beckwith/\n\nQCon London 2016:\nhttp://www.codekaram.com/2016/03/java9g1gc/\nhttp://www.codekaram.com/2016/03/game-of-performance-a-song-of-jit-and-gc/\n\nInterviews:\nhttp://www.infoq.com/interviews/beckwith-garbage-collection\n\nTrack Lead:\nQCon SF: https://qconsf.com/sf2015/track/taking-java-next-level\n\nArticles:\nhttps://www.infoq.com/author/Monica-Beckwith#Articles\n\nhttp://www.slideshare.net/MonicaBeckwith/way-improved-gc-tuning-confessions-presented-at-javaone2015\nhttp://www.infoq.com/articles/Make-G1-Default-Garbage-Collector-in-Java-9\nhttp://www.slideshare.net/MonicaBeckwith/gc-tuning-confessions-of-a-performance-engineer-improved\nhttp://www.infoq.com/articles/The-OpenJDK9-Revised-Java-Memory-Model\nhttp://www.slideshare.net/MonicaBeckwith/gc-confessions\n\nPast conferences:\nJavaOne 2015\nStrangeLoop 2015\nPhillyETE 2015\n…\nsee more",
+      "date1": "2014 – Mar 2018",
+      "date2": "4 yrs"
+    },
+    {
+      "title": "Instructor and Partner",
+      "companyName": "Extreme Performance Experts",
+      "location": "http://extremeperformance.expert",
+      "date1": "2014 – Mar 2018",
+      "date2": "4 yrs"
+    },
+    {
+      "title": "Performance Architect",
+      "companyName": "A Startup Company",
+      "description": "http://www.infoq.com/articles/Hadoop-Cluster\nhttp://www.slideshare.net/MonicaBeckwith/j1-2014-con5660-taming-hadoop-on-a-lowpower-cluster\nhttp://www.infoq.com/articles/Java-PERMGEN-Removed",
+      "date1": "Sep 2013 – Feb 2015",
+      "date2": "1 yr 6 mos"
+    },
+    {
+      "title": "Principal Member of Technical Staff",
+      "companyName": "Oracle Corporation",
+      "description": "Monica Beckwith led the performance for Oracle HotSpot's Garbage First Garbage Collector. Monica worked with many industry standard Java based benchmarks and customers with a constant goal of finding opportunities for improvement in Oracle's HotSpot VM.\n\nTalks for JavaOne 2013:\nCON3754 - Garbage-First Garbage Collector: Migration to, Expectations, and Advanced Tuning\nCON5497 - Garbage-First Collector: Current and Future Adaptability and Ergonomics—Manual Tuning\nHands on Lab: Tuning Low-Pause Garbage Collection - HOL5429\n\nTips for Tuning the Garbage First Garbage Collector:\nhttp://www.infoq.com/articles/tuning-tips-G1-GC\n\nGarbage First Garbage Collector Tuning:\nhttp://www.oracle.com/technetwork/articles/java/g1gc-1984535.html\n\nG1: One Garbage Collector To Rule Them All:\nwww.infoq.com/articles/G1-One-Garbage-Collector-To-Rule-Them-All\n\nDeep Dive into G1 Garbage Collector talk at QCon NY 2013:\nhttp://www.infoq.com/presentations/java-g1\n\nG1 and Advanced Tuning (JVM and GC) talks at JavaOne 2012:\nCON7236 - Advanced JVM Tuning\nCON6583 - G1 Garbage Collector Performance Tuning\n…\nsee more",
+      "date1": "Feb 2010 – Sep 2013",
+      "date2": "3 yrs 8 mos"
+    },
+    {
+      "title": "Java Perfomance Engineer",
+      "companyName": "Sun Microsystems",
+      "date1": "Oct 2008 – Sep 2013",
+      "date2": "5 yrs"
+    },
+    {
+      "title": "Performance Lead - Senior",
+      "companyName": "Spansion",
+      "description": "Monica lead the performance effort at Spansion Inc. for their EcoRAM product.",
+      "date1": "Jan 2008 – Oct 2008",
+      "date2": "10 mos"
+    },
+    {
+      "title": "Performance Engineer - Consultant",
+      "companyName": "Sun Microsystems",
+      "description": "Monica was a consultant with Java Performance Team",
+      "date1": "Jul 2007 – Sep 2007",
+      "date2": "3 mos"
+    },
+    {
+      "title": "Performance Engineer",
+      "companyName": "Advanced Micro Devices (AMD)",
+      "date1": "2003 – 2007",
+      "date2": "4 yrs"
+    },
+    {
+      "title": "Research Associate",
+      "companyName": "Center for Astronomical Adaptive Optics, Steward Observatory",
+      "location": "Tucson, Arizona",
+      "description": "Monica worked on Multiple Mirror Telescope chiller, board design and communications.",
+      "date1": "2001 – 2002",
+      "date2": "1 yr"
+    },
+    {
+      "title": "Design and Development Engineer",
+      "companyName": "Core Electronics Design",
+      "date1": "1999 – 2001",
+      "date2": "2 yrs"
+    },
+    {
+      "title": "Intern",
+      "companyName": "Core Electronics Design",
+      "date1": "Jun 1995 – May 1996",
+      "date2": "1 yr"
+    }
+  ],
+  "educations": [
+    {
+      "title": "University of Arizona",
+      "degree": "Master's degree",
+      "fieldofstudy": "Electrical & Computer Engineering"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Java",
+      "count": "39"
+    },
+    {
+      "title": "System Architecture",
+      "count": "31"
+    },
+    {
+      "title": "Performance Tuning",
+      "count": "29"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "3",
+    "receivedCount": "4",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/jody-mccoy-1b916215/",
+        "text": "Monica worked for me as a co-op on two occasions, in the Fall of 2002 and again in the Summer of 2003. The first term, Monica supported my HyperTracer team, developing and debugging C++ programs and perl scripts. HyperTracer is a tool developed by the HyperTracer team to regenerate the exact instruction stream (typically 300 to 400 million instructions) that was executed by a target platform. The team had to hide memory from the operating system, stop the cpu at a user-specified time, dump the system state, set up a special tracking mode which would send tracking information to a memory buffer, then dump the buffer to file, and regenerate the instruction stream via a software model of the cpu. Monica wrote some of the scripts we used to transfer data between machines for a post-processing farm and some of the programs used to hide memory from the system. On her second term, Monica worked on evaluating the performance of SpecJBB. Her assignment was to evaluate SpecJBB’s performance to extrapolate the benefits of either doubling the L2 cache or adding a second cpu core. Monica completed the analysis and generated a report of her findings for AMD which was also used for her thesis. Monica successfully completed the tasks involved with both of her terms. It was good to have her back for a second term. She is self-driven, resourceful, personable, and accepts responsibility well. She was a valuable asset to the team.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/denissheahan/",
+        "text": "I worked with Monica for over 4 years doing deep dive analysis of Java Performance on the latest SPARC processors. Monica is talented Engineer with an inquisitive mind and an extremely strong work ethic. She is always prepared to go the extra mile to get the root of performance issues. Her skills include a deep knowledge of Java internals, OS tuning, hardware counters and system architecture. I highly recommend Monica for any performance role.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/johnnwilson/",
+        "text": "In Monica's relatively brief tenure at Spansion, she made a lot of impact. Her aggressive and smart contributions to performance analysis and benchmarking for a new, flash-based DRAM replacement product for server applications helped increase my and our collective understanding of the system, which was largely developed by a third party. I recommend her skills and contributions in a team environment where insight and rapid results are valued...\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/ananddeb/",
+        "text": "I worked briefly under her guidance as an intern during my stint at L&T. Monica's strong fundamentals on embedded technologies and her willingness to teach starting from a grass-root level helped me immensely in my engineering days."
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/jody-mccoy-1b916215/",
+        "text": "During my Masters, I worked as a co-op for AMD and Jody was my manager. Today anything that I know about Server Performance, benchmarking, Server tuning, NUMA architecture, Opteron Architecture is all thanks to Jody. He mentored me during all my co-ops at AMD and I think I am a fine Performance engineer, thanks to him and his team. I really appreciate the opportunity to be able to learn from the very best - Jody!"
+      },
+      {
+        "user": "https://www.linkedin.com/in/johnnwilson/",
+        "text": "John's a practical manager with a great foresight. I enjoyed having a manager that was intellectually stimulating and would encourage the growth of ideas. John's a well-organized people's person and I find it amazing how he's a perfect blend of technical and managerial skills!\r\n\r\nI highly recommend him to any company looking for experienced senior managers to manage any team, be it customer relations, engineering, technical marketing, etc."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "7",
+      "items": [
+        "What the JIT!? Anatomy of the OpenJDK HotSpot VM",
+        "Java Performance Companion",
+        "Case for Defaulting to G1 Garbage Collector in Java 9",
+        "The OpenJDK Revised Java Memory Model",
+        "Where Has the Java PermGen Gone?",
+        "Tips for Tuning the Garbage First Garbage Collector",
+        "G1: One Garbage Collector To Rule Them All"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/peter-droppa-2797647/",
+      "text": "Principal Engineer at Arm"
+    },
+    {
+      "user": "https://www.linkedin.com/in/dheffelfinger/",
+      "text": "Java Champion, Consultant, Author, Conference Speaker"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ludovic-henry-2168243b/",
+      "text": "Senior Software Engineer at Microsoft"
+    },
+    {
+      "user": "https://www.linkedin.com/in/btratra/",
+      "text": "Vice President, Software Development - Java Platform (Language, JVM, Libraries, Security/Vulnerability, UI, Embedded)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/captainwebber/",
+      "text": "Sr Technical Product Owner at ResMed"
+    },
+    {
+      "user": "https://www.linkedin.com/in/poonamparhar/",
+      "text": "Consulting Member of Technical Staff"
+    },
+    {
+      "user": "https://www.linkedin.com/in/rohitrajasekharan/",
+      "text": "MicroCode Design Engineer at Intel"
+    },
+    {
+      "user": "https://www.linkedin.com/in/michael-w-735605a3/",
+      "text": "Engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/eriksquires/",
+      "text": "Performance and Capacity Architect at OpenX"
+    },
+    {
+      "user": "https://www.linkedin.com/in/matthew-terry-16a8ba75/",
+      "text": "Director of Barge Maintenance at American Commercial Lines"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Monica Beckwith",
+    "headline": "Java Champion, First Lego League Coach, Passionate about JVM Performance at Microsoft",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQGS3PE1S_6XBw/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=CDDiH5-PkJDJJ62Vha7zKC382NedHIgW3A2MJn8CVQ0",
+    "location": "Georgetown, Texas",
+    "connections": "500+",
+    "summary": "Java Champion Monica Beckwith is considered a subject matter expert, has several published articles and gets regular invitations to give talks on JVM/JIT Compilation/Garbage Collection (GC). She is also a JavaOne Rock Star.\nMonica has made various performance contributions to the Java HotSpot VM by identifying the need for a NUMA-aware allocator and allocation patterns, reduction of redundant instructions, reduction of the Java object header, prefetching patterns, redundant array checks in a loop and various other optimizations for the JIT compiler, the generated code, the JVM heuristics and garbage collection and collectors.\nPrior to joining Microsoft, Monica was the JVM Performance Architect at Arm. Her past also includes leading Oracle’s Garbage First Garbage Collector performance team.\n\nMonica has co-authored the 'Java Performance Companion' book and is currently working on a book that would cover Java 11 features.\nMonica is considered one of the influential women in Java and Scala:\nhttps://twitter.com/java/status/1122930296423440384?s=19\nhttps://twitter.com/javinpaul/status/1134657350906683392?s=19\nhttps://twitter.com/javinpaul/status/1133734555385360386?s=19\nhttps://www.instana.com/blog/20-developer-experts-to-follow-on-twitter/ http://blog.takipi.com/10-influential-women-in-java-scala-and-everything-in-between/\n\nMonica is on the program committee and co-chair for QCon San Francisco, JAX London, JFokus, HeapCon, etc. She is a champion of girls in STEAM and loves volunteering her time in coaching kids in the field of (Java) programming and more recently, Lego Robotics.\n\nYou can catch Monica online @mon_beck (Twitter) and also look up her presentations @SlideShare"
+  }
+}

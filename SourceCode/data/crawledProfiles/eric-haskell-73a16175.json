@@ -1,0 +1,251 @@
+{
+  "profileAlternative": {
+    "name": "Eric Haskell",
+    "headline": "Business Development Specialist - Corporate M&A at Allen & Overy",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQESHkR9sJJnmA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=Z6p9mThtWehXDCSiLQUPysyWnY4_wZeEmJUg26Xk5dg",
+    "location": "New York, New York",
+    "connections": "345",
+    "summary": "Business development and client relations professional with experience in finance, marketing, client service, and brand management."
+  },
+  "aboutAlternative": {
+    "text": "Business development and client relations professional with experience in finance, marketing, client service, and brand management."
+  },
+  "positions": [
+    {
+      "title": "Business Development Specialist - Corporate M&A, Private Equity, and Leveraged Finance",
+      "companyName": "Allen & Overy",
+      "date1": "Jun 2019 – Present",
+      "date2": "6 mos"
+    },
+    {
+      "title": "Business Development Coordinator - Investment Funds",
+      "companyName": "Kirkland & Ellis",
+      "location": "New York, NY",
+      "description": "Produced 150+ pitchbooks and several textbooks, from initial compiling and editing through to printing\nDesigned custom marketing materials: flyers, placemats, experience lists, directory submissions\nPrivate equity market research and business intelligence (Preqin, S&P Capital IQ, internal records, etc.)\nDeveloped and tracked target lists, coordinated event invitations and other campaigns, managed events\n\n…\nsee more",
+      "date1": "Nov 2017 – May 2019",
+      "date2": "1 yr 7 mos"
+    },
+    {
+      "title": "Advisor Solutions Associate",
+      "companyName": "Lord, Abbett & Co. LLC",
+      "description": "Worked with financial advisors whose clients had direct-held mutual fund accounts and SMAs\nPortfolio keep/sell analyses, zephyrs, sample SMA portfolio kits, and other sales & marketing collateral Operational and sales support: share-class expertise, legal documentation, fund information, etc.\nAcquired Series 7 and Series 66 licenses\n\n…\nsee more",
+      "date1": "Jul 2015 – Nov 2017",
+      "date2": "2 yrs 5 mos"
+    },
+    {
+      "title": "Business Development/Policy Research Intern",
+      "companyName": "Reason Foundation",
+      "location": "Greater Los Angeles Area",
+      "description": "Business Development:\nManaged CRM (SalesForce) to track donor contributions and communications\nIdentified potential repeat donors for targeted mailings\nIdentified and researched potential partner firms and grant issuers\n\nPolicy Research\nContributed extensive research on California water policy and the economics of water market creation\nAssisted journalist Shikha Dalmia with research and speech-writing\nAcknowledged in the Washington Examiner for contribution to the article “Don’t let nativism cloud the immigration debate”\n…\nsee more",
+      "date1": "Jun 2014 – Aug 2014",
+      "date2": "3 mos"
+    },
+    {
+      "title": "Front Desk Clerk/Night Auditor",
+      "companyName": "Hillsboro Club",
+      "location": "Fort Lauderdale, FL",
+      "description": "Performed night audit and prepared daily income statement for CFO and Controller\nPosted daily member charges, balanced accounts, and managed petty cash\nProcessed up to $200,000 in payments daily and performed office assistance for guests",
+      "date1": "May 2006 – Aug 2012",
+      "date2": "6 yrs 4 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Columbia University in the City of New York",
+      "degree": "Bachelor's degree",
+      "fieldofstudy": "Economics",
+      "date1": "2012",
+      "date2": "2015"
+    },
+    {
+      "title": "Broward College",
+      "degree": "Associate's degree",
+      "fieldofstudy": "Economics",
+      "date1": "2009",
+      "date2": "2011"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Customer Service",
+      "count": "9"
+    },
+    {
+      "title": "Social Media",
+      "count": "8"
+    },
+    {
+      "title": "Research",
+      "count": "11"
+    },
+    {
+      "title": "Operations Management"
+    },
+    {
+      "title": "Event Planning",
+      "count": "2"
+    },
+    {
+      "title": "Public Policy",
+      "count": "2"
+    },
+    {
+      "title": "Copy Editing"
+    },
+    {
+      "title": "Copywriting"
+    },
+    {
+      "title": "Microsoft Office",
+      "count": "7"
+    },
+    {
+      "title": "Microsoft Excel",
+      "count": "6"
+    },
+    {
+      "title": "Microsoft Word",
+      "count": "3"
+    },
+    {
+      "title": "PowerPoint",
+      "count": "5"
+    },
+    {
+      "title": "Photoshop"
+    },
+    {
+      "title": "Windows"
+    },
+    {
+      "title": "Outlook"
+    },
+    {
+      "title": "Facebook",
+      "count": "2"
+    },
+    {
+      "title": "SalesForce"
+    },
+    {
+      "title": "Microsoft Outlook",
+      "count": "1"
+    },
+    {
+      "title": "Public Speaking",
+      "count": "6"
+    },
+    {
+      "title": "Teamwork",
+      "count": "2"
+    },
+    {
+      "title": "Time Management",
+      "count": "2"
+    },
+    {
+      "title": "Team Leadership",
+      "count": "2"
+    },
+    {
+      "title": "Teaching",
+      "count": "2"
+    },
+    {
+      "title": "English"
+    },
+    {
+      "title": "SMS Host"
+    },
+    {
+      "title": "Saxophone"
+    },
+    {
+      "title": "Series 7"
+    },
+    {
+      "title": "Pitch Development"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "2",
+      "items": [
+        "Kraft Global Fellow",
+        "Phi Theta Kappa Scholarship"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "English",
+        "Spanish"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/noradonovan/",
+      "text": "Business Development Specialist at Debevoise & Plimpton"
+    },
+    {
+      "user": "https://www.linkedin.com/in/samanthakania/",
+      "text": "Business Development and Marketing Coordinator at Kirkland & Ellis LLP"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ashton-starr-a9441995/",
+      "text": "Business Development Coordinator at Kirkland & Ellis"
+    },
+    {
+      "user": "https://www.linkedin.com/in/gpruthi/",
+      "text": "Business Development at Kirkland & Ellis"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kevin-lauerman-699012162/",
+      "text": "Senior Business Development Coordinator | Davis Polk & Wardwell LLP"
+    },
+    {
+      "user": "https://www.linkedin.com/in/brittany-lux-a26b81112/",
+      "text": "Business Development at Kirkland & Ellis LLP"
+    },
+    {
+      "user": "https://www.linkedin.com/in/elizabeth-kirk-59ba77112/",
+      "text": "Business Development Coordinator at Dentons"
+    },
+    {
+      "user": "https://www.linkedin.com/in/victoria-hardy-132b9448/",
+      "text": "Business Development Coordinator"
+    },
+    {
+      "user": "https://www.linkedin.com/in/alikrukowski/",
+      "text": "Business Development at Kirkland & Ellis"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jasminemcmiller/",
+      "text": "Practice Development Manager (Private Equity) at Ropes & Gray LLP"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Performer",
+      "experience": "Music at St. Luke's Hospital",
+      "description": "Health",
+      "date1": "Sep 2013",
+      "date2": "1 mo"
+    }
+  ],
+  "profile": {
+    "name": "Eric Haskell",
+    "headline": "Business Development Specialist - Corporate M&A at Allen & Overy",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQESHkR9sJJnmA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=Z6p9mThtWehXDCSiLQUPysyWnY4_wZeEmJUg26Xk5dg",
+    "location": "New York, New York",
+    "connections": "345",
+    "summary": "Business development and client relations professional with experience in finance, marketing, client service, and brand management."
+  }
+}

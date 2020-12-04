@@ -1,0 +1,154 @@
+{
+  "profileAlternative": {
+    "name": "Fazle Rabby",
+    "headline": "Senior SQL DBA at UPS Looking for Contract Positions",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQGwXaJ3PTTwNA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=ICg9P7Gj9aXGWK549Xt8dMaeS8MZwaQShcr45IgltIc",
+    "location": "Atlanta, Georgia",
+    "connections": "50",
+    "summary": "• Over 8+ years of professional experience as Microsoft SQL serverdatabase administrator and developer in Very large databases (VLDB) and highly transactional servers and production support in SQL Server 2016/2014/2012/2008R2/2008/2005 environments.\n• Expertise in installing, configuring, planning, testing MS SQL Server 2016, 2014, 2012, 2008R2, 2008, 2005 and associated database tools, updating with latest service packs, hot fixes and security patches. Successfully implemented Capacity planning for different servers."
+  },
+  "aboutAlternative": {
+    "text": "• Over 8+ years of professional experience as Microsoft SQL serverdatabase administrator and developer in Very large databases (VLDB) and highly transactional servers and production support in SQL Server 2016/2014/2012/2008R2/2008/2005 environments.\n• Expertise in installing, configuring, planning, testing MS SQL Server 2016, 2014, 2012, 2008R2, 2008, 2005 and associated database tools, updating with latest service packs, hot fixes and security patches. Successfully implemented Capacity planning for different servers."
+  },
+  "positions": [
+    {
+      "title": "Senior SQL DBA",
+      "companyName": "UPS",
+      "location": "Greater Atlanta Area",
+      "description": "• Production support, maintenance and administration of SQL Server 2016/ 2014/2012/2008.\n• Installed and configured SQL Server 2016 on new servers.\n• Worked with new concepts in SQL Server 2016 such as Temporal Table, Stretch Database, Always Encrypted, Poly Base, Native JSON Support, Enhanced In-memory OLTP etc.\n• Routinely performed query tuning and other performance tuning practices to resolve issues and ensure that databases were working at their maximum capacity.\n• Worked on data migration from Oracle 11g to MS SQL 2014 server instances\n• WindowsAdministration,Database Design, and Performance Analysison very large and highly transactional production databases.\n• Support and troubleshoot very large databases (VLDB) with 50 GB to 3 TB.\n• Create and modify Stored Procedures and Functions to generate reports for data migration using TSQL and PL/SQL .\n• Extensively worked on Snapshot and Transactional Replication.\n• Migrated SQL Server databases from 2008 R2 to 2012/2014\n• Expert in scripting Stored Procedures for import and export from Oracle 10g and 11g to SQL Server 2012/2014.\n• Work with tools like Toad 10.5,SQL Server Migration Assistant (SSMA), SSMSfor migration between Oracle and SQL environments\n\n…\nsee more",
+      "date1": "May 2016 – Present",
+      "date2": "3 yrs 7 mos"
+    },
+    {
+      "title": "Senior SQL Server DBA",
+      "companyName": "Axiall Corp",
+      "location": "Greater Atlanta Area",
+      "description": "• Installation and Maintenance of SQL Server 2014, 2012 and 2008R2 on Test, Development and Production Environments, Active Directory Administration and MongoDB.\n• Worked with SQL Server 2012 inplace and side by side upgrade from SQL server 2005.\n• Strong experience in working on Very Large Databases(VLDB) over 2 TB for OLTP.\n• Implemented Disaster Recovery Planning, Testing andAnalyzing, continuous update of documentation.\n• Implemented Database Mirroring and Transactional Replication as a part of DR plan.\n• Worked with upgrading, cloning and migrating SQL databases in SQL Server 2012/2008R2/2008/2005.\n• Implemented the new SQL Server 2012 concepts like HADR Always ON, Availability Groups.\n• Worked in Active passive cluster environment.\n• Export or Import data from other data sources like flat files using Import/Export through DTS, SSIS.\n• Expertise in SQL server Reporting Services (SSRS) to design and develop different reports of performance metrics.\n• Checking Database Health by using DBCC Commands and DMVS\n• Hands on experience in trouble shooting database issues.Update statistics, database integrity check and Backup operations.\n• Performed Database Integrity Checks, updated Database Statistics and performed Re-indexing.\n• Created and managedschema objects such as tables, views, clusters, indexes, procedures, and triggers and maintained Referential Integrity.\n• Generated Script files of the databases whenever changes are made to stored procedures or viewsand worked onPerformance Tuning of the Stored Procedures.\n• Implementation of SQL Logins, Roles and Authentication Modes as a part Security Policies.\n• Successfully implemented the Capacity planning for different servers.\n• Creating Logins and Roles with appropriate permissions.\n• Modify Stored Procedures and complex T-SQL Queries to improve query execution process.\n• Write T-SQL Scripts for database backup jobs and daily/weekly jobs.\n\n…\nsee more",
+      "date1": "Oct 2014 – Apr 2016",
+      "date2": "1 yr 7 mos"
+    },
+    {
+      "title": "Senior SQL DBA",
+      "companyName": "Macy Technologies",
+      "location": "Duluth, Minnesota Area",
+      "description": "▪ Verifying and maintaining database backups, integrity checks, and scheduled jobs.\n▪ Applied Normalization rules in designing the database.\n▪ Involved in performance tuning and query optimization.\n▪ Supported team in resolving in DTS and T-SQL related issues.\n▪ Created Database tables with constraints and relationships between multiple tables.\n▪ Rebuilding the indexes at regular intervals better performance.\n▪ Transformation of data (Millions of records) to SQL server by SSIS, DTS, BCP.\n▪ Extensively worked on Dynamic Management Views (DMV’s) and Dynamic Management\nFunctions (DMF’s).\n▪ Created and managed schema objects such as tables, views, clusters, indexes, procedures, and triggers and maintained Referential Integrity.\n▪ Complete documentation about the database. To analyze long running slow queries and tune\nthe same to optimize application and system performance.\n▪ Rebuilding the indexes at regular intervals for better performance.\n▪ Created stored procedures for maintaining SQL Server, Written Stored Procedures for\nApplication Developers.\n▪ Played a key role in business requirements analysis, architecture designs, physical and logical Data modeling, application development by using Erwin.\n\n…\nsee more",
+      "date1": "Nov 2012 – Sep 2014",
+      "date2": "1 yr 11 mos"
+    },
+    {
+      "title": "SQL DBA",
+      "companyName": "State of Michigan",
+      "location": "Lansing, Michigan Area",
+      "description": "▪ Involved in migration of MSSQL Server 2005/2008 to MS SQL Server 2008 R2.\n▪ Configured Mirroring and Transactional Log Shipping between Primary and Secondary Servers depending on the business requirements.\n▪ Installing, configuring and maintaining SQL Server 2008 R2.\n▪ Design and normalize the databases and created different objects like tables, views, Stored Procedures, Functions, indexes rules and defaults on MS SQL server using T-SQL.\n▪ Extensively worked on Dynamic Management Views (DMV’s) and Dynamic Management\nFunctions (DMF’s).\n▪ Involved with Transact SQL (T-SQL) Coding, writing queries, cursors, functions, views, & triggers.\n▪ Complete documentation about the database. To analyze long running slow queries and tune the same to optimize application and system performance.\n▪ Integrated SQL traces with Perfmon log to have better graphical analysis to find system bottlenecks.\n▪ Created complex Stored Procedures, Triggers, Cursors, Tables, Views and SQL Joins and other statements for various applications, maintained referential integrity and implemented complex business logic.\n▪ Migrated MS Access , MySQL database to SQL Server 2008 R2 using SSMA tool\n▪ Developed stored procedures for generating Reports as per management requirement.\n▪ Tuned complex SQL Queries.\n▪ Provided day-to-day administration tasks like space and log management.\n▪ Responsible for fine tuning of the database, troubleshooting, memory management.\n▪ Maintained databases with DBCC (Rebuilding Indexes, Integrity Checks)\n\n…\nsee more",
+      "date1": "Dec 2010 – Oct 2012",
+      "date2": "1 yr 11 mos"
+    },
+    {
+      "title": "Sql Server Database Administrator",
+      "companyName": "Shell",
+      "location": "Houston, Texas Area",
+      "description": "▪ Created Database tables with constraints and relationships between multiple tables.\n▪ Created Views, User Defined Functions and Triggers.\n▪ Extensively used the VB coding and HTML usage.\n▪ Extensively used Joins and sub-Queries to simplify complex queries involving multiple tables.\n▪ Administered the MS SQL Server by creating user logins with appropriate roles, dropping and locking the logins, monitoring the user accounts, creation of groups, granting the privileges to users and groups.\n▪ Responsible for creating Stored Procedures and Scheduled to run them by creating SQL Agent Jobs.\n▪ Performed various data transfers between various servers using BCP and DTS.\n▪ Supported team in resolving in DTS and T-SQL related issues.\n▪ Involved in performance tuning and query optimization.\n▪ Performed Database and Performance testing for the database objects.\n▪ Created backup/restore and disaster recovery plans for production servers.\n▪ Backing and Restoring of Databases on Scheduled basis.\n\n…\nsee more",
+      "date1": "Apr 2008 – Oct 2010",
+      "date2": "2 yrs 7 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Dhaka University of Engineering and Technology",
+      "degree": "Bachelor's degree",
+      "fieldofstudy": "Computer Science",
+      "date1": "2004",
+      "date2": "2008"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Database Administration"
+    },
+    {
+      "title": "Databases"
+    },
+    {
+      "title": "Disaster Recovery"
+    },
+    {
+      "title": "Database Design"
+    },
+    {
+      "title": "Microsoft SQL Server"
+    },
+    {
+      "title": "Windows Server"
+    },
+    {
+      "title": "SQL Server Integration Services (SSIS)"
+    },
+    {
+      "title": "SQL"
+    },
+    {
+      "title": "SQL Server Reporting Services (SSRS)"
+    },
+    {
+      "title": "Transact-SQL (T-SQL)"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/radhika-bollu-81bb3194/",
+      "text": "Sql Server Database Administrator Looking for new roles in Dallas/Ft.Worth"
+    },
+    {
+      "user": "https://www.linkedin.com/in/charishma-v-0b9849145/",
+      "text": "Sr SQL DBA at State Street"
+    },
+    {
+      "user": "https://www.linkedin.com/in/latha-s-779189115/",
+      "text": "SQL DBA at XPO Logistics, Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/ibrahima-diagne-aa530599/",
+      "text": "Team Lead SQL DBA"
+    },
+    {
+      "user": "https://www.linkedin.com/in/raveesh-vittamsetty-057b421b/",
+      "text": "SQL DBA Admin at Change Healthcare"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nate-e-442b27112/",
+      "text": "SQL SERVER DATABASE ADMINISTRATOR"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ankita-heda-43776414/",
+      "text": "Senior DBA/DBA Project Lead (Actively looking for opportunity in USA on H1B VISA )"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shankar-siddarth-2183b5148/",
+      "text": "Sr Database Adminsitartor at UPS"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mohammad-r-749a0710a/",
+      "text": "D at D"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sqldba/",
+      "text": "Microsoft SQL Server DBA (production)"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Fazle Rabby",
+    "headline": "Senior SQL DBA at UPS Looking for Contract Positions",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQGwXaJ3PTTwNA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=ICg9P7Gj9aXGWK549Xt8dMaeS8MZwaQShcr45IgltIc",
+    "location": "Atlanta, Georgia",
+    "connections": "50",
+    "summary": "• Over 8+ years of professional experience as Microsoft SQL serverdatabase administrator and developer in Very large databases (VLDB) and highly transactional servers and production support in SQL Server 2016/2014/2012/2008R2/2008/2005 environments.\n• Expertise in installing, configuring, planning, testing MS SQL Server 2016, 2014, 2012, 2008R2, 2008, 2005 and associated database tools, updating with latest service packs, hot fixes and security patches. Successfully implemented Capacity planning for different servers."
+  }
+}

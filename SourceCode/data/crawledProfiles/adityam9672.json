@@ -1,0 +1,101 @@
+{
+  "profileAlternative": {
+    "name": "Aditya M",
+    "headline": "Full Stack JavaScript Developer at LOAN LOGICS LIMITED",
+    "location": "Jacksonville, Florida",
+    "connections": "1 connection"
+  },
+  "aboutAlternative": {},
+  "positions": [
+    {
+      "title": "Full Stack JavaScript Developer",
+      "companyName": "LOAN LOGICS LIMITED",
+      "location": "Jacksonville, Florida Area",
+      "description": "This project is based on Loan Processing and Loan Acquisition. The aim of the project is to Develop an API based interactive in-line quality and rules engine for all Mortgage origination channels.\n\n• Developed the application for responsive to different screen resolutions using Bootstrap and CSS media queries.\n• Used jQuery plugins for Drag-and-Drop, Widgets, Menus, User Interface and Forms.\n• Developed Date Time Picker using Object Oriented JavaScript extensively\n• Developed external page using jQuery (from the same domain) inside a container when a tab is clicked on via Ajax call, also to support auto mode\n• Used various bootstrap components like accordion, date picker, time picker, alert, buttons, modal and also react-bootstrap components.\n• Thorough understanding of CSS principles with a clear ideology for managing maintainable, scalable and cross-browser code\n• With the concept of React.js Worked on usage metrics and also end to end events tracing for analysis purpose.\n• Working experience on CSS Background, CSS Positioning, CSS Text, CSS Border, CSS Margin, CSS Padding, CSS Table, Pseudo Classes, Pseudo Elements and CSS behaviors in CSS.\n• Responsible for checking cross browser compatibility and hence worked on different browsers like Safari, Opera, Firefox, Google Chrome and Internet Explorer.\n• Resolved complex issues related to browser and network performance, cross-browser and legacy IE compatibility, client-side scaling, data modeling, usability and testability\n• Deep understanding and working experience in Object Oriented JavaScript programming and JavaScript Spring MVC frameworks.\n• Expert in HTML5/CSS3 development and have experience React.js, Angular.js, Responsive Design.\n\n…\nsee more",
+      "date1": "Apr 2017 – Present",
+      "date2": "2 yrs 8 mos"
+    },
+    {
+      "title": "Sr. Web Dveloper",
+      "companyName": "Inlanta Mortgage",
+      "location": "Pewaukee, WI",
+      "description": "• Web design and development, application development using HTML, JavaScript and Bootstrap\n• Designed dynamic and multi-browser compatible pages using HTML5, CSS3, SASS, Bootstrap, jQuery, AngularJS, AJAX, PHP and JavaScript.\n• Responsible for ensuring the pattern consistency across all pages.\n• Responsible for design and development of the web pages from mock- ups.\n• Responsible for creating the screens with table-less designs meeting W3C standards\n• Applied jQuery scripts for basic animation and end user screen customization purposes.\n• Used AJAX and JSON to make asynchronous calls to the project server to fetch data on the fly.\n• Developed the User Interface using HTML5, SASS, JavaScript, jQuery, PHP and AJAX.\n• Built a cross-browser graphics library using SVG and Canvas.\n• Developed and implemented UI controls and APIs with Ext JS.\n• Developed the various feature of the application using front end technologies like BackboneJS and ReactJs.\n• Using AngularJS created custom directives for data manipulations and to display data in company standard format in UI.\n• Designed flash plug-ins for including different functionalities and content.\n• Developed new reports and chart interface components using High Charts, Ajax API.\n• Developed several REST web services supporting both XML and JSON to perform tasks such as remote thermostat and demand-response management. REST web services leveraged by both web and mobile applications.\n• Maintained high level of unit test coverage through test-driven development.\n• Designed XML files for maintaining contents like video, images and audio and display them in flash application.\n• Created web pages using CSS Image Sprites.\n…\nsee more",
+      "date1": "Jun 2016 – Mar 2017",
+      "date2": "10 mos"
+    },
+    {
+      "title": "Sr. UI Developer",
+      "companyName": "OPTIMA HEALTH LTD",
+      "location": "Virginia Beach, VA",
+      "description": "Developed web application for brokers of small market health insurance for group or individual customers. Basic functionality was to get customer physical address, marital status, family health and their individual health information. After all the required information provided by customer application would figure out the best available health plan in small market and output to customers for their selection.\n• Designed and developed various Web forms using HTML, CSS, Bootstrap and JavaScript, React.JS\n• Created components using recat.js and also created documentation for components\n• Experience in using Bootstrap which can easily manipulate modal windows alerts, tooltips, scroll spy, Pop over, button, type head, etc.\n• Worked with HTML5, CSS3, JSON, JavaScript, React.js and ES6 for developing user interface.\n• Used GIRA for assigning user stories and for task runner have used Gulp.\n• Created documentation for all the components which is included in React-Bootstrap page.\n• Experience in using GIT for pulling and committing the developed content from/to the GIT repository\n• Good experience of debugging JavaScript, CSS3 and HTML5 code.\n• Designed applications that execute on various browsers such as Internet Explorer, Mozilla Firefox, Google Chrome, and Opera using various debugging tools like Firebugs/IE Developer Tools.\n• Designed and developed base classes, framework classes and re-usable components.\n• Involved in Understanding functional specifications and developing creative solutions to meet business requirements\n• Highly Curious about new front-end development technologies and thoroughly mastering them with a keen awareness of new industry developments and the evolution of programming solutions.\n• Worked closely with the project management and marketing team to completely define specifications to help ensure project acceptance.\n…\nsee more",
+      "date1": "Jul 2015 – May 2016",
+      "date2": "11 mos"
+    },
+    {
+      "title": "UI Developer",
+      "companyName": "CSC",
+      "location": "Hyderabad Area, India",
+      "description": "The Objective of this project was to develop and enhance Warehouse Management system to facilitate information tracking for various warehouse products shipped from the dispatch centres to the locations where it should be placed according to the License Plate number. The application is developed in J2EE architecture using EJB's, JSP and Servlets.\n• Actively involved in analysis of the system requirements specifications and involved in client interaction during requirements specifications.\n• Worked with HTML5, CSS3, JSP, XML, JSON, JavaScript, jQuery and jQuery UI for developing user interface.\n• Involved in writing application level code to interact with APIs, Web Services using AJAX, JSON, XML and jQuery.\n• Involved in writing jQuery-based Ajax requests using jQuery. Get (URL, data, callback, type) or jQuery. Ajax (options) and jQuery. Post (URL, data, callback, type).\n• Worked with QA team on daily basis in fixing the reported bugs/defects and checking cross platform compatibility.\n• Used jQuery events to manipulate the elements depends on the user interactions (like ready (), hover (), bind (), click (), key press (), etc.)\n• Designed table-less layouts using CSS3 and appropriate HTML5 tags as per W3C standards.\n• Created optimized graphic websites and application interfaces using HTML5, CSS3 and jQuery Framework.\n• Handled all aspects of the web applications including maintaining, testing, debugging and deploying.\n• Experience in developing for mobile with jQuery Mobile.\n• Good knowledge of debugging JavaScript and HTML code with Firefox Firebug and Google chrome JavaScript debugger.\n• Developed Architectural Design Documents and Block Diagrams.\n• Participated in the research of new technologies like jQuery-Mobile for few potential mobile app development efforts.\n…\nsee more",
+      "date1": "Aug 2014 – Jun 2015",
+      "date2": "11 mos"
+    },
+    {
+      "title": "Javascript Developer",
+      "companyName": "COCA-COLA INDIA FOUNDATION",
+      "location": "Hyderabad Area, India",
+      "description": "Design & development of Open System (Secondary Commerce Application Management), a Web-application developed at to maintain the on-line E-commerce for all the products within departments across India (data and relationships between), where they sell all the goods online with vendor's and consumers.\n• Used Grunt for building the project.\n• Developed the User Interactive web pages in a professional manner using web technologies like HTML, XHTML and CSS based on the W3C and ADA standards.\n• Gathered the data from the backend using AJAX and jQuery, JSP.\n• Gathered data from API/web services via AJAX-JSON calls and updating the DOM within the result sets.\n• Creating cross-browser compatible and standards-compliant CSS based page layouts.\n• Worked on fixing cross browser compatibility issues.\n• Created Valid XHTML, CSS templates.\n• Created and deploying new features in order to sustain and amend existing applications.\n• Developed client-side validation code using JavaScript and jQuery.\n• Created pages in Site Core and validating the HTML code with W3C Validator.\n• Fixed the HTML errors in site core content editor.\n• Fixed Front-End issues with the layouts.\n• Highly involved in making updates to the current website and simultaneously handling other projects.\n• Involved in coding pages with best Search Engine Optimization (SEO) techniques.\n…\nsee more",
+      "date1": "Oct 2013 – Jul 2014",
+      "date2": "10 mos"
+    },
+    {
+      "title": "Software Programmer",
+      "companyName": "Apollo Health, Inc.",
+      "location": "Hyderabad Area, India",
+      "description": "Apollo Healthcare provides transformational medical technologies and services helping to deliver patient care to people around the world. Apollo Healthcare provides an online website for the customers. This web website is an e-commerce application which provides an online interface to manage user accounts for the customers to facilitate customers to view, purchase products and request services of Apollo Hospitals & Pharmacies.\n• I designed, developed and implemented the Oracle database from an in-house database for Bic Graphic\n• Used Ajax, OO JavaScript, jQuery, HTML and CSS to develop the front-end client-side application\n• Created HTML markup, style sheets for new applications and provided support during integration\n• Partnered with a team of four developers to build a customized Oracle database from an original stock Oracle system through consistent communication, clear road maps and distribution of work for code creation\n• Identified end product functionality expectations and managed error tickets\n• Assisted graphic artists and manufacturing team with issues and system performance in real-time\n• Utilized feedback from key partners to increase production and optimize system performance through efficient connections of the RM and Oracle database\n• Facilitated team development to accomplish implementation of a database design project for two major companies\n• Increased production from art to manufacturing by 18% and reduced costs through system efficiencies\n…\nsee more",
+      "date1": "Jun 2012 – Sep 2013",
+      "date2": "1 yr 4 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Jawaharlal Nehru Technological University",
+      "degree": "Bachelor of Technology - BTech",
+      "fieldofstudy": "Computer Science",
+      "date1": "2007",
+      "date2": "2011"
+    }
+  ],
+  "skills": [],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/%E2%9C%89%EF%B8%8Flewis-james-haines%E2%98%8E%EF%B8%8F/",
+      "text": "Business Development Manager"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sara-holland-8014b124/",
+      "text": "Marketing Project Co-ordinator at H Tempest Ltd"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jonathan-holland-91a44833/",
+      "text": "Senior Case Manager at Ramsay & White"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mikepayneltg/",
+      "text": "Business Development Executive / Financial Services / FinTech"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Aditya M",
+    "headline": "Full Stack JavaScript Developer at LOAN LOGICS LIMITED",
+    "location": "Jacksonville, Florida",
+    "connections": "1 connection"
+  }
+}

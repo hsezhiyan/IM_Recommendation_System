@@ -1,0 +1,201 @@
+{
+  "profileAlternative": {
+    "name": "Daveed Vandevoorde",
+    "headline": "VP of Engineering at Edison Design Group, Inc.",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQGv5ZMAzCTlAg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=aP7KqqLT4SvCeVhXrNkxJWJRbXA55pHr92Hi3UniH4U",
+    "location": "Greater New York City Area",
+    "connections": "328",
+    "summary": "My professional career has centered around the C++ programming language. I'm known for being one of the three people who implemented the ill-fated \"export\" feature, as well as being the principal author of \"C++ Templates -- The Complete Guide\". I'm also a co-founder of comp.lang.c++.moderated (for a long time, the #1 on-line forum for the discussion of C++ programming), and a very active participant in the C++ standardization process (where I'm currently one of the five members of the \"direction group\").\n\nBesides my professional interest in C++, I'm also quite fond of solving more general algorithmic problems. I invented the optimal \"maximum rectangle algorithm\" (\"find the largest uniform rectangle of 1s in a rectangular array of 0s and 1s\"), pioneered some approaches to image restoration using incomplete/incorrect boundary data, and wrote a doctoral dissertation introducing an efficient rank-revealing factoring of Hankel matrices (with various applications in signal processing).\n\nI get daily requests for adding people to my \"LinkedIn network\", but I prefer to limit connections to people I actually have an acquaintance with. If we've met face-to-face or we've had a significant on-line discussion, I'll be happy to link up. Otherwise, let's do so first..."
+  },
+  "aboutAlternative": {
+    "text": "My professional career has centered around the C++ programming language. I'm known for being one of the three people who implemented the ill-fated \"export\" feature, as well as being the principal author of \"C++ Templates -- The Complete Guide\". I'm also a co-founder of comp.lang.c++.moderated (for a long time, the #1 on-line forum for the discussion of C++ programming), and a very active participant in the C++ standardization process (where I'm currently one of the five members of the \"direction group\").\n\nBesides my professional interest in C++, I'm also quite fond of solving more general algorithmic problems. I invented the optimal \"maximum rectangle algorithm\" (\"find the largest uniform rectangle of 1s in a rectangular array of 0s and 1s\"), pioneered some approaches to image restoration using incomplete/incorrect boundary data, and wrote a doctoral dissertation introducing an efficient rank-revealing factoring of Hankel matrices (with various applications in signal processing).\n\nI get daily requests for adding people to my \"LinkedIn network\", but I prefer to limit connections to people I actually have an acquaintance with. If we've met face-to-face or we've had a significant on-line discussion, I'll be happy to link up. Otherwise, let's do so first..."
+  },
+  "positions": [
+    {
+      "title": "VP of Engineering",
+      "companyName": "Edison Design Group, Inc.",
+      "description": "I work on most aspects of the C++ front end. Recent work includes the implementation of various C++17 features like \"class template argument deduction\" and \"fold expressions\".",
+      "date1": "May 1999 – Present",
+      "date2": "20 yrs 7 mos"
+    },
+    {
+      "title": "Technical Expert",
+      "companyName": "C++ Standards Committee",
+      "description": "I designed and wrote the specifications of various C++ language extensions (e.g., user-defined literals). I also contribute to fixing various defects in the specification. Lately, I've been part of the \"direction group\" of the C++ standardization committee: A small group (currently 5 people) of long-standing experts trying to provide some general direction for the evolution of that language.",
+      "date1": "1996 – Present",
+      "date2": "23 yrs"
+    },
+    {
+      "title": "Software Design Engineer",
+      "companyName": "Hewlett-Packard",
+      "description": "Tech Lead of HP-UX C++ compiler (aCC) development team.",
+      "date1": "Dec 1996 – May 1999",
+      "date2": "2 yrs 6 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Rensselaer Polytechnic Institute",
+      "degree": "Ph.D.",
+      "fieldofstudy": "Computer Science",
+      "date1": "1994",
+      "date2": "1996"
+    },
+    {
+      "title": "Rensselaer Polytechnic Institute",
+      "degree": "M.Sc.",
+      "fieldofstudy": "Computer Science",
+      "date1": "1992",
+      "date2": "1994"
+    },
+    {
+      "title": "Vrije Universiteit Brussel",
+      "degree": "M.Eng.",
+      "fieldofstudy": "Electrical Engineering / Computer Engineering",
+      "date1": "1987",
+      "date2": "1992"
+    }
+  ],
+  "skills": [
+    {
+      "title": "C++",
+      "count": "44"
+    },
+    {
+      "title": "Algorithms",
+      "count": "32"
+    },
+    {
+      "title": "Software Engineering",
+      "count": "30"
+    },
+    {
+      "title": "Software Design",
+      "count": "26"
+    },
+    {
+      "title": "Computer Science",
+      "count": "18"
+    },
+    {
+      "title": "Software Development",
+      "count": "18"
+    },
+    {
+      "title": "Programming",
+      "count": "17"
+    },
+    {
+      "title": "System Architecture",
+      "count": "8"
+    },
+    {
+      "title": "Debugging",
+      "count": "5"
+    },
+    {
+      "title": "Optimization",
+      "count": "4"
+    },
+    {
+      "title": "Scalability",
+      "count": "3"
+    },
+    {
+      "title": "C",
+      "count": "25"
+    },
+    {
+      "title": "Unix",
+      "count": "14"
+    },
+    {
+      "title": "Linux",
+      "count": "11"
+    },
+    {
+      "title": "High Performance Computing",
+      "count": "12"
+    },
+    {
+      "title": "Parallel Computing",
+      "count": "7"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "4",
+      "items": [
+        "Dutch",
+        "English",
+        "French",
+        "Spanish"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "C++ Templates — The Complete Guide (second edition)",
+        "C++ Templates: The Complete Guide",
+        "The Maximal Rectangle Problem"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/wadhwanijaya/",
+      "text": "Member of Technical Staff at PayPal"
+    },
+    {
+      "user": "https://www.linkedin.com/in/vincent-reverdy/",
+      "text": "Researcher in Astrophysics, Computer Science and Artificial Intelligence"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ncmyers/",
+      "text": "All C++, All the Time"
+    },
+    {
+      "user": "https://www.linkedin.com/in/pablo-halpern-657124/",
+      "text": "President at Halpern-Wight, Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/douggregor/",
+      "text": "Senior Swift/C++/Objective-C Compiler Engineer at Apple"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mempko/",
+      "text": "Chief Technical Trouble Maker"
+    },
+    {
+      "user": "https://www.linkedin.com/in/daveabrahams/",
+      "text": "Swift Library Designer at Apple"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sean-r-parent/",
+      "text": "Sr. Principal Scientist at Adobe Systems"
+    },
+    {
+      "user": "https://www.linkedin.com/in/thephd/",
+      "text": "Software Engineer, Graphics Enthusiast, C++ Specialist"
+    },
+    {
+      "user": "https://www.linkedin.com/in/grant-mercer-82a52097/",
+      "text": "Full Stack Developer at Slickdeals, LLC"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Daveed Vandevoorde",
+    "headline": "VP of Engineering at Edison Design Group, Inc.",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQGv5ZMAzCTlAg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=aP7KqqLT4SvCeVhXrNkxJWJRbXA55pHr92Hi3UniH4U",
+    "location": "Greater New York City Area",
+    "connections": "328",
+    "summary": "My professional career has centered around the C++ programming language. I'm known for being one of the three people who implemented the ill-fated \"export\" feature, as well as being the principal author of \"C++ Templates -- The Complete Guide\". I'm also a co-founder of comp.lang.c++.moderated (for a long time, the #1 on-line forum for the discussion of C++ programming), and a very active participant in the C++ standardization process (where I'm currently one of the five members of the \"direction group\").\n\nBesides my professional interest in C++, I'm also quite fond of solving more general algorithmic problems. I invented the optimal \"maximum rectangle algorithm\" (\"find the largest uniform rectangle of 1s in a rectangular array of 0s and 1s\"), pioneered some approaches to image restoration using incomplete/incorrect boundary data, and wrote a doctoral dissertation introducing an efficient rank-revealing factoring of Hankel matrices (with various applications in signal processing).\n\nI get daily requests for adding people to my \"LinkedIn network\", but I prefer to limit connections to people I actually have an acquaintance with. If we've met face-to-face or we've had a significant on-line discussion, I'll be happy to link up. Otherwise, let's do so first..."
+  }
+}

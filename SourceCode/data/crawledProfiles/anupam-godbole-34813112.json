@@ -1,0 +1,191 @@
+{
+  "profileAlternative": {
+    "name": "Anupam Godbole",
+    "headline": "Software Engineer - Lead",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQEE1RbPBpMv5A/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=uIchFhnEgP1uTFG1fhd3FsNG16p9lz4epOCkFOADfcQ",
+    "location": "San Francisco Bay Area",
+    "connections": "297",
+    "summary": "1. 9+ years of professional experience designing and developing multiple iPhone/iPad apps and an overall experience of 12 years in software development.\n2. Designed and developed two self-started Apps for iPhone, iPod Touch and iPad available in Apple App Store by the names “TV Schedules” and “Delivery Tracker”.\n3. 3 years of professional experience in web portal designing, development and maintenance of Windows Application development in C, C++, C#, ASP.NET."
+  },
+  "aboutAlternative": {
+    "text": "1. 9+ years of professional experience designing and developing multiple iPhone/iPad apps and an overall experience of 12 years in software development.\n2. Designed and developed two self-started Apps for iPhone, iPod Touch and iPad available in Apple App Store by the names “TV Schedules” and “Delivery Tracker”.\n3. 3 years of professional experience in web portal designing, development and maintenance of Windows Application development in C, C++, C#, ASP.NET."
+  },
+  "positions": [
+    {
+      "title": "SoundHound Inc.",
+      "location": "Santa Clara, California",
+      "date1": "Aug 2016 – Present",
+      "date2": "3 yrs 4 mos",
+      "roles": [
+        {
+          "title": "Software Engineer - Lead",
+          "date1": "Aug 2016 – Present",
+          "date2": "3 yrs 4 mos",
+          "location": "Santa Clara, California"
+        },
+        {
+          "title": "Lead iOS Developer - SoundHound app",
+          "date1": "Feb 2014 – Jul 2016",
+          "date2": "2 yrs 6 mos",
+          "location": "Santa Clara, CA"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSoftware Engineer - Lead",
+      "location": "Santa Clara, California",
+      "date1": "Aug 2016 – Present",
+      "date2": "3 yrs 4 mos",
+      "roles": [
+        {
+          "title": "Software Engineer - Lead",
+          "date1": "Aug 2016 – Present",
+          "date2": "3 yrs 4 mos",
+          "location": "Santa Clara, California"
+        }
+      ]
+    },
+    {
+      "title": "Title\nLead iOS Developer - SoundHound app",
+      "location": "Santa Clara, CA",
+      "date1": "Feb 2014 – Jul 2016",
+      "date2": "2 yrs 6 mos",
+      "roles": [
+        {
+          "title": "Lead iOS Developer - SoundHound app",
+          "date1": "Feb 2014 – Jul 2016",
+          "date2": "2 yrs 6 mos",
+          "location": "Santa Clara, CA"
+        }
+      ]
+    },
+    {
+      "title": "Senior Software Design Engineer - iOS",
+      "companyName": "Self Aware/Big Fish Games",
+      "location": "Oakland, CA",
+      "description": "* Responsible for suggesting best practices for iOS apps, implementing new features and fixing bugs in the Self Aware games' flagship game \"Casino\".\n* Responsible for creating test builds for QA using TestFlight as well as submitting and releasing the app to Apple App Store.\n* Partly involved in fixing bugs on the server side.\n…\nsee more",
+      "date1": "Nov 2012 – Feb 2014",
+      "date2": "1 yr 4 mos"
+    },
+    {
+      "title": "Mobile Application Developer",
+      "companyName": "Intouch Solutions",
+      "location": "Overland Park, KS",
+      "description": "1. GoMeals/GoMeals HD (Available in Apple App Store)\n* Designed and developed an app that helps iPhone/iPad users to keep a track of the daily calorie intake and displays the trend in the form of bar graphs.\n* Coordinated with design team, product lead and test team to get the project done.\n* Used CoreGraphics, QuartzCore to render the bar graphs and CoreLocation to search near by restaurants.\nFrameworks Used: QuartzCore, CoreGraphics, CoreAnimation, CoreLocation\n\n2. PDF Viewer\n* Designed and developed an iPad app that displays PDF pages and also supports zoom in/out functionality and displaying notes.\n* Involved using NSOperationQueue and threads to prefetch PDF pages.\n* Used Instruments to fine-tune the performance by identifying memory leaks/allocations.\nFrameworks Used: CoreGraphics\n\n3. FactorTrack (Available in App Store)\n* Developed an iPad app that helps hemophilia patients to maintain infusion records and to schedule future infusions.\n* Used CoreData to maintain the records and local notifications to receive alert for future scheduled infusions.\nFrameworks Used: CoreData, QuartzCore, CoreGraphics\n…\nsee more",
+      "date1": "Jun 2010 – Nov 2012",
+      "date2": "2 yrs 6 mos"
+    },
+    {
+      "title": "Research Assistant",
+      "companyName": "Kansas State University",
+      "description": "Plant Diagnostic Information System (PDIS)\n1. The research work involves designing, development and maintenance of PDIS web portal, which has been developed to facilitate plant diagnostic lab activities.\n2. Used advanced features of ASP.NET 2.0 like User profile creation, maintaining their roles and customization of GUI per user.\n3. Used AJAX to provide a better user experience and to increase the performance of the web site.\nTechnologies used: ASP.NET 2.0, C# 2.0, OLEDB with Oracle 10g, Telerik ASP.NET AJAX Controls, JavaScript\n…\nsee more",
+      "date1": "Jan 2008 – Jun 2010",
+      "date2": "2 yrs 6 mos"
+    },
+    {
+      "title": "Software Developer",
+      "companyName": "Calsoft Pvt. Ltd, Pune, India",
+      "description": "Continuous Data Protection\n1. Worked on Continuous Data Protection project that involved designing and developing file-system mini-filter driver that continuously takes backup of changes made to the files. The driver intercepts each read/write request, processes it and saves relevant data to files on the disk. It was developed in C and C++ using Windows Driver Development Kit (WinDDK).\n2. Designed and developed a user-space Win32 application to rollback the changes made by a particular process. The user interface and the business logic were developed in Visual C++.\n\nTechnologies used: C, C++, Windows Driver Development Kit (WinDDK), MFC.\n…\nsee more",
+      "date1": "Jul 2006 – Dec 2007",
+      "date2": "1 yr 6 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Kansas State University",
+      "degree": "MS",
+      "fieldofstudy": "Computer & Information Sciences",
+      "date1": "2008",
+      "date2": "2009"
+    },
+    {
+      "title": "Savitribai Phule Pune University",
+      "degree": "Bachelor of Engineering",
+      "fieldofstudy": "Computer Science",
+      "date1": "2002",
+      "date2": "2006"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Mobile Applications",
+      "count": "8"
+    },
+    {
+      "title": "C#",
+      "count": "3"
+    },
+    {
+      "title": "Software Design",
+      "count": "3"
+    },
+    {
+      "title": "iOS Development",
+      "count": "2"
+    },
+    {
+      "title": "iOS development",
+      "count": "1"
+    },
+    {
+      "title": "Objective-C",
+      "count": "2"
+    },
+    {
+      "title": "C++",
+      "count": "2"
+    },
+    {
+      "title": "ASP.NET",
+      "count": "2"
+    },
+    {
+      "title": "C",
+      "count": "1"
+    },
+    {
+      "title": ".NET",
+      "count": "1"
+    },
+    {
+      "title": "Visual C++"
+    },
+    {
+      "title": "iOS"
+    },
+    {
+      "title": "Visual Studio"
+    },
+    {
+      "title": "Swift"
+    },
+    {
+      "title": "Cocoa Touch"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "2",
+      "items": [
+        "Delivery Tracker",
+        "TV Schedules"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Anupam Godbole",
+    "headline": "Software Engineer - Lead",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQEE1RbPBpMv5A/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=uIchFhnEgP1uTFG1fhd3FsNG16p9lz4epOCkFOADfcQ",
+    "location": "San Francisco Bay Area",
+    "connections": "297",
+    "summary": "1. 9+ years of professional experience designing and developing multiple iPhone/iPad apps and an overall experience of 12 years in software development.\n2. Designed and developed two self-started Apps for iPhone, iPod Touch and iPad available in Apple App Store by the names “TV Schedules” and “Delivery Tracker”.\n3. 3 years of professional experience in web portal designing, development and maintenance of Windows Application development in C, C++, C#, ASP.NET."
+  }
+}

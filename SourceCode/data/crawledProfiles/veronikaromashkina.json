@@ -1,0 +1,228 @@
+{
+  "profileAlternative": {
+    "name": "Veronika Romashkina",
+    "headline": "Haskell Developer at Holmusk | Co-creator Kowainik",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQGkyzpaRiorvw/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=YZM9L7H1e1caZCtAYfPV46qR9VfnSPAfIjZnYZXuOnY",
+    "location": "Singapore",
+    "connections": "385",
+    "summary": "Hard worker with experience in web development. A goal-oriented focused person who pays attention to details and never stops learning new things and improving already existing skills.\nI am actively looking for opportunities and exciting challenges!"
+  },
+  "aboutAlternative": {
+    "text": "Hard worker with experience in web development. A goal-oriented focused person who pays attention to details and never stops learning new things and improving already existing skills.\nI am actively looking for opportunities and exciting challenges!"
+  },
+  "positions": [
+    {
+      "title": "Software Engineer",
+      "companyName": "Holmusk",
+      "location": "Singapore",
+      "description": "Haskell Developer",
+      "date1": "May 2018 – Present",
+      "date2": "1 yr 7 mos"
+    },
+    {
+      "title": "Co-Founder",
+      "companyName": "Kowainik",
+      "location": "World-wide",
+      "description": "Kowainik is a small team of enthusiasts who use Haskell and other functional technologies to develop more reliable libraries and tools. We enjoy creating our projects, and we want everybody to enjoy using them.\n\nIn our team, we have developers with 5+ years of Haskell production experience, people skilled in Elm, Kotlin, PostgreSQL any many other technologies.\n\nWhat we do:\n• Developing and maintaining more than 20 open-source production-level libraries which are used in free and commercial projects\n• Providing Haskell mentorship for beginners\n• Helping with learning materials\n• Consulting about best-practices and Haskell projects architecture\n…\nsee more",
+      "date1": "Mar 2018 – Present",
+      "date2": "1 yr 9 mos"
+    },
+    {
+      "title": "Junior Haskell Developer",
+      "companyName": "Serokell OÜ",
+      "location": "Saint Petersburg, Russian Federation",
+      "date1": "Nov 2017 – May 2018",
+      "date2": "7 mos"
+    },
+    {
+      "title": "Junior Haskell Developer",
+      "companyName": "Aelve",
+      "location": "Saint Petersburg, Russian Federation",
+      "description": "Working on \"Guide\" project — a wiki-like site for documenting the Haskell ecosystem.",
+      "date1": "Jul 2017 – Nov 2017",
+      "date2": "5 mos"
+    },
+    {
+      "title": "IT Support Assistant",
+      "companyName": "EUG Zagreb-Rijeka 2016",
+      "description": "Troubleshooting of all technology issues at the venues, support of end-users, clients, reporting technology incidents",
+      "date1": "Jul 2016 – Aug 2016",
+      "date2": "2 mos"
+    },
+    {
+      "title": "Python Web-Developer",
+      "companyName": "ATEF Group of Companies",
+      "description": "Developing, improving and maintaining modules of ERP-system for the company. Back-end Python(Frappe framework)\nInteraction with various departments and management requirements and flow of work",
+      "date1": "Jan 2016 – Jul 2016",
+      "date2": "7 mos"
+    },
+    {
+      "title": "Results Technology Specialist",
+      "companyName": "Tbilisi 2015 European Youth Olympic Festival",
+      "location": "Tbilisi, Georgia",
+      "description": "Working as a Technology Specialist at the New Volleyball Venue for Volleyball competitions within Tbilisi 2015 European Youth Olympic Festival.\nMain responsibilities: analyzing and recording the match statistics, using the international statistics program OVR Volleyball by ALL ONE-Sports company.\nAlso: observe the match closely, have solid understanding of game play and volleyball statistics, and be able to identify and communicate clearly each volleyball action that occurs throughout the game, complete data input accurately and efficiently, transcribing information into the computer system.\n…\nsee more",
+      "date1": "Jul 2015 – Aug 2015",
+      "date2": "2 mos"
+    },
+    {
+      "title": "Deputy Venue Technology Manager",
+      "companyName": "Baku 2015 European Games Operation Committee",
+      "location": "Baku, Azerbaijan",
+      "description": "Involvement and cooperation in management of the delivery project of all technology for the largest venue of Baku 2015 European Games, Olympic Stadium, which held the Opening & Closing Ceremonies and Athletics competition and Athletics Sport Test & Ramp-up Event for volunteers.\n\nResponsibilities: detailed technology design for venue spaces, layout of core technology and critical spaces; determination of all function requirements, planning, implementing and operation; delivery of planned technology on venue including network cabling, Audio Visual, scoreboard requirements, Public Alarm system support; troubleshooting of all technology issues; end-users support; managing/reporting/solving technology incidents, Microsoft Service Manager usage; managing venue technology team: communication and cooperation with technology contractors (EuroDesign, Azercell, Azerphone etc.), managing team of 8 technology volunteers; communications and working with other functions;\n…\nsee more",
+      "date1": "Aug 2014 – Jul 2015",
+      "date2": "1 yr"
+    },
+    {
+      "title": "Web Developer",
+      "companyName": "State Oil Company of the Republic of Azerbaijan (SOCAR)",
+      "description": "Developing web app with easy and clear interface to work with databases related to Ecology function using Codeigniter framework, php and MySQL technologies.",
+      "date1": "2013",
+      "date2": "less than a year"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Lomonosov Moscow State University (MSU)",
+      "degree": "Bachelor's degree",
+      "fieldofstudy": "Applied Mathematics",
+      "date1": "2010",
+      "date2": "2014"
+    },
+    {},
+    {},
+    {
+      "title": "ITMO University",
+      "degree": "Master of Science (MSc)",
+      "fieldofstudy": "Information Technologies and Programming Faculty, Computer Technology Department",
+      "date1": "2016",
+      "date2": "2018"
+    },
+    {},
+    {
+      "title": "WOWOMAN TECH TECH XANIM",
+      "degree": "Java Web Developement",
+      "fieldofstudy": "Java Web Developement",
+      "date1": "2016",
+      "date2": "2016"
+    },
+    {},
+    {},
+    {
+      "title": "Baku 2015 Games Academy",
+      "degree": "Technology Graduate",
+      "fieldofstudy": "Event Management"
+    },
+    {},
+    {},
+    {
+      "title": "Free Code Camp",
+      "degree": "Full Stack Web Development Certification",
+      "fieldofstudy": "Computer Software Engineering",
+      "date1": "2013",
+      "date2": "2014"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Haskell",
+      "count": "7"
+    },
+    {
+      "title": "Applied Mathematics",
+      "count": "12"
+    },
+    {
+      "title": "Java",
+      "count": "4"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "3",
+      "items": [
+        "The Best Project Presentation - PELICAN / QUTAN",
+        "Republican Olympiad in Programming among students - 3rd place",
+        "Moscow Mayor Scholarship"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "Azerbaijani",
+        "English",
+        "Russian"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Pelican / Qutan Project"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/chshersh/",
+      "text": "Co-creator @ Kowainik | Haskell Adept @ Holmusk"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jolandanava/",
+      "text": "Frontend Developer at Holmusk"
+    },
+    {
+      "user": "https://www.linkedin.com/in/anisha-balani-1621b163/",
+      "text": "Data Scientist at Holmusk, Singapore"
+    },
+    {
+      "user": "https://www.linkedin.com/in/srinesh-c-shenoi-96787350/",
+      "text": "Data Scientist"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kavya-george/",
+      "text": "Data Scientist at Holmusk"
+    },
+    {
+      "user": "https://www.linkedin.com/in/dr-rahul-singhal-1134674/",
+      "text": "Founder at Cerebry, looking for an experienced Mathematics teacher (CBSE, IGCSE, ICSE), Delhi/Faridabad location."
+    },
+    {
+      "user": "https://www.linkedin.com/in/jesiscatandi/",
+      "text": "Data scientist at Holmusk"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jiawei-yu-60695978/",
+      "text": "Data Scientist - Mental Health & Chronic Disease"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mrrussellong/",
+      "text": "Senior Software Engineer - iOS at Holmusk"
+    },
+    {
+      "user": "https://www.linkedin.com/in/abhijit-ghosh-93295015/",
+      "text": "Senior Data Scientist at Holmusk"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Technology/ Results Volunteer",
+      "experience": "Tbilisi 2015 European Youth Olympic Festival",
+      "description": "Science and Technology",
+      "date1": "Jul 2015 – Aug 2015",
+      "date2": "2 mos"
+    }
+  ],
+  "profile": {
+    "name": "Veronika Romashkina",
+    "headline": "Haskell Developer at Holmusk | Co-creator Kowainik",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQGkyzpaRiorvw/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=YZM9L7H1e1caZCtAYfPV46qR9VfnSPAfIjZnYZXuOnY",
+    "location": "Singapore",
+    "connections": "385",
+    "summary": "Hard worker with experience in web development. A goal-oriented focused person who pays attention to details and never stops learning new things and improving already existing skills.\nI am actively looking for opportunities and exciting challenges!"
+  }
+}

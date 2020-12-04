@@ -1,0 +1,221 @@
+{
+  "profileAlternative": {
+    "name": "Sander Mak",
+    "headline": "Director Of Technology at Picnic Technologies",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQHLHYChHydyGg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=hYvVB7L1oPORopfzfx3jvg6xGJNAjQ0Z5hAEbQEbDdQ",
+    "location": "Nijmegen Area, Netherlands",
+    "connections": "500+",
+    "summary": "I am an experienced software designer and developer with excellent analytical skills. Additionally, I have experience in being a technical lead and architect during the complete software lifecycle from inception to production. Pushing the frontier on both the backend (event-sourcing, data science) and frontend (for example using TypeScript) every day!\n\nMy interests are broad but revolve mainly around the JVM ecosystem. Emerging languages like Scala and TypeScript have my full attention. By following the leading edge of software development I keep learning and growing. Meanwhile, I contribute back by sharing knowledge at conferences like JavaOne, QCon, Jfokus, GeeCON and more. My blog can be found at http://branchandbound.net.\n\nA small selection of talks I've given:\n- Event-sourced architectures with Akka (JavaOne 2014, J-Fall 2014, Jfokus 2015)\n- TypeScript: coding JavaScript without the pain (JavaOne 2014, GeeCON 2015, DevNation 2015)\n- The ultimate dependency manager shootout (QCon New York 2014)\n- Data Science with R for Java Developers (J-Fall 2013, JavaOne 2013, won a JavaOne Rockstar award for this talk)\n- Modular Javascript in an OSGi world (QCon New York 2014)\n\nFor more talks and links to videos, checkout http://branchandbound.net/talks.html\n\nSpecialties: Java expert, TypeScript, Scala development, software architecture and service orientation, system integration."
+  },
+  "aboutAlternative": {
+    "text": "I am an experienced software designer and developer with excellent analytical skills. Additionally, I have experience in being a technical lead and architect during the complete software lifecycle from inception to production. Pushing the frontier on both the backend (event-sourcing, data science) and frontend (for example using TypeScript) every day!\n\nMy interests are broad but revolve mainly around the JVM ecosystem. Emerging languages like Scala and TypeScript have my full attention. By following the leading edge of software development I keep learning and growing. Meanwhile, I contribute back by sharing knowledge at conferences like JavaOne, QCon, Jfokus, GeeCON and more. My blog can be found at http://branchandbound.net.\n\nA small selection of talks I've given:\n- Event-sourced architectures with Akka (JavaOne 2014, J-Fall 2014, Jfokus 2015)\n- TypeScript: coding JavaScript without the pain (JavaOne 2014, GeeCON 2015, DevNation 2015)\n- The ultimate dependency manager shootout (QCon New York 2014)\n- Data Science with R for Java Developers (J-Fall 2013, JavaOne 2013, won a JavaOne Rockstar award for this talk)\n- Modular Javascript in an OSGi world (QCon New York 2014)\n\nFor more talks and links to videos, checkout http://branchandbound.net/talks.html\n\nSpecialties: Java expert, TypeScript, Scala development, software architecture and service orientation, system integration."
+  },
+  "positions": [
+    {
+      "title": "Director Of Technology",
+      "companyName": "Picnic Technologies",
+      "location": "Amsterdam Area, Netherlands",
+      "description": "Picnic is the world's fastest growing online supermarket that makes grocery shopping simple, fun, and affordable for everyone. Innovation through technology plays a key role in making this happen: be it our apps, our Java-based backend, or advanced analytics.",
+      "date1": "Sep 2019 – Present",
+      "date2": "3 mos"
+    },
+    {
+      "title": "Independent (Studio/Live) Sound Engineer",
+      "companyName": "OBM Veenendaal",
+      "description": "Working free-lance as both a record mixer and recording studio technician, and as a live sound engineer on various projects.",
+      "date1": "Jan 2002 – Present",
+      "date2": "17 yrs 11 mos"
+    },
+    {
+      "title": "Luminis",
+      "location": "Apeldoorn Area, Netherlands",
+      "description": "Software architecture is the act of purposely balancing opposing forces. Experience and knowledge are key to ensuring our clients get the software they deserve. As a Luminis fellow, I have a strong focus on sharing knowledge both within Luminis and externally.",
+      "date1": "Jan 2017 – Aug 2019",
+      "date2": "2 yrs 8 mos",
+      "roles": [
+        {
+          "title": "Fellow, Software Architect",
+          "date1": "Jan 2017 – Aug 2019",
+          "date2": "2 yrs 8 mos",
+          "location": "Apeldoorn Area, Netherlands"
+        },
+        {
+          "title": "Senior Software Engineer",
+          "date1": "Mar 2013 – Dec 2016",
+          "date2": "3 yrs 10 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nFellow, Software Architect",
+      "location": "Apeldoorn Area, Netherlands",
+      "description": "Software architecture is the act of purposely balancing opposing forces. Experience and knowledge are key to ensuring our clients get the software they deserve. As a Luminis fellow, I have a strong focus on sharing knowledge both within Luminis and externally.",
+      "date1": "Jan 2017 – Aug 2019",
+      "date2": "2 yrs 8 mos",
+      "roles": [
+        {
+          "title": "Fellow, Software Architect",
+          "date1": "Jan 2017 – Aug 2019",
+          "date2": "2 yrs 8 mos",
+          "location": "Apeldoorn Area, Netherlands"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSenior Software Engineer",
+      "description": "Building scalable and modular software on top of our open-source Amdatu stack. Architected an international product for the educational market.",
+      "date1": "Mar 2013 – Dec 2016",
+      "date2": "3 yrs 10 mos",
+      "roles": [
+        {
+          "title": "Senior Software Engineer",
+          "date1": "Mar 2013 – Dec 2016",
+          "date2": "3 yrs 10 mos"
+        }
+      ]
+    },
+    {
+      "title": "Lead developer/Software Architect",
+      "companyName": "Info Support",
+      "description": "Java and software architecture consultant for government and financial clients. Leading development teams towards high-quality solutions with flexible architectures.",
+      "date1": "Dec 2007 – Feb 2013",
+      "date2": "5 yrs 3 mos"
+    },
+    {
+      "title": "Integration developer (Java)",
+      "companyName": "Europol",
+      "description": "Applying enterprise integration patterns to streamline the interaction of components within a document analysis system. Involved with architecture, design and implementation of an Apache Camel based integration solution.",
+      "date1": "May 2011 – Dec 2011",
+      "date2": "8 mos"
+    },
+    {
+      "title": "Java architect/developer",
+      "companyName": "Bank Mendes Gans",
+      "description": "Worked as developer on a large banking-related application. Being the project's integrator as well, responsibilties included streamlining the codebase and build, overall quality monitoring and release management.\n\nIn subsequent projects I took on the role of architect/lead dev., creating SOA components with Java/Spring.\n…\nsee more",
+      "date1": "Dec 2008 – Apr 2011",
+      "date2": "2 yrs 5 mos"
+    },
+    {
+      "title": "Java developer",
+      "companyName": "vts Politie Nederland",
+      "description": "Worked on two different projects for the Dutch police organisation. Technologies: J2EE, Spring, Hibernate and others",
+      "date1": "Mar 2008 – Nov 2008",
+      "date2": "9 mos"
+    },
+    {
+      "title": "Lead developer",
+      "companyName": "UU Faculty of Social Sciences",
+      "description": "Worked as lead developer on 'Online Digital Assistance' application for migraine research, mainly consisting of Java web applications and J2ME software for Palm PDA's.",
+      "date1": "Aug 2004 – Feb 2007",
+      "date2": "2 yrs 7 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Utrecht University",
+      "degree": "Msc",
+      "fieldofstudy": "Computer Science / Software Technology",
+      "date1": "2002",
+      "date2": "2007"
+    },
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {
+      "title": "Ichthus College Veenendaal",
+      "degree": "VWO",
+      "fieldofstudy": "(Natuur en Techniek)",
+      "date1": "1996",
+      "date2": "2002"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Java",
+      "count": "20"
+    },
+    {
+      "title": "Java Enterprise Edition",
+      "count": "19"
+    },
+    {
+      "title": "Software Development",
+      "count": "15"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "1",
+    "receivedCount": "2",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/patrickvanbrabant/",
+        "text": "Sander is the man to have on your project. He is able to deliver the solutions you ask for, starting with only high level requirements. Through some initial discussions about the broad architecture of the solution, Sander comes up with a pragmatic and suitable solution taking also into account the level of complexity. He discovers issues before they materialize. Not only is Sander able to set these guideline he is also very much capable of driving the implementation home. In short, Sander is the man for the job.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/bertertman/",
+        "text": "Sander is a skilled engineer and software craftsman. An excellent presenter and writer as well. He is someone that you can send for a message. Ability to work on a complex problem alone and come up with a solution that will fit your needs."
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/bertertman/",
+        "text": "Bert is a technology-driven and ambitious person. While working as  Technology Manager Java he provided ample opportunities for growth and guidance to the Java group within Info Support, not in the least because of his expansive network in the Java world. Working with Bert was an all around good experience."
+      }
+    ]
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/hanneke-swart-a985804/",
+      "text": "Director of People at Picnic supermarkets"
+    },
+    {
+      "user": "https://www.linkedin.com/in/hansbossenbroek/",
+      "text": "CEO at Luminis"
+    },
+    {
+      "user": "https://www.linkedin.com/in/bjschrijver/",
+      "text": "CTO at OpenValue"
+    },
+    {
+      "user": "https://www.linkedin.com/in/john-broos-bb3421b/",
+      "text": "Oracle Software Engineer at Adaption Business Software"
+    },
+    {
+      "user": "https://www.linkedin.com/in/arjant1/",
+      "text": "System Engineer at GX Software"
+    },
+    {
+      "user": "https://www.linkedin.com/in/niek-schepers-9105b114/",
+      "text": "Owner Intratuin Numansdorp en Almere"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mireille-kuppens-2b971212/",
+      "text": "Independent Animation Professional"
+    },
+    {
+      "user": "https://www.linkedin.com/in/haroldfranken/",
+      "text": "Owner HNF Transport"
+    },
+    {
+      "user": "https://www.linkedin.com/in/danielgebler/",
+      "text": "CTO at Picnic"
+    },
+    {
+      "user": "https://www.linkedin.com/in/davidvismans/",
+      "text": "Chief Product Officer at Booking.com"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Sander Mak",
+    "headline": "Director Of Technology at Picnic Technologies",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQHLHYChHydyGg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=hYvVB7L1oPORopfzfx3jvg6xGJNAjQ0Z5hAEbQEbDdQ",
+    "location": "Nijmegen Area, Netherlands",
+    "connections": "500+",
+    "summary": "I am an experienced software designer and developer with excellent analytical skills. Additionally, I have experience in being a technical lead and architect during the complete software lifecycle from inception to production. Pushing the frontier on both the backend (event-sourcing, data science) and frontend (for example using TypeScript) every day!\n\nMy interests are broad but revolve mainly around the JVM ecosystem. Emerging languages like Scala and TypeScript have my full attention. By following the leading edge of software development I keep learning and growing. Meanwhile, I contribute back by sharing knowledge at conferences like JavaOne, QCon, Jfokus, GeeCON and more. My blog can be found at http://branchandbound.net.\n\nA small selection of talks I've given:\n- Event-sourced architectures with Akka (JavaOne 2014, J-Fall 2014, Jfokus 2015)\n- TypeScript: coding JavaScript without the pain (JavaOne 2014, GeeCON 2015, DevNation 2015)\n- The ultimate dependency manager shootout (QCon New York 2014)\n- Data Science with R for Java Developers (J-Fall 2013, JavaOne 2013, won a JavaOne Rockstar award for this talk)\n- Modular Javascript in an OSGi world (QCon New York 2014)\n\nFor more talks and links to videos, checkout http://branchandbound.net/talks.html\n\nSpecialties: Java expert, TypeScript, Scala development, software architecture and service orientation, system integration."
+  }
+}

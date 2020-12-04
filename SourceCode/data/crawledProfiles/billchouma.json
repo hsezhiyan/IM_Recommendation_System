@@ -1,0 +1,258 @@
+{
+  "profileAlternative": {
+    "name": "Bill Chou",
+    "headline": "C/C++ and CUDA/Deep Learning Code Generation from MATLAB & Simulink",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQG2HtSq8whvww/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=OX6hDRl9B1xqpVDCPm978F8PCYhd8N3sEdsdg2EmNtM",
+    "location": "Greater Boston Area",
+    "connections": "500+"
+  },
+  "aboutAlternative": {},
+  "positions": [
+    {
+      "title": "Sr. Product Marketing Manager",
+      "companyName": "The MathWorks",
+      "description": "Lead MathWorks C/C++ and CUDA/deep learning code generation software businesses. \n\nDevelop market opportunities, manage business planning for products, and provide direction and content for customers and customer-facing teams. Manage P&L, guide product development, and enable sales via product marketing activities. Drive business development and field marketing activities through two focused selling teams.",
+      "date1": "Jul 2007 – Present",
+      "date2": "12 yrs 5 mos"
+    },
+    {
+      "title": "Field Application Engineer Intern",
+      "companyName": "Texas Instruments",
+      "description": "Promoted adoption of Texas Instrument solutions to consumer electronics customers.",
+      "date1": "2005",
+      "date2": "less than a year"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Boston University - School of Management",
+      "degree": "Master of Business Administration (MBA)",
+      "fieldofstudy": "Marketing, Strategy & Business Analysis"
+    },
+    {
+      "title": "University of Southern California",
+      "degree": "M.S.",
+      "fieldofstudy": "Electrical Engineering"
+    },
+    {
+      "title": "University of British Columbia Electrical and Computer Engineering",
+      "degree": "Bachelor of Applied Science (B.A.Sc.)",
+      "fieldofstudy": "Electrical Engineering"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Embedded Systems",
+      "count": "51"
+    },
+    {
+      "title": "Product Marketing",
+      "count": "33"
+    },
+    {
+      "title": "Matlab",
+      "count": "26"
+    },
+    {
+      "title": "Product Management",
+      "count": "17"
+    },
+    {
+      "title": "Business Development",
+      "count": "14"
+    },
+    {
+      "title": "Software Engineering",
+      "count": "14"
+    },
+    {
+      "title": "Software Design",
+      "count": "4"
+    },
+    {
+      "title": "Software Development",
+      "count": "4"
+    },
+    {
+      "title": "Digital Signal Processors",
+      "count": "3"
+    },
+    {
+      "title": "Simulations",
+      "count": "3"
+    },
+    {
+      "title": "Solution Selling",
+      "count": "2"
+    },
+    {
+      "title": "Wireless",
+      "count": "2"
+    },
+    {
+      "title": "Go-to-market Strategy",
+      "count": "1"
+    },
+    {
+      "title": "Semiconductors",
+      "count": "1"
+    },
+    {
+      "title": "FPGA",
+      "count": "1"
+    },
+    {
+      "title": "Product Lifecycle Management",
+      "count": "1"
+    },
+    {
+      "title": "Demand Generation",
+      "count": "1"
+    },
+    {
+      "title": "Algorithms"
+    },
+    {
+      "title": "Product Development"
+    },
+    {
+      "title": "Project Management"
+    },
+    {
+      "title": "Strategy"
+    },
+    {
+      "title": "Embedded Software",
+      "count": "18"
+    },
+    {
+      "title": "Simulink",
+      "count": "14"
+    },
+    {
+      "title": "C++",
+      "count": "3"
+    },
+    {
+      "title": "C",
+      "count": "3"
+    },
+    {
+      "title": "Enterprise Software",
+      "count": "1"
+    },
+    {
+      "title": "Management",
+      "count": "5"
+    },
+    {
+      "title": "Cross-functional Team Leadership"
+    },
+    {
+      "title": "Leadership"
+    },
+    {
+      "title": "GPU"
+    },
+    {
+      "title": "Deep Learning"
+    },
+    {
+      "title": "CUDA"
+    },
+    {
+      "title": "Deep learning"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "1",
+    "receivedCount": "0",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/mo-zhou-ab885a1/",
+        "text": "Mo is driven to completing tasks on time. She pays attention to details and makes sure the important aspects of the tasks are taken care of. She is independent, hard working, and works well with others on the team. She is an asset wherever she works."
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "7",
+      "items": [
+        "Using MATLAB and TensorRT on NVIDIA GPUs",
+        "The Joy of Generating C Code from MATLAB",
+        "Reducing risk in implementing MATLAB algorithms through automatic code generation",
+        "Accelerating MATLAB Algorithms and Applications",
+        "How Will Your Control System Run?",
+        "Techniques for Generating and Measuring Production Code Constructs from Controller Models",
+        "Converting Models from Floating to Fixed Point for Production Code Generation"
+      ]
+    },
+    {
+      "count": "4",
+      "items": [
+        "GPU Coder",
+        "MATLAB Coder",
+        "Simulink PLC Coder",
+        "Embedded Coder"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "Chinese",
+        "English"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/steven-kuznicki-3b478a11/",
+      "text": "Principal Pilot Engineer and Manager at MathWorks"
+    },
+    {
+      "user": "https://www.linkedin.com/in/brtannenbaum/",
+      "text": "Marketing Manager, Speaker, and Writer at MathWorks"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kaustubhareddy/",
+      "text": "Software Engineering Manager at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/thomas-ulber-0372643/",
+      "text": "Technical Account Manager"
+    },
+    {
+      "user": "https://www.linkedin.com/in/paul-jackson-1079942/",
+      "text": "Development Manager - Simulink Data Management at MathWorks"
+    },
+    {
+      "user": "https://www.linkedin.com/in/michellethirsch/",
+      "text": "Manager of MATLAB Product Marketing / Principal Product Manager at The MathWorks"
+    },
+    {
+      "user": "https://www.linkedin.com/in/riddhi-narang-765506106/",
+      "text": "Data Scientist at JPMorgan Chase & Co."
+    },
+    {
+      "user": "https://www.linkedin.com/in/nathan-crosty-00b64b35/",
+      "text": "Senior Application Engineer at The MathWorks"
+    },
+    {
+      "user": "https://www.linkedin.com/in/erikburd/",
+      "text": "Technical Engineering Manager, Data Scientist, Professor"
+    },
+    {
+      "user": "https://www.linkedin.com/in/andycthe/",
+      "text": "Partnering and Market Development for AI & Deep Learning"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Bill Chou",
+    "headline": "C/C++ and CUDA/Deep Learning Code Generation from MATLAB & Simulink",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQG2HtSq8whvww/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=OX6hDRl9B1xqpVDCPm978F8PCYhd8N3sEdsdg2EmNtM",
+    "location": "Greater Boston Area",
+    "connections": "500+"
+  }
+}

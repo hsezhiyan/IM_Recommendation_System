@@ -1,0 +1,322 @@
+{
+  "profileAlternative": {
+    "name": "Peter Goldsborough",
+    "headline": "Software Engineer at Facebook",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQH2vKVeoyQ0RA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=aGALS_QD8ybEUJhTUIX19tJo8nZ8dQ39LcEmly3cVJQ",
+    "location": "Seattle, Washington",
+    "connections": "500+",
+    "summary": "Impact"
+  },
+  "aboutAlternative": {
+    "text": "Impact"
+  },
+  "positions": [
+    {
+      "title": "Facebook",
+      "location": "Seattle, Washington",
+      "description": "Building large scale distributed stream processing systems for realtime data at Facebook.\n\nhttps://research.fb.com/wp-content/uploads/2016/11/realtime_data_processing_at_facebook.pdf",
+      "date1": "Jan 2019 – Present",
+      "date2": "11 mos",
+      "roles": [
+        {
+          "title": "Software Engineer",
+          "date1": "Jan 2019 – Present",
+          "date2": "11 mos",
+          "location": "Seattle, Washington"
+        },
+        {
+          "title": "Software Engineer (FAIR)",
+          "date1": "Nov 2017 – Feb 2019",
+          "date2": "1 yr 4 mos",
+          "location": "Menlo Park, California"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSoftware Engineer",
+      "location": "Seattle, Washington",
+      "description": "Building large scale distributed stream processing systems for realtime data at Facebook.\n\nhttps://research.fb.com/wp-content/uploads/2016/11/realtime_data_processing_at_facebook.pdf",
+      "date1": "Jan 2019 – Present",
+      "date2": "11 mos",
+      "roles": [
+        {
+          "title": "Software Engineer",
+          "date1": "Jan 2019 – Present",
+          "date2": "11 mos",
+          "location": "Seattle, Washington"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSoftware Engineer (FAIR)",
+      "location": "Menlo Park, California",
+      "description": "Worked on the PyTorch deep learning library at Facebook AI Research (FAIR).\n\nhttps://research.fb.com/people/goldsborough-peter/",
+      "date1": "Nov 2017 – Feb 2019",
+      "date2": "1 yr 4 mos",
+      "roles": [
+        {
+          "title": "Software Engineer (FAIR)",
+          "date1": "Nov 2017 – Feb 2019",
+          "date2": "1 yr 4 mos",
+          "location": "Menlo Park, California"
+        }
+      ]
+    },
+    {
+      "title": "Research Intern",
+      "companyName": "Broad Institute of MIT and Harvard",
+      "location": "Cambridge, Massachusetts",
+      "description": "- Generative Adversarial Networks (GANs) for representation learning of microscopic cell images,\n- Produced state-of-the-art results for synthesizing cell images,\n- Paper accepted at the workshop on Machine Learning in Computational Biology at NIPS 2017.",
+      "date1": "Aug 2017 – Oct 2017",
+      "date2": "3 mos"
+    },
+    {
+      "title": "Software Engineering Intern",
+      "companyName": "Facebook",
+      "location": "London, United Kingdom",
+      "description": "- Optimized a highly distributed realtime logging framework at the core of Facebook infra.\n- Doubled throughput, redesigned major parts of the codebase and greatly improved test coverage.\n- Participated in the release, monitoring and debugging of our code on more than a million machines.\n- Hacked on codesearch tooling during a hackathon and shipped it to production.\n\nSelected as one of 13 out of many thousand interns to have dinner with Mark Zuckerberg.\n\nWorked mostly in C++ and a little Python and PHP/Hack.\n…\nsee more",
+      "date1": "May 2017 – Aug 2017",
+      "date2": "4 mos"
+    },
+    {
+      "title": "Software Engineering Intern",
+      "companyName": "Bloomberg LP",
+      "location": "London, United Kingdom",
+      "description": "- Added functionality to the Instant Bloomberg (IB) messaging system to trace messages across every hop.\n- Wrote a network traffic simulation tool that produces messages to Apache Kafka message queue clusters.\n- Included a mathematical expression lexer and parser to model traffic according to functions of time.\n- Integrated the clang-tidy static analyzer with our build system.\n- Visualized latency and message type distribution in our systems in Splunk dashboards.\n- Gave a training seminar about LLVM and clang to ~30 Bloomberg engineers.\n\nWrote code in C++, Java, Bash and Python and learnt about Apache Kafka.\n…\nsee more",
+      "date1": "Nov 2016 – Mar 2017",
+      "date2": "5 mos"
+    },
+    {
+      "title": "Software Engineering Intern",
+      "companyName": "Google",
+      "location": "London, United Kingdom",
+      "description": "- Built chatbots in Go, using the natural language processing engine inside Google’s Allo app.\n- Built a web platform that showcases Google's ad technologies in a realistic environment.\n- Wrote reference implementations of how to fetch and display ads from Google’s ads servers (DFP).\n- Open-sourced an integration of Google’s GPT ad-serving JavaScript library with AngularJS, under an official Google GitHub organization, on my own initiative.\n\nWrote code in Go, Python, JavaScript, AngularJS and Polymer.\n…\nsee more",
+      "date1": "Aug 2016 – Nov 2016",
+      "date2": "4 mos"
+    },
+    {
+      "title": "Research Assistant",
+      "companyName": "Technische Universität München",
+      "description": "Investigated the efficiency of various inter-process communication techniques for low-latency transmission of database queries at the chair for database systems. Involved low-level system programming in C and C++, benchmarking the latency of pipes, sockets and shared memory. We developed a library that transparently replaces domain socket system calls with a custom shared memory transmission channel which can speed up a variety of programs by an order of magnitude. Using the library I worked on, Postgres runs around 2x faster.\n…\nsee more",
+      "date1": "Apr 2016 – Sep 2016",
+      "date2": "6 mos"
+    },
+    {
+      "title": "Research Assistant",
+      "companyName": "Alpen-Adria-Universität",
+      "location": "Klagenfurt, Austria",
+      "description": "I gathered my first work experience at the Institute for Networked and Embedded Systems at the University of Klagenfurt in July 2014, where I worked on Non-Intrusive-Load-Monitoring (NILM) algorithms for energy-disaggregation based on real-time Particle Filtering on a UDOO development Board. I implemented the load-disaggregation algorithms with Python, C++ and SQLite3; visualized them in a web-app with Python, Flask, Heroku, PostgreSQL, HTML, CSS and Javascript and sourced appliance data using Arduino, C and Bash.\n…\nsee more",
+      "date1": "Jul 2014 – Apr 2016",
+      "date2": "1 yr 10 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Technical University Munich",
+      "degree": "Bachelor of Science (B.Sc.)",
+      "fieldofstudy": "Computer Science",
+      "date1": "2015",
+      "date2": "2017"
+    },
+    {},
+    {
+      "title": "BG/BRG St.Martin Villach",
+      "date1": "2007",
+      "date2": "2015"
+    },
+    {},
+    {}
+  ],
+  "skills": [
+    {
+      "title": "Python",
+      "count": "19"
+    },
+    {
+      "title": "Arduino",
+      "count": "11"
+    },
+    {
+      "title": "C++",
+      "count": "15"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "3",
+    "receivedCount": "4",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/eddseabrook/",
+        "text": "Peter worked as intern in my team at Bloomberg, working primarily on our C++ backend systems. He is smart, motivated and has an impressive programming ability. I enjoyed working with Peter, and would be very keen to work with him again in the future."
+      },
+      {
+        "user": "https://www.linkedin.com/in/dzhemriza/",
+        "text": "As an intern in Engineering department in Bloomberg, Peter had a number of responsibilities. He worked on a number of improvements on a C++ backend and he managed to successfully finish every one of these challenges. He is proficient in C++, Python and Java, has deep knowledge on Data Structures and Algorithms. Besides purely technical skills he is very productive, smart, result oriented. Last but not least Peter is a well-spoken person.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/alexander-van-renen-5133a280/",
+        "text": "Peter and I were working on a system level library at TUM during the summer of 2016. His outstanding motivation and dedication towards computer science and the project itself were more than inspiring. Not only is he an ace programmer, no matter which language you through at him, his skills in researching and analyzing a problem are excellent. He has my highest respect as a colleague and a person - I would always rehire him.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/andreamonacchi/",
+        "text": "I had the pleasure to work with Peter during is research internships at AAU in summer 2014 and 2015. He is goal-oriented and a very promising student, fluent in C/C++ and Python, as well as keen on embedded systems. He is very eager in learning and trying out new technical things, still he gets his work done!"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/eddseabrook/",
+        "text": "I worked in the same team as Ed during my internship at Bloomberg. During my time there, he was always happy to help me with design decisions and technical discussions and his knowledge of the Bloomberg ecosystem and C++ were of great help to me. It was a pleasure to work with him."
+      },
+      {
+        "user": "https://www.linkedin.com/in/dzhemriza/",
+        "text": "Dzhem helped me a tremendous amount during my internship at Bloomberg, mentoring me, helping me with design decisions and sharing his experience with me whenever he could. Dzhem has an incredibly deep understanding of algorithms, data structures, concurrency and especially large-scale software design. It was a pleasure to work with him."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "16",
+      "items": [
+        "IPC-Bench",
+        "Developing a Digital Synthesizer in C++",
+        "CytoGAN",
+        "clang-expand",
+        "Assembly Simulator",
+        "lru-cache",
+        "angular-dfp",
+        "dispy",
+        "li",
+        "latexpp",
+        "markdownpp",
+        "lnk",
+        "EYP Day Villach 2015",
+        "Building a text editor with PyQt",
+        "Mavrchester",
+        "EYP Day Villach 2013"
+      ]
+    },
+    {
+      "count": "6",
+      "items": [
+        "Algorithms I (Coursera)",
+        "Algorithms II (Coursera)",
+        "Calculus I (Coursera)",
+        "Deep Learning (Udacity)",
+        "Intro to Parallel Computing (Udacity)",
+        "Machine Learning (Coursera)"
+      ]
+    },
+    {
+      "count": "4",
+      "items": [
+        "English",
+        "French",
+        "German",
+        "Nerd"
+      ]
+    },
+    {
+      "count": "4",
+      "items": [
+        "ACM Student Chapter",
+        "Model United Nations",
+        "TU Investment Club",
+        "European Youth Parliament"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "Max Weber Scholarship",
+        "German National Scholarship"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "Non-Intrusive Load Monitoring: A Review and Outlook",
+        "A Tour of TensorFlow"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/yukun-wan/",
+      "text": "Software Engineer at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shanhex/",
+      "text": "Software Engineer at Facebook Inc"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ellen-tao-85835a50/",
+      "text": "Software Engineer at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/meganhansley/",
+      "text": "Software Engineer at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mohdeepa/",
+      "text": "Data Science/Machine Learning"
+    },
+    {
+      "user": "https://www.linkedin.com/in/aliceqqy/",
+      "text": "Software Engineer at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/christophpurrer/",
+      "text": "Senior Software Engineer at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/preetiahuja/",
+      "text": "Software Engineer at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/megha-tiwari-16839780/",
+      "text": "Software Engineer at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nadavrotem/",
+      "text": "Engineering Director of Compiler team at Facebook (We are hiring)"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Speaker",
+      "experience": "Python Meetup Munich",
+      "description": "Science and Technology",
+      "date1": "Jul 2016",
+      "date2": "1 mo"
+    },
+    {
+      "title": "Speaker",
+      "experience": "PyCon UK",
+      "description": "Science and Technology",
+      "date1": "Sep 2016",
+      "date2": "1 mo"
+    },
+    {
+      "title": "Speaker",
+      "experience": "C++Now",
+      "description": "Science and Technology",
+      "date1": "Feb 2017 – Present",
+      "date2": "2 yrs 10 mos"
+    },
+    {
+      "title": "Speaker",
+      "experience": "CppCon",
+      "description": "Science and Technology",
+      "date1": "Sep 2017",
+      "date2": "1 mo"
+    }
+  ],
+  "profile": {
+    "name": "Peter Goldsborough",
+    "headline": "Software Engineer at Facebook",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQH2vKVeoyQ0RA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=aGALS_QD8ybEUJhTUIX19tJo8nZ8dQ39LcEmly3cVJQ",
+    "location": "Seattle, Washington",
+    "connections": "500+",
+    "summary": "Impact"
+  }
+}

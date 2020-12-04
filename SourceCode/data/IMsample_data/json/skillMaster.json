@@ -1,0 +1,167 @@
+{"_id":{"$oid":"5bd0b77708998f3ec00db237"},"name":"UI","type":"","isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4e7e"},"name":"Agile Project Methodology","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4e7f"},"name":"Amazon Web Services (AWS)","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4e80"},"name":"Analytical","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4e81"},"name":"Analytics","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4e82"},"name":"AngularJS","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4e83"},"name":"APIs","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4e84"},"name":"Application & Server Monitoring","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4e85"},"name":"Application Development","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4e86"},"name":"Architecture","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4e87"},"name":"Big Data","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4e88"},"name":"Business Analytics","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4e89"},"name":"Business Intelligence","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4e8a"},"name":"Business Process Modeling","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4e8b"},"name":"Cloud Applications","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4e8c"},"name":"Cloud Hosting Services","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4e8d"},"name":"Cloud Maintenance Tasks","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4e8e"},"name":"Cloud Management Tools","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4e8f"},"name":"Cloud Platforms","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4e90"},"name":"Cloud Scalability","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4e91"},"name":"Cloud Services","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4e92"},"name":"Cloud Systems Administration","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4e93"},"name":"Cloud-Based Visualizations","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4e94"},"name":"Coding","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4e95"},"name":"Communication","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4e96"},"name":"Computer","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4e97"},"name":"Configuration","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4e98"},"name":"Configuration Management","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4e99"},"name":"Configure Database Software","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4e9a"},"name":"Content Management","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4e9b"},"name":"Content Strategy","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4e9c"},"name":"Continuous Deployment","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4e9d"},"name":"Continuous Integration","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4e9e"},"name":"Critical Thinking","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4e9f"},"name":"CSS","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4ea0"},"name":"Customer Support","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4ea1"},"name":"Data Analysis","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4ea2"},"name":"Data Imports","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4ea3"},"name":"Data Intelligence","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4ea4"},"name":"Data Mining","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4ea5"},"name":"Data Modeling","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4ea6"},"name":"Data Science","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4ea7"},"name":"Data Storage","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4ea8"},"name":"Data Strategy","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4ea9"},"name":"Data Visualization Tools","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4eaa"},"name":"Data Visualizations","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4eab"},"name":"Database","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4eac"},"name":"Database Administration","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4ead"},"name":"Deployment Automation Tools","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4eae"},"name":"Deployment of Cloud Services","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4eaf"},"name":"Design","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4eb0"},"name":"Design Principles","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4eb1"},"name":"Design Prototypes","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4eb2"},"name":"Design Specifications","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4eb3"},"name":"Design Thinking","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4eb4"},"name":"Design Tools","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4eb5"},"name":"Desktop Support","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4eb6"},"name":"Documentation","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4eb7"},"name":"EmberJS","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4eb8"},"name":"Emerging Technologies","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4eb9"},"name":"ExpressJS","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4eba"},"name":"File Systems","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4ebb"},"name":"Flexibility","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4ebc"},"name":"Front End Design","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4ebd"},"name":"Google Analytics","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4ebe"},"name":"Hardware","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4ebf"},"name":"Help Desk","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4ec0"},"name":"Identify User Needs","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4ec1"},"name":"Implementation","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4ec2"},"name":"Information Architecture","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4ec3"},"name":"Information Design","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4ec4"},"name":"Information Systems","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4ec5"},"name":"Install, Maintain, & Merge Databases","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4ec6"},"name":"Installation","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4ec7"},"name":"Integrated Technologies","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4ec8"},"name":"Interaction Design","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4ec9"},"name":"Interaction Flows","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4eca"},"name":"IT Optimization","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4ecb"},"name":"IT Security","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4ecc"},"name":"IT Soft Skills","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4ecd"},"name":"IT Solutions","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4ece"},"name":"IT Support","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4ecf"},"name":"Java","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4ed0"},"name":"Javascript","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4ed1"},"name":"Languages","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4ed2"},"name":"Leadership","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4ed3"},"name":"Linux","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4ed4"},"name":"Logical Thinking","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4ed5"},"name":"Management","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4ed6"},"name":"Messaging","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4ed7"},"name":"Metrics","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4ed8"},"name":"Microsoft Office","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4ed9"},"name":"Mobile Applications","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4eda"},"name":"Motivation","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4edb"},"name":"Network Operations","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4edc"},"name":"Networking","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4edd"},"name":"NodeJS","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4ede"},"name":"Open Source Technology Integration","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4edf"},"name":"Operating Systems","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4ee0"},"name":"Operations","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4ee1"},"name":"Optimize Database","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4ee2"},"name":"Optimizing User Experiences","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4ee3"},"name":"Optimizing Website Performance","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4ee4"},"name":"Organization","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4ee5"},"name":"Play Framework","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4ee6"},"name":"Presentation","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4ee7"},"name":"Problem Solving","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4ee8"},"name":"Process Flows","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4ee9"},"name":"Product Design","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4eea"},"name":"Product Development","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4eeb"},"name":"Product Management","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4eec"},"name":"Product Support","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4eed"},"name":"Product Training","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4eee"},"name":"Programming","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4eef"},"name":"Project Management","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4ef0"},"name":"Prototyping Methods","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4ef1"},"name":"Python","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4ef2"},"name":"QA","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4ef3"},"name":"Reporting","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4ef4"},"name":"Research Emerging Technology","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4ef5"},"name":"Responsive Design","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4ef6"},"name":"Review Existing Solutions","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4ef7"},"name":"Search Engine Optimization (SEO)","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4ef8"},"name":"Security","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4ef9"},"name":"Self Motivated","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4efa"},"name":"Self Starting","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4efb"},"name":"Servers","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4efc"},"name":"Software Development","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4efd"},"name":"Software Engineering","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4efe"},"name":"Storage","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4eff"},"name":"Systems Software","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4f00"},"name":"Tablets","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4f01"},"name":"Team Building","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4f02"},"name":"Team Oriented","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4f03"},"name":"Teamwork","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4f04"},"name":"Tech Skills","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4f05"},"name":"Technical Support","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4f06"},"name":"Technical Writing","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4f07"},"name":"Technology","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4f08"},"name":"Testing","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4f09"},"name":"Time Management","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4f0a"},"name":"Tools","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4f0b"},"name":"Touch Input Navigation","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4f0c"},"name":"Training","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4f0d"},"name":"Troubleshooting","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4f0e"},"name":"Twitter Bootstrap","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4f0f"},"name":"Usability","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4f10"},"name":"User Experience","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4f11"},"name":"User Flows","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4f12"},"name":"User Interaction Diagrams","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4f13"},"name":"User Interface","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4f14"},"name":"User Research","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4f15"},"name":"User Testing","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4f16"},"name":"User-Centered Design","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4f17"},"name":"Utilizing Cloud Automation Tools","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4f18"},"name":"Virtualization","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4f19"},"name":"Visual Design","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4f1a"},"name":"Web Analytics","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4f1b"},"name":"Web Applications","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4f1c"},"name":"Web Design","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4f1d"},"name":"Web Development","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4f1e"},"name":"Web Technologies","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4f1f"},"name":"Wireframes","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5bd33bdab31a204704ce4f20"},"name":"Work Independently","type":null,"isActive":"Yes"}
+{"_id":{"$oid":"5d3176b27a19bf0e9824dc30"},"isActive":"Yes","type":"Developer","name":"Software Developer","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5da5ca0e5aef2520a0b1c7fd"},"__v":{"$numberInt":"0"},"isActive":"Yes","type":"","name":"AWS"}
+{"_id":{"$oid":"5da5ca0e5aef2520a0b1c7fe"},"__v":{"$numberInt":"0"},"isActive":"Yes","type":"","name":"C#"}

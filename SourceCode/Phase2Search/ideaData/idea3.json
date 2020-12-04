@@ -1,0 +1,52 @@
+
+{
+    "_id" : "5df9681a259b930bda622c87",
+    "ideaId" : 3,
+    "programId" : "5df401b402156c2d46402b79",
+    "status" : "5df401b402156c2d46402c39",
+    "owner" : "5d0326891aadd25ce0da8778",
+    "body" : {
+        "_csrf" : "qnAVX8bI-8sG0vLc7OwDsYkvNnOGTZrsf0tg",
+        "problemStatement" : "Red Bull kicked off its first-ever Innovation Summit last weekend in New York City, bringing together a handful of collegiate entrepreneurs for a three-day workshop designed to help hone their investor pitch and further develop their business ideas. In attendance were the co-founders of an Austin-based ride-share app, Krew; an online clothing platform that helps girls choose party outfits, Swayy; and Cy5, a biometric temporary tattoo. The students, who are from the University of Texas at Austin and Wichita State University, respectively, were selected from a pool of 140 applicants.",
+        "Description" : "Tech conferences may be the next place you’ll spot big brands out to woo young entrepreneurs.\r\n\r\nRed Bull, the 34-year-old energy drink company with a brand value of $10.4 billion, is as famous for its extravagant sponsorships of racing cars, EDM festivals and a splashy 2012 supersonic freefall into New Mexico as it is for the energizing beverages. But now it’s quietly but increasingly been making its way into the startup scene.\r\n\r\nIt certainly isn’t the only corporate company taking startups seriously. From L’Oreal’s Women in Digital NEXT Generation program to Kaplan’s EdTech Accelerator, various companies have begun to invest heavily in entrepreneurship in recent years.",
+        "Title" : "Corporate Companies Investing In Young Entrepreneurs",
+        "Challenge" : "",
+        "teamMembers" : "",
+        "teamMemberShadow" : "[]",
+        "skills" : "",
+        "tags" : "",
+        "category" : "Health",
+        "referenceurls" : "",
+        "videos" : "",
+        "solutionsDifferent" : "",
+        "deletedDocuments" : "",
+        "problemId" : "",
+        "LinkedproblemId" : "0",
+        "clientTimeZone" : "480"
+    },
+    "lastModified" : "2020-01-03T18:47:16.377Z",
+    "overallImpactScore" : 25,
+    "overallEffectiveScore" : 0,
+    "sixthonscore" : [],
+    "impact_score" : 5,
+    "effort_score" : 1,
+    "workFlowLogs" : [ 
+        "5e0f8c34259b930bda622f7e"
+    ],
+    "teamMembersId" : [],
+    "displayOrder" : 0,
+    "voteScore" : 0,
+    "createdAt" : "2019-12-17T23:43:22.995Z",
+    "noViews" : [ 
+        "", 
+        "nathan.mahan@redbull.com"
+    ],
+    "noDislikes" : 0,
+    "noLikes" : 0,
+    "likes" : [],
+    "subscribers" : [ 
+        "5df7a36c02156c2d46402f6a"
+    ],
+    "comments" : [],
+    "__v" : 3
+}

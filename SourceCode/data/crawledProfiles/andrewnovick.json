@@ -1,0 +1,349 @@
+{
+  "profileAlternative": {
+    "name": "Andrew Novick anovick@novicksoftware.com",
+    "headline": "Expert Level SQL Server Consultant/Developer and SQL Server MVP",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQGq5nit4ubYVg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=XjDUoq0ZHJkD7IJCdzSqwVbNMQrbk4N9dlAIP5CMv2k",
+    "location": "Greater Boston Area",
+    "connections": "500+",
+    "summary": "25 years of experience as SQL Server programmer, consultant, project manager, trainer, and author in the Boston area with occasional national and international work.\n\nI concentrate on Microsoft SQL Server and development of business applications that use it. During the last 15 years I’ve been programming the Microsoft tools such as C#, SQL Server, VB.Net, and ASP.Net. In addition, I’m the author of one complete book, Transact-SQL User-Defined Functions, and parts of another, SQL Server 2000 XML Distilled as well as numerous articles and a newsletter on SQL Server User-Defined Functions.\n\nCustom training is another activity of mine. I only do training in SQL Server and customize the course to the specific needs of the client. My most recent classes are writing faster stored procedures and functions, query optimization, and advanced features of SQL Server.\n\nBTW I usually go by Andy\nCommon Misspellings: Andy Novack, Novak, Andy Novich\n\nSpecialties: SQL Server development consulting and application development: performance tuning, database design, problem solving. Development with Microsoft tools such as SQL Server, Visual Studio, C#, VB.net."
+  },
+  "aboutAlternative": {
+    "text": "25 years of experience as SQL Server programmer, consultant, project manager, trainer, and author in the Boston area with occasional national and international work.\n\nI concentrate on Microsoft SQL Server and development of business applications that use it. During the last 15 years I’ve been programming the Microsoft tools such as C#, SQL Server, VB.Net, and ASP.Net. In addition, I’m the author of one complete book, Transact-SQL User-Defined Functions, and parts of another, SQL Server 2000 XML Distilled as well as numerous articles and a newsletter on SQL Server User-Defined Functions.\n\nCustom training is another activity of mine. I only do training in SQL Server and customize the course to the specific needs of the client. My most recent classes are writing faster stored procedures and functions, query optimization, and advanced features of SQL Server.\n\nBTW I usually go by Andy\nCommon Misspellings: Andy Novack, Novak, Andy Novich\n\nSpecialties: SQL Server development consulting and application development: performance tuning, database design, problem solving. Development with Microsoft tools such as SQL Server, Visual Studio, C#, VB.net."
+  },
+  "positions": [
+    {
+      "title": "Novick Software, Inc.",
+      "location": "Massachusetts, USA",
+      "description": "Consultant specializing in SQL Server, business intelligence and business applications development. Most projects involve making SQL Server perform well with billions of rows and terabytes of storage.\n\nProjects include:\n- Performance Tuning, Performance Tuning\n- Conversion to In-Memory tables and Natively Compiled stored procedures. Wow! Really fast!\n- Schema changes and partitioning, geared to improving performance\n- Code rewrite to improve performance.\n- Data Warehouse application development using the Kimball design patterns.\n- SQL Server problem solving\n- Enhancing SQL Server applications\n- Instruct the client's staff on techniques for writing better, faster T-SQL\n- ASP.Net/SQL Server Customer Management application\n- .Net WinForms Periodicals accounting application\n- SQL Server Query Manager/Audit Tool\n- Quote and work order generation for a manufacturer.\n- Labor Scheduling and Time & Attendance for retail chains.\n- Project manager for troubled projects.\n- Web applications for broker registration & electronic forms filing.\n- Classroom instructor in VB, SQL Server, and systems analysis.\n\nIndustries include: financial services, retail, manufacturing, distribution, transportation, publications, and government.\n…\nsee more",
+      "date1": "Apr 1997 – Present",
+      "date2": "22 yrs 8 mos",
+      "roles": [
+        {
+          "title": "SQL Server Consultant",
+          "date1": "Apr 1997 – Present",
+          "date2": "22 yrs 8 mos",
+          "location": "Massachusetts, USA"
+        },
+        {
+          "title": "SQL Server Consultant",
+          "date1": "Apr 1997 – Present",
+          "date2": "22 yrs 8 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSQL Server Consultant",
+      "location": "Massachusetts, USA",
+      "description": "Consultant specializing in SQL Server, business intelligence and business applications development. Most projects involve making SQL Server perform well with billions of rows and terabytes of storage.\n\nProjects include:\n- Performance Tuning, Performance Tuning\n- Conversion to In-Memory tables and Natively Compiled stored procedures. Wow! Really fast!\n- Schema changes and partitioning, geared to improving performance\n- Code rewrite to improve performance.\n- Data Warehouse application development using the Kimball design patterns.\n- SQL Server problem solving\n- Enhancing SQL Server applications\n- Instruct the client's staff on techniques for writing better, faster T-SQL\n- ASP.Net/SQL Server Customer Management application\n- .Net WinForms Periodicals accounting application\n- SQL Server Query Manager/Audit Tool\n- Quote and work order generation for a manufacturer.\n- Labor Scheduling and Time & Attendance for retail chains.\n- Project manager for troubled projects.\n- Web applications for broker registration & electronic forms filing.\n- Classroom instructor in VB, SQL Server, and systems analysis.\n\nIndustries include: financial services, retail, manufacturing, distribution, transportation, publications, and government.\n…\nsee more",
+      "date1": "Apr 1997 – Present",
+      "date2": "22 yrs 8 mos",
+      "roles": [
+        {
+          "title": "SQL Server Consultant",
+          "date1": "Apr 1997 – Present",
+          "date2": "22 yrs 8 mos",
+          "location": "Massachusetts, USA"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSQL Server Consultant",
+      "date1": "Apr 1997 – Present",
+      "date2": "22 yrs 8 mos",
+      "roles": [
+        {
+          "title": "SQL Server Consultant",
+          "date1": "Apr 1997 – Present",
+          "date2": "22 yrs 8 mos"
+        }
+      ]
+    },
+    {
+      "title": "Author and Webinar Presenter",
+      "companyName": "MSSQLTips.com",
+      "location": "On-line",
+      "description": "Andy Novick has been writing and creating videos for MSSQLTips.com since 2005. Over that time he's created over 25 articles on SQL Server topics including SQLCLR, performance benchmarking, functions and other T-SQL coding topics. He's also created several videos to accompany the articles as well as the recent hour long webinar \"Improving SQL Server Performance by Writing Faster T-SQL Code\"\n…\nsee more",
+      "date1": "Jun 2005 – Present",
+      "date2": "14 yrs 6 mos"
+    },
+    {
+      "title": "Lincoln-Sudbury Regional High School",
+      "date1": "2015",
+      "date2": "less than a year",
+      "roles": [
+        {
+          "title": "Team photographer LS Baseball",
+          "date1": "2015",
+          "date2": "less than a year"
+        },
+        {
+          "title": "Team photographer LS Baseball",
+          "date1": "2015",
+          "date2": "less than a year"
+        }
+      ]
+    },
+    {
+      "title": "Title\nTeam photographer LS Baseball",
+      "date1": "2015",
+      "date2": "less than a year",
+      "roles": [
+        {
+          "title": "Team photographer LS Baseball",
+          "date1": "2015",
+          "date2": "less than a year"
+        }
+      ]
+    },
+    {
+      "title": "Title\nTeam photographer LS Baseball",
+      "date1": "2015",
+      "date2": "less than a year",
+      "roles": [
+        {
+          "title": "Team photographer LS Baseball",
+          "date1": "2015",
+          "date2": "less than a year"
+        }
+      ]
+    },
+    {
+      "title": "Software Development Manager",
+      "companyName": "Cambridge Systematics",
+      "description": "Managed multiple software development projects for the transportation industry. Projects provided analysis of transportation economics.",
+      "date1": "Nov 1994 – Mar 1997",
+      "date2": "2 yrs 5 mos"
+    },
+    {
+      "title": "Director of Workstation Development",
+      "companyName": "Pegasystems",
+      "description": "Managed a 10 person development group building Pegasystems advanced projects including document imaging, GUI interfaces to mainframe systems, graphics and Business Intelligence. Was responsible for all aspects of the software development life cycle including design, development, quality assurance and delivery.",
+      "date1": "Jan 1984 – Jul 1992",
+      "date2": "8 yrs 7 mos"
+    },
+    {
+      "title": "Software Engineer",
+      "companyName": "Lotus Development",
+      "description": "Software developer on the Lotus Jazz product. Developed the database module and several of the code libraries.",
+      "date1": "Dec 1983 – Dec 1984",
+      "date2": "1 yr 1 mo"
+    },
+    {
+      "title": "Consultant, Software Engineer",
+      "companyName": "SEI",
+      "description": "Developed a Treasurers Workstation in Fortran, (yea, really), money transfer system in CICS/COBOL and participated in consulting projects doing feasibility analysis and planning.",
+      "date1": "Jun 1981 – Nov 1983",
+      "date2": "2 yrs 6 mos"
+    },
+    {
+      "title": "Various Positions",
+      "companyName": "Various",
+      "description": "This entry covers various postions developing computer software and managing software developemnt at several organizations from 1978 until 1983. Employers included Gaming Dimensions (acquired by G-Tech), Corning, and several small companies.\n\nI build business software including several vertical market applications. The environments ranged from 68000 assembler on the MAC to COBOL and PL/1 on MVS mainframes.\n…\nsee more",
+      "date1": "May 1978 – May 1981",
+      "date2": "3 yrs 1 mo"
+    }
+  ],
+  "educations": [
+    {
+      "title": "GSIA Carnegie Mellon University",
+      "degree": "M.B.A",
+      "date1": "1978",
+      "date2": "1981"
+    },
+    {
+      "title": "Brown University",
+      "degree": "B.S.",
+      "fieldofstudy": "Computer Science",
+      "date1": "1974",
+      "date2": "1978"
+    }
+  ],
+  "skills": [
+    {
+      "title": "T-SQL",
+      "count": "76"
+    },
+    {
+      "title": "Microsoft SQL Server",
+      "count": "72"
+    },
+    {
+      "title": "Databases",
+      "count": "52"
+    },
+    {
+      "title": "Data Warehousing",
+      "count": "22"
+    },
+    {
+      "title": "Software Development",
+      "count": "19"
+    },
+    {
+      "title": "Database Design",
+      "count": "18"
+    },
+    {
+      "title": "Business Intelligence",
+      "count": "14"
+    },
+    {
+      "title": "Performance Tuning",
+      "count": "7"
+    },
+    {
+      "title": "Web Applications",
+      "count": "6"
+    },
+    {
+      "title": "Enterprise Architecture",
+      "count": "6"
+    },
+    {
+      "title": "Agile Methodologies",
+      "count": "6"
+    },
+    {
+      "title": "ETL",
+      "count": "5"
+    },
+    {
+      "title": "Data Modeling",
+      "count": "5"
+    },
+    {
+      "title": "Systems Analysis",
+      "count": "5"
+    },
+    {
+      "title": "Database Administration",
+      "count": "3"
+    },
+    {
+      "title": "Programming",
+      "count": "3"
+    },
+    {
+      "title": "SOA",
+      "count": "3"
+    },
+    {
+      "title": "Web Services",
+      "count": "2"
+    },
+    {
+      "title": "Database Management",
+      "count": "1"
+    },
+    {
+      "title": "SQL",
+      "count": "29"
+    },
+    {
+      "title": ".NET",
+      "count": "24"
+    },
+    {
+      "title": "VB.NET",
+      "count": "22"
+    },
+    {
+      "title": "C#",
+      "count": "19"
+    },
+    {
+      "title": "ASP.NET",
+      "count": "16"
+    },
+    {
+      "title": "Visual Studio",
+      "count": "16"
+    },
+    {
+      "title": "XML",
+      "count": "12"
+    },
+    {
+      "title": "SSIS",
+      "count": "8"
+    },
+    {
+      "title": "Visual Basic",
+      "count": "8"
+    },
+    {
+      "title": "SSRS",
+      "count": "4"
+    },
+    {
+      "title": "Relational Databases",
+      "count": "3"
+    },
+    {
+      "title": "SQL Server",
+      "count": "2"
+    },
+    {
+      "title": "Microsoft Technologies",
+      "count": "2"
+    },
+    {
+      "title": "Stored Procedures",
+      "count": "7"
+    },
+    {
+      "title": "Query Optimization",
+      "count": "3"
+    },
+    {
+      "title": "Database Development",
+      "count": "1"
+    },
+    {
+      "title": "Database Admin",
+      "count": "2"
+    },
+    {
+      "title": "SQL Server 2000-2012",
+      "count": "1"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "1",
+    "receivedCount": "2",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/christopherlthompson/",
+        "text": "Having several years of SQL Server experience myself, I quickly recognized Andrew as a genuine SQL Server guru. We set out our greatest challenges before him, and his questions and recommendations exemplified his understanding of the entire ecosystem that SQL applications are built upon. Still, I would not recommend someone based on this alone - Andrew is commendable for the results he achieves through effective implementation of his skills. I personally think of Andrew as something of a combination 'code ninja' and workhorse. As someone who does similar work day in and out, I was truly impressed with the sheer volume of very high quality work he was able to produce. Finally, Andrew will ensure you understand all that you need (or want) to know about what he has done for you, complete with concise documentation. While the project we worked with Andrew on was very SQL-centric, Andrew is surprisingly adept with a number of technologies. If you have a true challenge before you, call Andrew first.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/kevin-caravella-a806861/",
+        "text": "Andrew assisted our firm in converting a DOS legacy application to Visual Basic. His work was excellent and very efficient. He completed a second project from design to implentation and even assisted in marketing. He was an outstanding consultant and an expert in his field."
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/muthuramans/",
+        "text": "Raman played an important part of the BlueExpress and CRDirect projects that I worked on with him.  He was the marketing department for both, while I built the applications.\r\nHe's clever, energetic, and enthusiastic  His efforts made a big difference in the success of both projects."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "1",
+      "items": [
+        "Transact-SQL User-Defined Functions"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Andrew Novick anovick@novicksoftware.com",
+    "headline": "Expert Level SQL Server Consultant/Developer and SQL Server MVP",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQGq5nit4ubYVg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=XjDUoq0ZHJkD7IJCdzSqwVbNMQrbk4N9dlAIP5CMv2k",
+    "location": "Greater Boston Area",
+    "connections": "500+",
+    "summary": "25 years of experience as SQL Server programmer, consultant, project manager, trainer, and author in the Boston area with occasional national and international work.\n\nI concentrate on Microsoft SQL Server and development of business applications that use it. During the last 15 years I’ve been programming the Microsoft tools such as C#, SQL Server, VB.Net, and ASP.Net. In addition, I’m the author of one complete book, Transact-SQL User-Defined Functions, and parts of another, SQL Server 2000 XML Distilled as well as numerous articles and a newsletter on SQL Server User-Defined Functions.\n\nCustom training is another activity of mine. I only do training in SQL Server and customize the course to the specific needs of the client. My most recent classes are writing faster stored procedures and functions, query optimization, and advanced features of SQL Server.\n\nBTW I usually go by Andy\nCommon Misspellings: Andy Novack, Novak, Andy Novich\n\nSpecialties: SQL Server development consulting and application development: performance tuning, database design, problem solving. Development with Microsoft tools such as SQL Server, Visual Studio, C#, VB.net."
+  }
+}

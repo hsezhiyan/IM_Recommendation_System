@@ -1,0 +1,225 @@
+{
+  "profileAlternative": {
+    "name": "Thu Rein Tin",
+    "headline": "Android And Java Developer at FlexTech",
+    "imageurl": "https://media.licdn.com/dms/image/C5103AQEG6E9WbNsoKg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=u2gPhdqY1V325U6jSXkxtkO_emCIQ28mGkUnNuDCMOA",
+    "location": "Myanmar",
+    "connections": "125",
+    "summary": "I am a good team player and also quick learner too."
+  },
+  "aboutAlternative": {
+    "text": "I am a good team player and also quick learner too."
+  },
+  "positions": [
+    {
+      "title": "Android And Java Developer",
+      "companyName": "FlexTech",
+      "location": "Yangon, Myanmar",
+      "description": "- Develop for both backend (Restful webservice) and frontend (android).\n- Involve in whole life cycle of software development including requirement analysis, coding and testing\nand deployment.\n- Collaborate with UX designers and other developers to develop cutting-edge applications.\n- Experience in file handling, media control in Android\n- Familiarity with RESTful APIs to connect Android applications to back-end services.\n- Experienced in developing webservice RESTful APIs with Spring Framework and hibernate.\n- Experienced in developing android application with both Java and Kotlin.\n- Integrated Facebook, Google Play service, Google Map and other open source APIs within\napplications.\n- Experienced in publishing and updating applications on the Google Play Store.\n- Familiarity with Git.\n- Experienced in publish notification by Firebase Cloud Messaging, Rabbit MQ, Websockets\n- Knowledge in Jenkins, Java Docker, Flyway Database Migration\n- Knowledge in Angular Framework\n\n…\nsee more",
+      "date1": "Jan 2018 – Present",
+      "date2": "1 yr 11 mos"
+    },
+    {
+      "title": "Android Developer",
+      "companyName": "KZ Wanderlust Myanmar",
+      "location": "Sanchaung, Yangon, Myanmar",
+      "description": "- Assist and work closely with Senior Software Engineer in preparing how to implement documentation\nfor project.\n- Cooperated with graphic designers and other project team members to develop website’s concepts,\ninterface design and architecture.\n- Design, builds, and maintain high performance, reusable, and reliable Java code.\n- Design and develop for Social Network sharing application in Android.\n- Strong knowledge of Android UI design, patterns and test practices.\n- Implements, delegates and schedules work for project completion within target time.\n\n…\nsee more",
+      "date1": "Jan 2016 – Jan 2018",
+      "date2": "2 yrs 1 mo"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Myannar Maritime University",
+      "degree": "Bachelor of Engineering - BE",
+      "fieldofstudy": "Electrical, Electronics and Communications Engineering",
+      "date1": "2010",
+      "date2": "2015"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Kotlin",
+      "count": "1"
+    },
+    {
+      "title": "Android",
+      "count": "1"
+    },
+    {
+      "title": "Spring Framework"
+    },
+    {
+      "title": "Test Driven Development"
+    },
+    {
+      "title": "Continuous Integration"
+    },
+    {
+      "title": "Android Development"
+    },
+    {
+      "title": "Software Development Life Cycle (SDLC)"
+    },
+    {
+      "title": "Engineering"
+    },
+    {
+      "title": "Troubleshooting"
+    },
+    {
+      "title": "Agile Methodologies"
+    },
+    {
+      "title": "User Interface Design"
+    },
+    {
+      "title": "Java"
+    },
+    {
+      "title": "Maven"
+    },
+    {
+      "title": "Eclipse"
+    },
+    {
+      "title": "Spring MVC"
+    },
+    {
+      "title": "Spring Boot"
+    },
+    {
+      "title": "RESTful WebServices"
+    },
+    {
+      "title": "SQL"
+    },
+    {
+      "title": "PostgreSQL"
+    },
+    {
+      "title": "MySQL"
+    },
+    {
+      "title": "RxJava"
+    },
+    {
+      "title": "Core Java"
+    },
+    {
+      "title": "SQLite"
+    },
+    {
+      "title": "Android SDK"
+    },
+    {
+      "title": "Hibernate"
+    },
+    {
+      "title": "Oracle Database"
+    },
+    {
+      "title": "Java Database Connectivity (JDBC)"
+    },
+    {
+      "title": "PL/SQL"
+    },
+    {
+      "title": "REST API"
+    },
+    {
+      "title": "HTML"
+    },
+    {
+      "title": "Cross-functional Team Leadership"
+    },
+    {
+      "title": "Communication"
+    },
+    {
+      "title": "Teamwork"
+    },
+    {
+      "title": "Problem Solving"
+    },
+    {
+      "title": "English"
+    },
+    {
+      "title": "Mobile Application Development"
+    },
+    {
+      "title": "DevOps"
+    },
+    {
+      "title": "Spring Data"
+    },
+    {
+      "title": "Back-End Web Development"
+    },
+    {
+      "title": "Android Studio"
+    },
+    {
+      "title": "API Development"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/saw-pyae-36aa98193/",
+      "text": "iOS Engineer at Haulio"
+    },
+    {
+      "user": "https://www.linkedin.com/in/phyo-thiha-697851113/",
+      "text": "IOS Developer at Bagan Innovation Technology"
+    },
+    {
+      "user": "https://www.linkedin.com/in/may-barani-328b07a5/",
+      "text": "Senior Java Developer at Myanmar Information Technology"
+    },
+    {
+      "user": "https://www.linkedin.com/in/min-aung-nay-oo-a052b5144/",
+      "text": "iOS Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/aung-pyae-sone-3b6660a6/",
+      "text": "Web Developer at fairway technology"
+    },
+    {
+      "user": "https://www.linkedin.com/in/zin-min-tun-6096a016a/",
+      "text": "Android Developer at Global New Wave Technology"
+    },
+    {
+      "user": "https://www.linkedin.com/in/hsu-htet-naing-4260b1168/",
+      "text": "Mobile and Web Developer at Software Technology Group"
+    },
+    {
+      "user": "https://www.linkedin.com/in/eaint-thazin-phyo-335252176/",
+      "text": "Sales Consultant at BMW"
+    },
+    {
+      "user": "https://www.linkedin.com/in/thura-xoe-b5885367/",
+      "text": "Team Lead at Evantek Pte Ltd"
+    },
+    {
+      "user": "https://www.linkedin.com/in/htet-khine-306321166/",
+      "text": "--"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Thu Rein Tin",
+    "headline": "Android And Java Developer at FlexTech",
+    "imageurl": "https://media.licdn.com/dms/image/C5103AQEG6E9WbNsoKg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=u2gPhdqY1V325U6jSXkxtkO_emCIQ28mGkUnNuDCMOA",
+    "location": "Myanmar",
+    "connections": "125",
+    "summary": "I am a good team player and also quick learner too."
+  }
+}

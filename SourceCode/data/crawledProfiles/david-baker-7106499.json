@@ -1,0 +1,234 @@
+{
+  "profileAlternative": {
+    "name": "David Baker",
+    "headline": "Lead Database Engineer at Epic Games",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQG8F-TXlUxVoA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=6uaBY3VcL4nQs6McWzXbV-3cXZLvBfwy9TK23XzsA88",
+    "location": "Albany, New York Area",
+    "connections": "500+",
+    "summary": "I just started my new role at Epic Games and I am very excited to be part of the team.\n\nI love being a DBA and look forward to working on the most difficult problems that exist in my field.\n\nSpecialties:\nPerformance tuning.\nProblem resolution.\nDisaster recovery / High availability.\nDesign and DB Architecture."
+  },
+  "aboutAlternative": {
+    "text": "I just started my new role at Epic Games and I am very excited to be part of the team.\n\nI love being a DBA and look forward to working on the most difficult problems that exist in my field.\n\nSpecialties:\nPerformance tuning.\nProblem resolution.\nDisaster recovery / High availability.\nDesign and DB Architecture."
+  },
+  "positions": [
+    {
+      "title": "Lead Database Engineer",
+      "companyName": "Epic Games",
+      "date1": "May 2019 – Present",
+      "date2": "7 mos"
+    },
+    {
+      "title": "Everbridge",
+      "date1": "Dec 2014 – Present",
+      "date2": "5 yrs",
+      "roles": [
+        {
+          "title": "Manager, DBA Services at Everbridge",
+          "date1": "Dec 2014 – Present",
+          "date2": "5 yrs"
+        },
+        {
+          "title": "Sr. MongoDB DBA",
+          "date1": "Dec 2014 – May 2019",
+          "date2": "4 yrs 6 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nManager, DBA Services at Everbridge",
+      "date1": "Dec 2014 – Present",
+      "date2": "5 yrs",
+      "roles": [
+        {
+          "title": "Manager, DBA Services at Everbridge",
+          "date1": "Dec 2014 – Present",
+          "date2": "5 yrs"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSr. MongoDB DBA",
+      "date1": "Dec 2014 – May 2019",
+      "date2": "4 yrs 6 mos",
+      "roles": [
+        {
+          "title": "Sr. MongoDB DBA",
+          "date1": "Dec 2014 – May 2019",
+          "date2": "4 yrs 6 mos"
+        }
+      ]
+    },
+    {
+      "title": "Metropolitan Life Insurance Company",
+      "date1": "Mar 2002 – Dec 2014",
+      "date2": "12 yrs 10 mos",
+      "roles": [
+        {
+          "title": "Lead DBA - DB2 LUW & MongoDB",
+          "date1": "Mar 2002 – Dec 2014",
+          "date2": "12 yrs 10 mos"
+        },
+        {
+          "title": "Sr. DBA",
+          "date1": "Mar 2002 – May 2008",
+          "date2": "6 yrs 3 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nLead DBA - DB2 LUW & MongoDB",
+      "date1": "Mar 2002 – Dec 2014",
+      "date2": "12 yrs 10 mos",
+      "roles": [
+        {
+          "title": "Lead DBA - DB2 LUW & MongoDB",
+          "date1": "Mar 2002 – Dec 2014",
+          "date2": "12 yrs 10 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSr. DBA",
+      "date1": "Mar 2002 – May 2008",
+      "date2": "6 yrs 3 mos",
+      "roles": [
+        {
+          "title": "Sr. DBA",
+          "date1": "Mar 2002 – May 2008",
+          "date2": "6 yrs 3 mos"
+        }
+      ]
+    },
+    {
+      "title": "Sr. DBA and System Programer",
+      "companyName": "CSC",
+      "date1": "Jun 2000 – Mar 2002",
+      "date2": "1 yr 10 mos"
+    },
+    {
+      "title": "Recovery Planner",
+      "companyName": "MetLife",
+      "date1": "Apr 1999 – Jun 2000",
+      "date2": "1 yr 3 mos"
+    },
+    {
+      "title": "DBA",
+      "companyName": "Credit Suisse",
+      "date1": "Feb 1998 – Mar 1999",
+      "date2": "1 yr 2 mos"
+    },
+    {
+      "title": "Data Processor",
+      "companyName": "Brigar",
+      "date1": "Oct 1996 – Feb 1997",
+      "date2": "5 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "State University of New York College at Plattsburgh",
+      "degree": "BA",
+      "fieldofstudy": "Mathematics",
+      "date1": "1993",
+      "date2": "1996"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Databases",
+      "count": "46"
+    },
+    {
+      "title": "Disaster Recovery",
+      "count": "44"
+    },
+    {
+      "title": "SQL",
+      "count": "40"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "5",
+    "receivedCount": "2",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/matthewdevlin/",
+        "text": "Dave and I have worked together for 8 years. I have managed him directly for the past 3. Dave's technical ability pertaining, in particular, to UDB is unparalleled in my experience. He is the Go-To person for any and all issues UDB in my team and beyond."
+      },
+      {
+        "user": "https://www.linkedin.com/in/difondi/",
+        "text": "Dave is hands down the most technical database person I have ever met. As having been a senior database administrator, I know the difference in talent. He is exceptional in SQL and performance tuning. I would put his skills up against just about anyone in the Northeast. This is NOT a hallow recommendation - he earned it."
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/susansterlingdbpro/",
+        "text": "I have worked with Susan for over 15 years while I was at MetLife.  She is a true expert in DBMS technologies and was crucial in most of most of our large scale projects.  She is a proven team leader and gets the job done.  I am certain she will be successful member of any organization that is lucky enough to have her on their team."
+      },
+      {
+        "user": "https://www.linkedin.com/in/josephpseewald/",
+        "text": "Joe is a gifted programmer with tremendous SQL skills.  He is able code statements even beyond that of the most Sr. DBAs.  He has coded elegant solutions to extremely complicated financial applications that performed and scaled well past the original requirements.  I am confident that he can meet or exceed any challenge he sets his mind to. He would make a wonderful addition to any team as a Sr. Programmer or DBA."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "2",
+      "items": [
+        "MetLife Alico Japan Wall",
+        "MetLife The Wall"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/kevin-heraghty/",
+      "text": "Database Reliability Engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/frankgtesta/",
+      "text": "Results Oriented Technology Specialist | Lead Design and Implementation | Project Manager and Business Liaison"
+    },
+    {
+      "user": "https://www.linkedin.com/in/clare-holley-3b596a/",
+      "text": "Senior Database Reliability Engineer at Everbridge"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tom-riess-95660215/",
+      "text": "Solutions Engineer at Prudential Financial"
+    },
+    {
+      "user": "https://www.linkedin.com/in/bobby-messemer/",
+      "text": "Database Reliability Engineer at Epic Games"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yun-yang-0754b067/",
+      "text": "Database Engineer at Wolters Kluwer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/randy-s-gelber-64657048/",
+      "text": "VP, Corporate Development at Epic Games"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sarbamangal/",
+      "text": "Database Reliability Engineer and Architect at Everbridge"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kevin-duffy-91470946/",
+      "text": "Engr IV Spec-Ntwk Eng&Ops at Verizon"
+    },
+    {
+      "user": "https://www.linkedin.com/in/audrey-johnson-86393676/",
+      "text": "Sr. IT Project Lead at MetLife, PMP®, MS"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "David Baker",
+    "headline": "Lead Database Engineer at Epic Games",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQG8F-TXlUxVoA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=6uaBY3VcL4nQs6McWzXbV-3cXZLvBfwy9TK23XzsA88",
+    "location": "Albany, New York Area",
+    "connections": "500+",
+    "summary": "I just started my new role at Epic Games and I am very excited to be part of the team.\n\nI love being a DBA and look forward to working on the most difficult problems that exist in my field.\n\nSpecialties:\nPerformance tuning.\nProblem resolution.\nDisaster recovery / High availability.\nDesign and DB Architecture."
+  }
+}

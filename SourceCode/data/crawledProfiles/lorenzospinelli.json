@@ -1,0 +1,266 @@
+{
+  "profileAlternative": {
+    "name": "Lorenzo Spinelli",
+    "headline": "I write code presso Register.it",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQGidorGltsLwQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=GlrTF0IlRDwehKawsEu4adks3OVREaeXlA78EYBVibM",
+    "location": "Castello, Tuscany, Italy",
+    "connections": "373",
+    "summary": "Hello!\n\nFor more than 10 years I worked in teams with a lot of different people, learning to enhance them to build and reach a common goal, in the most (hopefully) efficient way.\n\nI developed specific ability in software developing and web application design, in combination with security issues analysis and administration problem solving and blah blah blah, blah blah bla...\n\nI like to call me resourceful, highly motivated, collaborative, ambitious when needed, helpful, honest, and most of all: really PASSIONATE.\n\nI lose my energy when working on boring stuff, and that's why I'm always interested in learning new things\n\nCiao!\n\nSono più di 10 anni che lavoro in team di persone con capacità molto differenziate, imparando a valorizzarle e usarle nel modo più efifciente (spero) per raggiungere uno scopo comune\n\nHo sviluppato specifiche abilità nello sviluppo di software, progettazione e design di\napplicazioni web. In combinazione con la capacità di diagnosi e soluzione dei relativi problemi\ndi sicurezza ed amministrazione e bla bla bla, bla bla bla...\n\nMi piace chiamarmi intraprendente, motivato, collaborativo, ambizioso quando serve, disponibile, serio, e soprattutto molto APPASSIONATO.\n\nPerdo le energie solo quando lavoro a qualcosa di noioso, e questo è il motivo per cui sono sempre interessato a impararare cose nuove."
+  },
+  "aboutAlternative": {
+    "text": "Hello!\n\nFor more than 10 years I worked in teams with a lot of different people, learning to enhance them to build and reach a common goal, in the most (hopefully) efficient way.\n\nI developed specific ability in software developing and web application design, in combination with security issues analysis and administration problem solving and blah blah blah, blah blah bla...\n\nI like to call me resourceful, highly motivated, collaborative, ambitious when needed, helpful, honest, and most of all: really PASSIONATE.\n\nI lose my energy when working on boring stuff, and that's why I'm always interested in learning new things\n\nCiao!\n\nSono più di 10 anni che lavoro in team di persone con capacità molto differenziate, imparando a valorizzarle e usarle nel modo più efifciente (spero) per raggiungere uno scopo comune\n\nHo sviluppato specifiche abilità nello sviluppo di software, progettazione e design di\napplicazioni web. In combinazione con la capacità di diagnosi e soluzione dei relativi problemi\ndi sicurezza ed amministrazione e bla bla bla, bla bla bla...\n\nMi piace chiamarmi intraprendente, motivato, collaborativo, ambizioso quando serve, disponibile, serio, e soprattutto molto APPASSIONATO.\n\nPerdo le energie solo quando lavoro a qualcosa di noioso, e questo è il motivo per cui sono sempre interessato a impararare cose nuove."
+  },
+  "positions": [
+    {
+      "title": "writes Java and JavaScript code using Spring and React.js",
+      "companyName": "Register.it",
+      "location": "Firenze, Italia",
+      "description": "I write Java and Javascript code using the Spring framework and React.js stack.\nWe do continuous integration and deploy using Jenkins and Docker(s) and we pay a lot of attention in unit and integration testing, while building our apps.\nWe call us an \"Agile Company\", my team does Kanban for software development.\nI'm currently working on these projects:\nhttps://spid.register.it : SPID aka Italian Digital Identity Public Service\nhttps://www.register.it/pec/ : PEC aka Certified Email\n\nScrivo codice Java e Javascript usando il framework Spring e lo stack React.js\nFacciamo continuous integration e deploy usando Jenkins e Docker e facciamo molta attenzione ai test unitari e di integrazione, mentre creiamo le nostre applicazioni.\nCi chiamiamo una azienda \"Agile\", nel mio team facciamo Kanban per sviluppare il codice.\nAttualmente lavoro a questi progetti:\nhttps://spid.register.it : SPID (Sistema Pubblico di Identità Digitale)\nhttps://www.register.it/pec/ : PEC (Posta Elettronica Certificata)\n…\nsee more",
+      "date1": "Sep 2016 – Present",
+      "date2": "3 yrs 3 mos"
+    },
+    {
+      "title": "Systems Analyst / Senior Java Designer/Developer",
+      "companyName": "Dedalus S.p.A.",
+      "location": "Firenze, Italia",
+      "description": "I did analysis and development of web applications using Spring Mvc and AngularJS.\nAnsible helped us to build and ship the packages we developed.\nWe use MongoDB as NOSQL database engine and Oracle, as a SQL base.\nWe build a platform able to manage up to 1 milion transactions per day.\nWith my team we developed a platform of REST and SOAP services, for the italian and worlwide\nhealthcare system, using IHE (https://www.ihe.net/ : Integrating the Healthcare Enterprise)\ninteroperability standards.\nWe also developed UI application, mainly using AngularJS and Oauth for security. These\nApplication are mostly employed in hospitals, clinics, emergency rooms and by the citizens\n(electronic health records).\n…\nsee more",
+      "date1": "Jun 2008 – Sep 2016",
+      "date2": "8 yrs 4 mos"
+    },
+    {
+      "title": "independent contractor agreement",
+      "companyName": "University of Florence",
+      "description": "Digital Edition (CDROM) of “Quaderni del Carcere” (Prison Notebook) by Antonio Gramsci.\ndistributed on national scale by daily newspaper “L’Unità”.\nJava based Desktop program.\nI did the analysis, development and graphics.\nhttp://1.bp.blogspot.com/-4AQO8UD1L0I/TlUbk75FmEI/AAAAAAAAC14/wHD1D3B4sQ0/s1600/frontqdc.jpg\n…\nsee more",
+      "date1": "Feb 2007 – May 2007",
+      "date2": "4 mos"
+    },
+    {
+      "title": "independent contractor agreement",
+      "companyName": "Consiglio Nazionale delle Ricerche",
+      "description": "Team Developement (Java) for project \"xmlLeges\", an open source Application Suite for Legal Drafting. http://www.xmleges.org/eng/",
+      "date1": "May 2006 – Feb 2007",
+      "date2": "10 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "street education or equivalent",
+      "degree": "Master's degree",
+      "fieldofstudy": "rutti e curegge"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Sventra papere",
+      "count": "3"
+    },
+    {
+      "title": "Java",
+      "count": "16"
+    },
+    {
+      "title": "JavaScript",
+      "count": "4"
+    },
+    {
+      "title": "Web Services",
+      "count": "2"
+    },
+    {
+      "title": "Test Driven Development"
+    },
+    {
+      "title": "Scrum"
+    },
+    {
+      "title": "Kanban"
+    },
+    {
+      "title": "Service-Oriented Architecture (SOA)"
+    },
+    {
+      "title": "React.js"
+    },
+    {
+      "title": "MongoDB",
+      "count": "1"
+    },
+    {
+      "title": "AngularJS",
+      "count": "1"
+    },
+    {
+      "title": "HTML",
+      "count": "1"
+    },
+    {
+      "title": "Jenkins"
+    },
+    {
+      "title": "RESTful WebServices"
+    },
+    {
+      "title": "Maven",
+      "count": "1"
+    },
+    {
+      "title": "MySQL",
+      "count": "1"
+    },
+    {
+      "title": "Linux",
+      "count": "1"
+    },
+    {
+      "title": "CSS"
+    },
+    {
+      "title": "HTML5"
+    },
+    {
+      "title": "Git"
+    },
+    {
+      "title": "rest services"
+    },
+    {
+      "title": "redux"
+    },
+    {
+      "title": "webpack"
+    },
+    {
+      "title": "Docker"
+    },
+    {
+      "title": "Spring MVC"
+    },
+    {
+      "title": "Spring Boot"
+    },
+    {
+      "title": "Node.js"
+    },
+    {
+      "title": "Abilità culinarie"
+    },
+    {
+      "title": "Sviluppo di software"
+    },
+    {
+      "title": "Sviluppo Web"
+    },
+    {
+      "title": "Metodologie agili"
+    },
+    {
+      "title": "WS Security",
+      "count": "2"
+    },
+    {
+      "title": "scorregge silenti"
+    },
+    {
+      "title": "SOLID Principles"
+    },
+    {
+      "title": "Marathon"
+    },
+    {
+      "title": "Spring Security"
+    },
+    {
+      "title": "SAML 2.0",
+      "count": "1"
+    },
+    {
+      "title": "ESB"
+    },
+    {
+      "title": "Microservices"
+    },
+    {
+      "title": "pair programming"
+    },
+    {
+      "title": "progressive web applications"
+    },
+    {
+      "title": "apache Kafka"
+    },
+    {
+      "title": "Elastic Search"
+    },
+    {
+      "title": "RabbitMQ"
+    },
+    {
+      "title": "npm"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "1",
+      "items": [
+        "Inglese"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/anita-osborn-120280160/",
+      "text": "Full Stack Developer - Node.js | Ruby | Angular | React at Freelance"
+    },
+    {
+      "user": "https://www.linkedin.com/in/fabio-de-orazi-a2863596/",
+      "text": "Java Analyst Developer presso Ministero dell'​ Economia e delle Finanze (IGICS)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sergioguarracinolink/",
+      "text": "Analista sviluppatore Web presso Philmark Informatica spa"
+    },
+    {
+      "user": "https://www.linkedin.com/in/niccol%C3%B2-giannerini-8a867831/",
+      "text": "Senior software engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/remo-calandruccio-60953980/",
+      "text": "Product Development Manager presso Dedalus SpA"
+    },
+    {
+      "user": "https://www.linkedin.com/in/edoardo-pierguidi-53896934/",
+      "text": "Java Developer presso DS Tech srl"
+    },
+    {
+      "user": "https://www.linkedin.com/in/salvatore-coluccia/",
+      "text": "IT Consultant @ Blue Reply"
+    },
+    {
+      "user": "https://www.linkedin.com/in/gaetano-profeta-35688540/",
+      "text": "Senior Software Engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/antonio-de-marchis-24a9372b/",
+      "text": "It Specialist presso Sistemi Informativi"
+    },
+    {
+      "user": "https://www.linkedin.com/in/angelo-paolini-bb974a29/",
+      "text": "Senior Safety Engineer presso DMD Group and Technical Manager"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Lorenzo Spinelli",
+    "headline": "I write code presso Register.it",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQGidorGltsLwQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=GlrTF0IlRDwehKawsEu4adks3OVREaeXlA78EYBVibM",
+    "location": "Castello, Tuscany, Italy",
+    "connections": "373",
+    "summary": "Hello!\n\nFor more than 10 years I worked in teams with a lot of different people, learning to enhance them to build and reach a common goal, in the most (hopefully) efficient way.\n\nI developed specific ability in software developing and web application design, in combination with security issues analysis and administration problem solving and blah blah blah, blah blah bla...\n\nI like to call me resourceful, highly motivated, collaborative, ambitious when needed, helpful, honest, and most of all: really PASSIONATE.\n\nI lose my energy when working on boring stuff, and that's why I'm always interested in learning new things\n\nCiao!\n\nSono più di 10 anni che lavoro in team di persone con capacità molto differenziate, imparando a valorizzarle e usarle nel modo più efifciente (spero) per raggiungere uno scopo comune\n\nHo sviluppato specifiche abilità nello sviluppo di software, progettazione e design di\napplicazioni web. In combinazione con la capacità di diagnosi e soluzione dei relativi problemi\ndi sicurezza ed amministrazione e bla bla bla, bla bla bla...\n\nMi piace chiamarmi intraprendente, motivato, collaborativo, ambizioso quando serve, disponibile, serio, e soprattutto molto APPASSIONATO.\n\nPerdo le energie solo quando lavoro a qualcosa di noioso, e questo è il motivo per cui sono sempre interessato a impararare cose nuove."
+  }
+}

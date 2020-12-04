@@ -1,0 +1,298 @@
+{
+  "profileAlternative": {
+    "name": "Ben Ogden",
+    "headline": "Principal Solutions Architect at MongoDB",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQF9qNYdItI9Bw/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=ldm5nuoa2GvqKOlLWHdpwN-nFfoGz6RIW2j6qHMscyY",
+    "location": "Washington D.C. Metro Area",
+    "connections": "500+",
+    "summary": "Seasoned full-stack software engineer, team lead, and technical manager with significant customer-facing, full lifecycle development background."
+  },
+  "aboutAlternative": {
+    "text": "Seasoned full-stack software engineer, team lead, and technical manager with significant customer-facing, full lifecycle development background."
+  },
+  "positions": [
+    {
+      "title": "MongoDB",
+      "location": "Washington D.C. Metro Area",
+      "description": "Customer facing solutions architecture for commercial and federal clients. Technical Advisor to startups in the MongoDB Startup Accelerator program. Speaker at various MongoDB.local events and MongoDB World '19.",
+      "date1": "Nov 2019 – Present",
+      "date2": "1 mo",
+      "roles": [
+        {
+          "title": "Principal Solutions Architect",
+          "date1": "Nov 2019 – Present",
+          "date2": "1 mo",
+          "location": "Washington D.C. Metro Area"
+        },
+        {
+          "title": "Senior Solutions Architect",
+          "date1": "Feb 2019 – Present",
+          "date2": "10 mos",
+          "location": "Washington D.C. Metro Area"
+        },
+        {
+          "title": "Senior Consulting Engineer",
+          "date1": "Oct 2016 – Mar 2019",
+          "date2": "2 yrs 6 mos",
+          "location": "Washington D.C. Metro Area"
+        }
+      ]
+    },
+    {
+      "title": "Title\nPrincipal Solutions Architect",
+      "location": "Washington D.C. Metro Area",
+      "date1": "Nov 2019 – Present",
+      "date2": "1 mo",
+      "roles": [
+        {
+          "title": "Principal Solutions Architect",
+          "date1": "Nov 2019 – Present",
+          "date2": "1 mo",
+          "location": "Washington D.C. Metro Area"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSenior Solutions Architect",
+      "location": "Washington D.C. Metro Area",
+      "description": "Customer facing solutions architecture for commercial and federal clients. Technical Advisor to startups in the MongoDB Startup Accelerator program. Speaker at various MongoDB.local events and MongoDB World '19.",
+      "date1": "Feb 2019 – Present",
+      "date2": "10 mos",
+      "roles": [
+        {
+          "title": "Senior Solutions Architect",
+          "date1": "Feb 2019 – Present",
+          "date2": "10 mos",
+          "location": "Washington D.C. Metro Area"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSenior Consulting Engineer",
+      "location": "Washington D.C. Metro Area",
+      "description": "Guiding and working alongside the engineering teams at our fantastic MongoDB customers to make sure they get the very best out of MongoDB! Leading MongoDB adoption at Fortune 100 companies. Designing and building new applications on the MongoDB data platform. Improving and scaling existing enterprise applications. Teaching private, customized advanced developer and administrator classes.\n…\nsee more",
+      "date1": "Oct 2016 – Mar 2019",
+      "date2": "2 yrs 6 mos",
+      "roles": [
+        {
+          "title": "Senior Consulting Engineer",
+          "date1": "Oct 2016 – Mar 2019",
+          "date2": "2 yrs 6 mos",
+          "location": "Washington D.C. Metro Area"
+        }
+      ]
+    },
+    {
+      "title": "Founder & Principal Engineer",
+      "companyName": "Avazant, LLC",
+      "location": "Washington D.C. Metro Area",
+      "description": "Full-stack software development and consulting for various public and private sector clients.",
+      "date1": "May 2014 – Oct 2016",
+      "date2": "2 yrs 6 mos"
+    },
+    {
+      "title": "Software Development Engineer",
+      "companyName": "Amazon Web Services",
+      "location": "Herndon, VA",
+      "description": "Design and build software services for the AWS Commerce Platform, processing trillions of events each month to generate bills for hundreds of thousands of customers across 30+ products. Design platform to enable complex billing models and offer new pricing options to customers.",
+      "date1": "2013 – 2014",
+      "date2": "1 yr"
+    },
+    {
+      "title": "Whiteboard Federal Technologies",
+      "location": "Reston, Virginia",
+      "description": "Key developer on a small team driving the full life cycle development of a mission critical, high availability, big data application from inception to production. This system was praised as \"the most relevant and impactful initiative\" by the customer and achieved annual savings of $50M beyond target due to improved software and process efficiency. Improved UI/UX and promoted software componentization by designing and implementing an extensible widget framework. Enhanced software scalability by architecting and implementing an asynchronous task executor for long running jobs against large data sets. Active committer to a shared framework which provides data versioning, field-level sourcing, workflows, visualization, alerting, and search. Adhering to TDD and Agile principles, develop and regularly release software using Java, Spring, MarkLogic, XQuery, XSLT, JQuery, JavaScript, HTML, CSS, JUnit, Jenkins, Ant.\n…\nsee more",
+      "date1": "2011 – 2013",
+      "date2": "2 yrs",
+      "roles": [
+        {
+          "title": "Team Lead | Senior Principal Software Engineer",
+          "date1": "2011 – 2013",
+          "date2": "2 yrs",
+          "location": "Reston, Virginia"
+        },
+        {
+          "title": "Senior Software Architect",
+          "date1": "2010 – 2011",
+          "date2": "1 yr",
+          "location": "Columbia, Maryland"
+        }
+      ]
+    },
+    {
+      "title": "Title\nTeam Lead | Senior Principal Software Engineer",
+      "location": "Reston, Virginia",
+      "description": "Key developer on a small team driving the full life cycle development of a mission critical, high availability, big data application from inception to production. This system was praised as \"the most relevant and impactful initiative\" by the customer and achieved annual savings of $50M beyond target due to improved software and process efficiency. Improved UI/UX and promoted software componentization by designing and implementing an extensible widget framework. Enhanced software scalability by architecting and implementing an asynchronous task executor for long running jobs against large data sets. Active committer to a shared framework which provides data versioning, field-level sourcing, workflows, visualization, alerting, and search. Adhering to TDD and Agile principles, develop and regularly release software using Java, Spring, MarkLogic, XQuery, XSLT, JQuery, JavaScript, HTML, CSS, JUnit, Jenkins, Ant.\n…\nsee more",
+      "date1": "2011 – 2013",
+      "date2": "2 yrs",
+      "roles": [
+        {
+          "title": "Team Lead | Senior Principal Software Engineer",
+          "date1": "2011 – 2013",
+          "date2": "2 yrs",
+          "location": "Reston, Virginia"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSenior Software Architect",
+      "location": "Columbia, Maryland",
+      "description": "Architected and implemented a multi-threaded, self-healing Java TCP socket pool for the messaging layer of an enterprise GIS application. Developed a C# desktop client to display real-time position and status of C4ISRT platforms. Enhanced an enterprise geospatial application responsible for the management of JMS message subscription, XML message translation, and message delivery using Java, XSLT / XPath, Oracle, and WebLogic Server & Portal. Designed and developed portlets supporting asynchronous updates for an enterprise C4ISRT portal with JavaScript, AJAX, JSP, HTML, CSS, Dojo, and ArcGIS.\n…\nsee more",
+      "date1": "2010 – 2011",
+      "date2": "1 yr",
+      "roles": [
+        {
+          "title": "Senior Software Architect",
+          "date1": "2010 – 2011",
+          "date2": "1 yr",
+          "location": "Columbia, Maryland"
+        }
+      ]
+    },
+    {
+      "title": "Technical Manager | Senior Principal Software Engineer",
+      "companyName": "General Dynamics Advanced Information Systems",
+      "location": "Annapolis Junction, Maryland",
+      "description": "Functional manager for a team of 12 engineers. Built a mission critical web application with analytic, workflow and collaborative features using Java, Google Web Toolkit, SmartGWT, Hibernate, and Oracle. Added i8n support to user-facing components of the application. Improved performance of a bulk data import from 1+ days to less than 15 minutes, effectively reducing system deployment time by 1 day. Evangelized and briefed agile development, continuous integration and automated acceptance testing capabilities to senior management.\n…\nsee more",
+      "date1": "2011",
+      "date2": "less than a year"
+    },
+    {
+      "title": "Principal Software Engineer | Database Architect",
+      "companyName": "BAE Systems",
+      "location": "Annapolis Junction, Maryland",
+      "description": "Designed, implemented, and tested Java software components for the services layer of an enterprise cryptographic key management system using UML, Java, Spring, and JUnit. Implemented multi-threaded messaging and notification services using Java, Spring, and ASN.1 in a Service-Oriented Architecture (SOA). Developed a variety of web service client packages using Java, Spring, XML, WSDL. Architected database schema and maintained SQL scripts for PostgreSQL database as well as iBATIS data access layer in Java. Assisted with DB2 administration and maintenance. Assisted with configuration and enhancement of a continuous integration environment using Ant, SVN/Hudson, and ClearCase/CruiseControl. Developed JUnit tests.\n…\nsee more",
+      "date1": "2009 – 2010",
+      "date2": "1 yr"
+    },
+    {
+      "title": "Senior Software Engineer",
+      "companyName": "Wells Landers Group",
+      "location": "McLean, Virginia",
+      "description": "Built an image exploitation workflow system using Java, Apache Beehive (Page Flows / NetUI), JavaScript, AJAX, Dojo, CSS, JSP, JSTL, HTML, and WebLogic Portal. Developed portlets and web applications for the C4ISRT domain using Java EE in a SOA. Improved efficiency of automated software builds by enhancing Ant scripts.",
+      "date1": "2008 – 2009",
+      "date2": "1 yr"
+    },
+    {
+      "title": "Software Engineer",
+      "companyName": "Lockheed Martin",
+      "location": "Gaithersburg, Maryland",
+      "description": "Developed web applications/services in a Service-Oriented Architecture (SOA). Featured Google Earth integration. Used J2EE, WebLogic, Beehive, XML, JavaScript, CSS, HTML. Developed a multi-threaded simulator and test driver as a back-end for several high profile, interactive customer scenarios, games, and demonstrations. Implemented ORM application layer based on Java Persistence API (JPA) and Hibernate. Designed and implemented Oracle database schema and SQL scripts. Responsible for the design, rapid prototyping, and demonstration of new Enterprise Mission Management solutions.\n…\nsee more",
+      "date1": "2007 – 2008",
+      "date2": "1 yr"
+    },
+    {
+      "title": "Lead Software Engineer",
+      "companyName": "Total Child Health, Inc.",
+      "location": "Baltimore, Maryland",
+      "description": "Led software team to deliver on-time incremental releases. Responsible for product design and implementation. Interfaced directly with customer to develop use cases and application design. Adapted the Rational Unified Process and coached software and clinical team. Designed and built a rules engine tailored for efficient processing of medical diagnostics for an expert system in use today by many providers including Johns Hopkins. Designed and built a web application allowing clinicians to manage domain rules without programmer intervention, greatly increasing system reliability and accuracy. Designed and built an optimized questionnaire delivery system utilizing reverse chaining and sorting/pruning of symptom tree. Wrote an account auditing service. Designed public website. Built applications using Java, JSP, Struts, Velocity, JavaScript, Rhino, XML, XSLT, Apache Cocoon, HTML, CSS, Flash, Torque, JDBC, SQL, MySQL, Tomcat, and Adobe Photoshop.\n…\nsee more",
+      "date1": "2002 – 2007",
+      "date2": "5 yrs"
+    },
+    {
+      "title": "Web Developer",
+      "companyName": "Computer Systems Management, Inc",
+      "location": "Alexandria, VA",
+      "description": "Led the redesign and development of the U.S. Securities & Exchange Commission public website, which sustained over 6 million hits per day. Worked with a startup to build one of the first event planning websites which sold for $2M. (A predecessor to evite.com.) Built a document processing system to streamline the conversion and QA review of over 20,000 pages of static content, saving over 10,000 person hours. As a customer-facing consultant, designed and conducted full life cycle development using Java, JSP, Perl, ColdFusion, ASP, PHP, Flash, ActionScript, JavaScript, CSS, HTML, MySQL, SQL Server, Apache, Tomcat, and Photoshop.\n…\nsee more",
+      "date1": "1999 – 2001",
+      "date2": "2 yrs"
+    }
+  ],
+  "educations": [
+    {
+      "title": "University of Maryland College Park",
+      "degree": "Computer Science (Major), Geographic Information Science (Minor)",
+      "fieldofstudy": "Computer Science (Major), Geographic Information Science (Minor)"
+    },
+    {
+      "title": "University of Maryland Global Campus",
+      "degree": "BS",
+      "fieldofstudy": "Computer Science"
+    },
+    {
+      "title": "University of Maryland Global Campus",
+      "degree": "Certificate, Game Design and Development"
+    }
+  ],
+  "skills": [
+    {
+      "title": "MongoDB",
+      "count": "1"
+    },
+    {
+      "title": "Software Engineering",
+      "count": "29"
+    },
+    {
+      "title": "Distributed Systems",
+      "count": "6"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "4",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/olyaflores/",
+        "text": "I worked together with Ben on a fast-paced research and development project. Ben was great at designing and implementing complex functionality independently. Being brand new not only to the project but to the company, he contributed an important, large portion of our coding base. Ben has always conducted himself very professionally, was a pleasure to work with and was very respected by all of his peers. I would gladly recommend Ben for any development effort.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/justin-mays-2994805/",
+        "text": "Ben is a skilled software engineer. He is an expert problem solver and able to adapt quickly to any challenge. He has excellent technical abilities and is constantly learning new technologies to become better."
+      },
+      {
+        "user": "https://www.linkedin.com/in/russell-ritenour-1a8129/",
+        "text": "Ben is an excellent developer who actively seeks out new technologies and approaches while consistently meeting or exceeding customer expectations. He is always willing to accept new challenges. Customer satisfaction is always part of our discussions."
+      },
+      {
+        "user": "https://www.linkedin.com/in/rimascikotas/",
+        "text": "I am honored to have the opportunity to share a few words about Ben. Ben is truly an exceptional individual that any organization doing work in the advanced software engineering field would aspire to have on their team. Ben is grounded in the fundamentals of technology – it goes beyond his profession to his personal passion and individual hobbies. I wouldn’t be at all surprised if Ben dreams about complex software engineering problems and how to write the perfect code to deliver a functional and elegant solution on time and under budget. Every introduction that we made on Ben’s behalf came back with rave reviews. Beyond software Ben has strong personal values – he is an unwavering team player – he is appreciated at the highest level by the customers he supports and he can smell a business opportunity with the slightest waft of a new challenge on a project. If I was building a software product or software engineering company, Ben would be at the top of my list as “must hires” – he is undoubtedly in the top 1% of his field!\n…\nSee more"
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "6",
+      "items": [
+        "MarkLogic Consultant",
+        "CHADIS",
+        "Agile ALM, Manning Publishing.",
+        "Android in Action, Second Edition. Manning Publishing.",
+        "Rails 3 in Action. Manning Publishing.",
+        "Additive MIDI Performance Tool"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "Cloudera Developer Training for Apache Hadoop",
+        "MarkLogic Server Essentials",
+        "MarkLogic XQuery Basics"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "English",
+        "Spanish"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Association for Computing Machinery"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Ben Ogden",
+    "headline": "Principal Solutions Architect at MongoDB",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQF9qNYdItI9Bw/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=ldm5nuoa2GvqKOlLWHdpwN-nFfoGz6RIW2j6qHMscyY",
+    "location": "Washington D.C. Metro Area",
+    "connections": "500+",
+    "summary": "Seasoned full-stack software engineer, team lead, and technical manager with significant customer-facing, full lifecycle development background."
+  }
+}

@@ -1,0 +1,318 @@
+{
+  "profileAlternative": {
+    "name": "Kenneth Atwell",
+    "headline": "Principal Software Engineer, MATLAB Language at MathWorks",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQE9KK-25gQVEQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=NbWtgxa3D4fuAVqZGDGEx0R4MH4urMofl14kyW5oWaw",
+    "location": "Greater Boston Area",
+    "connections": "500+",
+    "summary": "Versatile, high-performing, and self-motivated individual with principal-level skills in both software architecture/engineering and product management.\n\nSpecialties: Software architecture and engineering, technology assessment and roadmap development; skilled in C++ and MATLAB"
+  },
+  "aboutAlternative": {
+    "text": "Versatile, high-performing, and self-motivated individual with principal-level skills in both software architecture/engineering and product management.\n\nSpecialties: Software architecture and engineering, technology assessment and roadmap development; skilled in C++ and MATLAB"
+  },
+  "positions": [
+    {
+      "title": "The MathWorks",
+      "location": "Natick, MA",
+      "description": "Software architect/engineer focusing on MATLAB language introspection and user assistance – function and argument completion, typo correction, etc.",
+      "date1": "Jul 2014 – Present",
+      "date2": "5 yrs 5 mos",
+      "roles": [
+        {
+          "title": "Principal Software Engineer, MATLAB Language",
+          "date1": "Jul 2014 – Present",
+          "date2": "5 yrs 5 mos",
+          "location": "Natick, MA"
+        },
+        {
+          "title": "Principal Product Manager, MATLAB",
+          "date1": "May 2007 – Jul 2014",
+          "date2": "7 yrs 3 mos",
+          "location": "Natick, MA"
+        }
+      ]
+    },
+    {
+      "title": "Title\nPrincipal Software Engineer, MATLAB Language",
+      "location": "Natick, MA",
+      "description": "Software architect/engineer focusing on MATLAB language introspection and user assistance – function and argument completion, typo correction, etc.",
+      "date1": "Jul 2014 – Present",
+      "date2": "5 yrs 5 mos",
+      "roles": [
+        {
+          "title": "Principal Software Engineer, MATLAB Language",
+          "date1": "Jul 2014 – Present",
+          "date2": "5 yrs 5 mos",
+          "location": "Natick, MA"
+        }
+      ]
+    },
+    {
+      "title": "Title\nPrincipal Product Manager, MATLAB",
+      "location": "Natick, MA",
+      "description": "Product manager for MATLAB at MathWorks. Interests and responsibilities include:\n\n* Market analysis and technical strategy for emerging and evolving areas such as GPU computing and big data\n* Platform support roadmaps and OS features/look-and-feel (Windows, OS X, Linux)\n* MATLAB interfaces to other languages and run-times (C/C++, .NET, Java)\n* MATLAB execution performance\n…\nsee more",
+      "date1": "May 2007 – Jul 2014",
+      "date2": "7 yrs 3 mos",
+      "roles": [
+        {
+          "title": "Principal Product Manager, MATLAB",
+          "date1": "May 2007 – Jul 2014",
+          "date2": "7 yrs 3 mos",
+          "location": "Natick, MA"
+        }
+      ]
+    },
+    {
+      "title": "Product Line Manager",
+      "companyName": "Analog Devices",
+      "location": "Norwood, MA",
+      "description": "* Product line manager for ADI’s DSP Tools product line of development tools (VisualDSP++), DSP evaluation products (EZ-KIT Lites), and in-circuit emulators.\n* Supervised technical support, release engineering, and quality engineering arms of the Tools organization.\n* Technical background in debugger internals (breakpoints, step in/out/over, debugging information, C/C++ expression evaluation, etc.) and product installers\n…\nsee more",
+      "date1": "Feb 1998 – May 2007",
+      "date2": "9 yrs 4 mos"
+    },
+    {
+      "title": "Software Engineer",
+      "companyName": "Draper Laboratory",
+      "location": "Arlington, VA",
+      "description": "* Technical involvement in DARPA-funded communication network prototype.\n* Top Secret security clearance.",
+      "date1": "1996 – 1998",
+      "date2": "2 yrs"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Northeastern University",
+      "degree": "MBA",
+      "fieldofstudy": "High-Tech MBA",
+      "date1": "1999",
+      "date2": "2001"
+    },
+    {
+      "title": "Tufts University",
+      "degree": "MS",
+      "fieldofstudy": "Computer Science",
+      "date1": "1994",
+      "date2": "1996"
+    },
+    {
+      "title": "Ithaca College",
+      "degree": "BS",
+      "fieldofstudy": "Computer Science",
+      "date1": "1990",
+      "date2": "1994"
+    },
+    {
+      "title": "Ridgefield High School",
+      "degree": "High School",
+      "date1": "1985",
+      "date2": "1990"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Product Management",
+      "count": "32"
+    },
+    {
+      "title": "Matlab",
+      "count": "18"
+    },
+    {
+      "title": "Software Development",
+      "count": "14"
+    },
+    {
+      "title": "Software Engineering",
+      "count": "11"
+    },
+    {
+      "title": "Strategy",
+      "count": "10"
+    },
+    {
+      "title": "Testing",
+      "count": "10"
+    },
+    {
+      "title": "Programming",
+      "count": "7"
+    },
+    {
+      "title": "Product Development",
+      "count": "5"
+    },
+    {
+      "title": "Debugging",
+      "count": "5"
+    },
+    {
+      "title": "Digital Signal Processors",
+      "count": "4"
+    },
+    {
+      "title": "Cloud Computing",
+      "count": "3"
+    },
+    {
+      "title": "Requirements Analysis",
+      "count": "2"
+    },
+    {
+      "title": "Go-to-market Strategy",
+      "count": "2"
+    },
+    {
+      "title": "Software Design",
+      "count": "2"
+    },
+    {
+      "title": "System Architecture",
+      "count": "1"
+    },
+    {
+      "title": "Mobile Devices",
+      "count": "1"
+    },
+    {
+      "title": "Object Oriented Design",
+      "count": "1"
+    },
+    {
+      "title": "Algorithms",
+      "count": "1"
+    },
+    {
+      "title": "Big Data"
+    },
+    {
+      "title": "Embedded Systems",
+      "count": "14"
+    },
+    {
+      "title": "Operating Systems",
+      "count": "11"
+    },
+    {
+      "title": "C",
+      "count": "9"
+    },
+    {
+      "title": "C++",
+      "count": "7"
+    },
+    {
+      "title": "Embedded Software",
+      "count": "4"
+    },
+    {
+      "title": "Linux",
+      "count": "4"
+    },
+    {
+      "title": "RTOS",
+      "count": "2"
+    },
+    {
+      "title": ".NET",
+      "count": "1"
+    },
+    {
+      "title": "Python",
+      "count": "1"
+    },
+    {
+      "title": "Cross-functional Team Leadership",
+      "count": "3"
+    },
+    {
+      "title": "Technical Marketing",
+      "count": "3"
+    },
+    {
+      "title": "Strategic Alliances",
+      "count": "2"
+    },
+    {
+      "title": "Technology Evaluation",
+      "count": "1"
+    },
+    {
+      "title": "Strategy Development"
+    },
+    {
+      "title": "Software Architecture"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "2",
+    "receivedCount": "1",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/alexgrayii/",
+        "text": "Not only was Ken the Product Line Manager at Analog Devices, but he was also the Software Quality Engineering (SQE) Manager. He introduced us, the SQE Team, to the SCRUM process, and with his technical expertise he guided us in developing applications that exposed some bugs in the software that would not have been found otherwise. It was a breath of fresh air to have a manager who you could go to and quickly explain a rather complex and technical problem and get either the solution or at least technical guidance. As we would like to say, \"he does not shy away from being in the trenches with the rest of us.\" But above all, he was someone you could count on to remove any road blocks. For instance, if there was some part of the product that was difficult for the SQE team to test, he would push back on the development leads to make the software more testable. Ken's technical expertise, combined with his ability to manage, made working with him a real pleasure. I highly recommend him to any leadership or technical position. Sincerely, Alex Gray\n…\nSee more"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/nicolewrightpmp/",
+        "text": "Nicole worked for me for a number of years while she was in the QA department. I always found Nicole well-organized, hard-working, self-starting, and unafraid to try new things. As the most senior member of the team, Nicole was a role model for more junior team members. She instilled strong organizational skills, detail-oriented thinking, and a strong work ethic.\n\nHer willingness to adapt and take on new challenges, even something well outside of our “comfort zone” was always appreciated. This made her my go-to member of the team when there was some task that didn’t quite fit in our team’s roles but nevertheless needed to be done. This sometimes led her into successful cross-functional engagements with diverse stakeholders and interests.\n\nI can imagine that Nicole can be successful in a diverse set of job responsibilities and work environments."
+      },
+      {
+        "user": "https://www.linkedin.com/in/salberta/",
+        "text": "Scott worked for me for a number of years at Analog Devices, keeping the PC systems in our software development environment up and running.  From new machine deployment, off-site backups, systems migration, to maintenance of our multiple-boot QA lab environment, Scott operated with a large degree of independence, practically a one-man show.  During those years, I cannot think of a single instance when one of our business-critical systems was down for any appreciable length of time.  I recommend Scott to anyone looking for reliable system administration."
+      }
+    ]
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/jason-breslau-467470111/",
+      "text": "Principal Software Engineer at The MathWorks"
+    },
+    {
+      "user": "https://www.linkedin.com/in/igorkuklin/",
+      "text": "Principal Software Engineer at The MathWorks"
+    },
+    {
+      "user": "https://www.linkedin.com/in/richard-adame-901265a/",
+      "text": "Principle Software Engineer at The MathWorks"
+    },
+    {
+      "user": "https://www.linkedin.com/in/marc-greenberg-b3404a4/",
+      "text": "SW Engineer at The MathWorks"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nima-zareian-70556944/",
+      "text": "Principal Optical Design Engineer at OCLARO"
+    },
+    {
+      "user": "https://www.linkedin.com/in/lzaniolo/",
+      "text": "Software Development Manager at The MathWorks"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jennifer-black-31087a5/",
+      "text": "Software Development Manager at The MathWorks"
+    },
+    {
+      "user": "https://www.linkedin.com/in/e-mehran-mestchian-7aa4531/",
+      "text": "Sr. Engineering Director for Modeling Languages and Verification Technologies at The MathWorks, Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/andy-campbell-9a92314/",
+      "text": "Senior Software Engineering Manager - Test Infrastructure & Architecture at MathWorks"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jack-little-6b931/",
+      "text": "President at MathWorks"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Kenneth Atwell",
+    "headline": "Principal Software Engineer, MATLAB Language at MathWorks",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQE9KK-25gQVEQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=NbWtgxa3D4fuAVqZGDGEx0R4MH4urMofl14kyW5oWaw",
+    "location": "Greater Boston Area",
+    "connections": "500+",
+    "summary": "Versatile, high-performing, and self-motivated individual with principal-level skills in both software architecture/engineering and product management.\n\nSpecialties: Software architecture and engineering, technology assessment and roadmap development; skilled in C++ and MATLAB"
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "profileAlternative": {
+    "name": "Dwight Merriman",
+    "headline": "mongodb.org",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQE5Kpx3UWQnxA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=DGNWTX1Ve4aTpd0Fb5c0EKL39pbIK4FjRfmquogtqOM",
+    "location": "Greater New York City Area",
+    "connections": "500+",
+    "summary": "twitter @dmerr"
+  },
+  "aboutAlternative": {
+    "text": "twitter @dmerr"
+  },
+  "positions": [
+    {
+      "title": "Chairman & Co-founder MongoDB Inc.; Contributor MongoDB Project",
+      "companyName": "MongoDB",
+      "date1": "Jul 2007 – Present",
+      "date2": "12 yrs 5 mos"
+    },
+    {
+      "title": "Chairman",
+      "companyName": "AlleyCorp",
+      "description": "AlleyCorp is a network of affiliated companies founded by Kevin Ryan and Dwight Merriman. The companies include BusinessInsider.com, Gilt Groupe, and MongoDB.",
+      "date1": "2005 – Present",
+      "date2": "14 yrs"
+    },
+    {
+      "title": "CTO & Co-founder",
+      "companyName": "DoubleClick",
+      "date1": "Aug 1995 – Aug 2005",
+      "date2": "10 yrs 1 mo"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Miami University",
+      "degree": "CS",
+      "fieldofstudy": "CS",
+      "date1": "1986",
+      "date2": "1989"
+    }
+  ],
+  "skills": [
+    {
+      "title": "MongoDB",
+      "count": "99+"
+    },
+    {
+      "title": "NoSQL",
+      "count": "57"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "6",
+    "receivedCount": "0",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/ricke8/",
+        "text": "Have worked with rick for nearly a decade between AlleyCorp in general and Gilt Groupe. Always super helpful and a pleasure to work with!"
+      },
+      {
+        "user": "https://www.linkedin.com/in/palvinder-singh-chahil-a5a3841/",
+        "text": "Palvinder did an excellent job running european sales for us at Panther Express. Would love to work with him again in the future."
+      },
+      {
+        "user": "https://www.linkedin.com/in/antoinegirbal/",
+        "text": "Antoine is easily one of the best software engineers I have ever worked with."
+      },
+      {
+        "user": "https://www.linkedin.com/in/craigscollins/",
+        "text": "I have worked with Craig for over ten years at DoubleClick and AlleyCorp. Craig has done an excellent job with our searches. In particular he is great at screening and finding candidates who are a good fit, both in skills and in culture, with our organization. Craig has been very helpful at helping us find A-level hires."
+      },
+      {
+        "user": "https://www.linkedin.com/in/gadstanislas/",
+        "text": "Highly recommended, Gad has done great work for Panther."
+      },
+      {
+        "user": "https://www.linkedin.com/in/mark-anderson-1a4b101/",
+        "text": ""
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Dwight Merriman",
+    "headline": "mongodb.org",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQE5Kpx3UWQnxA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=DGNWTX1Ve4aTpd0Fb5c0EKL39pbIK4FjRfmquogtqOM",
+    "location": "Greater New York City Area",
+    "connections": "500+",
+    "summary": "twitter @dmerr"
+  }
+}

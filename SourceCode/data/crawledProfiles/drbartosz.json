@@ -1,0 +1,415 @@
+{
+  "profileAlternative": {
+    "name": "Bartosz Milewski",
+    "headline": "Software Architect",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQGhFDpFC6Pg9w/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=GAyfX8DK0FvyG7qhySV7Df9HHIQ03-di1O5DLLwk4x4",
+    "location": "Seattle, Washington",
+    "connections": "500+",
+    "summary": "I have extensive experience as a software designer and developer, but I'm more of an architect and a visionary. I can help create successful software products. I also like the theoretical side of computer science, and have pretty good knowledge of category theory.\n\nSpecialties: Systems software architecture, design, and implementation. Extensive C++ programming expertise. Concurrent and parallel programming in a variety of languages. Distributed systems. Haskell and functional programming. Category theory.\n\nI have a Ph.D. and did research in Quantum Physics before I switched to programming. I have experience in almost every aspect of software design and implementation.\n\nI was a development lead at Microsoft, designing and implementing the Content Index--a search engine before its time. I founded Reliable Software, the maker of a distributed version control system, which I designed and developed with a team of C++ programmers. I open sourced it on GitHub (https://github.com/BartoszMilewski/CodeCoop)\n\nI was Software Architect at FP Complete, where I created the School of Haskell (https://www.schoolofhaskell.com/), a site for publishing content with runnable and editable snippets of Haskell code.\n\nI write a popular programming blog at http://BartoszMilewski.com, have a Haskell blog and tutorials at https://www.fpcomplete.com/user/bartosz , and two video series about parallelism and concurrency: one in C++11 http://www.youtube.com/playlist?list=PL1835A90FC78FF8BE , and one in Haskell https://www.youtube.com/playlist?list=PLbgaMIhjbmEm_51-HWv9BQUXcmHYtl4sw .\n\nTogether with Walter Bright and Andrei Alexandrescu I was involved in the the early stages of the design and implementation of the D programming language and its support for concurrency.\n\nI published the book \"C++ In Action\" (Addison Wesley 2001) and an online book \"Category Theory for Programmers.\""
+  },
+  "aboutAlternative": {
+    "text": "I have extensive experience as a software designer and developer, but I'm more of an architect and a visionary. I can help create successful software products. I also like the theoretical side of computer science, and have pretty good knowledge of category theory.\n\nSpecialties: Systems software architecture, design, and implementation. Extensive C++ programming expertise. Concurrent and parallel programming in a variety of languages. Distributed systems. Haskell and functional programming. Category theory.\n\nI have a Ph.D. and did research in Quantum Physics before I switched to programming. I have experience in almost every aspect of software design and implementation.\n\nI was a development lead at Microsoft, designing and implementing the Content Index--a search engine before its time. I founded Reliable Software, the maker of a distributed version control system, which I designed and developed with a team of C++ programmers. I open sourced it on GitHub (https://github.com/BartoszMilewski/CodeCoop)\n\nI was Software Architect at FP Complete, where I created the School of Haskell (https://www.schoolofhaskell.com/), a site for publishing content with runnable and editable snippets of Haskell code.\n\nI write a popular programming blog at http://BartoszMilewski.com, have a Haskell blog and tutorials at https://www.fpcomplete.com/user/bartosz , and two video series about parallelism and concurrency: one in C++11 http://www.youtube.com/playlist?list=PL1835A90FC78FF8BE , and one in Haskell https://www.youtube.com/playlist?list=PLbgaMIhjbmEm_51-HWv9BQUXcmHYtl4sw .\n\nTogether with Walter Bright and Andrei Alexandrescu I was involved in the the early stages of the design and implementation of the D programming language and its support for concurrency.\n\nI published the book \"C++ In Action\" (Addison Wesley 2001) and an online book \"Category Theory for Programmers.\""
+  },
+  "positions": [
+    {
+      "title": "President and Founder",
+      "companyName": "Reliable Software",
+      "description": "Dividing time between running the company and designing and developing the product",
+      "date1": "Jan 1996 – Jan 2017",
+      "date2": "21 yrs 1 mo"
+    },
+    {
+      "title": "Software Architect",
+      "companyName": "FP Complete",
+      "description": "Architected the School of Haskell, a site for publishing and managing content with embedded runnable and editable snippets of Haskell code. Created the vision and functional specification, designed the UI, popularized the site and attracted community leaders to contribute articles and tutorials.\n\nArchitected the Haskell IDE.\n…\nsee more",
+      "date1": "Mar 2012 – May 2013",
+      "date2": "1 yr 3 mos"
+    },
+    {
+      "title": "Member of the Advisory Board",
+      "companyName": "UW Professional and Continuing Education",
+      "description": "Advise on C/C++ certificate programs",
+      "date1": "Aug 2010 – Aug 2012",
+      "date2": "2 yrs 1 mo"
+    },
+    {
+      "title": "Technical Evangelist",
+      "companyName": "Corensic",
+      "description": "Increasing the visibility and prestige of the company.",
+      "date1": "Mar 2011 – Jan 2012",
+      "date2": "11 mos"
+    },
+    {
+      "title": "President",
+      "companyName": "Northwest C++ Users Group",
+      "description": "NWCPP meets every month. Regular speakers are Andrei Alexandrescu, Scott Meyers, Herb Sutter, just to mention a few.",
+      "date1": "2007 – Jan 2011",
+      "date2": "4 yrs"
+    },
+    {
+      "title": "Lecturer",
+      "companyName": "DigiPen Institute of Technology",
+      "description": "I taught a Computer Graphics course",
+      "date1": "Sep 1998 – Dec 1998",
+      "date2": "4 mos"
+    },
+    {
+      "title": "Microsoft",
+      "description": "Managed the design and implementation of the Microsoft desktop search engine.",
+      "date1": "1992 – 1995",
+      "date2": "3 yrs",
+      "roles": [
+        {
+          "title": "Development Lead",
+          "date1": "1992 – 1995",
+          "date2": "3 yrs"
+        },
+        {
+          "title": "SDE",
+          "date1": "1987 – 1995",
+          "date2": "8 yrs"
+        }
+      ]
+    },
+    {
+      "title": "Title\nDevelopment Lead",
+      "description": "Managed the design and implementation of the Microsoft desktop search engine.",
+      "date1": "1992 – 1995",
+      "date2": "3 yrs",
+      "roles": [
+        {
+          "title": "Development Lead",
+          "date1": "1992 – 1995",
+          "date2": "3 yrs"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSDE",
+      "description": "Work on operating systems (porting the Mach OS to the 386), file systems, and Windows shell",
+      "date1": "1987 – 1995",
+      "date2": "8 yrs",
+      "roles": [
+        {
+          "title": "SDE",
+          "date1": "1987 – 1995",
+          "date2": "8 yrs"
+        }
+      ]
+    },
+    {
+      "title": "Postdoc",
+      "companyName": "UC Davis",
+      "description": "Research in High Energy Physics",
+      "date1": "1986 – 1987",
+      "date2": "1 yr"
+    },
+    {
+      "title": "Postdoc",
+      "companyName": "Brandeis University",
+      "description": "Research in High Energy Physics",
+      "date1": "1985 – 1986",
+      "date2": "1 yr"
+    },
+    {
+      "title": "Postdoc",
+      "companyName": "University of Utrecht",
+      "description": "Research in High Energy Physics",
+      "date1": "1984 – 1985",
+      "date2": "1 yr"
+    },
+    {
+      "title": "Visiting Researcher",
+      "companyName": "CERN",
+      "description": "Research in High Energy Physics",
+      "date1": "Jun 1984 – Aug 1984",
+      "date2": "3 mos"
+    },
+    {
+      "title": "Postdoc",
+      "companyName": "Max Planck Institute for Physics",
+      "description": "Research in High Energy Physics",
+      "date1": "Nov 1983 – Jun 1984",
+      "date2": "8 mos"
+    },
+    {
+      "title": "Professor",
+      "companyName": "Uniwersytet Wroclawski",
+      "description": "Teaching courses in Supersymmetry and Supergravity. Research in High Energy Physics.",
+      "date1": "Feb 1981 – 1982",
+      "date2": "1 yr"
+    }
+  ],
+  "educations": [
+    {
+      "title": "University of Washington",
+      "degree": "Computer Science",
+      "fieldofstudy": "Computer Science",
+      "date1": "2007",
+      "date2": "2012"
+    },
+    {
+      "title": "University of Wroclaw",
+      "degree": "Ph.D.",
+      "fieldofstudy": "Physics",
+      "date1": "1975",
+      "date2": "1980"
+    },
+    {
+      "title": "University of Warsaw",
+      "degree": "Physics",
+      "fieldofstudy": "Physics",
+      "date1": "1970",
+      "date2": "1974"
+    },
+    {
+      "title": "XIV Liceum Ogolnoksztalcace im. Gottwalda"
+    }
+  ],
+  "skills": [
+    {
+      "title": "C++",
+      "count": "62"
+    },
+    {
+      "title": "Distributed Systems",
+      "count": "47"
+    },
+    {
+      "title": "Software Design",
+      "count": "45"
+    },
+    {
+      "title": "Programming",
+      "count": "39"
+    },
+    {
+      "title": "Software Engineering",
+      "count": "29"
+    },
+    {
+      "title": "Algorithms",
+      "count": "26"
+    },
+    {
+      "title": "Computer Science",
+      "count": "25"
+    },
+    {
+      "title": "Software Development",
+      "count": "23"
+    },
+    {
+      "title": "Object Oriented Design",
+      "count": "10"
+    },
+    {
+      "title": "Design Patterns",
+      "count": "10"
+    },
+    {
+      "title": "Scalability",
+      "count": "8"
+    },
+    {
+      "title": "Architecture",
+      "count": "3"
+    },
+    {
+      "title": "Debugging",
+      "count": "2"
+    },
+    {
+      "title": "Architectures",
+      "count": "2"
+    },
+    {
+      "title": "C",
+      "count": "23"
+    },
+    {
+      "title": "Linux",
+      "count": "17"
+    },
+    {
+      "title": "Java",
+      "count": "12"
+    },
+    {
+      "title": "Embedded Systems",
+      "count": "12"
+    },
+    {
+      "title": "Operating Systems",
+      "count": "11"
+    },
+    {
+      "title": "Git",
+      "count": "7"
+    },
+    {
+      "title": "Parallel Programming",
+      "count": "22"
+    },
+    {
+      "title": "Haskell",
+      "count": "21"
+    },
+    {
+      "title": "Programming Languages",
+      "count": "14"
+    },
+    {
+      "title": "Concurrent Programming",
+      "count": "13"
+    },
+    {
+      "title": "High Performance Computing",
+      "count": "5"
+    },
+    {
+      "title": "Programming Language Theory",
+      "count": "5"
+    },
+    {
+      "title": "Technology Evangelism",
+      "count": "3"
+    },
+    {
+      "title": "Functional Programming",
+      "count": "3"
+    },
+    {
+      "title": "Software Architectural Design"
+    },
+    {
+      "title": "Technology Evangelist",
+      "count": "4"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "3",
+    "receivedCount": "1",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/anthonyshort/",
+        "text": "I worked with Bartosz for several years. He's the sort of engineer every team needs - smart, focused, no compromises on quality, someone you can trust to do the job right the first time. He sets high standards for his work and is always encouraging others do the same."
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/anthonyshort/",
+        "text": "Anthony was the best manager I've ever had. He was focused on creating a good product and building a great team. He was technically savvy but avoided micro-managing. He encouraged creativity but kept focus on deliverables. He didn't have a big ego and avoided work politics. These are the qualities one would expect from every manager but which, in corporate environments, are extremely rare."
+      },
+      {
+        "user": "https://www.linkedin.com/in/wies%C5%82aw-ka%C5%82kus-b91a897/",
+        "text": "Wieslaw was involved in all aspects of software design and development at Reliable Software. He designed and implemented several components of our version control system, Code Co-op. He is a very experienced C++ programmer with high quality standards."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "5",
+      "items": [
+        "English",
+        "French",
+        "Italian",
+        "Polish",
+        "Russian"
+      ]
+    },
+    {
+      "count": "4",
+      "items": [
+        "Method and mechanism for freeing disk space in a file system",
+        "Method and system for effectively representing query results in alimited amount of memory",
+        "Scope testing of documents in a search engine using document to foldermapping",
+        "Method and system for automatically indexing data in a document using afresh index table"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "Distributed Systems",
+        "Programming Languages"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "Introduction to C++ Concurrency LiveLessons",
+        "C++ In Action, Industrial Strength Programming Techniques"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Most inspirational talk"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Gravity Simulation"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/samantha-ainsley-71a28a24/",
+      "text": "Senior Software Engineer at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kuzminrobin/",
+      "text": "Crazy about C++ passionate bug preventer and meticulous code reviewer. Active Member of C++ Community."
+    },
+    {
+      "user": "https://www.linkedin.com/in/herb-sutter-826b436/",
+      "text": "SA at Microsoft"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jay-yagnik-3727776/",
+      "text": "Google Fellow, VP Google AI"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jonkalb/",
+      "text": "Software Engineering Instructor"
+    },
+    {
+      "user": "https://www.linkedin.com/in/paul-fultz-ii-60391997/",
+      "text": "Software Engineer at AMD"
+    },
+    {
+      "user": "https://www.linkedin.com/in/barbara-geller-856491116/",
+      "text": "Software Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/dikshavanvari/",
+      "text": "Software Engineer at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/alex-karweit-593962152/",
+      "text": "Software Engineer at Self-Employed"
+    },
+    {
+      "user": "https://www.linkedin.com/in/arthur-nguyen-51037338/",
+      "text": "Sr Software Developer at AmRisc"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Director",
+      "experience": "Northwest C++ Users Group",
+      "description": "Science and Technology",
+      "date2": "Cause"
+    }
+  ],
+  "profile": {
+    "name": "Bartosz Milewski",
+    "headline": "Software Architect",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQGhFDpFC6Pg9w/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=GAyfX8DK0FvyG7qhySV7Df9HHIQ03-di1O5DLLwk4x4",
+    "location": "Seattle, Washington",
+    "connections": "500+",
+    "summary": "I have extensive experience as a software designer and developer, but I'm more of an architect and a visionary. I can help create successful software products. I also like the theoretical side of computer science, and have pretty good knowledge of category theory.\n\nSpecialties: Systems software architecture, design, and implementation. Extensive C++ programming expertise. Concurrent and parallel programming in a variety of languages. Distributed systems. Haskell and functional programming. Category theory.\n\nI have a Ph.D. and did research in Quantum Physics before I switched to programming. I have experience in almost every aspect of software design and implementation.\n\nI was a development lead at Microsoft, designing and implementing the Content Index--a search engine before its time. I founded Reliable Software, the maker of a distributed version control system, which I designed and developed with a team of C++ programmers. I open sourced it on GitHub (https://github.com/BartoszMilewski/CodeCoop)\n\nI was Software Architect at FP Complete, where I created the School of Haskell (https://www.schoolofhaskell.com/), a site for publishing content with runnable and editable snippets of Haskell code.\n\nI write a popular programming blog at http://BartoszMilewski.com, have a Haskell blog and tutorials at https://www.fpcomplete.com/user/bartosz , and two video series about parallelism and concurrency: one in C++11 http://www.youtube.com/playlist?list=PL1835A90FC78FF8BE , and one in Haskell https://www.youtube.com/playlist?list=PLbgaMIhjbmEm_51-HWv9BQUXcmHYtl4sw .\n\nTogether with Walter Bright and Andrei Alexandrescu I was involved in the the early stages of the design and implementation of the D programming language and its support for concurrency.\n\nI published the book \"C++ In Action\" (Addison Wesley 2001) and an online book \"Category Theory for Programmers.\""
+  }
+}

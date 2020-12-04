@@ -1,0 +1,152 @@
+{
+  "profileAlternative": {
+    "name": "Vladislava Surgai",
+    "headline": "Web/graphic designer and HTML developer",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQH8ZvziiJQVaw/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=Dthw6LUhvQiXw-CjrGzQF9j3zX5-HfTNbj-JZBH3HN8",
+    "location": "Ukraine",
+    "connections": "341"
+  },
+  "aboutAlternative": {},
+  "positions": [
+    {
+      "title": "Web/graphic designer and HTML developer",
+      "companyName": "Freelance",
+      "date1": "May 2015 – Present",
+      "date2": "4 yrs 7 mos"
+    },
+    {
+      "title": "Специалист по компьютерной графике",
+      "companyName": "Infostroy Ltd.",
+      "date1": "Jan 2008 – Apr 2015",
+      "date2": "7 yrs 4 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Harkivs'kij Deržavnij Tehnicnij Universitet Radioelectroniki",
+      "degree": "Master's degree",
+      "fieldofstudy": "Applied Mathematics and Management",
+      "date1": "2005",
+      "date2": "2010"
+    }
+  ],
+  "skills": [
+    {
+      "title": "HTML",
+      "count": "21"
+    },
+    {
+      "title": "HTML 5",
+      "count": "18"
+    },
+    {
+      "title": "Photoshop",
+      "count": "16"
+    },
+    {
+      "title": "UI/UX",
+      "count": "6"
+    },
+    {
+      "title": "Illustrator",
+      "count": "16"
+    },
+    {
+      "title": "Joomla",
+      "count": "16"
+    },
+    {
+      "title": "Dreamweaver",
+      "count": "15"
+    },
+    {
+      "title": "JavaScript",
+      "count": "15"
+    },
+    {
+      "title": "InDesign",
+      "count": "15"
+    },
+    {
+      "title": "WordPress",
+      "count": "10"
+    },
+    {
+      "title": "Magento",
+      "count": "9"
+    },
+    {
+      "title": "Bootstrap",
+      "count": "7"
+    },
+    {
+      "title": "XAML",
+      "count": "13"
+    },
+    {
+      "title": "Advanced CSS",
+      "count": "17"
+    },
+    {
+      "title": "Batavi",
+      "count": "10"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/yuriy-lamzin-08538465/",
+      "text": "Port Engineer – TIDE WATER ARAMCO"
+    },
+    {
+      "user": "https://www.linkedin.com/in/anastasiya-kudryavtseva-05870514a/",
+      "text": "PR Specialist - Dev-Pro.net - Kyiv"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ammerjul/",
+      "text": "UI Designer – Infostroy Ltd."
+    },
+    {
+      "user": "https://www.linkedin.com/in/mykhailoskupeiko/",
+      "text": "C++ Tech Lead at Ring Ukraine"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ajrina/",
+      "text": "PHP developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/bogdan-burim-1b7b221a/",
+      "text": "PHP Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nikolay-b/",
+      "text": "PHP Developer at Freelance, Editor-in-chief at Age of Geeks"
+    },
+    {
+      "user": "https://www.linkedin.com/in/dmitrypogorelov/",
+      "text": "Senior Android Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mykola-zerniuk-18aab7ab/",
+      "text": "Scala Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/julia-krikunenko-323aba55/",
+      "text": "Senior Software Developer – GlobalLogic"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Vladislava Surgai",
+    "headline": "Web/graphic designer and HTML developer",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQH8ZvziiJQVaw/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=Dthw6LUhvQiXw-CjrGzQF9j3zX5-HfTNbj-JZBH3HN8",
+    "location": "Ukraine",
+    "connections": "341"
+  }
+}

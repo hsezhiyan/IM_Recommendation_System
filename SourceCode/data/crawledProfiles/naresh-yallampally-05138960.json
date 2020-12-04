@@ -1,0 +1,56 @@
+{
+  "profileAlternative": {
+    "name": "Naresh Yallampally",
+    "headline": "web developer",
+    "location": "Hyderabad, Telangana, India",
+    "connections": "6"
+  },
+  "aboutAlternative": {},
+  "positions": [
+    {
+      "title": "HTML Developer",
+      "companyName": "vishay services",
+      "location": "hyderabad",
+      "date1": "Oct 2012 – Present",
+      "date2": "7 yrs 2 mos"
+    }
+  ],
+  "educations": [],
+  "skills": [
+    {
+      "title": "HTML",
+      "count": "1"
+    },
+    {
+      "title": "jquery",
+      "count": "1"
+    },
+    {
+      "title": "css",
+      "count": "1"
+    },
+    {
+      "title": "less",
+      "count": "1"
+    },
+    {
+      "title": "javascript",
+      "count": "1"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Naresh Yallampally",
+    "headline": "web developer",
+    "location": "Hyderabad, Telangana, India",
+    "connections": "6"
+  }
+}

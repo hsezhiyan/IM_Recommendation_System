@@ -1,0 +1,182 @@
+{
+  "profileAlternative": {
+    "name": "Paul Garner",
+    "headline": "Freelance Python Developer at Depop",
+    "location": "London, United Kingdom",
+    "connections": "500+",
+    "summary": "I am a highly skilled Python developer, experience with 'big data' (working for Google) and cloud platforms such as EC2 and App Engine. Experience with NoSQL data stores, Redis, RabbitMQ, caching and performance strategies for web applications. Django expert.\n\nI am a cheerful, helpful, ‘can-do’ person with an inquiring mind – I enjoy finding solutions to difficult and unusual problems, writing good, clean, re-usable code and learning new skills.\n\nSpecialties: Python, Django, Javascript, SQL, NoSQL etc etc"
+  },
+  "aboutAlternative": {
+    "text": "I am a highly skilled Python developer, experience with 'big data' (working for Google) and cloud platforms such as EC2 and App Engine. Experience with NoSQL data stores, Redis, RabbitMQ, caching and performance strategies for web applications. Django expert.\n\nI am a cheerful, helpful, ‘can-do’ person with an inquiring mind – I enjoy finding solutions to difficult and unusual problems, writing good, clean, re-usable code and learning new skills.\n\nSpecialties: Python, Django, Javascript, SQL, NoSQL etc etc"
+  },
+  "positions": [
+    {
+      "title": "Freelance Python Developer",
+      "companyName": "Depop",
+      "location": "London, United Kingdom",
+      "description": "Python development using: Django, PostgreSQL, ElasticSearch, TensorFlow, Redis, gevent, Mongodb, Django REST Framework",
+      "date1": "Jun 2015 – Present",
+      "date2": "4 yrs 6 mos"
+    },
+    {
+      "title": "Freelance Python Developer",
+      "companyName": "project work for various digital agencies",
+      "location": "London, United Kingdom",
+      "description": "Python dev, specialising in web backend, with excellent Javascript, jQuery, SQL, NoSQL, Git, Apache etc",
+      "date1": "Jan 2011 – Jun 2015",
+      "date2": "4 yrs 6 mos"
+    },
+    {
+      "title": "Freelance Python Developer",
+      "companyName": "Nexus Interactive Arts",
+      "location": "London",
+      "description": "Python web app using: Flask, MongoDB, multiprocessing, SVG",
+      "date1": "May 2013 – Jul 2013",
+      "date2": "3 mos"
+    },
+    {
+      "title": "Python Developer",
+      "companyName": "Rockabox Media Ltd",
+      "description": "Django and other Python back-end development, EC2, Redis, Cassandra db (NoSQL),Chef (...therefore a bit of Ruby) building a real-time stats-logging pipeline",
+      "date1": "Jul 2012 – Apr 2013",
+      "date2": "10 mos"
+    },
+    {
+      "title": "Django Developer",
+      "companyName": "Potato",
+      "description": "Django, App Engine, NoSQL",
+      "date1": "Aug 2011 – Jul 2012",
+      "date2": "1 yr"
+    }
+  ],
+  "educations": [],
+  "skills": [
+    {
+      "title": "Django",
+      "count": "39"
+    },
+    {
+      "title": "Git",
+      "count": "34"
+    },
+    {
+      "title": "Python",
+      "count": "33"
+    },
+    {
+      "title": "Web Applications",
+      "count": "10"
+    },
+    {
+      "title": "jQuery",
+      "count": "29"
+    },
+    {
+      "title": "JavaScript",
+      "count": "27"
+    },
+    {
+      "title": "MySQL",
+      "count": "11"
+    },
+    {
+      "title": "JSON",
+      "count": "10"
+    },
+    {
+      "title": "NoSQL",
+      "count": "9"
+    },
+    {
+      "title": "HTML 5",
+      "count": "6"
+    },
+    {
+      "title": "MongoDB",
+      "count": "4"
+    },
+    {
+      "title": "Amazon EC2",
+      "count": "3"
+    },
+    {
+      "title": "Celery",
+      "count": "3"
+    },
+    {
+      "title": "Chef",
+      "count": "3"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "1",
+    "receivedCount": "2",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/jaymzcampbell/",
+        "text": "Paul is an excellent senior developer with a grasp of the entire stack for modern web development, front and back. He has great attention to detail and produces well tested and maintainable code that meets or exceeds client expectation. It was a great pleasure working with him at U-Dox."
+      },
+      {
+        "user": "https://www.linkedin.com/in/henry-penny-21795a2/",
+        "text": "Paul is a very highly skilled senior web developer who has a depth and breadth of knowledge across most of the popular open source development technologies around. He requires zero hand holding, quickly grasps the most thinly defined requirements and delivers intelligently thought out solutions, quickly and without fuss. Paul is a very straight talking and reliable character with a dry wit, who can keep his cool under pressure, and is a real asset to my team.\n…\nSee more"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/jaymzcampbell/",
+        "text": "James is a true alpha geek, which I mean in the nicest possible way, as the highest compliment one developer can pay another. His coding interests are ever-broadening and, as a result, I have personally seen him hack up solutions to problems I would have thought impossible or highly infeasible. It was a pleasure to work with James and I know he's a, literally, indispensable asset to U-Dox, as he would be to any company."
+      }
+    ]
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/anna-smolyanova-278959131/",
+      "text": "Software Engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/aaron-smith-43bab3166/",
+      "text": "Python Developer at White Champel"
+    },
+    {
+      "user": "https://www.linkedin.com/in/john-papanastasiou-001/",
+      "text": "Python and Django Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/laura-turnbull-479133136/",
+      "text": "Python developer at Nomura"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ndgevans/",
+      "text": "Python developer at Fidelity International"
+    },
+    {
+      "user": "https://www.linkedin.com/in/maria-raga-045b712/",
+      "text": "CEO at Depop"
+    },
+    {
+      "user": "https://www.linkedin.com/in/garra-peters-aba29618/",
+      "text": "Python Developer at Beyond"
+    },
+    {
+      "user": "https://www.linkedin.com/in/joel-ortiz-82384559/",
+      "text": "Python Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/andreycizov/",
+      "text": "Python Developer at The Fusion Labs"
+    },
+    {
+      "user": "https://www.linkedin.com/in/stuartburgoyne/",
+      "text": "Python Developer at IQVIA"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Paul Garner",
+    "headline": "Freelance Python Developer at Depop",
+    "location": "London, United Kingdom",
+    "connections": "500+",
+    "summary": "I am a highly skilled Python developer, experience with 'big data' (working for Google) and cloud platforms such as EC2 and App Engine. Experience with NoSQL data stores, Redis, RabbitMQ, caching and performance strategies for web applications. Django expert.\n\nI am a cheerful, helpful, ‘can-do’ person with an inquiring mind – I enjoy finding solutions to difficult and unusual problems, writing good, clean, re-usable code and learning new skills.\n\nSpecialties: Python, Django, Javascript, SQL, NoSQL etc etc"
+  }
+}

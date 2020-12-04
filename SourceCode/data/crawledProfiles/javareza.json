@@ -1,0 +1,210 @@
+{
+  "profileAlternative": {
+    "name": "Reza Rahman",
+    "headline": "Senior Java Technologist, Author, Speaker",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQFaZgP9J_2p0g/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=i_DW3zl4APiJ6cExP9cIod4e3Bypa0Qt7rOgNF_ZsEQ",
+    "location": "Greater Philadelphia Area",
+    "connections": "500+",
+    "summary": "Reza Rahman is Principal Program Manager for Java on Azure at Microsoft. He works to make sure Java developers are first class citizens at Microsoft and Microsoft is a first class citizen of the Java ecosystem.\n\nReza has been an official Java technologist at Oracle. He is the author of the popular book EJB 3 in Action. Reza has long been a frequent speaker at Java User Groups and conferences worldwide including JavaOne and Devoxx. He has been the lead for the Java EE track at JavaOne as well as a JavaOne Rock Star Speaker award recipient. Reza is an avid contributor to industry journals like JavaLobby/DZone and TheServerSide. He has been a member of the Java EE, EJB and JMS expert groups over the years. Reza implemented the EJB container for the Resin open source Java EE application server. He helps lead the Philadelphia Java User Group.\n\nReza has over a decade of experience with technology leadership, enterprise architecture and consulting. He has been working with Java EE technology since its inception, developing on almost every major application platform ranging from Tomcat to JBoss, GlassFish, WebSphere and WebLogic. Reza has developed enterprise systems for well-known companies like eBay, Motorola, Comcast, Nokia, Prudential, Guardian Life, USAA, Independence Blue Cross, Anthem, CapitalOne and AAA using Java EE and Spring."
+  },
+  "aboutAlternative": {
+    "text": "Reza Rahman is Principal Program Manager for Java on Azure at Microsoft. He works to make sure Java developers are first class citizens at Microsoft and Microsoft is a first class citizen of the Java ecosystem.\n\nReza has been an official Java technologist at Oracle. He is the author of the popular book EJB 3 in Action. Reza has long been a frequent speaker at Java User Groups and conferences worldwide including JavaOne and Devoxx. He has been the lead for the Java EE track at JavaOne as well as a JavaOne Rock Star Speaker award recipient. Reza is an avid contributor to industry journals like JavaLobby/DZone and TheServerSide. He has been a member of the Java EE, EJB and JMS expert groups over the years. Reza implemented the EJB container for the Resin open source Java EE application server. He helps lead the Philadelphia Java User Group.\n\nReza has over a decade of experience with technology leadership, enterprise architecture and consulting. He has been working with Java EE technology since its inception, developing on almost every major application platform ranging from Tomcat to JBoss, GlassFish, WebSphere and WebLogic. Reza has developed enterprise systems for well-known companies like eBay, Motorola, Comcast, Nokia, Prudential, Guardian Life, USAA, Independence Blue Cross, Anthem, CapitalOne and AAA using Java EE and Spring."
+  },
+  "positions": [
+    {
+      "title": "Principal Program Manager",
+      "companyName": "Microsoft",
+      "location": "Greater Philadelphia Area",
+      "date1": "Jan 2019 – Present",
+      "date2": "11 mos"
+    },
+    {
+      "title": "Senior Vice President",
+      "companyName": "AxonIQ",
+      "date1": "May 2018 – Nov 2018",
+      "date2": "7 mos"
+    },
+    {
+      "title": "Senior Manager/Architect",
+      "companyName": "CapTech Ventures, Inc",
+      "date1": "Mar 2016 – Apr 2018",
+      "date2": "2 yrs 2 mos"
+    },
+    {
+      "title": "Java EE/GlassFish/WebLogic Evangelist",
+      "companyName": "Oracle",
+      "location": "Greater Philadelphia Area",
+      "date1": "Nov 2012 – Mar 2016",
+      "date2": "3 yrs 5 mos"
+    },
+    {
+      "title": "Senior Manager/Architect",
+      "companyName": "CapTech Ventures, Inc",
+      "location": "Greater Philadelphia Area",
+      "date1": "Mar 2012 – Nov 2012",
+      "date2": "9 mos"
+    },
+    {
+      "title": "Owner/Independent Consultant",
+      "companyName": "Cognicellence",
+      "date1": "Jan 2004 – Apr 2012",
+      "date2": "8 yrs 4 mos"
+    },
+    {
+      "title": "Systems Architect (Consultancy)",
+      "companyName": "PHH Mortgage",
+      "date1": "Aug 2011 – Mar 2012",
+      "date2": "8 mos"
+    },
+    {
+      "title": "Resin EJB 3.1 Lite Container Lead/Community Outreach Advocate (Consultancy)",
+      "companyName": "Caucho Technology, Inc",
+      "date1": "2009 – Aug 2011",
+      "date2": "2 yrs"
+    },
+    {
+      "title": "SOA Architect (Consultancy)",
+      "companyName": "Independence Blue Cross",
+      "date1": "2009",
+      "date2": "less than a year"
+    },
+    {
+      "title": "Chief Software Architect (Consultancy)",
+      "companyName": "Tripod Technologies, LLC",
+      "date1": "Jan 2007 – Dec 2008",
+      "date2": "2 yrs"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Gettysburg College",
+      "degree": "Bachelors",
+      "fieldofstudy": "Computer Science/Economics (Mathematics Minor)",
+      "date1": "1997",
+      "date2": "2001"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Java Enterprise Edition",
+      "count": "99+"
+    },
+    {
+      "title": "Java",
+      "count": "99"
+    },
+    {
+      "title": "Tomcat",
+      "count": "73"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "13",
+    "receivedCount": "10",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/frans-van-buul-8030743/",
+        "text": "Reza is a globally recognized Java technologist, especially in the Java EE field. As author of Java books and other publications, and as speaker at numerous conferences and other events, Reza has built a vast personal network in the industry. The simple fact that he joined our company was enough to generate buzz and attention for us. Reza's network didn't appear out of thin air. It is founded in a sincere interest in others, a deep appreciation of the value of diversity, and persistent efforts to connect with fellow human beings. I would highly recommend Reza for any role that requires both deep Java proficiency and a world-class industry network.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/jeroenspeekenbrink/",
+        "text": "Reza is very knowledgable and easy to work with. He looks at the big picture and is very good in positioning the role and (dis)advantages of specific technologies. I thoroughly enjoyed working with him!"
+      },
+      {
+        "user": "https://www.linkedin.com/in/theresanguyen7/",
+        "text": "It's not everyday you meet someone who cares and looks out for your well being. I worked with Reza nearly 10 years ago. We have stayed in touch and continue to have professionally constructive conversations. Reza possesses a unique blend of professionalism and loyalty. I feel fortunate to call Reza a friend. Reza embodies natural leadership. He is forward thinking and genuinely cares about Java technologies, the encompassing ecosystem and the people within the industry. He has consistently demonstrated his passion as a prominent driver in advancing the evolution of enterprise solutions. He is sharp and has a keen ability to grasp complex technologies quickly. Reza is surely a thought leader who leads with conviction.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/rstrazza/",
+        "text": "I am very thankful for the invaluable opportunity to work with Reza in preparing and delivering a talk at JavaOne 2017. His experience as a speaker and thought leader in the technology industry was crucial to tailor the presentation and demo at the right level. The talk involved the use of cloud providers, and Reza was instrumental in leveraging his network allowing us to obtain access to several cloud providers we would not have otherwise. Reza was very professional, knowledgeable, resourceful, friendly and just a pleasure to work. I would welcome working with Reza again.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/ryan-tarrant/",
+        "text": "Reza is a great leader, mentor, and fellow employee to work with. Reza has tremendous knowledge of the latest technology in just about everything Java related. I have been lucky enough to work with him on a few client projects at CapTech and in each project, he was crucial in our team delivering what the client needed while also helping others on the team, who did not have the expertise in the technology, learn and grow along the way. Reza takes the time to work with the team and help them provide the best possible solution. He constantly demonstrates best practices in his software development and provides clean understandable solutions for his clients. I would gladly take any opportunity to work with Reza again.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/zack-teater-0403a265/",
+        "text": "Very few architects can match the technical prowess of Reza. I had the pleasure of working with him for nearly a year at Captech Consulting, where we collaborated on a client project. During this time, I was a Senior Java Developer and he served as Enterprise Architect. Beyond an uncanny commitment to delivery, Reza spent considerable time mentoring me on both technical and non-technical skills. He is a rare leader that sees the value in building a strong and competent team. Reza has vision beyond the next deliverable and understands how to balance business and technical requirements. I would recommend Reza without question and would welcome the opportunity to work and mentor with him again.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/therthala-murali-52b9441/",
+        "text": "Reza has in-depth knowledge of Java and JEE technologies. His foresight and ability to anticipate problems ahead of time has helped projects tremendously. Reza is an excellent speaker and writer. Several years ago, he coauthored a fantastic book on EJB 3 that helped me understand EJB 3 deeply. I am confident that Reza will be a tremendous asset to any team or project that he is involved with.\n…\nSee more"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/asirvs/",
+        "text": "Asir is a Microsoft veteran and quintessential Java professional. He is knowledgeable, patient, helpful, smart, meticulous, cordial and hard working. The breadth of his Java exposure is truly remarkable. Asir has been instrumental in the long ongoing Java on Azure journey. He personifies the \"One Microsoft\" customer driven mindset and consistently rises above the fray. Asir remains humble, neutral, accurate and factual even the context around him is anything but. His personal network within Microsoft is huge.\n\nI admire him as a fellow Java community enthusiast and wish him all the best!"
+      },
+      {
+        "user": "https://www.linkedin.com/in/jpcarrascal/",
+        "text": "JP has to be one of the most dedicated and knowledgeable people in his field that I have ever encountered. He has a deep understanding of research best practices and methodology. I can honestly say JP was indispensable in completing some of our joint work at Microsoft successfully. I really like the fact that JP has a programming background. It helps in his role tremendously. I look forward to the next time I will work with JP and wish him only the best."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "1",
+      "items": [
+        "English"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "EJB 3 In Action 2nd Edition"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/therthala-murali-52b9441/",
+      "text": "Principal Enterprise Architect"
+    },
+    {
+      "user": "https://www.linkedin.com/in/heather-vancura-400395/",
+      "text": "Chairperson and Director, Java Community Process Program"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yanaga/",
+      "text": "Java Champion, Microsoft MVP, TDC Rockstar, Developer, Professor, and Enabler"
+    },
+    {
+      "user": "https://www.linkedin.com/in/linustorvalds/",
+      "text": "Fellow at Linux Foundation"
+    },
+    {
+      "user": "https://www.linkedin.com/in/debupanda/",
+      "text": "Product Management Leader"
+    },
+    {
+      "user": "https://www.linkedin.com/in/josh-juneau-84b4867/",
+      "text": "Application Developer/System Analyst at Fermilab"
+    },
+    {
+      "user": "https://www.linkedin.com/in/javafxpert/",
+      "text": "Quantum Developer Advocate at IBM"
+    },
+    {
+      "user": "https://www.linkedin.com/in/joshlong/",
+      "text": "Spring Developer Advocate at Pivotal"
+    },
+    {
+      "user": "https://www.linkedin.com/in/markreinhold/",
+      "text": "Chief Architect, Java Platform Group at Oracle"
+    },
+    {
+      "user": "https://www.linkedin.com/in/irinasmoke/",
+      "text": "UX Researcher | Graduate student at UW, MS Human Centered Design & Engineering"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Reza Rahman",
+    "headline": "Senior Java Technologist, Author, Speaker",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQFaZgP9J_2p0g/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=i_DW3zl4APiJ6cExP9cIod4e3Bypa0Qt7rOgNF_ZsEQ",
+    "location": "Greater Philadelphia Area",
+    "connections": "500+",
+    "summary": "Reza Rahman is Principal Program Manager for Java on Azure at Microsoft. He works to make sure Java developers are first class citizens at Microsoft and Microsoft is a first class citizen of the Java ecosystem.\n\nReza has been an official Java technologist at Oracle. He is the author of the popular book EJB 3 in Action. Reza has long been a frequent speaker at Java User Groups and conferences worldwide including JavaOne and Devoxx. He has been the lead for the Java EE track at JavaOne as well as a JavaOne Rock Star Speaker award recipient. Reza is an avid contributor to industry journals like JavaLobby/DZone and TheServerSide. He has been a member of the Java EE, EJB and JMS expert groups over the years. Reza implemented the EJB container for the Resin open source Java EE application server. He helps lead the Philadelphia Java User Group.\n\nReza has over a decade of experience with technology leadership, enterprise architecture and consulting. He has been working with Java EE technology since its inception, developing on almost every major application platform ranging from Tomcat to JBoss, GlassFish, WebSphere and WebLogic. Reza has developed enterprise systems for well-known companies like eBay, Motorola, Comcast, Nokia, Prudential, Guardian Life, USAA, Independence Blue Cross, Anthem, CapitalOne and AAA using Java EE and Spring."
+  }
+}

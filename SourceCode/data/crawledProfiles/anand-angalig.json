@@ -1,0 +1,200 @@
+{
+  "profileAlternative": {
+    "name": "Anand A.",
+    "headline": "JavaScript Engineer at Comcast",
+    "location": "United States",
+    "connections": "288",
+    "summary": "Currently specializing in modern JavaScript and related frameworks."
+  },
+  "aboutAlternative": {
+    "text": "Currently specializing in modern JavaScript and related frameworks."
+  },
+  "positions": [
+    {
+      "title": "JavaScript Engineer",
+      "companyName": "Comcast",
+      "date1": "Jul 2019 – Present",
+      "date2": "5 mos"
+    },
+    {
+      "title": "Freelance Work / JavaScript Sabbatical",
+      "companyName": "Re-focused specialization and tech-stack",
+      "description": "• Built personal projects using JavaScript, ES6 syntax, Node.js, D3.js, Sass, React.js and Redux\n• Completed six book series on JavaScript by Kyle Simpson (YDKJS)\n• Released portfolio site https://anandangalig.com/ built on React.js\n• Working as a Freelance Software Engineer on the side",
+      "date1": "Feb 2019 – Jun 2019",
+      "date2": "5 mos"
+    },
+    {
+      "title": "Software Engineer",
+      "companyName": "Hero Digital, LLC",
+      "description": "• Engineered custom templates and solutions using JavaScript, PHP, HTML, CSS, and Sass\n• Maintained 15+ projects of varying size and complexity while managing the code branches and merges with each build\n• Created and supported internal testing and development environments on Linux and Apache servers\n• Performed MySQL database backups and migrations during project launches\n• Built and maintained a multi-site Drupal 8 project for a Fortune 500 company\n…\nsee more",
+      "date1": "May 2017 – Feb 2019",
+      "date2": "1 yr 10 mos"
+    },
+    {
+      "title": "Web Developer",
+      "companyName": "1SEO I.T. Support & Digital Marketing",
+      "location": "Greater Philadelphia Area",
+      "description": "• Implemented features and updates to client sites built on WordPress and Shopify\n• Received training on SEO, SEM, and PPC\n• Tools used: HTML, CSS, PHP, jQuery, and JavaScript",
+      "date1": "Feb 2017 – May 2017",
+      "date2": "4 mos"
+    },
+    {
+      "title": "Software Developer - Internship",
+      "companyName": "Yellowdig",
+      "location": "Greater Philadelphia Area",
+      "description": "• Fixed frontend/user interface bugs to improve User Experience\n• Diagnosed and profiled database bottlenecks utilizing tools such as tcpdump, mysqlslap, and Sequel Pro\n• Optimized the execution plan and column indexes and refactored crucial MySQL queries that handle the main functions of the application\n…\nsee more",
+      "date1": "Jan 2017 – Feb 2017",
+      "date2": "2 mos"
+    },
+    {
+      "title": "Account Executive",
+      "companyName": "Computer Enterprises, Inc.",
+      "location": "Greater Philadelphia Area",
+      "description": "• Negotiated contract terms and service agreements with clients\n• Established and nurtured key relationships with IT departments of key accounts such as Vanguard Group, Radian, and Aramark.",
+      "date1": "May 2016 – Aug 2016",
+      "date2": "4 mos"
+    },
+    {
+      "title": "B2B Sales Consultant",
+      "companyName": "Staples Inc. Business Division",
+      "location": "Chicago, IL",
+      "description": "• Developed relationships with local governments, non-profits, and businesses\n• Built and maintained a healthy pipeline of prospective clients in North Chicago region\n• Collaborated with internal and external vendors, partners, and specialists to increase account sizes",
+      "date1": "Mar 2015 – Mar 2016",
+      "date2": "1 yr 1 mo"
+    },
+    {
+      "title": "Research Associate at the ASIA Desk",
+      "companyName": "World Trade Center San Diego",
+      "location": "Greater San Diego Area",
+      "description": "• Conducted research on countries, industries, and organizations to further enrich the available resources for international trade services\n• Participated and organized events such as the annual China Business Outlook symposium in collaboration with HSBC bank\n• Prepared the Trade Information Packet on Taiwan that was used to facilitate and expand business opportunities for regional business members and corporate clients\n\n\n…\nsee more",
+      "date1": "Jan 2014 – Mar 2014",
+      "date2": "3 mos"
+    },
+    {
+      "title": "Event Organizer",
+      "companyName": "Fab Lab San Diego",
+      "location": "Greater San Diego Area",
+      "description": "• Helped with Community outreach and volunteer organization for the first Maker Faire in San Diego\n• Organized three events revolving around Maker Movement, 3D Printing and Intellectual Property in conjunction with San Diego Central Library and New Media Rights",
+      "date1": "May 2013 – Jan 2014",
+      "date2": "9 mos"
+    },
+    {
+      "title": "Online Retail Manager",
+      "companyName": "SOLO Eyewear",
+      "location": "Greater San Diego Area",
+      "description": "• Initiated and finished the on-boarding process of five new online retailers\n• Launched SOLO Eyewear’s storefront on Amazon.com to expand revenue sources\n• Conducted social media and online sales promotions with partnering retailers to increase sales\n• Handled potential retailer inquiries by assessing their business model and overall fit with SOLO brand image\n…\nsee more",
+      "date1": "May 2013 – Sep 2013",
+      "date2": "5 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "San Diego State University-California State University",
+      "degree": "Bachelor of Science (B.S.)",
+      "fieldofstudy": "Business Administration with emphasis in Marketing",
+      "date1": "2011",
+      "date2": "2013"
+    },
+    {
+      "title": "Epicodus - Coding School",
+      "degree": "Full-Stack Software Developer",
+      "fieldofstudy": "Full-Stack Software Developer",
+      "date1": "2016",
+      "date2": "2016"
+    },
+    {},
+    {
+      "title": "Sacramento City College",
+      "degree": "Associate of Science (A.S.)",
+      "fieldofstudy": "Social Sciences",
+      "date1": "2008",
+      "date2": "2011"
+    }
+  ],
+  "skills": [
+    {
+      "title": "JavaScript",
+      "count": "15"
+    },
+    {
+      "title": "PHP",
+      "count": "12"
+    },
+    {
+      "title": "MySQL",
+      "count": "11"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "1",
+    "receivedCount": "7",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/douglasdiane/",
+        "text": "I have been working with Anand for 5 months. He has an excellent and meticulous learning style. Watching him take notes on a new subject as he follows documentation or builds along with an example is very impressive. He leaves comments in his code explaining each line, keeps it neat and organized, and writes down his questions and guesses when he finds something new to him. It gives me great confidence that he will pick up new knowledge on his own very efficiently. He is driven to figure things out and very motivated to work hard. He has had an intense interest in Big Data and backend projects in particular since the first day I met him. When he started my class he dove in head first, determined to soak up all the knowledge he could to reach his goals. I think he will be an excellent fit with any team.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/corneezius/",
+        "text": "Had the great pleasure of working with Anand on several projects throughout the Epicodus bootcamp. Anand is a natural leader, a great teammate, and a skilled developer. He doesn't skip any steps. Definitely someone you want on your team"
+      },
+      {
+        "user": "https://www.linkedin.com/in/sampeppard/",
+        "text": "Anand is both a leader and a great team member. I worked with Anand on a number of projects and would absolutely do so again. On one larger project in particular, Anand was able to not only motivate the entire team with his work, but also design and develop a number of Javascript-based solutions to problems that were necessary to the project's success. I give Anand my full recommendation!\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/kdjflkdsjfkla/",
+        "text": "I cannot say enough positive things about Anand. It it can be tough getting established in a new city. Anand gave 150% from day one and generated results instantly. He's a self-starter skilled at devising creative strategies and solutions, excellent at relationship building with an innate drive to succeed, and is not afraid to put in more time than required to get something accomplished. Anand will succeed at whatever path he chooses. Anyone would be lucky to have him on their team.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/sean-c-1441948b/",
+        "text": "I've have the pleasure of collaborating with Anand on several projects during my academic career at San Diego State University. He possesses a first-rate mind and was a extremely driven partner. I believe he would be a valuable asset to any organization!"
+      },
+      {
+        "user": "https://www.linkedin.com/in/stevenosinski/",
+        "text": "Anand is intelligent, hard working and very inquisitive. He attended my Sales Skills Class at San Diego State and earned the highest grade possible. Great people skills and a good communicator. The kind of person who I would want working with me."
+      },
+      {
+        "user": "https://www.linkedin.com/in/jenny-amaraneni-1b1a7b19/",
+        "text": "Anand served as the Online Retail Manager for our company during the summer of 2013. During this time, Anand truly shined on our team. Not only was he extremely professional and driven but also very personable and well liked by our entire team. Anand always took the initiative to learn more in order to effectively manage our online retail efforts. I highly recommend Anand to any company seeking a hard working, dedicated professional. Anand is a superstar!\n…\nSee more"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/maccarrigan/",
+        "text": "I am more than happy to give my full recommendation to Lisa. She is creative and determined to be successful in this field. I often saw her stay and continue working after hours and even come on the weekends. \r\n\r\nDuring morning stand-ups and lunch-and-learns she asked the best questions and always had helpful feedbacks and suggestions to the whole class.\r\n\r\nLisa knows what she wants in her career, and any development team would be lucky to have her on their side."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "2",
+      "items": [
+        "Wall Street Journal Student Achievement Award",
+        "Dean's Recognition List"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "Mongolian",
+        "Russian"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "WatchList (updated 2019)",
+        "Fluttr: Let Your Ideas Fly"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Anand A.",
+    "headline": "JavaScript Engineer at Comcast",
+    "location": "United States",
+    "connections": "288",
+    "summary": "Currently specializing in modern JavaScript and related frameworks."
+  }
+}

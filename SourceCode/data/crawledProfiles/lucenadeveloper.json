@@ -1,0 +1,198 @@
+{
+  "profileAlternative": {
+    "name": "Alejandro Lucena",
+    "headline": "Software Engineer at Apple",
+    "imageurl": "https://media.licdn.com/dms/image/C5103AQHT1jKUhM0CYQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=MWEhvd59SMphqm5fZgp0kZT-j93c608x9wgyhSL3C5A",
+    "location": "Cupertino, California",
+    "connections": "247",
+    "summary": "*Familiarity with lock-free and wait-free data structures.\n\n*Exerience writing optimized assembly or C/C++ routines\n\n*Experience profiling and deploying high-performance, multithreaded applications in C++.\n\n*Knowledge of x86 architecture (cache hierarchy, instruction set, SIMD), Linux kernel and compiler optimizations.\n\n* C++ Template Metaprogramming\n\n*Research and projects in probabilistic algorithms and approaches to autonomous navigation of mobile robots.\n\n* Have successfully implemented intelligent agents and robots using AI/ML algorithms, including a fully working autonomous RC car.\n\n* Researching on the use of evolutionary neural networks and convex classifiers with reinforcement learning to produce intelligent agents.\n\n* Developed applications for the iPhone and Android platforms with over 2000 downloads.\n\nSecurity:\n\n*Finished 4th place nationally in the sCTF hacking competition\n\n* Finished in top 1.5% of teams in a national hacking competition -- picoCTF hosted by Carnegie Mellon University\n\nEducative Experience:\n* TA for Stanford Machine Learning course\n* Team oriented programming competitions\n* Attended 5 day C++ conference (CppCon 2014, CppCon 2015)\n\n* Maintenance of efficient and performance tuned software for a variety of programming languages and environments such as C, C++, Octave, Python, C#, Java, and Objective-C.\n\n* Maintenance of well-vectorized , efficient, and performance tuned software for computationally expensive operations, machine learning algorithms, and artificial intelligence based algorithms\n\n* Years of programming experience with C/C++ , C++11, Objective-C, Java, PHP, Python, C#, and .NET Technologies"
+  },
+  "aboutAlternative": {
+    "text": "*Familiarity with lock-free and wait-free data structures.\n\n*Exerience writing optimized assembly or C/C++ routines\n\n*Experience profiling and deploying high-performance, multithreaded applications in C++.\n\n*Knowledge of x86 architecture (cache hierarchy, instruction set, SIMD), Linux kernel and compiler optimizations.\n\n* C++ Template Metaprogramming\n\n*Research and projects in probabilistic algorithms and approaches to autonomous navigation of mobile robots.\n\n* Have successfully implemented intelligent agents and robots using AI/ML algorithms, including a fully working autonomous RC car.\n\n* Researching on the use of evolutionary neural networks and convex classifiers with reinforcement learning to produce intelligent agents.\n\n* Developed applications for the iPhone and Android platforms with over 2000 downloads.\n\nSecurity:\n\n*Finished 4th place nationally in the sCTF hacking competition\n\n* Finished in top 1.5% of teams in a national hacking competition -- picoCTF hosted by Carnegie Mellon University\n\nEducative Experience:\n* TA for Stanford Machine Learning course\n* Team oriented programming competitions\n* Attended 5 day C++ conference (CppCon 2014, CppCon 2015)\n\n* Maintenance of efficient and performance tuned software for a variety of programming languages and environments such as C, C++, Octave, Python, C#, Java, and Objective-C.\n\n* Maintenance of well-vectorized , efficient, and performance tuned software for computationally expensive operations, machine learning algorithms, and artificial intelligence based algorithms\n\n* Years of programming experience with C/C++ , C++11, Objective-C, Java, PHP, Python, C#, and .NET Technologies"
+  },
+  "positions": [
+    {
+      "title": "Software Engineer",
+      "companyName": "Apple",
+      "location": "Cupertino, California",
+      "date1": "Feb 2017 – Present",
+      "date2": "2 yrs 10 mos"
+    },
+    {
+      "title": "Software Engineer",
+      "companyName": "Interactive Brokers",
+      "location": "Greenwich,CT",
+      "date1": "Aug 2016 – Jan 2017",
+      "date2": "6 mos"
+    },
+    {
+      "title": "Contract Software Developer",
+      "companyName": "Cooper General Global Services",
+      "description": "I developed an application that expedites and automates several processes within Cooper General. These processes used to be done manually and were often bottlenecks in production, which also presented themselves to human error.",
+      "date1": "Jan 2015 – Aug 2015",
+      "date2": "8 mos"
+    },
+    {
+      "title": "Consulting Software Developer",
+      "companyName": "Cooper General Global Services",
+      "description": "Cooper General Global Services needed software to allow for proper checking of inventory which boosted employee productivity.",
+      "date1": "Dec 2013",
+      "date2": "1 mo"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Cypress Bay High School",
+      "date1": "2012",
+      "date2": "2016"
+    },
+    {
+      "title": "Udacity",
+      "degree": "Computer Networking -- Georgia Tech CS 6250 Equivalent Course",
+      "fieldofstudy": "System, Networking, and LAN/WAN Management/Manager",
+      "date1": "2014",
+      "date2": "2015"
+    },
+    {
+      "title": "Machine Learning Coursera",
+      "date1": "2013",
+      "date2": "2013"
+    },
+    {
+      "title": "Artificial Intelligence Planning Coursera"
+    },
+    {
+      "title": "Artificial Intelligence Planning Coursera"
+    },
+    {
+      "title": "Coursera"
+    },
+    {
+      "title": "Coursera Algorithms Part II"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Machine Learning",
+      "count": "9"
+    },
+    {
+      "title": "Python",
+      "count": "8"
+    },
+    {
+      "title": "C++",
+      "count": "8"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "11",
+      "items": [
+        "Algorithms I",
+        "Algorithms II",
+        "Artificial Intelligence",
+        "Data Structures",
+        "Introduction to Algorithms",
+        "Learning From Data",
+        "Machine Learning",
+        "Machine Learning Ph.D. Online Class",
+        "Mathematics for Computer Science",
+        "Mining of Massive Datasets",
+        "Programming a Robotic Car CS373"
+      ]
+    },
+    {
+      "count": "9",
+      "items": [
+        "msg_queue",
+        "pretty_print",
+        "Save_Web",
+        "Lock_Free_Dlist",
+        "LinkGrabber",
+        "Autograder",
+        "AddToRun",
+        "Augmented Particle Filter with Relocalization",
+        "OccupancyGrid"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "English",
+        "Spanish"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "From EIP's Perspective"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/baochun-bai-49a53b19/",
+      "text": "Software Engineer at Apple"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sonnyfazio/",
+      "text": "iOS Software Engineer - Siri at Apple"
+    },
+    {
+      "user": "https://www.linkedin.com/in/raghuveerr/",
+      "text": "Software Engineer at Apple"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mikereedell/",
+      "text": "Software Engineer/Architect at Apple"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jeremyandrus/",
+      "text": "Kernel Engineering Manager at Apple"
+    },
+    {
+      "user": "https://www.linkedin.com/in/richard-zou-bb3558a6/",
+      "text": "Software Engineer at Facebook AI Research"
+    },
+    {
+      "user": "https://www.linkedin.com/in/gargbhavya/",
+      "text": "Software Engineer at Apple"
+    },
+    {
+      "user": "https://www.linkedin.com/in/eric-young-hoon-choi-b2493881/",
+      "text": "Software Engineer at Apple"
+    },
+    {
+      "user": "https://www.linkedin.com/in/haines-sy-36694a4a/",
+      "text": "Software Engineer @ Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/traviscj/",
+      "text": "Software Engineer at Square"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Setting up classrooms for teachers",
+      "experience": "Public Schools",
+      "description": "Education",
+      "date1": "Jul 2013 – Aug 2013",
+      "date2": "2 mos"
+    }
+  ],
+  "profile": {
+    "name": "Alejandro Lucena",
+    "headline": "Software Engineer at Apple",
+    "imageurl": "https://media.licdn.com/dms/image/C5103AQHT1jKUhM0CYQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=MWEhvd59SMphqm5fZgp0kZT-j93c608x9wgyhSL3C5A",
+    "location": "Cupertino, California",
+    "connections": "247",
+    "summary": "*Familiarity with lock-free and wait-free data structures.\n\n*Exerience writing optimized assembly or C/C++ routines\n\n*Experience profiling and deploying high-performance, multithreaded applications in C++.\n\n*Knowledge of x86 architecture (cache hierarchy, instruction set, SIMD), Linux kernel and compiler optimizations.\n\n* C++ Template Metaprogramming\n\n*Research and projects in probabilistic algorithms and approaches to autonomous navigation of mobile robots.\n\n* Have successfully implemented intelligent agents and robots using AI/ML algorithms, including a fully working autonomous RC car.\n\n* Researching on the use of evolutionary neural networks and convex classifiers with reinforcement learning to produce intelligent agents.\n\n* Developed applications for the iPhone and Android platforms with over 2000 downloads.\n\nSecurity:\n\n*Finished 4th place nationally in the sCTF hacking competition\n\n* Finished in top 1.5% of teams in a national hacking competition -- picoCTF hosted by Carnegie Mellon University\n\nEducative Experience:\n* TA for Stanford Machine Learning course\n* Team oriented programming competitions\n* Attended 5 day C++ conference (CppCon 2014, CppCon 2015)\n\n* Maintenance of efficient and performance tuned software for a variety of programming languages and environments such as C, C++, Octave, Python, C#, Java, and Objective-C.\n\n* Maintenance of well-vectorized , efficient, and performance tuned software for computationally expensive operations, machine learning algorithms, and artificial intelligence based algorithms\n\n* Years of programming experience with C/C++ , C++11, Objective-C, Java, PHP, Python, C#, and .NET Technologies"
+  }
+}

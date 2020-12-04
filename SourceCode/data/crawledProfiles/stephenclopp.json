@@ -1,0 +1,151 @@
+{
+  "profileAlternative": {
+    "name": "Stephen Clopp",
+    "headline": "Software Developer at Tulsa County Treasurer's Office",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQFo1J7f_KfEAQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=_MgHxKDHIBm-vVuPKvj7ouagtWe-5vJV-MR9bLhZFDU",
+    "location": "Tulsa, Oklahoma Area",
+    "connections": "500+",
+    "summary": "I am a Microsoft ASP.NET Web Enterprise developer and systems analyst. Currently working in the Tulsa, OK area using C#, VB.NET, SQL, Visual Studio, and TFS-GIT.\n\nTestOut Network Pro Certified on 7-7-2015.\n\nAlso completed college coursework for Microsoft cert training :\n70-536 .NET Application Development Foundations\n70-541 Windows SharePoint Services 3.0\n\nSpecialties:\nCurrent development using Visual Studio 2017, .NET 4.6, C#, VB.NET, and SQL 2012 and SSRS 2012. Also experienced ASP.NET 2.0/3.5, using VB, C# and SQL 2005/2008. Some HTML, Ajax, XML, JavaScript, web services, and windows console apps experience. Internal apps .NET GUI development for Accounting, Google Maps API, Project Management software, Time Clock, etc., with SQL back end. Also some experience with shopping cart software using NopCommerce open-source eCommerce baseline, also DotNetNuke portal. Minimal work with SSIS, Access and Excel.\nMy area of expertise is writing interactive and dynamic VB.NET user interfaces with SQL, but I have delivered projects in nearly all facets of the .NET framework."
+  },
+  "aboutAlternative": {
+    "text": "I am a Microsoft ASP.NET Web Enterprise developer and systems analyst. Currently working in the Tulsa, OK area using C#, VB.NET, SQL, Visual Studio, and TFS-GIT.\n\nTestOut Network Pro Certified on 7-7-2015.\n\nAlso completed college coursework for Microsoft cert training :\n70-536 .NET Application Development Foundations\n70-541 Windows SharePoint Services 3.0\n\nSpecialties:\nCurrent development using Visual Studio 2017, .NET 4.6, C#, VB.NET, and SQL 2012 and SSRS 2012. Also experienced ASP.NET 2.0/3.5, using VB, C# and SQL 2005/2008. Some HTML, Ajax, XML, JavaScript, web services, and windows console apps experience. Internal apps .NET GUI development for Accounting, Google Maps API, Project Management software, Time Clock, etc., with SQL back end. Also some experience with shopping cart software using NopCommerce open-source eCommerce baseline, also DotNetNuke portal. Minimal work with SSIS, Access and Excel.\nMy area of expertise is writing interactive and dynamic VB.NET user interfaces with SQL, but I have delivered projects in nearly all facets of the .NET framework."
+  },
+  "positions": [
+    {
+      "title": "Software Developer with .NET and SQL",
+      "companyName": "Tulsa County Treasurer's Office",
+      "location": "Tulsa, Oklahoma",
+      "description": "Development in ASP.NET 2012, using C# and VB.NET, SQL 2012, and Microsoft TFS source control. Supporting development and maintenance of Tulsa County Treasurer applications running in the .NET Framework, supporting IBM mainframe code migration using a C# proprietary Zulu Software wrapper. Also supporting .NET websites for Treasurer's June Resale Auction and additional supporting Title Search applications.",
+      "date1": "Aug 2015 – Present",
+      "date2": "4 yrs 4 mos"
+    },
+    {
+      "title": "Software Developer with VB.NET and SQL",
+      "companyName": "Tulsa County IT Department",
+      "location": "Tulsa, Oklahoma",
+      "description": "Development in ASP.NET 2008/2012, using VB and SQL 2005/2008/2012. Supporting new development and maintenance of Tulsa County .NET intranet web applications for 45 County Departments and 1800 employees, administrator for Ektron intranet content management, and other internal applications. Webmaster of 17 production websites and alternate webmaster of 18 additional production websites.\n…\nsee more",
+      "date1": "Jun 2010 – Jun 2015",
+      "date2": "5 yrs 1 mo"
+    },
+    {
+      "title": "Software Developer with ASP.NET, C# and SQL",
+      "companyName": "e.Lens Inc",
+      "location": "Tulsa, Oklahoma",
+      "description": "Responsibilities included development and support of web enterprise applications. Development in ASP.NET 2.0/3.5, using C# and SQL 2005/2008, for private dental laboratory accounting and private optical laboratory lens ordering systems. Also developed public retail application with shopping cart sales for online prescription eyewear purchases using NopCommerce open-source eCommerce baseline.\n…\nsee more",
+      "date1": "Jan 2008 – Jun 2009",
+      "date2": "1 yr 6 mos"
+    },
+    {
+      "title": "Software Developer with ASP.NET, C# and SQL",
+      "companyName": "Trak-1 Technology",
+      "location": "Tulsa, Oklahoma",
+      "description": "Software development using .NET and SQL.",
+      "date1": "2007",
+      "date2": "less than a year"
+    },
+    {
+      "title": "Computer programmer - Fortran",
+      "companyName": "Frontier Electronic Systems - Stillwater, OK",
+      "location": "Stillwater, Oklahoma",
+      "description": "Fortran Software Developer creating applications for deliverable military contracts and in-house engineering utilities.",
+      "date1": "Jan 1988 – Dec 1989",
+      "date2": "2 yrs"
+    },
+    {
+      "title": "Computer programmer - Fortran",
+      "companyName": "Burtek, Inc.",
+      "location": "Tulsa, Oklahoma",
+      "description": "Fortran real-time programmer for aircraft cockpit simulators.",
+      "date1": "1981 – 1988",
+      "date2": "7 yrs"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Southern Nazarene University",
+      "degree": "Bachelor of Science (B.S.)",
+      "fieldofstudy": "Organizational Leadership",
+      "date1": "2014",
+      "date2": "2015"
+    },
+    {
+      "title": "Tulsa Technology Center",
+      "degree": "Technical Certificate 600 hours - Microsoft Web Enterprise Development .NET",
+      "fieldofstudy": "Microsoft ASP.NET Web Development with SQL",
+      "date1": "2006",
+      "date2": "2007"
+    },
+    {
+      "title": "Oklahoma State University",
+      "degree": "Computer Science",
+      "fieldofstudy": "Computer Science",
+      "date1": "1989",
+      "date2": "1990"
+    },
+    {
+      "title": "Tulsa Community College",
+      "degree": "Associates",
+      "fieldofstudy": "Computer Science",
+      "date1": "1983",
+      "date2": "1988"
+    }
+  ],
+  "skills": [
+    {
+      "title": "VB.NET",
+      "count": "37"
+    },
+    {
+      "title": "Microsoft SQL Server",
+      "count": "33"
+    },
+    {
+      "title": "ASP.NET",
+      "count": "19"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "3",
+    "receivedCount": "0",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/timothy-silvey-95426113/",
+        "text": "All-around awesome guy, hard-working, efficient, knowledgeable, and one of the most pleasant people I ever worked with."
+      },
+      {
+        "user": "https://www.linkedin.com/in/jason-baginski-00a3666/",
+        "text": "Jason is a true software genius. He makes code that does dynamic everything. He helped me transform from a code hacker into a code designer. I feel very lucky to have had the opportunity to have worked with him."
+      },
+      {
+        "user": "https://www.linkedin.com/in/tomtrimble/",
+        "text": "I worked for four years with Tom Trimble while he served as the Director of the Tulsa County IT Department. I found him to be an exceptionally motivated and enthusiastic leader. He directed four group managers and designed our internal IT structure for automated workflows between department groups. There were continual long range and short term improvements in all areas, from implementing the migration off the IBM mainframe, new digital phones systems, and a mobile website applications launch, to automated help-desk ticketing. Under his direct leadership, our department even exceeded our United Way giving and set an all-time high donation amount for the department in 2013. He has volunteered his time to the Tulsa County Retirement Board, and many other civic and charitable organizations. He is an exceptionally gifted person of high ethics and moral integrity, and he leads by example. I whole-heartedly endorse him.\n…\nSee more"
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "1",
+      "items": [
+        "English"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [],
+  "volunteerExperience": [
+    {
+      "title": "Day of Caring",
+      "experience": "United Way",
+      "description": "Social Services",
+      "date2": "Cause"
+    }
+  ],
+  "profile": {
+    "name": "Stephen Clopp",
+    "headline": "Software Developer at Tulsa County Treasurer's Office",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQFo1J7f_KfEAQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=_MgHxKDHIBm-vVuPKvj7ouagtWe-5vJV-MR9bLhZFDU",
+    "location": "Tulsa, Oklahoma Area",
+    "connections": "500+",
+    "summary": "I am a Microsoft ASP.NET Web Enterprise developer and systems analyst. Currently working in the Tulsa, OK area using C#, VB.NET, SQL, Visual Studio, and TFS-GIT.\n\nTestOut Network Pro Certified on 7-7-2015.\n\nAlso completed college coursework for Microsoft cert training :\n70-536 .NET Application Development Foundations\n70-541 Windows SharePoint Services 3.0\n\nSpecialties:\nCurrent development using Visual Studio 2017, .NET 4.6, C#, VB.NET, and SQL 2012 and SSRS 2012. Also experienced ASP.NET 2.0/3.5, using VB, C# and SQL 2005/2008. Some HTML, Ajax, XML, JavaScript, web services, and windows console apps experience. Internal apps .NET GUI development for Accounting, Google Maps API, Project Management software, Time Clock, etc., with SQL back end. Also some experience with shopping cart software using NopCommerce open-source eCommerce baseline, also DotNetNuke portal. Minimal work with SSIS, Access and Excel.\nMy area of expertise is writing interactive and dynamic VB.NET user interfaces with SQL, but I have delivered projects in nearly all facets of the .NET framework."
+  }
+}

@@ -1,0 +1,338 @@
+{
+  "profileAlternative": {
+    "name": "Andrew Stephens",
+    "headline": "General Counsel, MongoDB",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQHgKbhEprDueQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=WBKJVNQMfDPRxxf7O-KrYev-aaMsqXpzVysRaiCyIv8",
+    "location": "San Francisco Bay Area",
+    "connections": "500+",
+    "summary": "Legal executive focussed on advising high-growth technology companies. I've worked as both in-house and outside counsel to both public and private companies and my broad legal background allows me to advise growing technology companies with corporate governance, securities law, financings, mergers and acquisitions, technology transactions, intellectual property, privacy, employment, real estate and many other aspects of business and law.\n\nSpecialties: Corporate Governance, Securities, Technology Transactions (Licensing), M&A, IP, Employment, Compensation and Corporate Finance."
+  },
+  "aboutAlternative": {
+    "text": "Legal executive focussed on advising high-growth technology companies. I've worked as both in-house and outside counsel to both public and private companies and my broad legal background allows me to advise growing technology companies with corporate governance, securities law, financings, mergers and acquisitions, technology transactions, intellectual property, privacy, employment, real estate and many other aspects of business and law.\n\nSpecialties: Corporate Governance, Securities, Technology Transactions (Licensing), M&A, IP, Employment, Compensation and Corporate Finance."
+  },
+  "positions": [
+    {
+      "title": "General Counsel",
+      "companyName": "MongoDB",
+      "location": "Palo Alto, CA",
+      "description": "As GC of this fast-growing public software company, I advise on all types of legal issues and work with a great internal legal team. I enjoy balancing between managing a team of in-house and outside lawyers and being an executive at a fast-paced company.",
+      "date1": "Sep 2013 – Present",
+      "date2": "6 yrs 3 mos"
+    },
+    {
+      "title": "Managing Counsel",
+      "companyName": "LinkedIn",
+      "location": "Mountain View, CA",
+      "description": "As the second lawyer hired at LinkedIn, I did everything this hyper-growth company could throw at me and loved every minute of it. I was managing counsel so built and ran what became a large legal team to scale along with LinkedIn's growth. I also focussed on technology transactions, including negotiating LinkedIn's strategic partnerships and revenue generating contracts, including sales of SAAS products, subscriptions and advertising. In my spare time, I advised on M&A, IP, Corporate Governance, privacy, securities and employment law.\n…\nsee more",
+      "date1": "Apr 2009 – Oct 2013",
+      "date2": "4 yrs 7 mos"
+    },
+    {
+      "title": "Assistant General Counsel",
+      "companyName": "Logitech",
+      "description": "Played a key legal role during the amazing run of 34 consecutive quarters of double digit revenue and earnings growth. Responsible for the provision of legal services for all of Logitech's product groups, including technology transactions (inbound and outbound licensing), IP protection, M&A, antitrust, privacy and sales.",
+      "date1": "Jan 2002 – Apr 2009",
+      "date2": "7 yrs 4 mos"
+    },
+    {
+      "title": "Associate Lawyer",
+      "companyName": "Wilson Sonsini",
+      "description": "Advised technology companies on all aspects of securities laws, including financings, mergers and acquisitions and corporate governance.",
+      "date1": "Mar 2000 – Jan 2002",
+      "date2": "1 yr 11 mos"
+    },
+    {
+      "title": "Associate Lawyer",
+      "companyName": "Lawson Lundell",
+      "description": "Advised clients on securities laws, including financings, mergers and acquisitions and corporate governance.",
+      "date1": "1995 – 2000",
+      "date2": "5 yrs"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Dalhousie University",
+      "degree": "LLB",
+      "fieldofstudy": "Law",
+      "date1": "1992",
+      "date2": "1995"
+    },
+    {
+      "title": "The University of British Columbia",
+      "degree": "Bachelor of Commerce",
+      "fieldofstudy": "Urban Land Economics",
+      "date1": "1986",
+      "date2": "1990"
+    },
+    {
+      "title": "St George's",
+      "date1": "1978",
+      "date2": "1986"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Corporate Law",
+      "count": "99+"
+    },
+    {
+      "title": "Licensing",
+      "count": "75"
+    },
+    {
+      "title": "Corporate Governance",
+      "count": "75"
+    },
+    {
+      "title": "Mergers & Acquisitions",
+      "count": "73"
+    },
+    {
+      "title": "Intellectual Property",
+      "count": "68"
+    },
+    {
+      "title": "Legal Advice",
+      "count": "47"
+    },
+    {
+      "title": "Start-ups",
+      "count": "41"
+    },
+    {
+      "title": "Mergers",
+      "count": "24"
+    },
+    {
+      "title": "Privacy Law",
+      "count": "13"
+    },
+    {
+      "title": "Securities Regulation",
+      "count": "12"
+    },
+    {
+      "title": "Corporate Finance",
+      "count": "9"
+    },
+    {
+      "title": "Strategy",
+      "count": "8"
+    },
+    {
+      "title": "Copyright Law",
+      "count": "8"
+    },
+    {
+      "title": "Commercial Litigation",
+      "count": "8"
+    },
+    {
+      "title": "Due Diligence",
+      "count": "7"
+    },
+    {
+      "title": "Venture Capital",
+      "count": "6"
+    },
+    {
+      "title": "E-commerce",
+      "count": "6"
+    },
+    {
+      "title": "Legal Assistance",
+      "count": "6"
+    },
+    {
+      "title": "Joint Ventures",
+      "count": "4"
+    },
+    {
+      "title": "Patents",
+      "count": "3"
+    },
+    {
+      "title": "IP",
+      "count": "2"
+    },
+    {
+      "title": "Competition Law",
+      "count": "2"
+    },
+    {
+      "title": "Business Development",
+      "count": "2"
+    },
+    {
+      "title": "Trademarks",
+      "count": "2"
+    },
+    {
+      "title": "International Business",
+      "count": "1"
+    },
+    {
+      "title": "Private Equity"
+    },
+    {
+      "title": "Securities Law"
+    },
+    {
+      "title": "Privacy"
+    },
+    {
+      "title": "Contract Negotiation",
+      "count": "49"
+    },
+    {
+      "title": "Strategic Partnerships",
+      "count": "41"
+    },
+    {
+      "title": "Negotiation",
+      "count": "13"
+    },
+    {
+      "title": "Cyberlaw",
+      "count": "8"
+    },
+    {
+      "title": "Ice Hockey",
+      "count": "7"
+    },
+    {
+      "title": "IPO",
+      "count": "5"
+    },
+    {
+      "title": "Patent Litigation",
+      "count": "5"
+    },
+    {
+      "title": "Software Licensing",
+      "count": "4"
+    },
+    {
+      "title": "Technology Transactions",
+      "count": "2"
+    },
+    {
+      "title": "Data Privacy",
+      "count": "2"
+    },
+    {
+      "title": "Venture Financing",
+      "count": "1"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "9",
+    "receivedCount": "4",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/dj-garner-29911321/",
+        "text": "Andrew is simply one of the best in house counsel I've worked with. Reach out and communicate with Andrew, you will be glad you made the effort. Truly, DJ Garner"
+      },
+      {
+        "user": "https://www.linkedin.com/in/gailmosse/",
+        "text": "Andrew’s insightful, pragmatic, efficient, and ethical. When you work with him on a deal, you know he’ll function as a deal-closer, effectively assessing risks and providing relevant advice to the lawyers he is supervising and the sales and business development team members relying on his counsel. He has a keen appreciation for the bigger picture and relative priority of all of the projects and deals he’s working on. On top of all that, he’s one of the most enjoyable people to call a colleague. One of The Best Attorneys out there, for sure!\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/scottahunter/",
+        "text": "Andrew is an intelligent and hard-working corporate attorney who is as adept at explaining complex legal issues as he is negotiating them. It was a pleasure working with him."
+      },
+      {
+        "user": "https://www.linkedin.com/in/blackketter/",
+        "text": "Andrew is smart, wise, and a heck of a nice guy. A credit to his profession."
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/goodermote/",
+        "text": "If you want passion, determination and success, Cody is right for your team.  Cody never reported to me but I was able to see him in action many times.  He is never satisfied with the status quo when it can be improved.  In short, he likes to get things done."
+      },
+      {
+        "user": "https://www.linkedin.com/in/kristin-cobble/",
+        "text": "Few people are exceptionally good at what they do. I worked with Kristin when I was relatively new to working directly with senior executives.  She was extremely thorough and helpful in giving me the tools to adjust from being a senior manager to being an executive myself.  She made learning very comfortable for me and years later, I still draw upon what she taught me.   Kristin is an exceptional teacher and I strongly recommend her as an executive coach."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "1",
+      "items": [
+        "Securities Law"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "French"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/alexandra-gilinsky-18037739/",
+      "text": "Counsel at Automattic"
+    },
+    {
+      "user": "https://www.linkedin.com/in/bob-cornman-b6634b1/",
+      "text": "\"Virtual\" General Counsel"
+    },
+    {
+      "user": "https://www.linkedin.com/in/minh-cannon-5aab9211/",
+      "text": "Senior Paralegal, Corporate & Equity at PagerDuty"
+    },
+    {
+      "user": "https://www.linkedin.com/in/michaelcallahanlinkedin/",
+      "text": "Professor of the Practice of Law and Executive Director, Rock Center for Corporate Governance at Stanford Law School"
+    },
+    {
+      "user": "https://www.linkedin.com/in/coralparmar/",
+      "text": "Seasoned Technology Executive Focused on Customer Experience"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jonathan-runyan-3868a6/",
+      "text": "General Counsel at Okta"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yaelschauder/",
+      "text": "Employment Attorney"
+    },
+    {
+      "user": "https://www.linkedin.com/in/dan-heasman-3b41644/",
+      "text": "Chief People Officer at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/avahahn/",
+      "text": "EVP, General Counsel & Secretary"
+    },
+    {
+      "user": "https://www.linkedin.com/in/keith-patton-3b936b9/",
+      "text": "VP of Software at Redaptive, Inc"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Youth Basketball Coach",
+      "experience": "YMCA",
+      "date1": "Nov 2012 – Present",
+      "date2": "7 yrs 1 mo"
+    },
+    {
+      "title": "Soccer Coach",
+      "experience": "AYSO",
+      "date1": "Aug 2011 – Present",
+      "date2": "8 yrs 4 mos"
+    }
+  ],
+  "profile": {
+    "name": "Andrew Stephens",
+    "headline": "General Counsel, MongoDB",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQHgKbhEprDueQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=WBKJVNQMfDPRxxf7O-KrYev-aaMsqXpzVysRaiCyIv8",
+    "location": "San Francisco Bay Area",
+    "connections": "500+",
+    "summary": "Legal executive focussed on advising high-growth technology companies. I've worked as both in-house and outside counsel to both public and private companies and my broad legal background allows me to advise growing technology companies with corporate governance, securities law, financings, mergers and acquisitions, technology transactions, intellectual property, privacy, employment, real estate and many other aspects of business and law.\n\nSpecialties: Corporate Governance, Securities, Technology Transactions (Licensing), M&A, IP, Employment, Compensation and Corporate Finance."
+  }
+}

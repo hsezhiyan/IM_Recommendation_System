@@ -1,0 +1,370 @@
+{
+  "profileAlternative": {
+    "name": "Prashanth Jayaram",
+    "headline": "DB Technologist, Author, Blogger, Program-Mgr at CTS, Automation Expert, Technet WIKI Ninja, MVB and Powershell Geek",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQFI6ml58pdZVA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=SynKLJAt1zCYkLE_p1NeR6akHT_EAtOQ7j6WyySrwJw",
+    "location": "Oshkosh, Wisconsin Area",
+    "connections": "500+",
+    "summary": "Database technologist, Author, Blogger, Service Delivery- Manager, Automation Expert, TechNet WIKI ninja, Most Valuable Blogger, PowerShell Geek, and technologist enthusiasts with 13 years of rich, extensive experience in designing database solutions with hands-on experience with the Next-Gen database technologies. I have been awarded as ABOVE and BEYOND and Second Best SQL Author 2017 towards my contribution to SQL Server technology. I have articulated over 200+ articles widespread across SQL, NoSQL, PowerShell, Python, SQL on Linux, SQL on Azure and SQL on AWS arenas.\n\nAuthor of PowerShell 6.0 Linux Administration Cookbook - 2018\n\n\nPERSONAL BLOG\n\nhttps://sqlpowershell.wordpress.com/\n\nSOCIAL BLOG\nhttps://www.sqlshack.com/author/prashanth/\nhttps://social.technet.microsoft.com/profile/prashanth%20jayaram/\nhttps://codingsight.com/author/prashanthjayaram/\nhttps://www.red-gate.com/simple-talk/author/prashanthjayaram/\n\nPRODUCT DESIGN & DEVELOPMENT\n\n• PowerSQL – “SQL Server Monitor and Reporting Tool”\n• PowerWin – “Windows Server Management and Administration Tool”\n\nPRODUCT REVIEW\n\nApexSQL Discover, ApexSQL Formatter, and ApexSQL Audit\n\nAWARDS\n\n• Achieved Purple belt Level 6 of Microsoft TechNet WIKI(Oct-10-2017)\n• Star of the Quarter: Q3, 2015\n• Microsoft Technet WIKI article:17 Medals (8-Gold, 6-Silver, 3- Bronze)\n• Won First Place in White Paper publishing - \"SQL Server Monitoring and Diagnostic Tool\": Dec 12, 2011.\n• AOQ of Q2 2011\n• Above and Beyond award of the 2nd Quarter-2010\n• Star of the Month Award: April 2010\n• Outstanding individual contribution award towards completion of the project in HP: Mar 17, 2009.\n• Team Achievement Award from HCL EUROPE: July 29, 2008.\n• Outstanding individual contribution award in HP: Sep 17, 2008\n• Best outgoing student of the year 2006."
+  },
+  "aboutAlternative": {
+    "text": "Database technologist, Author, Blogger, Service Delivery- Manager, Automation Expert, TechNet WIKI ninja, Most Valuable Blogger, PowerShell Geek, and technologist enthusiasts with 13 years of rich, extensive experience in designing database solutions with hands-on experience with the Next-Gen database technologies. I have been awarded as ABOVE and BEYOND and Second Best SQL Author 2017 towards my contribution to SQL Server technology. I have articulated over 200+ articles widespread across SQL, NoSQL, PowerShell, Python, SQL on Linux, SQL on Azure and SQL on AWS arenas.\n\nAuthor of PowerShell 6.0 Linux Administration Cookbook - 2018\n\n\nPERSONAL BLOG\n\nhttps://sqlpowershell.wordpress.com/\n\nSOCIAL BLOG\nhttps://www.sqlshack.com/author/prashanth/\nhttps://social.technet.microsoft.com/profile/prashanth%20jayaram/\nhttps://codingsight.com/author/prashanthjayaram/\nhttps://www.red-gate.com/simple-talk/author/prashanthjayaram/\n\nPRODUCT DESIGN & DEVELOPMENT\n\n• PowerSQL – “SQL Server Monitor and Reporting Tool”\n• PowerWin – “Windows Server Management and Administration Tool”\n\nPRODUCT REVIEW\n\nApexSQL Discover, ApexSQL Formatter, and ApexSQL Audit\n\nAWARDS\n\n• Achieved Purple belt Level 6 of Microsoft TechNet WIKI(Oct-10-2017)\n• Star of the Quarter: Q3, 2015\n• Microsoft Technet WIKI article:17 Medals (8-Gold, 6-Silver, 3- Bronze)\n• Won First Place in White Paper publishing - \"SQL Server Monitoring and Diagnostic Tool\": Dec 12, 2011.\n• AOQ of Q2 2011\n• Above and Beyond award of the 2nd Quarter-2010\n• Star of the Month Award: April 2010\n• Outstanding individual contribution award towards completion of the project in HP: Mar 17, 2009.\n• Team Achievement Award from HCL EUROPE: July 29, 2008.\n• Outstanding individual contribution award in HP: Sep 17, 2008\n• Best outgoing student of the year 2006."
+  },
+  "positions": [
+    {
+      "title": "Cognizant",
+      "location": "United States - Appleton",
+      "description": "• Twelve years of experience working with clients dispersed across regions such as India, Singapore, China, Australia, and the USA, over seven years of which have been at Luxembourg, Germany, and the USA.\n• Led the group of database administrators to support end-to-end database infrastructure service.\n• Delivered vital consistency through introduction and implementation of enterprise-wide set of database standards for installation, configuration, tuning, coding, and maintenance.\n• Installed and maintained Microsoft SQL Server, Oracle, and MongoDB database instances.\n• Designed and implemented complex database architecture such as the implementation of SQL Native backup strategy, Data compression for complex Data Warehouse systems, and implementation for In-Memory optimized object conversion, TDE with Azure vault on AlwaysOn Availability Group.\n• Implemented and configured for database high availability such as Log Shipping on the same server, on to a different server, across domains or workgroups, or two different versions of SQL Server.\n• Cross-platform DB migration between Oracle to SQL Server using SSMA 6.2, Access to SQL Server\n• Implemented, Tested and maintained applications on SQL Server 2012 and SQL SERVER 2016 applications on Windows platform.\n• Implemented SQL Server Partition for Archival and Purging automation for the production database.\n• Written various reusable scripts for database maintenance, supported clustered and non-clustered environments as well as log shipping for disaster recovery.\n• Performed extensive follow-up procedures to obtain, update, and validate information; maintained an exceptionally high accuracy rate through data verification, attention to detail, and regular quality control checks\n• Presented technical perspective for database backup and disaster recovery initiatives resulting in seamless architecture approach\n• Provided 24x7 production database support through on call.\n\n…\nsee more",
+      "date1": "Jun 2016 – Present",
+      "date2": "3 yrs 6 mos",
+      "roles": [
+        {
+          "title": "Service Delivery Manager",
+          "date1": "Jun 2016 – Present",
+          "date2": "3 yrs 6 mos",
+          "location": "United States - Appleton"
+        },
+        {
+          "title": "Operations Manager",
+          "date1": "Jul 2014 – Jun 2016",
+          "date2": "2 yrs",
+          "location": "United States - Appleton"
+        },
+        {
+          "title": "Associate Operations Manager - DBA",
+          "date1": "Nov 2011 – Jun 2014",
+          "date2": "2 yrs 8 mos",
+          "location": "United States, Appleton , WI"
+        },
+        {
+          "title": "Tech Lead -ITIS",
+          "date1": "Dec 2009 – Nov 2011",
+          "date2": "2 yrs",
+          "location": "Bangalore"
+        }
+      ]
+    },
+    {
+      "title": "Title\nService Delivery Manager",
+      "location": "United States - Appleton",
+      "date1": "Jun 2016 – Present",
+      "date2": "3 yrs 6 mos",
+      "roles": [
+        {
+          "title": "Service Delivery Manager",
+          "date1": "Jun 2016 – Present",
+          "date2": "3 yrs 6 mos",
+          "location": "United States - Appleton"
+        }
+      ]
+    },
+    {
+      "title": "Title\nOperations Manager",
+      "location": "United States - Appleton",
+      "description": "• Twelve years of experience working with clients dispersed across regions such as India, Singapore, China, Australia, and the USA, over seven years of which have been at Luxembourg, Germany, and the USA.\n• Led the group of database administrators to support end-to-end database infrastructure service.\n• Delivered vital consistency through introduction and implementation of enterprise-wide set of database standards for installation, configuration, tuning, coding, and maintenance.\n• Installed and maintained Microsoft SQL Server, Oracle, and MongoDB database instances.\n• Designed and implemented complex database architecture such as the implementation of SQL Native backup strategy, Data compression for complex Data Warehouse systems, and implementation for In-Memory optimized object conversion, TDE with Azure vault on AlwaysOn Availability Group.\n• Implemented and configured for database high availability such as Log Shipping on the same server, on to a different server, across domains or workgroups, or two different versions of SQL Server.\n• Cross-platform DB migration between Oracle to SQL Server using SSMA 6.2, Access to SQL Server\n• Implemented, Tested and maintained applications on SQL Server 2012 and SQL SERVER 2016 applications on Windows platform.\n• Implemented SQL Server Partition for Archival and Purging automation for the production database.\n• Written various reusable scripts for database maintenance, supported clustered and non-clustered environments as well as log shipping for disaster recovery.\n• Performed extensive follow-up procedures to obtain, update, and validate information; maintained an exceptionally high accuracy rate through data verification, attention to detail, and regular quality control checks\n• Presented technical perspective for database backup and disaster recovery initiatives resulting in seamless architecture approach\n• Provided 24x7 production database support through on call.\n\n…\nsee more",
+      "date1": "Jul 2014 – Jun 2016",
+      "date2": "2 yrs",
+      "roles": [
+        {
+          "title": "Operations Manager",
+          "date1": "Jul 2014 – Jun 2016",
+          "date2": "2 yrs",
+          "location": "United States - Appleton"
+        }
+      ]
+    },
+    {
+      "title": "Title\nAssociate Operations Manager - DBA",
+      "location": "United States, Appleton , WI",
+      "date1": "Nov 2011 – Jun 2014",
+      "date2": "2 yrs 8 mos",
+      "roles": [
+        {
+          "title": "Associate Operations Manager - DBA",
+          "date1": "Nov 2011 – Jun 2014",
+          "date2": "2 yrs 8 mos",
+          "location": "United States, Appleton , WI"
+        }
+      ]
+    },
+    {
+      "title": "Title\nTech Lead -ITIS",
+      "location": "Bangalore",
+      "date1": "Dec 2009 – Nov 2011",
+      "date2": "2 yrs",
+      "roles": [
+        {
+          "title": "Tech Lead -ITIS",
+          "date1": "Dec 2009 – Nov 2011",
+          "date2": "2 yrs",
+          "location": "Bangalore"
+        }
+      ]
+    },
+    {
+      "title": "Book Author",
+      "companyName": "Packt",
+      "location": "United States",
+      "description": "PowerShell Core, the open source, cross-platform that is based on the open source, cross-platform .NET Core, is not a shell that came out by accident; it was intentionally created to be versatile and easy to learn at the same time. PowerShell Core enables automation on systems ranging from the Raspberry Pi to the cloud.\n\nPowerShell Core for Linux Administrators Cookbook uses simple, real-world examples that teach you how to use PowerShell to effectively administer your environment. As you make your way through the book, you will cover interesting recipes on how PowerShell Core can be used to quickly automate complex, repetitive, and time-consuming tasks. In the concluding chapters, you will learn how to develop scripts to automate tasks that involve systems and enterprise management.\n\nBy the end of this book, you will have learned about the automation capabilities of PowerShell Core, including remote management using OpenSSH, cross-platform enterprise management, working with Docker containers, and managing SQL databases.\n…\nsee more",
+      "date1": "Mar 2018 – Dec 2018",
+      "date2": "10 mos"
+    },
+    {
+      "title": "Database Technologist",
+      "companyName": "Hewlett-Packard",
+      "location": "Bangalore, Karnataka, INIDA",
+      "description": "• As a Database Technologist have applied technical knowledge to operate a technology area (e.g. server administration, technical security management, performance management) or customer group with limited risk/complexity.\n• Integrates technical knowledge and business understanding to create superior solutions for the company and for customers.\nIncident Management: Resolve routine in-scope technical incidents independently.\n• Work with team members to resolve more complex incidents.\n• Change Management/ Implementation: Independently implements changes/solutions to meet customer and/or trade/IT infrastructure needs within area of technical responsibility.\n• Patch and Security Management: Apply patch and security changes per policy.\n• Configuration Management: Ensure Configuration Management Database (CMDB) entries are complete and accurate. Solution Design: Understands the company's solutions set and be able to apply these solutions to meet customer and/or trade infrastructure needs within area of responsibility.\n• Quality: Provide continual improvement recommendations for direct responsibility area (process improvement, technical standard updates, etc). Project Management: Participate in customer and internal projects, including transformation.\n• Customer Relationship Management: Set expectations for customers and/or internal businesses/end users within defined parameters.\n• Teamwork: Worked as part of a team, which may be virtual and/or global.\n\n\n…\nsee more",
+      "date1": "Jun 2008 – Dec 2009",
+      "date2": "1 yr 7 mos"
+    },
+    {
+      "title": "Software Engineer",
+      "companyName": "HCL Technologies",
+      "location": "Electronic City, Bangalore",
+      "description": "As SOFTWARE ENGINEER have provided SQL Database Developer and DBA Support for multiple large databases and managed PROD, INTEGRATION, TEST and DEV environments. Worked on various new enhancements such as space monitoring and checking database growth. Written several automation SQL scripts to carry out routine checks on databases which include Database Health Check, Disk space Monitoring, Growth Monitoring and alert/notification configuration. Involved in all phases of the Release Management from scripting, testing and creating To-do documents for PRODUCTION release as a Release manager.\nInvolved in writing a new archival process of PROD databases. Performance tuning, Optimize the SQL code as necessary. Performed SQL installation, Upgrades, Migration and Configurations. Maintained database documents and involved in Change Management cycle.\n…\nsee more",
+      "date1": "Aug 2006 – Jun 2008",
+      "date2": "1 yr 11 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Visvesvaraya Technological University",
+      "degree": "Master of Computer Applications (MCA)",
+      "fieldofstudy": "Computer Science",
+      "date1": "2003",
+      "date2": "2006"
+    },
+    {
+      "title": "Sacred heart",
+      "degree": "High School/Secondary Diplomas and Certificates",
+      "fieldofstudy": "High School/Secondary Diplomas and Certificates",
+      "date1": "1997",
+      "date2": "2000"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Microsoft SQL Server",
+      "count": "17"
+    },
+    {
+      "title": "SQL",
+      "count": "16"
+    },
+    {
+      "title": "Oracle",
+      "count": "13"
+    },
+    {
+      "title": "Database Administration",
+      "count": "11"
+    },
+    {
+      "title": "Business Intelligence",
+      "count": "8"
+    },
+    {
+      "title": "Performance Tuning",
+      "count": "7"
+    },
+    {
+      "title": "Requirements Analysis",
+      "count": "5"
+    },
+    {
+      "title": "Extract, Transform, Load (ETL)",
+      "count": "5"
+    },
+    {
+      "title": "Solution Architecture",
+      "count": "4"
+    },
+    {
+      "title": "SDLC",
+      "count": "2"
+    },
+    {
+      "title": "Software Development Life Cycle (SDLC)",
+      "count": "2"
+    },
+    {
+      "title": "Integration",
+      "count": "1"
+    },
+    {
+      "title": "Databases",
+      "count": "9"
+    },
+    {
+      "title": "PL/SQL",
+      "count": "6"
+    },
+    {
+      "title": "Powershell",
+      "count": "5"
+    },
+    {
+      "title": "T-SQL",
+      "count": "4"
+    },
+    {
+      "title": "Transact-SQL (T-SQL)",
+      "count": "4"
+    },
+    {
+      "title": "SQL Server Integration Services (SSIS)",
+      "count": "4"
+    },
+    {
+      "title": "SQL Server Reporting Services (SSRS)",
+      "count": "4"
+    },
+    {
+      "title": "SQL Server Management Studio",
+      "count": "3"
+    },
+    {
+      "title": "JSON",
+      "count": "3"
+    },
+    {
+      "title": "Unix",
+      "count": "2"
+    },
+    {
+      "title": "Python",
+      "count": "2"
+    },
+    {
+      "title": "MongoDB",
+      "count": "1"
+    },
+    {
+      "title": "Amazon Web Services (AWS)",
+      "count": "1"
+    },
+    {
+      "title": "Management",
+      "count": "1"
+    },
+    {
+      "title": "SQL Tuning",
+      "count": "5"
+    },
+    {
+      "title": "SQL Azure",
+      "count": "2"
+    },
+    {
+      "title": "SQL*Plus",
+      "count": "1"
+    },
+    {
+      "title": "SQL Server 2017",
+      "count": "3"
+    },
+    {
+      "title": "Graph Database - SQL Server 2017",
+      "count": "2"
+    },
+    {
+      "title": "Graph Database - CQL",
+      "count": "2"
+    },
+    {
+      "title": "BI Administration",
+      "count": "1"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "1",
+    "receivedCount": "3",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/brlockwood/",
+        "text": "Prashanth is an expert level technologist in SQL Server, PowerShell, Linux, Python, BI and more. I collaborated with him, over the course of several years, while curating content for the technical journal SQL Shack Prashanth authored more than 100 articles for SQL Shack, each at least 1,000 words in length. Each article of his passed a rigorous technical review, keyword optimization and thorough copy editing before getting published. His content now ranks in the top 10 search results for hundreds of very competitive and highly searched keywords, and many rank in the top 3 or even first. His content is viewed by hundreds of thousands of site visitors every month. Prasanth worked effectively with our content marketing team from concept, submission, review and publishing. Throughout the process he was extremely diligent in following procedures, responsive to any and all questions and proactive in sourcing high value topics. His velocity, consistency and production was amazing and often created challenges in processing the volume content he created (a good problem to have). I personally worked with Prashanth on a series of articles where we had to solve a technical problem with a combination of tools, SQL and PowerShell. From this, he created a series of authoritative articles but also provided valuable feedback on improvements and optimizations of the underlying technology, which we later implemented In addition to writing content, we hired Prashanth to provide consulting and advice to our product teams to improve their technical solutions. In one case, he duplicated the technical approach to a problem one of our tools solved but did it in a way that was exponentially faster. In this way, he helped isolate a design flaw and was even able to adroitly advise us on how to fix it. Prashanth's strengths, that I valued the most, were his technical acumen, extremely high level of productivity, communication and responsiveness and how effectively he performs in a fast paced and dynamic team environment\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/mike-steers-37a7b05/",
+        "text": "A creative, resourceful and caring Database professional with exceptional people skills. Prashanth does an excellent job creating, developing and delivering technical solutions to solve business problems, often providing multiple options to chose from. In addition to his people skills, his deep SQL and DB2 skills are a rare combination. I first class individual who would be an asset on any team.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/dave-erich-4369b15/",
+        "text": "As our primary Database Administrator, Prashanth has an extensive knowledge of the Microsoft SQL Server environment. He is our “go-to” guy when it comes to anything related to a database! He willing shares his experiences and knowledge with co-workers, and on a regular basis with others in the industry through various websites and blogs. He is a caring individual, a dedicated father, husband and a true asset on the team.\n…\nSee more"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/sankarankannappan/",
+        "text": "I’ve worked closely with him over the Nine years, sharing the same database expertise, I believe Sankaran is an excellent resource and consistently exceeded company benchmarks. On a personal level, his qualities and hardworking nature have served him well in his role as a database architect."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "3",
+      "items": [
+        "Silver Medal for WIKI Article",
+        "Gold Medal for WIKI article",
+        "Silver Medal for WIKI article"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "PowerShell Core Linux administrators cook book"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/navin-vasnani-4409baa/",
+      "text": "SQL Server DBA at Cognizant Technology Solutions US Corp"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jaiprakash-shukla-175b481b/",
+      "text": "Sr. SQL Database Administrator"
+    },
+    {
+      "user": "https://www.linkedin.com/in/suresh-thalluri-23057473/",
+      "text": "Looking New opportunity on SQL Server DBA & MS-BI with Cloud"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ericjrusso/",
+      "text": "SVP, DBA Client Services at Datavail"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sammesel/",
+      "text": "SR SQL PFE at Microsoft. Sharing tried-and-true artifacts about SQL and Data AI"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jkadujk/",
+      "text": "Build, Deploy & Manage Enterprise HA-DR Database Systems in Azure(Iaas/PaaS), On-Prem & VM(AOAG-Cluster)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/meljo-john-57b5a8144/",
+      "text": "Lead SQL Server Database Administrator at Infosys"
+    },
+    {
+      "user": "https://www.linkedin.com/in/dhivya-naidu-18a67946/",
+      "text": "Senior Database Engineer at Pearson"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kulbhushan-patil-037bb714/",
+      "text": "Associate Consultant"
+    },
+    {
+      "user": "https://www.linkedin.com/in/gagan-pant/",
+      "text": "Assistant Manager - Implementation"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Prashanth Jayaram",
+    "headline": "DB Technologist, Author, Blogger, Program-Mgr at CTS, Automation Expert, Technet WIKI Ninja, MVB and Powershell Geek",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQFI6ml58pdZVA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=SynKLJAt1zCYkLE_p1NeR6akHT_EAtOQ7j6WyySrwJw",
+    "location": "Oshkosh, Wisconsin Area",
+    "connections": "500+",
+    "summary": "Database technologist, Author, Blogger, Service Delivery- Manager, Automation Expert, TechNet WIKI ninja, Most Valuable Blogger, PowerShell Geek, and technologist enthusiasts with 13 years of rich, extensive experience in designing database solutions with hands-on experience with the Next-Gen database technologies. I have been awarded as ABOVE and BEYOND and Second Best SQL Author 2017 towards my contribution to SQL Server technology. I have articulated over 200+ articles widespread across SQL, NoSQL, PowerShell, Python, SQL on Linux, SQL on Azure and SQL on AWS arenas.\n\nAuthor of PowerShell 6.0 Linux Administration Cookbook - 2018\n\n\nPERSONAL BLOG\n\nhttps://sqlpowershell.wordpress.com/\n\nSOCIAL BLOG\nhttps://www.sqlshack.com/author/prashanth/\nhttps://social.technet.microsoft.com/profile/prashanth%20jayaram/\nhttps://codingsight.com/author/prashanthjayaram/\nhttps://www.red-gate.com/simple-talk/author/prashanthjayaram/\n\nPRODUCT DESIGN & DEVELOPMENT\n\n• PowerSQL – “SQL Server Monitor and Reporting Tool”\n• PowerWin – “Windows Server Management and Administration Tool”\n\nPRODUCT REVIEW\n\nApexSQL Discover, ApexSQL Formatter, and ApexSQL Audit\n\nAWARDS\n\n• Achieved Purple belt Level 6 of Microsoft TechNet WIKI(Oct-10-2017)\n• Star of the Quarter: Q3, 2015\n• Microsoft Technet WIKI article:17 Medals (8-Gold, 6-Silver, 3- Bronze)\n• Won First Place in White Paper publishing - \"SQL Server Monitoring and Diagnostic Tool\": Dec 12, 2011.\n• AOQ of Q2 2011\n• Above and Beyond award of the 2nd Quarter-2010\n• Star of the Month Award: April 2010\n• Outstanding individual contribution award towards completion of the project in HP: Mar 17, 2009.\n• Team Achievement Award from HCL EUROPE: July 29, 2008.\n• Outstanding individual contribution award in HP: Sep 17, 2008\n• Best outgoing student of the year 2006."
+  }
+}

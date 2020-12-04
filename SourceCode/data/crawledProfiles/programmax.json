@@ -1,0 +1,186 @@
+{
+  "profileAlternative": {
+    "name": "Chris Blume",
+    "headline": "Passionate about C++ and where it is going in newer standards (C++11, C++14, C++17)",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQHhueUqnz925w/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=HWFdbvtTycr8nSet8VYxPg64iJa4x1R-Al5r4_vURTk",
+    "location": "San Francisco Bay Area",
+    "connections": "191",
+    "summary": "Learning how things work has been a fascination of mine since I was little. I wouldn't play games, so much as research them. I loved figuring out how the developers pushed the hardware so far. That curiosity drove me to learning the ins and outs of C++ in the pursuit of optimal performance. I even found two bugs in Microsoft's Visual C++, which I've linked below.\n\nToday, I still enjoy writing code with performance in mind; but these days, I temper it with clean design.\n\nMy passion is figuring out how to express complicated problems simply and elegantly, and then turning those solutions into readable, testable code. The quest for elegance has brought me two new hobbies: hang gliding and rock climbing. In both new hobbies, difficult tasks are made graceful and appear simple.\n\nThese motivations have helped:\n\n1) assist Twitch in going from a start-up dream to acquisition by Amazon,\n2) put satellites in space,\n3) and continue to drive Curiosity around Mars.\n\nYou can contact me at ProgramMax [at] gmail.com to learn more.\n\nSpecialties: C++, Design, Android, Java, C#"
+  },
+  "aboutAlternative": {
+    "text": "Learning how things work has been a fascination of mine since I was little. I wouldn't play games, so much as research them. I loved figuring out how the developers pushed the hardware so far. That curiosity drove me to learning the ins and outs of C++ in the pursuit of optimal performance. I even found two bugs in Microsoft's Visual C++, which I've linked below.\n\nToday, I still enjoy writing code with performance in mind; but these days, I temper it with clean design.\n\nMy passion is figuring out how to express complicated problems simply and elegantly, and then turning those solutions into readable, testable code. The quest for elegance has brought me two new hobbies: hang gliding and rock climbing. In both new hobbies, difficult tasks are made graceful and appear simple.\n\nThese motivations have helped:\n\n1) assist Twitch in going from a start-up dream to acquisition by Amazon,\n2) put satellites in space,\n3) and continue to drive Curiosity around Mars.\n\nYou can contact me at ProgramMax [at] gmail.com to learn more.\n\nSpecialties: C++, Design, Android, Java, C#"
+  },
+  "positions": [
+    {
+      "title": "Software Engineer",
+      "companyName": "Google",
+      "location": "Mountain View, California",
+      "description": "I work on Chrome, on the performance team",
+      "date1": "Feb 2015 – Present",
+      "date2": "4 yrs 10 mos"
+    },
+    {
+      "title": "Senior Software Engineer",
+      "companyName": "Twitch.TV",
+      "description": "When I first arrived at Twitch, I developed a C++ library (C interface) for use in games to facilitate audio/video compression and broadcast of live gameplay.\n\nOnce that library was nearing completion, I became the lead developer of Twitch for Android, which allowed consumption of that live video. Before I became lead developer of the Twitch for Android app, its user rating was on a downward trend. It is now rated 4.4 out of 5 cumulative over all versions and continues to rise. As of June, 2014, 1/3rd of Twitch viewers per month watched from mobile. Twitch has 45 million unique viewers per month. App Annie now ranks the Twitch for Android app in the top 400 overall in the Google Play Store for the United States. This places it next to Evernote, Square Register, OkCupid, and Fitbit.\n…\nsee more",
+      "date1": "Sep 2012 – Sep 2014",
+      "date2": "2 yrs 1 mo"
+    },
+    {
+      "title": "Senior Engineer",
+      "companyName": "Aeroflex",
+      "location": "Powell, Ohio",
+      "description": "While at Aeroflex, I worked on the core library (C++) used by Aeroflex' satellite test equipment. This core library included many types of signal processing and generation as well as communication between modules.\n\nI was contributor and editor on the company-wide coding standard and touched every programming project within the company (100+) when migrating to a new build system. During that migration, I reshaped the design of over 50 projects to have a better dependency hierarchy.\n…\nsee more",
+      "date1": "Dec 2011 – Aug 2012",
+      "date2": "9 mos"
+    },
+    {
+      "title": "Associate Consultant",
+      "companyName": "HMB",
+      "location": "Columbus, Ohio",
+      "description": "When I started at HMB, I worked on a contract doing business management systems (Microsoft Office development, .Net) for Franklin County. The contract went extremely well and the client came back shortly after for further contracts.\n\nBut before the client returned, I moved onto an ongoing contract with NiSource, a natural gas provider stretching from the Gulf Coast through the Midwest to New England. At NiSource, I ported their customer service database (past and current customers, plus all customer interactions) to a new CS system (.Net).\n…\nsee more",
+      "date1": "Jun 2011 – Dec 2011",
+      "date2": "7 mos"
+    },
+    {
+      "title": "Lead Software Engineer",
+      "companyName": "Fuse One",
+      "description": "Built internal tools (C++/Win32, .Net) for order processing & visitor tracking, databases for inventory management & tracking, and the website.",
+      "date1": "2000 – Jun 2011",
+      "date2": "11 yrs"
+    }
+  ],
+  "educations": [
+    {
+      "title": "University of Advancing Technology",
+      "degree": "BS",
+      "fieldofstudy": "Software Engineering",
+      "date1": "2003",
+      "date2": "2007"
+    }
+  ],
+  "skills": [
+    {
+      "title": "C++",
+      "count": "11"
+    },
+    {
+      "title": "Android",
+      "count": "5"
+    },
+    {
+      "title": "C#",
+      "count": "6"
+    },
+    {
+      "title": "JavaScript",
+      "count": "3"
+    },
+    {
+      "title": "Python",
+      "count": "1"
+    },
+    {
+      "title": "Windows",
+      "count": "1"
+    },
+    {
+      "title": "Java",
+      "count": "3"
+    },
+    {
+      "title": "Visual Studio",
+      "count": "2"
+    },
+    {
+      "title": "Eclipse",
+      "count": "1"
+    },
+    {
+      "title": "Win32",
+      "count": "1"
+    },
+    {
+      "title": "Android Studio",
+      "count": "2"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "1",
+      "items": [
+        "Community \"Thank You\""
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/benjaminhobbs/",
+      "text": "Senior Software Engineer at Tanium"
+    },
+    {
+      "user": "https://www.linkedin.com/in/david-smith-9510914/",
+      "text": "Embedded C/C++ Software Engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mawatts/",
+      "text": "Founder at Starting something new"
+    },
+    {
+      "user": "https://www.linkedin.com/in/christopher-allen-21505160/",
+      "text": "Software Engineer at Sorenson Media"
+    },
+    {
+      "user": "https://www.linkedin.com/in/raviram/",
+      "text": "Head of Tools Development & Automation (Ads), Google Technical Services at Google (gTech)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/martin-hess-18a8b810b/",
+      "text": "GM Video Service, Twitch"
+    },
+    {
+      "user": "https://www.linkedin.com/in/eugene-livchits-94b0529b/",
+      "text": "C++ Developer at Mana Tech Inc"
+    },
+    {
+      "user": "https://www.linkedin.com/in/syamprasad-k-rajagopalan-a218b173/",
+      "text": "Robotics Engineer|| Computer Vision, SLAM, Deep Learning|| C++, Python"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shivanivartak8/",
+      "text": "MechE|Robotics|ROS|DeepLearning|ReinforcementLearning|GameTheory|Manufacturing|MedicalDevices|PathPlanning|"
+    },
+    {
+      "user": "https://www.linkedin.com/in/bethanywan/",
+      "text": "Senior Director, Client Services at Twitch"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Volunteer",
+      "experience": "SF-Marin Food Bank",
+      "description": "Poverty Alleviation",
+      "date2": "Cause"
+    },
+    {
+      "title": "Participant",
+      "experience": "Games Done Quick",
+      "description": "Health",
+      "date2": "Cause"
+    }
+  ],
+  "profile": {
+    "name": "Chris Blume",
+    "headline": "Passionate about C++ and where it is going in newer standards (C++11, C++14, C++17)",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQHhueUqnz925w/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=HWFdbvtTycr8nSet8VYxPg64iJa4x1R-Al5r4_vURTk",
+    "location": "San Francisco Bay Area",
+    "connections": "191",
+    "summary": "Learning how things work has been a fascination of mine since I was little. I wouldn't play games, so much as research them. I loved figuring out how the developers pushed the hardware so far. That curiosity drove me to learning the ins and outs of C++ in the pursuit of optimal performance. I even found two bugs in Microsoft's Visual C++, which I've linked below.\n\nToday, I still enjoy writing code with performance in mind; but these days, I temper it with clean design.\n\nMy passion is figuring out how to express complicated problems simply and elegantly, and then turning those solutions into readable, testable code. The quest for elegance has brought me two new hobbies: hang gliding and rock climbing. In both new hobbies, difficult tasks are made graceful and appear simple.\n\nThese motivations have helped:\n\n1) assist Twitch in going from a start-up dream to acquisition by Amazon,\n2) put satellites in space,\n3) and continue to drive Curiosity around Mars.\n\nYou can contact me at ProgramMax [at] gmail.com to learn more.\n\nSpecialties: C++, Design, Android, Java, C#"
+  }
+}

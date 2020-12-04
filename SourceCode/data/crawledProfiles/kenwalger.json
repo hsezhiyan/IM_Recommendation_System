@@ -1,0 +1,350 @@
+{
+  "profileAlternative": {
+    "name": "Ken W. Alger",
+    "headline": "Developer Advocate at MongoDB",
+    "imageurl": "https://media.licdn.com/dms/image/C5103AQG6CbtwbSVyog/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=f-z5MDw1d0paR5_VkWXBlR0nXIUUvx2IezhQWalbKoc",
+    "location": "Salem, Oregon",
+    "connections": "500+",
+    "summary": "I have a deep, abiding passion for coding languages and enjoy learning new concepts and technologies. Some of which include Python, Java, and MongoDB.\n\nSome of my professional traits are:\n\n* Detailed oriented, positive attitude and quick learner\n* Ability to manage numerous projects and meet tight deadlines with limited direction\n* Possess exceptional decision making and problem solving skills\n* Sound written and verbal communication skills\n* Ability to learn and adapt to new technologies\n* Demonstrates knowledge of maintaining and dealing with confidential information\n* Courteous and Professional demeanor\n\nI always enjoy connecting with others who share similar passions, or simply want to share theirs with me. Get in touch on LinkedIn.\n\nhttps://github.com/kenwalger\nhttp://www.kenwalger.com"
+  },
+  "aboutAlternative": {
+    "text": "I have a deep, abiding passion for coding languages and enjoy learning new concepts and technologies. Some of which include Python, Java, and MongoDB.\n\nSome of my professional traits are:\n\n* Detailed oriented, positive attitude and quick learner\n* Ability to manage numerous projects and meet tight deadlines with limited direction\n* Possess exceptional decision making and problem solving skills\n* Sound written and verbal communication skills\n* Ability to learn and adapt to new technologies\n* Demonstrates knowledge of maintaining and dealing with confidential information\n* Courteous and Professional demeanor\n\nI always enjoy connecting with others who share similar passions, or simply want to share theirs with me. Get in touch on LinkedIn.\n\nhttps://github.com/kenwalger\nhttp://www.kenwalger.com"
+  },
+  "positions": [
+    {
+      "title": "Developer Advocate",
+      "companyName": "MongoDB",
+      "description": "* Educate and empower developers wanting to build applications on MongoDB.\n* Serve as a technical ally and partner to developers.\n* Build relationships with individuals and organizations who support and inspire developer communities.",
+      "date1": "Jul 2018 – Present",
+      "date2": "1 yr 5 mos"
+    },
+    {
+      "title": "Professional Speaker",
+      "companyName": "Ken W. Alger",
+      "location": "Keizer, Oregon",
+      "description": "• MongoDB .local Dallas, Feb 2018 - Advanced Schema Design Patterns in MongoDB\n• MongoDB .local San Francisco, Dec 2018 - Introduction to MongoDB Schema Design\n• SeattleCodeCamp, Sept 2018 - Zero to Hero with Node.js and MongoDB\n• MongoDB World, June 2018 - Zero to Hero in 90 minutes with Node.js and MongoDB\n• BoiseCodeCamp, March 2017 - Facial Recognition with the OpenCV Library\n• Cincy IoT Meetup, April 2017 - Introduction to MicroPython\n• Willamette Valley Software Engineers/Keizer MongoDB User Group, May 2017 - Introduction to NoSQL and MongoDB\n…\nsee more",
+      "date1": "Mar 2017 – Present",
+      "date2": "2 yrs 9 mos"
+    },
+    {
+      "title": "Owner",
+      "companyName": "Alger Construction",
+      "location": "Keizer, Oregon",
+      "description": "I owned and operated a small construction contracting business specializing in home repair and remodeling. The list of items I haven't done is probably smaller than what I have done, but I really enjoyed doing tile and finish carpentry. My customer base and job size was quite varied and has reinforced my customer service skills along with budgeting, project management, marketing, etc.",
+      "date1": "Apr 2006 – Oct 2018",
+      "date2": "12 yrs 7 mos"
+    },
+    {
+      "title": "Treehouse",
+      "location": "Portland, Oregon Area",
+      "description": "• Designed curriculum to teach programming fundamentals and best practices.\n• Created structured educational content.\n• Created rigorous quizzes, code challenges, and other types of assessment to test student learning and reinforce learning outcomes.\n• Maintained and updated existing video material across multiple topics.\n…\nsee more",
+      "date1": "Jan 2018 – Jul 2018",
+      "date2": "7 mos",
+      "roles": [
+        {
+          "title": "Teacher",
+          "date1": "Jan 2018 – Jul 2018",
+          "date2": "7 mos",
+          "location": "Portland, Oregon Area"
+        },
+        {
+          "title": "Techdegree Program Coordinator",
+          "date1": "Mar 2016 – Dec 2017",
+          "date2": "1 yr 10 mos",
+          "location": "Portland, Oregon Area"
+        },
+        {
+          "title": "Student Mentor",
+          "date1": "Dec 2015 – Mar 2016",
+          "date2": "4 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nTeacher",
+      "location": "Portland, Oregon Area",
+      "description": "• Designed curriculum to teach programming fundamentals and best practices.\n• Created structured educational content.\n• Created rigorous quizzes, code challenges, and other types of assessment to test student learning and reinforce learning outcomes.\n• Maintained and updated existing video material across multiple topics.\n…\nsee more",
+      "date1": "Jan 2018 – Jul 2018",
+      "date2": "7 mos",
+      "roles": [
+        {
+          "title": "Teacher",
+          "date1": "Jan 2018 – Jul 2018",
+          "date2": "7 mos",
+          "location": "Portland, Oregon Area"
+        }
+      ]
+    },
+    {
+      "title": "Title\nTechdegree Program Coordinator",
+      "location": "Portland, Oregon Area",
+      "description": "The Treehouse Techdegree is an online web development training program. We change lives by offering an affordable path to a career in web development.\n\n• Subject matter expert in the Techdegree program's 12 Python projects, covering topics in object oriented programming, third-party APIs, RESTful APIs, Flask, Django, SQLite\n• Manage and facilitate online learning community of 1,000+ students: help students work through coding problems, learn best practices, conduct research and ask the right questions\n• Conduct detailed coding project reviews\n• Generate and analyse data reports using ANSI SQL to drive business unit decisions to enhance student facing procedures and product improvements.\n…\nsee more",
+      "date1": "Mar 2016 – Dec 2017",
+      "date2": "1 yr 10 mos",
+      "roles": [
+        {
+          "title": "Techdegree Program Coordinator",
+          "date1": "Mar 2016 – Dec 2017",
+          "date2": "1 yr 10 mos",
+          "location": "Portland, Oregon Area"
+        }
+      ]
+    },
+    {
+      "title": "Title\nStudent Mentor",
+      "description": "Perform project reviews of student submitted projects for Front End Web Development projects and assist in development of training materials and documentation for mentors and project reviewers. Student projects typically include technologies such as HTML, CSS/Sass, and plain JavaScript and related libraries.",
+      "date1": "Dec 2015 – Mar 2016",
+      "date2": "4 mos",
+      "roles": [
+        {
+          "title": "Student Mentor",
+          "date1": "Dec 2015 – Mar 2016",
+          "date2": "4 mos"
+        }
+      ]
+    },
+    {
+      "title": "Northwood Park Swim Club",
+      "location": "Keizer, OR",
+      "description": "Managed a private, non-profit swim club and employees. While many similar pools in our area were struggling to maintain a full membership, we had a full membership of 100 families and a waiting list to join. During my time on the Board and as Board President I oversaw the upgrading of the pool equipment room, refreshing and polishing of the pool surface, and minor remodel of bath house. We maintained a summer time staff of approximately 20 people, mostly high school students or young adults.\n\nYearly revenues of approximately $50,000.\nwww.northwoodpoolkeizer.com\n…\nsee more",
+      "date1": "Sep 2012 – May 2016",
+      "date2": "3 yrs 9 mos",
+      "roles": [
+        {
+          "title": "President, Board of Directors",
+          "date1": "Sep 2012 – May 2016",
+          "date2": "3 yrs 9 mos",
+          "location": "Keizer, OR"
+        },
+        {
+          "title": "Board of Directors",
+          "date1": "Jan 2011 – May 2016",
+          "date2": "5 yrs 5 mos",
+          "location": "Keizer, Oregon"
+        }
+      ]
+    },
+    {
+      "title": "Title\nPresident, Board of Directors",
+      "location": "Keizer, OR",
+      "description": "Managed a private, non-profit swim club and employees. While many similar pools in our area were struggling to maintain a full membership, we had a full membership of 100 families and a waiting list to join. During my time on the Board and as Board President I oversaw the upgrading of the pool equipment room, refreshing and polishing of the pool surface, and minor remodel of bath house. We maintained a summer time staff of approximately 20 people, mostly high school students or young adults.\n\nYearly revenues of approximately $50,000.\nwww.northwoodpoolkeizer.com\n…\nsee more",
+      "date1": "Sep 2012 – May 2016",
+      "date2": "3 yrs 9 mos",
+      "roles": [
+        {
+          "title": "President, Board of Directors",
+          "date1": "Sep 2012 – May 2016",
+          "date2": "3 yrs 9 mos",
+          "location": "Keizer, OR"
+        }
+      ]
+    },
+    {
+      "title": "Title\nBoard of Directors",
+      "location": "Keizer, Oregon",
+      "description": "Served on the Board of Directors for a private swim club. Maintained the pool and associated equipment through general maintenance and keeping the water chemically balanced.",
+      "date1": "Jan 2011 – May 2016",
+      "date2": "5 yrs 5 mos",
+      "roles": [
+        {
+          "title": "Board of Directors",
+          "date1": "Jan 2011 – May 2016",
+          "date2": "5 yrs 5 mos",
+          "location": "Keizer, Oregon"
+        }
+      ]
+    }
+  ],
+  "educations": [
+    {
+      "title": "Treehouse Island",
+      "degree": "Computer Programming",
+      "fieldofstudy": "Computer Programming",
+      "date1": "2014",
+      "date2": "2017"
+    },
+    {},
+    {
+      "title": "California State University-Chico",
+      "degree": "Economics",
+      "fieldofstudy": "Economics"
+    },
+    {
+      "title": "Western Culinary Institute",
+      "degree": "Culinary Arts/Chef Training",
+      "fieldofstudy": "Culinary Arts/Chef Training",
+      "date1": "1995",
+      "date2": "1996"
+    },
+    {
+      "title": "Chemeketa Community College",
+      "degree": "Accounting",
+      "fieldofstudy": "Accounting"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Training",
+      "count": "25"
+    },
+    {
+      "title": "Management",
+      "count": "22"
+    },
+    {
+      "title": "Customer Service",
+      "count": "22"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "14",
+    "receivedCount": "5",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/londner/",
+        "text": "Ken is a very energetic and passionate MongoDB advocate. He is very active in the MongoDB community and he significantly contributed to a MongoDB hands-on lab I published on GitHub. He was also instrumental in getting a MongoDB 3.6 workshop organized at Treehouse's office in Portland. I highly recommend Ken to any employer who is looking for a trustworthy, reliable and passionate technologist.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/leannethng/",
+        "text": "Ken is a fast learner and able to get up to speed on new programming languages and tools with ease. He assisted the launch of the various Techdegree's by creating key documentation required to get them up and running. He is thorough and skilled problem solver, and will always go above and beyond in his work."
+      },
+      {
+        "user": "https://www.linkedin.com/in/craigsdennis/",
+        "text": "Ken is an extremely dedicated student who picks up new languages, topics and technologies with the greatest of ease. As a moderator, he is able to motivate and guide students to not only the answer, but to a greater understanding of how to learn. His practices as a Quality Assurance Engineer are unparalleled, and I know that I can always trust him to go above and beyond in any task he is given. If you are looking for a thorough, reliable and thoughtful self-starter, look no further.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/andrewchalkley/",
+        "text": "Ken is an exceptional Treehouse Student. His ability to learn complex information and disseminate that information back to his struggling fellow students places him in high regard. When looking for a Treehouse Forum Moderator, Ken was a natural choice for Treehouse. His written communication is exemplary. He's been able to give valuable and detailed insights when he's had early access to Treehouse courses and he's always a pleasure to work with.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/ross-montgomery-3260ab23/",
+        "text": "I highly recommend Ken Alger for all your construction needs. Ken has performed work on my home a number of times, and has always provided excellent service at a fair rate. Ken is very reliable and knowledgeable in his craft. If anyone needs a reference for Ken, feel free to give me a call.. 503-999-3789"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/jaygordon0042/",
+        "text": "It's rare that you come across standout talent like Jay. I had the pleasure of working with Jay for several years while he was at MongoDB and collaborated on several community development projects. I was always in awe of Jay's ability to command a room and get people excited about MongoDB. Jay's ability to juggle multiple community projects and events was unlike any I've seen before and made a dramatic difference to the MongoDB developer community. As a team member or team leader, Jay earns my highest recommendation."
+      },
+      {
+        "user": "https://www.linkedin.com/in/londner/",
+        "text": "It’s rare that you come across standout talent like Raphael. I had the pleasure of working with Raphael on a hands-on Lab for MongoDB 3.6 JSON Schema Validation. I was particularly impressed by Raphael’s ability to explain the complex aspects of the subject—and effortlessly. That skill comes perfectly naturally to him. As a team member or a leader, Raphael earns my highest recommendation."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "4",
+      "items": [
+        "MongoDB - DBA",
+        "MongoDB - Java",
+        "MongoDB - Node.js",
+        "MongoDB - Python"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "William Zola Outstanding Contributor Award",
+        "Scholarship Winner"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "English"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Sons of the American Revolution"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Readie"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "A Genealogical Record of a Line of Alger"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/laurenjanece/",
+      "text": "Software Engineer, Developer Advocate, Inventor, & International Speaker"
+    },
+    {
+      "user": "https://www.linkedin.com/in/dawncastilleja/",
+      "text": "Manager of Educational Partnerships at Center for the Collaborative Classroom"
+    },
+    {
+      "user": "https://www.linkedin.com/in/craigsdennis/",
+      "text": "Developer Educator at Twilio Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/michael-o-brien-9900b812a/",
+      "text": "Lead Software Engineer at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jamielangskov/",
+      "text": "Senior Program Manager, Developer Community at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/lesley-larson-3871128/",
+      "text": "Vice President of Marketing Vintage Wine Estates"
+    },
+    {
+      "user": "https://www.linkedin.com/in/landonferrier/",
+      "text": "Entrepreneur"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mnovacyu/",
+      "text": "Site Reliability Engineer, DevOps"
+    },
+    {
+      "user": "https://www.linkedin.com/in/karen-huaulme-a6069164/",
+      "text": "Developer Advocate at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jessicagwest/",
+      "text": "Director of Global Developer Advocacy at MongoDB"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Board of Directors",
+      "experience": "Django Software Foundation",
+      "description": "Science and Technology",
+      "date1": "Jan 2017 – Jan 2018",
+      "date2": "1 yr 1 mo"
+    },
+    {
+      "title": "Forum Moderator",
+      "experience": "Treehouse Inc.",
+      "description": "Science and Technology",
+      "date1": "Nov 2014 – Nov 2015",
+      "date2": "1 yr 1 mo"
+    },
+    {
+      "title": "Collection & Distribution",
+      "experience": "Feed Salem",
+      "description": "Poverty Alleviation",
+      "date1": "Dec 2012 – Mar 2015",
+      "date2": "2 yrs 4 mos"
+    }
+  ],
+  "profile": {
+    "name": "Ken W. Alger",
+    "headline": "Developer Advocate at MongoDB",
+    "imageurl": "https://media.licdn.com/dms/image/C5103AQG6CbtwbSVyog/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=f-z5MDw1d0paR5_VkWXBlR0nXIUUvx2IezhQWalbKoc",
+    "location": "Salem, Oregon",
+    "connections": "500+",
+    "summary": "I have a deep, abiding passion for coding languages and enjoy learning new concepts and technologies. Some of which include Python, Java, and MongoDB.\n\nSome of my professional traits are:\n\n* Detailed oriented, positive attitude and quick learner\n* Ability to manage numerous projects and meet tight deadlines with limited direction\n* Possess exceptional decision making and problem solving skills\n* Sound written and verbal communication skills\n* Ability to learn and adapt to new technologies\n* Demonstrates knowledge of maintaining and dealing with confidential information\n* Courteous and Professional demeanor\n\nI always enjoy connecting with others who share similar passions, or simply want to share theirs with me. Get in touch on LinkedIn.\n\nhttps://github.com/kenwalger\nhttp://www.kenwalger.com"
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "profileAlternative": {
+    "name": "Jonathan DeStefano",
+    "headline": "Software engineer specializing in technical writing and documentation team management.",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQFXaDnMhEam9A/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=UnzhvhvUT7CDIk1OifpjExT-OeBq4fV2detiwPK6yQs",
+    "location": "Greater New York City Area",
+    "connections": "284",
+    "summary": "Dynamic software engineer experienced in technical writing, requirements gathering, design, development and testing. Passionate about learning new skills and able to do so quickly and efficiently. Possesses admirable\ninterpersonal skills utilized to collaborate with colleagues and clientele. Able to undertake and\naccomplish complex tasks independently. Developed commendable leadership skills through years of\nteam management and coordinating projects."
+  },
+  "aboutAlternative": {
+    "text": "Dynamic software engineer experienced in technical writing, requirements gathering, design, development and testing. Passionate about learning new skills and able to do so quickly and efficiently. Possesses admirable\ninterpersonal skills utilized to collaborate with colleagues and clientele. Able to undertake and\naccomplish complex tasks independently. Developed commendable leadership skills through years of\nteam management and coordinating projects."
+  },
+  "positions": [
+    {
+      "title": "MongoDB",
+      "location": "New York, New York",
+      "description": "• Manage a distributed team of seven and lead documentation efforts for MongoDB Atlas, MongoDB Cloud Manager, MongoDB Ops Manager, MongoDB Kubernetes Operator and the enterprise tools listed below.\n• Streamlined the triage, review, tooling processes to improve team efficiency and throughput.\n• Champion for process and collaboration improvements.\n• Actively contribute to all documentation repositories.",
+      "date1": "Jul 2018 – Present",
+      "date2": "1 yr 5 mos",
+      "roles": [
+        {
+          "title": "Lead Technical Writer - Cloud & Enterprise Tools",
+          "date1": "Jul 2018 – Present",
+          "date2": "1 yr 5 mos"
+        },
+        {
+          "title": "Lead Technical Writer - Enterprise Tools",
+          "date1": "Sep 2017 – Jul 2018",
+          "date2": "11 mos",
+          "location": "New York, New York"
+        },
+        {
+          "title": "Technical Writer",
+          "date1": "Jun 2016 – Aug 2017",
+          "date2": "1 yr 3 mos",
+          "location": "New York, New York"
+        }
+      ]
+    },
+    {
+      "title": "Title\nLead Technical Writer - Cloud & Enterprise Tools",
+      "description": "• Manage a distributed team of seven and lead documentation efforts for MongoDB Atlas, MongoDB Cloud Manager, MongoDB Ops Manager, MongoDB Kubernetes Operator and the enterprise tools listed below.\n• Streamlined the triage, review, tooling processes to improve team efficiency and throughput.\n• Champion for process and collaboration improvements.\n• Actively contribute to all documentation repositories.",
+      "date1": "Jul 2018 – Present",
+      "date2": "1 yr 5 mos",
+      "roles": [
+        {
+          "title": "Lead Technical Writer - Cloud & Enterprise Tools",
+          "date1": "Jul 2018 – Present",
+          "date2": "1 yr 5 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nLead Technical Writer - Enterprise Tools",
+      "location": "New York, New York",
+      "description": "• Managed a team of three and led documentation efforts for the following products: MongoDB BI Connector, MongoDB Charts, MongoDB Compass, and MongoDB Spark Connector.\n• Lead and contributed to documentation and information architecture improvements for several enterprise tools.\n• Regularly provide product feedback upstream to product managers to improve the user experience. Most notably, surfaced the need for a MongoDB ODBC driver and worked with product and engineering teams to get it prioritized and scheduled. Wrote supporting documentation upon driver release.\n• Experienced in information architecture design and building documentation repositories from scratch.\n…\nsee more",
+      "date1": "Sep 2017 – Jul 2018",
+      "date2": "11 mos",
+      "roles": [
+        {
+          "title": "Lead Technical Writer - Enterprise Tools",
+          "date1": "Sep 2017 – Jul 2018",
+          "date2": "11 mos",
+          "location": "New York, New York"
+        }
+      ]
+    },
+    {
+      "title": "Title\nTechnical Writer",
+      "location": "New York, New York",
+      "description": "• Designed and developed a Tabbed Example framework and two iterations of improvements.\n• Facilitated a user experience study for the MongoDB server docs and analyzed results to identify areas where the documentation or user experience could be improved.\n• Contributed to the MongoDB 3.6 docs - Replication commands, methods, and logging components.\n• Documented MongoDB 3.4's faceted search, decimal BSON type, and several aggregation operators.\n• Developed aspects of the redesigned docs.mongodb.com and a specialized site for tutorial content.\n• Took ownership of MongoDB Spark Connector Docs and released docs for v2.0.\n…\nsee more",
+      "date1": "Jun 2016 – Aug 2017",
+      "date2": "1 yr 3 mos",
+      "roles": [
+        {
+          "title": "Technical Writer",
+          "date1": "Jun 2016 – Aug 2017",
+          "date2": "1 yr 3 mos",
+          "location": "New York, New York"
+        }
+      ]
+    },
+    {
+      "title": "Business Analyst | Developer",
+      "companyName": "Financial Industry Regulatory Authority (FINRA)",
+      "description": "• Advised newly converted agile team on agile and JIRA best practices, improving issue burndown.\n• Coordinated projects from requirements gathering to delivery phases across multiple teams.\n• Developed user interface for market regulation alert application using Angular.js.",
+      "date1": "Dec 2014 – Jun 2016",
+      "date2": "1 yr 7 mos"
+    },
+    {
+      "title": "IT Consultant",
+      "companyName": "NYSE Euronext",
+      "description": "• Gathered requirements and designed usability and operational enhancements to public-facing market data websites and internal billing system.\n• Monitored and coordinated high profile projects and requests to completion on a global scale.\n• Presented and demonstrated newly developed functionality to train business users.\n• Researched and reverse-engineered undocumented legacy systems to help consolidate and\ndecommission unused servers and applications reducing costs.\n• Discovered monitoring and automation opportunities, then implemented solutions to improve system\nstability.\n• Developed ETL improvements for critical S.E.C. sanctioned files reducing high severity outage\ntime.\n• Led company-wide runbook documentation effort for ICE acquisition enabling a smooth transition\nfor system operations teams.\n…\nsee more",
+      "date1": "Apr 2013 – Dec 2014",
+      "date2": "1 yr 9 mos"
+    },
+    {
+      "title": "Associate Consultant",
+      "companyName": "Gemini Systems",
+      "description": "• Delivered proof of concept modules for financial analytics project using MapReduce on Cloudera\nHadoop and Amazon EMR (available on GitHub).\n• Trained on key areas of analytics practice development capabilities including Hadoop MapReduce,\nHive and AWS platform for delivering efficient solutions to clientele.\n• Planned and developed software test plans and test cases.\n• Led functional, integration and regression testing.\n• Coordinated on-shore and off-shore development and testing efforts in NYC and India.\n• Produced requirements specification and business process documentation.\n…\nsee more",
+      "date1": "Jul 2012 – Apr 2013",
+      "date2": "10 mos"
+    },
+    {
+      "title": "Digital Hardware Engineer",
+      "companyName": "Data Device Corporation",
+      "location": "Bohemia, New York",
+      "description": "• Designed, programmed, and executed numerous test procedures and applications to verify the\nfunctionality of new devices and establish guidelines for proper use.\n• Worked closely with marketing engineers on data sheets to ensure correct content and a timely\nproduct launch.\n• Created and verified schematics using multiple different CAD programs enabling multiplatform\nsupport for clientele.\n• Regularly recognized by principal engineers and management resulting in multiple internship\nextensions.\n…\nsee more",
+      "date1": "May 2011 – May 2012",
+      "date2": "1 yr 1 mo"
+    },
+    {
+      "title": "Geek Squad PC Technician",
+      "companyName": "Best Buy",
+      "location": "Levittown, New York",
+      "description": "• A+ Certified Information Technology Professional.\n• Established excellent rapport with clientele through ability to explain technical terminology in a cordial and understandable manner, simultaneously increasing sales.\n• Regularly exceeded daily computer repair quota.\n• Recipient of numerous awards and frequently recognized by management for positive client feedback and ability to perform above the scope of work.\n…\nsee more",
+      "date1": "Aug 2007 – Aug 2011",
+      "date2": "4 yrs 1 mo"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Stony Brook University",
+      "degree": "Bachelor of Engineering",
+      "fieldofstudy": "Computer Engineering",
+      "date1": "2007",
+      "date2": "2012"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Java",
+      "count": "17"
+    },
+    {
+      "title": "SQL",
+      "count": "11"
+    },
+    {
+      "title": "Oracle SQL Developer",
+      "count": "5"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "1",
+      "items": [
+        "Hadoop MapReduce For Financial Analytics"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Smart Glove"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/kay-kim-24625487/",
+      "text": "Tech Writer at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ravind-kumar-b4813650/",
+      "text": "Senior Technical Writer at MongoDB, Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/anthonysansone/",
+      "text": "Technical Writer: heavy on technical, heavy on writing"
+    },
+    {
+      "user": "https://www.linkedin.com/in/justinkeithscott/",
+      "text": "Software Engineering Director"
+    },
+    {
+      "user": "https://www.linkedin.com/in/robert-soignier-b26a6117a/",
+      "text": "Field Service Engineer at Siemens"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nlarew/",
+      "text": "Nerd / Educator / Engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jeremy-thompson-1595574/",
+      "text": "User Interface Manager at ACAMS"
+    },
+    {
+      "user": "https://www.linkedin.com/in/christopher-dierlam-91a057102/",
+      "text": "IT Support Manager at Eastern.tv"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jeffrey-allen-50400793/",
+      "text": "Technical Writer at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mark-furlough-94222a45/",
+      "text": "Student at State University of New York College at Oswego"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Jonathan DeStefano",
+    "headline": "Software engineer specializing in technical writing and documentation team management.",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQFXaDnMhEam9A/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=UnzhvhvUT7CDIk1OifpjExT-OeBq4fV2detiwPK6yQs",
+    "location": "Greater New York City Area",
+    "connections": "284",
+    "summary": "Dynamic software engineer experienced in technical writing, requirements gathering, design, development and testing. Passionate about learning new skills and able to do so quickly and efficiently. Possesses admirable\ninterpersonal skills utilized to collaborate with colleagues and clientele. Able to undertake and\naccomplish complex tasks independently. Developed commendable leadership skills through years of\nteam management and coordinating projects."
+  }
+}

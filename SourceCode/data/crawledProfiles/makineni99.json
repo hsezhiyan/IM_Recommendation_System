@@ -1,0 +1,214 @@
+{
+  "profileAlternative": {
+    "name": "Bhanu Prakash Makineni",
+    "headline": "MongoDB Architect",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQGV1aA3-2v30A/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=SsU1tTvWyX_UJZZrbD7mnQln6x188f1nRWez-vuXJB0",
+    "location": "Mason, Ohio",
+    "connections": "308",
+    "summary": "Having more than 13 years of strong experience in enterprise application architecture, distributed application development, including Object Oriented Analysis Design, Development and implementation of projects in multi-tier architecture, database systems and Web based projects\n\nExperience in design and developing Application leveraging MongoDB.\nDeveloped Python scripts to monitor health of Mongo databases and perform ad-hoc backups using Mongo dump and Mongo restore.\nExperience with creating script for data modeling and data import and export. Extensive experience in deploying, managing and developing MongoDB clusters. Experience in creating JavaScript for using DML operation with MongoDB .\nCreation, configuration and monitoring Shards sets. Analysis of the data to be shared, choosing a shard Key to distribute data evenly. Architecture and Capacity planning for MongoDB clusters. Implemented scripts for mongo DB import, export, dump and restore.\nWorked on MongoDB database concepts such as locking, transactions, indexes, Sharding, replication, schema design. Created multiple databases with sharded collections and choosing shard key based on the requirements.\nExperience in managing MongoDB environment from availability, performance and scalability perspectives.\nWorked on creating various types of indexes on different collections to get good performance in Mongo database.\nWorked on creating documents in Mongo database.\nWorked on multiple BSON type objects and used based on requirement.\nResponsible in all facets of Software Development Life Cycle (SDLC), including requirements gathering, establish technical specifications, set deadlines and milestones, Designing, Coding, Testing, Quality Assurance and Production Deployment.\nPerformed day-to-day Database Maintenance tasks including Database Monitoring, Backups, Space, and Resource Utilization.\nConfigured replication with replica set factors, arbiters, voting, priority, server distribution, slave delays."
+  },
+  "aboutAlternative": {
+    "text": "Having more than 13 years of strong experience in enterprise application architecture, distributed application development, including Object Oriented Analysis Design, Development and implementation of projects in multi-tier architecture, database systems and Web based projects\n\nExperience in design and developing Application leveraging MongoDB.\nDeveloped Python scripts to monitor health of Mongo databases and perform ad-hoc backups using Mongo dump and Mongo restore.\nExperience with creating script for data modeling and data import and export. Extensive experience in deploying, managing and developing MongoDB clusters. Experience in creating JavaScript for using DML operation with MongoDB .\nCreation, configuration and monitoring Shards sets. Analysis of the data to be shared, choosing a shard Key to distribute data evenly. Architecture and Capacity planning for MongoDB clusters. Implemented scripts for mongo DB import, export, dump and restore.\nWorked on MongoDB database concepts such as locking, transactions, indexes, Sharding, replication, schema design. Created multiple databases with sharded collections and choosing shard key based on the requirements.\nExperience in managing MongoDB environment from availability, performance and scalability perspectives.\nWorked on creating various types of indexes on different collections to get good performance in Mongo database.\nWorked on creating documents in Mongo database.\nWorked on multiple BSON type objects and used based on requirement.\nResponsible in all facets of Software Development Life Cycle (SDLC), including requirements gathering, establish technical specifications, set deadlines and milestones, Designing, Coding, Testing, Quality Assurance and Production Deployment.\nPerformed day-to-day Database Maintenance tasks including Database Monitoring, Backups, Space, and Resource Utilization.\nConfigured replication with replica set factors, arbiters, voting, priority, server distribution, slave delays."
+  },
+  "positions": [
+    {
+      "title": "MongoDB Architect/ SOA Enterprise web and Integration",
+      "companyName": "Anthem, Inc.",
+      "location": "Mason, OH",
+      "description": "• Designed and implemented the MongoDB schema.\n• Analysis of the data to be shared, choosing a shard Key to distribute data evenly.\n• Architecture and Capacity planning for MongoDB/ Cassandra clusters. Implementing on-premise MMS monitoring and backup solution.\n• Implemented Bulk Write operation jobs and analyzing the queries and performed tuning based on environment.\n• Implemented multiple CRUD operations and familiar with new enhancements in each and every release.\n• Worked on creating various types of indexes on different collections to get good performance in Mongo database.\n• Designed and implemented the MongoDB schema.\n• Implemented all types of validations like general, data type and format validations.\n• Transformed the data from RDBMS to MongoDB.\n• Generated the millions of test data for QA team.\n• Performed CRUD operations like Update, Insert and Delete data in MongoDB.\n• Extensive experience in deploying, managing, and developing with MongoDB clusters.\n• Manage run-time configuration, processes, scaling, backup and recovery, monitoring, and performance tuning for production MongoDB instances.\n• Developed certain features of the application functionality i.e. CRUD (Create, read, update, delete).\n• Wrote services to store and retrieve user data from the MongoDB for the application on devices\n• Closely worked with Business users to meet their requirements\n• Maintained, structured, and surveyed documents within the NoSQL MongoDB database; ensuring data integrity and increasing the overall maintainability of the database.\n• Worked with QA team to resolve testing issues\n• Generated and uploaded millions of the data in to the MongoDB\n…\nsee more",
+      "date1": "Oct 2017 – Present",
+      "date2": "2 yrs 2 mos"
+    },
+    {
+      "title": "MongoDB Lead",
+      "companyName": "Nationwide Insurance",
+      "location": "Lynchburg, Virginia Area",
+      "description": "● Performed CRUD operations like Update, Insert and Delete data in MongoDB.\n● Experience in deploying, managing, and developing MongoDB clusters on Linux and Windows environment\n● Point in time Backup and recovery in MongoDB. Data modeling for data from RDBMS to and MongoDB for optimal reads and writes.\n● Responsible for managing MongoDB environment with high availability, performance, and scalability perspectives.\n● Troubleshooting of different versions of Mongo database systems and cluster configurations to ensure high-availability in various crash scenarios and restoring roll backs to avoid loss of Data.\n● Worked with Gridfs collections to store large size documents and enabled sharding with range based sharding keys.\n● Worked on Mongodb database design and indexing techniques. Good knowledge on MongoDB write concern majority.\n● Implemented read preferences in MongoDB replica set. Configured hidden members in replicaset.\n● Installed and configured MongoDB for an enterprise application to analyze the big data requirements.\n● Configured replication and high availability for MongoDB instances\n● Worked on MongoDB database concepts such as locking, transactions, indexes, Sharding, replication, schema design, etc.\n● Worked on creating various types of indexes on different collections to get good performance in MongoDB.\n● Testing, evaluation and troubleshooting of different NoSQL database systems and cluster configurations to ensure high-availability in various crash scenarios.\n…\nsee more",
+      "date1": "Dec 2015 – Sep 2017",
+      "date2": "1 yr 10 mos"
+    },
+    {
+      "title": "Oracle/pl-sql Developer",
+      "companyName": "State of Michigan",
+      "location": "Lansing, Michigan Area",
+      "description": "● Worked on project to move from standalone servers to RAC\n● Build Oracle DBA in the Database Management Services group (DMS), which supports and maintains the database infrastructure\n● Supporting Production and Development databases in 24x7 Environments\n● Database environments Installation, upgradation, Migration, Patching, Maintaining of all Oracle versions 8i, 9i, 10g and Oracle 11r2 and\n● Operating systems on clustered/shared HP-UX UNIX, Linux, and Windows servers\n● 200 corporate databases in production, acceptance, development, and training environments.\n● Configuration of Oracle Data guard in Oracle 10g environment, using 11g/12c Grid Control.\n● Configuration and testing of RMAN, with implementation to production.\n● Migration includes the migration from Windows to Linux using Transportable tablespaces.\n● Performance tuning and reorganization of Oracle Financials database.\n● Use of AWR and Statspack tools to diagnose performance issues with Oracle Application\n● Automation of Oracle Restart Configuration for the instances under the ASM configuration, part of the Oracle High Availability Services configuration.\n● Configuration and installation of VM Ware in Oracle 10g and Oracle 11gR2 environment.\n● Installation and configuration of Oracle 10gR1, 10gR2, 11016, 11R2 on HP Itanium HP-UX UNIX servers.\n● Perform daily database administration as required.\n…\nsee more",
+      "date1": "Apr 2015 – Nov 2015",
+      "date2": "8 mos"
+    },
+    {
+      "title": "MongoDB SME",
+      "companyName": "Seagate Technology",
+      "description": "• Extensive experience in deploying, managing and developing MongoDB clusters. Creation, configuration and monitoring Shards sets.\n• Experience in design and developing Application-leveraging MongoDB.\n• Worked on the enhancement of the business logic with J2EE with struts framework. Experience in developing java programs at the Application side.\n• Experience with creating script for data modeling and data import and export. Extensive experience in deploying, managing and developing MongoDB clusters.\n• Experience in creating JavaScript for using DML operation with MongoDB.\n• Architecture and Capacity planning for MongoDB clusters. Implemented scripts for mongo DBimport, export, dump and restore.\n• Installation of MongoDB on physical machines, Virtual machines as well as AWS. Backup & Recovery, Database optimization and Security maintenance.\n• Wrote services to store and retrieve user data from the MongoDB for the application on devices.\n• Potentially long running index building operations performed by creating Index in background.\n• Rebuilding of Indexes to avoid defragmentation and modifying indexes.\n• Backup & Recovery, Database optimization and Security maintenance.\n• Distributing replica set members across geographically distinct data centers for redundancy and provides fault tolerance if one of the data centers is unavailable.\n• Converted secondary node to Arbiter based on requirement to reuse of storage for different application.\n• Sizing of Oplog based on Workloads and to maintain replication properly across all the nodes.\n• Maintaining Sharded cluster availability and security across all the nodes.\n• Worked on MongoDB database concepts such as locking, transactions, indexes, Sharding, replication, schema design\n…\nsee more",
+      "date1": "Oct 2009 – Mar 2015",
+      "date2": "5 yrs 6 mos"
+    },
+    {
+      "title": "Java Developer",
+      "companyName": "Celcom Axiata Berhad",
+      "location": "Kuala Lumpur, Malaysia",
+      "description": "• Designing and developing modules.\n• Implemented MVC framework, developing Servlets and Jsp.\n• Implemented object relational mapping using Hibernate.\n• Developed reports using Jasper Reports.\n• Retrieved offender data from mainframe systems using web service calls.\n• Implemented design patterns – Business delegate, Front controller, Data Access Objects, Command Pattern.\n• Prepared unit test cases using JUnit.\n• Designed database elements using Oracle 10g.\n• Implemented logging using Log4J.\n• Tested the project and fixing the defects.\n• Interaction with users and other teams\n\n…\nsee more",
+      "date1": "Jan 2009 – Sep 2009",
+      "date2": "9 mos"
+    },
+    {
+      "title": "Java Developer",
+      "companyName": "Bank Negara Malaysia",
+      "location": "Kuala Lumpur, Malaysia",
+      "description": "• Designed and developed various modules - address validation and classification, Compare services module using Struts framework, Servlets and Jsps.\n• Involved in development of application architecture.\n• Designed and developed the application to manage customer preferences and privileges using EJBs and implementing J2EE Design Patterns - Business Delegate, Front Controller, MVC, View Helper, Session Facade, Value Object and DAO.\n• Involved to pull up all the customer’s credit cards & saving accounts information from all the backs in Malaysia by using SOAP.\n• Involved to integrate this system on various platforms of all banks and third party vendor applications like Income Tax dept., Transport dept., and Insurance sector to monitor the general/sensitive info for all the customers.\n• Internationalization of languages implemented using Struts Framework.\n• Implemented custom tag libraries.\n• Involved in writing ant scripts for compiling, creating jars, wars and deploying application.\n• Coordinate component integration related to given initiatives.\n• Development of technical and design specifications for given initiatives. Involved in review of the same for other initiatives/developers.\n• Actively involved in code review for other modules and initiatives.\n• Testing and integration of modules.\n• Involved in production day support.\n• Developed unit test cases using JUnit.\n\n…\nsee more",
+      "date1": "Jul 2008 – Dec 2008",
+      "date2": "6 mos"
+    },
+    {
+      "title": "Software Engineer",
+      "companyName": "CIMB BANK BERHAD",
+      "location": "Kuala Lumpur, Malaysia",
+      "description": "• Business analysis and requirements capture.\n• Involved to design documentation.\n• Implemented few modules using Java Servlet, JSP, Struts, Oracle Stored Procedures.\n• Involved in the entire SDLC of the project right from the designing the project to implementation\n• Implemented MVC framework.\n• Developed custom Tag libraries.\n• Involved in design and development of the database.\n• Developed Stateless Session Beans to manage business logic.\n• Developed the Java Servlet, which send the e-mails to the customers automatically.\n• Involved in testing of the project and fixing the bugs.\n• Involved in writing Oracle SQL queries.\n• Responsible for integration of all the modules.\n• Used ANT script to build and deploy the application.\n• Interface with end-user business and technology customers.\n• Ensure design and development in compliance with the standards in place.\n\n…\nsee more",
+      "date1": "Apr 2006 – Jun 2008",
+      "date2": "2 yrs 3 mos"
+    },
+    {
+      "title": "Software Engineer",
+      "companyName": "C-DAC (Formerly NCST)",
+      "location": "Pune Area, India",
+      "description": "• Implemented few modules using Java Servlet, JSP, Struts, Oracle Stored Procedures.\n• Implemented MVC framework.\n• Developed custom Tag libraries.\n• Involved in testing of the project and fixing the bugs.\n• Involved in writing Oracle SQL queries.\n• Used ANT script to build and deploy the application\n\n…\nsee more",
+      "date1": "Nov 2005 – Mar 2006",
+      "date2": "5 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Indira Gandhi National Open University",
+      "degree": "Master of Computer Applications (M.C.A.)",
+      "fieldofstudy": "Computer Engineering",
+      "date1": "2003",
+      "date2": "2005"
+    },
+    {
+      "title": "Indira Gandhi National Open University",
+      "degree": "bachelor of computer applications",
+      "fieldofstudy": "Computer Science",
+      "date1": "2000",
+      "date2": "2003"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Agile Methodologies",
+      "count": "1"
+    },
+    {
+      "title": "SQL",
+      "count": "4"
+    },
+    {
+      "title": "Java",
+      "count": "2"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "4",
+    "receivedCount": "0",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/sushant-sharma-a18708a3/",
+        "text": "Sushant is a very skilled executive recruiter and a very likeable person.He was a knowledgeable peer who approached his work with enthusiasm, professionalism and positive attitude. He met his commitments in a very challenging environment and the information he provided was always accurate and timely. Sushant possesses a great work ethic, and an impressive attention to detail. Sushant is punctual, professional, is a great team player, and enjoys challenges. Sushant would be an excellent addition to any recruiting team.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/naveen-kumar-keerthi-4922191b/",
+        "text": "Naveen is a very skilled executive recruiter and a very likeable person.He was a knowledgeable peer who approached his work with enthusiasm, professionalism and positive attitude. He met his commitments in a very challenging environment and the information he provided was always accurate and timely. Naveen possesses a great work ethic, and an impressive attention to detail. Naveen is punctual, professional, is a great team player, and enjoys challenges. Naveen would be an excellent addition to any recruiting team.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/fayazshaik/",
+        "text": "Fayaz is a high skilled technical recruitment's and a very likable person.He was a knowledgeable peer who approached his work with enthusiasm, professionalism and positive attitude. He met his commitments in a very challenging environment and the information he provided was always accurate and timely. Fayaz possesses a great work ethic, and an impressive attention to detail. Fayaz is punctual, professional and having great management skills, and he enjoys challenges. Fayaz would be an excellent addition to any recruiting team management.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/ncs/",
+        "text": "Nithin is a very skilled executive recruiter and a very likable person.He was a knowledgeable peer who approached his work with enthusiasm, professionalism and positive attitude. He met his commitments in a very challenging environment and the information he provided was always accurate and timely. Nithin possesses a great work ethic, and an impressive attention to detail. Nithin is punctual, professional, is a great team player, and enjoys challenges. Nithin would be an excellent addition to any recruiting team.\n…\nSee more"
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "9",
+      "items": [
+        "Scoring Engine",
+        "MiSACWIS",
+        "Automated Priority Change Request",
+        "SPC Violations",
+        "Returns Process Management",
+        "Online Customer Service(OCS)",
+        "SME Credit Bureau",
+        "Cheque Truncation and Conversion System (CTCS)",
+        "Telephone Revenue Billing (Pune Telecom)"
+      ]
+    },
+    {
+      "count": "4",
+      "items": [
+        "English",
+        "Hindi",
+        "Tamil",
+        "Telugu"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "Nationwide Insurance",
+        "State of Michigan"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/neeraja-rao-kuppili-1a82bb27/",
+      "text": "Database Architect & MS BI Consultant"
+    },
+    {
+      "user": "https://www.linkedin.com/in/bkommana/",
+      "text": "Lead NoSQL Database Engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ankur-gulati-52aa9a5/",
+      "text": "Solutions Architect III at Ericsson"
+    },
+    {
+      "user": "https://www.linkedin.com/in/monishshelke/",
+      "text": "Identify and Access Management Security Engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/venkatkoyyani/",
+      "text": "Senior Software Engineer at Tesla"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sailaja-sanikommu-a8481510/",
+      "text": "Senior Software Engineer at CSC"
+    },
+    {
+      "user": "https://www.linkedin.com/in/pramod-kumar-badatiya-570b6418/",
+      "text": "Team lead at Virtusa"
+    },
+    {
+      "user": "https://www.linkedin.com/in/amy-z-57134216b/",
+      "text": "Referral Specialist at Anthem, Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/manimundra/",
+      "text": "Software Engineer at Siemens"
+    },
+    {
+      "user": "https://www.linkedin.com/in/namitasingh/",
+      "text": "Lead Software Architect at IWC Inc."
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Bhanu Prakash Makineni",
+    "headline": "MongoDB Architect",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQGV1aA3-2v30A/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=SsU1tTvWyX_UJZZrbD7mnQln6x188f1nRWez-vuXJB0",
+    "location": "Mason, Ohio",
+    "connections": "308",
+    "summary": "Having more than 13 years of strong experience in enterprise application architecture, distributed application development, including Object Oriented Analysis Design, Development and implementation of projects in multi-tier architecture, database systems and Web based projects\n\nExperience in design and developing Application leveraging MongoDB.\nDeveloped Python scripts to monitor health of Mongo databases and perform ad-hoc backups using Mongo dump and Mongo restore.\nExperience with creating script for data modeling and data import and export. Extensive experience in deploying, managing and developing MongoDB clusters. Experience in creating JavaScript for using DML operation with MongoDB .\nCreation, configuration and monitoring Shards sets. Analysis of the data to be shared, choosing a shard Key to distribute data evenly. Architecture and Capacity planning for MongoDB clusters. Implemented scripts for mongo DB import, export, dump and restore.\nWorked on MongoDB database concepts such as locking, transactions, indexes, Sharding, replication, schema design. Created multiple databases with sharded collections and choosing shard key based on the requirements.\nExperience in managing MongoDB environment from availability, performance and scalability perspectives.\nWorked on creating various types of indexes on different collections to get good performance in Mongo database.\nWorked on creating documents in Mongo database.\nWorked on multiple BSON type objects and used based on requirement.\nResponsible in all facets of Software Development Life Cycle (SDLC), including requirements gathering, establish technical specifications, set deadlines and milestones, Designing, Coding, Testing, Quality Assurance and Production Deployment.\nPerformed day-to-day Database Maintenance tasks including Database Monitoring, Backups, Space, and Resource Utilization.\nConfigured replication with replica set factors, arbiters, voting, priority, server distribution, slave delays."
+  }
+}

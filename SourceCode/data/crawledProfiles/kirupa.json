@@ -1,0 +1,262 @@
+{
+  "profileAlternative": {
+    "name": "Kirupa Chinnathambi 🍊",
+    "headline": "Professional Pixel Pusher",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQFTdQUB7Wf87g/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=ruetaYzG0T4axvDWtg7v-Y6o6kfebeE0OT4UDNePtPA",
+    "location": "Redmond, Washington",
+    "connections": "500+",
+    "summary": "By day, I am a seasoned PM with a knack for getting to the root of a complex situation and finding a path forward (usually involves shipping code!) that makes customers happy.\n\nBy night, I run KIRUPA - one of the world's largest (and popular) free educational resources for demystifying web development. The online community has over 210K registered members, millions of posts, thousands of high quality articles, hundreds of popular videos, and more!\n\nWith my remaining time, I am a best-selling author of several technical books and a frequent presenter at popular conferences."
+  },
+  "aboutAlternative": {
+    "text": "By day, I am a seasoned PM with a knack for getting to the root of a complex situation and finding a path forward (usually involves shipping code!) that makes customers happy.\n\nBy night, I run KIRUPA - one of the world's largest (and popular) free educational resources for demystifying web development. The online community has over 210K registered members, millions of posts, thousands of high quality articles, hundreds of popular videos, and more!\n\nWith my remaining time, I am a best-selling author of several technical books and a frequent presenter at popular conferences."
+  },
+  "positions": [
+    {
+      "title": "Senior Director of Product Management",
+      "companyName": "Salesforce",
+      "location": "Bellevue, Washington",
+      "description": "Helping push the limits of what one can do using HTML, CSS, and JavaScript as part of the Lightning Design System team.",
+      "date1": "Sep 2018 – Present",
+      "date2": "1 yr 3 mos"
+    },
+    {
+      "title": "CEO / Founder / Ninja",
+      "companyName": "KIRUPA",
+      "location": "Redmond, WA",
+      "description": "What was a hobby turned into something that has helped a boatload of designers and developers learn programming. If you are a front-end developer, there is probably an article, video, or forum topic (2 million posts, 200k members) that can help you out!\n\nhttps://www.kirupa.com\n…\nsee more",
+      "date1": "Feb 1999 – Present",
+      "date2": "20 yrs 10 mos"
+    },
+    {
+      "title": "Senior Technical PM",
+      "companyName": "Microsoft",
+      "location": "Redmond, WA",
+      "description": "As part of the Developer Division and Windows teams, designed and delivered features across multiple versions of Expression Blend, Visual Studio IDE, and the Windows Web Platform (aka the components that Edge is built on top of).",
+      "date1": "Sep 2007 – Sep 2018",
+      "date2": "11 yrs 1 mo"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Massachusetts Institute of Technology",
+      "degree": "BS",
+      "fieldofstudy": "Computer Science with a dash of Economics and History",
+      "date1": "2003",
+      "date2": "2007"
+    }
+  ],
+  "skills": [
+    {
+      "title": "CSS",
+      "count": "22"
+    },
+    {
+      "title": "Microsoft Technologies",
+      "count": "20"
+    },
+    {
+      "title": "JavaScript",
+      "count": "19"
+    },
+    {
+      "title": "Agile Methodologies",
+      "count": "17"
+    },
+    {
+      "title": "Mobile Applications",
+      "count": "16"
+    },
+    {
+      "title": "Web Development",
+      "count": "13"
+    },
+    {
+      "title": "User Interface Design",
+      "count": "12"
+    },
+    {
+      "title": "Software Project Management",
+      "count": "12"
+    },
+    {
+      "title": "Software Development",
+      "count": "12"
+    },
+    {
+      "title": "Project Management",
+      "count": "5"
+    },
+    {
+      "title": "Agile Project Management",
+      "count": "4"
+    },
+    {
+      "title": "Web Design",
+      "count": "4"
+    },
+    {
+      "title": "Program Management",
+      "count": "3"
+    },
+    {
+      "title": "Cloud Computing",
+      "count": "1"
+    },
+    {
+      "title": "SDLC",
+      "count": "1"
+    },
+    {
+      "title": "WPF",
+      "count": "17"
+    },
+    {
+      "title": "C#",
+      "count": "13"
+    },
+    {
+      "title": "Windows Azure",
+      "count": "11"
+    },
+    {
+      "title": "ASP.NET",
+      "count": "8"
+    },
+    {
+      "title": "HTML5",
+      "count": "7"
+    },
+    {
+      "title": "PHP",
+      "count": "5"
+    },
+    {
+      "title": ".NET",
+      "count": "3"
+    },
+    {
+      "title": "HTML 5",
+      "count": "3"
+    },
+    {
+      "title": "Cascading Style Sheets (CSS)",
+      "count": "3"
+    },
+    {
+      "title": "jQuery",
+      "count": "2"
+    },
+    {
+      "title": "C++",
+      "count": "2"
+    },
+    {
+      "title": "WordPress",
+      "count": "1"
+    },
+    {
+      "title": "Management",
+      "count": "12"
+    },
+    {
+      "title": "Product Planning",
+      "count": "10"
+    },
+    {
+      "title": "Web Technologies",
+      "count": "3"
+    },
+    {
+      "title": "Online Services",
+      "count": "2"
+    },
+    {
+      "title": "Axapta",
+      "count": "2"
+    },
+    {
+      "title": "Design Tools",
+      "count": "2"
+    },
+    {
+      "title": "Technology Evangelist",
+      "count": "6"
+    },
+    {
+      "title": "Partner Management",
+      "count": "3"
+    },
+    {
+      "title": "Software Development Life Cycle",
+      "count": "3"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "4",
+      "items": [
+        "Creating Web Animations",
+        "Learning React",
+        "JS101: JavaScript for Beginners",
+        "Animation in HTML, CSS, and JavaScript"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/kevin-hill-2881795/",
+      "text": "Senior Director of Product Management at Salesforce"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jacobrossi/",
+      "text": "Product Manager at Oculus/Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/christian-stockwell-a3ba4b13/",
+      "text": "Founding member on new Microsoft Managed Security team at Microsoft"
+    },
+    {
+      "user": "https://www.linkedin.com/in/matt-gradwohl-667a42/",
+      "text": "The Modern, open Microsoft Edge browser. #shipeveryday #wearenotdone"
+    },
+    {
+      "user": "https://www.linkedin.com/in/panchbhai/",
+      "text": "Vice President, Product Management"
+    },
+    {
+      "user": "https://www.linkedin.com/in/meenakb/",
+      "text": "Engineering Manager at Tableau Software"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mikepie/",
+      "text": "manager, product management at Starbucks"
+    },
+    {
+      "user": "https://www.linkedin.com/in/lauren-bissett-1531199/",
+      "text": "Product Manager (on sabbatical)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/prashali/",
+      "text": "Software Engineer at Dropbox"
+    },
+    {
+      "user": "https://www.linkedin.com/in/james-lissiak/",
+      "text": "Principal Software Engineer at Microsoft"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Kirupa Chinnathambi 🍊",
+    "headline": "Professional Pixel Pusher",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQFTdQUB7Wf87g/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=ruetaYzG0T4axvDWtg7v-Y6o6kfebeE0OT4UDNePtPA",
+    "location": "Redmond, Washington",
+    "connections": "500+",
+    "summary": "By day, I am a seasoned PM with a knack for getting to the root of a complex situation and finding a path forward (usually involves shipping code!) that makes customers happy.\n\nBy night, I run KIRUPA - one of the world's largest (and popular) free educational resources for demystifying web development. The online community has over 210K registered members, millions of posts, thousands of high quality articles, hundreds of popular videos, and more!\n\nWith my remaining time, I am a best-selling author of several technical books and a frequent presenter at popular conferences."
+  }
+}

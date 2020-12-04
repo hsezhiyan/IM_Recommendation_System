@@ -1,0 +1,305 @@
+{
+  "profileAlternative": {
+    "name": "Jens Oliver Meiert",
+    "headline": "Minimalist web developer and author",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQEgLxCXOjiI5Q/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=n5X9cM-eTVpVFKeGCF7QrmCbLN-4kjEO6-2UVxUSBxo",
+    "location": "Hamburg Area, Germany",
+    "connections": "500+"
+  },
+  "aboutAlternative": {},
+  "positions": [
+    {
+      "title": "Author and Reviewer",
+      "companyName": "O'Reilly Media",
+      "date1": "2004 – Present",
+      "date2": "15 yrs"
+    },
+    {
+      "title": "Senior Web Developer and acting Technical Communications Lead",
+      "companyName": "sum.cumo GmbH",
+      "location": "Hamburg, Germany",
+      "description": "Sample responsibilities and accomplishments: Extending the original role I took on extra responsibility strengthening both sum.cumo web development and communications.\n\nFor web development I led or assisted developing and improving client projects, built internal and external efficiency tools, extended automation and code quality control, and prepared a long-term frontend strategy supporting other frontend leads.\n\nFor communications I set up and managed the sum.cumo blog and its editorial agenda, helped organize and guide the communications team, set up and managed sum.cumo’s open source program (github.com/sumcumo), and through these and other efforts 1) increased sum.cumo’s public visibility and 2) decreased recruiting cost (notably in the tech sector).\n\nOn a corporate level, I introduced and advised with the implementation of OKR, and I proposed and co-designed both productivity and acquisition initiatives.\n…\nsee more",
+      "date1": "Jun 2018 – Oct 2019",
+      "date2": "1 yr 5 mos"
+    },
+    {
+      "title": "Founder (Web Developer)",
+      "companyName": "Meiert Web Development & Consulting",
+      "date1": "Aug 2013 – May 2018",
+      "date2": "4 yrs 10 mos"
+    },
+    {
+      "title": "Google Inc.",
+      "location": "Mountain View, California, United States",
+      "description": "Sample responsibilities and accomplishments:\n\nOn the international Webmaster Team’s level I managed the Webmaster Quality Assurance Team, I was the team liaison for Google Corporate Communications, Public Policy, and Legal, and I was a member of the Webmaster Team’s on call and emergency response teams.\n\nOn a corporate level I was the creator and technical lead for Google’s Go and Maia HTML/CSS frameworks as well as the lead for the Google HTML/CSS coding guidelines (google.github.io/styleguide/htmlcssguide.html), both for which I headed respective teams and priorities.\n\nNot counting smaller forms of recognition my overall contributions got awarded more than 30 times for impact or excellence.\n\n(More details about the many aspects of my work at Google: meiert.com/en/blog/goodbye.)\n…\nsee more",
+      "date1": "Feb 2010 – Jul 2013",
+      "date2": "3 yrs 6 mos",
+      "roles": [
+        {
+          "title": "Senior Webmaster and HTML/CSS Tech Lead",
+          "date1": "Feb 2010 – Jul 2013",
+          "date2": "3 yrs 6 mos",
+          "location": "Mountain View, California, United States"
+        },
+        {
+          "title": "Webmaster (Web Developer)",
+          "date1": "Apr 2008 – Jan 2010",
+          "date2": "1 yr 10 mos",
+          "location": "Zürich, Switzerland"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSenior Webmaster and HTML/CSS Tech Lead",
+      "location": "Mountain View, California, United States",
+      "description": "Sample responsibilities and accomplishments:\n\nOn the international Webmaster Team’s level I managed the Webmaster Quality Assurance Team, I was the team liaison for Google Corporate Communications, Public Policy, and Legal, and I was a member of the Webmaster Team’s on call and emergency response teams.\n\nOn a corporate level I was the creator and technical lead for Google’s Go and Maia HTML/CSS frameworks as well as the lead for the Google HTML/CSS coding guidelines (google.github.io/styleguide/htmlcssguide.html), both for which I headed respective teams and priorities.\n\nNot counting smaller forms of recognition my overall contributions got awarded more than 30 times for impact or excellence.\n\n(More details about the many aspects of my work at Google: meiert.com/en/blog/goodbye.)\n…\nsee more",
+      "date1": "Feb 2010 – Jul 2013",
+      "date2": "3 yrs 6 mos",
+      "roles": [
+        {
+          "title": "Senior Webmaster and HTML/CSS Tech Lead",
+          "date1": "Feb 2010 – Jul 2013",
+          "date2": "3 yrs 6 mos",
+          "location": "Mountain View, California, United States"
+        }
+      ]
+    },
+    {
+      "title": "Title\nWebmaster (Web Developer)",
+      "location": "Zürich, Switzerland",
+      "date1": "Apr 2008 – Jan 2010",
+      "date2": "1 yr 10 mos",
+      "roles": [
+        {
+          "title": "Webmaster (Web Developer)",
+          "date1": "Apr 2008 – Jan 2010",
+          "date2": "1 yr 10 mos",
+          "location": "Zürich, Switzerland"
+        }
+      ]
+    },
+    {
+      "title": "Founder (Web Developer)",
+      "companyName": "Meiert Web Development & Consulting",
+      "date1": "Apr 2001 – Mar 2008",
+      "date2": "7 yrs"
+    },
+    {
+      "title": "System Architect Frontend (Web Developer)",
+      "companyName": "Aperto AG",
+      "location": "Berlin, Germany",
+      "date1": "Aug 2006 – Jul 2007",
+      "date2": "1 yr"
+    },
+    {
+      "title": "Senior Information Architect (Web Developer)",
+      "companyName": "GMX GmbH",
+      "location": "München, Germany",
+      "date1": "Nov 2003 – Jul 2006",
+      "date2": "2 yrs 9 mos"
+    },
+    {
+      "title": "Web Developer",
+      "companyName": "OPEN KNOWLEDGE GmbH",
+      "location": "Oldenburg, Germany",
+      "date1": "Sep 2001 – Jul 2003",
+      "date2": "1 yr 11 mos"
+    },
+    {
+      "title": "Web Developer",
+      "companyName": "CANBOX Europe GmbH",
+      "location": "Oldenburg, Germany",
+      "date1": "Aug 2000 – Jul 2001",
+      "date2": "1 yr"
+    },
+    {
+      "title": "Web Designer",
+      "companyName": "Promotion24 GmbH",
+      "location": "Varel, Germany",
+      "date1": "Oct 1999 – Jun 2000",
+      "date2": "9 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "University of Hamburg",
+      "degree": "Philosophy",
+      "fieldofstudy": "Philosophy",
+      "date1": "2015",
+      "date2": "2018"
+    },
+    {
+      "title": "FernUniversität in Hagen",
+      "degree": "Computer Science",
+      "fieldofstudy": "Computer Science",
+      "date1": "2001",
+      "date2": "2002"
+    },
+    {
+      "title": "Berufsbildende Schulen Varel",
+      "degree": "staatl. gepr. Technischer Assistent für Informatik",
+      "fieldofstudy": "Computer Science",
+      "date1": "1998",
+      "date2": "2000"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Web Development",
+      "count": "47"
+    },
+    {
+      "title": "Web Design",
+      "count": "29"
+    },
+    {
+      "title": "Information Design",
+      "count": "11"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "13",
+    "receivedCount": "10",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/asimjanj/",
+        "text": "Jens’ expert, technical-craft and professional acumen speak for itself. Therefore I’d like to talk about Jens’ human values and aptitude. Jens' has been a great inspiration, a teacher and leader during my journey of learning frontend code and webs standards, his mindset of looking at technical challenges holistically without bias is aspirational. He often takes into consideration things that could easily be sidelined, for example best practices, maintainability, latency and quality. Meticulous and very pragmatic; Jens’ has away about him, his ability to take vast amount of data, opinions and insights – consolidate them and develop precise structure for the future – often the distant future – and then strategies for producing the changes. Often leading with example; developing automated computed solutions, that minimize human errors, burden and inefficiency. Doing what's right, not what is easy; I admire Jens thoughtful and selfless approach to doing the right thing for the greater good, even if that means more time and effort in the short term. The scope of this includes his work, in making sure correct web standards are being applied, then making sure the team understands them, all the way through to his own interpersonal development, all of which require, patience, resilience and integrity.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/timwongdesign/",
+        "text": "Jens is very knowledgeable with regards to web standards, and common practice. He's very focused and passionate when it comes to focusing on user interactions. During our years working together, we've engaged in many meaningful conversations leading to mutual respect and understanding of each other's professions."
+      },
+      {
+        "user": "https://www.linkedin.com/in/markrippstein/",
+        "text": "I highly recommend Jens. He offers a variety of valuable skills and a strong work ethic which combine to amazing results. While at Google, he consistently had a strong, positive impact on a large number of projects over many years (including numerous large-scale, complex projects that included stakeholders across multiple organizations and locations). He worked tirelessly to complete projects to perfection while also supporting others in their efforts. He is proactive and consistently seeks out ways to improve himself while also helping others to learn and grow. He not only learns quickly, he is also then able to provide some of the highest standards of follow-through that I've ever seen. Specifically to his web coding skills, he has a deep understanding of HTML+CSS and wrote code of the highest quality (accessible, fast, and maintainable). Jens is someone you should want to work with: He is very productive, executes to the highest of standards, is proactive, takes ownership as a leader, and is very reliable. He is someone I could always trust with any project while being a strong role model for anyone on a team.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/tonyruscoe/",
+        "text": "I worked with Jens on several projects at Google, including the Google HTML/CSS Style Guide, our team's HTML/CSS frameworks, coding guidelines, measuring and tracking code quality, education and outreach, and a number of large-scale multilingual website updates. His expertise and knowledge of HTML and CSS had a measurable and positive influence on the quality, maintainability, accessibility and consistency of Google's websites. He always strived to make improvements to both products and processes, and would often proactively fix whatever was broken himself. He was an inspirational mentor for me and is one of the most Googley people I've met.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/zackyma/",
+        "text": "Jens was the beacon of HTML/CSS coding style guide in our team and Google. He always sees things through and solves the root issues. I've learnt so much from working with Jens, on coding, methodologies and workflows."
+      },
+      {
+        "user": "https://www.linkedin.com/in/arnekriedemann/",
+        "text": "Jens is an expert on CSS, web design and consulting."
+      },
+      {
+        "user": "https://www.linkedin.com/in/stn1978/",
+        "text": "Jens Meiert is a web developer through and through. Being extremely creative, working swiftly and being full of groundbreaking ideas, working together with this teamplayer and mentor is an experience second to none."
+      },
+      {
+        "user": "https://www.linkedin.com/in/webnauts/",
+        "text": "Jens Meiert is a very passionate and highly experienced Web Designer. It is a pleasure working with him, and the results of his work and his contribution for a better Web have always been and are outstanding.\""
+      },
+      {
+        "user": "https://www.linkedin.com/in/swernerx/",
+        "text": "Jens is a great CSS and XHTML developer which strength knowledge of current and future standards. He has written many high-level articles about these topics. It is always a nice thing to exchange know-how or even work with him."
+      },
+      {
+        "user": "https://www.linkedin.com/in/cordfocke/",
+        "text": "Jens is a very smart frontend developer and information architect, who is truely living in the world of html, xhtml and w3c. He works reliable and fast with great results and always with a good mood and creative ideas."
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/asimjanj/",
+        "text": "Asim and I worked together at Google for many years. Asim is a phenomenal designer and an incredibly well-rounded web designer and developer overall. Asim’s work goes beyond creativity; it is clear and thoughtful and caters with precision to audiences and stakeholders alike, testifying his great empathy for people and a thorough understanding of our industry. Asim is a fantastic person to have on every endeavor."
+      },
+      {
+        "user": "https://www.linkedin.com/in/dennis-hwang/",
+        "text": "Dennis is an amazing artist with very strong technical and managerial skills. I’ve been most thrilled to work with Dennis during his time as Google’s webmaster team lead, a team that under his tenure grew from a handful to almost a hundred people, and that he guided to create and manage the huge corpus of Google’s informational and creative websites."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "13",
+      "items": [
+        "Upgrade Your HTML—10 Examples to Improve Your Markup",
+        "Das kleine Buch der HTML-/CSS-Frameworks",
+        "199 Love Haiku—The Poetry of Haiku Haiku Love",
+        "CSS Optimization Basics",
+        "The Little Book of Website Quality Control",
+        "How to Work on Oneself—A Sketch",
+        "The Little Book of HTML/CSS Coding Guidelines",
+        "Journey of J.—Around the World in 557 Days, 1,017 Photos, and 291 Personal Notes",
+        "On Web Development—Articles 2005–2015",
+        "The Little Book of HTML/CSS Frameworks",
+        "100 Things I Learned as an Everyday Adventurer",
+        "Webdesign mit CSS (2nd Edition)",
+        "Webdesign mit CSS"
+      ]
+    },
+    {
+      "count": "5",
+      "items": [
+        "Round Table",
+        "W3C (World Wide Web Consortium)",
+        "ACM (Association for Computing Machinery)",
+        "IxDA (Interaction Design Association)",
+        "UPA (Usability Professionals’ Association)"
+      ]
+    },
+    {
+      "count": "4",
+      "items": [
+        "English",
+        "French",
+        "German",
+        "Spanish"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/amine-lazreg-4b298718/",
+      "text": "Project manager"
+    },
+    {
+      "user": "https://www.linkedin.com/in/david-muellerchen/",
+      "text": "JavaScript developer, freelancer, Google Developer Expert in Angular"
+    },
+    {
+      "user": "https://www.linkedin.com/in/wolfram-rittmeyer/",
+      "text": "Developer for Android and Voice Assistants - Google Developer Expert, Android and Google Assistant"
+    },
+    {
+      "user": "https://www.linkedin.com/in/laramartincarretero/",
+      "text": "Android Developer, Google Developer Expert for Flutter and Dart"
+    },
+    {
+      "user": "https://www.linkedin.com/in/segunfamisa/",
+      "text": "Android Software Engineer at trivago"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tanveer-muhammed-0482b376/",
+      "text": "Logistics Supply Chain and Quality Consultant at Scalian"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jsemig/",
+      "text": "Founder of ONSEI, Speaker and Mentor on all things Voice. Google Developer Expert for Assistant"
+    },
+    {
+      "user": "https://www.linkedin.com/in/coacholiverm/",
+      "text": "I show Entrepreneurs, Coaches & Consultants how to GET 2-5 NEW CLIENTS PER WEEK through LinkedIn Without Paying for Ads"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jens-meier-084260101/",
+      "text": "Geschäftsführung bei hmk-jensen GmbH / sevendo.de Handels GmbH"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jens-meier-04597b185/",
+      "text": "Creative Director - Grenzen sind nur für den da, der sie einzuhalten gedenkt! Neukundengewinnung - mal ganz anders!"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Jens Oliver Meiert",
+    "headline": "Minimalist web developer and author",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQEgLxCXOjiI5Q/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=n5X9cM-eTVpVFKeGCF7QrmCbLN-4kjEO6-2UVxUSBxo",
+    "location": "Hamburg Area, Germany",
+    "connections": "500+"
+  }
+}

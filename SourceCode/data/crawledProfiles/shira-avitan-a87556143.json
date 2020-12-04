@@ -1,0 +1,93 @@
+{
+  "profileAlternative": {
+    "name": "Shira Avitan",
+    "headline": "Python & C++ Software Developer",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQGH5LM2lMV8bQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=f2GrSyq13YsNN4k1t2OyqGqewh4O3sZNGp-PacLMZVE",
+    "location": "Hodayot, HaZafon (North) District, Israel",
+    "connections": "39"
+  },
+  "aboutAlternative": {},
+  "positions": [
+    {
+      "title": "Develops in Python and C ++",
+      "companyName": "Private",
+      "location": "Haifa Area, Israel",
+      "date1": "Dec 2017 – Present",
+      "date2": "2 yrs"
+    },
+    {
+      "title": "Verification Engineer",
+      "companyName": "Elbit Systems Ltd (Qualitest)"
+    },
+    {
+      "title": "QA Tester",
+      "companyName": "Elbit Systems Ltd",
+      "location": "Israel",
+      "date1": "Jul 2012 – Nov 2017",
+      "date2": "5 yrs 5 mos"
+    }
+  ],
+  "educations": [],
+  "skills": [
+    {
+      "title": "Testing"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/tobby-tawachi-7b70a0164/",
+      "text": "QA Manager at Q Touch Shavit 2011"
+    },
+    {
+      "user": "https://www.linkedin.com/in/zeev-glick-9160a5136/",
+      "text": "Managing Director at Elbit Systems Ltd"
+    },
+    {
+      "user": "https://www.linkedin.com/in/%D7%93%D7%95%D7%AA%D7%9F-%D7%93%D7%95%D7%A8-%D7%90%D7%9C%D7%91%D7%99%D7%98-04915b168/",
+      "text": "Platform Technical Manager of Elbit Systems in Israel at Elbit Systems Ltd"
+    },
+    {
+      "user": "https://www.linkedin.com/in/victoriya-rosen-elbit-a59a06161/",
+      "text": "Welfer at Elbit Systems Ltd"
+    },
+    {
+      "user": "https://www.linkedin.com/in/moshe-raz-426163155/",
+      "text": "Pcb Design Manager at Elbit Systems Ltd"
+    },
+    {
+      "user": "https://www.linkedin.com/in/%D7%90%D7%95%D7%A8%D7%99-%D7%A9%D7%A8%D7%95%D7%9F-9a694b142/",
+      "text": "Program Manager at Elbit Systems Ltd"
+    },
+    {
+      "user": "https://www.linkedin.com/in/alexander-tsitalovsky-75a138149/",
+      "text": "Technician at Elbit Systems Ltd"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yan-turovsky-752146135/",
+      "text": "Team Lead at Elbit Systems Ltd"
+    },
+    {
+      "user": "https://www.linkedin.com/in/lioz-noy-6b287a161/",
+      "text": "Validation Engineer at Mobileye"
+    },
+    {
+      "user": "https://www.linkedin.com/in/michael-abraham-3a9543153/",
+      "text": "Mechanical Engineer at Elbit Systems Ltd"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Shira Avitan",
+    "headline": "Python & C++ Software Developer",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQGH5LM2lMV8bQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=f2GrSyq13YsNN4k1t2OyqGqewh4O3sZNGp-PacLMZVE",
+    "location": "Hodayot, HaZafon (North) District, Israel",
+    "connections": "39"
+  }
+}

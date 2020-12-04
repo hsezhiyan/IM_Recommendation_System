@@ -1,0 +1,381 @@
+{
+  "profileAlternative": {
+    "name": "Mike Byrd",
+    "headline": "Senior SQL Server Engineer at ByrdNest Consulting",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQEGIIbfiLL8Ag/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=USqEHIs6d3lV-J7wAMiksJhBTmY14oA7G73wPxzEc2I",
+    "location": "Austin, Texas Area",
+    "connections": "500+",
+    "summary": "Former rocket scientist and USAF Fighter Pilot -- now a SQL Server geek. Past opportunities include free-lance technical writer for PC Magazine, Senior Software Manager for government sponsored munitions effectiveness committee, and IT Director for Texas Windstorm Insurance Association (9 years), Currently senior database consultant for several companies. Presenter at many SQL Saturdays in US, Europe, and Australia. Ideal job is sproc and query performance tuning or TSQL instruction\n\nSpecialties\nSQL Server performance tuning; database (OLTP & OLAP) architecture; trouble-shooting; teaching TSQL (Basic through Advanced).\n\nVideo presentations (for local SQL Server user groups or SQL Saturdays) can be found at http://usergroup.tv/videos/category/speaker/mike-byrd\n\nLooking only for part-time or short-time opportunities -- either performance tuning or TSQL training.\n\nAlso City Councilman for Sunrise Beach, TX for 4+ years."
+  },
+  "aboutAlternative": {
+    "text": "Former rocket scientist and USAF Fighter Pilot -- now a SQL Server geek. Past opportunities include free-lance technical writer for PC Magazine, Senior Software Manager for government sponsored munitions effectiveness committee, and IT Director for Texas Windstorm Insurance Association (9 years), Currently senior database consultant for several companies. Presenter at many SQL Saturdays in US, Europe, and Australia. Ideal job is sproc and query performance tuning or TSQL instruction\n\nSpecialties\nSQL Server performance tuning; database (OLTP & OLAP) architecture; trouble-shooting; teaching TSQL (Basic through Advanced).\n\nVideo presentations (for local SQL Server user groups or SQL Saturdays) can be found at http://usergroup.tv/videos/category/speaker/mike-byrd\n\nLooking only for part-time or short-time opportunities -- either performance tuning or TSQL training.\n\nAlso City Councilman for Sunrise Beach, TX for 4+ years."
+  },
+  "positions": [
+    {
+      "title": "Senior Database Engineer",
+      "companyName": "ByrdNest Consulting",
+      "location": "Sunrise Beach, Texas",
+      "description": "Senior SQL Server Database Engineer. Specialize in performance tuning and database maintenance. Current in SQL Server 2017, 2016, 2014, 2012, SQL 2008R2, and SQL2005. Presented many SQL Saturday presentations at Austin, Baton Rouge, Denver, Dallas, Houston, Oklahoma City, South Florida, Tampa, Colorado Springs, Phoenix, Gothenburg, Oslo, Bucharest, and Sydney. Currently consulting for several Austin based software companies. Also working up new data architecture and implementation plan for Daughters of Republic of Texas system. Have presented multiple TSQL training courses ranging from Basic TSQL to Advanced TSQL and Performance Tuning in Austin and Dallas. Taught SQL Saturday Precon on TSQL in Dallas.",
+      "date1": "1988 – Present",
+      "date2": "31 yrs"
+    },
+    {
+      "title": "Senior Database Developer",
+      "companyName": "Newgistics, Inc.",
+      "location": "Austin, Texas",
+      "description": "Extensive OLTP database architecture and object performance tuning for SQL Server 2008R2 and SQL Server 2005. Implemented and maintained Optim database archiving and data purging scripts.",
+      "date1": "Jun 2007 – Feb 2012",
+      "date2": "4 yrs 9 mos"
+    },
+    {
+      "title": "SQL Server DBA Developer",
+      "companyName": "Multi-Media Games",
+      "description": "Extensive performance tuning, data reconcilation, and database architecture, revision, and updating.",
+      "date1": "Jul 2006 – Jun 2007",
+      "date2": "1 yr"
+    },
+    {
+      "title": "Data Warehouse Architect",
+      "companyName": "Synergistic Solutions Technology, Inc",
+      "description": "Extensive performance tuning, data architecture, business objects report implementation, and data analysis and reconcilation,",
+      "date1": "Mar 2004 – Jun 2006",
+      "date2": "2 yrs 4 mos"
+    },
+    {
+      "title": "Director, Information Technology",
+      "companyName": "Texas Windstorm Insurance Association",
+      "location": "Austin, Texas",
+      "description": "IT Director for 10 person team supporting claims, underwriting, and accounting departments. Project Manager for new insurance system rated by outside consultants as best they had ever seen. This insurance system was based on SQL Server database using Borland's Delphi as a client server application. Managed project to provide web based policy quote system for Texas insurance agents.",
+      "date1": "Aug 1994 – Dec 2003",
+      "date2": "9 yrs 5 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "The University of Texas at Austin",
+      "degree": "BS-ASE",
+      "fieldofstudy": "Aero-Space Engineering",
+      "date1": "1962",
+      "date2": "1966"
+    },
+    {
+      "title": "Purdue University",
+      "degree": "MSE",
+      "fieldofstudy": "Rocket Propulsion",
+      "date1": "1966",
+      "date2": "1968"
+    },
+    {
+      "title": "Southern Methodist University",
+      "degree": "MS",
+      "fieldofstudy": "Systems Engineering",
+      "date1": "1970",
+      "date2": "1971"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Database Design",
+      "count": "42"
+    },
+    {
+      "title": "Microsoft SQL Server",
+      "count": "41"
+    },
+    {
+      "title": "Databases",
+      "count": "40"
+    },
+    {
+      "title": "Data Warehousing",
+      "count": "33"
+    },
+    {
+      "title": "Performance Tuning",
+      "count": "24"
+    },
+    {
+      "title": "Business Intelligence",
+      "count": "10"
+    },
+    {
+      "title": "Data Modeling",
+      "count": "9"
+    },
+    {
+      "title": "Database Administration",
+      "count": "9"
+    },
+    {
+      "title": "ETL",
+      "count": "7"
+    },
+    {
+      "title": "Architecture",
+      "count": "5"
+    },
+    {
+      "title": "Enterprise Architecture",
+      "count": "3"
+    },
+    {
+      "title": "Troubleshooting",
+      "count": "2"
+    },
+    {
+      "title": "Disaster Recovery",
+      "count": "2"
+    },
+    {
+      "title": "Data Integration",
+      "count": "1"
+    },
+    {
+      "title": "Agile Methodologies",
+      "count": "1"
+    },
+    {
+      "title": "High Availability",
+      "count": "1"
+    },
+    {
+      "title": "Data Migration",
+      "count": "1"
+    },
+    {
+      "title": "IT Operations",
+      "count": "1"
+    },
+    {
+      "title": "Command",
+      "count": "1"
+    },
+    {
+      "title": "Extract, Transform, Load (ETL)"
+    },
+    {
+      "title": "T-SQL",
+      "count": "34"
+    },
+    {
+      "title": "SQL",
+      "count": "22"
+    },
+    {
+      "title": "SSRS",
+      "count": "6"
+    },
+    {
+      "title": "Relational Databases",
+      "count": "6"
+    },
+    {
+      "title": "Visual Basic",
+      "count": "5"
+    },
+    {
+      "title": "SSIS",
+      "count": "4"
+    },
+    {
+      "title": "Transact-SQL (T-SQL)",
+      "count": "4"
+    },
+    {
+      "title": "TFS",
+      "count": "1"
+    },
+    {
+      "title": "IIS",
+      "count": "1"
+    },
+    {
+      "title": "VB.NET",
+      "count": "1"
+    },
+    {
+      "title": "XSLT",
+      "count": "1"
+    },
+    {
+      "title": "XML",
+      "count": "1"
+    },
+    {
+      "title": "Visual Studio",
+      "count": "1"
+    },
+    {
+      "title": "SQL Server"
+    },
+    {
+      "title": "SQL Tuning",
+      "count": "18"
+    },
+    {
+      "title": "OLAP",
+      "count": "7"
+    },
+    {
+      "title": "OLTP",
+      "count": "4"
+    },
+    {
+      "title": "Stored Procedures",
+      "count": "4"
+    },
+    {
+      "title": "Data Architecture",
+      "count": "3"
+    },
+    {
+      "title": "Replication",
+      "count": "3"
+    },
+    {
+      "title": "Analysis Services",
+      "count": "3"
+    },
+    {
+      "title": "Partition",
+      "count": "2"
+    },
+    {
+      "title": "DTS",
+      "count": "2"
+    },
+    {
+      "title": "Data Warehouse Architecture",
+      "count": "2"
+    },
+    {
+      "title": "Data Marts",
+      "count": "1"
+    },
+    {
+      "title": "VLDB",
+      "count": "1"
+    },
+    {
+      "title": "Log Shipping",
+      "count": "1"
+    },
+    {
+      "title": "Dimensional Modeling",
+      "count": "1"
+    },
+    {
+      "title": "Partitioning"
+    },
+    {
+      "title": "SQL Server 2000-2008"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "5",
+    "receivedCount": "6",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/chris-rios-b839437/",
+        "text": "Mike and I were colleagues at Newgistics and although we were not members of the same department, we collaborated-on and executed many projects together. My role as a Transportation Manager required implementing changes to the network, which required changes to business management tools and systems of record, and Mike was a key player in writing the scripts and implementing the code for such changes. During my 12 year tenure at my current employer I've interacted with Mike and many other developers while working on projects and through the process I have never understood the various coding languages, such as SQL, which I've witnessed while collaborating with them. However, this year I decided to take the plunge and advance my data analytics skills by leveraging Mike's experience, and his consulting skills, through the form of a T-SQL mentoring course. Mike helped me to dive headfirst into the world of SQL and gain a fundamental understanding of the language. Mike was very flexible in setting a course schedule to fit my personal needs and we were able to meet twice a week for about 1.5 hours at a time via an online session, where I was able to observe his training tools, demos, etc. and interact at a very personal level with him, along with a small group of classmates. Thankfully, these days I'm able to work in SQL on a regular basis by writing and executing queries as well as interact with developers and actually have a solid understanding of the information we review together. I couldn't say thanks enough... but I'll say it anyway... Thanks Mike!\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/troyvinson/",
+        "text": "Over the time that I have worked with Mike, he has provided professional services for database administration and engineering. His experience and thoughtful problem-solving have been invaluable for the successful completion of several projects we have worked on together as consultants for the same client. Mike is responsive in all situations and quickly provides solutions that fit the immediate requirements and are also considerate of future need. Mike is also a friendly guy and really nice to work with.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/gmercier/",
+        "text": "I have had the pleasure to work with Mike for more than a decade now as both a fellow employee and contractor. Mike brings a world of database expertise to the table that is quite addictive to managers and fellow technical staff. The first thing I did when Mike retired from Newgistics was to line him up as a contractor and keep him contributing to our success. I have now used Mike on more projects than I can remember and he always delivers. I never bring in Mike for the easy stuff. Because of his skill set we use him for some of our most complex SQL projects. Mike has a solid reputation with our business managers and our technical staff and we are always confident he will get the job done. I highly recommend him for SQL training, any SQL development and project management. Just don't use him to much as I still need him.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/gmercier/",
+        "text": "I have worked with Mike for 5 years. During that time I have always been very impressed with Mile's range of technical skills. He is qute an expert with all things SQL Server. Mike is a consomate prefessional who spends endless hours working to keep his skills at the bleeding edge. He is always willing to share his knowledge with teammates and I have yet to find a problem he could not solve. I am a better DBA for having worked with him.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/lorenparker/",
+        "text": "Mike is the sort of resource that many would only hope of acquiring. He is quite unique. Mike couples a level of Individual Contribution (IC) that few folks who have not yet been managers can completely appreciate. Mike is a complete system - capable of managing himslef and creating a framework for those that follow behind him. When Mike left MGAM, I assumed his work with little trouble due to Mike's great documentation and visual documentation. Mike would be an asset to any dev team with DEEP technical expertise and a willingness to apply himself to the problem at hand.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/jeffmaass/",
+        "text": "Mike is a guy you can count on. He gives a full days work everyday. As a fellow DBA, I can say that his technical insight into MS SQL Server is superb. His philosophy on database design is born of both practicality and practice. At the same time, Mike is a very sociable person. He interacts well with everyone including the technocrats, the bureaucrats, the executives and all those in between.\n…\nSee more"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/gwen-gamblin/",
+        "text": "Gwen is as close to the perfect employee you can get.  She is always there and resolves any issues before you.  She is a pleasure to work with and gets the job done.  Every task I assigned her she completed usually ahead of schedule and with foresight of thinking outside the box.  I'd hire her back in a second!"
+      },
+      {
+        "user": "https://www.linkedin.com/in/alex-sinko-300b1921/",
+        "text": "Alex has been working for my Consulting Company for several months.  He is highly motivated and dependable.  He is a self-starter and completes all tasks with minimal supervision.  He is quick to grasp complete business logic and implement via Microsoft SQL Server stored procedures.  A go-getter!"
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "1",
+      "items": [
+        "Sunrise Beach Village, Texas"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/kevin3nf/",
+      "text": "My team does vacation coverage so your DBA can enjoy the beach!"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sean-williams-1a069185/",
+      "text": "Engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jianfei-xiao-588a4610/",
+      "text": "Senior Database Administrator at Federal Reserve Bank of Dallas"
+    },
+    {
+      "user": "https://www.linkedin.com/in/prabhat-varma-142767/",
+      "text": "Vice President, Sales"
+    },
+    {
+      "user": "https://www.linkedin.com/in/christhompsonfoot/",
+      "text": "Helping clients to fully leverage RadixBay’s expertise and broad range of enterprise-grade IT solutions."
+    },
+    {
+      "user": "https://www.linkedin.com/in/rukhsana-sathe-88454627/",
+      "text": "Development Manager at Academic Partnerships"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ganapathi-venkatesh-996a4518/",
+      "text": "Product Manager at Supreme Golf"
+    },
+    {
+      "user": "https://www.linkedin.com/in/stacykissam/",
+      "text": "Inside Account Manager"
+    },
+    {
+      "user": "https://www.linkedin.com/in/robert-thornton-942a348/",
+      "text": "Vice President, Information Management at Academic Partnerships"
+    },
+    {
+      "user": "https://www.linkedin.com/in/henry-honore-96577552/",
+      "text": "DBA at Southwest Airlines"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Database Consultant",
+      "experience": "Daughters of the Republic of Texas Library",
+      "description": "Education",
+      "date1": "Aug 2013",
+      "date2": "1 mo"
+    }
+  ],
+  "profile": {
+    "name": "Mike Byrd",
+    "headline": "Senior SQL Server Engineer at ByrdNest Consulting",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQEGIIbfiLL8Ag/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=USqEHIs6d3lV-J7wAMiksJhBTmY14oA7G73wPxzEc2I",
+    "location": "Austin, Texas Area",
+    "connections": "500+",
+    "summary": "Former rocket scientist and USAF Fighter Pilot -- now a SQL Server geek. Past opportunities include free-lance technical writer for PC Magazine, Senior Software Manager for government sponsored munitions effectiveness committee, and IT Director for Texas Windstorm Insurance Association (9 years), Currently senior database consultant for several companies. Presenter at many SQL Saturdays in US, Europe, and Australia. Ideal job is sproc and query performance tuning or TSQL instruction\n\nSpecialties\nSQL Server performance tuning; database (OLTP & OLAP) architecture; trouble-shooting; teaching TSQL (Basic through Advanced).\n\nVideo presentations (for local SQL Server user groups or SQL Saturdays) can be found at http://usergroup.tv/videos/category/speaker/mike-byrd\n\nLooking only for part-time or short-time opportunities -- either performance tuning or TSQL training.\n\nAlso City Councilman for Sunrise Beach, TX for 4+ years."
+  }
+}

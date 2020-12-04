@@ -1,0 +1,260 @@
+{
+  "profileAlternative": {
+    "name": "Vladimir Venediktov",
+    "headline": "Senior C++ Developer",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQHjdXTfCBrvFQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=FgFGPeqlegiJz7B3kXpuTmnDe6j7Kdzf9nrgyrybgao",
+    "location": "Newport Beach, California",
+    "connections": "301",
+    "summary": "Trading technology , Real-time bidding , ad-tech , fin-tech , Golang, Java8, C++11/14/17, Boost , meta-programming , threads, fibers, IPC , TCP/IP , UDP , kernel, Docker, CI/CD, Git , Blockchains, EOSIO, WebAssembly, Clang, LLVM"
+  },
+  "aboutAlternative": {
+    "text": "Trading technology , Real-time bidding , ad-tech , fin-tech , Golang, Java8, C++11/14/17, Boost , meta-programming , threads, fibers, IPC , TCP/IP , UDP , kernel, Docker, CI/CD, Git , Blockchains, EOSIO, WebAssembly, Clang, LLVM"
+  },
+  "positions": [
+    {
+      "title": "PIMCO",
+      "location": "Newport Beach",
+      "date1": "Mar 2010 – Jan 2019",
+      "date2": "8 yrs 11 mos",
+      "roles": [
+        {
+          "title": "Senior C++ Developer",
+          "date1": "Mar 2010 – Jan 2019",
+          "date2": "8 yrs 11 mos",
+          "location": "Newport Beach"
+        },
+        {
+          "title": "Senior Software Engineer",
+          "date1": "Mar 2010 – Jan 2019",
+          "date2": "8 yrs 11 mos",
+          "location": "Newport Beach"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSenior C++ Developer",
+      "location": "Newport Beach",
+      "date1": "Mar 2010 – Jan 2019",
+      "date2": "8 yrs 11 mos",
+      "roles": [
+        {
+          "title": "Senior C++ Developer",
+          "date1": "Mar 2010 – Jan 2019",
+          "date2": "8 yrs 11 mos",
+          "location": "Newport Beach"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSenior Software Engineer",
+      "location": "Newport Beach",
+      "date1": "Mar 2010 – Jan 2019",
+      "date2": "8 yrs 11 mos",
+      "roles": [
+        {
+          "title": "Senior Software Engineer",
+          "date1": "Mar 2010 – Jan 2019",
+          "date2": "8 yrs 11 mos",
+          "location": "Newport Beach"
+        }
+      ]
+    },
+    {
+      "title": "Vice President",
+      "companyName": "Instinet Incorporated",
+      "location": "San Francisco Bay Area",
+      "date1": "Mar 2009 – Mar 2010",
+      "date2": "1 yr 1 mo"
+    },
+    {
+      "title": "Trading Systems Senior Developer",
+      "companyName": "UBS AG",
+      "location": "Zürich Area, Switzerland",
+      "date1": "Sep 2006 – Mar 2009",
+      "date2": "2 yrs 7 mos"
+    },
+    {
+      "title": "Senior Java Developer at UBS",
+      "companyName": "Swisslinx AG",
+      "location": "Zürich Area, Switzerland",
+      "date1": "2006 – 2009",
+      "date2": "3 yrs"
+    },
+    {
+      "title": "Trading Systems Senior Developer",
+      "companyName": "Capital Group | American Funds",
+      "location": "Brea , California",
+      "date1": "Sep 2005 – Sep 2006",
+      "date2": "1 yr 1 mo"
+    },
+    {
+      "title": "Reuters",
+      "location": "El Segundo, California",
+      "date1": "2000 – 2005",
+      "date2": "5 yrs",
+      "roles": [
+        {
+          "title": "Market Data Senior Engineer",
+          "date1": "2000 – 2005",
+          "date2": "5 yrs",
+          "location": "El Segundo, California"
+        },
+        {
+          "title": "Market Data Software Developer",
+          "date1": "2000 – 2005",
+          "date2": "5 yrs"
+        }
+      ]
+    },
+    {
+      "title": "Title\nMarket Data Senior Engineer",
+      "location": "El Segundo, California",
+      "date1": "2000 – 2005",
+      "date2": "5 yrs",
+      "roles": [
+        {
+          "title": "Market Data Senior Engineer",
+          "date1": "2000 – 2005",
+          "date2": "5 yrs",
+          "location": "El Segundo, California"
+        }
+      ]
+    },
+    {
+      "title": "Title\nMarket Data Software Developer",
+      "date1": "2000 – 2005",
+      "date2": "5 yrs",
+      "roles": [
+        {
+          "title": "Market Data Software Developer",
+          "date1": "2000 – 2005",
+          "date2": "5 yrs"
+        }
+      ]
+    },
+    {
+      "title": "Programmer",
+      "companyName": "ITN",
+      "date1": "1999 – 2000",
+      "date2": "1 yr"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Saint Petersburg State Electrotechnical University \"LETI\"",
+      "degree": "Master's Degree",
+      "fieldofstudy": "Radio, Television, and Digital Communication",
+      "date1": "1988",
+      "date2": "1994"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Trading Systems",
+      "count": "30"
+    },
+    {
+      "title": "Market Data",
+      "count": "23"
+    },
+    {
+      "title": "Electronic Trading",
+      "count": "14"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "5",
+    "receivedCount": "2",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/sohebafghen/",
+        "text": "Vladimir is a very hard working and enthusiastic person. I had the opportunity to work with him for a very important application in UBS. He gives his 100% in whatever he takes up and is always willing to help out others too. He created a very friendly working environment and made sure the collaboration between the development and QA team was very smooth. I wish him all the best in his future endeavors.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/markdowsettemea/",
+        "text": "Vladimir consistently produced high quality work in a complex, high-pressure environment for our client, for which we received strong feedback. I would not hesitate to recommend his services."
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/robin-nicholson-21a743/",
+        "text": "I had pleasure to utilize Robin's infrastructure libraries namely multi index cache API and many other cool and well designed structures and algorithms.\r\nRobin is a real pro when it comes to C++ , C++11 , UNIX OS. I am so lucky I had a chance to read his solutions , it made me a much better programmer and basically inspired me to learn meta-programming and other advance features of C++ .\r\nI have only met 3 people of his caliber in my entire career. Highly recommend for \r\nRobin for any project."
+      },
+      {
+        "user": "https://www.linkedin.com/in/sohebafghen/",
+        "text": "I have worked with Soheb on several occasions , he performed quality assurance work in my project, some of what was functional and non-functional testing of our product. He is a one of a kind Test Analyst who strives for perfection and achieves it by applying his best knowledge\r\nand persistence. His vast knowledge of all applications withing the Bank\r\nwas extremely helpful for us in understanding where the problem have actually occurred.  He has a neat appearance, he is methodical and polite . I would highly recommend him to anyone looking for high quality Analysts."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "5",
+      "items": [
+        "Code Generators and Extensions for VanillaRTB stack",
+        "VanillaRTB - Real Time Bidding (RTB) - Demand Side Platform framework",
+        "C++11 Restful framework",
+        "multi platform cross language multi index cache ( a.k.a MPCLMI CACHE )",
+        "C++11/Boost"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "English",
+        "German",
+        "Russian"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/vivian-angelino-corbett-36970a3/",
+      "text": "Advanced Certified Scrum Master (A-CSM)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/chrisrackauckas/",
+      "text": "Applied Mathematics Instructor at Massachusetts Institute of Technology"
+    },
+    {
+      "user": "https://www.linkedin.com/in/iris-zeng/",
+      "text": "Software Engineer at Microsoft"
+    },
+    {
+      "user": "https://www.linkedin.com/in/khangvt/",
+      "text": "Software Consultant at Apex Systems"
+    },
+    {
+      "user": "https://www.linkedin.com/in/douglas-wallis-28042/",
+      "text": "Manager at Lufthansa Technik"
+    },
+    {
+      "user": "https://www.linkedin.com/in/stanley-lee-55432a3/",
+      "text": "Principal Software Engineer at The Boeing Company"
+    },
+    {
+      "user": "https://www.linkedin.com/in/pamelasuesmith17/",
+      "text": "Project Coordinator at Family-Engaged Learning"
+    },
+    {
+      "user": "https://www.linkedin.com/in/duy-nguyen-a296973/",
+      "text": "Business Intelligence and Data Engineering champion"
+    },
+    {
+      "user": "https://www.linkedin.com/in/maryam-mostafavi-035a7116/",
+      "text": "Java Developer at Guardtime"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shawnee-anno-780775b/",
+      "text": "Client Services Project Manager at MarcomCentral"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Vladimir Venediktov",
+    "headline": "Senior C++ Developer",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQHjdXTfCBrvFQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=FgFGPeqlegiJz7B3kXpuTmnDe6j7Kdzf9nrgyrybgao",
+    "location": "Newport Beach, California",
+    "connections": "301",
+    "summary": "Trading technology , Real-time bidding , ad-tech , fin-tech , Golang, Java8, C++11/14/17, Boost , meta-programming , threads, fibers, IPC , TCP/IP , UDP , kernel, Docker, CI/CD, Git , Blockchains, EOSIO, WebAssembly, Clang, LLVM"
+  }
+}

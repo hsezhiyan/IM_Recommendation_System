@@ -1,0 +1,252 @@
+{
+  "profileAlternative": {
+    "name": "Christopher Judd",
+    "headline": "Chief Technical Officer (CTO) and Partner at Manifest Solutions, Java Champion, Author, Speaker, Consultant",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQHl_5AwFKBnFg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=zOyDZimYdmIDfcc4KAlwnl6cDpBslDyy5F2MCMmJfj4",
+    "location": "Columbus, Ohio",
+    "connections": "500+",
+    "summary": "Christopher Judd is the CTO and a partner at Manifest Solutions (http://www.manifestcorp.com), an international speaker, an open source evangelist, the Central Ohio Java Users Group (http://www.cojug.org) and Columbus iPhone Developer User Group leader, and the co-author of Beginning Groovy and Grails (Apress, 2008), Enterprise Java Development on a Budget (Apress, 2003) and Pro Eclipse JST (Apress, 2005) as well as the author of the children’s book “Bearable Moments”. He has spent 18 years architecting and developing software for Fortune 500 companies in various industries, including insurance, retail, government, manufacturing, service, and transportation. His current focus is on consulting, mentoring, and training with Java, Java EE, Groovy, Grails, Cloud Computing and mobile platforms like iPhone, Android and Java ME.\n\nSpecialties: Java, Java EE, Java ME, Groovy, Grails, Mobile, Eclipse, WebSphere, JBoss, WebLogic, Tomcat, mentoring, training, iPhone, iOS, Objective-C, Android, Amazon Web Services, Hadoop, SAML, Elastic Search, Kibana, Logstash, Solr, Azure"
+  },
+  "aboutAlternative": {
+    "text": "Christopher Judd is the CTO and a partner at Manifest Solutions (http://www.manifestcorp.com), an international speaker, an open source evangelist, the Central Ohio Java Users Group (http://www.cojug.org) and Columbus iPhone Developer User Group leader, and the co-author of Beginning Groovy and Grails (Apress, 2008), Enterprise Java Development on a Budget (Apress, 2003) and Pro Eclipse JST (Apress, 2005) as well as the author of the children’s book “Bearable Moments”. He has spent 18 years architecting and developing software for Fortune 500 companies in various industries, including insurance, retail, government, manufacturing, service, and transportation. His current focus is on consulting, mentoring, and training with Java, Java EE, Groovy, Grails, Cloud Computing and mobile platforms like iPhone, Android and Java ME.\n\nSpecialties: Java, Java EE, Java ME, Groovy, Grails, Mobile, Eclipse, WebSphere, JBoss, WebLogic, Tomcat, mentoring, training, iPhone, iOS, Objective-C, Android, Amazon Web Services, Hadoop, SAML, Elastic Search, Kibana, Logstash, Solr, Azure"
+  },
+  "positions": [
+    {
+      "title": "Chief Technical Officer (CTO)/Partner",
+      "companyName": "Manifest Solutions",
+      "date1": "Mar 2013 – Present",
+      "date2": "6 yrs 9 mos"
+    },
+    {
+      "title": "Consultant",
+      "companyName": "IQ Innovations, LLC",
+      "location": "Columbus, Ohio Area",
+      "date1": "Mar 2011 – Jul 2018",
+      "date2": "7 yrs 5 mos"
+    },
+    {
+      "title": "President/Consultant/Author",
+      "companyName": "Judd Solutions, LLC",
+      "date1": "Jan 2001 – Mar 2013",
+      "date2": "12 yrs 3 mos"
+    },
+    {
+      "title": "Consultant",
+      "companyName": "Rampart Hosting",
+      "date1": "Mar 2011 – Dec 2012",
+      "date2": "1 yr 10 mos"
+    },
+    {
+      "title": "Mobile Development Consultant",
+      "companyName": "eTech Ohio",
+      "description": "Developed the Remarkable Ohio and USO applications for the iPhone and Android platforms.",
+      "date1": "Dec 2009 – Jun 2011",
+      "date2": "1 yr 7 mos"
+    },
+    {
+      "title": "Consultant",
+      "companyName": "Nationwide Insurance",
+      "description": "Architected and developed a sales and servicing application as well as a product modeler build on the Eclipse platform based on the IBM Insurance Application Architecture (IAA) using Java, JEE, WebSphere, Rational Software Architect, DB2 and lots of mainframe integration.\n\nIn addition, I lead a CMMI Level 3 agile development center team in supporting and enhancing Nationwide Financial pensions, individual annuities and variable life applications. As a part of my responsibilities I also acted as a test driven development (TDD) coach for the department and had an opportunity to pair program with over 30 developers to help them learn and imbrace TDD.\n…\nsee more",
+      "date1": "Aug 2004 – Mar 2011",
+      "date2": "6 yrs 8 mos"
+    },
+    {
+      "title": "Consultant",
+      "companyName": "Manifest Solutions",
+      "date1": "2004 – 2011",
+      "date2": "7 yrs"
+    },
+    {
+      "title": "Consultant",
+      "companyName": "Cintas",
+      "description": "Architected and developed an application for servicing Cintas' document management line of business using WebLogic, JBuilder, Struts, Together and SQL Server.",
+      "date1": "Jun 2003 – Sep 2004",
+      "date2": "1 yr 4 mos"
+    },
+    {
+      "title": "Senior Consultant",
+      "companyName": "Pillar Technology",
+      "date1": "2002 – 2004",
+      "date2": "2 yrs"
+    },
+    {
+      "title": "Consultant",
+      "companyName": "Cinergy",
+      "description": "Architected and developed a mobile J2ME based work order application which used web services to communicate with an existing web based application.",
+      "date1": "Feb 2003 – May 2003",
+      "date2": "4 mos"
+    },
+    {
+      "title": "Consultant",
+      "companyName": "Mettler Toledo",
+      "description": "Helped deliver a multilingual catalog web site.",
+      "date1": "Nov 2002 – Feb 2003",
+      "date2": "4 mos"
+    },
+    {
+      "title": "Consultant & Trainer",
+      "companyName": "Advanced Computing Technical Services (ACTS)",
+      "date1": "Jul 2000 – Jan 2002",
+      "date2": "1 yr 7 mos"
+    },
+    {
+      "title": "Software Engineer",
+      "companyName": "Retail Planning Associates (RPA)",
+      "description": "Developed kiosk software/framework and supporting tools for retails stores like the Adidas store in Macy's New York and the Bell Mobility cell phone stores in Canada.",
+      "date1": "Mar 1999 – Jul 2000",
+      "date2": "1 yr 5 mos"
+    },
+    {
+      "title": "Emerging Technologies Consultant",
+      "companyName": "Compuware Corporation",
+      "date1": "1997 – 1998",
+      "date2": "1 yr"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Ashland University",
+      "degree": "BS",
+      "fieldofstudy": "Computer Information Systems",
+      "date1": "1992",
+      "date2": "1996"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Agile Methodologies",
+      "count": "99+"
+    },
+    {
+      "title": "Test Driven Development",
+      "count": "99+"
+    },
+    {
+      "title": "Java",
+      "count": "99+"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "16",
+    "receivedCount": "8",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/matthewbrislin/",
+        "text": "Chris is always available for answering questions and assisting the Project Managers with understanding the complexity of development tasks. I personally have learned from him and appreciate his help and patience."
+      },
+      {
+        "user": "https://www.linkedin.com/in/krsmes/",
+        "text": "Working with Chris on and off for the past 10+ years has been a pleasure, and I miss it when I don't get to. He challenges those around him, and himself, to be the best at what they do. Chris is a leader, coordinator, peace-maker, and technical super-star all wrapped up in one. If you ever get the opportunity to work with Chris on a project, don't miss out! Highly recommended.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/elangonarayanasamy/",
+        "text": "\"I came to know about Chris back in 2002 as a trainer. He conducted a training program \"J2EE for Managers\" for us in our consulting company. I was pretty much impressed by the depth of knowledge he possesses in Java/J2EE environment. Later on in 2007, I when I started attending the Central Ohio Java User Group (COJUG) seminars, came to know about him as the COJUG facilitator. There I became aware of his amazing breadth of knowledge as well. He is also an ardent initiator and supporter of J2ME and iPhone App Development User group, Central Ohio iPhone Development User Group (CIDUG). Then last October 2008, I bumped into him in our office as an Agile evangelist mentoring our developers into Test Driven Development, Pair Programming, so on and so forth. I have learnt a lot of Code Management techniques using tools like Subversion, Maven and Hudson (Continuous Integration). Chris is a personable expert of good value. He is a person of high integerity. And he is creative and delivers great results on time. I wish him all the success!\"\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/bjallmon/",
+        "text": "Chris Judd is by far one of the most senior software consultants I've ever worked with. Coupled with his friendly personality and technical expertise, Chris is a natural mentor. (I've learned much from Chris myself) Companies always benefit from having Chris on-board and tend to make Chris the \"go-to\" guy when tough technical decisions need to be made or discussed. Chris is a trusted advisor in the work place because he knows how to work smart and is trustworthy.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/davidnessl/",
+        "text": "Having worked with Chris at Nationwide for nearly a year, I found him to have the widest breadth of Java build and frameworks knowledge I've ever run into. He's the go-to guy when anything out of the ordinary needs to get done because Chris already knows it or can pick it up quickly."
+      },
+      {
+        "user": "https://www.linkedin.com/in/taylodl/",
+        "text": "Chris is my go-to guy for all things Java-related. If he doesn't know the answer then odds are he knows who does and will put you through. He's an excellent public speaker as well as an excellent developer and trainer. It's rare to find this much talent in one individual and Chris is one of the best."
+      },
+      {
+        "user": "https://www.linkedin.com/in/sambodden/",
+        "text": "I've worked with Chris on many occasions and I can truly say that I'm a better consultant because of it. Chris' attention to detail and ability to share his knowledge and experience will enrich the quality of any team."
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/zackarychapple/",
+        "text": "Zack is a smart and passionate developer with lots of knowledge about Angular and Bootstrap. He is also a strong promoter of diversity in tech."
+      },
+      {
+        "user": "https://www.linkedin.com/in/danmonroe67/",
+        "text": "Dan is a passionate and knowledgeable software engineer.  He never stops coding whether it is the middle of the night or from his hospital bed. I have seen him lead and deliver large scale efforts that others weren’t even willing to attempt."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "6",
+      "items": [
+        "Beginning Groovy, Grails and Griffon",
+        "Beginning Groovy, Grails and Griffon",
+        "Beginning Groovy and Grails",
+        "Bearable Moments",
+        "Pro Eclipse JST: Plug-ins for J2EE Development",
+        "Enterprise Java Development on a Budget"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "2018 Central Ohio Tech Power Player",
+        "Java Champion",
+        "2014 Columbus Business First's C-Suite Award for CTO"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "English",
+        "German"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/mimi-chizever-1419172/",
+      "text": "Vice President Of Technology Strategy & Innovation at Nationwide"
+    },
+    {
+      "user": "https://www.linkedin.com/in/linda-rasmussen-9012463/",
+      "text": "Director of Client Services"
+    },
+    {
+      "user": "https://www.linkedin.com/in/amit-s-85389915/",
+      "text": "QA lead/Manager"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tiffany-distefano/",
+      "text": "Recruiting Manager at Revel IT (formerly Fast Switch, Ltd.)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/steve-kissel-188152/",
+      "text": "at ComResource"
+    },
+    {
+      "user": "https://www.linkedin.com/in/alan-kutasy-87530617/",
+      "text": "Founder & CEO, Managing Member at Agility Partners"
+    },
+    {
+      "user": "https://www.linkedin.com/in/howard-boggs-33069a/",
+      "text": "Executive Director - Consumer Banking Technology at JPMorgan Chase"
+    },
+    {
+      "user": "https://www.linkedin.com/in/geneoliver/",
+      "text": "Senior Business Executive and Technology Leader"
+    },
+    {
+      "user": "https://www.linkedin.com/in/johndemos/",
+      "text": "Business Development Executive"
+    },
+    {
+      "user": "https://www.linkedin.com/in/joetimmons/",
+      "text": "Regional Manager Google Cloud Professional Services at Google"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Christopher Judd",
+    "headline": "Chief Technical Officer (CTO) and Partner at Manifest Solutions, Java Champion, Author, Speaker, Consultant",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQHl_5AwFKBnFg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=zOyDZimYdmIDfcc4KAlwnl6cDpBslDyy5F2MCMmJfj4",
+    "location": "Columbus, Ohio",
+    "connections": "500+",
+    "summary": "Christopher Judd is the CTO and a partner at Manifest Solutions (http://www.manifestcorp.com), an international speaker, an open source evangelist, the Central Ohio Java Users Group (http://www.cojug.org) and Columbus iPhone Developer User Group leader, and the co-author of Beginning Groovy and Grails (Apress, 2008), Enterprise Java Development on a Budget (Apress, 2003) and Pro Eclipse JST (Apress, 2005) as well as the author of the children’s book “Bearable Moments”. He has spent 18 years architecting and developing software for Fortune 500 companies in various industries, including insurance, retail, government, manufacturing, service, and transportation. His current focus is on consulting, mentoring, and training with Java, Java EE, Groovy, Grails, Cloud Computing and mobile platforms like iPhone, Android and Java ME.\n\nSpecialties: Java, Java EE, Java ME, Groovy, Grails, Mobile, Eclipse, WebSphere, JBoss, WebLogic, Tomcat, mentoring, training, iPhone, iOS, Objective-C, Android, Amazon Web Services, Hadoop, SAML, Elastic Search, Kibana, Logstash, Solr, Azure"
+  }
+}

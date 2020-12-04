@@ -1,0 +1,275 @@
+{
+  "profileAlternative": {
+    "name": "Ryan Powszok",
+    "headline": "Full Stack Javascript Engineer Proficient in React.js, Node.js",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQGrEYv4_CrGSw/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=Kt_ReJtItq-nPcp0Eh8uxZa2UUo3dcu83cK_1p9suEU",
+    "location": "Chicago, Illinois",
+    "connections": "500+",
+    "summary": "Accomplished and forward-thinking professional with 10+ years of demonstrated success in building momentum through entire development lifecycle to ensure solutions and products consistently exceed expectations in profitability and performance. Capable of critically evaluating and responding to rapidly evolving technology environments. Exceptional communicator with ability to translate technically complex ideas to non-technical audiences. Proactive mentor who excels at maximizing individual strengths and driving teams to outstanding performance.\n\nPROFESSIONAL SKILLS\n• Full Stack Web Development & DevOps Methodologies\n• Technology Strategy\n• Cloud Services\n• Process Improvement Technical Innovation Agile/Scrum\n• Cross-Functional Collaboration SEO Development Strategies\n\nTECHNOLOGY PORTFOLIO\nJavaScript; React.js; Angular.js; Vue.js; Backbone.js; jQuery; Ajax; Websockets; Webpack; Gulp.js; Node.js; Express Frameworks; MongoDB; Postgres; Redis; RESTful API; SEO Strategies; Microformats; Metadata; W3C compliance; Accessibility & 508 Compliance; loading speed & performance optimization; cross- browser compatibility; Wordpress; PHP; MySql; HTML; CSS; SCSS; Twitter Bootstrap; Responsive Web Design; Mobile First Methodology; Design Systems; Adobe Creative Suite; Sketch; Git; Agile/Scrum Workflows; DevOps; Docker; Vagrant; AWS; Google Cloud; Linode; Continuous Integration; Build, Delivery, Deployment Automation; Ansible; Terraform; Linux/ Debian; Apache; Nginx; Bash Scripting; Vim; Terminal; Test Driven Development"
+  },
+  "aboutAlternative": {
+    "text": "Accomplished and forward-thinking professional with 10+ years of demonstrated success in building momentum through entire development lifecycle to ensure solutions and products consistently exceed expectations in profitability and performance. Capable of critically evaluating and responding to rapidly evolving technology environments. Exceptional communicator with ability to translate technically complex ideas to non-technical audiences. Proactive mentor who excels at maximizing individual strengths and driving teams to outstanding performance.\n\nPROFESSIONAL SKILLS\n• Full Stack Web Development & DevOps Methodologies\n• Technology Strategy\n• Cloud Services\n• Process Improvement Technical Innovation Agile/Scrum\n• Cross-Functional Collaboration SEO Development Strategies\n\nTECHNOLOGY PORTFOLIO\nJavaScript; React.js; Angular.js; Vue.js; Backbone.js; jQuery; Ajax; Websockets; Webpack; Gulp.js; Node.js; Express Frameworks; MongoDB; Postgres; Redis; RESTful API; SEO Strategies; Microformats; Metadata; W3C compliance; Accessibility & 508 Compliance; loading speed & performance optimization; cross- browser compatibility; Wordpress; PHP; MySql; HTML; CSS; SCSS; Twitter Bootstrap; Responsive Web Design; Mobile First Methodology; Design Systems; Adobe Creative Suite; Sketch; Git; Agile/Scrum Workflows; DevOps; Docker; Vagrant; AWS; Google Cloud; Linode; Continuous Integration; Build, Delivery, Deployment Automation; Ansible; Terraform; Linux/ Debian; Apache; Nginx; Bash Scripting; Vim; Terminal; Test Driven Development"
+  },
+  "positions": [
+    {
+      "title": "Senior JavaScript Engineer (React.js)",
+      "companyName": "Backstop Solutions Group",
+      "location": "Chicago, IL",
+      "description": "Senior JavaScript Engineer on Backstop's UI Frameworks Team working with React.js, Redux state management and the latest Javascript/ES7 standards. Backstop offers the industry-leading, cloud-based productivity suite to funds of funds, pensions, endowments, foundations, investment consultants, family offices, hedge funds, and private equity firms.",
+      "date1": "Oct 2018 – Present",
+      "date2": "1 yr 2 mos"
+    },
+    {
+      "title": "Owner / Full Stack Developer / Technology Consultant",
+      "companyName": "JukeLabs",
+      "location": "Chicago, IL",
+      "description": "Founded web development services company focused on creating enterprise-responsive web site and complex web applications. Utilize HTML, CSS, JavaScript, and other web-based technologies, as well as Wordpress development. Cultivate and manage relationships with strong network of clients, designers, developers, and industry contractors. Effectively define project requirements and maintain open communication throughout project lifecycle to maximize client satisfaction and retention.\n\nSelected Highlights:\n• Developed new user-friendly websites using HTML, CSS, JavaScript, and custom Wordpress themes for multiple clients including ReviewTrackers, Irrational Labs, and Duke University.\n• Propelled ecommerce sales growth for Spikeball by developing integrated Wordpress and Shopify themes.\n• Heightened online visibility for Ex-Cell Kaiser by skillfully developing new ecommerce website.\n…\nsee more",
+      "date1": "Mar 2011 – Oct 2018",
+      "date2": "7 yrs 8 mos"
+    },
+    {
+      "title": "VSA Partners, Inc",
+      "location": "Chicago, IL",
+      "description": "Full Stack Developer for marketing agency based on deep technical expertise and proven leadership capabilities. Effectively mentored Development Team and provided sound technical guidance across various project requirements. Expertly managed cloud services, such as AWS and Google Cloud, playing key role in project setup to ensure continuous integration and development pipelines.\n\nSelected Highlights:\n• Strategically revamped DevOps methodologies to improve development efficiencies and best practices.\n• Successfully increased Wordpress development efficiency by creating custom Wordpress Theme in line with VSA’s design system; theme was adopted across multiple projects, including clients Arity and Sappi, ultimately resulting in quicker delivery timeframes.\n• Improved development efficiencies by designing custom bash cli tool and custom Vue.js application to automate server provisioning for development projects.\n• Accelerated development lifecycle by automating development tasks through use of AWS Cloud services.\n…\nsee more",
+      "date1": "Mar 2018 – Jul 2018",
+      "date2": "5 mos",
+      "roles": [
+        {
+          "title": "Associate Director of Development",
+          "date1": "Mar 2018 – Jul 2018",
+          "date2": "5 mos",
+          "location": "Chicago, IL"
+        },
+        {
+          "title": "Senior Web Developer",
+          "date1": "Mar 2014 – Mar 2018",
+          "date2": "4 yrs 1 mo",
+          "location": "Chicago, IL"
+        },
+        {
+          "title": "Web Developer",
+          "date1": "Oct 2012 – Mar 2014",
+          "date2": "1 yr 6 mos",
+          "location": "Chicago, IL"
+        }
+      ]
+    },
+    {
+      "title": "Title\nAssociate Director of Development",
+      "location": "Chicago, IL",
+      "description": "Full Stack Developer for marketing agency based on deep technical expertise and proven leadership capabilities. Effectively mentored Development Team and provided sound technical guidance across various project requirements. Expertly managed cloud services, such as AWS and Google Cloud, playing key role in project setup to ensure continuous integration and development pipelines.\n\nSelected Highlights:\n• Strategically revamped DevOps methodologies to improve development efficiencies and best practices.\n• Successfully increased Wordpress development efficiency by creating custom Wordpress Theme in line with VSA’s design system; theme was adopted across multiple projects, including clients Arity and Sappi, ultimately resulting in quicker delivery timeframes.\n• Improved development efficiencies by designing custom bash cli tool and custom Vue.js application to automate server provisioning for development projects.\n• Accelerated development lifecycle by automating development tasks through use of AWS Cloud services.\n…\nsee more",
+      "date1": "Mar 2018 – Jul 2018",
+      "date2": "5 mos",
+      "roles": [
+        {
+          "title": "Associate Director of Development",
+          "date1": "Mar 2018 – Jul 2018",
+          "date2": "5 mos",
+          "location": "Chicago, IL"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSenior Web Developer",
+      "location": "Chicago, IL",
+      "description": "Skillfully developed comprehensive, enterprise-responsive websites using HTML, CSS, JavaScript and other web-based technologies.\n\nSelected Highlights:\n• Improved IBM’s operational efficiencies by using HTML, CSS, and JavaScript/ backbone.js to develop comprehensive employee directory comprised of more than 300,000 employees.\n• Optimized IBM’s sales ideation and collaboration process by developing proprietary sales enablement tool using node.js, JavaScript/backbone.js, and Docker.\n• Skillfully used CSS, JavaScript, and Wordpress to develop innovative enterprise website and state-of-the-art pharmaceutical pipeline for leading biopharmaceutical company.\n…\nsee more",
+      "date1": "Mar 2014 – Mar 2018",
+      "date2": "4 yrs 1 mo",
+      "roles": [
+        {
+          "title": "Senior Web Developer",
+          "date1": "Mar 2014 – Mar 2018",
+          "date2": "4 yrs 1 mo",
+          "location": "Chicago, IL"
+        }
+      ]
+    },
+    {
+      "title": "Title\nWeb Developer",
+      "location": "Chicago, IL",
+      "date1": "Oct 2012 – Mar 2014",
+      "date2": "1 yr 6 mos",
+      "roles": [
+        {
+          "title": "Web Developer",
+          "date1": "Oct 2012 – Mar 2014",
+          "date2": "1 yr 6 mos",
+          "location": "Chicago, IL"
+        }
+      ]
+    },
+    {
+      "title": "Partner / Developer / Creative Director",
+      "companyName": "Lakeshore Branding",
+      "location": "Chicago, IL",
+      "description": "Directed development operations for internet marketing company specializing in Search Engine Marketing, SEO, Social Media, Reputation Management and Interactive Marketing.\n\nSelected Highlights:\n• Skillfully utilized web-based technologies including HTML, CSS, and JavaScript to design and develop compelling and user friendly enterprise web sites.\n• Creatively conceptualized and developed prototype designs into fully functional websites including brochure and ecommerce websites.\n…\nsee more",
+      "date1": "Sep 2008 – Mar 2011",
+      "date2": "2 yrs 7 mos"
+    },
+    {
+      "title": "Front End Developer",
+      "companyName": "TravelCLICK",
+      "location": "Schaumburg, IL",
+      "description": "Developed design concepts and graphical elements using CSS and HTML for hospital industry leader, including reservations, business intelligence, and web products and services.\n\nSelected Highlights:\n• Developed website frontend coding for Hospitality CMS platform.\n…\nsee more",
+      "date1": "Jun 2008 – Sep 2008",
+      "date2": "4 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "DePaul University",
+      "degree": "Bachelor of Science in Commerce",
+      "fieldofstudy": "Marketing",
+      "date1": "2005",
+      "date2": "2008"
+    },
+    {
+      "title": "Harper College",
+      "date1": "2003",
+      "date2": "2005"
+    },
+    {
+      "title": "Hoffman Estates High School",
+      "date1": "1998",
+      "date2": "2003"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Full-Stack Development",
+      "count": "2"
+    },
+    {
+      "title": "JavaScript",
+      "count": "2"
+    },
+    {
+      "title": "Web Development",
+      "count": "20"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "2",
+    "receivedCount": "9",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/tobidevito/",
+        "text": "Ryan is the Swiss Army knife of developers. He has been on two different product teams with me, and each time performed above and beyond. His eye is always on improving the efficiency of a stack—he will always leave a code base cleaner than when he found it. Ryan is always a versatile contribution to any engineering team."
+      },
+      {
+        "user": "https://www.linkedin.com/in/jkordylewski/",
+        "text": "Ryan excels at all aspects of web development, covering Front-End, Back-End and DevOps. While he is a true Full-Stack developer it was his interest in DevOps that was instrumental in establishing a DevOps workflow at VSA. Additionally Ryan's skillset and previous experience with Wordpress and PHP were pivotal in establishing a framework and efficient delivery method for one on VSA's key offerings. Ryan is also great at fielding communications from all departments across Development, IT, Project Management and Design, a frequent and vital requirement of his role as Associate Director of Development. Ryan is a great asset to any team and I would welcome the opportunity to work with him again.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/scotttheisen/",
+        "text": "I worked with Ryan on product teams for several years, building corporate websites and complex web apps. Ryan always managed to think ahead while addressing the immediate issues. I know he worked extra time in order to make sure that implementations were considered, functional and with clean beautiful code. The desire and ability to do what is right, while balancing what is urgent is always welcome. If, like Ryan you can do it with a winning can-do attitude, you've got a winner. I always appreciated his honest opinion and his desire to make things better.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/morganwaller/",
+        "text": "Ryan is a unique talent and rare find! In my Marketing/Comms role, Ryan was crucial to building our corporate enterprise website, along with CRM tools, newsletters and other digital products. His ability to understand our \"human needs\" (prospecting and client needs), along with the technical side of things (frontend and backend) was always something to be appreciated. He was an excellent communicator, asked the right questions, and ultimately helped my team meet goals. I'd work with Ryan again in a heartbeat!\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/andrewrfalconer/",
+        "text": "Ryan is a versatile, curious, and collaborative full stack developer who will quickly make any team better, more efficient and smarter. He was a key member of our Technology team at VSA Partners, where he often took on complex long-term challenges that resulted in utility, value and efficiency for our Development discipline, client work, and the entire agency. Whether it’s consulting with project teams on development and deployment best practices, or working with IT to ensure our environments are aligned with security and operational requirements, Ryan is willing and able to contribute to a wide variety of internal and client scenarios. Ryan is a trusted subject matter expert to client and project stakeholders, providing valuable insight and recommendations for building both front end user experiences and interfaces, and the underlying systems that manage them.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/jay-laplante-4885223/",
+        "text": "Whenever a flare got fired for help, 9/10 times, Ryan was the one to answer the call and fix the issue, even if it was on a project he had nothing to do with. When resourcing projects, it wasn't uncommon to hear, \"This needs two developers, or one Ryan.\" He's dedicated, self-motivated, and willing to take on any challenge. In the increasingly rare occurrence that he doesn't know something, he quickly becomes expert, whether it's a front end issue, a new integration, or dev ops.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/andrewdaydesign/",
+        "text": "As a leader and a developer, Ryan offers not just a broad understanding of platforms, services, and performance – but some deep critical thinking and the ability to build efficient, intuitive user experiences. Clients trusted his instincts and appreciated his ability to explain complex matters in a straightforward way. Peers respected his seemingly endless knowledge of code, ops, and modern deployments. Designers benefited from his constructive collaboration, consideration of multiple approaches, and the ability to produce consistently high-fidelity work. Ryan's great, a truly versatile guy. You'll want him on your team.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/michaelsullivaniii/",
+        "text": "Ryan was great to work with and went the extra mile to make sure the developments we were working on turned out successfully. Ryan worked well with clients, programmers, and other consultants. I would recommend Ryan to anyone in need of his talents."
+      },
+      {
+        "user": "https://www.linkedin.com/in/allisonmanley/",
+        "text": "We hired Ryan and his partner Chris at Lakeshore Branding to help us with several web projects. Ryan was quick to return phone calls, helpful, and stayed flexible under tight deadlines. We appreciate the work and the results he's provided."
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/andrewdaydesign/",
+        "text": "Even in the toughest of situations, I was always impressed with Andrew’s ability to quickly absorb new digital projects and excel in making solid UX recommendations. Andrew’s strong visual design skills nicely compliment his user-experience and architecture role. Andrew is often at the forefront of innovation and effectively communicates his ideas. While working at VSA Partners, I was happy to have Andrew on my project team and enjoyed our time working together."
+      },
+      {
+        "user": "https://www.linkedin.com/in/jay-laplante-4885223/",
+        "text": "Trustworthy. Dependable. Excellent communication skills. These are a few traits I witnessed when working with Jay at VSA Partners. I was particularly impressed by Jay’s ability to motivate and influence his peers while demonstrating strong leadership skills. Jay is truly a valuable asset to his team and knows what it takes to succeed in any given situation."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "1",
+      "items": [
+        "Google IO 2016"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/greg-filipczak/",
+      "text": "Full Stack Developer at NovuHealth"
+    },
+    {
+      "user": "https://www.linkedin.com/in/lucas-helminiak-a59378105/",
+      "text": "Full Stack Javascript and React Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/joscelynjames/",
+      "text": "Full Stack Engineer at Backbone PLM"
+    },
+    {
+      "user": "https://www.linkedin.com/in/brdlysmith/",
+      "text": "Cloud Engineer | AWS - DevOps - CI/CD - Infrastructure Automation - Javascript - React"
+    },
+    {
+      "user": "https://www.linkedin.com/in/austintindle/",
+      "text": "Full Stack Engineer at Backbone PLM"
+    },
+    {
+      "user": "https://www.linkedin.com/in/katechristian/",
+      "text": "Front End Developer | UX Designer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/srikanth-reddy-b50438167/",
+      "text": "Sr. Frontend Developer ll at Expedia Group"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jordansexton/",
+      "text": "Full stack architect, engineer, and founder. React, React Native, Node.js, Ruby, and AWS."
+    },
+    {
+      "user": "https://www.linkedin.com/in/samuel-moon/",
+      "text": "React Developer - Actively Looking"
+    },
+    {
+      "user": "https://www.linkedin.com/in/markangeletti/",
+      "text": "Lead Front-End Software Developer"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Volunteer",
+      "experience": "Chicago Startup Weekend",
+      "date1": "Nov 2010",
+      "date2": "1 mo"
+    },
+    {
+      "title": "Meals from the Heart",
+      "experience": "Ronald McDonald House Charities",
+      "date1": "Jul 2017",
+      "date2": "1 mo"
+    }
+  ],
+  "profile": {
+    "name": "Ryan Powszok",
+    "headline": "Full Stack Javascript Engineer Proficient in React.js, Node.js",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQGrEYv4_CrGSw/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=Kt_ReJtItq-nPcp0Eh8uxZa2UUo3dcu83cK_1p9suEU",
+    "location": "Chicago, Illinois",
+    "connections": "500+",
+    "summary": "Accomplished and forward-thinking professional with 10+ years of demonstrated success in building momentum through entire development lifecycle to ensure solutions and products consistently exceed expectations in profitability and performance. Capable of critically evaluating and responding to rapidly evolving technology environments. Exceptional communicator with ability to translate technically complex ideas to non-technical audiences. Proactive mentor who excels at maximizing individual strengths and driving teams to outstanding performance.\n\nPROFESSIONAL SKILLS\n• Full Stack Web Development & DevOps Methodologies\n• Technology Strategy\n• Cloud Services\n• Process Improvement Technical Innovation Agile/Scrum\n• Cross-Functional Collaboration SEO Development Strategies\n\nTECHNOLOGY PORTFOLIO\nJavaScript; React.js; Angular.js; Vue.js; Backbone.js; jQuery; Ajax; Websockets; Webpack; Gulp.js; Node.js; Express Frameworks; MongoDB; Postgres; Redis; RESTful API; SEO Strategies; Microformats; Metadata; W3C compliance; Accessibility & 508 Compliance; loading speed & performance optimization; cross- browser compatibility; Wordpress; PHP; MySql; HTML; CSS; SCSS; Twitter Bootstrap; Responsive Web Design; Mobile First Methodology; Design Systems; Adobe Creative Suite; Sketch; Git; Agile/Scrum Workflows; DevOps; Docker; Vagrant; AWS; Google Cloud; Linode; Continuous Integration; Build, Delivery, Deployment Automation; Ansible; Terraform; Linux/ Debian; Apache; Nginx; Bash Scripting; Vim; Terminal; Test Driven Development"
+  }
+}

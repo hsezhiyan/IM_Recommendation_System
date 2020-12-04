@@ -1,0 +1,181 @@
+{
+  "profileAlternative": {
+    "name": "Greg Franko",
+    "headline": "Senior JavaScript Engineer at Yahoo!",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQHsI9Rn5rRt5w/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=ooBGzFlVu4VKppcnP79skPlTRLMX1Jtzoxibek900qk",
+    "location": "Marina Del Rey, California",
+    "connections": "500+",
+    "summary": "I am a Front-end Software Engineer that loves JavaScript and the open-source community."
+  },
+  "aboutAlternative": {
+    "text": "I am a Front-end Software Engineer that loves JavaScript and the open-source community."
+  },
+  "positions": [
+    {
+      "title": "Senior JavaScript Engineer",
+      "companyName": "Yahoo! Inc.",
+      "location": "Playa Vista",
+      "description": "- Lead Front-end engineer for the Yahoo Daily Fantasy Sports product (www.sports.yahoo.com/dailyfantasy)\n- React Native working group contributor",
+      "date1": "Nov 2017 – Present",
+      "date2": "2 yrs 1 mo"
+    },
+    {
+      "title": "JavaScript Engineer",
+      "companyName": "Yahoo",
+      "location": "Playa Vista, CA",
+      "description": "- Lead Front-end engineer for the new Yahoo Daily Fantasy Sports website (www.sports.yahoo.com/dailyfantasy)",
+      "date1": "May 2014 – Present",
+      "date2": "5 yrs 7 mos"
+    },
+    {
+      "title": "JavaScript Engineer",
+      "companyName": "AddThis",
+      "location": "McLean, VA",
+      "description": "- Lead developer for AddThis Pro (https://www.youtube.com/watch?v=sdhTTPm6Zwk)\n- Lead developer/architect for AddThis Smart Layers (http://www.youtube.com/watch?feature=player_embedded&v=ZdX7AFgJi4o)",
+      "date1": "Sep 2012 – Apr 2014",
+      "date2": "1 yr 8 mos"
+    },
+    {
+      "title": "Associate Software Engineer",
+      "companyName": "AOL",
+      "location": "Dulles, VA",
+      "description": "AOL, Identity Services (Registration and Account Management)\n\n- Worked on the new mobile, tablet, and desktop responsive front-ends for AOL Account Management (Forgot Password, Forgot Account Security Question, Update Your Account) sites. Popular projects being used include Twitter Bootstrap, HTML5/Mobile Boilerplate, and jQuery.\n\n- Supported the web registration for AOL-owned properties including AIM, AOL Mail, The Huffington Post, MovieFone, Winamp, AOL.com, games.com, dailyfinance.com, the AOL Desktop Client, and more.\n\n- Created the AOL mobile web registration experience for Android and iOS devices using HTML5, CSS3 Media Queries, a fluid CSS design, viewport meta tags, JavaScript enhancements, JSP’s, and Java user-agent detection. Testing was completed using a combination of Safari and Firefox User-Agent Tools and native Android and iPhone devices. (On your mobile phone go to new.aol.com)\n\n- Upgraded the AOL web registration experience to improve accessibility for disabled users. Code improvements included fixing browser focus events, audio playback in Safari, and forward and backward keyboard navigation. New code was introduced to dynamically insert WAI-ARIA (Accessible Rich Internet Application Suite) tags to make sure static and dynamic web content was available to users with disabilities. Testing was completed using the proprietary screen reader, JAWS.\n\n- Worked with the AOL Toolbar team to create a silent toolbar installation process for AOL web registration.\n\n- Managed the AOL web registration database (Sybase) to support new registration requests.\n\n- Presented technical sessions to the Identity Services team to promote client-side best practices for new and existing AOL projects. The presentation topics included jQuery performance, jQuery plugin development, JavaScript design patterns, and Javascript Unit Testing with the Jasmine Framework.\n…\nsee more",
+      "date1": "May 2011 – Sep 2012",
+      "date2": "1 yr 5 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "University of Mary Washington",
+      "degree": "BS",
+      "fieldofstudy": "Computer Science",
+      "date1": "2007",
+      "date2": "2011"
+    },
+    {
+      "title": "James Madison High School"
+    },
+    {
+      "title": "James Madison High School"
+    }
+  ],
+  "skills": [
+    {
+      "title": "JavaScript",
+      "count": "22"
+    },
+    {
+      "title": "jQuery",
+      "count": "17"
+    },
+    {
+      "title": "CSS",
+      "count": "12"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "2",
+    "receivedCount": "0",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/marksanghoonkim/",
+        "text": "Mark helped develop the Yahoo Sports Vertical mobile web/desktop/webview sites; becoming a tremendous asset to the sport's FE team. He had a great attitude and began quickly learning/contributing to the many different sports codebases. He built out all of the new web/mobile features. Mark was also great about sharing his unique knowledge with the team; including developer tools tricks and advanced performance techniques.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/keesan/",
+        "text": "Matt is an extremely intelligent manager/developer who is able to solve complex problems quicker than anyone I have ever met. During his time at AddThis, he helped shape the future of the company by creating the initial product offering (third-party social buttons) and played a key role in it's transformation into a successful startup. From a technical perspective, Matt helped create and maintain the entire AddThis third-party JavaScript codebase, while also helping build real-time data solutions for AddThis. He is a master in functional programming, a fanatic about performance, and a great architect who writes maintainable code.\n…\nSee more"
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "16",
+      "items": [
+        "Cronshot",
+        "Cronshot-ImageMagick",
+        "Cronshot-Local",
+        "Gifshot",
+        "Marionette-Require-Boilerplate",
+        "Backbone.js Custom Builds",
+        "Backbone.validateAll",
+        "Document-Bootstrap",
+        "DownloadBuilder.js",
+        "Tocify",
+        "Backbone-Require-Boilerplate",
+        "Selectboxit",
+        "BOST Benefits",
+        "AMDClean",
+        "jqfactory",
+        "Boilerplate MVC"
+      ]
+    },
+    {
+      "count": "5",
+      "items": [
+        "jQuery San Diego 2014: Building JavaScript Tools Presenter",
+        "DC jQuery: RequireJS Presenter",
+        "jQuery Portland 2013: Modular jQuery Plugins Presenter",
+        "Nova Web Development: jQuery Best Practices Presenter",
+        "DC jQuery: jQuery Utilities Presenter"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Instant Dependency Management with RequireJS How-To"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/anish-aggarwal-08496916/",
+      "text": "React, Redux, & React-Native Javascript Engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/justindconner/",
+      "text": "Senior Full Stack Developer at Remine"
+    },
+    {
+      "user": "https://www.linkedin.com/in/rongrong-zhong-31aa8a8/",
+      "text": "Software Engineer at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jien-hua-9b795471/",
+      "text": "Software Engineer at Yahoo"
+    },
+    {
+      "user": "https://www.linkedin.com/in/bart-broad-14a6b144/",
+      "text": "Software Development Engineer at Yahoo!"
+    },
+    {
+      "user": "https://www.linkedin.com/in/austinwray/",
+      "text": "Senior Software Engineer at Bloomberg LP"
+    },
+    {
+      "user": "https://www.linkedin.com/in/melissjs/",
+      "text": "Software Engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yanjeyko/",
+      "text": "React/JavaScript Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ethanselzer/",
+      "text": "Sr. JavaScript Developer at BeachbodyOnDemand.com"
+    },
+    {
+      "user": "https://www.linkedin.com/in/meganhansley/",
+      "text": "Software Engineer at Facebook"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Greg Franko",
+    "headline": "Senior JavaScript Engineer at Yahoo!",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQHsI9Rn5rRt5w/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=ooBGzFlVu4VKppcnP79skPlTRLMX1Jtzoxibek900qk",
+    "location": "Marina Del Rey, California",
+    "connections": "500+",
+    "summary": "I am a Front-end Software Engineer that loves JavaScript and the open-source community."
+  }
+}

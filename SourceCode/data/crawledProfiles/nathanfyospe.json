@@ -1,0 +1,190 @@
+{
+  "profileAlternative": {
+    "name": "Nathan Yospe",
+    "headline": "Principal System Architect at Findora",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQGpRg2vvMbM0Q/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=FaWqO3FXbLPTOoPE8YzJ-uvC8RTL0gvucalFCZcemWQ",
+    "location": "San Francisco Bay Area",
+    "connections": "373",
+    "summary": "Performant and scalable systems expert, specializing in algorithm design (scientific and business), library design (interface design and optimal implementation), memory management, networking, concurrency, locks, and threads, Unicode and i18n; Modern C++, Rust"
+  },
+  "aboutAlternative": {
+    "text": "Performant and scalable systems expert, specializing in algorithm design (scientific and business), library design (interface design and optimal implementation), memory management, networking, concurrency, locks, and threads, Unicode and i18n; Modern C++, Rust"
+  },
+  "positions": [
+    {
+      "title": "Principal System Architect",
+      "companyName": "Findora",
+      "date1": "Feb 2019 – Present",
+      "date2": "10 mos"
+    },
+    {
+      "title": "Software Developer",
+      "companyName": "Stealth",
+      "location": "San Francisco Bay Area",
+      "date1": "Feb 2018 – Aug 2018",
+      "date2": "7 mos"
+    },
+    {
+      "title": "Chief Backend Architect",
+      "companyName": "RealtyShares",
+      "location": "San Francisco Bay Area",
+      "date1": "Nov 2015 – Oct 2017",
+      "date2": "2 yrs"
+    },
+    {
+      "title": "Senior Software Engineer",
+      "companyName": "SAP",
+      "description": "Infrastructure development for HANA Vora",
+      "date1": "Apr 2014 – Nov 2015",
+      "date2": "1 yr 8 mos"
+    },
+    {
+      "title": "Principal Software Engineer",
+      "companyName": "Condusiv Technologies",
+      "location": "Burbank, CA",
+      "description": "Data storage libraries for applications and kernel",
+      "date1": "Mar 2013 – Jan 2014",
+      "date2": "11 mos"
+    },
+    {
+      "title": "Engineer",
+      "companyName": "Google",
+      "location": "Venice, CA",
+      "date1": "Aug 2012 – Feb 2013",
+      "date2": "7 mos"
+    },
+    {
+      "title": "Core Architect/Principal Software Developer",
+      "companyName": "SAP",
+      "description": "Refactored a 32 bit, Win32-only, little endian, ASCII-only, globally locked service into a 32 or 64 bit, cross platform (including Solaris, Linux, Windows, AIX, HP-UX, z/OS, and IBM i on a number of hardware platforms), order-agnostic, fully Unicode enabled, data-congruent server platform (running on multiple concurrent servers, with support for fully heterogeneous environments) over a long serious of one-off initiatives.\n\nDesigned and implemented entire core libraries and applications framework for SAP MDM suite of servers and applications, including Unicode and i18n layer, serialization and RPC layer, networking layer, threading and concurrency layer, distribution layer, and cross-platform layer.\n\nWrote and enforced C++ standards, code quality and review management systems. Ran weekly presentations and classes on various topics aimed at improving developers' knowledge, skill, and discipline.\n\nBuilt source control infrastructure, including continuous merge across development lines, continuous integration and testing across platforms, merge tracking in SVN (prior to 1.5) with successful migration into post-1.5 merge tracking, private branching (including support for integrated local Mercurial branching) and continuous change/save tracking.\n…\nsee more",
+      "date1": "Dec 2000 – Aug 2012",
+      "date2": "11 yrs 9 mos"
+    },
+    {
+      "title": "Senior Software Engineer",
+      "companyName": "isearch.com",
+      "description": "Rewrote web server application (written in \"C++\" - really C with a few C++ constructs) to function as a persistent resident process, rather than spinning up a C++ runtime and a large, complex C++ executable as a separate process for each web call. Refactored to eliminate resource leaks, fixed access to Oracle DBMS (via OCI), added caching of data for read operations",
+      "date1": "1999 – 2000",
+      "date2": "1 yr"
+    },
+    {
+      "title": "Software Engineer",
+      "companyName": "Raytheon Systems",
+      "date1": "1999",
+      "date2": "less than a year"
+    },
+    {
+      "title": "Algorithm Designer",
+      "companyName": "Textron Systems",
+      "date1": "1993 – 1999",
+      "date2": "6 yrs"
+    }
+  ],
+  "educations": [
+    {
+      "title": "University of Hawaii at Manoa",
+      "degree": "B.S.",
+      "fieldofstudy": "Physics",
+      "date1": "1993",
+      "date2": "1999"
+    }
+  ],
+  "skills": [
+    {
+      "title": "C++",
+      "count": "43"
+    },
+    {
+      "title": "Rust (Programming Language)"
+    },
+    {
+      "title": "System Architecture",
+      "count": "4"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "2",
+    "receivedCount": "1",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/cleopatra-von-ludwig-4a49b4/",
+        "text": "Nathan is easily one of the smartest people with whom I've had the pleasure of working. He is innovative, inspired, and has an incredible amount of knowledge (not limited to software engineering). As a member of my Core Libraries & Cross-Platform team, he is an incredible asset and my team would be doomed to failure without him.\n…\nSee more"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/dexter-aronstam-88584a83/",
+        "text": "Dexter is one of the most promising young programmers I've ever had the pleasure to work with. He has an insatiable thirst for broader knowledge and skill, and a keen mind that appreciates both elegant and practical solutions, and, in spite of having years of experience on him, I actually learned things from him. He is one of the few engineers that I can honestly say I would go out of my way to work with again."
+      },
+      {
+        "user": "https://www.linkedin.com/in/cleopatra-von-ludwig-4a49b4/",
+        "text": "I've had the good fortune of working very closely with Cleo over the past few years. As core team lead, she is remarkably good at keeping an extremely maverick group of developers pointed in the right direction, even in the face of countless interruptions and issues from other teams, and the chaos of bringing a fifteen year old legacy code base up to modern standards. As a developer, Cleo is both knowledgeable and sharp, and prior to taking over the team leadership role for the core libraries group, was able to salvage the development of (read, completely rewrite, in an unreasonably short time frame) our omega product, finally bringing it out of its perpetual status of complete failure. We rely heavily on her skills in analysis of complex bugs and in code quality management. Cleo is the one who keeps the most reckless of our developers from shooting their own (and the rest of our) feet off. She's also the one that keeps me (the team guru and core architect) from forgetting where I put my feet... without her, I would not be nearly as effective."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "7",
+      "items": [
+        "Method for testing layered data for the existence of at least one value",
+        "Method for utilizing audience-specific metadata",
+        "Method for generating documents using layer-specific inheritance rules",
+        "Multi-layered data model for generating audience-specific documents",
+        "Interface for indicating the presence of inherited values in a document",
+        "System and method for automation of consistent lock management",
+        "System and method for performing unicode matching"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/buenz/",
+      "text": "Computer Science PhD Student at Stanford University"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shenkeyao/",
+      "text": "Software Engineer at Findora"
+    },
+    {
+      "user": "https://www.linkedin.com/in/noah-golub-2806a4a4/",
+      "text": "Product Manager at eian"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ageldean/",
+      "text": "Software Development Engineer at Amazon"
+    },
+    {
+      "user": "https://www.linkedin.com/in/victor-lardani-37b891108/",
+      "text": "Auditor at SRIS (southern retail inventory services)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/claire-tramontana/",
+      "text": "Associate at Element, Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/chaijessica/",
+      "text": "Product Strategist at Findora"
+    },
+    {
+      "user": "https://www.linkedin.com/in/charleslu1/",
+      "text": "Chief Executive Officer at Findora"
+    },
+    {
+      "user": "https://www.linkedin.com/in/cdean/",
+      "text": "GM Media & Entertainment, Vlocity"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kristen-morrison-70241491/",
+      "text": "Speech Language Pathologist at OPTIMUM REHAB, INC."
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Nathan Yospe",
+    "headline": "Principal System Architect at Findora",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQGpRg2vvMbM0Q/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=FaWqO3FXbLPTOoPE8YzJ-uvC8RTL0gvucalFCZcemWQ",
+    "location": "San Francisco Bay Area",
+    "connections": "373",
+    "summary": "Performant and scalable systems expert, specializing in algorithm design (scientific and business), library design (interface design and optimal implementation), memory management, networking, concurrency, locks, and threads, Unicode and i18n; Modern C++, Rust"
+  }
+}

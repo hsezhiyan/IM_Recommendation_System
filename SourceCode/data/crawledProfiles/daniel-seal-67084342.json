@@ -1,0 +1,291 @@
+{
+  "profileAlternative": {
+    "name": "Daniel Seal",
+    "headline": "Product Marketing Engineer at MathWorks",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQED-sgUApDufA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=lVKu3R6m1qvxgNla5Bfkt3RwZxTaohJot6mhB7LXyKI",
+    "location": "Boston, Massachusetts",
+    "connections": "400",
+    "summary": "Product Marketing Manager responsible for product marketing and product management of multiple software products. I work on projects across the spectrum of marketing, from understanding market problem to supporting the sales channel. Activities include conference attendance, market interviews, competitive analysis, use case analysis, user surveys, product naming, multi-release planning, development support, webpage management, conference presentations, webinars, seminars, workshops, sales training, and creating videos, demos, and product examples.\n\nTechnical expert with MATLAB and MATLAB-based toolboxes for algorithm development, UI development, and application deployment. This includes a strong understanding of how to use MATLAB to solve problems with big data, machine learning, statistics, optimization, image processing, computer vision, parallel computing, and connecting to hardware.\n\nUniversity experience with 3D CAD modeling. Internship experience with design and testing. Record of excellence in individual academic work. University specialties included Product Design, Control Theory, 3D Solid Modeling\n\nLearn more at danjseal.com"
+  },
+  "aboutAlternative": {
+    "text": "Product Marketing Manager responsible for product marketing and product management of multiple software products. I work on projects across the spectrum of marketing, from understanding market problem to supporting the sales channel. Activities include conference attendance, market interviews, competitive analysis, use case analysis, user surveys, product naming, multi-release planning, development support, webpage management, conference presentations, webinars, seminars, workshops, sales training, and creating videos, demos, and product examples.\n\nTechnical expert with MATLAB and MATLAB-based toolboxes for algorithm development, UI development, and application deployment. This includes a strong understanding of how to use MATLAB to solve problems with big data, machine learning, statistics, optimization, image processing, computer vision, parallel computing, and connecting to hardware.\n\nUniversity experience with 3D CAD modeling. Internship experience with design and testing. Record of excellence in individual academic work. University specialties included Product Design, Control Theory, 3D Solid Modeling\n\nLearn more at danjseal.com"
+  },
+  "positions": [
+    {
+      "title": "The MathWorks",
+      "location": "Natick, MA",
+      "description": "Lead marketing initiatives around MATLAB support for low-cost hardware, including connectivity with Arduino, Raspberri Pi, LEGO MINDSTORMS, and mobile sensors.",
+      "date1": "Nov 2014 – Present",
+      "date2": "5 yrs 1 mo",
+      "roles": [
+        {
+          "title": "Technical Marketing Specialist for MATLAB-Based Hardware",
+          "date1": "Nov 2014 – Present",
+          "date2": "5 yrs 1 mo",
+          "location": "Natick, MA"
+        },
+        {
+          "title": "Application Support Engineer",
+          "date1": "Jan 2012 – Nov 2014",
+          "date2": "2 yrs 11 mos",
+          "location": "Natick, MA"
+        }
+      ]
+    },
+    {
+      "title": "Title\nTechnical Marketing Specialist for MATLAB-Based Hardware",
+      "location": "Natick, MA",
+      "description": "Lead marketing initiatives around MATLAB support for low-cost hardware, including connectivity with Arduino, Raspberri Pi, LEGO MINDSTORMS, and mobile sensors.",
+      "date1": "Nov 2014 – Present",
+      "date2": "5 yrs 1 mo",
+      "roles": [
+        {
+          "title": "Technical Marketing Specialist for MATLAB-Based Hardware",
+          "date1": "Nov 2014 – Present",
+          "date2": "5 yrs 1 mo",
+          "location": "Natick, MA"
+        }
+      ]
+    },
+    {
+      "title": "Title\nApplication Support Engineer",
+      "location": "Natick, MA",
+      "date1": "Jan 2012 – Nov 2014",
+      "date2": "2 yrs 11 mos",
+      "roles": [
+        {
+          "title": "Application Support Engineer",
+          "date1": "Jan 2012 – Nov 2014",
+          "date2": "2 yrs 11 mos",
+          "location": "Natick, MA"
+        }
+      ]
+    },
+    {
+      "title": "USC College of Letters, Arts and Sciences",
+      "location": "Los Angeles, CA",
+      "description": "• Attended 3 classes each week\n• Developed weekly review worksheets\n• Led 4 review sessions each week and 3 exam reviews each semester for classes of 175-320 students",
+      "date1": "Aug 2007 – May 2011",
+      "date2": "3 yrs 10 mos",
+      "roles": [
+        {
+          "title": "Supplemental Instruction Leader: Calculus III, Physics I",
+          "date1": "Aug 2007 – May 2011",
+          "date2": "3 yrs 10 mos",
+          "location": "Los Angeles, CA"
+        },
+        {
+          "title": "Moderator",
+          "date1": "Dec 2009 – Apr 2010",
+          "date2": "5 mos",
+          "location": "Los Angeles, CA"
+        },
+        {
+          "title": "Research Assistant",
+          "date1": "Feb 2007 – Aug 2007",
+          "date2": "7 mos",
+          "location": "Los Angeles, CA"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSupplemental Instruction Leader: Calculus III, Physics I",
+      "location": "Los Angeles, CA",
+      "description": "• Attended 3 classes each week\n• Developed weekly review worksheets\n• Led 4 review sessions each week and 3 exam reviews each semester for classes of 175-320 students",
+      "date1": "Aug 2007 – May 2011",
+      "date2": "3 yrs 10 mos",
+      "roles": [
+        {
+          "title": "Supplemental Instruction Leader: Calculus III, Physics I",
+          "date1": "Aug 2007 – May 2011",
+          "date2": "3 yrs 10 mos",
+          "location": "Los Angeles, CA"
+        }
+      ]
+    },
+    {
+      "title": "Title\nModerator",
+      "location": "Los Angeles, CA",
+      "description": "• Contacted professional engineers from industry, inviting them to present at our weekly colloquium lecture series\n• Introduced the speaker’s background and accomplishments each week and moderated the lecture",
+      "date1": "Dec 2009 – Apr 2010",
+      "date2": "5 mos",
+      "roles": [
+        {
+          "title": "Moderator",
+          "date1": "Dec 2009 – Apr 2010",
+          "date2": "5 mos",
+          "location": "Los Angeles, CA"
+        }
+      ]
+    },
+    {
+      "title": "Title\nResearch Assistant",
+      "location": "Los Angeles, CA",
+      "description": "• Analyzed and edited LabVIEW codes used to operate wind tunnel\n• Ran wind tunnel experiments\n• Identified and troubleshot problems with force balance calibration procedures",
+      "date1": "Feb 2007 – Aug 2007",
+      "date2": "7 mos",
+      "roles": [
+        {
+          "title": "Research Assistant",
+          "date1": "Feb 2007 – Aug 2007",
+          "date2": "7 mos",
+          "location": "Los Angeles, CA"
+        }
+      ]
+    },
+    {
+      "title": "Summer Research Intern",
+      "companyName": "The Aerospace Corporation",
+      "location": "El Segundo, CA",
+      "description": "• Ran lifetime load simulations on electronic amplifiers\n• Processed and reported data",
+      "date1": "Jun 2009 – Aug 2009",
+      "date2": "3 mos"
+    },
+    {
+      "title": "Summer Research Intern",
+      "companyName": "The Aerospace Corporation",
+      "location": "El Segundo, CA",
+      "description": "• Wired, calibrated, and tested pressure transducers, dissolved oxygen sensor, flow meter, Bessel filters, digital thermometer, and PID control valve on multiple DAQ systems for use in a cavitation experiment\n• Generated LabVIEW VIs and Sub-VIs to operate these instrumentation systems",
+      "date1": "Jul 2008 – Aug 2008",
+      "date2": "2 mos"
+    },
+    {
+      "title": "Summer Intern",
+      "companyName": "Jet Propulsion Laboratory",
+      "location": "La Canada, CA",
+      "description": "• Developed and presented a project describing telecommunications and radio science at an introductory level",
+      "date1": "Jun 2006 – Aug 2006",
+      "date2": "3 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "University of Southern California",
+      "degree": "M.S.",
+      "fieldofstudy": "Product Development Engineering",
+      "date1": "2010",
+      "date2": "2011"
+    },
+    {
+      "title": "University of Southern California",
+      "degree": "B.S.",
+      "fieldofstudy": "Mechanical Engineering (Minor in Sociology)",
+      "date1": "2006",
+      "date2": "2010"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Matlab",
+      "count": "14"
+    },
+    {
+      "title": "Simulink",
+      "count": "2"
+    },
+    {
+      "title": "Labview",
+      "count": "4"
+    },
+    {
+      "title": "Digital Photography",
+      "count": "1"
+    },
+    {
+      "title": "Image Processing",
+      "count": "1"
+    },
+    {
+      "title": "Microsoft Office",
+      "count": "7"
+    },
+    {
+      "title": "Salesforce.com"
+    },
+    {
+      "title": "MS Project"
+    },
+    {
+      "title": "Solidworks"
+    },
+    {
+      "title": "AutoCAD"
+    },
+    {
+      "title": "Solid Edge"
+    },
+    {
+      "title": "Siebel"
+    },
+    {
+      "title": "Computational Finance"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "3",
+      "items": [
+        "Chinese",
+        "English",
+        "Spanish"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/silvinagrad/",
+      "text": "Head of HPC and Cloud Marketing at MathWorks"
+    },
+    {
+      "user": "https://www.linkedin.com/in/renee-qian-30060821/",
+      "text": "Application Engineer at The MathWorks"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nchocka/",
+      "text": "Software Engineer at Wellington Management"
+    },
+    {
+      "user": "https://www.linkedin.com/in/gabriel-ha/",
+      "text": "Product Marketing | Video Consultant/Personality"
+    },
+    {
+      "user": "https://www.linkedin.com/in/cindy-solomon-8383751a/",
+      "text": "Senior Software Engineer at Auris Health, Inc"
+    },
+    {
+      "user": "https://www.linkedin.com/in/janeprice/",
+      "text": "Chief Marketing Officer at Plotly"
+    },
+    {
+      "user": "https://www.linkedin.com/in/blairjason/",
+      "text": "Sr. Marketing Manager, Customer Retention / Chinese Language & Global Markets"
+    },
+    {
+      "user": "https://www.linkedin.com/in/qliu/",
+      "text": "Software Engineer at Microsoft"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jabari/",
+      "text": "Senior Associate Director, Academic Advisement and Civic Engagement"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kevin-zhou-091a0a9b/",
+      "text": "Actively looking for a new career"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Daniel Seal",
+    "headline": "Product Marketing Engineer at MathWorks",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQED-sgUApDufA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=lVKu3R6m1qvxgNla5Bfkt3RwZxTaohJot6mhB7LXyKI",
+    "location": "Boston, Massachusetts",
+    "connections": "400",
+    "summary": "Product Marketing Manager responsible for product marketing and product management of multiple software products. I work on projects across the spectrum of marketing, from understanding market problem to supporting the sales channel. Activities include conference attendance, market interviews, competitive analysis, use case analysis, user surveys, product naming, multi-release planning, development support, webpage management, conference presentations, webinars, seminars, workshops, sales training, and creating videos, demos, and product examples.\n\nTechnical expert with MATLAB and MATLAB-based toolboxes for algorithm development, UI development, and application deployment. This includes a strong understanding of how to use MATLAB to solve problems with big data, machine learning, statistics, optimization, image processing, computer vision, parallel computing, and connecting to hardware.\n\nUniversity experience with 3D CAD modeling. Internship experience with design and testing. Record of excellence in individual academic work. University specialties included Product Design, Control Theory, 3D Solid Modeling\n\nLearn more at danjseal.com"
+  }
+}

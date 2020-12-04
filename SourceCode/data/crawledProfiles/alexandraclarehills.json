@@ -1,0 +1,254 @@
+{
+  "profileAlternative": {
+    "name": "Alexandra C Hills",
+    "headline": "Corporate Account Executive at MongoDB",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQHgDsW0HpI5Gg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=41SJfPyf55UvNEYA8tD1i-XDDwhgvNmiSV0XlPxOE2k",
+    "location": "Austin, Texas",
+    "connections": "500+"
+  },
+  "aboutAlternative": {},
+  "positions": [
+    {
+      "title": "Corporate Account Executive",
+      "companyName": "MongoDB",
+      "location": "Austin, Texas Area",
+      "date1": "Mar 2018 – Present",
+      "date2": "1 yr 9 mos"
+    },
+    {
+      "title": "ThousandEyes",
+      "location": "Austin, Texas",
+      "date1": "Jul 2016 – Feb 2018",
+      "date2": "1 yr 8 mos",
+      "roles": [
+        {
+          "title": "Corporate Sales Representative",
+          "date1": "Jul 2016 – Feb 2018",
+          "date2": "1 yr 8 mos",
+          "location": "Austin, Texas"
+        },
+        {
+          "title": "Sales Development Representative",
+          "date1": "Feb 2015 – Jun 2016",
+          "date2": "1 yr 5 mos",
+          "location": "San Francisco Bay Area"
+        }
+      ]
+    },
+    {
+      "title": "Title\nCorporate Sales Representative",
+      "location": "Austin, Texas",
+      "date1": "Jul 2016 – Feb 2018",
+      "date2": "1 yr 8 mos",
+      "roles": [
+        {
+          "title": "Corporate Sales Representative",
+          "date1": "Jul 2016 – Feb 2018",
+          "date2": "1 yr 8 mos",
+          "location": "Austin, Texas"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSales Development Representative",
+      "location": "San Francisco Bay Area",
+      "date1": "Feb 2015 – Jun 2016",
+      "date2": "1 yr 5 mos",
+      "roles": [
+        {
+          "title": "Sales Development Representative",
+          "date1": "Feb 2015 – Jun 2016",
+          "date2": "1 yr 5 mos",
+          "location": "San Francisco Bay Area"
+        }
+      ]
+    },
+    {
+      "title": "Monster Worldwide / Military.com",
+      "location": "San Francisco Bay Area",
+      "date1": "Jul 2014 – Feb 2015",
+      "date2": "8 mos",
+      "roles": [
+        {
+          "title": "Marketing Coordinator",
+          "date1": "Jul 2014 – Feb 2015",
+          "date2": "8 mos",
+          "location": "San Francisco Bay Area"
+        },
+        {
+          "title": "Marketing Intern",
+          "date1": "Jul 2012 – Jun 2014",
+          "date2": "2 yrs"
+        }
+      ]
+    },
+    {
+      "title": "Title\nMarketing Coordinator",
+      "location": "San Francisco Bay Area",
+      "date1": "Jul 2014 – Feb 2015",
+      "date2": "8 mos",
+      "roles": [
+        {
+          "title": "Marketing Coordinator",
+          "date1": "Jul 2014 – Feb 2015",
+          "date2": "8 mos",
+          "location": "San Francisco Bay Area"
+        }
+      ]
+    },
+    {
+      "title": "Title\nMarketing Intern",
+      "date1": "Jul 2012 – Jun 2014",
+      "date2": "2 yrs",
+      "roles": [
+        {
+          "title": "Marketing Intern",
+          "date1": "Jul 2012 – Jun 2014",
+          "date2": "2 yrs"
+        }
+      ]
+    }
+  ],
+  "educations": [
+    {
+      "title": "Boston University",
+      "degree": "Bachelor's Degree",
+      "fieldofstudy": "B.A. Economics & B.S. Communication"
+    },
+    {
+      "title": "San Francisco University High School"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Cold Calling",
+      "count": "6"
+    },
+    {
+      "title": "Sales Process",
+      "count": "7"
+    },
+    {
+      "title": "Salesforce.com",
+      "count": "5"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "1",
+    "receivedCount": "0",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/nickbarber/",
+        "text": "During my time in Nick’s Interactive Marketing course, Nick not only provided me with valuable educational lessons, but also real world advice and mentorship. As an educator, Nick was enthusiastic and prepared, and our 3 hour class flew by every week. His experience in the field provided his students a unique learning opportunity and his assignments were thought provoking and relevant to today's marketing world. As a mentor, Nick offered invaluable career advice and made the time to talk through my individual career goals with me. I was very lucky to be apart of Nick’s class and I walk away with skills and knowledge that not only helped me as a student, but also help me as a graduate of Boston University. Thank you Nick!\n…\nSee more"
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "17",
+      "items": [
+        "Brand Management",
+        "Contemporary East Asian Economics",
+        "Economic Statistics",
+        "Economics of the Labor Market",
+        "Interactive Marketing",
+        "Intermediate Macro Ecomomics",
+        "Intermediate Micro Economics",
+        "International Economics",
+        "International Finance",
+        "Introductory Macro Economics",
+        "Introductory Micro Economics",
+        "Law and Economics",
+        "Mass Communication Research",
+        "Poverty & Discrimination",
+        "Professional Presentations",
+        "Theory and Process of Communication",
+        "Writing for Mass Communication"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "English",
+        "French"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Alpha Delta Pi Sorority"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/danieltjohnson7/",
+      "text": "Corporate Account Executive at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/katrinamoldskred/",
+      "text": "Sr. Sales Recruiter at Workday"
+    },
+    {
+      "user": "https://www.linkedin.com/in/samanthacarr/",
+      "text": "Enterprise Account Executive @ MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/hilary-hannigan/",
+      "text": "Making data easy for developers."
+    },
+    {
+      "user": "https://www.linkedin.com/in/russellshahan/",
+      "text": "Corporate Account Executive at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/micah-baxter/",
+      "text": "Sr. Account Executive at Brightcove"
+    },
+    {
+      "user": "https://www.linkedin.com/in/samanthafiorenzo/",
+      "text": "Senior Account Executive at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kirk-deffke-9052196/",
+      "text": "Senior Account Executive at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/james-cutrer-095803a/",
+      "text": "Regional Director - Corporate Sales at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/zachlagod/",
+      "text": "Enterprise Account Executive at MongoDB"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Annual Fund Volunteer",
+      "experience": "San Francisco University High School",
+      "date1": "Oct 2014 – Jun 2016",
+      "date2": "1 yr 9 mos"
+    },
+    {
+      "title": "Volunteer",
+      "experience": "Ronald McDonald House Charities",
+      "description": "Children",
+      "date1": "Jan 2011 – May 2014",
+      "date2": "3 yrs 5 mos"
+    },
+    {
+      "title": "Membership Experience Advisor",
+      "experience": "Alpha Delta Pi Sorority",
+      "date1": "Jan 2018 – Present",
+      "date2": "1 yr 11 mos"
+    }
+  ],
+  "profile": {
+    "name": "Alexandra C Hills",
+    "headline": "Corporate Account Executive at MongoDB",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQHgDsW0HpI5Gg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=41SJfPyf55UvNEYA8tD1i-XDDwhgvNmiSV0XlPxOE2k",
+    "location": "Austin, Texas",
+    "connections": "500+"
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "profileAlternative": {
+    "name": "Manuel Cabrera",
+    "headline": "Python Developer at New York",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQFUaYWAtE2QZA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=mjPvC8eUJuZut4OoVlrRs7QSxndy0fGwKKaR2h89-ZM",
+    "location": "Greater New York City Area",
+    "connections": "159",
+    "summary": "Full Stack Python Developer specializing in all aspects of Web Development and the Software Development Lifecycle (SDLC) from planning and designing to building, testing and deploying. Experience and understanding of Data Science Modules and principles including Pandas, Numpy, SciPy, NumPy, Sklearn, Tensorflow, Statistical Analysis, Regression, Classification, Dimension Reduction, and Clustering."
+  },
+  "aboutAlternative": {
+    "text": "Full Stack Python Developer specializing in all aspects of Web Development and the Software Development Lifecycle (SDLC) from planning and designing to building, testing and deploying. Experience and understanding of Data Science Modules and principles including Pandas, Numpy, SciPy, NumPy, Sklearn, Tensorflow, Statistical Analysis, Regression, Classification, Dimension Reduction, and Clustering."
+  },
+  "positions": [
+    {
+      "title": "employee",
+      "companyName": "ALK",
+      "location": "United States",
+      "description": "",
+      "date1": "Jan 2018 – Aug 2019",
+      "date2": "1 yr 8 mos"
+    },
+    {
+      "title": "employee",
+      "companyName": "OneBlood",
+      "location": "United States",
+      "date1": "Nov 2016 – Jan 2018",
+      "date2": "1 yr 3 mos"
+    },
+    {
+      "title": "employee",
+      "companyName": "Miami-Dade County",
+      "location": "United States",
+      "date1": "Mar 2016 – Sep 2016",
+      "date2": "7 mos"
+    },
+    {
+      "title": "employee",
+      "companyName": "Sonic Healthcare",
+      "location": "United States",
+      "date1": "Apr 2014 – Feb 2016",
+      "date2": "1 yr 11 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Queens College",
+      "degree": "Bachelor of Arts (BA)",
+      "date1": "2010",
+      "date2": "2014"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Python"
+    },
+    {
+      "title": "SQL"
+    },
+    {
+      "title": "Software Development Life Cycle (SDLC)"
+    },
+    {
+      "title": "Software Development"
+    },
+    {
+      "title": "Web Development"
+    },
+    {
+      "title": "JavaScript"
+    },
+    {
+      "title": "R"
+    },
+    {
+      "title": "MySQL"
+    },
+    {
+      "title": "SQLite"
+    },
+    {
+      "title": "PostgreSQL"
+    },
+    {
+      "title": "MongoDB"
+    },
+    {
+      "title": "Angular"
+    },
+    {
+      "title": "Bootstrap"
+    },
+    {
+      "title": "HTML"
+    },
+    {
+      "title": "CSS"
+    },
+    {
+      "title": "Django"
+    },
+    {
+      "title": "Flask"
+    },
+    {
+      "title": "RESTful WebServices"
+    },
+    {
+      "title": "Git"
+    },
+    {
+      "title": "Postman"
+    },
+    {
+      "title": "VS Code"
+    },
+    {
+      "title": "JIRA"
+    },
+    {
+      "title": "K-Nearest Neighbors (KNN)"
+    },
+    {
+      "title": "Pandas"
+    },
+    {
+      "title": "Amazon Web Services (AWS)"
+    },
+    {
+      "title": "TypeScript"
+    },
+    {
+      "title": "Data Science"
+    },
+    {
+      "title": "Amazon Dynamodb"
+    },
+    {
+      "title": "MySQL Workbench"
+    },
+    {
+      "title": "PyCharm"
+    },
+    {
+      "title": "DB Browser"
+    },
+    {
+      "title": "MongoDB Compass"
+    },
+    {
+      "title": "Notepad++"
+    },
+    {
+      "title": "R Studio"
+    },
+    {
+      "title": "Filezilla"
+    },
+    {
+      "title": "Linear Regression"
+    },
+    {
+      "title": "Decision Trees"
+    },
+    {
+      "title": "Random Forest"
+    },
+    {
+      "title": "K-Means"
+    },
+    {
+      "title": "Logistic Regression"
+    },
+    {
+      "title": "Support Vector Machine (SVM)"
+    },
+    {
+      "title": "Principal Component Analysis (PCA)"
+    },
+    {
+      "title": "NumPy"
+    },
+    {
+      "title": "SciPy"
+    },
+    {
+      "title": "Time Series Analysis"
+    },
+    {
+      "title": "Scikit-Learn"
+    },
+    {
+      "title": "Amazon EC2"
+    },
+    {
+      "title": "Amazon EBS"
+    },
+    {
+      "title": "Amazon VPC"
+    },
+    {
+      "title": "Elastic Load Balancing"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "1",
+    "receivedCount": "0",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/perez-arribaspla/",
+        "text": "I had the pleasure of working with Mr. Perez on a contract. The contract was short-lived, but I got to know Mr. Perez during that time on both personal and professional levels. Mr. Perez is passionate about his profession and a natural leader. I referred my friends to him and will always keep him on my good friends list !"
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "1",
+      "items": [
+        "Spanish"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/nicole-napolitano-211115119/",
+      "text": "Client Coordinator at FrontStreet Facility Solutions, Inc"
+    },
+    {
+      "user": "https://www.linkedin.com/in/hans-gotun-3bb0a346/",
+      "text": "Manager, Technical Projects"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sheryl-martin-682b30144/",
+      "text": "Talent Scout at WorksHub"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ambreen-imran/",
+      "text": "Technical Recruiter at Yoh, A Day & Zimmermann Company"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tarun-agrawal-241479155/",
+      "text": "Candidate Success Manager at Reliable Group"
+    },
+    {
+      "user": "https://www.linkedin.com/in/aad-aravind-a9610111a/",
+      "text": "Sr.Recruiter"
+    },
+    {
+      "user": "https://www.linkedin.com/in/disha-patel-1991903392/",
+      "text": "UI Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sathish-v-bab92469/",
+      "text": "Actively looking for Android Developer Positions."
+    },
+    {
+      "user": "https://www.linkedin.com/in/madhukar-tattikota-0177a079/",
+      "text": "Senior UI Lead / Architect at ITiyam"
+    },
+    {
+      "user": "https://www.linkedin.com/in/edward-cheski-2b34b11a/",
+      "text": "Looking for new opportunities in Project Management"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Undergraduate Research",
+      "experience": "Queens College",
+      "description": "Science and Technology",
+      "date1": "Apr 2015 – Aug 2016",
+      "date2": "1 yr 5 mos"
+    }
+  ],
+  "profile": {
+    "name": "Manuel Cabrera",
+    "headline": "Python Developer at New York",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQFUaYWAtE2QZA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=mjPvC8eUJuZut4OoVlrRs7QSxndy0fGwKKaR2h89-ZM",
+    "location": "Greater New York City Area",
+    "connections": "159",
+    "summary": "Full Stack Python Developer specializing in all aspects of Web Development and the Software Development Lifecycle (SDLC) from planning and designing to building, testing and deploying. Experience and understanding of Data Science Modules and principles including Pandas, Numpy, SciPy, NumPy, Sklearn, Tensorflow, Statistical Analysis, Regression, Classification, Dimension Reduction, and Clustering."
+  }
+}

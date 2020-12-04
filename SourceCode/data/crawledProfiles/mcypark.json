@@ -1,0 +1,160 @@
+{
+  "profileAlternative": {
+    "name": "Michael Park",
+    "headline": "Software Engineer at Facebook",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQE0MFeiUzsRPg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=WmS0m_0g0fCtOr--rUuF7BLT3Rha5VfEWFZteMYcu8U",
+    "location": "San Francisco, California",
+    "connections": "375",
+    "summary": "- Apache Software Foundation: Apache Mesos Committer\n- C++ Standards Committee\n- C++ Standard Library: Author / Maintainer of libc++ `std::variant`\n- MPark.Patterns: Pattern Matching in C++\n- MPark.Variant: C++17 `std::variant` for C++11/14/17\n- Conference Speaker"
+  },
+  "aboutAlternative": {
+    "text": "- Apache Software Foundation: Apache Mesos Committer\n- C++ Standards Committee\n- C++ Standard Library: Author / Maintainer of libc++ `std::variant`\n- MPark.Patterns: Pattern Matching in C++\n- MPark.Variant: C++17 `std::variant` for C++11/14/17\n- Conference Speaker"
+  },
+  "positions": [
+    {
+      "title": "Software Engineer",
+      "companyName": "Facebook",
+      "location": "San Francisco Bay Area",
+      "date1": "Apr 2018 – Present",
+      "date2": "1 yr 8 mos"
+    },
+    {
+      "title": "Senior Software Engineer",
+      "companyName": "Mesosphere, Inc.",
+      "location": "San Francisco Bay Area",
+      "description": "Joined Mesosphere through the acquisition of OrlyAtomics as a member of the core team working on Apache Mesos, a distributed systems kernel. Major contributions to Apache Mesos include: introduction of persistence primitives to better support running stateful applications on Mesos, and C++11 upgrade of the codebase.",
+      "date1": "Sep 2014 – Mar 2018",
+      "date2": "3 yrs 7 mos"
+    },
+    {
+      "title": "Co-Founder",
+      "companyName": "OrlyAtomics, Inc",
+      "location": "San Francisco Bay Area",
+      "description": "One of the technical co-founders of OrlyAtomics. Orly is a large-scale distributed graph database with a distributed runtime environment, and a programming language. Major contributions to Orly include: design of the programming language, and implementation of the corresponding compiler.",
+      "date1": "Mar 2014 – Sep 2014",
+      "date2": "7 mos"
+    },
+    {
+      "title": "Software Engineering Intern III",
+      "companyName": "Tagged",
+      "location": "San Francisco Bay Area",
+      "description": "Returned as a member of a team working on StigDB, a distributed graph database. Major contributions include: language design discussions related to the interaction between functional and logical paradigms, and the development of a library to better support algebraic data types in C++, similar to Boost.Variant.",
+      "date1": "Sep 2013 – Dec 2013",
+      "date2": "4 mos"
+    },
+    {
+      "title": "Software Engineering Intern",
+      "companyName": "Facebook",
+      "location": "San Francisco Bay Area",
+      "description": "Part of the cross-datacenter infrastructure team. Designed and implemented the end-to-end testing framework for Wormhole, a reliable pub-sub system to support geo-replicated internet services.",
+      "date1": "Jan 2013 – Apr 2013",
+      "date2": "4 mos"
+    },
+    {
+      "title": "Software Engineering Intern II",
+      "companyName": "Tagged",
+      "location": "San Francisco Bay Area",
+      "description": "Joined as a member of a team working on StigDB, a distributed graph database. Contributed in the areas of language design, compiler construction, and internal technical support. Major contributions include implementation of the synthetic layer of the compiler which acted as the glue between the syntactic and semantic layer, and the semantic analysis layer of the compiler.",
+      "date1": "Jan 2012 – Aug 2012",
+      "date2": "8 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "University of Waterloo",
+      "degree": "Bachelor of Computer Science",
+      "fieldofstudy": "Computer Science",
+      "date1": "2009",
+      "date2": "2014"
+    }
+  ],
+  "skills": [
+    {
+      "title": "C++",
+      "count": "21"
+    },
+    {
+      "title": "Python",
+      "count": "14"
+    },
+    {
+      "title": "jQuery",
+      "count": "8"
+    },
+    {
+      "title": "Distributed Systems"
+    },
+    {
+      "title": "Front-end",
+      "count": "4"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "1",
+    "receivedCount": "1",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/erikjohannessen/",
+        "text": "Michael is extremely enthusiastic and hardworking, which aids his ability to tackle whatever problems are thrown his way. He continually rises to the challenges given him. He finds good solutions to problems, and refuses to be satisfied by sub-optimal solutions. I found him to be an exceptional employee."
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/erikjohannessen/",
+        "text": "Erik is an exceptional mentor. He was very dependable in tough situations and was available for help even after work hours. He provided guidance and creative solutions that enhanced my skills and knowledge as an intern at Tagged. He was also very open-minded in listening to and exploring different approaches to solve a problem. He also let me have a great control over my project which helped me feel the sense of ownership of the project as well."
+      }
+    ]
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/hanson-wang-186a6621/",
+      "text": "Software Engineer at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/zhihaojia/",
+      "text": "Software Engineer at Twitter"
+    },
+    {
+      "user": "https://www.linkedin.com/in/brycelelbach/",
+      "text": "C++ Community Leader, ISO C++ Library Incubator Chair, ISO C++ Tooling Chair, CUDA C++ Core Libraries Lead @ NVIDIA"
+    },
+    {
+      "user": "https://www.linkedin.com/in/paul-snyder-a4826a4/",
+      "text": "Software Engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jay-kim-6221025a/",
+      "text": "Software Engineer at Pinterest"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jia-ye-2927b263/",
+      "text": "Software Engineer at Twitter"
+    },
+    {
+      "user": "https://www.linkedin.com/in/terrylei/",
+      "text": "Software Engineer at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/rachelhong0111/",
+      "text": "Learning & Orgazational Developmenet Assistant at CJ America, Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/kennylt/",
+      "text": "Front End Engineer at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/eracpp/",
+      "text": "Software Engineer at FlightSafety International - Simulation"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Michael Park",
+    "headline": "Software Engineer at Facebook",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQE0MFeiUzsRPg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=WmS0m_0g0fCtOr--rUuF7BLT3Rha5VfEWFZteMYcu8U",
+    "location": "San Francisco, California",
+    "connections": "375",
+    "summary": "- Apache Software Foundation: Apache Mesos Committer\n- C++ Standards Committee\n- C++ Standard Library: Author / Maintainer of libc++ `std::variant`\n- MPark.Patterns: Pattern Matching in C++\n- MPark.Variant: C++17 `std::variant` for C++11/14/17\n- Conference Speaker"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "profileAlternative": {
+    "name": "Alexey Shtokalo",
+    "headline": "Sr. Software Developer",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQF5AnEKK6ZdBw/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=K6O8vYEDH45ObDQ4xujAGQS06K7tQTjE-2gfsaDrJVc",
+    "location": "Russian Federation",
+    "connections": "237",
+    "summary": "Over 10 years of experience in development, including analysis, design, implementation, testing, documentation, deployment and maintenance of application software in web-based environment. Experience in designing and developing object-oriented software applications, ranging from CMS, B2B applications, service delivery, Internet and intranet applications. Skilled in project and team management.\n\nSpecialties: PHP (web-applications, web-sites, REST/XMLRPC/SOAP services, CLI & cron scripts, OOP, MVC, ORM, Yii & Zend frameworks, CMS, Smarty), JavaScript (UI, DOM, AJAX, jQuery, HTA, JSON), cross-browser layout (HTML5, CSS3), HTTP (Apache, nginx, IIS), OS (GNU/Linux, Windows, OS X), VCS (SVN, Mercurial, Bazaar, ClearCase), Other (Perl, Object Pascal, Assembler, Java, C), Study (Python & Django, C#), Agile (Scrum, XP), Database (MySQL, MS SQL, InterBase / FireBird, PostgreSQL).\n\nH1B sponsor required."
+  },
+  "aboutAlternative": {
+    "text": "Over 10 years of experience in development, including analysis, design, implementation, testing, documentation, deployment and maintenance of application software in web-based environment. Experience in designing and developing object-oriented software applications, ranging from CMS, B2B applications, service delivery, Internet and intranet applications. Skilled in project and team management.\n\nSpecialties: PHP (web-applications, web-sites, REST/XMLRPC/SOAP services, CLI & cron scripts, OOP, MVC, ORM, Yii & Zend frameworks, CMS, Smarty), JavaScript (UI, DOM, AJAX, jQuery, HTA, JSON), cross-browser layout (HTML5, CSS3), HTTP (Apache, nginx, IIS), OS (GNU/Linux, Windows, OS X), VCS (SVN, Mercurial, Bazaar, ClearCase), Other (Perl, Object Pascal, Assembler, Java, C), Study (Python & Django, C#), Agile (Scrum, XP), Database (MySQL, MS SQL, InterBase / FireBird, PostgreSQL).\n\nH1B sponsor required."
+  },
+  "positions": [
+    {
+      "title": "Sr. Software Developer",
+      "companyName": "self-employed",
+      "description": "• Designed, documented and implemented web-based warehouse management tool with using PHP, Yii framework, Smarty and MySQL on back end and jQuery on front end.\n• Designed, documented and implemented web-based GUI for CRUD interface and RESTful interface for standalone application (Windows).\n• Developed integration with payment systems (Paypal, Amazon FPS, Authorize.net).\n• Created requirements, documentation and managed development of standalone application.\n• Team and project management. Project requirements and time lines for budget estimations. Tasks assignment to other programmers. Conducted interviews of potential employees. Code review.",
+      "date1": "Jul 2011 – Present",
+      "date2": "8 yrs 5 mos"
+    },
+    {
+      "title": "Sr. Software Developer",
+      "companyName": "GEOLINK Technologies",
+      "description": "• Designed, documented and implemented document conversion intranet service with using Open Office. Integrated service with internal documenting system.\n• Designed and configured CDN for internal web-applications to use them world wide. Integrated two internal web applications with CDN, this makes them faster about 4 times on last mile.\n• Designed UI, created icons and cross-browser layout for 3 internal web-applications.\n• Enhanced and supported 5 intranet projects: documenting system, release planing tool, automated report generator, global support system, developers' dashboard.\n• Designed, documented and implemented automated sprites generator library to optimize set of images used in UI of web-application from about two hundreds of images down to 2 or 3.\n• Took initiative to create code and documentation conventions (requirements) for all team's projects. This simplified maintenance and made involving of new developers into projects easier.\n• Instructed other programmers in JavaScript and PHP programming. Tasks assignment to other programmers. Conducted interviews of potential employees. Code review.\n…\nsee more",
+      "date1": "Dec 2005 – Jun 2011",
+      "date2": "5 yrs 7 mos"
+    },
+    {
+      "title": "Sr. Software Developer",
+      "companyName": "self-employed",
+      "description": "• Designed, documented and implemented web-interface for energy monitoring tool with using PHP, Zend Framework, Smarty, MySQL on back end and jQuery on front end. The interface used SOAP and XMLRPC to interact with hardware devices.\n• Integrated 3rd party Flash-based charts into report subsystem. Created alternative charts with using PHP, GDgraph library and JavaScript with identical visual and behavior features. Configured project to use alternative charts in browsers without Flash support.\n• Designed, documented and implemented unified CRUD interface for MS SQL database used by hardware. The interface provided active support for related fields and built UI automatically from database schema.\n• Implemented draft version of taxi rank service with using Python, Django, MySQL on back end, jQuery, Google maps and then Bing maps on front end, and voice service Tropo.com with Jython scripting (Python in Java) to call clients and taxi companies.\n• Enhanced and supported service of voice game for children with using PHP and PostgreSQL on back end, JavaScript on front end, and Oddcast.com service to animate and sound game character.\n…\nsee more",
+      "date1": "Jul 2008 – Dec 2009",
+      "date2": "1 yr 6 mos"
+    },
+    {
+      "title": "Software Developer",
+      "companyName": "Falk eSolutions AG",
+      "description": "• Enhanced and supported front end part of product MailSolution with using PHP, MySQL and JavaScript.\n• Developed parser to analyze description of ad campaign and automated fill in different fields of ad campaign entity interface as well as creating related entities.",
+      "date1": "Nov 2004 – Nov 2005",
+      "date2": "1 yr 1 mo"
+    },
+    {
+      "title": "Software Developer",
+      "companyName": "CodersTeam Group",
+      "description": "• Took part in development simple CMS with using Perl and then the same with PHP to make it compatible on database level.\n• Took part in development of simple web sites for local companies.",
+      "date1": "Mar 2003 – Sep 2004",
+      "date2": "1 yr 7 mos"
+    },
+    {
+      "title": "Software Developer",
+      "companyName": "Sight In The Future",
+      "description": "• Took part in development of distributed version control system with using Object Pascal (Delphi 7), Assembler and C.\n• Developed fast and optimized version for couple of Delphi and WinAPI functions to interact with files and configuration text files.\n• Rewrote Linux diff tool into Object Pascal and Assembler for closer integration with other code.\n• Took part in development searching tool, that used web search engines to collect database of companies and their contacts by specified conditions.\n…\nsee more",
+      "date1": "Jun 2001 – Feb 2003",
+      "date2": "1 yr 9 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "East Ukraine Volodymyr Dahl National University",
+      "degree": "Bachelor",
+      "fieldofstudy": "Social Informatics, Department of Mathematics and Computer Science",
+      "date1": "2000",
+      "date2": "2004"
+    }
+  ],
+  "skills": [
+    {
+      "title": "JavaScript",
+      "count": "24"
+    },
+    {
+      "title": "MySQL",
+      "count": "24"
+    },
+    {
+      "title": "Subversion",
+      "count": "21"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "1",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/aturbin/",
+        "text": "Alexey is a very good web developer. He has good manage skills. It was also proved by successfull projects he managed."
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "3",
+      "items": [
+        "English",
+        "Russian",
+        "Ukrainian"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Alexey Shtokalo",
+    "headline": "Sr. Software Developer",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQF5AnEKK6ZdBw/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=K6O8vYEDH45ObDQ4xujAGQS06K7tQTjE-2gfsaDrJVc",
+    "location": "Russian Federation",
+    "connections": "237",
+    "summary": "Over 10 years of experience in development, including analysis, design, implementation, testing, documentation, deployment and maintenance of application software in web-based environment. Experience in designing and developing object-oriented software applications, ranging from CMS, B2B applications, service delivery, Internet and intranet applications. Skilled in project and team management.\n\nSpecialties: PHP (web-applications, web-sites, REST/XMLRPC/SOAP services, CLI & cron scripts, OOP, MVC, ORM, Yii & Zend frameworks, CMS, Smarty), JavaScript (UI, DOM, AJAX, jQuery, HTA, JSON), cross-browser layout (HTML5, CSS3), HTTP (Apache, nginx, IIS), OS (GNU/Linux, Windows, OS X), VCS (SVN, Mercurial, Bazaar, ClearCase), Other (Perl, Object Pascal, Assembler, Java, C), Study (Python & Django, C#), Agile (Scrum, XP), Database (MySQL, MS SQL, InterBase / FireBird, PostgreSQL).\n\nH1B sponsor required."
+  }
+}

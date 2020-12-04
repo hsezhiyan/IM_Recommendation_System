@@ -1,0 +1,271 @@
+{
+  "profileAlternative": {
+    "name": "John Andrews",
+    "headline": "Business Applications Manager at Consumers Mutual Insurance of Michigan",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQEfr_YlA5JT1g/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=MlU6jpWfyGEyUk_JlDbj2S_pgXmRvSp-iT8p1wB8k6c",
+    "location": "Lansing, Michigan Area",
+    "connections": "210",
+    "summary": "I am currently the Business Applications Manager for Consumers Mutual Insurance since June 2015. I am responsible for SQL Server administration and development, business systems analysis and project management activities which include planning, designing, implementing and maintaining business applications. I have over 16 years of experience building enterprise level database applications, 5 of those years in the health care industry. I am an active member of the Greater Lansing Area for SQL Server user's group. I served for 7 years in the U.S. Army and National Guard in Germany, Oklahoma, and Michigan. I received a Bachelor of Science in Anthropology with a focus on Archaeology and Museum Studies from Central Michigan University. I am also a writer with two archaeology publications and am in the process of writing my first novel: The Pendant."
+  },
+  "aboutAlternative": {
+    "text": "I am currently the Business Applications Manager for Consumers Mutual Insurance since June 2015. I am responsible for SQL Server administration and development, business systems analysis and project management activities which include planning, designing, implementing and maintaining business applications. I have over 16 years of experience building enterprise level database applications, 5 of those years in the health care industry. I am an active member of the Greater Lansing Area for SQL Server user's group. I served for 7 years in the U.S. Army and National Guard in Germany, Oklahoma, and Michigan. I received a Bachelor of Science in Anthropology with a focus on Archaeology and Museum Studies from Central Michigan University. I am also a writer with two archaeology publications and am in the process of writing my first novel: The Pendant."
+  },
+  "positions": [
+    {
+      "title": "Consumers Mutual Insurance of Michigan",
+      "location": "East Lansing, MI",
+      "description": "• Manage Development team.\n• Manage multiple vendors and projects to ensure timelines are met and completed within budget.\n• Work with department staff to document company business systems and processes.\n• Designed and built two custom enterprise applications for Provider and Member management.\n• Create and manage company SQL Server (2008/2012) databases.\n• Research and evaluate third-party software and make recommendations based on business needs and budgetary constraints.\n• Collaborate with CIO in writing RFPs and selecting vendors for multiple projects.\n• Coordinate data transfers between Third Party Administrator (TPA) and 18 other vendors.\n• Design website modules and manage vendors to ensure completion of projects within budget.\n• Work with internal and external clients for import and normalization of third-party data.\n…\nsee more",
+      "date1": "Jun 2015 – Present",
+      "date2": "4 yrs 6 mos",
+      "roles": [
+        {
+          "title": "Business Applications and SQL Server Manager",
+          "date1": "Jun 2015 – Present",
+          "date2": "4 yrs 6 mos",
+          "location": "East Lansing, MI"
+        },
+        {
+          "title": "Senior SQL Server and Applications Developer",
+          "date1": "Feb 2013 – Jun 2015",
+          "date2": "2 yrs 5 mos",
+          "location": "East Lansing, MI"
+        }
+      ]
+    },
+    {
+      "title": "Title\nBusiness Applications and SQL Server Manager",
+      "location": "East Lansing, MI",
+      "description": "• Manage Development team.\n• Manage multiple vendors and projects to ensure timelines are met and completed within budget.\n• Work with department staff to document company business systems and processes.\n• Designed and built two custom enterprise applications for Provider and Member management.\n• Create and manage company SQL Server (2008/2012) databases.\n• Research and evaluate third-party software and make recommendations based on business needs and budgetary constraints.\n• Collaborate with CIO in writing RFPs and selecting vendors for multiple projects.\n• Coordinate data transfers between Third Party Administrator (TPA) and 18 other vendors.\n• Design website modules and manage vendors to ensure completion of projects within budget.\n• Work with internal and external clients for import and normalization of third-party data.\n…\nsee more",
+      "date1": "Jun 2015 – Present",
+      "date2": "4 yrs 6 mos",
+      "roles": [
+        {
+          "title": "Business Applications and SQL Server Manager",
+          "date1": "Jun 2015 – Present",
+          "date2": "4 yrs 6 mos",
+          "location": "East Lansing, MI"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSenior SQL Server and Applications Developer",
+      "location": "East Lansing, MI",
+      "description": "• Developed and managed company SQL Server (2008/2012) databases.\n• Created databases, tables, stored procedures, functions, views and SQL Server Jobs.\n• Optimized database performance through query analysis, table design and indexing.\n• Worked with internal and external clients for import and normalization of third-party data originating from multiple data sources/types.\n• Built and maintained SQL scripts, indexes, and complex queries for data analysis, data extraction, transform, and load (ETL) using SSIS and Transact SQL (T-SQL).\n• Added and deleted database users and create user roles to manage user permissions.\n• Managed database availability/backup strategies, database maintenance plans and restoration of data.\n• Managed multiple SQL Server environments.\n• Analyzed business processes and recommend solutions.\n• Development of company's proprietary applications using MS Access.\n…\nsee more",
+      "date1": "Feb 2013 – Jun 2015",
+      "date2": "2 yrs 5 mos",
+      "roles": [
+        {
+          "title": "Senior SQL Server and Applications Developer",
+          "date1": "Feb 2013 – Jun 2015",
+          "date2": "2 yrs 5 mos",
+          "location": "East Lansing, MI"
+        }
+      ]
+    },
+    {
+      "title": "Author",
+      "companyName": "Writer",
+      "location": "East Lansing, Michigan",
+      "description": "Non-Fiction and Fiction books. But Always Me novel series.",
+      "date1": "1995 – Present",
+      "date2": "24 yrs"
+    },
+    {
+      "title": "Health Information Systems Developer",
+      "companyName": "Health Plan Management Services",
+      "location": "Lansing, MI",
+      "description": "• Managed Data Services team.\n• Interviewed and hired staff/performed verbal and written counseling and job appraisals.\n• Directed and participated in the development of company's proprietary .Net and MS Access applications.\n• Developed company's proprietary applications using Visual Studio 2008, ASP.NET, VB, T-SQL, and MS Access.\n• Responsible for all aspects of .Net application development to include project management, user interfaces, business logic/analysis, deployment and SQL database design.\n• Collaborated with departmental users to automate business processes and routine functions.\n• Documented application and database requirements.\n• Conducted user training and created user manuals for company’s proprietary applications.\n• Created and managed company SQL Server (2005/2008) and Access databases.\n• Built and maintained SQL scripts, indexes, and complex queries for data analysis, manipulation, import and extraction of data using SSIS and Transact SQL (T-SQL).\n• Administered multiple SQL Server environments: Production, Development and Testing.\n…\nsee more",
+      "date1": "Oct 2010 – Feb 2013",
+      "date2": "2 yrs 5 mos"
+    },
+    {
+      "title": "Information Systems Manager",
+      "companyName": "Dent Enterprises",
+      "location": "DeWitt, MI",
+      "description": "• Managed development team in converting the company’s proprietary enterprise application from MS Access to ASP.NET.\n• Interviewed and hired staff and contractors.\n• Created company’s enterprise application in MS Access and SQL Server2000/2005.\n• Responsible for all aspects of application development to include project management, user interface and business logic/analysis.\n• Responsible for SQL Server database design, maintenance, optimization, indexing, and backup strategies.\n• Data extraction, transform, and load (ETL) using Transact SQL (T-SQL), DTS and SSIS.\n• Managed multiple SQL Servers: Production, Development, Backup, Financial and Sales.\n• Managed database availability/backup strategies including transaction log shipping, database mirroring, database maintenance plans and restoration of data as needed.\n• Led company focus groups to identify business needs and inefficiencies.\n…\nsee more",
+      "date1": "Feb 2001 – Oct 2010",
+      "date2": "9 yrs 9 mos"
+    },
+    {
+      "title": "Coordinator of Public Programs",
+      "companyName": "Pueblo Grande Museum and Archaeological Park",
+      "description": "• Supervisor - Visitor Services Department\n• Supervised, hired, counseled, trained, evaluated, and scheduled staff.\n• Developed and coordinated educational programs on and off site.\n• Created and managed Access database application for Education Department.\n• Developed budgets and managed various museum financial accounts.\n• Marketed museum through various mediums.\n• Performed grant funding research and writing for various educational programs.\n• Developed and managed museum’s web site.\n…\nsee more",
+      "date1": "Oct 1995 – Nov 2000",
+      "date2": "5 yrs 2 mos"
+    },
+    {
+      "title": "Staff Sergeant - Squad Leader",
+      "companyName": "Michigan Army National Guard - Infantry",
+      "location": "Alma, MI",
+      "description": "MOS: 11B, Infantry\nPrimary Schools: Basic Noncommissioned Officer Course",
+      "date1": "Jun 1990 – Jun 1993",
+      "date2": "3 yrs 1 mo"
+    },
+    {
+      "title": "Sergeant - Assistant Squad Leader",
+      "companyName": "US Army - Combat Engineer",
+      "location": "Hanuau, Germany and Ft Sill, OK",
+      "description": "MOS: 12B, Combat Engineer\nPrimary Schools: Primary Leadership Development Course",
+      "date1": "Jun 1986 – Jun 1990",
+      "date2": "4 yrs 1 mo"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Central Michigan University",
+      "degree": "Project Management coursework",
+      "fieldofstudy": "Project Management coursework",
+      "date1": "2015",
+      "date2": "2015"
+    },
+    {
+      "title": "New Horizons Computer Learning Center",
+      "degree": "IT Courses",
+      "fieldofstudy": "SQL Server, ASP.NET, VB.NET, MS Access",
+      "date1": "2002",
+      "date2": "2008"
+    },
+    {
+      "title": "Central Michigan University",
+      "degree": "Bachelor of Science",
+      "fieldofstudy": "Archaeology, History, Museum Studies",
+      "date1": "1990",
+      "date2": "1995"
+    },
+    {
+      "title": "Ithaca High School",
+      "date1": "1982",
+      "date2": "1986"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Microsoft SQL Server",
+      "count": "2"
+    },
+    {
+      "title": "ETL"
+    },
+    {
+      "title": "Business Intelligence",
+      "count": "1"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "4",
+      "items": [
+        "But Always Me: The Pendant",
+        "Hohokam: Prehistoric Inhabitants of Pueblo Grande",
+        "Desert Farmers at the River's Edge: The Hohokam and Pueblo Grande",
+        "A Lithic Analysis of the Frazer-Tyra Site (20SA9): A Multi-component Site in the Saginaw Valley"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "Capital City Writers Association",
+        "GLASS: Greater Lansing Area for SQL Server",
+        "Lansing Writers & Readers Guild"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "SQL Server Infrastructure",
+        "Electronic Health Records",
+        ".NET application conversion"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Community Service Award"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "English"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/heather-symons-0a71aa95/",
+      "text": "Software Developer at Grant Street Group"
+    },
+    {
+      "user": "https://www.linkedin.com/in/andrea-evans-28785245/",
+      "text": "Director of Project Management at Human Element"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ronnirving/",
+      "text": "Sales Entrepreneur/Business Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shashank-gupta-325674b1/",
+      "text": "Software Engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/marshel/",
+      "text": "Chief Technology Officer at Revalue LLC"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ibabinska/",
+      "text": "Foundation Relations Officer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shawn-mckinley-baab356/",
+      "text": "Senior Web Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/anthony-stepp-768a02182/",
+      "text": "Information Technology | Software Engineering | Change Management"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jeremy-rackley-05a1b0a0/",
+      "text": "--"
+    },
+    {
+      "user": "https://www.linkedin.com/in/roy-salazar-iii-a527a614a/",
+      "text": "Handyman at Roys Rapid Repairs"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "President and Secretary",
+      "experience": "Hawk Nest Homeowners Association",
+      "date1": "2008 – 2012",
+      "date2": "4 yrs"
+    },
+    {
+      "title": "Applications and Database Development",
+      "experience": "Michigan Recycling Coalition",
+      "description": "Environment",
+      "date1": "2012 – 2013",
+      "date2": "1 yr"
+    },
+    {
+      "title": "Archaeological Site Monitor",
+      "experience": "Arizona Site Stewards",
+      "description": "Arts and Culture",
+      "date1": "1998 – 2000",
+      "date2": "2 yrs"
+    }
+  ],
+  "profile": {
+    "name": "John Andrews",
+    "headline": "Business Applications Manager at Consumers Mutual Insurance of Michigan",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQEfr_YlA5JT1g/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=MlU6jpWfyGEyUk_JlDbj2S_pgXmRvSp-iT8p1wB8k6c",
+    "location": "Lansing, Michigan Area",
+    "connections": "210",
+    "summary": "I am currently the Business Applications Manager for Consumers Mutual Insurance since June 2015. I am responsible for SQL Server administration and development, business systems analysis and project management activities which include planning, designing, implementing and maintaining business applications. I have over 16 years of experience building enterprise level database applications, 5 of those years in the health care industry. I am an active member of the Greater Lansing Area for SQL Server user's group. I served for 7 years in the U.S. Army and National Guard in Germany, Oklahoma, and Michigan. I received a Bachelor of Science in Anthropology with a focus on Archaeology and Museum Studies from Central Michigan University. I am also a writer with two archaeology publications and am in the process of writing my first novel: The Pendant."
+  }
+}

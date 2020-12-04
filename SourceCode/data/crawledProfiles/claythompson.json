@@ -1,0 +1,169 @@
+{
+  "profileAlternative": {
+    "name": "Clay M. Thompson",
+    "headline": "Expert MATLAB consulting, machine learning, and iPhone software development",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQEd2E1wiBa-4A/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=Qxg_SZAl3NRsPxen96aftzx5dagJYLaaxURZvixIOYs",
+    "location": "Camano Island, Washington",
+    "connections": "154",
+    "summary": "Custom MATLAB software development, machine learning, and consulting. I also specialize in custom iPhone and smart phone software."
+  },
+  "aboutAlternative": {
+    "text": "Custom MATLAB software development, machine learning, and consulting. I also specialize in custom iPhone and smart phone software."
+  },
+  "positions": [
+    {
+      "title": "Owner and MATLAB Consultant",
+      "companyName": "Mathematical Engineering",
+      "location": "Camano Island, WA",
+      "description": "MATLAB consulting services by a MATLAB toolbox author and MATLAB expert. Services include machine learning, m-file performance optimization (speed-up), MATLAB GUI development and porting code to C/C++. I can also help with algorithm development, model building, image processing, finance and optimization.",
+      "date1": "Mar 1999 – Present",
+      "date2": "20 yrs 9 mos"
+    },
+    {
+      "title": "MATLAB Consultant",
+      "companyName": "Intellectual Ventures",
+      "location": "Greater Seattle Area",
+      "description": "Developing image processing, machine learning and software for an automated malaria diagnosis and quantitation system.",
+      "date1": "Oct 2013 – Present",
+      "date2": "6 yrs 2 mos"
+    },
+    {
+      "title": "MATLAB Consultant",
+      "companyName": "CIRECA",
+      "location": "Greater Boston Area",
+      "description": "Developed machine learning algorithms, software and GUIs to discover new insights into tumor and tissue composition from visual and FTIR spectral images.",
+      "date1": "Feb 2011 – Present",
+      "date2": "8 yrs 10 mos"
+    },
+    {
+      "title": "Owner and Software Developer",
+      "companyName": "Creative Creek, LLC",
+      "location": "Camano Island, WA",
+      "description": "Professional calculators for iPhone, Palm OS and Windows Mobile. Makers of MathU, MathU RPN, MathU 12D and MathU Pro.\n\nI have created a set of advanced RPN calculators for mobile devices. The calculators are inspired by classic HP calculators and include a programmable model and a complex number calculator.\n…\nsee more",
+      "date1": "Sep 1998 – Present",
+      "date2": "21 yrs 3 mos"
+    },
+    {
+      "title": "Member of Steering and Outreach Committees",
+      "companyName": "Solarize Stanwood/Camano",
+      "location": "Camano Island, WA",
+      "description": "This is a volunteer position in my community. Solarize Stanwood/Camano is a community project whose goal is to bring solar electric power to Stanwood and Camano WA. The approach is to partner with Northwest S.E.E.D, the local power company (Snohomish County PUD) and an installer to make it easy for residents to learn about and choose solar power for their homes and small businesses.\n\nThe steering committee mainly responsible for writing an RFP selecting an installer. The outreach committee is responsible to advertising and outreach including giving presentations all over the Island and in Stanwood.\n…\nsee more",
+      "date1": "Dec 2011 – Aug 2012",
+      "date2": "9 mos"
+    },
+    {
+      "title": "Consultant",
+      "companyName": "Nanotronics Imaging",
+      "description": "Custom image processing algorithms.",
+      "date1": "2010 – 2011",
+      "date2": "1 yr"
+    },
+    {
+      "title": "Toolbox Author & Language Designer",
+      "companyName": "The MathWorks",
+      "description": "Chief language designer for MATLAB 5.0 (the release of MATLAB that added multi-dimensional arrays, integer data types and object oriented programming). Added or updated hundreds of m-files within MATLAB.\n\nToolbox author:\nImage Processing Toolbox 1.0\nControl Toolbox 3.0\n\nI also developed the MATLAB Runtime Server 1.0 (which later became the MATLAB Common Runtime)\n…\nsee more",
+      "date1": "1991 – 1999",
+      "date2": "8 yrs"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Massachusetts Institute of Technology",
+      "degree": "Ph.D.",
+      "fieldofstudy": "Mechanical Engineering",
+      "date1": "1987",
+      "date2": "1992"
+    },
+    {
+      "title": "Stanford University",
+      "degree": "MS",
+      "fieldofstudy": "Aeronautics & Astronautics",
+      "date1": "1984",
+      "date2": "1984"
+    },
+    {
+      "title": "University of Washington",
+      "degree": "BS",
+      "fieldofstudy": "Aeronautics & Astronautics",
+      "date1": "1979",
+      "date2": "1983"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Matlab",
+      "count": "20"
+    },
+    {
+      "title": "C++",
+      "count": "15"
+    },
+    {
+      "title": "Software Development",
+      "count": "15"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "1",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/peter-costa-61586a/",
+        "text": "I have known Dr. Thompson for 10 years. There are few, if any, scientists who are as skilled computationally as Dr. Thompson. He is an exceptional programmer (especially for scientific or engineering applications), a capable engineer, and an exceptional human being. It is virtually impossible for me to sufficiently praise his technical skills or profound humanity.\n…\nSee more"
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/xinying-mu/",
+      "text": "PhD Candidate / Machine Learning / Statistics"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ksleins1/",
+      "text": "Talent Acquisition at Jackson National Asset Management, LLC and PPM America, Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/danogden/",
+      "text": "Principal, Ultra Premium Resume Services & Search at Omnibus Consulting Musician at Unnecessarily Complex Music/ASCAP"
+    },
+    {
+      "user": "https://www.linkedin.com/in/gailrochlitz/",
+      "text": "Channel Manager at Beacon Talent - Recruiting Strategy, Client Success, Talent Wrangler, \"Head Honcho\""
+    },
+    {
+      "user": "https://www.linkedin.com/in/sethkauf/",
+      "text": "Incoming President & CEO (effective 1/1/20) at Moët Hennessy, North America"
+    },
+    {
+      "user": "https://www.linkedin.com/in/dparanchych/",
+      "text": "Engineering Director at Intellectual Ventures"
+    },
+    {
+      "user": "https://www.linkedin.com/in/toddfahey/",
+      "text": "Senior Managing Director at Atlantic Group"
+    },
+    {
+      "user": "https://www.linkedin.com/in/alex-knight-5ba61/",
+      "text": "Head - Invention Program Management, Invention Science Fund at Intellectual Ventures"
+    },
+    {
+      "user": "https://www.linkedin.com/in/williamrharper/",
+      "text": "Principal Member Of Technical Staff at Oracle"
+    },
+    {
+      "user": "https://www.linkedin.com/in/max-diem-1a725115/",
+      "text": "Professor at Northeastern University"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Clay M. Thompson",
+    "headline": "Expert MATLAB consulting, machine learning, and iPhone software development",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQEd2E1wiBa-4A/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=Qxg_SZAl3NRsPxen96aftzx5dagJYLaaxURZvixIOYs",
+    "location": "Camano Island, Washington",
+    "connections": "154",
+    "summary": "Custom MATLAB software development, machine learning, and consulting. I also specialize in custom iPhone and smart phone software."
+  }
+}

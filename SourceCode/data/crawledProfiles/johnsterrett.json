@@ -1,0 +1,307 @@
+{
+  "profileAlternative": {
+    "name": "Providing Information Technology services\n\nIT Consulting\n\nSee all details",
+    "headline": "Data Platform Expert and CEO of Procure SQL",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQFc1Rwc0vo_tw/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=l4UImGxAga_iMkgSPmcuA97RRJsalMWedbO7yrjT39M",
+    "summary": "John's experience leading large technical teams in complex environments has made him a global expert in performance and scalability. He has managed architectures with up to 1000 servers and is known for his expertise in SQL Server and related technologies. John speaks at conferences around the world on database strategy and topics related to performance tuning, developing and cloud computing. He is a certified Microsoft MCSE: Data Platform and former Microsoft MVP. He is the Principal consultant and founder at Procure SQL."
+  },
+  "aboutAlternative": {
+    "text": "John's experience leading large technical teams in complex environments has made him a global expert in performance and scalability. He has managed architectures with up to 1000 servers and is known for his expertise in SQL Server and related technologies. John speaks at conferences around the world on database strategy and topics related to performance tuning, developing and cloud computing. He is a certified Microsoft MCSE: Data Platform and former Microsoft MVP. He is the Principal consultant and founder at Procure SQL."
+  },
+  "positions": [
+    {
+      "title": "CEO & Principal Consultant",
+      "companyName": "Procure SQL",
+      "location": "Austin, Texas Area",
+      "description": "I am a Principal Consultant who focuses on stabilizing performance, availability and operations for clients who are having SQL Server problems.",
+      "date1": "Apr 2014 – Present",
+      "date2": "5 yrs 8 mos"
+    },
+    {
+      "title": "Teammate",
+      "companyName": "Linchpin People",
+      "location": "Austin, Texas Area",
+      "date1": "Apr 2014 – Apr 2017",
+      "date2": "3 yrs 1 mo"
+    },
+    {
+      "title": "Database Sr. Advisor",
+      "companyName": "Dell",
+      "description": "Sr. Database Admin Advisor who managed several critical databases behind the dell.com ordering process. Implemented and maintained AlwaysOn Availability Groups from the ground up using multiple data centers. Lead SQL Server performance tuner who completed several performances tuning initiatives across silos including Black Friday. Implemented table partitioning in various projects to improve maintenance, performance, the archiving and purging processes for very large databases. I was involved in setting and developing standards for high availability. I was a member of the SQL 2014 TAP program to validate and test new SQL Server features. I delivered several knowledge training sessions as part of the companies Knowledge Management ITIL initiative.\n…\nsee more",
+      "date1": "May 2013 – Mar 2014",
+      "date2": "11 mos"
+    },
+    {
+      "title": "SQL Server Database Administrator",
+      "companyName": "Remote DBA Experts",
+      "description": "I was a Senior DBA who worked remotely and was directly in charge of managing and administrating hundreds of databases for several clients. This role included implementing and maintaining high availability and disaster recovery plans using availability groups, replication, clustering, log shipping and mirroring. I was directly responsible for mentoring and training junior DBAs. I specialized in doing triages to improve performance with performance tuning and code tuning. I led projects to redesign existing data models to improve performance. I lead, managed and completed many projects to extract, transfer and load data using Integration Services and other tools.\n…\nsee more",
+      "date1": "May 2011 – Apr 2013",
+      "date2": "2 yrs"
+    },
+    {
+      "title": "Orrick, Herrington & Sutcliffe LLP",
+      "description": "I was directly responsible for over 100 production instances across SQL Server 2000/2005/2008/2008R2. I created and automated our daily checklist. I was in charge of our high availability and disaster recovery strategies. I worked with system engineers to implement and maintain SQL Clusters, log shipping and mirroring. I utilized log shipping to migrate VLDB’s to our new data center while minimizing downtime. I ensure high performance by proactively monitoring mission critical databases with custom scripts, Policy-Based Management and Ignite by Confio. I maintain relationships with vendors and have implemented several SQL tools to improve our support to the business owners.\n…\nsee more",
+      "date1": "Jan 2010 – May 2011",
+      "date2": "1 yr 5 mos",
+      "roles": [
+        {
+          "title": "Application Engineer & DBA",
+          "date1": "Jan 2010 – May 2011",
+          "date2": "1 yr 5 mos"
+        },
+        {
+          "title": "Web Engineering Specialist",
+          "date1": "May 2007 – Jan 2010",
+          "date2": "2 yrs 9 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nApplication Engineer & DBA",
+      "description": "I was directly responsible for over 100 production instances across SQL Server 2000/2005/2008/2008R2. I created and automated our daily checklist. I was in charge of our high availability and disaster recovery strategies. I worked with system engineers to implement and maintain SQL Clusters, log shipping and mirroring. I utilized log shipping to migrate VLDB’s to our new data center while minimizing downtime. I ensure high performance by proactively monitoring mission critical databases with custom scripts, Policy-Based Management and Ignite by Confio. I maintain relationships with vendors and have implemented several SQL tools to improve our support to the business owners.\n…\nsee more",
+      "date1": "Jan 2010 – May 2011",
+      "date2": "1 yr 5 mos",
+      "roles": [
+        {
+          "title": "Application Engineer & DBA",
+          "date1": "Jan 2010 – May 2011",
+          "date2": "1 yr 5 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nWeb Engineering Specialist",
+      "description": "I lead the development and maintenance for some internal ASP and ASP.NET web applications. I managed and administrated the web teams SQL Server databases, and led the team in query optimization, reporting services, integration services, and analysis services. I have implemented data warehouses, data integration projects, and completed several upgrades including SQL Server 2000 to SQL Server 2005 and SQL Server 2005 to SQL Server 2008. I have also presented several training sessions to provide knowledge sharing within Orrick and the IT Community.\n…\nsee more",
+      "date1": "May 2007 – Jan 2010",
+      "date2": "2 yrs 9 mos",
+      "roles": [
+        {
+          "title": "Web Engineering Specialist",
+          "date1": "May 2007 – Jan 2010",
+          "date2": "2 yrs 9 mos"
+        }
+      ]
+    }
+  ],
+  "educations": [
+    {
+      "title": "University of Oklahoma",
+      "degree": "B.S.",
+      "fieldofstudy": "Computer Engineering",
+      "date1": "2000",
+      "date2": "2005"
+    },
+    {
+      "title": "James E. Taylor High School"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Microsoft SQL Server",
+      "count": "99+"
+    },
+    {
+      "title": "Databases",
+      "count": "99+"
+    },
+    {
+      "title": "SSIS",
+      "count": "99+"
+    },
+    {
+      "title": "Performance Tuning",
+      "count": "73"
+    },
+    {
+      "title": "Database Design",
+      "count": "43"
+    },
+    {
+      "title": "Data Warehousing",
+      "count": "42"
+    },
+    {
+      "title": "Disaster Recovery",
+      "count": "41"
+    },
+    {
+      "title": "High Availability",
+      "count": "39"
+    },
+    {
+      "title": "Database Administration",
+      "count": "38"
+    },
+    {
+      "title": "Cluster",
+      "count": "1"
+    },
+    {
+      "title": "T-SQL",
+      "count": "62"
+    },
+    {
+      "title": "SQL",
+      "count": "40"
+    },
+    {
+      "title": "Oracle",
+      "count": "17"
+    },
+    {
+      "title": "Relational Databases",
+      "count": "13"
+    },
+    {
+      "title": "SQL Tuning",
+      "count": "45"
+    },
+    {
+      "title": "SQL Clustering",
+      "count": "18"
+    },
+    {
+      "title": "Replication",
+      "count": "17"
+    },
+    {
+      "title": "Analysis Services",
+      "count": "7"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "2",
+    "receivedCount": "12",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/dalecunningham/",
+        "text": "In my first adventure to use Always On Availability Groups, John was there as a mentor and teacher for us to configure our environment correctly. Integrating Johns experience into our project related to Active Directory, Windows Clustering, hardware setup and overall cluster health checks was an invaluable experience for me. I also had a chance to work closely with John in a T-SQL performance tuning setting. We tackled some tough queries that had caused us some pain for a long time. Working with John was a good learning experience and he was always willing to listen and offer solutions.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/briancmoran/",
+        "text": "John is one the best and smartest SQL Server consultants I have worked with over 25+ years in the business. John was part of my team at Linchpin People and I work with him now through his company ProCure SQL. John has deep and wide knowledge of SQL Server and in particular is one of the best SQL Server performance tuning people that I know. He has excellent communication skills and is gifted in handling challenging customer scenarios. I can give John any SQL Server related problem in his skill set and have complete confidence that the customer will be happy when all is said and done. I have worked with hundreds of SQL Server consultants over the years. John is one of the best.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/mikepwalsh/",
+        "text": "I've had the pleasure of working with John for a number of years in varying capacities. When it comes to technical knowledge of SQL Server, he's on my list of \"go-to\" people. Especially with performance tuning and high availability. I can't tell you how many times I reference some of the scripts he's written and blogged about when I'm working with a client or giving a presentation. I also know that if I need someone to help out with overflow tuning he's top of my list. He knows his stuff. It's that simple.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/russ960/",
+        "text": "During the short time I worked with John his impact was tremendous. In one instance John helped us reduce our archive purge process from hours to minutes. John also provided excellent support during deployments and was always eager to help. John is always willing to share his knowledge with those he works with. John, also does a great job of trying to understand the business needs and requirements so that he can properly tailor his advice to the business needs. I can highly recommend John.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/konstantin-melamud-56389363/",
+        "text": "John is a great asset to my team. Whenever I assign work to John I can count on him getting it done. Not only can he jump in and solve critical problems without notice but he can also provide outstanding architectural design. He is able to solve client problems without any intervention and also goes out of his way to help teammates when they need guidance. It is an honor having him on my team and I think anyone would be extremely lucky to have John on their team in the future.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/williamjwolf/",
+        "text": "It is difficult to write a recommendation for Mr. Sterrett only because there is so much to recommend. John is an extremely driven, intelligent and diligent DBA. He has quickly become one of my most respected colleagues as well as a precious senior resource on which the majority of our DBAs rely in one form or another. John is an extraordinary asset as a DBA and a very trusted peer. There is nothing he cannot handle and he is willing to help anyone in need.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/brad-wilson-68b53731/",
+        "text": "John is a fantastic DBA as well as a great person. He is very knowledgeable on SQL Server as well as many other types of business technologies. I have only worked with John for about a year, but in that year he has taught me many valuable lessons about technology and business."
+      },
+      {
+        "user": "https://www.linkedin.com/in/michaeljtesta/",
+        "text": "I have met John through the AITP, Wheeling organization. John has been very involved in the group and well respected among his peers. John's has a unique way of using what he has learned in his career to translate that knowledge into his leadership skills. His networking skills have enabled him to bring in highly qualified speakers for the AITP meetings. I recommend John.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/johnwparkinson/",
+        "text": "John Sterrett has been a member of the AITP Greater Wheeling Chapter since 2006. John will hold the office of President for the year 2010. He has always been willing to take on extra duties by serving on the following Chapter Committees: Student Chapter liaison, Chapter Programming, Chapter Website Development and Chapter Nominations. John has also been active on the Region 18 level by giving a presentation to the Pittsburgh Chapter. He has meet with Region 18 members and is excited about being involved at the Region level. John is in the process of trying to set up a SQLSaturday in the Wheeling Area. SQLSaturday is a free one day training event that would draw SQL Server professionals from the Tri-State area and would certainly be a chance for the Greater Wheeling Chapter to spread the word about AITP. John is always willing to give advice or guidance when someone is having a problem with a project. Being a past president of the Greater Wheeling Chapter, I can honestly say that not only is John Sterrett an asset to our Chapter but he is someone who I can call a friend. John Parkinson\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/steve-wallen-pmp-3254466/",
+        "text": "John is an extremely dedicated and talented developer. He has a desire to deliver quality work and has a strong attention to detail. In addition, John recognizes the importance of team work and is a willing to assist others to secure project success."
+      },
+      {
+        "user": "https://www.linkedin.com/in/gregmatzorkis/",
+        "text": "John is a detail oriented web engineer who is proactive in his approach to work. He can be relied upon not only for his technical expertise but also for his understanding and desire to improve the business case at hand. He is one of those people you can rely on to get the job done. A real pleasure to work with."
+      },
+      {
+        "user": "https://www.linkedin.com/in/dolph-santorine-82b3973/",
+        "text": "John was a Senior Developer on staff and did a fine job. He was punctual and highly detail oriented. He is also very concerned about personal growth in his chosen field."
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/brad-wilson-68b53731/",
+        "text": "Brad is a great DBA who is detailed oriented and a great member to the SQL Server team. Brad has great potential and I look forward to seeing him grow in the direction he is going."
+      },
+      {
+        "user": "https://www.linkedin.com/in/danyelle-mcmahon-174ba5a/",
+        "text": "I would highly recommend Danyelle’s training sessions.  I attended her SQL 2008 training and was blown away by her ability to answer every question that was fired her way.  She also took initiative to forward supplemental notes and online training labs.  Hopefully I will attend more of her sessions in the future."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "3",
+      "items": [
+        "Microsoft Data Platform MVP",
+        "ITIL Foundations v3.0",
+        "Microsoft Technology Specialist - SQL Server 2008"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Professional Association of SQL Server"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "SQL Server 2014 Backup and Recovery"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/kimberlyltripp/",
+      "text": "President/Founder at SQLskills.com"
+    },
+    {
+      "user": "https://www.linkedin.com/in/itzikbengan/",
+      "text": "T-SQL Trainer at SolidQ, Microsoft Data Platform MVP"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jerry-eyerusalem-getaneh-028686189/",
+      "text": "Microsoft SQL Server Database Administrator at Bank of America, Silver Spring, MD"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jonathankehayias/",
+      "text": "Principal Consultant at SQLskills"
+    },
+    {
+      "user": "https://www.linkedin.com/in/markvarnas/",
+      "text": "SQL Server Performance Tuning Expert and DBA. I make SQL Servers faster and more reliable."
+    },
+    {
+      "user": "https://www.linkedin.com/in/mikepwalsh/",
+      "text": "Focus on your business and leave the databases to us. High touch service in the Microsoft data space."
+    },
+    {
+      "user": "https://www.linkedin.com/in/brian-savage-081621195/",
+      "text": "DOC Team Lead at RDX"
+    },
+    {
+      "user": "https://www.linkedin.com/in/vishal-patel-7bb825121/",
+      "text": "Sql Server Database Administrator at TransCore"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kimberlykillian/",
+      "text": "Advisory Consultant - Sr. SQL Server Consultant at Dell"
+    },
+    {
+      "user": "https://www.linkedin.com/in/benjaminnevarez/",
+      "text": "SQL Server Professional"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Providing Information Technology services\n\nIT Consulting\n\nSee all details",
+    "headline": "Data Platform Expert and CEO of Procure SQL",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQFc1Rwc0vo_tw/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=l4UImGxAga_iMkgSPmcuA97RRJsalMWedbO7yrjT39M",
+    "summary": "John's experience leading large technical teams in complex environments has made him a global expert in performance and scalability. He has managed architectures with up to 1000 servers and is known for his expertise in SQL Server and related technologies. John speaks at conferences around the world on database strategy and topics related to performance tuning, developing and cloud computing. He is a certified Microsoft MCSE: Data Platform and former Microsoft MVP. He is the Principal consultant and founder at Procure SQL."
+  }
+}

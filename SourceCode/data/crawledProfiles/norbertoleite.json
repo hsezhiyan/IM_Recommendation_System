@@ -1,0 +1,249 @@
+{
+  "profileAlternative": {
+    "name": "Norberto Leite",
+    "headline": "Lead Engineer at MongoDB",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQHIEpQ824rlxw/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=bCkclrXJTKvvBxqL9gTUcVNyd4-TVgg9gj7m8hWjve4",
+    "location": "New York, New York",
+    "connections": "500+"
+  },
+  "aboutAlternative": {},
+  "positions": [
+    {
+      "title": "MongoDB",
+      "location": "Barcelona",
+      "date1": "Aug 2016 – Present",
+      "date2": "3 yrs 4 mos",
+      "roles": [
+        {
+          "title": "Lead Engineer",
+          "date1": "Aug 2016 – Present",
+          "date2": "3 yrs 4 mos"
+        },
+        {
+          "title": "Technical Evangelist",
+          "date1": "Dec 2014 – Present",
+          "date2": "5 yrs"
+        },
+        {
+          "title": "Solutions Architect",
+          "date1": "Aug 2012 – Present",
+          "date2": "7 yrs 4 mos",
+          "location": "Barcelona"
+        },
+        {
+          "title": "Curriculum Engineer",
+          "date1": "Jan 2016 – Aug 2016",
+          "date2": "8 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nLead Engineer",
+      "date1": "Aug 2016 – Present",
+      "date2": "3 yrs 4 mos",
+      "roles": [
+        {
+          "title": "Lead Engineer",
+          "date1": "Aug 2016 – Present",
+          "date2": "3 yrs 4 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nTechnical Evangelist",
+      "date1": "Dec 2014 – Present",
+      "date2": "5 yrs",
+      "roles": [
+        {
+          "title": "Technical Evangelist",
+          "date1": "Dec 2014 – Present",
+          "date2": "5 yrs"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSolutions Architect",
+      "location": "Barcelona",
+      "date1": "Aug 2012 – Present",
+      "date2": "7 yrs 4 mos",
+      "roles": [
+        {
+          "title": "Solutions Architect",
+          "date1": "Aug 2012 – Present",
+          "date2": "7 yrs 4 mos",
+          "location": "Barcelona"
+        }
+      ]
+    },
+    {
+      "title": "Title\nCurriculum Engineer",
+      "date1": "Jan 2016 – Aug 2016",
+      "date2": "8 mos",
+      "roles": [
+        {
+          "title": "Curriculum Engineer",
+          "date1": "Jan 2016 – Aug 2016",
+          "date2": "8 mos"
+        }
+      ]
+    },
+    {
+      "title": "BigData Engineer",
+      "companyName": "Telefonica I+D",
+      "location": "Barcleona",
+      "description": "Python / PHP / Java / MongoDB developer.\nAgile methodology (SCRUM).\nSNMP protocol development",
+      "date1": "Apr 2011 – Aug 2012",
+      "date2": "1 yr 5 mos"
+    },
+    {
+      "title": "Senior Java Engineer",
+      "companyName": "Trovit",
+      "description": "Solr, Java, Gearman, AWS integration",
+      "date1": "Apr 2009 – Jun 2010",
+      "date2": "1 yr 3 mos"
+    },
+    {
+      "title": "Senior Java Engineer",
+      "companyName": "eDreams",
+      "date1": "Feb 2008 – Mar 2009",
+      "date2": "1 yr 2 mos"
+    },
+    {
+      "title": "Software Engineer",
+      "companyName": "MP Objects",
+      "date1": "Apr 2007 – Jan 2008",
+      "date2": "10 mos"
+    },
+    {
+      "title": "Junior Engineer",
+      "companyName": "Critical Software",
+      "date1": "Jul 2006 – Mar 2007",
+      "date2": "9 mos"
+    },
+    {
+      "title": "Junior Engineer",
+      "companyName": "OTW",
+      "date1": "Sep 2005 – Jul 2006",
+      "date2": "11 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "ISEC",
+      "date1": "2002",
+      "date2": "2005"
+    }
+  ],
+  "skills": [
+    {
+      "title": "MongoDB",
+      "count": "99+"
+    },
+    {
+      "title": "Python",
+      "count": "52"
+    },
+    {
+      "title": "Java",
+      "count": "52"
+    },
+    {
+      "title": "PHP",
+      "count": "36"
+    },
+    {
+      "title": "MySQL",
+      "count": "33"
+    },
+    {
+      "title": "Oracle",
+      "count": "15"
+    },
+    {
+      "title": "Bash",
+      "count": "10"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "5",
+    "receivedCount": "2",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/marcellobaquero/",
+        "text": "Norberto is a highly motivated and hard working Solutions Architect. He is ready and able to take on any task and stick with it until he creates a solution. While he was at Telefonica Spain, I invited Norberto to present about how Telefonica implemented mongodb, in an all day conference in Sao Paulo, he clearly showed his knowledge, and stage presence. I highly recommend Norberto.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/alozalv/",
+        "text": "His sharp mind and great technical skills allow him to become one relevant asset in any development he takes part in. Specialized in noSQL and Big Data solutions, Norberto is the kind of engineer you choose to get things done. And, on top of that, he is the guy you want by your side on the social events ;-) I can foresee his successful professional future, in which I would love to cross paths as many times as possible\n…\nSee more"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/alozalv/",
+        "text": "Direct, straight forward, positive thinking and solution maker. Angelica as always been on the solution part of the equation either when development or management demands. Been a true pleasure to have the oportunity to work with such a high level professional. Just hope we can cross paths in the future."
+      },
+      {
+        "user": "https://www.linkedin.com/in/danielgimenez/",
+        "text": "If one needs a direct, out of the box, 0 BS, razor sharp mentality person Daniel is your guy. It might not be the easiest person to deal with but in terms of work related is one of the most concise and proactive person that I have worked with so far."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "1",
+      "items": [
+        "Personalisation Server"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/seong17/",
+      "text": "Vice President, Strategy & Product Marketing"
+    },
+    {
+      "user": "https://www.linkedin.com/in/redondos/",
+      "text": "Staff Engineer at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mattallenlord/",
+      "text": "Senior Software Engineer at WeWork"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jalpatrivedi/",
+      "text": "Software Engineer at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/robertmiyashiro/",
+      "text": "Staff Engineer at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/laurenjanece/",
+      "text": "Software Engineer, Developer Advocate, Inventor, & International Speaker"
+    },
+    {
+      "user": "https://www.linkedin.com/in/niyati1/",
+      "text": "Business Operations, Product Management, & Growth Leader"
+    },
+    {
+      "user": "https://www.linkedin.com/in/eliothorowitz/",
+      "text": "CTO and Co-Founder at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/alexandrina-koykova-91890117/",
+      "text": "Director, People Operations at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/terakilobyte/",
+      "text": "Developing"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Norberto Leite",
+    "headline": "Lead Engineer at MongoDB",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQHIEpQ824rlxw/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=bCkclrXJTKvvBxqL9gTUcVNyd4-TVgg9gj7m8hWjve4",
+    "location": "New York, New York",
+    "connections": "500+"
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "profileAlternative": {
+    "name": "Kavita Trivedi",
+    "headline": "Senior SQL Server DBA at Bank of America",
+    "location": "Greater New York City Area",
+    "connections": "17",
+    "summary": "EXPERIENCE AND CERTIFICATION\n• 17+ years of experience – Senior SQL Server Database Administrator\n• MCSA (Ongoing): SQL Server 2012 (Completed: Querying Microsoft SQL Server 2012)\n• MCITP (Charter Member): SQL Server 2005 (Microsoft Certified IT Professional )\n• MCDBA: SQL Server 2000 (Microsoft Certified Database Administrator)\n• MCDBA: SQL Server 7.0 (Microsoft Certified Database Administrator)\n\nSUMMARY:\n• Installation, Consolidation, Configuration Setup of SQL Server 2012, 2008, 2005, 2000 and 7.0\n• Worked with Application Team in AGILE Environment\n• Administration, Maintenance, Production Support of 1000+ Production, UAT, QA, Development\nInstances.\n• SQL Server Migration / Upgrade from SQL Server 2000 to SQL Server 2008, SQL Server 2000 to\nSQL Server 2005, and other environments\n• Setup High Availability Failover Cluster (n+1) [Active / Active/ Passive] & [Active / Passive] in\nSQL Server 2008 and SQL Server 2005\n• Setup Log Shipping, Mirroring in SQL Server 2008, SQL Server 2005\n• Setup Transactional Replication using Remote Distributor and Multiple Subscribers\n• Setup of Maintenance Jobs for Backup / Restore using SQL Lite Speed (VLDB), Native Backup\n• Setup Re-Indexing, Index Defragmentation, Selective Re-Indexing on the basis of Fragmentation,\nUpdate Statistics, Integrity Checks, Other Database Maintenance Checks\n• Design and Setup of SQL Server Security – Active Directory Groups, Logins, Database Roles\n• Setup / Configuration / Administration of SSRS, SSAS, SSIS in SQL Server 2012 / 2008 / 2000\n(DTS)\n• Setup / Configured Database Compression (Row / Page) in SQL Server 2008 for Application Databases\n• Performance Tuning and Optimization – using System Monitor (Performance Monitor), SQL Server Profiler, Database Management Views (DMV)\n• Troubleshooting – Resolving issues within defined SLAs, working with vendors, Project\nManagement, Application Team, Strategic Guidance\n• Led Project for remediating security as per Security Baselines."
+  },
+  "aboutAlternative": {
+    "text": "EXPERIENCE AND CERTIFICATION\n• 17+ years of experience – Senior SQL Server Database Administrator\n• MCSA (Ongoing): SQL Server 2012 (Completed: Querying Microsoft SQL Server 2012)\n• MCITP (Charter Member): SQL Server 2005 (Microsoft Certified IT Professional )\n• MCDBA: SQL Server 2000 (Microsoft Certified Database Administrator)\n• MCDBA: SQL Server 7.0 (Microsoft Certified Database Administrator)\n\nSUMMARY:\n• Installation, Consolidation, Configuration Setup of SQL Server 2012, 2008, 2005, 2000 and 7.0\n• Worked with Application Team in AGILE Environment\n• Administration, Maintenance, Production Support of 1000+ Production, UAT, QA, Development\nInstances.\n• SQL Server Migration / Upgrade from SQL Server 2000 to SQL Server 2008, SQL Server 2000 to\nSQL Server 2005, and other environments\n• Setup High Availability Failover Cluster (n+1) [Active / Active/ Passive] & [Active / Passive] in\nSQL Server 2008 and SQL Server 2005\n• Setup Log Shipping, Mirroring in SQL Server 2008, SQL Server 2005\n• Setup Transactional Replication using Remote Distributor and Multiple Subscribers\n• Setup of Maintenance Jobs for Backup / Restore using SQL Lite Speed (VLDB), Native Backup\n• Setup Re-Indexing, Index Defragmentation, Selective Re-Indexing on the basis of Fragmentation,\nUpdate Statistics, Integrity Checks, Other Database Maintenance Checks\n• Design and Setup of SQL Server Security – Active Directory Groups, Logins, Database Roles\n• Setup / Configuration / Administration of SSRS, SSAS, SSIS in SQL Server 2012 / 2008 / 2000\n(DTS)\n• Setup / Configured Database Compression (Row / Page) in SQL Server 2008 for Application Databases\n• Performance Tuning and Optimization – using System Monitor (Performance Monitor), SQL Server Profiler, Database Management Views (DMV)\n• Troubleshooting – Resolving issues within defined SLAs, working with vendors, Project\nManagement, Application Team, Strategic Guidance\n• Led Project for remediating security as per Security Baselines."
+  },
+  "positions": [
+    {
+      "title": "Senior SQL Server Database Administrator",
+      "companyName": "Bank of America",
+      "description": "• Setup, Administration and Maintenance of SQL Server Instances\n• Worked closely with Application Team in AGILE Environment to understand Business Logic\n• Involved in Capacity Planning and Environment Setup including Storage, Memory, I/O as per\nBusiness SLA\n• Setup, Configured Transactional Replication of Multiple Application Databases on Publisher /\nRemote Distributor / Multiple Subscribers, Troubleshooting Replication Agents for\nPerformance as well as Failures\n• Setup Database Maintenance Jobs including Re-indexing, De-Fragmentation for VLDB\nDatabases.\n• Setup Disaster Recovery Server using Log Shipping, Mirroring.\n• Setup Database [Page / Row] level Compression.\n• Performed Disaster Recovery Tests (DR Tests)\n• Migration, Upgrade, Consolidation from SQL Server 2000 to SQL Server 2008 (Including\nTransactional Replication) in Active / Active / Passive Microsoft SQL Server Cluster\nEnvironment.\n• Migration, Upgrade, Consolidation from SQL Server 2000 to SQL Server 2008.\n• Migration from SQL Server 2008 to SQL Server 2012\n• Setup Backup / Restore Strategy for VLDB Databases\n• Performance and Tuning of SQL Server Databases (SQL Server 2008 / SQL Server 2005/\nSQL Server 2000) using Performance Monitor, Index Tuning Wizard, DMVs and SQL Profiler.\n• Documentation, Troubleshooting, On-Call 24x7 Support\n• Installation, Configuration and Security Setup for SSAS / SSRS / SSIS in SQL Server 2012,\nSQL Server 2008, SQL Server 2005\n• Led Project related to Security Implementation / Remediation as per Security Baseline\n\n(Environment: SQL Server 2012, SQL Server 2008, SQL Server 2005, SQL Server 2000, Windows 2008 R2, Windows Server 2008, Windows Server 2003, IIS 7.0, IIS 6.0, .NET)\n…\nsee more",
+      "date1": "Jun 2007 – Present",
+      "date2": "12 yrs 6 mos"
+    },
+    {
+      "title": "Senior SQL Server Database Administrator",
+      "companyName": "Johnson & Johnson",
+      "location": "Raritan, NJ",
+      "description": "• Setup, Administration and Maintenance of SQL Server Instances\n• Design and Implement Backup and Recovery for SQL Server 2000 and SQL Server 2005\ndatabase servers using SQL Lite Speed, includes Full Backup and Point in Time Recovery\n• Setup Disaster Recovery Server using Mirroring / Log Shipping\n• Setup SSAS / SSRS / SSIS in SQL Server 2005, SQL Server 2000\n• Performed Disaster Recovery Tests for SQL Server Database Servers\n• Performance and Tuning of SQL Server Databases using Performance Monitor, SQL Server\nProfiler and DMVs\n• Worked on SOX Compliance Audit Guidelines and Remediation\n• Migration, Upgrade from SQL Server 2000 to SQL Server 2005\n\n(Environment: SQL Server 2005, SQL Server 2000, Windows Server 2003)\n…\nsee more",
+      "date1": "Oct 2006 – Jun 2007",
+      "date2": "9 mos"
+    },
+    {
+      "title": "Senior SQL Server Database Administrator",
+      "companyName": "Bank Of America (Merrill Lynch)",
+      "location": "Hopewell, NJ",
+      "description": "• Setup, Administration and Maintenance of SQL Server Instances in Production /\nNon-Production Environments.\n• Design and Implement Backup and Recovery for SQL Server 2000 and SQL Server 2005\nDatabase Servers using SQL Lite Speed, includes Full Backup and Point in Time Recovery\n• Setup Disaster Recovery Server using Mirroring / Log Shipping\n• Setup and configured SSIS / DTS in SQL Server 2005, SQL Server 2000\n• Performed Disaster Recovery Tests for SQL Server Database Servers\n• Performance and Tuning of SQL Server Databases using Performance Monitor, SQL Server\nProfiler and DMVs\n• Worked on SOX Compliance Audit Guidelines and Remediation\n• Migration, Upgrade from SQL Server 2000 to SQL Server 2005\n• 24x7 Production Support\n\n(Environment: SQL Server 2005, SQL Server 2000, Windows Server 2003, Windows Server 2000)\n…\nsee more",
+      "date1": "Mar 2005 – Oct 2006",
+      "date2": "1 yr 8 mos"
+    },
+    {
+      "title": "Senior SQL Server Database Administrator",
+      "companyName": "UPS",
+      "location": "Mahwah, NJ",
+      "description": "• Setup, Administration and Maintenance of SQL Server Instances\n• Designed and Built utility to automate migration from SQL Server 7.0 to SQL Server 2000,\nthe number of instance migrated were 1200+.\n• Designed and Built Automated Table / Stored Procedure Transactional Replication in SQL\nServer 7.0, SQL Server 2000. Automated Replication scripts were setup for Transactional\nReplication Topology Publisher / Distributor -> Subscriber. This environment had 1200\nServers participating in Pub -> Sub Replication Setup.\n• Design / Implement database backup and recovery for SQL Server 2000 and 7.0 Servers.\n• Involved in Database Sizing and Capacity Planning of Database Servers involving Future\nenhancements and better performance.\n• Designed and Created Database Standards including Standards and Best Practices for\nReplication, Database Objects etc.\n• Troubleshoot Performance Issues using Performance Monitor and SQL Server Profiler.\n\n(Environment: SQL Server 2000, SQL Server 7.0, Windows Server 2000, Windows NT 4.0)\n…\nsee more",
+      "date1": "Nov 2000 – Mar 2005",
+      "date2": "4 yrs 5 mos"
+    },
+    {
+      "title": "SQL Server DBA",
+      "companyName": "Granitar Systems Inc",
+      "location": "Framingham, Massachusetts",
+      "description": "• Setup, Administration and Maintenance of SQL Server Instances\n• Troubleshoot Performance Issues using Performance Monitor and SQL Server Profiler.\n• Involved in Database Design using ERWIN\n• Created Database Design, Standards and Best Practices to be implemented\n\n(Environment: SQL Server 7.0, ERWIN, Windows NT 4.0, IIS Server 4.0. ASP, VB Script, JAVA Script)\n…\nsee more",
+      "date1": "Apr 2000 – Oct 2000",
+      "date2": "7 mos"
+    },
+    {
+      "title": "SQL Server DBA",
+      "companyName": "MACCO SYSTEMS (INDIA) PVT. LTD.",
+      "description": "• Setup, Administration and Maintenance of SQL Server Instances\n• Analysis, Design, Database Administration, Development, Performance Tuning and Integration\n• Installed, Configured SQL Server 6.5 and SQL Server 7.0\n• Utilized BCP and DTS Packages to transfer data from other DB Systems to SQL Server.\n\n(Environment: SQL Server 7.0, DTS, BCP, Windows NT 4.0)\n…\nsee more",
+      "date1": "May 1998 – Mar 2000",
+      "date2": "1 yr 11 mos"
+    },
+    {
+      "title": "SQL Server DBA",
+      "companyName": "GATES INFORMATION SYSTEM PVT. LTD.",
+      "description": "• Setup, Administration and Maintenance of SQL Server Instances (SQL Server 7.0 / 6.5)\n• Performance Tuning of database objects\n\n\n(Environment: SQL Server 6.5, IIS 3.0, Windows NT Server 4.0, Mailing Server – VC++ and Dialogic Board and SDK)\n…\nsee more",
+      "date1": "Nov 1997 – Apr 1998",
+      "date2": "6 mos"
+    },
+    {
+      "title": "SQL Server DBA",
+      "companyName": "MACCO SYSTEMS (INDIA) PVT. LTD.",
+      "description": "Analyzed the business needs, design and developed Banking System as a member of Technical Architect Team. The system included various modules to automate the banks and on-line processing of the banks.\n• Setup, Administration and Maintenance of SQL Server Instances (SQL Server 6.5)\n• Performance Tuning of database objects\n• Use Power Designer to design logical and physical model of the database.\n\n(Environment: SQL Server 6.5, Windows NT Server 4.0)\n…\nsee more",
+      "date1": "Jan 1995 – Oct 1997",
+      "date2": "2 yrs 10 mos"
+    },
+    {
+      "title": "Systems Analyst",
+      "companyName": "GUJARAT STEEL TUBES LTD.",
+      "description": "Analysis, Design, Database Administration, Development, Performance Tuning and Integration\nWorked on various projects as\nCost Accounting System,\nOrder Acceptance System,\nSales System,\nPayroll system,\nShare Accounting System,\nIntegrated Manufacturing System.\n…\nsee more",
+      "date1": "Apr 1992 – Dec 1994",
+      "date2": "2 yrs 9 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Gujarat University",
+      "degree": "Bachelors in Science",
+      "fieldofstudy": "Electronics",
+      "date1": "1987",
+      "date2": "1990"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Databases",
+      "count": "2"
+    },
+    {
+      "title": "Disaster Recovery",
+      "count": "1"
+    },
+    {
+      "title": "SSIS",
+      "count": "1"
+    },
+    {
+      "title": "T-SQL"
+    },
+    {
+      "title": "SSRS"
+    },
+    {
+      "title": "Microsoft SQL Server 2012, 2008, 2005, 2000",
+      "count": "2"
+    },
+    {
+      "title": "SSAS 2008",
+      "count": "1"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/dipanwitachakraborty/",
+      "text": "SQL Server Database Administrator | Database Analyst"
+    },
+    {
+      "user": "https://www.linkedin.com/in/priya-y-06a41711/",
+      "text": "Enterprise Cloud Service- Lead Analytic Consultant, Azure"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mlieberstein/",
+      "text": "Technical Business Analyst with strong SQL and Data Analysis"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ramu-a-3351b0128/",
+      "text": "Sql server DBA"
+    },
+    {
+      "user": "https://www.linkedin.com/in/brinda-p-6a193421/",
+      "text": "Microsoft Certified SQL Database/SSRS/SSIS/BI/ETL developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kalyanpopuri/",
+      "text": "SQL - Looking for new assignment"
+    },
+    {
+      "user": "https://www.linkedin.com/in/aguirremarlon/",
+      "text": "VP; Programmer Professional MKTS - Enterprise Capital Management Tech at Bank of America"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ramaswamy-hariharan-ram-11673623/",
+      "text": "Vice President - Bank of America"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tony-uy-4aab6a18/",
+      "text": "Technical Director at Charles Schwab"
+    },
+    {
+      "user": "https://www.linkedin.com/in/rupeshmandadi/",
+      "text": "Oracle PL/SQL Developer"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Kavita Trivedi",
+    "headline": "Senior SQL Server DBA at Bank of America",
+    "location": "Greater New York City Area",
+    "connections": "17",
+    "summary": "EXPERIENCE AND CERTIFICATION\n• 17+ years of experience – Senior SQL Server Database Administrator\n• MCSA (Ongoing): SQL Server 2012 (Completed: Querying Microsoft SQL Server 2012)\n• MCITP (Charter Member): SQL Server 2005 (Microsoft Certified IT Professional )\n• MCDBA: SQL Server 2000 (Microsoft Certified Database Administrator)\n• MCDBA: SQL Server 7.0 (Microsoft Certified Database Administrator)\n\nSUMMARY:\n• Installation, Consolidation, Configuration Setup of SQL Server 2012, 2008, 2005, 2000 and 7.0\n• Worked with Application Team in AGILE Environment\n• Administration, Maintenance, Production Support of 1000+ Production, UAT, QA, Development\nInstances.\n• SQL Server Migration / Upgrade from SQL Server 2000 to SQL Server 2008, SQL Server 2000 to\nSQL Server 2005, and other environments\n• Setup High Availability Failover Cluster (n+1) [Active / Active/ Passive] & [Active / Passive] in\nSQL Server 2008 and SQL Server 2005\n• Setup Log Shipping, Mirroring in SQL Server 2008, SQL Server 2005\n• Setup Transactional Replication using Remote Distributor and Multiple Subscribers\n• Setup of Maintenance Jobs for Backup / Restore using SQL Lite Speed (VLDB), Native Backup\n• Setup Re-Indexing, Index Defragmentation, Selective Re-Indexing on the basis of Fragmentation,\nUpdate Statistics, Integrity Checks, Other Database Maintenance Checks\n• Design and Setup of SQL Server Security – Active Directory Groups, Logins, Database Roles\n• Setup / Configuration / Administration of SSRS, SSAS, SSIS in SQL Server 2012 / 2008 / 2000\n(DTS)\n• Setup / Configured Database Compression (Row / Page) in SQL Server 2008 for Application Databases\n• Performance Tuning and Optimization – using System Monitor (Performance Monitor), SQL Server Profiler, Database Management Views (DMV)\n• Troubleshooting – Resolving issues within defined SLAs, working with vendors, Project\nManagement, Application Team, Strategic Guidance\n• Led Project for remediating security as per Security Baselines."
+  }
+}

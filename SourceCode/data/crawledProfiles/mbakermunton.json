@@ -1,0 +1,350 @@
+{
+  "profileAlternative": {
+    "name": "Mark Baker-Munton",
+    "headline": "Senior Consulting Engineer at MongoDB",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQFh9ClslxUh2w/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=2rf6-EDnUkUCPmcjS2T64i748Yul_Te9C6Y-JMiHdBQ",
+    "location": "Sutton Valence, Kent, United Kingdom",
+    "connections": "500+"
+  },
+  "aboutAlternative": {},
+  "positions": [
+    {
+      "title": "Senior Consulting Engineer",
+      "companyName": "MongoDB",
+      "location": "London, United Kingdom",
+      "description": "As a senior consulting engineer, I am responsible for delivering consulting and training to MongoDB's clients, helping them solve mission-critical challenges in areas such as schema design, performance optimisation, software architecture and production operations. I have worked closely with clients of all shapes and sizes - from small startups to Tier 1 banks - advising on all aspects of running MongoDB at scale and in mission-critical environments.",
+      "date1": "Jul 2017 – Present",
+      "date2": "2 yrs 5 mos"
+    },
+    {
+      "title": "Entity Group Ltd",
+      "location": "Sittingbourne",
+      "description": "Technical consultant for one of the UKs leading Information Management and bespoke software development companies.\n\nSpecialising in Java development, Master Data Management, Data Integration and Enterprise Architecture.\n…\nsee more",
+      "date1": "Jul 2015 – Jul 2017",
+      "date2": "2 yrs 1 mo",
+      "roles": [
+        {
+          "title": "Technical Manager",
+          "date1": "Jul 2015 – Jul 2017",
+          "date2": "2 yrs 1 mo",
+          "location": "Sittingbourne"
+        },
+        {
+          "title": "Technical Consultant",
+          "date1": "Jul 2011 – Jul 2015",
+          "date2": "4 yrs 1 mo"
+        }
+      ]
+    },
+    {
+      "title": "Title\nTechnical Manager",
+      "location": "Sittingbourne",
+      "date1": "Jul 2015 – Jul 2017",
+      "date2": "2 yrs 1 mo",
+      "roles": [
+        {
+          "title": "Technical Manager",
+          "date1": "Jul 2015 – Jul 2017",
+          "date2": "2 yrs 1 mo",
+          "location": "Sittingbourne"
+        }
+      ]
+    },
+    {
+      "title": "Title\nTechnical Consultant",
+      "description": "Technical consultant for one of the UKs leading Information Management and bespoke software development companies.\n\nSpecialising in Java development, Master Data Management, Data Integration and Enterprise Architecture.\n…\nsee more",
+      "date1": "Jul 2011 – Jul 2015",
+      "date2": "4 yrs 1 mo",
+      "roles": [
+        {
+          "title": "Technical Consultant",
+          "date1": "Jul 2011 – Jul 2015",
+          "date2": "4 yrs 1 mo"
+        }
+      ]
+    },
+    {
+      "title": "Senior Developer",
+      "companyName": "Evolution Underwriting Group Ltd",
+      "location": "Maidstone",
+      "description": "Continuous development of the company's in-house policy and claims management system. Architect and technical lead for the new management information / business intelligence suite.",
+      "date1": "Jan 2009 – Jul 2011",
+      "date2": "2 yrs 7 mos"
+    },
+    {
+      "title": "Java Developer",
+      "companyName": "RMB International",
+      "description": "Design, implementation and testing of new functionality for a java-based, semi-autonomous, quantitative trading platform based on a statistical arbitrage model. The system covered 12 international exchanges and was capable of receiving, processing and persisting over 150,000 pricing updates per second.",
+      "date1": "2007 – 2008",
+      "date2": "1 yr"
+    },
+    {
+      "title": "DBA",
+      "companyName": "Allustra",
+      "date1": "2006 – 2007",
+      "date2": "1 yr"
+    }
+  ],
+  "educations": [
+    {
+      "title": "University of Warwick",
+      "degree": "BEng",
+      "fieldofstudy": "Computer Systems Engineering",
+      "date1": "2003",
+      "date2": "2006"
+    },
+    {
+      "title": "Oakwood Park Grammar School",
+      "date1": "1996",
+      "date2": "2003"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Java",
+      "count": "25"
+    },
+    {
+      "title": "Agile Methodologies",
+      "count": "12"
+    },
+    {
+      "title": "Software Development",
+      "count": "11"
+    },
+    {
+      "title": "SOA",
+      "count": "11"
+    },
+    {
+      "title": "Integration",
+      "count": "11"
+    },
+    {
+      "title": "Scrum",
+      "count": "9"
+    },
+    {
+      "title": "Requirements Analysis",
+      "count": "8"
+    },
+    {
+      "title": "Software Project Management",
+      "count": "8"
+    },
+    {
+      "title": "Business Analysis",
+      "count": "7"
+    },
+    {
+      "title": "Solution Architecture",
+      "count": "7"
+    },
+    {
+      "title": "Test Driven Development",
+      "count": "5"
+    },
+    {
+      "title": "Agile Project Management",
+      "count": "4"
+    },
+    {
+      "title": "Testing",
+      "count": "3"
+    },
+    {
+      "title": "Web Services",
+      "count": "3"
+    },
+    {
+      "title": "Requirements Gathering",
+      "count": "2"
+    },
+    {
+      "title": "Systems Analysis",
+      "count": "2"
+    },
+    {
+      "title": "TDD",
+      "count": "2"
+    },
+    {
+      "title": "Service-Oriented Architecture (SOA)",
+      "count": "1"
+    },
+    {
+      "title": "Master Data Management",
+      "count": "1"
+    },
+    {
+      "title": "Enterprise Architecture"
+    },
+    {
+      "title": "Consulting"
+    },
+    {
+      "title": "Data Integration"
+    },
+    {
+      "title": "Distributed Systems"
+    },
+    {
+      "title": "Software Development Life Cycle (SDLC)"
+    },
+    {
+      "title": "Java Enterprise Edition",
+      "count": "9"
+    },
+    {
+      "title": "SQL",
+      "count": "8"
+    },
+    {
+      "title": "UML",
+      "count": "7"
+    },
+    {
+      "title": "Spring",
+      "count": "5"
+    },
+    {
+      "title": "XML",
+      "count": "5"
+    },
+    {
+      "title": "Microsoft SQL Server",
+      "count": "5"
+    },
+    {
+      "title": "Informatica",
+      "count": "3"
+    },
+    {
+      "title": "C#",
+      "count": "2"
+    },
+    {
+      "title": ".NET",
+      "count": "2"
+    },
+    {
+      "title": "ASP.NET",
+      "count": "2"
+    },
+    {
+      "title": "SSRS",
+      "count": "2"
+    },
+    {
+      "title": "Weblogic",
+      "count": "2"
+    },
+    {
+      "title": "T-SQL",
+      "count": "1"
+    },
+    {
+      "title": "Linux"
+    },
+    {
+      "title": "Databases"
+    },
+    {
+      "title": "MongoDB"
+    },
+    {
+      "title": "Spring Boot"
+    },
+    {
+      "title": "Spring MVC"
+    },
+    {
+      "title": "Informatica MDM"
+    },
+    {
+      "title": "GWT",
+      "count": "2"
+    },
+    {
+      "title": "Spring Data"
+    },
+    {
+      "title": "Spring Security"
+    },
+    {
+      "title": "PowerCenter"
+    },
+    {
+      "title": "Reactive Programming"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "1",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/willemkeogh/",
+        "text": "Mark is a highly competent Java developer and learns new disciplines very quickly. His positive attitude and high quality, innovative work makes him an asset to any team."
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "1",
+      "items": [
+        "English"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/jereni-tolentino-186236132/",
+      "text": "Big Data Engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jason-collins-b2876151/",
+      "text": "Software Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shannen-smyth-581abb121/",
+      "text": "Senior Frontend Developer at ScreenCloud - Digital Signage"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nabil-hachicha-829a8052/",
+      "text": "Senior Engineer at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/benstacey1/",
+      "text": "Enterprise Account Executive at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jonrangel/",
+      "text": "Practice Director, Global Professional Services at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/stephen-gallacher-1020144/",
+      "text": "Design Engineer at 4i2i Communications Ltd"
+    },
+    {
+      "user": "https://www.linkedin.com/in/koushik-muhuri-275b098/",
+      "text": "Technical Analyst Manager at Thought Machine"
+    },
+    {
+      "user": "https://www.linkedin.com/in/desterhuizen/",
+      "text": "Senior Consulting Engineer at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/bradjacobs/",
+      "text": "VP, WW Professional Services"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Mark Baker-Munton",
+    "headline": "Senior Consulting Engineer at MongoDB",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQFh9ClslxUh2w/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=2rf6-EDnUkUCPmcjS2T64i748Yul_Te9C6Y-JMiHdBQ",
+    "location": "Sutton Valence, Kent, United Kingdom",
+    "connections": "500+"
+  }
+}

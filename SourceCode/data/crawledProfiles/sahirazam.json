@@ -1,0 +1,290 @@
+{
+  "profileAlternative": {
+    "name": "Sahir Azam",
+    "headline": "Chief Product Officer at MongoDB",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQHt8Lx0kcolbw/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=BME-IN6RKd_7-5bNu8f-8sHKbb2mY9kQnjx-By8M05M",
+    "location": "Greater New York City Area",
+    "connections": "500+",
+    "summary": "High-growth SaaS/Enterprise software leader with broad experience in product management, marketing, sales, pre-sales engineering, and corporate strategy with demonstrated success at both startups and established public corporations."
+  },
+  "aboutAlternative": {
+    "text": "High-growth SaaS/Enterprise software leader with broad experience in product management, marketing, sales, pre-sales engineering, and corporate strategy with demonstrated success at both startups and established public corporations."
+  },
+  "positions": [
+    {
+      "title": "MongoDB",
+      "location": "Greater New York City Area",
+      "description": "General Management responsibilities for MongoDB Cloud Services.\n\nProduct Management, GTM Strategy, and P&L responsibility for MongoDB Atlas, MongoDB Stitch, MongoDB Realm, and MongoDB Ops/Cloud Manager.",
+      "date1": "Nov 2019 – Present",
+      "date2": "1 mo",
+      "roles": [
+        {
+          "title": "Chief Product Officer",
+          "date1": "Nov 2019 – Present",
+          "date2": "1 mo",
+          "location": "Greater New York City Area"
+        },
+        {
+          "title": "SVP, Cloud Products & GTM",
+          "date1": "Mar 2018 – Present",
+          "date2": "1 yr 9 mos",
+          "location": "Greater New York City Area"
+        },
+        {
+          "title": "Vice President, Cloud Products & GTM",
+          "date1": "May 2016 – Mar 2018",
+          "date2": "1 yr 11 mos",
+          "location": "Greater New York City Area"
+        }
+      ]
+    },
+    {
+      "title": "Title\nChief Product Officer",
+      "location": "Greater New York City Area",
+      "date1": "Nov 2019 – Present",
+      "date2": "1 mo",
+      "roles": [
+        {
+          "title": "Chief Product Officer",
+          "date1": "Nov 2019 – Present",
+          "date2": "1 mo",
+          "location": "Greater New York City Area"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSVP, Cloud Products & GTM",
+      "location": "Greater New York City Area",
+      "description": "General Management responsibilities for MongoDB Cloud Services.\n\nProduct Management, GTM Strategy, and P&L responsibility for MongoDB Atlas, MongoDB Stitch, MongoDB Realm, and MongoDB Ops/Cloud Manager.",
+      "date1": "Mar 2018 – Present",
+      "date2": "1 yr 9 mos",
+      "roles": [
+        {
+          "title": "SVP, Cloud Products & GTM",
+          "date1": "Mar 2018 – Present",
+          "date2": "1 yr 9 mos",
+          "location": "Greater New York City Area"
+        }
+      ]
+    },
+    {
+      "title": "Title\nVice President, Cloud Products & GTM",
+      "location": "Greater New York City Area",
+      "description": "Product Management, GTM Strategy, and P&L responsibility for MongoDB Atlas, MongoDB Stitch, and MongoDB Ops/Cloud Manager.",
+      "date1": "May 2016 – Mar 2018",
+      "date2": "1 yr 11 mos",
+      "roles": [
+        {
+          "title": "Vice President, Cloud Products & GTM",
+          "date1": "May 2016 – Mar 2018",
+          "date2": "1 yr 11 mos",
+          "location": "Greater New York City Area"
+        }
+      ]
+    },
+    {
+      "title": "Advisor",
+      "companyName": "Confluent",
+      "date1": "May 2017 – Present",
+      "date2": "2 yrs 7 mos"
+    },
+    {
+      "title": "Advisor/Mentor",
+      "companyName": "Alchemist Accelerator",
+      "date1": "Feb 2016 – Present",
+      "date2": "3 yrs 10 mos"
+    },
+    {
+      "title": "Director of Product Management",
+      "companyName": "Sumo Logic",
+      "location": "Redwood City, CA",
+      "description": "Founded in 2010, Sumo Logic is a privately held big data analytics company based in Redwood City, CA and is backed by Greylock Partners, DFJ, IVP, Sutter Hill Ventures, Accel Partners and Sequoia Capital.\n\nResponsibilities: Search & Extensibility Platform, Pricing, Technology Partnerships, Product Marketing/GTM Strategy\n\n…\nsee more",
+      "date1": "Jan 2015 – May 2016",
+      "date2": "1 yr 5 mos"
+    },
+    {
+      "title": "Director, Cloud Management Strategy & Evangelism",
+      "companyName": "VMware",
+      "location": "Palo Alto, CA",
+      "description": "Led the Product Management team that conceptualized, built, and launched VMware's first purpose-built SaaS management and compliance solution - vRealize Air Compliance.\n\nBuilt and led a global evangelist organization for VMware's Cloud Management business, the fastest growing business unit within the company.\n…\nsee more",
+      "date1": "Jul 2012 – Dec 2014",
+      "date2": "2 yrs 6 mos"
+    },
+    {
+      "title": "Global Director, Cloud Technology",
+      "companyName": "DynamicOps (acquired by VMware)",
+      "description": "Led and scaled DynamicOps' worldwide Sales Engineering organization which helped drive 300% growth in the Private Cloud market leading to acquisition by VMware.\n\nPrimary outbound evangelist at speaking engagements and large customer accounts.\n\nhttp://www.forcemanagement.com/2012/10/dynamic-ops/\n…\nsee more",
+      "date1": "Jul 2011 – Jul 2012",
+      "date2": "1 yr 1 mo"
+    },
+    {
+      "title": "BMC Software",
+      "description": "Responsible for driving BMC's Cloud Computing and Service Automation strategy across strategic Fortune 500 accounts.\n\nTop Performer Award - 215% Quota Achievement.",
+      "date1": "Oct 2009 – Jun 2011",
+      "date2": "1 yr 9 mos",
+      "roles": [
+        {
+          "title": "Cloud & Automation Sales Specialist",
+          "date1": "Oct 2009 – Jun 2011",
+          "date2": "1 yr 9 mos"
+        },
+        {
+          "title": "Sr. Software Consultant",
+          "date1": "Apr 2008 – Oct 2009",
+          "date2": "1 yr 7 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nCloud & Automation Sales Specialist",
+      "description": "Responsible for driving BMC's Cloud Computing and Service Automation strategy across strategic Fortune 500 accounts.\n\nTop Performer Award - 215% Quota Achievement.",
+      "date1": "Oct 2009 – Jun 2011",
+      "date2": "1 yr 9 mos",
+      "roles": [
+        {
+          "title": "Cloud & Automation Sales Specialist",
+          "date1": "Oct 2009 – Jun 2011",
+          "date2": "1 yr 9 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSr. Software Consultant",
+      "description": "Top Automation SE 2009",
+      "date1": "Apr 2008 – Oct 2009",
+      "date2": "1 yr 7 mos",
+      "roles": [
+        {
+          "title": "Sr. Software Consultant",
+          "date1": "Apr 2008 – Oct 2009",
+          "date2": "1 yr 7 mos"
+        }
+      ]
+    },
+    {
+      "title": "Application Engineer",
+      "companyName": "BladeLogic(acquired by BMC Software)",
+      "description": "Large enterprise and financial services focus.\nTop SE Award 2008\n\nAcquired by BMC Software April 2008",
+      "date1": "May 2006 – Apr 2008",
+      "date2": "2 yrs"
+    },
+    {
+      "title": "Senior System Administrator",
+      "companyName": "Webair",
+      "description": "Linux Architect",
+      "date1": "Sep 2005 – May 2006",
+      "date2": "9 mos"
+    },
+    {
+      "title": "PHP Developer",
+      "companyName": "Independent Consultant",
+      "description": "Developed and built CRM, CMS, and public website for NYC-based real estate firm.",
+      "date1": "May 2004 – Sep 2004",
+      "date2": "5 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Rensselaer Polytechnic Institute - The Lally School of Management",
+      "date1": "2000",
+      "date2": "2003"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Cloud Computing",
+      "count": "99+"
+    },
+    {
+      "title": "Start-ups",
+      "count": "39"
+    },
+    {
+      "title": "SaaS",
+      "count": "40"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "2",
+    "receivedCount": "1",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/jordanhahn/",
+        "text": "Sahir is a true master of IT. His work ethic is indefatigable and his server skills are prodigious. I only wish I could hire him for a permanent position!"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/gabriella-fracchia-4535106/",
+        "text": "My wife and I were recent transplants to the Bay Area and were fortunate to have worked with Gabriella on our home purchase in San Francisco. Her depth of experience in the market helped us tremendously in finding the perfect home and navigating the complexity of a unique and complicated buying process. Gabriella was able to effectively manage and coordinate the variety of external parties required to close our transaction. Her patience, tenacity, and expertise were indispensable in our search and I would highly recommend Gabriella to anyone looking to buy a property in San Francisco!"
+      },
+      {
+        "user": "https://www.linkedin.com/in/gil-mora-8b11b98/",
+        "text": "I was fortunate to be referred to Gil for my recent house purchase. He was knowledgeable, patient, and reliable during a long and complicated  transaction. Not only was he able to keep internal resources at Wells Fargo on track, but his strong relationships externally proved invaluable in ensuring our financing process was completed successfully. I look forward to working with Gil again in the future and would highly recommend him to anyone looking for a mortgage in the Bay Area!"
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "5",
+      "items": [
+        "\"Super Sumo\" of the Year",
+        "Top Automation Sales Specialist",
+        "Top Software Consultant",
+        "Vice President's Award",
+        "Top Application Engineer"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/pavithravetriselvan/",
+      "text": "Software Engineer at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tifaniramic/",
+      "text": "Product Marketing at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nehanarkhede/",
+      "text": "Co-founder and CTO, Confluent"
+    },
+    {
+      "user": "https://www.linkedin.com/in/seong17/",
+      "text": "Vice President, Strategy & Product Marketing"
+    },
+    {
+      "user": "https://www.linkedin.com/in/bencefalo/",
+      "text": "Lead Product Manager, Cloud Products at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jpbolen/",
+      "text": "VP Sales, West & Central"
+    },
+    {
+      "user": "https://www.linkedin.com/in/eliothorowitz/",
+      "text": "CTO and Co-Founder at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mauriciobarra/",
+      "text": "Product Marketing at Confluent"
+    },
+    {
+      "user": "https://www.linkedin.com/in/danpasette/",
+      "text": "SVP, Core Engineering at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ramonfernandez/",
+      "text": "Director, Release Engineering at MongoDB, Inc."
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Sahir Azam",
+    "headline": "Chief Product Officer at MongoDB",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQHt8Lx0kcolbw/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=BME-IN6RKd_7-5bNu8f-8sHKbb2mY9kQnjx-By8M05M",
+    "location": "Greater New York City Area",
+    "connections": "500+",
+    "summary": "High-growth SaaS/Enterprise software leader with broad experience in product management, marketing, sales, pre-sales engineering, and corporate strategy with demonstrated success at both startups and established public corporations."
+  }
+}

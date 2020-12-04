@@ -1,0 +1,375 @@
+{
+  "profileAlternative": {
+    "name": "Kris (Krzysztof) Jusiak",
+    "headline": "Senior Software Engineer",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQHT7d2lQjYs6A/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=5FRTxjYTlsVeW0DA8NFizHKWMhRnjQizBNXzT_XYMOo",
+    "location": "Denver, Colorado",
+    "connections": "500+",
+    "summary": "Software Engineer focused on modern C++ development where quality and performance matters.\n\n* C++2a (including Meta-Programming/STL/Boost), Python\n* eXtreme Programming techniques (including TDD/BDD/ATDD)\n* System Architecture and Design (including UML-2.5)\n* Agile (including Scrum/Kanban)"
+  },
+  "aboutAlternative": {
+    "text": "Software Engineer focused on modern C++ development where quality and performance matters.\n\n* C++2a (including Meta-Programming/STL/Boost), Python\n* eXtreme Programming techniques (including TDD/BDD/ATDD)\n* System Architecture and Design (including UML-2.5)\n* Agile (including Scrum/Kanban)"
+  },
+  "positions": [
+    {
+      "title": "Senior Software Engineer",
+      "companyName": "Quantlab Financial, LLC",
+      "location": "London, United Kingdom / Denver, Colorado, USA",
+      "description": "C++2a (STL, Boost), Python, Git, Linux",
+      "date1": "Nov 2016 – Present",
+      "date2": "3 yrs 1 mo"
+    },
+    {
+      "title": "Software Developer",
+      "companyName": "King",
+      "location": "London, United Kingdom",
+      "description": "C++11 (STL), Mercurial/Git, Android/iOS/Linux/Windows",
+      "date1": "Nov 2013 – Nov 2016",
+      "date2": "3 yrs 1 mo"
+    },
+    {
+      "title": "Nokia Networks",
+      "location": "Wroclaw, Lower Silesian District, Poland",
+      "description": "C++, Python, Git, Linux",
+      "date1": "Sep 2009 – Oct 2013",
+      "date2": "4 yrs 2 mos",
+      "roles": [
+        {
+          "title": "Software Engineer",
+          "date1": "Sep 2009 – Oct 2013",
+          "date2": "4 yrs 2 mos"
+        },
+        {
+          "title": "Software Engineer in Test, Intern",
+          "date1": "Apr 2009 – Aug 2009",
+          "date2": "5 mos",
+          "location": "Wroclaw, Lower Silesian District, Poland"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSoftware Engineer",
+      "description": "C++, Python, Git, Linux",
+      "date1": "Sep 2009 – Oct 2013",
+      "date2": "4 yrs 2 mos",
+      "roles": [
+        {
+          "title": "Software Engineer",
+          "date1": "Sep 2009 – Oct 2013",
+          "date2": "4 yrs 2 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSoftware Engineer in Test, Intern",
+      "location": "Wroclaw, Lower Silesian District, Poland",
+      "description": "Python, Make, Windows",
+      "date1": "Apr 2009 – Aug 2009",
+      "date2": "5 mos",
+      "roles": [
+        {
+          "title": "Software Engineer in Test, Intern",
+          "date1": "Apr 2009 – Aug 2009",
+          "date2": "5 mos",
+          "location": "Wroclaw, Lower Silesian District, Poland"
+        }
+      ]
+    }
+  ],
+  "educations": [
+    {
+      "title": "Wroclaw University of Technology",
+      "degree": "MSc",
+      "fieldofstudy": "Computer Science, Software Engineering",
+      "date1": "2005",
+      "date2": "2010"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Git",
+      "count": "78"
+    },
+    {
+      "title": "C++",
+      "count": "73"
+    },
+    {
+      "title": "Test Driven Development",
+      "count": "67"
+    },
+    {
+      "title": "Scrum",
+      "count": "43"
+    },
+    {
+      "title": "Continuous Integration",
+      "count": "40"
+    },
+    {
+      "title": "Design Patterns",
+      "count": "39"
+    },
+    {
+      "title": "Agile Methodologies",
+      "count": "39"
+    },
+    {
+      "title": "Software Development",
+      "count": "32"
+    },
+    {
+      "title": "Object Oriented Design",
+      "count": "26"
+    },
+    {
+      "title": "Software Engineering",
+      "count": "24"
+    },
+    {
+      "title": "Software Design",
+      "count": "24"
+    },
+    {
+      "title": "Shell Scripting",
+      "count": "22"
+    },
+    {
+      "title": "System Architecture",
+      "count": "19"
+    },
+    {
+      "title": "Multithreading",
+      "count": "18"
+    },
+    {
+      "title": "Unit Testing",
+      "count": "15"
+    },
+    {
+      "title": "Algorithms",
+      "count": "14"
+    },
+    {
+      "title": "Debugging",
+      "count": "7"
+    },
+    {
+      "title": "Linux",
+      "count": "52"
+    },
+    {
+      "title": "Python",
+      "count": "33"
+    },
+    {
+      "title": "Subversion",
+      "count": "27"
+    },
+    {
+      "title": "Embedded Systems",
+      "count": "22"
+    },
+    {
+      "title": "UML",
+      "count": "21"
+    },
+    {
+      "title": "Embedded Software",
+      "count": "19"
+    },
+    {
+      "title": "Embedded Linux",
+      "count": "17"
+    },
+    {
+      "title": "Bash",
+      "count": "14"
+    },
+    {
+      "title": "Unix",
+      "count": "11"
+    },
+    {
+      "title": "Java",
+      "count": "11"
+    },
+    {
+      "title": "C#",
+      "count": "7"
+    },
+    {
+      "title": "iOS",
+      "count": "1"
+    },
+    {
+      "title": "Android",
+      "count": "1"
+    },
+    {
+      "title": "STL",
+      "count": "48"
+    },
+    {
+      "title": "Boost",
+      "count": "36"
+    },
+    {
+      "title": "Template Metaprogramming",
+      "count": "27"
+    },
+    {
+      "title": "TTCN-3",
+      "count": "18"
+    },
+    {
+      "title": "Agile Modeling",
+      "count": "14"
+    },
+    {
+      "title": "Extreme Programming",
+      "count": "13"
+    },
+    {
+      "title": "GNU Make",
+      "count": "5"
+    },
+    {
+      "title": "Qt",
+      "count": "4"
+    },
+    {
+      "title": "wxWidgets",
+      "count": "4"
+    },
+    {
+      "title": "Mercurial",
+      "count": "3"
+    },
+    {
+      "title": "SDL",
+      "count": "2"
+    },
+    {
+      "title": "Cocos2d",
+      "count": "1"
+    },
+    {
+      "title": "Standard Template Library (STL)",
+      "count": "1"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "1",
+    "receivedCount": "3",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/grzegorz-olender-5445161/",
+        "text": "Predator of C++. Krzysztof's programming skills go beyond the pale. There is no such a C++ puzzle which can resist his analytical skills."
+      },
+      {
+        "user": "https://www.linkedin.com/in/lukasztasz/",
+        "text": "Krzysztof is very creative guy. Tries always to understand problem very deeply to find solution, not workaround. You can rely on his solution from technical point of view and specification point of view. We was working on redesign of testing framework, we changed design from serial approach to parallel approach. within 3 months regression testing was downgraded from 8 hours to 40 mins. It was really effective cooperation.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/norbertkosmal/",
+        "text": "Krzysztof is well educated Software Engineer with phenomenal technical skills. What I am really impressed is that there are no difficult tasks for him. I strongly recommend Krzysztof to the jobs that require open-minded and creative solutions."
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/tonycamps/",
+        "text": "Tony is an excellent recruiter and a nice guy. Professionalism, empathy and resourceful knowledge throughout the recruitment process perfectly characterize his skills. He is working hard to find the most suitable match and never let one not to be informed about the current process status. Tony is a personable and professional recruiter and I would highly recommend him."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "19",
+      "items": [
+        "Postmodern Meta C++",
+        "Dependency Injection - a 25-dollar term for a 5-cent concept",
+        "Rise of the State Machines",
+        "Boost DI and SML with Kris Jusiak",
+        "State Machines Battlefield - Naive vs STL vs Boost",
+        "[Boost].DI - Inject all the things!",
+        "'Embedding'​ a Compile-Time Meta State Machine",
+        "Modern C++ design with Dependency Injection",
+        "Concepts driven design",
+        "Concept Driven Design with Dependency Injection",
+        "Towards Painless Testing",
+        "[Boost].SML - State Machine Language",
+        "'Embedding'​ a Meta State Machine",
+        "Boost your design with C++14 dependency injection",
+        "C++14 Dependency Injection Library",
+        "C++14 Meta State Machine Library",
+        "Implementing a web game in C++14",
+        "Let's make a web match-3 game in C++14",
+        "TDD/BDD and Dependency Injection"
+      ]
+    },
+    {
+      "count": "12",
+      "items": [
+        "μt",
+        "Type.Erasure",
+        "GUnit",
+        "Match-3 web game",
+        "Farm Heroes Saga (Mobile)",
+        "[Boost].DI - C++14 Dependency Injection Library",
+        "[Boost].SML (formerly called [Boost].MSM-lite) - C++14 State Machine Library",
+        "C++ Automatic Mocks Injector",
+        "Pepper Panic Saga (Mobile)",
+        "'Google Mock' mocks generator",
+        "C++ Quick Finite State Machine",
+        "C++ Template Unit Test Framework"
+      ]
+    },
+    {
+      "count": "10",
+      "items": [
+        "Advanced Github",
+        "Agile Modeling",
+        "Coaching",
+        "Concurrent and distributed programming in C++",
+        "Effective Modern C++ (Seminar with Scott Meyers)",
+        "LTE Advanced",
+        "Modern OpenGL with QT",
+        "Root Cause Analysis Escaped Defect Analysis",
+        "Signalling in E-UTRAN/LTE",
+        "Team Communication"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "English",
+        "German",
+        "Polish"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "ACCU",
+        "C++ London"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "IELTS"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Kris (Krzysztof) Jusiak",
+    "headline": "Senior Software Engineer",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQHT7d2lQjYs6A/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=5FRTxjYTlsVeW0DA8NFizHKWMhRnjQizBNXzT_XYMOo",
+    "location": "Denver, Colorado",
+    "connections": "500+",
+    "summary": "Software Engineer focused on modern C++ development where quality and performance matters.\n\n* C++2a (including Meta-Programming/STL/Boost), Python\n* eXtreme Programming techniques (including TDD/BDD/ATDD)\n* System Architecture and Design (including UML-2.5)\n* Agile (including Scrum/Kanban)"
+  }
+}

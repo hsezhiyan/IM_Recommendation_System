@@ -1,0 +1,134 @@
+{
+  "profileAlternative": {
+    "name": "Venkatesh Vanapalli",
+    "headline": "Python Developer(2.5 Yrs Exp) at ANCIT Consulting in Bangalore.",
+    "imageurl": "https://media.licdn.com/dms/image/C5103AQGOeWKxTXbZrA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=xLlWeUjC9JppSPwmd7cQSXkwLsi38wXCbObbsvKXWLo",
+    "location": "Bengaluru, Karnataka, India",
+    "connections": "192",
+    "summary": "Iam a Python Developer with 2.5 years of experience in Django and Python. I know Django Rest Framework , Mongo DB and Postgresql also.I can join immediately."
+  },
+  "aboutAlternative": {
+    "text": "Iam a Python Developer with 2.5 years of experience in Django and Python. I know Django Rest Framework , Mongo DB and Postgresql also.I can join immediately."
+  },
+  "positions": [
+    {
+      "title": "Software Engineer(Python Developer)",
+      "companyName": "ANCiT Consulting",
+      "location": "Bangalore",
+      "date1": "Jun 2019 – Present",
+      "date2": "6 mos"
+    },
+    {
+      "title": "Software Engineer (Python Developer)",
+      "companyName": "Zebi Data India Pvt. Ltd.",
+      "location": "Visakhapatnam",
+      "date1": "Aug 2018 – Feb 2019",
+      "date2": "7 mos"
+    },
+    {
+      "title": "Python Developer",
+      "companyName": "Mahiti Infotech",
+      "location": "Bangalore",
+      "date1": "Oct 2016 – Jul 2018",
+      "date2": "1 yr 10 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "JNTUK University College of Engineering, Vizianagaram",
+      "degree": "Bachelor of Technology - BTech",
+      "fieldofstudy": "Computer Science",
+      "date1": "2012",
+      "date2": "2016"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Python (Programming Language)",
+      "count": "1"
+    },
+    {
+      "title": "Django"
+    },
+    {
+      "title": "Flask"
+    },
+    {
+      "title": "SQL"
+    },
+    {
+      "title": "HTML",
+      "count": "1"
+    },
+    {
+      "title": "jQuery"
+    },
+    {
+      "title": "Cascading Style Sheets (CSS)"
+    },
+    {
+      "title": "MongoDB"
+    },
+    {
+      "title": "Django Rest Framework"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/vinita-soni-24816336/",
+      "text": "Actively Looking for Python Opportunity"
+    },
+    {
+      "user": "https://www.linkedin.com/in/anisha-d-3011ba79/",
+      "text": "Python Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/padala-srikanth-472159121/",
+      "text": "Activily looking for a job change Python | Django | JavaScript. working in Motorola Mobility."
+    },
+    {
+      "user": "https://www.linkedin.com/in/ajithkjames/",
+      "text": "Python Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sneha-shinde-95ba6a78/",
+      "text": "Python/Django Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/meet-parekh-746219160/",
+      "text": "looking for job in python Django"
+    },
+    {
+      "user": "https://www.linkedin.com/in/beethu-sara-biju-916413131/",
+      "text": "Job seeker staying in Bangalore. I am experienced in Python."
+    },
+    {
+      "user": "https://www.linkedin.com/in/devika-rani-710254124/",
+      "text": "Looking for job change -Testing _B.Tech_71.2_ 2.8+ yr_Python , Core and advanced Python,Testing, Selenium Core Java."
+    },
+    {
+      "user": "https://www.linkedin.com/in/ashutosh-patel-7360a0158/",
+      "text": "Python Developer at Robert Bosch Engineering and Business Solutions"
+    },
+    {
+      "user": "https://www.linkedin.com/in/vyshnavi-paritala-0833a0185/",
+      "text": "Actively looking for a job change"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Venkatesh Vanapalli",
+    "headline": "Python Developer(2.5 Yrs Exp) at ANCIT Consulting in Bangalore.",
+    "imageurl": "https://media.licdn.com/dms/image/C5103AQGOeWKxTXbZrA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=xLlWeUjC9JppSPwmd7cQSXkwLsi38wXCbObbsvKXWLo",
+    "location": "Bengaluru, Karnataka, India",
+    "connections": "192",
+    "summary": "Iam a Python Developer with 2.5 years of experience in Django and Python. I know Django Rest Framework , Mongo DB and Postgresql also.I can join immediately."
+  }
+}

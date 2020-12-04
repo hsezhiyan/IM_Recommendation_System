@@ -1,0 +1,159 @@
+{
+  "profileAlternative": {
+    "name": "Aaron Krauss",
+    "headline": "Senior Software Engineer at Clevyr",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQEeYlSeRs0xfw/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=78rcCqmJVcclUklHO8c0c3FTo6FcmB2H-N8tY4ISscs",
+    "location": "Oklahoma City, Oklahoma",
+    "connections": "279",
+    "summary": "Hi. I'm a no-bullshit kind of guy. I don't throw out buzz words nonchalantly, or only think about the big picture while glossing over the smaller details. I'm a developer who solves problems. Tough problems.\n\nI'm currently a software engineer and public speaker working at Clevyr (https://clevyr.com) and Clevyr Labs (https://clevyrlabs.com) in Oklahoma City, Oklahoma. I specialize and prefer to work in a Unix driven environment, using languages and tools like Ruby, Javascript, Python, Functional Programming, HTML, CSS, Git, SQL, Go, Shell, C/C++, etc. I can shred some .NET too - but only if the project is awesome.\n\nI'm also the coolest guy you will ever meet. Hands down."
+  },
+  "aboutAlternative": {
+    "text": "Hi. I'm a no-bullshit kind of guy. I don't throw out buzz words nonchalantly, or only think about the big picture while glossing over the smaller details. I'm a developer who solves problems. Tough problems.\n\nI'm currently a software engineer and public speaker working at Clevyr (https://clevyr.com) and Clevyr Labs (https://clevyrlabs.com) in Oklahoma City, Oklahoma. I specialize and prefer to work in a Unix driven environment, using languages and tools like Ruby, Javascript, Python, Functional Programming, HTML, CSS, Git, SQL, Go, Shell, C/C++, etc. I can shred some .NET too - but only if the project is awesome.\n\nI'm also the coolest guy you will ever meet. Hands down."
+  },
+  "positions": [
+    {
+      "title": "Senior Software Engineer",
+      "companyName": "Clevyr, Inc.",
+      "location": "Oklahoma City, Oklahoma Area",
+      "description": "We build custom data-driven software, web, mobile, and VR/AR applications using Node, .NET, Python, React, Rails, Cloud infrastructure, devops tools, and a slough of other fun languages. If you can dream it, we can build it.\n\nWe're a unix driven shop - so just like before, Vim, Shell, and Tmux are at the core of my productivity.\n\nI've gotten into a quite of project management here with managing interns, estimating quotes, helping set milestones, managing client expectations, etc.",
+      "date1": "May 2016 – Present",
+      "date2": "3 yrs 7 mos"
+    },
+    {
+      "title": "Web Developer",
+      "companyName": "STAPLEGUN",
+      "description": "I build websites from the ground up in an agile manner using HTML5, fully custom and responsive CSS and SASS - along with tools and mini-frameworks such as Compass and Susy, JS with common libs, and many various CMSs such as MODx, Wordpress, and Craft CMS.\n\nWith every project, I'm using heavy Git, Vim, Zsh, Tmux, and Grunt.js. I also use some advanced database administration skills related to managing database synchronicity both locally and on a remote server when using CMSs.\n\nLately, we've been known to get pretty crazy with heavy data-driven projects, so we've been busting out Rails, Node, APIs, Ember, Angular, and deep database architectures. We're a jack of all trades, which makes this place so fun.\n…\nsee more",
+      "date1": "Feb 2014 – May 2016",
+      "date2": "2 yrs 4 mos"
+    },
+    {
+      "title": "Web Developer",
+      "companyName": "Brightbit",
+      "description": "I do web development in Ruby on Rails on a daily basis, utilizing heavy Javascript (and accompanying frameworks like jQuery, coffeescript, Ember.js, Titanium, among others), Git, Zsh + tmux, SQL databases, and, of course, the Vim editor. I also engage in a decent amount of front-end design with HTML5 and Sass - though I have yet to reach jedi status in this field.",
+      "date1": "Sep 2013 – Feb 2014",
+      "date2": "6 mos"
+    },
+    {
+      "title": "Software Developer",
+      "companyName": "ADFITECH",
+      "location": "Edmond, OK",
+      "description": "I work in an entirely open source environment, programming in Ruby and working with Unix/Linux operating systems, all while utilizing skills in different areas such as Bash, Git, Gtk+, MySQL, MongoDB, and Rails on my own time.\n\nI also get to parse through and edit some legacy PHP and C code on what seems like a daily basis.\n…\nsee more",
+      "date1": "Nov 2011 – Sep 2013",
+      "date2": "1 yr 11 mos"
+    },
+    {
+      "title": "Land Intern",
+      "companyName": "GMX Resources, Inc",
+      "description": "Wrote several MS Excel macros in VBA for the Division Order Deparment within the Land Department. I am also engaged in projects with the IT Department.\n\nFulfilled role of Division Order Analyst, along with multiple in-depth projects relating to database upkeep and typical firm workflow (list of projects available upon request)\n\nRecognized as a GMXR Employee of Distinction by Supervisors\n…\nsee more",
+      "date1": "Jun 2010 – Nov 2011",
+      "date2": "1 yr 6 mos"
+    },
+    {
+      "title": "MIS Intern",
+      "companyName": "Hertz Technology Center",
+      "description": "I use SQL Server 2008 daily at this internship, along with occasional .NET programming, and most of my projects are involved with creating and maintaining a new GPS system that Hertz is planning to utilize",
+      "date1": "Apr 2011 – Aug 2011",
+      "date2": "5 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "University of Oklahoma",
+      "degree": "Bachelor of Business Administration",
+      "fieldofstudy": "Management Information Systems",
+      "date1": "2010",
+      "date2": "2012"
+    },
+    {
+      "title": "Southern Methodist University",
+      "degree": "Bachelor of Science",
+      "fieldofstudy": "Management Science",
+      "date1": "2008",
+      "date2": "2010"
+    }
+  ],
+  "skills": [
+    {
+      "title": "MySQL"
+    },
+    {
+      "title": "Ruby"
+    },
+    {
+      "title": "Git"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "2",
+      "items": [
+        "English",
+        "German"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/dina-lamdany/",
+      "text": "Law student at Stanford, interested in technology + law. Former PM at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ma1thew/",
+      "text": "Software Engineer II at Midlands Management Corp."
+    },
+    {
+      "user": "https://www.linkedin.com/in/tasciotti-louis-30b055181/",
+      "text": "Senior Software Engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/alexismoody/",
+      "text": "Senior Software Engineer I at Compass"
+    },
+    {
+      "user": "https://www.linkedin.com/in/chris-gibson-7a341566/",
+      "text": "Senior Software Engineer at LegalShield"
+    },
+    {
+      "user": "https://www.linkedin.com/in/naomi-hachen-96137962/",
+      "text": "Senior Biomedical and Test Engineer, Boston Health Technology Center"
+    },
+    {
+      "user": "https://www.linkedin.com/in/pariece-mckinney-88043971/",
+      "text": "Software Engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/brad-jerome-a043a45/",
+      "text": "Software Engineer at Information Gateways Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/hebrian/",
+      "text": "Software Engineer at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/edwardnunez/",
+      "text": "Senior Software Engineer at AT&T Labs, Inc."
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Haunt The Zoo Volunteer",
+      "experience": "OKC Zoo",
+      "description": "Children",
+      "date2": "Cause"
+    }
+  ],
+  "profile": {
+    "name": "Aaron Krauss",
+    "headline": "Senior Software Engineer at Clevyr",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQEeYlSeRs0xfw/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=78rcCqmJVcclUklHO8c0c3FTo6FcmB2H-N8tY4ISscs",
+    "location": "Oklahoma City, Oklahoma",
+    "connections": "279",
+    "summary": "Hi. I'm a no-bullshit kind of guy. I don't throw out buzz words nonchalantly, or only think about the big picture while glossing over the smaller details. I'm a developer who solves problems. Tough problems.\n\nI'm currently a software engineer and public speaker working at Clevyr (https://clevyr.com) and Clevyr Labs (https://clevyrlabs.com) in Oklahoma City, Oklahoma. I specialize and prefer to work in a Unix driven environment, using languages and tools like Ruby, Javascript, Python, Functional Programming, HTML, CSS, Git, SQL, Go, Shell, C/C++, etc. I can shred some .NET too - but only if the project is awesome.\n\nI'm also the coolest guy you will ever meet. Hands down."
+  }
+}

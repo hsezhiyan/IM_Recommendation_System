@@ -1,0 +1,334 @@
+{
+  "profileAlternative": {
+    "name": "Grant Rostig",
+    "headline": "C++ Software Engineer / Programmer & DB designer with broad business skills. Deeply studying AI/ML, and math.",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQHZGrUXF21BHw/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=3MvCLPpC8tsGFCNos7bX0_TE3CLLvJGCLZvQy5-qyYM",
+    "location": "Austin, Texas",
+    "connections": "237",
+    "summary": "Let me put the speed and elegant expressiveness of Modern C++17 to work for your company. I use the Boost, Eigen (LA library), and std:: C++ concurrency / parallel programming libraries.\n\nI'm seeking full time employment (or contract work) in modern C++ programming, AI/ML, and or NLP.\n\nI have 25 years of experience as a programmer of various languages and years of database design.\nI have stopped working on bifst.com, my self-funded AI/ML startup.\n\nProspective Employer Interviewer Notes: I don't seem to program well when interviewers are watching me or when a timer is running, such as a whiteboard or online coding interview. Also, I don't memorize textbook algorithms or patterns for the sole purpose of performing well during job interviews. Therefore, if you heavily rely on those techniques, I'm probably not a fit for the job. However, I do code professional algorithms from the published literature when standard libraries aren't enough. I also seem to do very well on the multiple-choice programming tests which I when that is part of the hiring process. To demonstrate my ability, I am willing to write a program for you. However, to leverage the tools that I know, I do this on my own computer, using my own development tools.\n\nNote that I find quality documentation very valuable, so I read it and write it, and keep it up to date. My deep respect for documentation strongly differentiates me from most other programmers and is the differentiator that you may value highly. My work style is to move methodically and carefully with attention to quality code over quantity.\n\nWhen interviewing for contracts or jobs, I do communicate with excellence, and can demonstrate sophisticated understanding of computer science and programming. After hiring me, if you are not fully satisfied, you can terminate the relationship. I assure you that I won't cause any trouble because it is part of my ethic to be sure I am fully meeting your needs, so it is low risk for you.\n\nTo be fully productive, I a prefer a quiet place without visual distractions to concentrate on complex software engineering, therefore I work from home, or in a conventional cubicle with high walls (5 feet) and generous desk space for 3 large computer monitors and books, or preferably an office with a door and a large desk.\n\nI know that this sort of clarity is unusual, however you may also think it wise to clearly communicate about the ingredients for a good match, in seeking a subsequent highly productive and mutually satisfactory employment relationship.\n\nThank you for considering me."
+  },
+  "aboutAlternative": {
+    "text": "Let me put the speed and elegant expressiveness of Modern C++17 to work for your company. I use the Boost, Eigen (LA library), and std:: C++ concurrency / parallel programming libraries.\n\nI'm seeking full time employment (or contract work) in modern C++ programming, AI/ML, and or NLP.\n\nI have 25 years of experience as a programmer of various languages and years of database design.\nI have stopped working on bifst.com, my self-funded AI/ML startup.\n\nProspective Employer Interviewer Notes: I don't seem to program well when interviewers are watching me or when a timer is running, such as a whiteboard or online coding interview. Also, I don't memorize textbook algorithms or patterns for the sole purpose of performing well during job interviews. Therefore, if you heavily rely on those techniques, I'm probably not a fit for the job. However, I do code professional algorithms from the published literature when standard libraries aren't enough. I also seem to do very well on the multiple-choice programming tests which I when that is part of the hiring process. To demonstrate my ability, I am willing to write a program for you. However, to leverage the tools that I know, I do this on my own computer, using my own development tools.\n\nNote that I find quality documentation very valuable, so I read it and write it, and keep it up to date. My deep respect for documentation strongly differentiates me from most other programmers and is the differentiator that you may value highly. My work style is to move methodically and carefully with attention to quality code over quantity.\n\nWhen interviewing for contracts or jobs, I do communicate with excellence, and can demonstrate sophisticated understanding of computer science and programming. After hiring me, if you are not fully satisfied, you can terminate the relationship. I assure you that I won't cause any trouble because it is part of my ethic to be sure I am fully meeting your needs, so it is low risk for you.\n\nTo be fully productive, I a prefer a quiet place without visual distractions to concentrate on complex software engineering, therefore I work from home, or in a conventional cubicle with high walls (5 feet) and generous desk space for 3 large computer monitors and books, or preferably an office with a door and a large desk.\n\nI know that this sort of clarity is unusual, however you may also think it wise to clearly communicate about the ingredients for a good match, in seeking a subsequent highly productive and mutually satisfactory employment relationship.\n\nThank you for considering me."
+  },
+  "positions": [
+    {
+      "title": "C++ Senior Software Engineer - Independent Contractor",
+      "companyName": "Swordpoint Studios LLC",
+      "location": "Austin, Texas Area",
+      "description": "Design and coding of high performance modern C++17 algorithms related to RGBA color images on Linux using Qt.io tools. Coding collaboration and source control is done with the Atlassian tool set.",
+      "date1": "Mar 2019 – Present",
+      "date2": "9 mos"
+    },
+    {
+      "title": "Founder",
+      "companyName": "C++ Mentoring and Study Group - CppMSG",
+      "location": "Austin, Texas Area",
+      "description": "Organize, facilitate and participate in C++ and ML study sessions. Sample source code of various C++ and ML demonstration programs available on request. Conceived and implemented a new way of learning programming languages, in this case, C++ and machine learning. We bring together experienced programmers who want to learn another language at in-person and online events. Mentors who love to share their knowledge answer questions and debate the merits. These in depth discussions benefit everyone attending. Events are actively moderated to keep on topic and moving forward. Grant recruited mentors, prompted and launched the group.\n…\nsee more",
+      "date1": "Mar 2015 – Present",
+      "date2": "4 yrs 9 mos"
+    },
+    {
+      "title": "Chief Executive Officer",
+      "companyName": "By It Fast .com (AKA bifst.com)",
+      "location": "Austin, Texas Area",
+      "description": "We work smart to help you find, compare & click what you want to buy.\nOur bi-fst hyper search technology finds you exactly what you are looking for.\nFast buying: Enabled by Artificial Intelligence.",
+      "date1": "Mar 2017 – Mar 2019",
+      "date2": "2 yrs 1 mo"
+    },
+    {
+      "title": "Grant Rostig and Associates (a Software Consulting Firm)",
+      "location": "Austin, Texas Area",
+      "description": "Architected, coded, load-tested and deployed a durable and auto-scaling website on the Amazon AWS cloud infrastructure using CloudFormation and Data Pipeline on EC2 and RDS.\n◦ Website (ATXfloods.com) was moved from another web hosting infrastructure to AWS and upgraded to SSL using openSSL tools and Entrust certificates.\n◦ Upgraded the existing website code to improve manageability and security. Implemented XSS security protocols. Website is implemented in PHP, JavaScript, Apache, Linux and MySQL. Load tested using ‘siege’, bees with machine guns, and Redline13.\n◦ Tracked progress through a detailed project plan which was created in Microsoft Project 2013. Gathered requirements and sold/closed the contract as the sole interface with the customer which is a department of a major governmental entity in central Texas.\n\n…\nsee more",
+      "date1": "Nov 2003 – Mar 2019",
+      "date2": "15 yrs 5 mos",
+      "roles": [
+        {
+          "title": "Cloud Programmer, Architect and Database - Self Employed Contractor and Internal Projects",
+          "date1": "Nov 2003 – Mar 2019",
+          "date2": "15 yrs 5 mos",
+          "location": "Austin, Texas Area"
+        },
+        {
+          "title": "ATXfloods.com Software Architect, Full-Stack Programmer and Dev-Ops",
+          "date1": "Jun 2014 – Jul 2015",
+          "date2": "1 yr 2 mos",
+          "location": "Austin, Texas"
+        }
+      ]
+    },
+    {
+      "title": "Title\nCloud Programmer, Architect and Database - Self Employed Contractor and Internal Projects",
+      "location": "Austin, Texas Area",
+      "date1": "Nov 2003 – Mar 2019",
+      "date2": "15 yrs 5 mos",
+      "roles": [
+        {
+          "title": "Cloud Programmer, Architect and Database - Self Employed Contractor and Internal Projects",
+          "date1": "Nov 2003 – Mar 2019",
+          "date2": "15 yrs 5 mos",
+          "location": "Austin, Texas Area"
+        }
+      ]
+    },
+    {
+      "title": "Title\nATXfloods.com Software Architect, Full-Stack Programmer and Dev-Ops",
+      "location": "Austin, Texas",
+      "description": "Architected, coded, load-tested and deployed a durable and auto-scaling website on the Amazon AWS cloud infrastructure using CloudFormation and Data Pipeline on EC2 and RDS.\n◦ Website (ATXfloods.com) was moved from another web hosting infrastructure to AWS and upgraded to SSL using openSSL tools and Entrust certificates.\n◦ Upgraded the existing website code to improve manageability and security. Implemented XSS security protocols. Website is implemented in PHP, JavaScript, Apache, Linux and MySQL. Load tested using ‘siege’, bees with machine guns, and Redline13.\n◦ Tracked progress through a detailed project plan which was created in Microsoft Project 2013. Gathered requirements and sold/closed the contract as the sole interface with the customer which is a department of a major governmental entity in central Texas.\n\n…\nsee more",
+      "date1": "Jun 2014 – Jul 2015",
+      "date2": "1 yr 2 mos",
+      "roles": [
+        {
+          "title": "ATXfloods.com Software Architect, Full-Stack Programmer and Dev-Ops",
+          "date1": "Jun 2014 – Jul 2015",
+          "date2": "1 yr 2 mos",
+          "location": "Austin, Texas"
+        }
+      ]
+    },
+    {
+      "title": "Lead Architect, Programmer and Systems Administrator",
+      "companyName": "Tish Wood Web Services",
+      "location": "Denison, TX.",
+      "description": "Responsible for FreeBSD 4.8, as well as Windows XP, installation and administration. Provided programming and deployment infrastructure for Apache 1.3, PHP 4.3, Tomcat 4.1 and Mysql 4.0. Programmed interactive web applications in Java, PHP and HTML. Specified and architected entire solution. Performed the duties of the assistant manager of the office.",
+      "date1": "Jul 2003 – Oct 2003",
+      "date2": "4 mos"
+    },
+    {
+      "title": "Senior Applications Analyst",
+      "companyName": "General Mills",
+      "location": "Minneapolis, MN.",
+      "description": "Responsible for maintenance of a data warehouse containing product promotional spending. Responsible for coding HP-UX Unix jobs which call Oracle PL/SQL and SQL*LOADER logic to extract and load data. Responsible for coding PL/SQL packages using Allaround Automations' PL/SQL Developer. Responsible for using SysADMIRAL to create, schedule and maintain jobs. Interacted extensively with other developers in a technical and business analysis mentoring role. Modeled the logical and physical design of the data warehouse with ErWIN 3.5.2. Modified the Oracle 8.1.7 schema using BMC ChangeManager. Created universes and reports using the Business Objects DSS/BI query tool.\n…\nsee more",
+      "date1": "Sep 2001 – Aug 2002",
+      "date2": "1 yr"
+    },
+    {
+      "title": "Project Manager (as a sub-contractor via a staffing firm)",
+      "companyName": "UnitedHealth Group",
+      "location": "Edina, MN.",
+      "description": "Successfully led a team of six, including domain experts, coders, testers in producing a web site of several pages containing 4500 linked documents.",
+      "date1": "Jul 2001 – Sep 2001",
+      "date2": "3 mos"
+    },
+    {
+      "title": "Software Architect / Design DBA (as a sub-contractor via a staffing firm)",
+      "companyName": "Wizmo Inc.",
+      "location": "Eden Prairie, MN.",
+      "description": "As architect, designed a three tier web Application Service Provider (ASP) framework. This framework provides the infrastructure to enable the provision of hosted applications to the user's web desktop. The core technology approach was compliant with Sun's J2EE (EJB) framework as specified in Sun's Enterprise Blueprint. Several hosted services, such as email and document sharing were designed. Architecture diagrams were produced in Rational Rose 2000 and Visio. Several third party tools were evaluated to provide for single sign-on (Netegrity SiteMinder), billing (Infranet Portal), and user management (LDAP). As business analyst, produced a requirements document (Vision Document in Rational Unified Process {RUP} terminology) for the system. As object oriented analyst and designer produced use case diagrams and class diagrams. Produced a logical database design for a centralized data store used to co-ordinate date retrieval and transfer between multiple applications. Designed a messaging framework to move data and business events between multiple applications and the central data store. Reverse engineered a MS SQL database into Oracle.\n…\nsee more",
+      "date1": "Mar 2000 – Jan 2001",
+      "date2": "11 mos"
+    },
+    {
+      "title": "Software Architect / Senior Developer",
+      "companyName": "Grant Rostig and Associates (a Software Consulting Firm)",
+      "location": "Saint Paul, MN.",
+      "description": "As architect, designed a 3 tier web based discussion application. Configured GNU / Linux (SuSE distribution), Apache, Jserv, Tomcat, JOnAS and the PostgreSQL (postgres) database. As web page designer performed HTML layout. As programmer coded java servlets, beans and enterprise java beans (EJB). As database developer, designed and implemented a relational database using PostgreSQL.\n…\nsee more",
+      "date1": "Feb 2000 – Jan 2001",
+      "date2": "1 yr"
+    },
+    {
+      "title": "Design DBA / Software Architect (as a sub-contractor via a staffing firm)",
+      "companyName": "Xerox",
+      "location": "Oakdale, MN.",
+      "description": "Architected a 3 tier web print-on-demand application using HTML, JSP, Java and Oracle technologies. As object oriented analyst and designer, produced class diagrams in Rational Rose. Generated skeleton Java code from Rational Rose for the programmers. Synchronized the programmers' Java code changes back into Rational Rose. Also produced state, component and sequence diagrams. Participated in writing Use Cases. Evaluated various application server vendors, which resulted in the selection of IBM WebSphere. Designed the logical and physical database of a print job ticket web site. As production DBA, implemented the database in Oracle 7.3.4 on a Sun machine. Installed, configured and developed a simple web site with Oracle WebDB 2.0.6, Oracle Application Server (OAS) 4.0, and PL/SQL HTML. Installed and configured Netscape Enterprise Server (IPlanet) 4.0 for servlets and JSP with JDBC connectivity. Designed and coded a web site using Java servlets, session management and JSP connected to an Oracle via JDBC. Installed and configured Documentum EDMS 98 document management software on Sun Solaris 2.6. Assisted project manager with the MS Project plan, and provided time estimates for the technical aspects of the effort.\n…\nsee more",
+      "date1": "Aug 1999 – Feb 2000",
+      "date2": "7 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Northwestern Health Sciences University",
+      "degree": "Doctor of Chiropractic & Bachelor’s Degree",
+      "fieldofstudy": "Chiropractic and Human Biology",
+      "date1": "1990",
+      "date2": "1993"
+    },
+    {
+      "title": "Concordia University",
+      "degree": "Most of a B.S. degree",
+      "fieldofstudy": "Computer Science",
+      "date1": "1979",
+      "date2": "1981"
+    },
+    {
+      "title": "CaltechX | California Institute of Technology",
+      "degree": "Artificial Intelligence / Machine Learning",
+      "fieldofstudy": "Artificial Intelligence / Machine Learning",
+      "date1": "2017",
+      "date2": "2019"
+    },
+    {
+      "title": "Colfax International",
+      "degree": "Parallel Computer Programming in C++",
+      "fieldofstudy": "Parallel Computer Programming in C++",
+      "date1": "2016",
+      "date2": "2016"
+    },
+    {
+      "title": "Princeton University Coursera MOOC",
+      "degree": "BTC-Tech: Bitcoin and Cryptocurrency Technologies",
+      "fieldofstudy": "BTC-Tech: Bitcoin and Cryptocurrency Technologies",
+      "date1": "2019",
+      "date2": "2019"
+    },
+    {
+      "title": "Addison Wesley Professional / O’Reilly Safari",
+      "degree": "Introduction to C++ Concurrency LiveLessons by Bartosz Milewski",
+      "fieldofstudy": "Introduction to C++ Concurrency LiveLessons by Bartosz Milewski",
+      "date1": "2019",
+      "date2": "2019"
+    },
+    {
+      "title": "Y Combinator - Public Classes",
+      "degree": "Technology Startup Education",
+      "fieldofstudy": "Technology Startup Education"
+    },
+    {
+      "title": "Khan Academy",
+      "degree": "Crypography, Information Theory, Finance and Captial Markets",
+      "fieldofstudy": "Crypography, Information Theory, Finance and Captial Markets",
+      "date1": "2014",
+      "date2": "2014"
+    }
+  ],
+  "skills": [
+    {
+      "title": "C++"
+    },
+    {
+      "title": "Database Design"
+    },
+    {
+      "title": "Machine Learning"
+    },
+    {
+      "title": "Data Modeling"
+    },
+    {
+      "title": "Git"
+    },
+    {
+      "title": "PostgreSQL"
+    },
+    {
+      "title": "SQL"
+    },
+    {
+      "title": "Public Speaking"
+    },
+    {
+      "title": "Organizational Leadership"
+    },
+    {
+      "title": "Data Science"
+    },
+    {
+      "title": "Data Architecture"
+    },
+    {
+      "title": "C++0x"
+    },
+    {
+      "title": "c++17"
+    },
+    {
+      "title": "c++14"
+    },
+    {
+      "title": "c++11"
+    },
+    {
+      "title": "c++20"
+    },
+    {
+      "title": "c++03"
+    },
+    {
+      "title": "c++98"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "23",
+      "items": [
+        "ATX Startup Week 2014 - attended week of lectures.",
+        "Bitcoin - https://www.khanacademy.org/economics-finance-domain/core-finance/money-and-banking/bitcoin",
+        "Building Database Applications on the Web Using PHP3, by Hilton",
+        "C# 5.0 in a Nutshell, by Alabahari",
+        "Couchbase Day v4 - Austin 9/2015",
+        "Efficient Programming for Intel Architecture - H.O.T.",
+        "From Zero to API to App -- Austin 8/2015, by Apigee Corp.",
+        "Hadoop Essentials - HDP 100 8/2015",
+        "How to Start a Startup",
+        "Introduction to Functional Nutrition: Clinical Solutions for Addressing the Underlying Causes of Disease",
+        "Journey into Information Theory - https://www.khanacademy.org/computing/computer-science/informationtheory",
+        "Learning from Data ( Artificial Intelligence / Machine Learning )",
+        "MITx: 15.390x Entrepreneurship 101",
+        "MapR Distribution Essentials - HDE 110 8/2015",
+        "Parallel Programming and Optimization for Intel Architecture - H.O.W.",
+        "PostgreSQL PGDay Austin 11/2016",
+        "Pragmatic Ajax -- A Web 2.0 Primer, by Gehtland",
+        "ProductCamp Austin 8/2015",
+        "Programming -- Principles and Practice Using C++ (Second Edition), by Bjarne Stroustrup",
+        "Programming the World Wide Web, by Sebesta"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "English",
+        "French",
+        "German"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "C++ Mentoring and Study Group - CppMSG",
+        "The Austin C/C++ Meetup Group - TX"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "ATXfloods Website Cloud Project - Auto-scaling Cloud Deployment on Amazon AWS."
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [],
+  "volunteerExperience": [
+    {
+      "title": "Founder & Lead Facilitator",
+      "experience": "C++ Mentoring and Study Group ( # cppmsg )",
+      "description": "Education",
+      "date1": "Jan 2015 – Present",
+      "date2": "4 yrs 11 mos"
+    },
+    {
+      "title": "Volunteer",
+      "experience": "Eckankar",
+      "date1": "May 1981 – Jan 2015",
+      "date2": "33 yrs 9 mos"
+    },
+    {
+      "title": "CEO",
+      "experience": "Silicon Valley Net - SVNET",
+      "description": "Education",
+      "date1": "Aug 1984 – Jun 1988",
+      "date2": "3 yrs 11 mos"
+    }
+  ],
+  "profile": {
+    "name": "Grant Rostig",
+    "headline": "C++ Software Engineer / Programmer & DB designer with broad business skills. Deeply studying AI/ML, and math.",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQHZGrUXF21BHw/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=3MvCLPpC8tsGFCNos7bX0_TE3CLLvJGCLZvQy5-qyYM",
+    "location": "Austin, Texas",
+    "connections": "237",
+    "summary": "Let me put the speed and elegant expressiveness of Modern C++17 to work for your company. I use the Boost, Eigen (LA library), and std:: C++ concurrency / parallel programming libraries.\n\nI'm seeking full time employment (or contract work) in modern C++ programming, AI/ML, and or NLP.\n\nI have 25 years of experience as a programmer of various languages and years of database design.\nI have stopped working on bifst.com, my self-funded AI/ML startup.\n\nProspective Employer Interviewer Notes: I don't seem to program well when interviewers are watching me or when a timer is running, such as a whiteboard or online coding interview. Also, I don't memorize textbook algorithms or patterns for the sole purpose of performing well during job interviews. Therefore, if you heavily rely on those techniques, I'm probably not a fit for the job. However, I do code professional algorithms from the published literature when standard libraries aren't enough. I also seem to do very well on the multiple-choice programming tests which I when that is part of the hiring process. To demonstrate my ability, I am willing to write a program for you. However, to leverage the tools that I know, I do this on my own computer, using my own development tools.\n\nNote that I find quality documentation very valuable, so I read it and write it, and keep it up to date. My deep respect for documentation strongly differentiates me from most other programmers and is the differentiator that you may value highly. My work style is to move methodically and carefully with attention to quality code over quantity.\n\nWhen interviewing for contracts or jobs, I do communicate with excellence, and can demonstrate sophisticated understanding of computer science and programming. After hiring me, if you are not fully satisfied, you can terminate the relationship. I assure you that I won't cause any trouble because it is part of my ethic to be sure I am fully meeting your needs, so it is low risk for you.\n\nTo be fully productive, I a prefer a quiet place without visual distractions to concentrate on complex software engineering, therefore I work from home, or in a conventional cubicle with high walls (5 feet) and generous desk space for 3 large computer monitors and books, or preferably an office with a door and a large desk.\n\nI know that this sort of clarity is unusual, however you may also think it wise to clearly communicate about the ingredients for a good match, in seeking a subsequent highly productive and mutually satisfactory employment relationship.\n\nThank you for considering me."
+  }
+}

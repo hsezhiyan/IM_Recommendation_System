@@ -1,0 +1,443 @@
+{
+  "profileAlternative": {
+    "name": "Phil Kasiecki",
+    "headline": "Versatile Software Engineer | Real-time & embedded systems | C, C++, Linux | Device drivers, diagnostics, software tools",
+    "imageurl": "https://media.licdn.com/dms/image/C5103AQG79_CuD9tFFQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=__PGgxBo3_ZZDkja6JGBQRCxhazwwnD4oyqnUZX6ivg",
+    "location": "Hooksett, New Hampshire",
+    "connections": "500+",
+    "summary": "I enjoy multi-faceted software engineering work because it helps me contribute more to a team and allows me to understand more about a system. My diverse experience includes software development tools, embedded systems, device drivers and diagnostics, and I have impacted multiple components of software products.\n\nMy experience includes low-level software that required knowledge of microprocessors down to the bus cycle and signal level, as well as object-oriented software that is hardware agnostic. I have also thrived in non-technical aspects such as documentation or presenting a new development to a group of people.\n\nI have extensive experience with C that includes low-level programming, object-oriented C++ and Linux that includes dealing with the kernel as well as system programming. In addition, I have authored a wide range of technical documentation, from user manuals to software generation documents.\n\nSkills:\nOperating Systems: Windows 7, Solaris, Linux (Fedora, Ubuntu)\nProgramming Languages: C, C++, Unix/Linux shell script, Tcl, SQL, C#, Java, Perl, Python, Assembly (M68K, PowerPC)\nApplications/Tools: Microsoft Visual Studio, Eclipse, Visual SlickEdit, ClearCase, SVN, CVS, Qt, git\nOther technologies: National Instruments LabWindows and TestStand, Agilent and Tektronix logic analyzers, HP3458A DVM"
+  },
+  "aboutAlternative": {
+    "text": "I enjoy multi-faceted software engineering work because it helps me contribute more to a team and allows me to understand more about a system. My diverse experience includes software development tools, embedded systems, device drivers and diagnostics, and I have impacted multiple components of software products.\n\nMy experience includes low-level software that required knowledge of microprocessors down to the bus cycle and signal level, as well as object-oriented software that is hardware agnostic. I have also thrived in non-technical aspects such as documentation or presenting a new development to a group of people.\n\nI have extensive experience with C that includes low-level programming, object-oriented C++ and Linux that includes dealing with the kernel as well as system programming. In addition, I have authored a wide range of technical documentation, from user manuals to software generation documents.\n\nSkills:\nOperating Systems: Windows 7, Solaris, Linux (Fedora, Ubuntu)\nProgramming Languages: C, C++, Unix/Linux shell script, Tcl, SQL, C#, Java, Perl, Python, Assembly (M68K, PowerPC)\nApplications/Tools: Microsoft Visual Studio, Eclipse, Visual SlickEdit, ClearCase, SVN, CVS, Qt, git\nOther technologies: National Instruments LabWindows and TestStand, Agilent and Tektronix logic analyzers, HP3458A DVM"
+  },
+  "positions": [
+    {
+      "title": "Senior Software Engineer II",
+      "companyName": "Raytheon",
+      "location": "Tewksbury, Massachusetts",
+      "description": "Integrated Defense Systems",
+      "date1": "Apr 2019 – Present",
+      "date2": "8 mos"
+    },
+    {
+      "title": "Hoopville Media Services",
+      "description": "New parent company that continues the work of Hoopville Media Enterprises\nProduce NCAA compliant national recruiting service\nLead independent coverage of college basketball and everything connected to it through news and feature content\nRun highly-competitive basketball showcases and team tournaments\n…\nsee more",
+      "date1": "Oct 2010 – Present",
+      "date2": "9 yrs 2 mos",
+      "roles": [
+        {
+          "title": "President and Director of Basketball Operations",
+          "date1": "Oct 2010 – Present",
+          "date2": "9 yrs 2 mos"
+        },
+        {
+          "title": "Managing Editor",
+          "date1": "Dec 2004 – Oct 2010",
+          "date2": "5 yrs 11 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nPresident and Director of Basketball Operations",
+      "description": "New parent company that continues the work of Hoopville Media Enterprises\nProduce NCAA compliant national recruiting service\nLead independent coverage of college basketball and everything connected to it through news and feature content\nRun highly-competitive basketball showcases and team tournaments\n…\nsee more",
+      "date1": "Oct 2010 – Present",
+      "date2": "9 yrs 2 mos",
+      "roles": [
+        {
+          "title": "President and Director of Basketball Operations",
+          "date1": "Oct 2010 – Present",
+          "date2": "9 yrs 2 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nManaging Editor",
+      "description": "Lead the coverage of college basketball, as well as the NBA Draft and recruiting as they concern the college game\nManage staff writers and columnists, directing coverage with season previews and recaps as well as recurring features",
+      "date1": "Dec 2004 – Oct 2010",
+      "date2": "5 yrs 11 mos",
+      "roles": [
+        {
+          "title": "Managing Editor",
+          "date1": "Dec 2004 – Oct 2010",
+          "date2": "5 yrs 11 mos"
+        }
+      ]
+    },
+    {
+      "title": "Senior Software Engineer",
+      "companyName": "Dräger",
+      "location": "Andover, MA",
+      "description": "Software engineering for medical devices\n* Enhanced parts of a large C code base by fixing issues found via static analysis and in-house testing.\n* Investigated a range of monitoring unit issues including cybersecurity concerns.\n* Led early support for the use of a strip recorder with a patient monitoring device.\n…\nsee more",
+      "date1": "Dec 2017 – Apr 2019",
+      "date2": "1 yr 5 mos"
+    },
+    {
+      "title": "Instructor",
+      "companyName": "Startup Institute",
+      "location": "Boston, MA",
+      "description": "Teach technical classes as part of the program: Algorithms and Data Structures, Nailing the Technical Interview",
+      "date1": "Nov 2017",
+      "date2": "1 mo"
+    },
+    {
+      "title": "Senior Staff Software Engineer",
+      "companyName": "AES Corporation",
+      "location": "Peabody, MA",
+      "description": "Software development for a leading vendor of security and alarm systems\n* Developed automated design verification programs and unified them along with an existing menu-driven design verification tool into one diagnostic program.\n* Leveraged an automated design verification program to test hardware with varying environment settings.\n* Added the ability to upload preconfigured settings from a USB drive to a subscriber using a C program and Linux shell script.\n* Led development of a protocol used as a primary component in an automated manufacturing test setup.\n* Improved the ability to upgrade firmware via USB, including how it notifies users of progress or problems via an LCD.\n* Leveraged existing code to add the ability to forward a network packet as-is, allowing for easy test of known bad packets.\n* Assisted in automation of many functional tests using Python and Selenium.\n…\nsee more",
+      "date1": "Feb 2016 – Jun 2017",
+      "date2": "1 yr 5 mos"
+    },
+    {
+      "title": "Software Engineer",
+      "companyName": "Thermo Fisher Scientific",
+      "location": "Franklin, MA",
+      "description": "Software Research & Development Engineer in the Environmental and Process Monitoring Instruments Group\n* Ported an instrument series platform from the Linux 2.4 kernel to the 2.6 kernel\n* Aided customer input options by modifying the standard Linux keyboard driver to support a USB keypad for an instrument series.\n* Co-led graphical user interface development for a continuous emissions monitoring instrument.\n* Developed software for parts of an SNMP register agent, MySQL database agent and graphical user interface that comprised a next generation platform.\n* Fixed a long-standing time skew problem with an instrument, led the new release containing the fix, and updated the software generation document for the product to reflect numerous changes since the last update.\n…\nsee more",
+      "date1": "Feb 2010 – Feb 2016",
+      "date2": "6 yrs 1 mo"
+    },
+    {
+      "title": "LTX-Credence",
+      "location": "Norwood, MA",
+      "description": "LTX-Credence was formed by the merger of LTX and Credence, completed at the end of August 2008.",
+      "date1": "Sep 2008 – Dec 2008",
+      "date2": "4 mos",
+      "roles": [
+        {
+          "title": "Software Engineer",
+          "date1": "Sep 2008 – Dec 2008",
+          "date2": "4 mos",
+          "location": "Norwood, MA"
+        },
+        {
+          "title": "Software Engineer",
+          "date1": "Apr 2005 – Sep 2008",
+          "date2": "3 yrs 6 mos",
+          "location": "Westwood, MA and Norwood, MA"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSoftware Engineer",
+      "location": "Norwood, MA",
+      "description": "LTX-Credence was formed by the merger of LTX and Credence, completed at the end of August 2008.",
+      "date1": "Sep 2008 – Dec 2008",
+      "date2": "4 mos",
+      "roles": [
+        {
+          "title": "Software Engineer",
+          "date1": "Sep 2008 – Dec 2008",
+          "date2": "4 mos",
+          "location": "Norwood, MA"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSoftware Engineer",
+      "location": "Westwood, MA and Norwood, MA",
+      "description": "Software engineer in the Diagnostics, Calibration and Verify group.\n* Enhanced diagnostics for the company's RF products to support new hardware that automates the calibration procedure. This included proper detection of a USB file system mount, unifying calibration programs and implementing proper abort mechanisms.\n* Played a leading role in the conversion of diagnostic programs to use a new reporting format, many of which were completed ahead of schedule.\n* Converted two diagnostic programs from an internal language into C++-based programs.\n* Refactored functionality from a diagnostic program into two reusable utility classes.\n* Developed a diagnostic for an adapter that provides compatibility between two tester architectures, utilizing prior work from a similar diagnostic.\n* Unified a diagnostic for multiple platforms into one program.\n* Successfully mentored a new college graduate in the department.\n…\nsee more",
+      "date1": "Apr 2005 – Sep 2008",
+      "date2": "3 yrs 6 mos",
+      "roles": [
+        {
+          "title": "Software Engineer",
+          "date1": "Apr 2005 – Sep 2008",
+          "date2": "3 yrs 6 mos",
+          "location": "Westwood, MA and Norwood, MA"
+        }
+      ]
+    },
+    {
+      "title": "Contributing Writer",
+      "companyName": "College Sports Television",
+      "description": "Produced regular columns on national subjects of interest in college basketball, as well as live-blogging game coverage.\nFor the NCAA Tournament, authored \"Names You Need to Know\", on X-factors for participating teams and stars hidden on teams out of the public eye.",
+      "date1": "Oct 2003 – Apr 2008",
+      "date2": "4 yrs 7 mos"
+    },
+    {
+      "title": "Software Engineer",
+      "companyName": "Summit Technical Services",
+      "location": "Burlington, MA",
+      "description": "Client was iRobot\nSoftware development on Linux for components with the PackBot line of robots.\n* Ported a client's device driver previously developed for the Linux 2.4 kernel to the 2.6 kernel, altering source code and the build process.\n* Configured and built a kernel for early work on a new robot operating system.\n…\nsee more",
+      "date1": "Oct 2004 – Jan 2005",
+      "date2": "4 mos"
+    },
+    {
+      "title": "Consulting Engineer",
+      "companyName": "Dot4, Inc.",
+      "location": "Westford, MA",
+      "description": "Software consulting for firms in the embedded systems industry\n* Improved a client’s documentation generation by cleaning up internal tools, documenting the generation process, and putting guidelines in place for using future releases of a commercial tool used in the process, all finished ahead of schedule.\n* Documented previous internal research on re-hosting real-time systems from VxWorks to Linux, and further researched re-hosting device drivers and system libraries/services.\n…\nsee more",
+      "date1": "Jun 2004 – Oct 2004",
+      "date2": "5 mos"
+    },
+    {
+      "title": "Software Engineer",
+      "companyName": "Wind River Systems",
+      "location": "Canton, MA",
+      "description": "Software development for real-time trace development tools, with a focus on PowerPC microprocessors.\n* Designed and implemented real-time trace and run control components for embedded microprocessors utilizing a logic analyzer, supporting processors with high external bus speeds.\n* Co-developed a system for automated firmware builds and testing, helping firmware engineers deliver a better product to the quality assurance team for their testing.\n* Developed firmware and host-based trace for embedded PowerPC processors.\n* Ported source code for a host-based trace component from Windows to UNIX platforms.\n* Co-led documentation efforts for real-time trace solutions, including the migration of existing components to a new debugger.\n* Assisted with the migration of a real-time trace solution to a new debugger.\n…\nsee more",
+      "date1": "Jul 1999 – Jan 2003",
+      "date2": "3 yrs 7 mos"
+    },
+    {
+      "title": "Hardware Engineer (Co-op)",
+      "companyName": "Cognex Corporation",
+      "location": "Natick, MA",
+      "description": "Performed various tasks in the Test Development group\n* Developed and maintained an intranet status reporting system in Perl and C++, allowing engineers to easily submit project status and managers to more easily track projects by time and engineer.\n* Co-designed a new test fixture by helping with schematics and the hardware specification, and developing algorithms for its design verification tests.\n…\nsee more",
+      "date1": "Jan 1998 – Dec 1998",
+      "date2": "12 mos"
+    },
+    {
+      "title": "Diagnostic Engineer (Co-op)",
+      "companyName": "PictureTel",
+      "location": "Andover, MA",
+      "description": "Performed regression testing of diagnostic software and videoconferencing hardware.\nWrote test scripts in Microsoft Test to automate diagnostic software testing of high priority bugs.",
+      "date1": "Jan 1996 – Dec 1996",
+      "date2": "12 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Northeastern University",
+      "degree": "B.S.",
+      "fieldofstudy": "Electrical Engineering"
+    },
+    {
+      "title": "Newman School",
+      "degree": "Diploma"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Embedded Systems",
+      "count": "54"
+    },
+    {
+      "title": "Linux",
+      "count": "42"
+    },
+    {
+      "title": "Software Development",
+      "count": "32"
+    },
+    {
+      "title": "Social Media",
+      "count": "14"
+    },
+    {
+      "title": "Debugging",
+      "count": "9"
+    },
+    {
+      "title": "Software Engineering",
+      "count": "7"
+    },
+    {
+      "title": "Programming",
+      "count": "5"
+    },
+    {
+      "title": "Algorithms",
+      "count": "5"
+    },
+    {
+      "title": "Software Design",
+      "count": "5"
+    },
+    {
+      "title": "Agile Methodologies",
+      "count": "4"
+    },
+    {
+      "title": "System Architecture",
+      "count": "4"
+    },
+    {
+      "title": "Object Oriented Design",
+      "count": "4"
+    },
+    {
+      "title": "Software Documentation",
+      "count": "3"
+    },
+    {
+      "title": "Architecture",
+      "count": "3"
+    },
+    {
+      "title": "Writing",
+      "count": "2"
+    },
+    {
+      "title": "Digital Signal Processors",
+      "count": "2"
+    },
+    {
+      "title": "ARM",
+      "count": "2"
+    },
+    {
+      "title": "C++",
+      "count": "23"
+    },
+    {
+      "title": "Device Drivers",
+      "count": "22"
+    },
+    {
+      "title": "Unix",
+      "count": "19"
+    },
+    {
+      "title": "C",
+      "count": "17"
+    },
+    {
+      "title": "Firmware",
+      "count": "8"
+    },
+    {
+      "title": "ClearCase",
+      "count": "6"
+    },
+    {
+      "title": "Embedded Software",
+      "count": "6"
+    },
+    {
+      "title": "Operating Systems",
+      "count": "6"
+    },
+    {
+      "title": "Solaris",
+      "count": "1"
+    },
+    {
+      "title": "Assembly Language",
+      "count": "1"
+    },
+    {
+      "title": "BASH shell",
+      "count": "1"
+    },
+    {
+      "title": "Python",
+      "count": "1"
+    },
+    {
+      "title": "SVN",
+      "count": "1"
+    },
+    {
+      "title": "Hardware",
+      "count": "5"
+    },
+    {
+      "title": "College Basketball",
+      "count": "4"
+    },
+    {
+      "title": "CVS",
+      "count": "1"
+    },
+    {
+      "title": "68k Assembly",
+      "count": "1"
+    },
+    {
+      "title": "Tournaments",
+      "count": "1"
+    },
+    {
+      "title": "PowerPC",
+      "count": "1"
+    },
+    {
+      "title": "Basketball Recruiting",
+      "count": "2"
+    },
+    {
+      "title": "Talent evaluation",
+      "count": "2"
+    },
+    {
+      "title": "Unix Shell Scripting",
+      "count": "1"
+    },
+    {
+      "title": "Basketball Events",
+      "count": "1"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "10",
+    "receivedCount": "4",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/raymond-porch-m-ed-38a44247/",
+        "text": "Phil is an innovative, detail oriented basketball writer, analyst with terrific insight and understanding of all levels of basketball and the business of basketball. Phil runs Hoopville Media. I've had the pleasure of working with Phil on a number of events. Phil has deep knowledge of media functionality and event planning, organizing and execution. Because of Phil's range of experience, knowledge, contacts and expertise he is well known and is held in high regard in basketball circles- Ray Porch Assistant Men's Basketball Emmanuel College\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/poppalex/",
+        "text": "As a member of the media, Phil possesses a tireless work ethic and an un-bias delivery when reporting. He is a basketball enthusiast with a selfless devotion to the game. All college coaches should follow his twitter handle (@PhilKasiecki) and website (www.hoopville.com) for informative and timely material. Phil’s positive reputation is well deserved, and I am fortunate enough to call him a friend.\n…\nSee more"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/gary-belanger-a542a34/",
+        "text": "I was very fortunate to have Gary as a colleague at EST, later Wind River, in my first post-college job. Gary was always someone I could talk shop with, and I did so often. I also specifically remember when shared a series of e-mails to a number of us about using VxWorks more than just in passing as most of us did at that time - in our department, we often used VxWorks BSPs to help us more fully test debugger components, but little more than that - so he is not only highly technically competent, but always happy to engage and share what he knows. He was great as a developer before finding a home in tech support, and there he managed a group that was easy to deal with and always came to me with as much information on a problem as they could gather, making my job a little easier."
+      },
+      {
+        "user": "https://www.linkedin.com/in/shanikwadavis/",
+        "text": "Shanikwa is a great combination of being professional and personable. She is not only very good at what she does, but she is also very pleasant to deal with, and that can't be underestimated given the nature of this business. I was fortunate to have her as my tax preparer one year at a firm I regularly went to, and not only was my return - which was not trivial given my situation - well-done and completed well within the allotted time, but I enjoyed being in her company all the while and hoped I could have her again in future years there. She is someone I would not hesitate to call upon again."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "17",
+      "items": [
+        "Advanced Embedded Linux (Boston Section IEEE)",
+        "Advanced Java Programming (Northeastern University State of the Art Program)",
+        "C Programming: Advanced Topics (Northeastern University State of the Art Program)",
+        "C# Migration Summit (Develop Mentor)",
+        "C# Programming (Northeastern University State of the Art Program)",
+        "C++ Classes and Templates (Boston Section IEEE)",
+        "Developing For Embedded Linux 2.6 (Boston Section IEEE)",
+        "Introduction to Android SDK (Boston Section IEEE)",
+        "Introduction to Multicore Programming (Boston Section IEEE)",
+        "Introduction to Operating Systems (UMass-Lowell)",
+        "Java Programming (Northeastern University State of the Art Program)",
+        "Organization of Programming Languages (University of Massachusetts-Lowell)",
+        "Sashimi Stories: Slicing Requirements For Agile Success (EBG Consulting, Inc.)",
+        "Structured Query Language (Boston Section IEEE)",
+        "The Complete Web Developer Course 2.0 (Udemy)",
+        "Wind River Tornado 2.2 / VxWorks 5.5 Training Workshop (Wind River Training)",
+        "Wireshark Crash Course (Udemy)"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "Institute of Electrical and Electronics Engineers (IEEE)",
+        "Sports Executives Association (SEA)",
+        "US Basketball Writers Association (USBWA)"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [],
+  "volunteerExperience": [
+    {
+      "title": "Assistant Baseball Coach",
+      "experience": "All Dorchester Sports League",
+      "date1": "Jul 2000 – Aug 2001",
+      "date2": "1 yr 2 mos"
+    }
+  ],
+  "profile": {
+    "name": "Phil Kasiecki",
+    "headline": "Versatile Software Engineer | Real-time & embedded systems | C, C++, Linux | Device drivers, diagnostics, software tools",
+    "imageurl": "https://media.licdn.com/dms/image/C5103AQG79_CuD9tFFQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=__PGgxBo3_ZZDkja6JGBQRCxhazwwnD4oyqnUZX6ivg",
+    "location": "Hooksett, New Hampshire",
+    "connections": "500+",
+    "summary": "I enjoy multi-faceted software engineering work because it helps me contribute more to a team and allows me to understand more about a system. My diverse experience includes software development tools, embedded systems, device drivers and diagnostics, and I have impacted multiple components of software products.\n\nMy experience includes low-level software that required knowledge of microprocessors down to the bus cycle and signal level, as well as object-oriented software that is hardware agnostic. I have also thrived in non-technical aspects such as documentation or presenting a new development to a group of people.\n\nI have extensive experience with C that includes low-level programming, object-oriented C++ and Linux that includes dealing with the kernel as well as system programming. In addition, I have authored a wide range of technical documentation, from user manuals to software generation documents.\n\nSkills:\nOperating Systems: Windows 7, Solaris, Linux (Fedora, Ubuntu)\nProgramming Languages: C, C++, Unix/Linux shell script, Tcl, SQL, C#, Java, Perl, Python, Assembly (M68K, PowerPC)\nApplications/Tools: Microsoft Visual Studio, Eclipse, Visual SlickEdit, ClearCase, SVN, CVS, Qt, git\nOther technologies: National Instruments LabWindows and TestStand, Agilent and Tektronix logic analyzers, HP3458A DVM"
+  }
+}

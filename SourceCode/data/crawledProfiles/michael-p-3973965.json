@@ -1,0 +1,255 @@
+{
+  "profileAlternative": {
+    "name": "Michael P.",
+    "headline": "MS SQL Server DBA and Developer for Illuminate Education",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQFSROqqiUon_w/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=GmZty2bVBtqmK2CZhBHYvbKp4Dvn8i9SvBt3yKghGcQ",
+    "location": "Redding, California",
+    "connections": "157",
+    "summary": "MS SQL Server, TSQL, Toad"
+  },
+  "aboutAlternative": {
+    "text": "MS SQL Server, TSQL, Toad"
+  },
+  "positions": [
+    {
+      "title": "DBA and SQL Developer",
+      "companyName": "Illuminate Education, Inc.",
+      "location": "California",
+      "description": "MS SQL Server 2008R2, 2012, 2014, 2016 installation and configuration\nDatabase replication setup and troubleshooting\nEnvironment shifts to/from on premises and AWS\nTriage critical failures and incident resolution\nSQL Code reviews and walk-throughs\nTrain developers and support staff on SQL best practices\nPerformance tuning: rewriting queries, index tuning, analyzing plan cache\nConfigure and standardize backup routines, alerts, maintenance jobs, and processes\nDebug application issues in C#\nAssist developers with data clean up\nRefresh dev and staging environments\n…\nsee more",
+      "date1": "Jul 2015 – Present",
+      "date2": "4 yrs 5 mos"
+    },
+    {
+      "title": "Data Integration Specialist",
+      "companyName": "Adrylan Communications, Inc.",
+      "location": "Murrieta, California",
+      "description": "MS SQL 2008, 2008R2, 2012, 2014",
+      "date1": "Jul 2015 – Jun 2016",
+      "date2": "1 yr"
+    },
+    {
+      "title": "Data Integration Supervisor",
+      "companyName": "Measured Progress",
+      "location": "Redding, California Area",
+      "description": "MS SQL Server 2005, 2008, 2008 R2\nTSQL trainings, best practices, and documentation\nProcess development and documentation\nDevelop and standardize ETL processes\nDatabase versioning updates and schema changes\nSpecial projects and data cleanup\nCreate model for tracking workload and estimating completion\nManage data integration staff including hiring, trainings, documenting\nDebug C#, VB.net, Access applications\n…\nsee more",
+      "date1": "Jul 2010 – Jun 2015",
+      "date2": "5 yrs"
+    },
+    {
+      "title": "Data Integration Specialist",
+      "companyName": "Datawise (Acquired by Measured Progress)",
+      "location": "Redding, California Area",
+      "description": "MS SQL Server 2005, 2008\nTSQL\nDebug C#, VB, and Access applications\nETL\nTier 3 Support\n…\nsee more",
+      "date1": "Dec 2009 – Jun 2010",
+      "date2": "7 mos"
+    },
+    {
+      "title": "Programmer",
+      "companyName": "Pre-employ.com",
+      "location": "Redding, California Area",
+      "description": "Visual Studio 2003 - 2008, Visual Source Safe, Microsoft SQL 2005, Web Services, VB and C#\nCommand line applications for export, transform, and load\nWeb development with jQuery for UI\nConvert reports from Crystal Reports 7 to SSRS",
+      "date1": "Jun 2009 – Nov 2009",
+      "date2": "6 mos"
+    },
+    {
+      "title": "Web Developer",
+      "companyName": "Westside Creative",
+      "location": "Redding, California Area",
+      "description": "PHP, MySQL, XHTML and CSS with emphasis on web standards and cross browser compatibility\nLAMP, jQuery, Zend Framework, MVC\nDeveloped custom CMS and templating system for hosted clients\nConvert Photoshop designs to working websites",
+      "date1": "Aug 2007 – Jun 2008",
+      "date2": "11 mos"
+    },
+    {
+      "title": "Web Administrator",
+      "companyName": "Simpson University",
+      "description": "Microsoft Windows Server implementation and administration including: IIS 5 and 6, SQL Server 2000 and 2005, Exchange 2000 and 2003, Active Directory as well as synchronized integration and production environments. Classic ASP, PHP, Reddot CMS, Active Directory, Exchange Server, Adobe Creative Suite, Project Management including redesigns, institutional workflow and hardware.",
+      "date1": "Oct 2000 – Aug 2007",
+      "date2": "6 yrs 11 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Simpson University",
+      "degree": "BA",
+      "fieldofstudy": "Psychology",
+      "date1": "2000",
+      "date2": "2002"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Microsoft SQL Server",
+      "count": "16"
+    },
+    {
+      "title": "CSS",
+      "count": "13"
+    },
+    {
+      "title": "IIS",
+      "count": "12"
+    },
+    {
+      "title": "Web Design",
+      "count": "5"
+    },
+    {
+      "title": "Web Development",
+      "count": "4"
+    },
+    {
+      "title": "Project Management",
+      "count": "3"
+    },
+    {
+      "title": "Data Analysis"
+    },
+    {
+      "title": "ETL"
+    },
+    {
+      "title": "Data Warehousing"
+    },
+    {
+      "title": "PHP",
+      "count": "9"
+    },
+    {
+      "title": "MySQL",
+      "count": "9"
+    },
+    {
+      "title": "SQL",
+      "count": "7"
+    },
+    {
+      "title": "XHTML",
+      "count": "5"
+    },
+    {
+      "title": "jQuery",
+      "count": "5"
+    },
+    {
+      "title": "CMS",
+      "count": "3"
+    },
+    {
+      "title": "C#",
+      "count": "2"
+    },
+    {
+      "title": "T-SQL"
+    },
+    {
+      "title": "SQL Server"
+    },
+    {
+      "title": "SQL Server Management Studio"
+    },
+    {
+      "title": "VB.NET"
+    },
+    {
+      "title": "Access"
+    },
+    {
+      "title": "Java"
+    },
+    {
+      "title": "Student Information System"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "2",
+    "receivedCount": "6",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/merlin-weber-32524b7/",
+        "text": "I have always appreciated not only Michael's technical skill, but also his willingness to find a solution to my various (and sometimes confusing) technology issues."
+      },
+      {
+        "user": "https://www.linkedin.com/in/mattbridgen/",
+        "text": "Michael is easy to work with and always works until the problem is taken care of. Michael thinks critically while also adding other viewpoints into his solutions. I highly recommend Michael-"
+      },
+      {
+        "user": "https://www.linkedin.com/in/lizoverstreet/",
+        "text": "I can recommend Michael as a person who has good creative instincts with strong technical ability and excellent communication skills. In working with Michael on projects, I found that he was a very detail oriented software engineer, capable of adapting to new working environments and unafraid to try new things. He has a willingness to learn when it comes to professional development, and his personality added great morale to the team.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/thomasjahearn/",
+        "text": "I worked with Michael Painter in the Marketing Department at Pre-Employ.com and found him to be a knowledgeable, talented, and hard working colleague with a wide assortment of programming skills."
+      },
+      {
+        "user": "https://www.linkedin.com/in/richard-ruiz-8022953/",
+        "text": "I worked with Michael in relation to the website at Simpson University. He was thorough in his work. He was able to take direction well, but was not afraid to counter with ideas and/or suggestions that in many cases, turned out to be superior to what was requested. He's a confident worker, extremely patient, and well thought of. Strong character, and a fantastic work ethic were evident. I have no qualms in recommending him for any position.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/akshaylazarus/",
+        "text": "Mike has the rare combination of technical understanding and a keen design sense – great mix. His understanding of the bigger picture from the perspective of the end user makes his insight very valuable. Working for Mike was very rewarding. Not only did he manage me well but he continually facilitated my professional growth and development. -Akshay\n…\nSee more"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/mattmorgan105/",
+        "text": "Matt is the epitome of grace under pressure. While working at pre-employ.com he was asked to do a lot with a little and managed to keep a busy fast paced environment from turning into chaos. His management skills are fantastic and he knows how to utilize his resources efficiently."
+      },
+      {
+        "user": "https://www.linkedin.com/in/donatosinicco/",
+        "text": "Donato is an experienced and mature programmer with keen insight into development best practices and problem solving skills."
+      }
+    ]
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/apeacock86/",
+      "text": "Guest Experience Lead at New Community Church"
+    },
+    {
+      "user": "https://www.linkedin.com/in/andrew-flaherty-72888115/",
+      "text": "Clinical Social Worker."
+    },
+    {
+      "user": "https://www.linkedin.com/in/lorraine-chang-312a6b24/",
+      "text": "Business Support Manager | Bank of America | Southwest Division"
+    },
+    {
+      "user": "https://www.linkedin.com/in/brianna-tesauro-881336108/",
+      "text": "Co-Founder of Catch Some Air"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sue-johnson-b96955113/",
+      "text": "Shasta County Office of Education"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mitchellflinn/",
+      "text": "Sr. Director, Operations & Strategy, Oracle"
+    },
+    {
+      "user": "https://www.linkedin.com/in/eddie-mcallister-0a0a2811/",
+      "text": "Community Organzier at Shasta County Public Health"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ketlin-morrison-95117a130/",
+      "text": "Quantitative Risk Modeling Analyst at Huntington National Bank"
+    },
+    {
+      "user": "https://www.linkedin.com/in/brandifano/",
+      "text": "Certified Life & Performance coach, Yoga Instructor, and Co Owner & Operator of Vertical Chiropractic."
+    },
+    {
+      "user": "https://www.linkedin.com/in/annie-gaudette-50b09023/",
+      "text": "Head of Finance, Operations and HR at People Rocket"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Michael P.",
+    "headline": "MS SQL Server DBA and Developer for Illuminate Education",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQFSROqqiUon_w/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=GmZty2bVBtqmK2CZhBHYvbKp4Dvn8i9SvBt3yKghGcQ",
+    "location": "Redding, California",
+    "connections": "157",
+    "summary": "MS SQL Server, TSQL, Toad"
+  }
+}

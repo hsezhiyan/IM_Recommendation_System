@@ -1,0 +1,431 @@
+{
+  "profileAlternative": {
+    "name": "Jeffrey Richter",
+    "headline": "Partner Software Architect at Microsoft working on Distributed Cloud Apps and Storage",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQGAOp-qIvZanw/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=UXusJ2Y0mOOERLmOTTW1LuyURmn5G77-oJLKj8i8eRQ",
+    "location": "Greater Seattle Area",
+    "connections": "500+",
+    "summary": "I've been professionally architecting and building applications and components since 1975. My specialty is in designing high-scale, reliable, and secure distributed cloud-based computing systems. I've authored many developer books and given many presentations on C/C++, Win32, .NET, C#, and WinRT, threading, cloud system, etc. I also have several decades of business experience."
+  },
+  "aboutAlternative": {
+    "text": "I've been professionally architecting and building applications and components since 1975. My specialty is in designing high-scale, reliable, and secure distributed cloud-based computing systems. I've authored many developer books and given many presentations on C/C++, Win32, .NET, C#, and WinRT, threading, cloud system, etc. I also have several decades of business experience."
+  },
+  "positions": [
+    {
+      "title": "Microsoft",
+      "location": "Redmond, WA",
+      "description": "Software Engineer on the Azure Service Fabric team",
+      "date1": "Mar 2017 – Present",
+      "date2": "2 yrs 9 mos",
+      "roles": [
+        {
+          "title": "Partner Software Architect",
+          "date1": "Mar 2017 – Present",
+          "date2": "2 yrs 9 mos",
+          "location": "Redmond, WA"
+        },
+        {
+          "title": "Partner Software Engineer",
+          "date1": "Jun 2015 – May 2017",
+          "date2": "2 yrs",
+          "location": "Redmond, WA"
+        },
+        {
+          "title": "Consultant",
+          "date1": "1990 – Jun 2015",
+          "date2": "25 yrs"
+        }
+      ]
+    },
+    {
+      "title": "Title\nPartner Software Architect",
+      "location": "Redmond, WA",
+      "date1": "Mar 2017 – Present",
+      "date2": "2 yrs 9 mos",
+      "roles": [
+        {
+          "title": "Partner Software Architect",
+          "date1": "Mar 2017 – Present",
+          "date2": "2 yrs 9 mos",
+          "location": "Redmond, WA"
+        }
+      ]
+    },
+    {
+      "title": "Title\nPartner Software Engineer",
+      "location": "Redmond, WA",
+      "description": "Software Engineer on the Azure Service Fabric team",
+      "date1": "Jun 2015 – May 2017",
+      "date2": "2 yrs",
+      "roles": [
+        {
+          "title": "Partner Software Engineer",
+          "date1": "Jun 2015 – May 2017",
+          "date2": "2 yrs",
+          "location": "Redmond, WA"
+        }
+      ]
+    },
+    {
+      "title": "Title\nConsultant",
+      "description": "Spent 8 years on the .NET CLR/C# teams. Also spent several years working on Azure, Windows, C/C++, VIsual Studio teams.",
+      "date1": "1990 – Jun 2015",
+      "date2": "25 yrs",
+      "roles": [
+        {
+          "title": "Consultant",
+          "date1": "1990 – Jun 2015",
+          "date2": "25 yrs"
+        }
+      ]
+    },
+    {
+      "title": "Co-Founder",
+      "companyName": "Wintellect",
+      "description": "I helped run the company (hiring, firing, business decisions, etc.). Also architected & built the http://WintellectNow.com/ cloud service. Taught/consulted on many topics including C/C++, Win32, .NET/C#, Microsoft Azure, and designing & building scalable applications and components.",
+      "date1": "Apr 2000 – Aug 2018",
+      "date2": "18 yrs 5 mos"
+    },
+    {
+      "title": "Contributing Editor",
+      "companyName": "Microsoft Systems Journal & MSDN Magazine",
+      "description": "Responsible for the Win32 Q & A column, .NET Q & A column, and Concurrent Affairs column. I also wrote many, many feature article over the years.",
+      "date1": "1992 – Jan 2010",
+      "date2": "18 yrs"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Drexel University",
+      "degree": "Bachelor of Science (BS)",
+      "fieldofstudy": "Computer Science",
+      "date1": "1982",
+      "date2": "1987"
+    }
+  ],
+  "skills": [
+    {
+      "title": "C#",
+      "count": "99+"
+    },
+    {
+      "title": ".NET",
+      "count": "99+"
+    },
+    {
+      "title": "Visual Studio",
+      "count": "99+"
+    },
+    {
+      "title": "Software Design",
+      "count": "99+"
+    },
+    {
+      "title": "Software Development",
+      "count": "99+"
+    },
+    {
+      "title": "Web Services",
+      "count": "96"
+    },
+    {
+      "title": "Distributed Systems",
+      "count": "68"
+    },
+    {
+      "title": "Agile Methodologies",
+      "count": "62"
+    },
+    {
+      "title": "Programming",
+      "count": "50"
+    },
+    {
+      "title": "Computer Science",
+      "count": "44"
+    },
+    {
+      "title": "Software Engineering",
+      "count": "35"
+    },
+    {
+      "title": "Scrum",
+      "count": "28"
+    },
+    {
+      "title": "Design Patterns",
+      "count": "24"
+    },
+    {
+      "title": "Architecture",
+      "count": "17"
+    },
+    {
+      "title": "OOP",
+      "count": "17"
+    },
+    {
+      "title": "Consultancy",
+      "count": "16"
+    },
+    {
+      "title": "Test Driven Development",
+      "count": "15"
+    },
+    {
+      "title": "Object Oriented Design",
+      "count": "14"
+    },
+    {
+      "title": "SOA",
+      "count": "13"
+    },
+    {
+      "title": "Windows Azure",
+      "count": "99+"
+    },
+    {
+      "title": "LINQ",
+      "count": "87"
+    },
+    {
+      "title": "Microsoft Technologies",
+      "count": "74"
+    },
+    {
+      "title": "ASP.NET MVC",
+      "count": "62"
+    },
+    {
+      "title": "Windows",
+      "count": "57"
+    },
+    {
+      "title": "Microsoft SQL Server",
+      "count": "36"
+    },
+    {
+      "title": "ASP.NET",
+      "count": "28"
+    },
+    {
+      "title": "JavaScript",
+      "count": "28"
+    },
+    {
+      "title": "SQL",
+      "count": "19"
+    },
+    {
+      "title": "T-SQL",
+      "count": "18"
+    },
+    {
+      "title": "TFS",
+      "count": "18"
+    },
+    {
+      "title": "AJAX",
+      "count": "13"
+    },
+    {
+      "title": "VB.NET",
+      "count": "12"
+    },
+    {
+      "title": "C",
+      "count": "11"
+    },
+    {
+      "title": "UML",
+      "count": "11"
+    },
+    {
+      "title": "ADO.NET",
+      "count": "10"
+    },
+    {
+      "title": "Entity Framework",
+      "count": "10"
+    },
+    {
+      "title": "IIS",
+      "count": "10"
+    },
+    {
+      "title": "Public Speaking",
+      "count": "33"
+    },
+    {
+      "title": "Win32 API",
+      "count": "85"
+    },
+    {
+      "title": "Silverlight",
+      "count": "41"
+    },
+    {
+      "title": "Windows Services",
+      "count": "36"
+    },
+    {
+      "title": "Win32",
+      "count": "34"
+    },
+    {
+      "title": "Development Tools",
+      "count": "30"
+    },
+    {
+      "title": "N-tier",
+      "count": "21"
+    },
+    {
+      "title": "Custom Software Development",
+      "count": "20"
+    },
+    {
+      "title": "Application Development",
+      "count": "19"
+    },
+    {
+      "title": "Conferences",
+      "count": "18"
+    },
+    {
+      "title": "Multithreaded application development",
+      "count": "13"
+    },
+    {
+      "title": "Books",
+      "count": "42"
+    },
+    {
+      "title": "Asynchronous",
+      "count": "11"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "10",
+    "receivedCount": "5",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/bscholl/",
+        "text": "Working with Jeffrey has been one of the best experiences in my professional career. Jeffrey and I spent quite some time together working on training materials for building distributed applications in the cloud, delivering the trainings with customers and presenting at cloud meetups. Jeffrey has a gift explaining very complicated things in a way that they are easy to understand that is probably second to none. Besides building out training materials we were also working together on improving existing cloud platform features as well as designing/building new cloud platform features. During that time Jeffrey has always shown a great understanding of the technology and the customer space. From a PM perspective it was great to have an engineering counterpart with such an understanding for customer needs. All of his skills, social as well as technical make him a great engineering leader who is a big win for every company he works with.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/alibayatgh/",
+        "text": "Jeffrey Richter is a software engineer, author, mentor, thought leader, and technologist. He is a Microsoft Certified Solutions Developer, Microsoft Certified Applications Developer, and Microsoft Certified Professional."
+      },
+      {
+        "user": "https://www.linkedin.com/in/sergeyseletsky/",
+        "text": "Jeffrey is one of the best writer and brilliant technical expert whom I've know. I read all his books and I was impressed how easily he can explain the essence of technical things and solve various problems. He has excellent knowledge of best practice and principle and flawless mentoring abilities. His special dedication to the work always resulted a good impression and great results. I am grateful to Jeffrey for his work, thanks to the knowledge that he put into his books.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/kathy-wen-5b53b922/",
+        "text": "Jeff is very nice and a real master for our Chinese readers, and his 300+ supter fans had a meeting with him last weekend. We all respect for him because of his masterpiece,such as Windows via C/C++,CLR via C#. I hope he will come to Beijing next time:)."
+      },
+      {
+        "user": "https://www.linkedin.com/in/jesseliberty/",
+        "text": "Jeff knows more about more than any human I've ever met, and his ability to transmit that knowledge clearly, coherently and painlessly is unsurpassed. Truly one of the industry giants, and has been for a very long time. Brilliant doesn't begin to describe his acumen, judgment and piercing insight. Absolutely one of the people I'd like to have around for any technical discussion, plan or project. -jesse liberty\n…\nSee more"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/bscholl/",
+        "text": "Working with Boris at Microsoft on the Azure team has been one of the best experiences in my professional career. Boris and I spent quite some time together working on training materials for building distributed applications in the cloud, delivering the trainings with customers and presenting at cloud meetups. Besides building out training materials we were also working together on improving existing cloud platform features as well as designing/building new cloud platform features. During that time Boris always demonstrated great program management leadership, a great understanding of the technology and the customer space. I always enjoyed working with him; he would be asset to any company."
+      },
+      {
+        "user": "https://www.linkedin.com/in/devonmusgrave/",
+        "text": "Over the past 15 years I have worked with Devon on several technical book projects (with Devon as Acquisition Editor and/or Developmental/Project Editor), and I have always found him to be responsive and professional. He is a pleasure to work with, and I hope to work with him again in the future."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "6",
+      "items": [
+        "Node-to-node communication pipelines (US7634578)",
+        "Resource accessing with locking",
+        "System for enhancing a query interface",
+        "Discovery, qualification, and activation of software add-in components",
+        "System for improving search area selection",
+        "System for improving search text"
+      ]
+    },
+    {
+      "count": "4",
+      "items": [
+        "WintellectNOW On-Demand Developer Training",
+        "Coauthor of Windows Runtime via C#",
+        "Spy++",
+        "Spy++"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "Introduction to microservices",
+        "Windows Runtime via C#",
+        "Windows 95: A Developer's Guide"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "English"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/ashishraniwala/",
+      "text": "Partner Architect at Microsoft (ML Infrastructure) | PhD | formerly Staff Engineer at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/bashir-souid/",
+      "text": "Senior Software Engineer at Qualtrics"
+    },
+    {
+      "user": "https://www.linkedin.com/in/victor-li-35539449/",
+      "text": "Senior Software Engineer at Microsoft Corporation"
+    },
+    {
+      "user": "https://www.linkedin.com/in/naveen-goli-92568a2/",
+      "text": "Principal Development Manager"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jeff-zhu-36ab702/",
+      "text": "Engineering Director and Chief Architect"
+    },
+    {
+      "user": "https://www.linkedin.com/in/lutzroeder/",
+      "text": "Software Architect at Microsoft"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jeffsandquist/",
+      "text": "Corporate Vice President, Developer Relations"
+    },
+    {
+      "user": "https://www.linkedin.com/in/raja-krishnaswamy-374610/",
+      "text": "Partner Engineering Leader -- Microsoft Azure Container Compute"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ravi-chandra-m-4543606/",
+      "text": "Principal software engineering manager at Microsoft"
+    },
+    {
+      "user": "https://www.linkedin.com/in/guthriescott/",
+      "text": "Executive Vice President at Microsoft"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Jeffrey Richter",
+    "headline": "Partner Software Architect at Microsoft working on Distributed Cloud Apps and Storage",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQGAOp-qIvZanw/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=UXusJ2Y0mOOERLmOTTW1LuyURmn5G77-oJLKj8i8eRQ",
+    "location": "Greater Seattle Area",
+    "connections": "500+",
+    "summary": "I've been professionally architecting and building applications and components since 1975. My specialty is in designing high-scale, reliable, and secure distributed cloud-based computing systems. I've authored many developer books and given many presentations on C/C++, Win32, .NET, C#, and WinRT, threading, cloud system, etc. I also have several decades of business experience."
+  }
+}

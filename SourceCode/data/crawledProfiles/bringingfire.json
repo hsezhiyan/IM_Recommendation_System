@@ -1,0 +1,241 @@
+{
+  "profileAlternative": {
+    "name": "Avery Rosen",
+    "headline": "Nexus of Technology and Communications",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQF1lesMz-_48g/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=BW28N1K_0N0EhROz4klvSe__EO-s51hWxEV-TcbtyPs",
+    "location": "Greater New York City Area",
+    "connections": "500+",
+    "summary": "Systems Architect and Project Lead with end-to-end understanding of internet technologies. Strong interest in user interaction, informed by studies in anthropology and linguistics. Specialist in communication, especially cross-team facilitation. Interested in running ventures applying a strict scientific approach to product design to elevate the field from \"user-friendly design\" to \"society-friendly design\".\n\nSpecialties: Tech: TCP/IP and common application protocols, Unix sysadmin, MacOS expert, Java, C++, Ruby, all DHTML components.\nProduct: good design, team leadership, inter-team coordination\nAgile methodology and modern programming paradigms\nLateral thinking\nGestalt understanding of business process, design, and technology\nStrong understanding of UX and design principles\nSocial Media expertise"
+  },
+  "aboutAlternative": {
+    "text": "Systems Architect and Project Lead with end-to-end understanding of internet technologies. Strong interest in user interaction, informed by studies in anthropology and linguistics. Specialist in communication, especially cross-team facilitation. Interested in running ventures applying a strict scientific approach to product design to elevate the field from \"user-friendly design\" to \"society-friendly design\".\n\nSpecialties: Tech: TCP/IP and common application protocols, Unix sysadmin, MacOS expert, Java, C++, Ruby, all DHTML components.\nProduct: good design, team leadership, inter-team coordination\nAgile methodology and modern programming paradigms\nLateral thinking\nGestalt understanding of business process, design, and technology\nStrong understanding of UX and design principles\nSocial Media expertise"
+  },
+  "positions": [
+    {
+      "title": "Senior Technical Communications Advisor to the CTO",
+      "companyName": "MongoDB",
+      "description": "As senior advisor on matters of communication to the CTO:\n\n* Speechwriter for formal appearances\n* Blogging and social media\n* Editor in Chief of the engineering team's technical blog, The MongoDB Engineering Journal\n* Proxy to internal communications teams.",
+      "date1": "2015 – Present",
+      "date2": "4 yrs"
+    },
+    {
+      "title": "Principal",
+      "companyName": "Bringing Fire Consulting",
+      "description": "Expertise at the intersection of technology, product formulation, and business strategy.",
+      "date1": "Aug 2011 – Present",
+      "date2": "8 yrs 4 mos"
+    },
+    {
+      "title": "ShopWiki",
+      "description": "Responsible for leadership of development team, QA teams, choices of particular technologies, operations infrastructure, and application architecture. Participated in product formulation, strategic decision-making, and held final authority over site behavior.\n\nMember of three person Steering Committee making all strategic decisions.\nFounded an application QA team and hired QA staff to build an automated testing suite using Hudson for continuous integration, and Selenium for front-end testing.\nDesigned a ground-up migration of the ShopWiki UI onto a new platform of Apache, Django, and MongoDB.\nArchitected global image thumb-nailing and caching for ShopWiki's 250MM product images.\nEvolved the application development cycle into 2 week sprints, with automated testing (functional, unit, and pre-deploy performance testing), and automated rollouts with easy rollback.\nOversaw  the development of a data feed consuming system for multiple affiliate networks.\nRepresented ShopWiki IT in diligence meetings with potential acquiring companies, crafting and presenting a comprehensive presentation of all of ShopWiki's technology\nPost-acquisition, ran integration efforts of ShopWiki with Oversee, in operations and development\n…\nsee more",
+      "date1": "Jun 2009 – Aug 2011",
+      "date2": "2 yrs 3 mos",
+      "roles": [
+        {
+          "title": "CTO",
+          "date1": "Jun 2009 – Aug 2011",
+          "date2": "2 yrs 3 mos"
+        },
+        {
+          "title": "Director of Engineering",
+          "date1": "Sep 2007 – Jun 2009",
+          "date2": "1 yr 10 mos"
+        },
+        {
+          "title": "Software Engineer",
+          "date1": "Jan 2006 – Sep 2007",
+          "date2": "1 yr 9 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nCTO",
+      "description": "Responsible for leadership of development team, QA teams, choices of particular technologies, operations infrastructure, and application architecture. Participated in product formulation, strategic decision-making, and held final authority over site behavior.\n\nMember of three person Steering Committee making all strategic decisions.\nFounded an application QA team and hired QA staff to build an automated testing suite using Hudson for continuous integration, and Selenium for front-end testing.\nDesigned a ground-up migration of the ShopWiki UI onto a new platform of Apache, Django, and MongoDB.\nArchitected global image thumb-nailing and caching for ShopWiki's 250MM product images.\nEvolved the application development cycle into 2 week sprints, with automated testing (functional, unit, and pre-deploy performance testing), and automated rollouts with easy rollback.\nOversaw  the development of a data feed consuming system for multiple affiliate networks.\nRepresented ShopWiki IT in diligence meetings with potential acquiring companies, crafting and presenting a comprehensive presentation of all of ShopWiki's technology\nPost-acquisition, ran integration efforts of ShopWiki with Oversee, in operations and development\n…\nsee more",
+      "date1": "Jun 2009 – Aug 2011",
+      "date2": "2 yrs 3 mos",
+      "roles": [
+        {
+          "title": "CTO",
+          "date1": "Jun 2009 – Aug 2011",
+          "date2": "2 yrs 3 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nDirector of Engineering",
+      "description": "Responsible for front-end software development, QA, recruiting, operations, and vendor relationships.\n\nPlanned new site features and strategy with executive team, oversaw software release schedule as project manager.\nDeveloped engineering exam, phone screen, interview process and hired new software engineers.\nManaged a 6 person crawler data QA team analyzing accuracy of crawled data.\nInstituted A/B testing for ShopWiki website changes and reporting system.\nManaged operations, hired and managed sysops personnel.\nExpanded operations to include two data centers and built them out to 100 machines with provider redundancy.\nOwned relationship with CDN, DNS, bandwidth, colocation, and hardware vendors.\n…\nsee more",
+      "date1": "Sep 2007 – Jun 2009",
+      "date2": "1 yr 10 mos",
+      "roles": [
+        {
+          "title": "Director of Engineering",
+          "date1": "Sep 2007 – Jun 2009",
+          "date2": "1 yr 10 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSoftware Engineer",
+      "description": "Implemented web-crawler functionality.\nDeveloped affiliate merchant portal from end-to-end (DB design, Java server app, DHTML front-end).\nOversaw offsite engineering.\nDeveloped home-grown fully automated NOC application.\nManaged datacenter resources.\n…\nsee more",
+      "date1": "Jan 2006 – Sep 2007",
+      "date2": "1 yr 9 mos",
+      "roles": [
+        {
+          "title": "Software Engineer",
+          "date1": "Jan 2006 – Sep 2007",
+          "date2": "1 yr 9 mos"
+        }
+      ]
+    },
+    {
+      "title": "Software Engineer",
+      "companyName": "Doubleclick",
+      "description": "Developed applications in C++\nSelected by Director of DART platform to be the interface between Adserver Engineering and the rest of DART technology.\nActed as liaison to Networking, Systems, and Product Management teams; coordinated team's activity in high profile integration projects with Ebay and AOL.\nFielded and resolved P1 issues regarding global adservice along with Systems and Network engineering staff.\nCreated and presented training materials to educate DART platinum support personnel in the nuts and bolts of the adserver's functionality\n…\nsee more",
+      "date1": "2004 – 2006",
+      "date2": "2 yrs"
+    },
+    {
+      "title": "Head of IT / Web Developer",
+      "companyName": "Abstract Edge",
+      "description": "Sole IT resource for small startup. Responsibility for workstations, backups, printers, NAS, network. Web server maintenance for clients. PHP and Oracle development.",
+      "date1": "Aug 2002 – Nov 2003",
+      "date2": "1 yr 4 mos"
+    },
+    {
+      "title": "Assistant Director, Corporate Services",
+      "companyName": "Public Access Networks Corp.",
+      "description": "Developed internal tools in Perl CGI; provided phone support for corporate web hosting clients.",
+      "date1": "Aug 1995 – May 1999",
+      "date2": "3 yrs 10 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Brown University",
+      "degree": "BA",
+      "fieldofstudy": "Computer Science",
+      "date1": "1992",
+      "date2": "2002"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Java",
+      "count": "34"
+    },
+    {
+      "title": "Agile Methodologies",
+      "count": "28"
+    },
+    {
+      "title": "MongoDB",
+      "count": "21"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "5",
+    "receivedCount": "2",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/ajessejiryudavis/",
+        "text": "Avery's an outstanding manager and tech lead. He's a hands-on software developer, a brainstormer, a mentor. When I worked with him at ShopWiki I saw him combine statistics, business goals, and input from managers and developers to plan new strategies for the firm's future."
+      },
+      {
+        "user": "https://www.linkedin.com/in/amg/",
+        "text": "Since Avery's departure from DoubleClick, I think I've tried to hire him back to work with me 7 or 8 different times. Avery is possibly the best hire I've ever made. He is extremely intelligent, technically sophisticated, and is one of the most fun and interesting people I've had the pleasure of working with. If you ever get him to work with you, please tell me how you did it, so someday I can get him back to working with me!\n…\nSee more"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/digitalentrepreneur/",
+        "text": "David Shadpour is an expert in online marketing and business development. As a former DoubleClick employee, I know when someone understands online marketing, and when I met David, I could tell right away that he knew he was on the ball. \r\n\r\nHe's smart, personable, reliable, and mater-of-fact. His years of experience lend him a savviness that is an asset to any business looking to reach a market, build a brand, or refine a strategy. David is serious about performance-based marketing efforts and understands the crucial role of analytics and hard data."
+      },
+      {
+        "user": "https://www.linkedin.com/in/reneevaldez/",
+        "text": "Renee is a diligent team member who brings positivity and good spirit to her surroundings. With both a creative eye and a head for technical detail, you can trust her to take a task or manage a project to completion."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "3",
+      "items": [
+        "MongoDB. Inc. Executive Communications: Strategy and Editorial",
+        "Penrose Galleries",
+        "Pipeline Medical"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "French",
+        "Japanese"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Big Data and Wee Data"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/william-graf-10a50125/",
+      "text": "Strategic consulting + capital markets advisory services"
+    },
+    {
+      "user": "https://www.linkedin.com/in/anamjones/",
+      "text": "Customer Success Manager at Pendo"
+    },
+    {
+      "user": "https://www.linkedin.com/in/alice-neff-csm-4249974/",
+      "text": "Senior Program Manager at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/alexandrina-koykova-91890117/",
+      "text": "Director, People Operations at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shannon-bradshaw/",
+      "text": "Vice President of Engineering, Education at MongoDB, Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/adamarif/",
+      "text": "Program Manager at MongoDB, Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/prasgupta/",
+      "text": "Senior Solutions Architect at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/rowanfiona/",
+      "text": "Software Engineer at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/harry-leggat-17242911/",
+      "text": "Partner, Head of U.S. Private Equity and Private Debt"
+    },
+    {
+      "user": "https://www.linkedin.com/in/hirematthall/",
+      "text": "Information Security Architect"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Technology Coordinator",
+      "experience": "Greene Harvest CSA",
+      "description": "Environment",
+      "date1": "Apr 2009 – Present",
+      "date2": "10 yrs 8 mos"
+    }
+  ],
+  "profile": {
+    "name": "Avery Rosen",
+    "headline": "Nexus of Technology and Communications",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQF1lesMz-_48g/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=BW28N1K_0N0EhROz4klvSe__EO-s51hWxEV-TcbtyPs",
+    "location": "Greater New York City Area",
+    "connections": "500+",
+    "summary": "Systems Architect and Project Lead with end-to-end understanding of internet technologies. Strong interest in user interaction, informed by studies in anthropology and linguistics. Specialist in communication, especially cross-team facilitation. Interested in running ventures applying a strict scientific approach to product design to elevate the field from \"user-friendly design\" to \"society-friendly design\".\n\nSpecialties: Tech: TCP/IP and common application protocols, Unix sysadmin, MacOS expert, Java, C++, Ruby, all DHTML components.\nProduct: good design, team leadership, inter-team coordination\nAgile methodology and modern programming paradigms\nLateral thinking\nGestalt understanding of business process, design, and technology\nStrong understanding of UX and design principles\nSocial Media expertise"
+  }
+}

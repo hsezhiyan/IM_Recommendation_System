@@ -1,0 +1,411 @@
+{
+  "profileAlternative": {
+    "name": "Meghan Gill",
+    "headline": "Sales & Marketing at MongoDB",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQE7haPuphKNcg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=n7pAwVold7jmJCEEDlB1p5HutSoDyUkK6AWrzLJYYNQ",
+    "location": "Greater New York City Area",
+    "connections": "500+",
+    "summary": "I'm an award-winning sales / marketing leader and startup advisor. I was employee 8 and the first non-technical hire at MongoDB, where I built the developer community from the ground up and launched many of our first demand generation programs.\n\nMy expertise includes:\n\n* Community marketing, developer evangelism, and developer marketing\n* Delivering demand generation programs and lead nurturing\n* Executing field marketing programs and large-scale events\n* Measuring ROI on marketing campaigns\n* Leading high-performance teams\n\nI am also an advisor to Flybridge Capital, working with early stage startups."
+  },
+  "aboutAlternative": {
+    "text": "I'm an award-winning sales / marketing leader and startup advisor. I was employee 8 and the first non-technical hire at MongoDB, where I built the developer community from the ground up and launched many of our first demand generation programs.\n\nMy expertise includes:\n\n* Community marketing, developer evangelism, and developer marketing\n* Delivering demand generation programs and lead nurturing\n* Executing field marketing programs and large-scale events\n* Measuring ROI on marketing campaigns\n* Leading high-performance teams\n\nI am also an advisor to Flybridge Capital, working with early stage startups."
+  },
+  "positions": [
+    {
+      "title": "MongoDB",
+      "location": "Greater New York City Area",
+      "description": "Promoted to VP in Jan 2018",
+      "date1": "Jun 2017 – Present",
+      "date2": "2 yrs 6 mos",
+      "roles": [
+        {
+          "title": "VP, Sales Operations",
+          "date1": "Jun 2017 – Present",
+          "date2": "2 yrs 6 mos",
+          "location": "Greater New York City Area"
+        },
+        {
+          "title": "Senior Director Of Marketing",
+          "date1": "Dec 2009 – Jun 2017",
+          "date2": "7 yrs 7 mos",
+          "location": "Greater New York City Area"
+        }
+      ]
+    },
+    {
+      "title": "Title\nVP, Sales Operations",
+      "location": "Greater New York City Area",
+      "description": "Promoted to VP in Jan 2018",
+      "date1": "Jun 2017 – Present",
+      "date2": "2 yrs 6 mos",
+      "roles": [
+        {
+          "title": "VP, Sales Operations",
+          "date1": "Jun 2017 – Present",
+          "date2": "2 yrs 6 mos",
+          "location": "Greater New York City Area"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSenior Director Of Marketing",
+      "location": "Greater New York City Area",
+      "description": "Joined as the first non-engineering hire to lead marketing (among many other things), with a focus on our developer community. Built demand generation, events, and developer relations teams. Responsible for driving pipeline for our sales team through demand generation and account-based marketing programs, while growing the developer community through grassroots developer evangelism efforts. Lead for MongoDB World, our annual user conference with 2,000+ attendees, as well as field marketing programs.\n…\nsee more",
+      "date1": "Dec 2009 – Jun 2017",
+      "date2": "7 yrs 7 mos",
+      "roles": [
+        {
+          "title": "Senior Director Of Marketing",
+          "date1": "Dec 2009 – Jun 2017",
+          "date2": "7 yrs 7 mos",
+          "location": "Greater New York City Area"
+        }
+      ]
+    },
+    {
+      "title": "Board Member",
+      "companyName": "hackNY.org",
+      "location": "Greater New York City Area",
+      "description": "hackNY aims to build an inclusive and responsible innovation community in NYC",
+      "date1": "Jul 2017 – Present",
+      "date2": "2 yrs 5 mos"
+    },
+    {
+      "title": "Advisor",
+      "companyName": "Honeycomb.io",
+      "location": "San Francisco Bay Area",
+      "description": "Honeycomb provides full stack observability—designed from the ground up to debug live production software, consume event data from any source with any data model, and make collaboration a central part of problem solving.",
+      "date1": "Apr 2017 – Present",
+      "date2": "2 yrs 8 mos"
+    },
+    {
+      "title": "Advisor",
+      "companyName": "Concord Systems, Inc.",
+      "location": "Greater New York City Area",
+      "description": "Concord is a real-time distributed stream processing framework. Concord empowers users to process and react to their data in real-time, whether they're doing fraud detection, ad bidding and serving, content recommendation or algorithmic trading.\n\nAcquired by Akamai\n…\nsee more",
+      "date1": "Oct 2015 – Oct 2016",
+      "date2": "1 yr 1 mo"
+    },
+    {
+      "title": "Associate",
+      "companyName": "Morgan Stanley",
+      "date1": "Jul 2006 – Dec 2009",
+      "date2": "3 yrs 6 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Brown University",
+      "degree": "B.A.",
+      "fieldofstudy": "Development Studies, Economics",
+      "date1": "2002",
+      "date2": "2006"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Start-ups",
+      "count": "99+"
+    },
+    {
+      "title": "MongoDB",
+      "count": "99+"
+    },
+    {
+      "title": "Social Media",
+      "count": "95"
+    },
+    {
+      "title": "Email Marketing",
+      "count": "86"
+    },
+    {
+      "title": "Cloud Computing",
+      "count": "64"
+    },
+    {
+      "title": "Marketing",
+      "count": "60"
+    },
+    {
+      "title": "Blogging",
+      "count": "56"
+    },
+    {
+      "title": "Social Media Marketing",
+      "count": "50"
+    },
+    {
+      "title": "Web Development",
+      "count": "29"
+    },
+    {
+      "title": "Strategy",
+      "count": "21"
+    },
+    {
+      "title": "Event Management",
+      "count": "20"
+    },
+    {
+      "title": "Product Management",
+      "count": "20"
+    },
+    {
+      "title": "Analytics",
+      "count": "19"
+    },
+    {
+      "title": "Trade Shows",
+      "count": "16"
+    },
+    {
+      "title": "Agile Methodologies",
+      "count": "13"
+    },
+    {
+      "title": "Mobile Applications",
+      "count": "8"
+    },
+    {
+      "title": "E-commerce",
+      "count": "8"
+    },
+    {
+      "title": "Web Applications",
+      "count": "7"
+    },
+    {
+      "title": "Mobile Devices",
+      "count": "6"
+    },
+    {
+      "title": "Entrepreneurship",
+      "count": "6"
+    },
+    {
+      "title": "Product Marketing",
+      "count": "6"
+    },
+    {
+      "title": "Content Development",
+      "count": "5"
+    },
+    {
+      "title": "Big Data",
+      "count": "5"
+    },
+    {
+      "title": "Web Analytics",
+      "count": "5"
+    },
+    {
+      "title": "SEO",
+      "count": "5"
+    },
+    {
+      "title": "Online Marketing",
+      "count": "5"
+    },
+    {
+      "title": "Go-to-market Strategy",
+      "count": "4"
+    },
+    {
+      "title": "User Experience",
+      "count": "4"
+    },
+    {
+      "title": "CRM",
+      "count": "4"
+    },
+    {
+      "title": "SEM",
+      "count": "3"
+    },
+    {
+      "title": "Scalability",
+      "count": "2"
+    },
+    {
+      "title": "Content Management",
+      "count": "2"
+    },
+    {
+      "title": "Open Source",
+      "count": "49"
+    },
+    {
+      "title": "Databases",
+      "count": "33"
+    },
+    {
+      "title": "SaaS",
+      "count": "22"
+    },
+    {
+      "title": "Enterprise Software",
+      "count": "15"
+    },
+    {
+      "title": "Python",
+      "count": "8"
+    },
+    {
+      "title": "Salesforce.com",
+      "count": "7"
+    },
+    {
+      "title": "Lead Generation",
+      "count": "59"
+    },
+    {
+      "title": "Community Management",
+      "count": "33"
+    },
+    {
+      "title": "Community Outreach",
+      "count": "26"
+    },
+    {
+      "title": "Strategic Partnerships",
+      "count": "24"
+    },
+    {
+      "title": "Management",
+      "count": "18"
+    },
+    {
+      "title": "Marketing Automation",
+      "count": "12"
+    },
+    {
+      "title": "Product Evangelism",
+      "count": "10"
+    },
+    {
+      "title": "Developer Relations",
+      "count": "10"
+    },
+    {
+      "title": "User Groups",
+      "count": "5"
+    },
+    {
+      "title": "Milk",
+      "count": "2"
+    },
+    {
+      "title": "Social Networking",
+      "count": "4"
+    },
+    {
+      "title": "Developer Marketing",
+      "count": "3"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "10",
+    "receivedCount": "8",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/pazmacdonald/",
+        "text": "Meghan is an accomplished marketer and a respected advisor to the NYC tech scene. Meghan was the first marketing hire at MongoDB and I credit her for the role she played in getting mass adoption amongst the developer community. MongoDB stole a march against its competitors because of Meghan's genuine passion to make developers successful. I learnt so much from her. As the company grew, Meghan was able to flex her vast skills to help with demand generation, education and now sales operations. Meghan is a multi-talented and a credit to any organisation -she works tirelessly until the job is done. I loved working with her, learnt so much whilst having fun and hope that our paths cross again in the future.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/antoinegirbal/",
+        "text": "I had the pleasure to work with Meghan from the early days of MongoDB. Even though the company had less than 20 people, she had already created one of the largest open source software communities at the time, a huge force that was pushing Mongo up with exponential trajectory. In the following years she continued fostering the community, strategized our marketing, and organized events with massive success - most competitors thought we had a marketing army when it was just a handful of great people she led. She is one of the most hard working and dedicated person I have even seen, and she really cares about people and the community. I hope to have the chance to work with her again!\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/andydirnberger/",
+        "text": "I've worked with Meghan through her work both at 10gen and in the general community. She has not only done a great job of building a community of developers interested in MongoDB, but she is a huge part of why the tech community in New York City is what it is today. Meghan keeps more groups and conferences organized than most people can attend, and somehow manages to find time to learn new skills and share her experiences.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/dcrosta/",
+        "text": "10gen and MongoDB's rise to be one of the most popular products in the non-relational database space is in great part due to Meghan's undying effort to reach out to the developer community and convert users to advocates. In the open source world, the popularity of a product is determined by how easy it is to use, how well it accomplishes its goals, and how highly users and developers speak of it. The latter -- and by far not the least -- of these properties is something Meghan relentlessly delivered for 10gen. Meghan gets developers, and understands that they can react badly to \"being sold\" -- instead, her focus was on enabling programmers to accomplish great things, and then helping them promote to their work to their peers at meetups, conferences, and on the web. During my time at 10gen, the community marketing team grew from just Meghan to a team of 7, with Meghan at the helm. At many companies, this sort of growth can be difficult, but Meghan handled the transition with grace and poise. As the company and MongoDB's user base grew, the efforts of the community marketing team never faltered. 10gen now has community advocates throughout the Americas, Europe, the Middle East, and Asia, helped along by the community team at 10gen. Though I did not work on her team, I suspect that they would agree that Meghan is a fair and supportive manager. She is thoughtful in her decision-making process, and effectively balances exploration of new opportunities with support of existing priorities. In short, Meghan is an exceptional colleague -- I would eagerly go to work with Meghan again.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/mjasay/",
+        "text": "Meghan is one of the very brightest lights at 10gen. Even in this company filled with highly talented people, she stands out. She is direct but patient, intelligent but warm, and driven but thoughtful. I have loved working with her. One thing I particularly like about Meghan is her willingness to challenge the comfortable routines of the company, some of which she helped to instigate in the first place. She has pushed us to think differently about how we communicate our message, and has looked beyond 10gen's traditional strength with developers to also think of line of business and Operations executives. Despite being one of 10gen's earliest employees, I have never felt that Meghan rests on her laurels. Each day, she demands more of herself and those around her, without being obnoxious about it. She's a great person and someone I'd work with again.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/rickcopeland/",
+        "text": "Starting with my tenure at Geeknet and continuing into my consulting and startup days, I have interacted with Meghan a number of times. Her support of the MongoDB community has been a key driver to MongoDB's widespread adoption. Through her extraordinarily effective outreach work with user groups, MongoDB conferences, and the Masters of MongoDB program, she has spearheaded the marketing efforts at 10gen. Without her contributions, it is certain in my mind that MongoDB would not enjoy its leadership position in the NoSQL ecosystem, nor would it enjoy the legions of developers who promote MongoDB within their own organizations. It's hard to overstate her contributions to 10gen's success. I cannot recommend her highly enough.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/timanglade/",
+        "text": "The Marketing Playbook is being re-written. And frankly, I’m just happy I get to read it as Meghan writes it. I’ve seen her break the mold and remake it a hundred times, from humble beginnings when nobody knew what MongoDB was, to the massive community powerhouse it now is. Meghan’s kept her perspective fresh through it all; years into it and with a much larger staff, she still keeps innovating and delivering at lightning speed. Humble, competent, focused: you’ll never find another Meghan, so I highly recommend you just work with her if you get a chance.\n…\nSee more"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/pazmacdonald/",
+        "text": "I had the privilege of working with Paz for nearly 8 years at MongoDB. Paz was a critical part of the growth of MongoDB during her tenure, establishing many of the early marketing programs for the developer community. Paz also partnered closely with the sales team to create integrated programs that drive pipeline. She recruited and developed a strong team and was a leader within the organization. I personally learned many marketing best practices from Paz and I’m grateful to have worked with her!"
+      },
+      {
+        "user": "https://www.linkedin.com/in/andrewracine/",
+        "text": "Andrew has been a pleasure to work with at MongoDB. He developed and executed many new demand generation campaigns, while optimizing existing programs. He built strong relationships with the sales team, particularly the SDR organization, to ensure the successful hand off of leads to the sales team. He introduced several new technologies (like Uberflip, Conversica, and Drift) with impressive results. He also mentored and developed a great demand generation team, sharing best practices and expertise."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "2",
+      "items": [
+        "Top 10 Cloud Evangelists Awards for 2016",
+        "Rising Star In Enterprise Technology"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/anniedane/",
+      "text": "Senior Director, Global Account Based Marketing & NA Field Marketing at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/seong17/",
+      "text": "Vice President, Strategy & Product Marketing"
+    },
+    {
+      "user": "https://www.linkedin.com/in/seandrew/",
+      "text": "SVP, Worldwide Corporate Sales at MongoDB, Inc at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sarahbranfman/",
+      "text": "Ensuring Success with MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/charles-lee-530806100/",
+      "text": "Sr Solutions Architect at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/alexandrina-koykova-91890117/",
+      "text": "Director, People Operations at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tamicannizzaro/",
+      "text": "Chief Marketing Officer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/charity-majors/",
+      "text": "CTO, honeycomb"
+    },
+    {
+      "user": "https://www.linkedin.com/in/eanakashima/",
+      "text": "Director, Engineering at Honeycomb.io"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ozgetuncel/",
+      "text": "VP of Customer Success & Sales Development at MongoDB"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Meghan Gill",
+    "headline": "Sales & Marketing at MongoDB",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQE7haPuphKNcg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=n7pAwVold7jmJCEEDlB1p5HutSoDyUkK6AWrzLJYYNQ",
+    "location": "Greater New York City Area",
+    "connections": "500+",
+    "summary": "I'm an award-winning sales / marketing leader and startup advisor. I was employee 8 and the first non-technical hire at MongoDB, where I built the developer community from the ground up and launched many of our first demand generation programs.\n\nMy expertise includes:\n\n* Community marketing, developer evangelism, and developer marketing\n* Delivering demand generation programs and lead nurturing\n* Executing field marketing programs and large-scale events\n* Measuring ROI on marketing campaigns\n* Leading high-performance teams\n\nI am also an advisor to Flybridge Capital, working with early stage startups."
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "profileAlternative": {
+    "name": "Nathan Myers",
+    "headline": "All C++, All the Time",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQGBptM5BekRFA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=KO6w4C-nF-cNml4vwRAAq5Ykjn7qchr6l7aqqMh3Frs",
+    "location": "Greater New York City Area",
+    "connections": "393",
+    "summary": "C++ and C library design; ISO C++ language standardization, and standard library design, implementation & conformance tests; User-space journaled file system design and implementation; Networked server design & implementation; High-availability system design and implementation; Communication encryption/security design and implementation; Distributed database communications infrastructure.\nEngineering staff at Bloomberg, IBM/Aspera, Aspera, Codesourcery, ITA Software, Zembu Labs, Rogue Wave Software, Mentor Graphics, Sonatech, Videx.\nPrincipal of Linux Laptops Ltd.\nConsultant to Required Technology, Cygnus Support, Plum Hall.\n\nSpecialties: Software system architecture, C++ coding, Network protocol engineering, Secure communication, Performance optimization, Language standardization, Linux & Unix configuration."
+  },
+  "aboutAlternative": {
+    "text": "C++ and C library design; ISO C++ language standardization, and standard library design, implementation & conformance tests; User-space journaled file system design and implementation; Networked server design & implementation; High-availability system design and implementation; Communication encryption/security design and implementation; Distributed database communications infrastructure.\nEngineering staff at Bloomberg, IBM/Aspera, Aspera, Codesourcery, ITA Software, Zembu Labs, Rogue Wave Software, Mentor Graphics, Sonatech, Videx.\nPrincipal of Linux Laptops Ltd.\nConsultant to Required Technology, Cygnus Support, Plum Hall.\n\nSpecialties: Software system architecture, C++ coding, Network protocol engineering, Secure communication, Performance optimization, Language standardization, Linux & Unix configuration."
+  },
+  "positions": [
+    {
+      "title": "P. Software Engineer",
+      "companyName": "MayStreet LLC",
+      "location": "Greater New York City Area",
+      "date1": "Jan 2018 – Present",
+      "date2": "1 yr 11 mos"
+    },
+    {
+      "title": "Engineer",
+      "companyName": "MongoDB, Inc.",
+      "location": "Greater New York City Area",
+      "description": "Staff Engineer, Distributed Systems",
+      "date1": "Aug 2016 – Oct 2017",
+      "date2": "1 yr 3 mos"
+    },
+    {
+      "title": "Staff",
+      "companyName": "Bloomberg LP",
+      "location": "New York City",
+      "description": "Maintain foundation C++ libraries; Advance support in C++ Standard for contract annotations; teach programming fundamentals.",
+      "date1": "Jun 2014 – Aug 2016",
+      "date2": "2 yrs 3 mos"
+    },
+    {
+      "title": "Aspera, an IBM company",
+      "location": "Emeryville, CA",
+      "description": "Continued responsibilities for Aspera-an-IBM-company",
+      "date1": "Apr 2014 – May 2014",
+      "date2": "2 mos",
+      "roles": [
+        {
+          "title": "Software Architect",
+          "date1": "Apr 2014 – May 2014",
+          "date2": "2 mos",
+          "location": "Emeryville, CA"
+        },
+        {
+          "title": "Software Architect",
+          "date1": "Oct 2006 – Mar 2014",
+          "date2": "7 yrs 6 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSoftware Architect",
+      "location": "Emeryville, CA",
+      "description": "Continued responsibilities for Aspera-an-IBM-company",
+      "date1": "Apr 2014 – May 2014",
+      "date2": "2 mos",
+      "roles": [
+        {
+          "title": "Software Architect",
+          "date1": "Apr 2014 – May 2014",
+          "date2": "2 mos",
+          "location": "Emeryville, CA"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSoftware Architect",
+      "description": "System engineering on a data communication product. Communication security, parallelization, progress & debug logging, performance optimization, library design. Designed cryptosystems for in-flight and on-disk data security, wide-area symmetric distributed database for file tree synchronization.",
+      "date1": "Oct 2006 – Mar 2014",
+      "date2": "7 yrs 6 mos",
+      "roles": [
+        {
+          "title": "Software Architect",
+          "date1": "Oct 2006 – Mar 2014",
+          "date2": "7 yrs 6 mos"
+        }
+      ]
+    },
+    {
+      "title": "Software architect",
+      "companyName": "Codesourcery, LLC",
+      "description": "Architect, code, analyze C++ library components for high-performance embedded multi-processor vector / signal / image processing library; optimize and troubleshoot C++ runtime support libraries for Gcc compiler targets.",
+      "date1": "Mar 2005 – Jan 2006",
+      "date2": "11 mos"
+    },
+    {
+      "title": "Software systems engineer",
+      "companyName": "ITA Software, Inc.",
+      "description": "Analyze, specify, design, and implement software solutions involving large-scale networked data flows; aid other engineers with C++ language, standard, and design expertise.",
+      "date1": "Mar 2002 – Jan 2005",
+      "date2": "2 yrs 11 mos"
+    },
+    {
+      "title": "Software Engineer",
+      "companyName": "Zembu Labs, Inc.",
+      "description": "Oversee work of junior engineers. Conduct interviews. Real-time network system coding in C++. Specify distributed- database failure recovery procedures. PostgreSQL development. Remote system control scripts, in Python.",
+      "date1": "Oct 1999 – Aug 2001",
+      "date2": "1 yr 11 mos"
+    },
+    {
+      "title": "Chief",
+      "companyName": "Linux Laptops Limited",
+      "description": "First vendor concentrating on portable linux systems.",
+      "date1": "Jan 1999 – Oct 1999",
+      "date2": "10 mos"
+    },
+    {
+      "title": "Contract engineer",
+      "companyName": "Cygnus Solutions, Inc.",
+      "description": "Implement core of ISO 14882 C++ Standard library, libstdc++, for GCC project. Identify compiler bugs.",
+      "date1": "Jan 1998 – Nov 1998",
+      "date2": "11 mos"
+    },
+    {
+      "title": "Engineer",
+      "companyName": "R o g u e W a v e S o f t w a r e",
+      "date1": "1991 – 1994",
+      "date2": "3 yrs"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Oregon State University",
+      "degree": "BSEE",
+      "fieldofstudy": "Computer Engineering",
+      "date1": "1979",
+      "date2": "1986"
+    },
+    {
+      "title": "Oregon Graduate Institute",
+      "degree": "Bachelor of Science in Electrical and Computer Engineering",
+      "fieldofstudy": "Computer Engineering",
+      "date1": "1987",
+      "date2": "1987"
+    }
+  ],
+  "skills": [
+    {
+      "title": "C++",
+      "count": "35"
+    },
+    {
+      "title": "Algorithms",
+      "count": "11"
+    },
+    {
+      "title": "Distributed Systems",
+      "count": "20"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "2",
+    "receivedCount": "1",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/dmercer/",
+        "text": "Nathan is a smart cookie."
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/robertallanhenniganleahy/",
+        "text": "Robert is the second youngest person I have known who understands the whole of the C++ language, and is able to apply that knowledge to build systems from scratch with skill and taste.  Anyone would be fortunate to have his help on important work."
+      },
+      {
+        "user": "https://www.linkedin.com/in/daveabrahams/",
+        "text": "I have worked with Dave for years, on and off, since our work together on the ISO C++ Standard.  His software design skills are beyond criticism, and the true depth of his patience and his reliability have not yet been discovered.  You want to work with Dave Abrahams."
+      }
+    ]
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/kuzminrobin/",
+      "text": "Crazy about C++ passionate bug preventer and meticulous code reviewer. Active Member of C++ Community."
+    },
+    {
+      "user": "https://www.linkedin.com/in/jamesgosling/",
+      "text": "Software Engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/bob-steagall-9649612a/",
+      "text": "Principal Engineer, C++ Advocate"
+    },
+    {
+      "user": "https://www.linkedin.com/in/chuan-wang-8807b127/",
+      "text": "Software Engineer at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/arthur-odwyer/",
+      "text": "Modern C++ guru"
+    },
+    {
+      "user": "https://www.linkedin.com/in/daveabrahams/",
+      "text": "Swift Library Designer at Apple"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mjcaisse/",
+      "text": "Principal at Ciere Consulting"
+    },
+    {
+      "user": "https://www.linkedin.com/in/paul-fultz-ii-60391997/",
+      "text": "Software Engineer at AMD"
+    },
+    {
+      "user": "https://www.linkedin.com/in/k-a1467a32/",
+      "text": "Telecom Professional"
+    },
+    {
+      "user": "https://www.linkedin.com/in/barry-hedquist-a6782534/",
+      "text": "President at Perennial, Inc"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Nathan Myers",
+    "headline": "All C++, All the Time",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQGBptM5BekRFA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=KO6w4C-nF-cNml4vwRAAq5Ykjn7qchr6l7aqqMh3Frs",
+    "location": "Greater New York City Area",
+    "connections": "393",
+    "summary": "C++ and C library design; ISO C++ language standardization, and standard library design, implementation & conformance tests; User-space journaled file system design and implementation; Networked server design & implementation; High-availability system design and implementation; Communication encryption/security design and implementation; Distributed database communications infrastructure.\nEngineering staff at Bloomberg, IBM/Aspera, Aspera, Codesourcery, ITA Software, Zembu Labs, Rogue Wave Software, Mentor Graphics, Sonatech, Videx.\nPrincipal of Linux Laptops Ltd.\nConsultant to Required Technology, Cygnus Support, Plum Hall.\n\nSpecialties: Software system architecture, C++ coding, Network protocol engineering, Secure communication, Performance optimization, Language standardization, Linux & Unix configuration."
+  }
+}

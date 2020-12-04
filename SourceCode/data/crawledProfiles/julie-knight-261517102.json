@@ -1,0 +1,115 @@
+{
+  "profileAlternative": {
+    "name": "Julie Knight",
+    "headline": "Oracle and SQL Server DBA",
+    "location": "Dallas/Fort Worth Area",
+    "connections": "70",
+    "summary": "I’m an Oracle Certified Professional that has been working as an Oracle DBA for the last 15 years on both Windows and UNIX platforms. I’ve also been a SQL Server DBA for the last 8 years. I’ve administrated Oracle and SQL Server for several applications that include; PeopleSoft, Maximo, Documentum, SharePoint, ClearQuest, eMatrix, TFS, Titus, and many customized applications."
+  },
+  "aboutAlternative": {
+    "text": "I’m an Oracle Certified Professional that has been working as an Oracle DBA for the last 15 years on both Windows and UNIX platforms. I’ve also been a SQL Server DBA for the last 8 years. I’ve administrated Oracle and SQL Server for several applications that include; PeopleSoft, Maximo, Documentum, SharePoint, ClearQuest, eMatrix, TFS, Titus, and many customized applications."
+  },
+  "positions": [
+    {
+      "title": "DBA Oracle/SQL Server",
+      "companyName": "Boeing",
+      "location": "Dallas/Fort Worth Area",
+      "description": "I work as an Oracle DBA and a SQL Server DBA, with 15 years of experience in Database Administration.\nThis includes:\nCreating and maintaining all databases required for development, testing, and production.\nPerform capacity planning required to create and maintain the databases.\nPerform ongoing tuning of the database instances.\nInstall new versions of Oracle and SQL Server and its tools, and any other tools that access the database.\nWork all upgrades and patching of Oracle and SQL Server instances and databases.\nPlan and implement backup and recovery of the databases.\nPerform all configuration control of the instances and databases.\nImplement and enforce security for all databases.\nPut standards in place to ensure that design and code are produced with proper integrity, security and performance.\nEvaluate releases of Oracle and SQL Server and its tools, and third party products to ensure that the site is running the products that are company standard.\nProvide technical support to application development teams.\nAudit all databases with company specific requirements relating to DFARS.\n\n…\nsee more",
+      "date1": "Jul 1998 – Present",
+      "date2": "21 yrs 5 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Amberton University",
+      "degree": "Bachelor of Science - BS",
+      "fieldofstudy": "Business, and Computer Science"
+    },
+    {
+      "title": "Oracle Education",
+      "degree": "Oracle Certified Professional (OCP)"
+    },
+    {
+      "title": "Southern Methodist University",
+      "degree": "Certification Unix System Administration"
+    },
+    {
+      "title": "Southern Methodist University",
+      "degree": "Certification Business Intelligence"
+    },
+    {
+      "title": "Southern Methodist University",
+      "degree": "Certification Oracle Database Administration"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Microsoft Office",
+      "count": "1"
+    },
+    {
+      "title": "Management",
+      "count": "1"
+    },
+    {
+      "title": "Customer Service"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/devkota/",
+      "text": "Graduate Student at University of Miami"
+    },
+    {
+      "user": "https://www.linkedin.com/in/isabel-bonilla-51615659/",
+      "text": "Billing Supervisor at Harvard Maintenance"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ada-crenshaw/",
+      "text": "Strategic Change Management Consultant"
+    },
+    {
+      "user": "https://www.linkedin.com/in/arshrestha/",
+      "text": "SRE"
+    },
+    {
+      "user": "https://www.linkedin.com/in/pravesh-tamrakar-1a637b4a/",
+      "text": "Group Lead at OATI"
+    },
+    {
+      "user": "https://www.linkedin.com/in/getayush/",
+      "text": "Principal Engineer at T-Mobile"
+    },
+    {
+      "user": "https://www.linkedin.com/in/chrissy-swallow-csm-cspo-ab80a657/",
+      "text": "Technology Services Manager at Federal Reserve Bank of Richmond"
+    },
+    {
+      "user": "https://www.linkedin.com/in/amit-shrestha/",
+      "text": "Experienced Product Manager | Analytics | Business Intelligence | Data Management"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sauravrp/",
+      "text": "Android Engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jimmy-perez-6aa03013/",
+      "text": "Analytics Consultant"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Julie Knight",
+    "headline": "Oracle and SQL Server DBA",
+    "location": "Dallas/Fort Worth Area",
+    "connections": "70",
+    "summary": "I’m an Oracle Certified Professional that has been working as an Oracle DBA for the last 15 years on both Windows and UNIX platforms. I’ve also been a SQL Server DBA for the last 8 years. I’ve administrated Oracle and SQL Server for several applications that include; PeopleSoft, Maximo, Documentum, SharePoint, ClearQuest, eMatrix, TFS, Titus, and many customized applications."
+  }
+}

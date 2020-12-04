@@ -1,0 +1,205 @@
+{
+  "profileAlternative": {
+    "name": "Tim Ricker",
+    "headline": "Principal/Senior Software Engineer",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQGTjt-CCYm7sA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=MZoXpDwB6wltJFn8kD8ST-oLJVp6I6nfwX2LhSGQtIU",
+    "location": "Spanish Fork, Utah",
+    "connections": "500+",
+    "summary": "Linux/UNIX Software Engineer with specialty in kernel level development. Other OSes, too. C, C++, Java, Python and Perl are a few of my tools. 20 plus years experience in developing back-end, middle-ware and front-end software. Proponent of Agile Development as per Agile Manifesto (http://agilemanifesto.org/).\n\nHardware Technician: Avionics Communications Specialist in USAF (1974-1977); Vietnam Era Veteran, Honorable Discharge.\n\nTECHNICAL KNOWLEDGE\n\nPersonal project (fast Full Stack): Windows/Linux, C++11/14/17; QT, RESTful, GoLang, RabbitMQ, gRPC, 0MQ, nanoMQ, Microservice, Docker, Kubernetes. (64-bit Win 7, Ubuntu 18.04, Centos 7.06)\n\nOS: Linux, UNIX, Windows and others. Linux distros: Ubuntu, RedHat, SuSE, etc.\nSoftware: C/C++, Pascal, Java, Python, Perl & Assembly.\nHardware: Intel 32/64, TI OMAP-L138 ARM & PowerPC 440.\nIDE: MSVS, NetBeans, Eclipse, Qt4.\nTools: Tortoise, Subversion, CVS, Git, Valgrind, gdb, tcpdump, others.\nTechniques: Multi threading, POSIX, Win32 and IPC (Inter-process Communications).\nDrivers/Firmware: Storage, High Speed Serial (UART) & others; SCSI firmware.\nNetwork: Sockets, TCP/IP, UDP/IP, NetBIOS, NDIS, TDI and InfiniBand.\nOther: OOP. DENX ELDK 4.1 RTOS, Linux RTLinux patches and RTAI.\nTest Equipment: Logic Analyzer, Frequency Counter, Signal Generator, and O'Scope. RF Watt Meter, Multimeter, DVM, and Spectrum Analyzer. ICE (In Circuit Emulator) and TDR (Time Domain Reflection). Vmetro BusView pci analyzer\nTroubleshooting: Read Schematics. Test, troubleshoot and repair embedded and intelligent peripheral circuit boards, analog and digital electronic devices, UHF, VHF, HF, and SSB communication systems on USAF aircraft and emergency recorder systems on USAF aircraft C-5A.\n\nSpecialties: OS kernel work, kernel modules, device driver, applications, API and UI development. OS internals: Linux, UNIX, Windows and others."
+  },
+  "aboutAlternative": {
+    "text": "Linux/UNIX Software Engineer with specialty in kernel level development. Other OSes, too. C, C++, Java, Python and Perl are a few of my tools. 20 plus years experience in developing back-end, middle-ware and front-end software. Proponent of Agile Development as per Agile Manifesto (http://agilemanifesto.org/).\n\nHardware Technician: Avionics Communications Specialist in USAF (1974-1977); Vietnam Era Veteran, Honorable Discharge.\n\nTECHNICAL KNOWLEDGE\n\nPersonal project (fast Full Stack): Windows/Linux, C++11/14/17; QT, RESTful, GoLang, RabbitMQ, gRPC, 0MQ, nanoMQ, Microservice, Docker, Kubernetes. (64-bit Win 7, Ubuntu 18.04, Centos 7.06)\n\nOS: Linux, UNIX, Windows and others. Linux distros: Ubuntu, RedHat, SuSE, etc.\nSoftware: C/C++, Pascal, Java, Python, Perl & Assembly.\nHardware: Intel 32/64, TI OMAP-L138 ARM & PowerPC 440.\nIDE: MSVS, NetBeans, Eclipse, Qt4.\nTools: Tortoise, Subversion, CVS, Git, Valgrind, gdb, tcpdump, others.\nTechniques: Multi threading, POSIX, Win32 and IPC (Inter-process Communications).\nDrivers/Firmware: Storage, High Speed Serial (UART) & others; SCSI firmware.\nNetwork: Sockets, TCP/IP, UDP/IP, NetBIOS, NDIS, TDI and InfiniBand.\nOther: OOP. DENX ELDK 4.1 RTOS, Linux RTLinux patches and RTAI.\nTest Equipment: Logic Analyzer, Frequency Counter, Signal Generator, and O'Scope. RF Watt Meter, Multimeter, DVM, and Spectrum Analyzer. ICE (In Circuit Emulator) and TDR (Time Domain Reflection). Vmetro BusView pci analyzer\nTroubleshooting: Read Schematics. Test, troubleshoot and repair embedded and intelligent peripheral circuit boards, analog and digital electronic devices, UHF, VHF, HF, and SSB communication systems on USAF aircraft and emergency recorder systems on USAF aircraft C-5A.\n\nSpecialties: OS kernel work, kernel modules, device driver, applications, API and UI development. OS internals: Linux, UNIX, Windows and others."
+  },
+  "positions": [
+    {
+      "title": "Senior Software Engineer",
+      "companyName": "Micro Focus",
+      "location": "Provo, Utah Area",
+      "description": "• Worked on legacy ‘C’ code supporting UDF of Voltage for Teradata platform.\n• Worked on legacy 'C++' gtest and gmock code.\n• Linux and Windows.",
+      "date1": "Aug 2018 – May 2019",
+      "date2": "10 mos"
+    },
+    {
+      "title": "Programmer Analyst IV",
+      "companyName": "Murphy USA",
+      "location": "El Dorado, Arkansas",
+      "description": "• Develop, debug and maintain C++ [and C++11] modules of POS System.\n• Windows 7; Visual Studio 2017 and its tool chain; remote debugging; message queues, threads and concurrency.\n• Use VS2017 IntelliSense in development and debugging. Use Git for code repository.\n• Training in Usable Security, Hardware Security and Software Security.\n• Run Checkmarx and cppcheck on code and correct any errors found to make C++ code PCI ready.\n• Use TFS and SCRUM meetings; use several week Sprints.\n\n…\nsee more",
+      "date1": "Aug 2014 – Aug 2018",
+      "date2": "4 yrs 1 mo"
+    },
+    {
+      "title": "Firmware Engineer Contractor",
+      "companyName": "ClearOne",
+      "description": "Working with embedded Linux, C and C++.",
+      "date1": "Feb 2014 – Jul 2014",
+      "date2": "6 mos"
+    },
+    {
+      "title": "C/C++ Linux Developer",
+      "companyName": "WakeUpNow, Provo, Utah (contract through ConsultNet)",
+      "location": "Provo, UT",
+      "description": "• Ported PHP class to C++; Linux (64-bit Centos 6.4 and Ubuntu 12.04 LTS).\n• Improved module’s execution, MySQL access speed, memory usage, bandwidth and scalability.\n• Used gnu g++11 capability; C++ STL; and, MySQL++ with the mysqlpp library for database interface.",
+      "date1": "Oct 2013 – Dec 2013",
+      "date2": "3 mos"
+    },
+    {
+      "title": "Staff Analyst/Developer",
+      "companyName": "EchoStar Advanced Technologies, LLC",
+      "location": "American Fork, UT",
+      "description": "• Developed unit test for proprietary storage system engine on 64-bit freeBSD 9 and Ubuntu 12\n• Unit test written in Python interfacing with Cython for the ‘C’ coded engine\n• Researched and implemented Python application to control SAS/SATA drives’ RED LED with LSI HBAs\n• Development in Python, Cython and ‘C’; debugging in pdb and gdb\n…\nsee more",
+      "date1": "Aug 2011 – Apr 2013",
+      "date2": "1 yr 9 mos"
+    },
+    {
+      "title": "Senior Software Engineer",
+      "companyName": "Sierra Nevada Corporation (contract through NCS Technologies)",
+      "location": "Midvale/Murray, UT",
+      "description": "Avionics Software Development using DO-178B; next generation AFIRS - Automated Flight Information Recording System.\n• Embedded Linux (4.1 ELDK) DENX RTOS on PowerPC 440. Develop Maintenance Web Interface using CGI/C, PHP, JavaScript and other technologies as needed.\n• Use Windows 7 and Oracle VirtualBox running ubuntu for development environment of x86/PPC.\n• Use of POSIX message queue for IPC.\n• Developed APIs used with console, Web and other interfaces.\n…\nsee more",
+      "date1": "Aug 2010 – Feb 2011",
+      "date2": "7 mos"
+    },
+    {
+      "title": "Senior Software Engineer",
+      "companyName": "GE Intelligent Platforms / GE Embedded Systems / GE Fanuc / SBS Technologies",
+      "description": "SBS Technolgies (July 2002 - May 2005).\nWorked on projects for NASA SUMI, NASA JPL, Lockheed Martin, Boeing, NIITEK, BSST, Rockwell Collins and GEHC; software development and system integration.\n• Worked in cross-disciplinary design teams; evaluated SBC, BSP/SDK and software tools to ensure effectiveness in project use and cost reduction.\n• On-time fulfillment of Software/Hardware integration requirements of 3U and 6U cPCI Rugged Units to clients; clients such as NASA SUMI, NASA JPL, BSST, NIITEK and Boeing.\n• Developed Linux 2.6 kernel modules, as well as drivers, for High Speed Serial, 1553 & 429 (for avionics), DIO and PIO; these were used in Projects for NASA SUMI, NASA JPL and Rockwell Collins.\n• Received recognition awards on two projects: 1) use of Rack Mount System to emulate Rugged Unit operation as proof of concept - set-up system as per customer needs, delivered Engineering Develop Unit six weeks early; 2) with short notice, diagnosed and solved problem of legacy product.\n• Reduced project time by developing algorithms and applications for automating unit and system testing.\n• Developed software for Linux, UNIX and Windows; Linux 2.6x kernel drivers developed for cPCI, PCI, PCIe and PMC cards.\n• Developed apps in Perl (with CGI technique), C and Java (using OOP) to automate unit testing from remote system; unit testing on Linux, UNIX and VxWorks; remote system on Linux, UNIX and Windows; developed Perl, C and C++ multi-threaded, POSIX and Socket programming for test apps.\n• Supported GEHC InfiniBand project; updated and packaged code base from Mellanox’s Golden CD; supplied source package (source RPM) to GEHC; tested InfiniBand HPC using IPoIB, SDP, uDapl, MPI and SRP; source package deliver to GEHC to build new Linux kernel distribution.\n…\nsee more",
+      "date1": "2002 – 2010",
+      "date2": "8 yrs"
+    },
+    {
+      "title": "Senior Software Engineer",
+      "companyName": "SwitchPoint / AirSwitch",
+      "description": "Formerly AirSwitch\nDesigned, developed, implemented and supported client/server applications.\n• Wrote network communication applications - packet sniffer and test jig - over NetBIOS, TCP/IP, UDP/IP and NDIS; good/excellent understanding of the TCP/IP stack from MAC layer.\n• Worked with EXE, device drivers and DLL on Win 9x, NT 4.0 and W2k.\n• Used C/C++, Assembly, Delphi 5, NuMega’s SoftICE, DDK, SDK and other tools.\n• Developed Delphi 5, C/C++ code, structured and OOP, using multi-threaded and Socket apps for in house use.\n…\nsee more",
+      "date1": "1999 – 2001",
+      "date2": "2 yrs"
+    },
+    {
+      "title": "Software Engineer",
+      "companyName": "Zebra Technologies / Vertical Technologies",
+      "description": "Formerly Vertical Technologies\nDesigned, developed, implemented and supported bar code solutions.\n• Project Manager, Leader, and Designer for NT 4.0 / W2K printer driver project.\n• Implemented a GDI printer driver with printer resident fonts for Zebra printers.\n• Developed an application to retrieve subnet list of Zebra printer servers.\n• Developed a barcode reader Win 9x, WFW, DOS, and MacIntosh.\n• Used SDK, DDK, Assembly, C, and C/C++ for Intel and Motorola, NuMega's SoftICE.\n• Developed C/C++ code, structured and OOP, using multi-threaded and Socket apps for in house use.\n…\nsee more",
+      "date1": "1994 – 1999",
+      "date2": "5 yrs"
+    },
+    {
+      "title": "Software Engineer",
+      "companyName": "Novell",
+      "description": "• Developed disk drivers for NetWare 2.x and NetWare 3.x; ESDI, MFM, and SCSI.\n• Ported NetWare 2.x disk drivers to NetWare 3.x.\n• Maintained NetWare 2.x system internals for disk drivers.\n• Development done mainly Assembly; some C.\n• Assisted in planning for the Internal Disk Process of NetWare 3.0.\n• IMSP Testing and Approval of H.P. product line with NetWare products.\n…\nsee more",
+      "date1": "1988 – 1992",
+      "date2": "4 yrs"
+    },
+    {
+      "title": "Software Engineer",
+      "companyName": "Interphase/",
+      "description": "Ported, developed and maintained disk device drivers' code for Sys V UNIX and 4.2 BSD on variety of Motorola based products/architectures. Developed and maintained DOS/Intel based disk device driver code.",
+      "date1": "1986 – Feb 1988",
+      "date2": "2 yrs"
+    },
+    {
+      "title": "E-4",
+      "companyName": "USAF",
+      "description": "Avionics Communications Specialist. (Aircraft Radio Repairman on C-5A) Dover AFB, Dover, DE. Honorable Discharge.",
+      "date1": "Jan 1974 – Aug 1977",
+      "date2": "3 yrs 8 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Salt Lake Community College",
+      "degree": "AS",
+      "fieldofstudy": "Computer Science"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Debugging",
+      "count": "25"
+    },
+    {
+      "title": "Linux",
+      "count": "23"
+    },
+    {
+      "title": "Software Engineering",
+      "count": "21"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "1",
+    "receivedCount": "4",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/rob-harker-4b98b313/",
+        "text": "Tim is a bull-dog at solving problems. I worked with him in defining the solution for a user interface on an embedded avionics system. He is a hard worker and motivated software engineer. If our our prime had continued to pay us, he would still be working on my team today. I highly recommend Tim."
+      },
+      {
+        "user": "https://www.linkedin.com/in/chriswhited/",
+        "text": "Tim is a very hard worker that I could count on to attack any problem I gave him. He was the local expert on Linux for the Software department. He is a great team player that is always trying to bring new ideas to solve complex problems. While at the same time he was also very good about listening to others ideas and running with them. Tim also takes great pride in his work and has a very strong customer focus.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/marcin-rajtar-97241a21/",
+        "text": "Excellent engineer to bounce ideas of. Hard working, goal oriented, and very persistent. Always open to new ideas. Very inclusive team player. Always ready to go the extra mile. Always ready to help. Possesses in-depth knowledge of various Linux distributions."
+      },
+      {
+        "user": "https://www.linkedin.com/in/joshuawherrett/",
+        "text": "Tim provided expert knowledge in the area of Fedora Linux configuration for headless (runlevel 3) use on embedded hardware and interfacing with solid state memory and data bus interface cards. His input was prompt and detailed, and was critical to getting out project completed on time. Tim was always ready to help and being on an international project, timezones were not an issue whether it be email or phone calls. I highly recommend Tim, with his extensive knowledge in his areas of expertise and his warm and professional personality.\n…\nSee more"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/vanessahrandrecruit/",
+        "text": "Vanessa helped place me into my current employment. I liked the work ethic of Vanessa. She promptly gives feedback when she receives it from her client company. When I called for status or other question, she willing volunteered valued information. I appreciate her professional and amiable personality!  And, I would work with her again!"
+      }
+    ]
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/neileisen/",
+      "text": "Sr Software Engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/barbara-f-9a529b41/",
+      "text": "Software Engineer at Dell EMC"
+    },
+    {
+      "user": "https://www.linkedin.com/in/suneetha-irigireddy-49407976/",
+      "text": "Sr SW Engineer at GroupM"
+    },
+    {
+      "user": "https://www.linkedin.com/in/davidcole123/",
+      "text": "Senior Software Engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/anthony-cantone-520113b/",
+      "text": "Software Engineer at Technisource"
+    },
+    {
+      "user": "https://www.linkedin.com/in/chetlanctot/",
+      "text": "Software Development Engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/swapna-gangireddy/",
+      "text": "Tridion Consultant"
+    },
+    {
+      "user": "https://www.linkedin.com/in/bruce-olney-09bb498/",
+      "text": "Embedded Software Engineer at Owlet Baby Care"
+    },
+    {
+      "user": "https://www.linkedin.com/in/erickson37/",
+      "text": "Contract Software Developer at Embedded Intelligence Inc"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kod-kamil-1644a228/",
+      "text": "Tridion Developer at Aquilaire Inc."
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Tim Ricker",
+    "headline": "Principal/Senior Software Engineer",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQGTjt-CCYm7sA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=MZoXpDwB6wltJFn8kD8ST-oLJVp6I6nfwX2LhSGQtIU",
+    "location": "Spanish Fork, Utah",
+    "connections": "500+",
+    "summary": "Linux/UNIX Software Engineer with specialty in kernel level development. Other OSes, too. C, C++, Java, Python and Perl are a few of my tools. 20 plus years experience in developing back-end, middle-ware and front-end software. Proponent of Agile Development as per Agile Manifesto (http://agilemanifesto.org/).\n\nHardware Technician: Avionics Communications Specialist in USAF (1974-1977); Vietnam Era Veteran, Honorable Discharge.\n\nTECHNICAL KNOWLEDGE\n\nPersonal project (fast Full Stack): Windows/Linux, C++11/14/17; QT, RESTful, GoLang, RabbitMQ, gRPC, 0MQ, nanoMQ, Microservice, Docker, Kubernetes. (64-bit Win 7, Ubuntu 18.04, Centos 7.06)\n\nOS: Linux, UNIX, Windows and others. Linux distros: Ubuntu, RedHat, SuSE, etc.\nSoftware: C/C++, Pascal, Java, Python, Perl & Assembly.\nHardware: Intel 32/64, TI OMAP-L138 ARM & PowerPC 440.\nIDE: MSVS, NetBeans, Eclipse, Qt4.\nTools: Tortoise, Subversion, CVS, Git, Valgrind, gdb, tcpdump, others.\nTechniques: Multi threading, POSIX, Win32 and IPC (Inter-process Communications).\nDrivers/Firmware: Storage, High Speed Serial (UART) & others; SCSI firmware.\nNetwork: Sockets, TCP/IP, UDP/IP, NetBIOS, NDIS, TDI and InfiniBand.\nOther: OOP. DENX ELDK 4.1 RTOS, Linux RTLinux patches and RTAI.\nTest Equipment: Logic Analyzer, Frequency Counter, Signal Generator, and O'Scope. RF Watt Meter, Multimeter, DVM, and Spectrum Analyzer. ICE (In Circuit Emulator) and TDR (Time Domain Reflection). Vmetro BusView pci analyzer\nTroubleshooting: Read Schematics. Test, troubleshoot and repair embedded and intelligent peripheral circuit boards, analog and digital electronic devices, UHF, VHF, HF, and SSB communication systems on USAF aircraft and emergency recorder systems on USAF aircraft C-5A.\n\nSpecialties: OS kernel work, kernel modules, device driver, applications, API and UI development. OS internals: Linux, UNIX, Windows and others."
+  }
+}

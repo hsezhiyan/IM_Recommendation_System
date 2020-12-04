@@ -1,0 +1,230 @@
+{
+  "profileAlternative": {
+    "name": "Chris Grabosky",
+    "headline": "Senior Solutions Architect at MongoDB",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQGIFNBBZpByWQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=D6yjCK51ooN6V0RaOnUQwdwH7tKSCMquUuAE0j9lEmo",
+    "location": "Greater Philadelphia Area",
+    "connections": "500+",
+    "summary": "I help companies make the most out of their data and assist in their digital transformation and push to the cloud."
+  },
+  "aboutAlternative": {
+    "text": "I help companies make the most out of their data and assist in their digital transformation and push to the cloud."
+  },
+  "positions": [
+    {
+      "title": "Senior Solutions Architect",
+      "companyName": "MongoDB",
+      "location": "Philadelphia, Pennsylvania",
+      "description": "I help companies make the most out of their data and assist in their digital transformation and push to the cloud.",
+      "date1": "Aug 2018 – Present",
+      "date2": "1 yr 4 mos"
+    },
+    {
+      "title": "Quali",
+      "description": "Experienced in complex technical sales to service providers, equipment manufacturers, and enterprises to aid them in transforming their business with DevOps and Test Automation with a strong background in networking (core routing, edge switching), virtualization (VMWare, OpenStack), cloud (Azure, AWS), development process (source control, CI/CD), programming (PHP, python, C#.NET, HTML/CSS/JavaScript), and configuration management (bash, PowerShell, Ansible).\n…\nsee more",
+      "date1": "Nov 2017 – Jul 2018",
+      "date2": "9 mos",
+      "roles": [
+        {
+          "title": "Sales Engineering Manager",
+          "date1": "Nov 2017 – Jul 2018",
+          "date2": "9 mos"
+        },
+        {
+          "title": "Principal Solutions Architect",
+          "date1": "Jan 2017 – Nov 2017",
+          "date2": "11 mos"
+        },
+        {
+          "title": "Sr. Solutions Engineer",
+          "date1": "Dec 2013 – Jan 2017",
+          "date2": "3 yrs 2 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSales Engineering Manager",
+      "description": "Experienced in complex technical sales to service providers, equipment manufacturers, and enterprises to aid them in transforming their business with DevOps and Test Automation with a strong background in networking (core routing, edge switching), virtualization (VMWare, OpenStack), cloud (Azure, AWS), development process (source control, CI/CD), programming (PHP, python, C#.NET, HTML/CSS/JavaScript), and configuration management (bash, PowerShell, Ansible).\n…\nsee more",
+      "date1": "Nov 2017 – Jul 2018",
+      "date2": "9 mos",
+      "roles": [
+        {
+          "title": "Sales Engineering Manager",
+          "date1": "Nov 2017 – Jul 2018",
+          "date2": "9 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nPrincipal Solutions Architect",
+      "description": "I lead the technical sales organization for Quali",
+      "date1": "Jan 2017 – Nov 2017",
+      "date2": "11 mos",
+      "roles": [
+        {
+          "title": "Principal Solutions Architect",
+          "date1": "Jan 2017 – Nov 2017",
+          "date2": "11 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSr. Solutions Engineer",
+      "date1": "Dec 2013 – Jan 2017",
+      "date2": "3 yrs 2 mos",
+      "roles": [
+        {
+          "title": "Sr. Solutions Engineer",
+          "date1": "Dec 2013 – Jan 2017",
+          "date2": "3 yrs 2 mos"
+        }
+      ]
+    },
+    {
+      "title": "Network Engineer",
+      "companyName": "Comcast Cable",
+      "description": "Assisted with network certification and automation of network lab operations and core/edge certifications.",
+      "date1": "2011 – 2013",
+      "date2": "2 yrs"
+    },
+    {
+      "title": "Web Application Developer",
+      "companyName": "Trend Integration LLC",
+      "description": "C#.NET and ASP.NET database (Microsoft SQL) full-stack application developer working on customer-facing applications.",
+      "date1": "2010 – 2011",
+      "date2": "1 yr"
+    },
+    {
+      "title": "Teaching Assistant",
+      "companyName": "Drexel University",
+      "description": "Linux and server administration lab assistant",
+      "date1": "Jan 2010 – Jun 2010",
+      "date2": "6 mos"
+    },
+    {
+      "title": "Integration Intern",
+      "companyName": "Ulticom",
+      "description": "Lab automation and integration/packaging scripting of core product (Signalware).",
+      "date1": "Jun 2007 – Sep 2007",
+      "date2": "4 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Drexel University",
+      "degree": "Master's degree",
+      "fieldofstudy": "Information Systems",
+      "date1": "2006",
+      "date2": "2011"
+    },
+    {
+      "title": "Drexel University",
+      "degree": "Bachelor's degree",
+      "fieldofstudy": "Information Systems",
+      "date1": "2006",
+      "date2": "2011"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Automation"
+    },
+    {
+      "title": "Pre-sales"
+    },
+    {
+      "title": "MongoDB"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "1",
+    "receivedCount": "0",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/breen-rourke-3086aa4/",
+        "text": "I had the pleasure of working for Breen for several years, where he helped grow me from an entry-level co-op position to a full time engineer. Since leaving Breen's organization, I have shifted my role from engineer, to senior engineer, to an engineering manager. The biggest compliment I can give to Breen's management style and his capabilities is that I model a lot of my behavior in leading my team based on what I learned and witnessed first-hand in working for and with Breen.\n…\nSee more"
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "2",
+      "items": [
+        "Philadelphia MongoDB User Group (PhillyMUG)",
+        "IEEE"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "BitBucket Repos",
+        "GitHub Repos"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/vijaychebolu/",
+      "text": "Emerging Tech Leader|Speaker"
+    },
+    {
+      "user": "https://www.linkedin.com/in/adam-eskreis-6544b520/",
+      "text": "Principal Engineer at TripAdvisor"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mimonahan/",
+      "text": "Strategic Account Executive at Phenom People"
+    },
+    {
+      "user": "https://www.linkedin.com/in/lowell-ropp/",
+      "text": "Solutions Architect - Captivating Solutions. Compelling Architecture. Collaborative Leadership. Consummate SME. Curious."
+    },
+    {
+      "user": "https://www.linkedin.com/in/ptsoderberg/",
+      "text": "Solutions Architect at Elastic"
+    },
+    {
+      "user": "https://www.linkedin.com/in/saravanan-balasubramanian-8783804/",
+      "text": "Technology Leader (Digital - Cloud - Big Data - Data Science ) | Strategy | Architecture | Delivery | Client Services"
+    },
+    {
+      "user": "https://www.linkedin.com/in/louis-paul-9360b17/",
+      "text": "Cloud Solution Architect"
+    },
+    {
+      "user": "https://www.linkedin.com/in/fredmontero/",
+      "text": "Architect (RHCA Level 6), Container Practice"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jeffbornemann/",
+      "text": "Senior Site Reliability Engineer at Pendo.io"
+    },
+    {
+      "user": "https://www.linkedin.com/in/evan-atkins-94751112/",
+      "text": "Analytics Solution Executive at Technology Dynamics Inc"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Logistics",
+      "experience": "St. Charles Borromeo Carnival",
+      "date1": "Jun 2000 – Present",
+      "date2": "19 yrs 6 mos"
+    },
+    {
+      "title": "Information Technology Chair",
+      "experience": "St. Charles Borromeo Carnival",
+      "date1": "Nov 2018 – Present",
+      "date2": "1 yr 1 mo"
+    }
+  ],
+  "profile": {
+    "name": "Chris Grabosky",
+    "headline": "Senior Solutions Architect at MongoDB",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQGIFNBBZpByWQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=D6yjCK51ooN6V0RaOnUQwdwH7tKSCMquUuAE0j9lEmo",
+    "location": "Greater Philadelphia Area",
+    "connections": "500+",
+    "summary": "I help companies make the most out of their data and assist in their digital transformation and push to the cloud."
+  }
+}

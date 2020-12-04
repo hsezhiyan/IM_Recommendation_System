@@ -1,0 +1,211 @@
+{
+  "profileAlternative": {
+    "name": "Brian McKenna",
+    "headline": "Functional programmer",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQEbnZb-duCHxw/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=Fz-IEeq8YJl2-bn5SuTqpH20XEDKY-hIl42N2yPuRRs",
+    "location": "Launceston, Australia",
+    "connections": "500+",
+    "summary": "Functional programming, Haskell, PureScript, Idris, Agda"
+  },
+  "aboutAlternative": {
+    "text": "Functional programming, Haskell, PureScript, Idris, Agda"
+  },
+  "positions": [
+    {
+      "title": "Senior Developer",
+      "companyName": "Atlassian",
+      "location": "Tasmania, Australia",
+      "description": "Atlassian creates collaboration tools for teams (e.g. Jira, Confluence, Trello, Bitbucket, etc) used by companies such as Mozilla, NASA and Twitter.\n\n• Worked on Atlassian Marketplace\n◦ Helped transition development team from San Francisco to Bengaluru\n◦ Post transition: focused on training, breaking down tasks, scoping further adoption of Atlassian platform and purposefully avoided writing code\n◦ Lead implementation of GDPR compliance\n◦ Managed and handled communication during incidents\n◦ Taught functional programming classes to dozens of developers\n◦ Used Nix and Docker to convert Atlassian Marketplace to use Atlassian's internal Platform as a Service\n◦ Part of Site Reliability Engineering team until the team was no longer required\n◦ Interviewed dozens of engineers for Bengaluru office\n\n• Created Atlassian's shared userbase and identity platform\n◦ Now used in Jira Cloud, Confluence Cloud, Bitbucket and many other Atlassian products\n◦ Worked on many small services to implement identity features such as domain claiming and listing which sites a user has access to\n…\nsee more",
+      "date1": "Jun 2015 – Present",
+      "date2": "4 yrs 6 mos"
+    },
+    {
+      "title": "Senior Web Developer",
+      "companyName": "SlamData",
+      "location": "Boulder, CO",
+      "description": "SlamData allows querying non-relational data sources (e.g. MongoDB and Hadoop) using relational queries. It removes the need for Extract-Transform-Load (ETL) steps in a data science pipeline.\n\n• Worked on an Electron-like application built using PureScript\n• Optimised the PureScript compiler performance for our application\n…\nsee more",
+      "date1": "Apr 2015 – Jun 2015",
+      "date2": "3 mos"
+    },
+    {
+      "title": "Senior Software Engineer",
+      "companyName": "Simple Energy",
+      "location": "Boulder, CO",
+      "description": "Simple Energy creates software to motivate people to reduce energy usage. Average consumption is reduced by 6.7% by providing insights, tips and rewards to users.\n\n• Worked on batch processing of data from utilities\n• Helped refactor 30k lines of imperative Scala to functional Scala\n• Created and deployed several separate Haskell services\n• Trained coworkers in Haskell language and tooling\n…\nsee more",
+      "date1": "Jan 2014 – Mar 2015",
+      "date2": "1 yr 3 mos"
+    },
+    {
+      "title": "Software Engineer",
+      "companyName": "RichRelevance",
+      "location": "Boulder, CO",
+      "description": "The Precog team was acqui-hired by RichRelevance, a leader in product recommendations with customers such as Target, Best Buy and Walmart. The goal was to use the Precog team’s expertise in Scala for the effort to transition RichRelevance away from Java.",
+      "date1": "Jul 2013 – Dec 2013",
+      "date2": "6 mos"
+    },
+    {
+      "title": "Senior R&D Engineer",
+      "companyName": "Precog",
+      "description": "Precog was a platform for big data analytics. Customers had access to a REST backend which used a custom datastore. Analysis was done using Quirrel; a specially designed query language for the domain. Data scientists could use Labcoat; an IDE for exploring and analysing data.\n\n• Precog Platform\n◦ Fixed problems with Quirrel's type system\n◦ Added new features to Quirrel (e.g. if/else, undefined set)\n◦ Added functions and operators to Quirrel standard library\n◦ Added query optimisations\n◦ Made algorithm for closing truncated JSON\n◦ Wrote initial integration tests and scripts\n◦ Refactored large Scala codebase\n\n• Precog Labcoat 2.0\n◦ Used Haxe and HTML5 for a web and desktop IDE\n◦ Wrote a JavaScript client library for the Precog REST services\n…\nsee more",
+      "date1": "Aug 2012 – Jul 2013",
+      "date2": "1 yr"
+    },
+    {
+      "title": "Java Developer",
+      "companyName": "Atlassian",
+      "location": "Sydney, Australia",
+      "description": "Atlassian creates collaboration and software development tools (e.g. JIRA, Confluence, Bamboo, Bitbucket, etc) used by companies such as Mozilla, NASA and Twitter.\n\n• Atlassian OnDemand team\n◦ Modified installable software to better suit \"Software as a Service''\n◦ Better integrated Altassian products\n◦ Represented OnDemand's front-end during meetings and forums\n◦ Launched October 2011, now rebranded as \"Atlassian Cloud\" with over 13k customers\n\n• Wrote Java, Scala, JavaScript and Python to solve problems\n• Presented concurrency classes to other developers\n• Blogged internally and externally\n• Worked on \"20% projects'' based on customer feedback\n• Won the performance prize for the internal \"Ship It'' competition\n…\nsee more",
+      "date1": "Feb 2011 – Aug 2012",
+      "date2": "1 yr 7 mos"
+    },
+    {
+      "title": "Partner",
+      "companyName": "Johnny Apple",
+      "description": "Small graphic design and consultancy business I ran with my partner.\n\n• Helped run a graphic design business, creating websites and brochures\n• Contracted programming skills to other design agencies",
+      "date1": "May 2009 – Aug 2012",
+      "date2": "3 yrs 4 mos"
+    },
+    {
+      "title": "Web Developer",
+      "companyName": "Enso - Creative Communications Agency",
+      "description": "Enso is a creative advertising and marketing agency working on projects from large international companies.\n\n• Filled in as Technical Director, December 2009 until September 2010\n• Helped work on solutions for companies such as Baxter, Panbio, CUNA Mutual Group, Queensland University of Technology and Clayton Utz\n• Co-developed a SaaS email marketing web application\n\n• Put in charge of developing many projects:\n• Virtualised and administrated a group of web servers\n• Automated a continuous project which required manual work\n• Reported and decided on potential technology\n\n• Talked to clients directly and gathered requirements\n• Contributed to open-source projects as part of job\n…\nsee more",
+      "date1": "Jan 2008 – Dec 2010",
+      "date2": "3 yrs"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Queensland University of Technology",
+      "degree": "Bachelor",
+      "fieldofstudy": "Information Technology",
+      "date1": "2008",
+      "date2": "2010"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Idris",
+      "count": "6"
+    },
+    {
+      "title": "Haskell",
+      "count": "14"
+    },
+    {
+      "title": "Agda",
+      "count": "5"
+    },
+    {
+      "title": "Scala",
+      "count": "19"
+    },
+    {
+      "title": "Git",
+      "count": "22"
+    },
+    {
+      "title": "JavaScript",
+      "count": "18"
+    },
+    {
+      "title": "Java",
+      "count": "13"
+    },
+    {
+      "title": "Python",
+      "count": "9"
+    },
+    {
+      "title": "CSS",
+      "count": "3"
+    },
+    {
+      "title": "jQuery",
+      "count": "3"
+    },
+    {
+      "title": "Linux",
+      "count": "7"
+    },
+    {
+      "title": "HTML",
+      "count": "3"
+    },
+    {
+      "title": "HTML 5",
+      "count": "2"
+    },
+    {
+      "title": "HTML5"
+    },
+    {
+      "title": "Emacs",
+      "count": "6"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "1",
+      "items": [
+        "Roy: A Statically Typed, Functional Language for JavaScript"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/hariharan-rajendran/",
+      "text": "Senior Developer at Atlassian"
+    },
+    {
+      "user": "https://www.linkedin.com/in/justin-koke-7b00481/",
+      "text": "Development Manager at Atlassian"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nadiam84/",
+      "text": "Senior Developer at Atlassian"
+    },
+    {
+      "user": "https://www.linkedin.com/in/obweger/",
+      "text": "Engineering Manager @ Atlassian"
+    },
+    {
+      "user": "https://www.linkedin.com/in/robbieg8s/",
+      "text": "Lead Principal Developer at Atlassian"
+    },
+    {
+      "user": "https://www.linkedin.com/in/williamon/",
+      "text": "Co-Founder / Joint CEO at Shippit"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jaisanth/",
+      "text": "Senior Software Engineer at Microsoft"
+    },
+    {
+      "user": "https://www.linkedin.com/in/hashprks/",
+      "text": "Master of Science - MS at Carnegie Mellon University Looking for Summer 2020 Internships"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sudhir-gopinath-8613a09/",
+      "text": "Senior Engineering Manager at Atlassian"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kumaramit01/",
+      "text": "Software Engineer at Pandora"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Brian McKenna",
+    "headline": "Functional programmer",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQEbnZb-duCHxw/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=Fz-IEeq8YJl2-bn5SuTqpH20XEDKY-hIl42N2yPuRRs",
+    "location": "Launceston, Australia",
+    "connections": "500+",
+    "summary": "Functional programming, Haskell, PureScript, Idris, Agda"
+  }
+}

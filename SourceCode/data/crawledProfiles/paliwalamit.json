@@ -1,0 +1,401 @@
+{
+  "profileAlternative": {
+    "name": "Amit Paliwal",
+    "headline": "Project Lead | Software Engineer | Machine Learning Enthusiast",
+    "location": "Cupertino, California",
+    "connections": "486",
+    "summary": "Skilled technology professional with 10+ years of experience in architecture, design and development of different products like TV Set-Top Box (STB), Mobile Devices, POS, WiMax.\n... see more"
+  },
+  "aboutAlternative": {
+    "text": "Skilled technology professional with 10+ years of experience in architecture, design and development of different products like TV Set-Top Box (STB), Mobile Devices, POS, WiMax.\n... see more"
+  },
+  "positions": [
+    {
+      "title": "Senior Software Engineer",
+      "companyName": "Google (via eTouch Computer Systems)",
+      "location": "Mountain View, California",
+      "date1": "Jun 2015 – Present",
+      "date2": "4 yrs 6 mos"
+    },
+    {
+      "title": "Lead Software Engineer",
+      "companyName": "Anritsu",
+      "location": "Morgan Hills, California",
+      "date1": "Jan 2015 – May 2015",
+      "date2": "5 mos"
+    },
+    {
+      "title": "Technical Lead",
+      "companyName": "Concurrent Computer Corporation",
+      "date1": "Oct 2014 – Jan 2015",
+      "date2": "4 mos"
+    },
+    {
+      "title": "Project Lead (Via L&T Infotech Ltd.)",
+      "companyName": "Cisco",
+      "location": "Greater Atlanta Area",
+      "description": "- Led team of skilled software engineers for the design, development and deployment of different features for Cisco's set-top box division such as DVR(Digital Video Recording), RDVR(Remote Digital Video recording), MRDVR(Multi-room Digital Video Recording), VOD(Video on Demand) etc.\n\n- Coordinated and worked with geographically distributed Teams.\n\n- Mentored software engineers.\n\n- Worked closely with third party service providers for the effective integration and deployment of RDVR for end users. Resolved all integration issues before market launch.\n\n- Proposed and prototyped development of in-house server for RDVR, that later became a successful project resulting into more revenues and complete end-to-end solution for providing RDVR.\n…\nsee more",
+      "date1": "Aug 2010 – Sep 2014",
+      "date2": "4 yrs 2 mos"
+    },
+    {
+      "title": "L&T Infotech",
+      "description": "- Design and development of NISU (Network Interface Switching Unit), Interprocess communication mechanism and command line interface for Posdata.\n\n- Mentored junior engineers for effective code development and trained them in WiMAx 802.16e Standard domain.\n\n- Requirement gathering, Design and Development of CPMM and Message sniffer.\n\n- Design and Development of different encode/decode, multiple call flows scenario for CPMM.\n\n- Product integration at Client side for NISU and Message Sniffer involving onsite testing, bug fixing and demo to Client​.\n…\nsee more",
+      "date1": "Jul 2008 – Jul 2011",
+      "date2": "3 yrs 1 mo",
+      "roles": [
+        {
+          "title": "Senior Software Engineer",
+          "date1": "Jul 2008 – Jul 2011",
+          "date2": "3 yrs 1 mo"
+        },
+        {
+          "title": "Software Engineer",
+          "date1": "Apr 2005 – Jun 2008",
+          "date2": "3 yrs 3 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSenior Software Engineer",
+      "description": "- Design and development of NISU (Network Interface Switching Unit), Interprocess communication mechanism and command line interface for Posdata.\n\n- Mentored junior engineers for effective code development and trained them in WiMAx 802.16e Standard domain.\n\n- Requirement gathering, Design and Development of CPMM and Message sniffer.\n\n- Design and Development of different encode/decode, multiple call flows scenario for CPMM.\n\n- Product integration at Client side for NISU and Message Sniffer involving onsite testing, bug fixing and demo to Client​.\n…\nsee more",
+      "date1": "Jul 2008 – Jul 2011",
+      "date2": "3 yrs 1 mo",
+      "roles": [
+        {
+          "title": "Senior Software Engineer",
+          "date1": "Jul 2008 – Jul 2011",
+          "date2": "3 yrs 1 mo"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSoftware Engineer",
+      "date1": "Apr 2005 – Jun 2008",
+      "date2": "3 yrs 3 mos",
+      "roles": [
+        {
+          "title": "Software Engineer",
+          "date1": "Apr 2005 – Jun 2008",
+          "date2": "3 yrs 3 mos"
+        }
+      ]
+    }
+  ],
+  "educations": [
+    {
+      "title": "Georgia Institute of Technology",
+      "degree": "Master's degree",
+      "fieldofstudy": "Computer Science (Specialization in Machine Learning)",
+      "date1": "2017",
+      "date2": "2019"
+    },
+    {
+      "title": "Rajiv Gandhi Prodyogiki Vishwavidyalaya",
+      "degree": "Bachelor's degree",
+      "fieldofstudy": "Computer Science",
+      "date1": "2000",
+      "date2": "2004"
+    }
+  ],
+  "skills": [
+    {
+      "title": "C++",
+      "count": "15"
+    },
+    {
+      "title": "Software Development",
+      "count": "35"
+    },
+    {
+      "title": "Design Patterns",
+      "count": "18"
+    },
+    {
+      "title": "Object Oriented Design",
+      "count": "11"
+    },
+    {
+      "title": "Agile Methodologies",
+      "count": "13"
+    },
+    {
+      "title": "Requirements Analysis",
+      "count": "12"
+    },
+    {
+      "title": "Scrum",
+      "count": "11"
+    },
+    {
+      "title": "OOP",
+      "count": "6"
+    },
+    {
+      "title": "Architecture",
+      "count": "4"
+    },
+    {
+      "title": "Architectures",
+      "count": "2"
+    },
+    {
+      "title": "SDLC",
+      "count": "3"
+    },
+    {
+      "title": "Mobile Applications",
+      "count": "2"
+    },
+    {
+      "title": "Algorithms",
+      "count": "3"
+    },
+    {
+      "title": "Test Driven Development",
+      "count": "1"
+    },
+    {
+      "title": "Data Analysis",
+      "count": "15"
+    },
+    {
+      "title": "Data Visualization",
+      "count": "15"
+    },
+    {
+      "title": "Multithreading",
+      "count": "3"
+    },
+    {
+      "title": "Debugging",
+      "count": "2"
+    },
+    {
+      "title": "Machine Learning",
+      "count": "59"
+    },
+    {
+      "title": "test automation"
+    },
+    {
+      "title": "Linux",
+      "count": "22"
+    },
+    {
+      "title": "C",
+      "count": "22"
+    },
+    {
+      "title": "Embedded Software",
+      "count": "9"
+    },
+    {
+      "title": "C#",
+      "count": "6"
+    },
+    {
+      "title": "SQL",
+      "count": "4"
+    },
+    {
+      "title": "R",
+      "count": "13"
+    },
+    {
+      "title": "Git",
+      "count": "2"
+    },
+    {
+      "title": "Representational State Transfer (REST)"
+    },
+    {
+      "title": "Python",
+      "count": "46"
+    },
+    {
+      "title": "Operating Systems",
+      "count": "3"
+    },
+    {
+      "title": "sql"
+    },
+    {
+      "title": "gRPC"
+    },
+    {
+      "title": "gRpc"
+    },
+    {
+      "title": "Pandas (Software)",
+      "count": "6"
+    },
+    {
+      "title": "Technical Leadership",
+      "count": "2"
+    },
+    {
+      "title": "DVR",
+      "count": "5"
+    },
+    {
+      "title": "OOAD",
+      "count": "2"
+    },
+    {
+      "title": "Exploratory Data Analysis",
+      "count": "5"
+    },
+    {
+      "title": "Go"
+    },
+    {
+      "title": "Multithreaded Development",
+      "count": "2"
+    },
+    {
+      "title": "Distributed File System (DFS)",
+      "count": "3"
+    },
+    {
+      "title": "Inter-process Communication",
+      "count": "1"
+    },
+    {
+      "title": "Software Architecture"
+    },
+    {
+      "title": "Reinforcement Learning",
+      "count": "12"
+    },
+    {
+      "title": "Scikit-Learn",
+      "count": "1"
+    },
+    {
+      "title": "NumPy",
+      "count": "5"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "5",
+    "receivedCount": "12",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/bhabani-nayak/",
+        "text": "Amit has a great attention to details and a very good understanding of object oriented design, C, C++. He models the real world problem with the appropriate design pattern. In addition to his excellent technical skills, he is a great team player. I wish him success in future."
+      },
+      {
+        "user": "https://www.linkedin.com/in/russelltlewis/",
+        "text": "Amit has an eye for good software, can embrace new tools and process, and can clearly communicate his designs to others. He is a great contributor to any team. Working with Amit on several projects has always been a pleasure."
+      },
+      {
+        "user": "https://www.linkedin.com/in/pradeep-kumar-reddy-abbavaram-4b320354/",
+        "text": "I have worked with Amit on different modules in Cisco's Products. I found Amit to be very sincere, focused and thoughtful Professional. He has good understanding and experience of Object Oriented Design and C++. He successfully handled responsibilities of interacting with Architects and converting Architecture into good design and implementation. He also lead Team Members under him. He is a committed Professional, and I saw that he is keen to learn new things. I wish him good luck and would like to work with him again.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/raghvendra-singh-1b0b3010/",
+        "text": "..I worked with Amit in Posdata ODC. Very focused and hardworking towards his goal. He is very good team player and no doubts about his leadership skills. I strongly recommend him for leadership position. The best thing about Amit is he knows, how to get it done. I also endorse his technical and domain expertise. Would like to work with him in future if possible :) Wish him good luck.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/drpetecarlson/",
+        "text": "Amit turns complex requirements into code really quickly and keeps track of the issues effortlessly. It is great to work with him. This reference is being made by me in a personal capacity. It is not intended and should not be construed as a reference from Cisco Systems, Inc. or any of its affiliated entities."
+      },
+      {
+        "user": "https://www.linkedin.com/in/priti-sigtia/",
+        "text": "I have worked with Amit together on a couple of Projects in L&T Infotech. I found Amit to be extremely hard working and focused on his goals. He has managed to achieve the target in front of difficult timelines and a Korean client :).As a colleague, he is very supportive of the entire team and has good team spirit.I would surely like to work with him again.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/minh-tu/",
+        "text": "I worked with Amit on the Multi-room DVR feature for the 8600 series settop box. He is a fast learner about the existing DVR feature, UPnP, DLNA and Rovi software stack. He can be counted on to implement quality software in a short amount of time. He is also a great team player."
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/bhabani-nayak/",
+        "text": "I worked with Bhabani in same Team in L&T Infotech Mumbai Center. While working together I found Bhabani to be extremely focused, dedicated and hardworking Person. He has good C/C++/OOAD skills. He carried clear understanding of the whole Architecture and he was always able to deliver his modules on time with good Quality code. I wish him all the best and really hope to work with him again."
+      },
+      {
+        "user": "https://www.linkedin.com/in/raghvendra-singh-1b0b3010/",
+        "text": "I worked directly with Raghvendra in Posdata ODC, and I was amazed to see sheer positive energy, zeal and enthusiasm he carries towards his goals. We were among the people who started Posdata ODC, and I must say that Raghvendra's zeal to learn as much as possible about WiMax made him an important contributor towards the success of the ODC. Raghvendra has great knowledge about Java and related technologies, and his passion for Java keeps him updated and focused. I wish him good luck in all future endeavors."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "5",
+      "items": [
+        "Data Visualization and Analytics",
+        "Introduction to Operating Systems",
+        "Knowledge Based Artificial Intelligence",
+        "Machine Learning",
+        "Machine Learning For Trading"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "Cloud DVR",
+        "Arris VOD (Video-On-Demand) Subsystem",
+        "Remote DVR Subsystem"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "Individual Performance Award For Valuable Contribution",
+        "Individual Performance Award - Client Location"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/prestononeal/",
+      "text": "Software Engineer at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/andy-meyers-8901612/",
+      "text": "Full Stack Software Engineer, CS Masters Student"
+    },
+    {
+      "user": "https://www.linkedin.com/in/joe-cassiere/",
+      "text": "Software Developer at Watsco Ventures"
+    },
+    {
+      "user": "https://www.linkedin.com/in/michaeldilks/",
+      "text": "Senior Software Developer at Miles Technologies"
+    },
+    {
+      "user": "https://www.linkedin.com/in/lrudolph1/",
+      "text": "Software Engineer at Yelp"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kkoehncke/",
+      "text": "Machine Learning Engineer at UiPath"
+    },
+    {
+      "user": "https://www.linkedin.com/in/maximilian-roquemore/",
+      "text": "Software Engineer at Google | MS Machine Learning"
+    },
+    {
+      "user": "https://www.linkedin.com/in/stuart-colianni-5209bb79/",
+      "text": "Georgia Tech MS CS in Machine Learning"
+    },
+    {
+      "user": "https://www.linkedin.com/in/berkay-aytac/",
+      "text": "MS, Electrical Engineering at University of Southern California MS, Computer Science at Georgia Institute of Technology"
+    },
+    {
+      "user": "https://www.linkedin.com/in/hemant-kurmi/",
+      "text": "SDE II | Full Stack Java Developer | Machine Learning"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Amit Paliwal",
+    "headline": "Project Lead | Software Engineer | Machine Learning Enthusiast",
+    "location": "Cupertino, California",
+    "connections": "486",
+    "summary": "Skilled technology professional with 10+ years of experience in architecture, design and development of different products like TV Set-Top Box (STB), Mobile Devices, POS, WiMax.\n... see more"
+  }
+}

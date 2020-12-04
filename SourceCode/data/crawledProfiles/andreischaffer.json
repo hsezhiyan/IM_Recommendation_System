@@ -1,0 +1,268 @@
+{
+  "profileAlternative": {
+    "name": "Andrei Schaffer, Ph.D.",
+    "headline": "Senior Software Engineer, Graph Analytics at NVIDIA",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQEpPAcqngSQJw/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=sx3BRg8dHqW9vEfSSMKuPxFM2N96Gcx1KRkEUyq4jBw",
+    "location": "Austin, Texas",
+    "connections": "441",
+    "summary": "Computational Mechanics and Software engineer with experience in sequential and parallel numerical methods and multibody systems. Concrete exposure to and development of applications in linear algebra, graph theory, differential-algebraic equations, optimization, nonlinear solvers (emphasis on global convergence), multibody dynamics simulation, computer graphics and statistical learning tools.\n\nLong-time C++ programmer with advanced knowledge of Object Oriented Design, generic programming, design patterns, template metaprogramming, including C++11/14/17.\nGPU developer with experience in Thrust / CUDA / Cusp. Parallel programming experience with multithreading and distributed systems: MPI / MPP (ParAccel).\n\nScript programming in Tcl/Tk, Python. Haskell enthusiast.\n\nPublications:\n\"Stability of the Adjoint Differential-Algebraic Equation of the Index-3 Multibody System Equation of Motion\", SIAM J. Sci. Comput., vol. 26 (4), 2005.\n\n\"Stabilized Index-1 Differential-Algebraic Formulations for Sensitivity Analysis of Multibody Dynamics\", J. Multibody Dynamics, vol. 220 (K3), 2006.\n\nPh.D. Dissertation: “ON THE ADJOINT FORMULATION OF DESIGN SENSITIVITY ANALYSIS OF MULTIBODY DYNAMICS”\n\nBook: \"On the Adjoint Formulation of Design Sensitivity Analysis of Multibody Dynamics: The Piecewise Adjoint Method for Design Sensitivity Analysis (DSA) of Non-centroidal Multibody Dynamics with Euler Parameters for Orientation\", VDM Verlag, 2008.\n\nSpecialties: Computational Mechanics Engineer, C++ programming, GPU programming, Haskell programming, Sequential and parallel numerical methods, computer graphics, risk analytics.\n\nUS Citizenship."
+  },
+  "aboutAlternative": {
+    "text": "Computational Mechanics and Software engineer with experience in sequential and parallel numerical methods and multibody systems. Concrete exposure to and development of applications in linear algebra, graph theory, differential-algebraic equations, optimization, nonlinear solvers (emphasis on global convergence), multibody dynamics simulation, computer graphics and statistical learning tools.\n\nLong-time C++ programmer with advanced knowledge of Object Oriented Design, generic programming, design patterns, template metaprogramming, including C++11/14/17.\nGPU developer with experience in Thrust / CUDA / Cusp. Parallel programming experience with multithreading and distributed systems: MPI / MPP (ParAccel).\n\nScript programming in Tcl/Tk, Python. Haskell enthusiast.\n\nPublications:\n\"Stability of the Adjoint Differential-Algebraic Equation of the Index-3 Multibody System Equation of Motion\", SIAM J. Sci. Comput., vol. 26 (4), 2005.\n\n\"Stabilized Index-1 Differential-Algebraic Formulations for Sensitivity Analysis of Multibody Dynamics\", J. Multibody Dynamics, vol. 220 (K3), 2006.\n\nPh.D. Dissertation: “ON THE ADJOINT FORMULATION OF DESIGN SENSITIVITY ANALYSIS OF MULTIBODY DYNAMICS”\n\nBook: \"On the Adjoint Formulation of Design Sensitivity Analysis of Multibody Dynamics: The Piecewise Adjoint Method for Design Sensitivity Analysis (DSA) of Non-centroidal Multibody Dynamics with Euler Parameters for Orientation\", VDM Verlag, 2008.\n\nSpecialties: Computational Mechanics Engineer, C++ programming, GPU programming, Haskell programming, Sequential and parallel numerical methods, computer graphics, risk analytics.\n\nUS Citizenship."
+  },
+  "positions": [
+    {
+      "title": "Senior Software Engineer, Graph Analytics",
+      "companyName": "NVIDIA",
+      "location": "Austin, Texas Area",
+      "description": "AI Infrastructure and Graph Analytics.",
+      "date1": "Mar 2018 – Present",
+      "date2": "1 yr 9 mos"
+    },
+    {
+      "title": "Principal Software Engineer",
+      "companyName": "Aristocrat",
+      "location": "Austin, TX",
+      "description": "Game simulation on the GPU.",
+      "date1": "Oct 2017 – Mar 2018",
+      "date2": "6 mos"
+    },
+    {
+      "title": "Senior Software Engineer, CUDA Libraries, AmgX Team Lead.",
+      "companyName": "NVIDIA",
+      "description": "Multigrid solvers. Graph analytics on the GPU.",
+      "date1": "Feb 2015 – Oct 2017",
+      "date2": "2 yrs 9 mos"
+    },
+    {
+      "title": "Data Science Software Developer",
+      "companyName": "Actian Corporation",
+      "location": "Austin, TX",
+      "description": "Machine learning algorithms for data science.",
+      "date1": "Apr 2014 – Jan 2015",
+      "date2": "10 mos"
+    },
+    {
+      "title": "C++ Sr. Software Developer",
+      "companyName": "Bloomberg LP",
+      "location": "New York, NY",
+      "description": "Portfolio & Risk Analytics.",
+      "date1": "Sep 2010 – Apr 2014",
+      "date2": "3 yrs 8 mos"
+    },
+    {
+      "title": "Computational Mechanics Engineer / Software Developer",
+      "companyName": "MSC Software",
+      "description": "Designed and implemented HASTIFF SI1/SI2 DAE integration method in MSC Adams.\n\nDesigned and implemented Newton and Tensor Krylov and Optimization methods for Static Equilibrium in MSC Adams.\n\nResearching efficiency improvements of MSC Adams linear solvers through NVIDIA GPU parallel development (CUDA / Cublas).\n…\nsee more",
+      "date1": "2005 – Sep 2010",
+      "date2": "5 yrs"
+    },
+    {
+      "title": "Mechanical Engineer / Software Developer",
+      "companyName": "Gamma Technologies, LLC",
+      "description": "Implemented DiRect based global optimizer and 2D Savitzky-Golay filter in F90.",
+      "date1": "Dec 2004 – Mar 2005",
+      "date2": "4 mos"
+    },
+    {
+      "title": "Graduate researcher",
+      "companyName": "National Advanced Driving Simulator",
+      "description": "Conceptualized, designed, and implemented the Parallel Piecewise Adjoint method for the Ph.D. dissertation (C++, using p-threads).\n\nDeveloped modules for vehicle dynamics simulation (VDS) code using FORTRAN.\n\nImplemented Parallel Algorithms for VDS code using OpenMP and m_fork.\n\nDesigned, developed and implemented Terrain generation with Cubic\nSpline patches using C++ and OpenGL.\n\nImplemented input parsing features for VDS using C++, lex and yacc.\n\nCreated modules for vehicle Dynamics Modeling and Simulation (DMS) software (Python).\n…\nsee more",
+      "date1": "Sep 1998 – Nov 2004",
+      "date2": "6 yrs 3 mos"
+    },
+    {
+      "title": "Graduate researcher / summer intern",
+      "companyName": "Lawrence Livermore National Laboratory",
+      "description": "Worked as a numerical methods C++ developer for the Center for Applied Scientific Computing: implemented an automatic code generation program for complex step method in SUNDIALS integration package using C++ and ROSE.",
+      "date1": "Jun 2003 – Oct 2003",
+      "date2": "5 mos"
+    },
+    {
+      "title": "Graduate Student intern",
+      "companyName": "General Motors",
+      "description": "Summer intern during summers of 1999, 2000, 2001, 2002. Worked for the Robust Engineering group. Implemented parsing features and Code Generation for DIRECT Optimization code using Tcl/Tk, C and awk.\n\nPlanned, prepared and performed implementation of tools for Robust\nEngineering, Statistical Inference and Monte Carlo simulation for a\nNastran FEM Model using iSIGHT, MiniTab and MS Excel.\n\nAdded 4-wheel steering features to ground-based Simulation Software using Visual C++.\n\nWrote, documented and presented iSIGHT code for driving structural\ndesign analysis in LS-DYNA, Hypermesh and Sofy.\n…\nsee more",
+      "date1": "1999 – 2002",
+      "date2": "3 yrs"
+    }
+  ],
+  "educations": [
+    {
+      "title": "University of Iowa",
+      "degree": "Ph.D.",
+      "fieldofstudy": "Mechanical Engineering",
+      "date1": "1998",
+      "date2": "2005"
+    },
+    {
+      "title": "University of Iowa",
+      "degree": "Master",
+      "fieldofstudy": "Computer Science",
+      "date1": "1998",
+      "date2": "2003"
+    },
+    {
+      "title": "Universitatea „Politehnica” din București",
+      "degree": "Aeronautical Engineer",
+      "fieldofstudy": "Avionics",
+      "date1": "1987",
+      "date2": "1992"
+    }
+  ],
+  "skills": [
+    {
+      "title": "C++",
+      "count": "29"
+    },
+    {
+      "title": "Numerical Analysis",
+      "count": "24"
+    },
+    {
+      "title": "Matlab",
+      "count": "17"
+    },
+    {
+      "title": "Programming",
+      "count": "11"
+    },
+    {
+      "title": "Simulations",
+      "count": "11"
+    },
+    {
+      "title": "Computer Graphics",
+      "count": "10"
+    },
+    {
+      "title": "Optimization",
+      "count": "7"
+    },
+    {
+      "title": "Object Oriented Design",
+      "count": "7"
+    },
+    {
+      "title": "Software Development",
+      "count": "5"
+    },
+    {
+      "title": "Software Engineering",
+      "count": "4"
+    },
+    {
+      "title": "Modeling",
+      "count": "3"
+    },
+    {
+      "title": "Algorithms",
+      "count": "2"
+    },
+    {
+      "title": "Python",
+      "count": "14"
+    },
+    {
+      "title": "Linux",
+      "count": "9"
+    },
+    {
+      "title": "Scientific Computing",
+      "count": "7"
+    },
+    {
+      "title": "Risk Analytics",
+      "count": "3"
+    },
+    {
+      "title": "Multibody Dynamics",
+      "count": "2"
+    },
+    {
+      "title": "Parallel Computing",
+      "count": "2"
+    },
+    {
+      "title": "Haskell",
+      "count": "1"
+    },
+    {
+      "title": "Functional Programming",
+      "count": "1"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "2",
+    "receivedCount": "0",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/tom-p/",
+        "text": "Tom has strong mathematical and analytical skills. He also shows very good leadership and organizational talent. Any student would be lucky to have him as a teacher / professor."
+      },
+      {
+        "user": "https://www.linkedin.com/in/velimir-radanovic-77bb3119/",
+        "text": "I've worked with Velimir within a very time-sensitive and complex project for delivering data analytics to a fast distributed DB environment. His support and guidance were of crucial importance for meeting deadlines. His comprehensive knowledge about parallel programming paradigms, especially within a distributed Big Data Analytics framework, make him a very powerful senior software developer.\n…\nSee more"
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "1",
+      "items": [
+        "Romanian"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/david-goldberg-20048412/",
+      "text": "Senior Software Engineer at National Instruments"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jamie-shults-845593b2/",
+      "text": "Senior Electrical Engineer at Kinze Manufacturing, Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/alisa-marzilli/",
+      "text": "Sr. Software Engineer at Zilliant"
+    },
+    {
+      "user": "https://www.linkedin.com/in/richard-bondi-a6955839/",
+      "text": "Independent Software Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mahesha-shivanna-b099099/",
+      "text": "Staff Software Engineer at Visa"
+    },
+    {
+      "user": "https://www.linkedin.com/in/brian-mumm-5528843/",
+      "text": "Lead Software Engineer at Rooster Teeth"
+    },
+    {
+      "user": "https://www.linkedin.com/in/pdonton2/",
+      "text": "Information Security Officer at Texas Higher Education Coordinating Board"
+    },
+    {
+      "user": "https://www.linkedin.com/in/dsikkema/",
+      "text": "Software Engineer at HomeAway"
+    },
+    {
+      "user": "https://www.linkedin.com/in/minjoo-larry-lee-188a11/",
+      "text": "Associate Professor at University of Illinois at Urbana-Champaign"
+    },
+    {
+      "user": "https://www.linkedin.com/in/michael-nightingale-744703102/",
+      "text": "Retired at John Deere"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Andrei Schaffer, Ph.D.",
+    "headline": "Senior Software Engineer, Graph Analytics at NVIDIA",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQEpPAcqngSQJw/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=sx3BRg8dHqW9vEfSSMKuPxFM2N96Gcx1KRkEUyq4jBw",
+    "location": "Austin, Texas",
+    "connections": "441",
+    "summary": "Computational Mechanics and Software engineer with experience in sequential and parallel numerical methods and multibody systems. Concrete exposure to and development of applications in linear algebra, graph theory, differential-algebraic equations, optimization, nonlinear solvers (emphasis on global convergence), multibody dynamics simulation, computer graphics and statistical learning tools.\n\nLong-time C++ programmer with advanced knowledge of Object Oriented Design, generic programming, design patterns, template metaprogramming, including C++11/14/17.\nGPU developer with experience in Thrust / CUDA / Cusp. Parallel programming experience with multithreading and distributed systems: MPI / MPP (ParAccel).\n\nScript programming in Tcl/Tk, Python. Haskell enthusiast.\n\nPublications:\n\"Stability of the Adjoint Differential-Algebraic Equation of the Index-3 Multibody System Equation of Motion\", SIAM J. Sci. Comput., vol. 26 (4), 2005.\n\n\"Stabilized Index-1 Differential-Algebraic Formulations for Sensitivity Analysis of Multibody Dynamics\", J. Multibody Dynamics, vol. 220 (K3), 2006.\n\nPh.D. Dissertation: “ON THE ADJOINT FORMULATION OF DESIGN SENSITIVITY ANALYSIS OF MULTIBODY DYNAMICS”\n\nBook: \"On the Adjoint Formulation of Design Sensitivity Analysis of Multibody Dynamics: The Piecewise Adjoint Method for Design Sensitivity Analysis (DSA) of Non-centroidal Multibody Dynamics with Euler Parameters for Orientation\", VDM Verlag, 2008.\n\nSpecialties: Computational Mechanics Engineer, C++ programming, GPU programming, Haskell programming, Sequential and parallel numerical methods, computer graphics, risk analytics.\n\nUS Citizenship."
+  }
+}

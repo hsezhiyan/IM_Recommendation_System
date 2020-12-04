@@ -1,0 +1,247 @@
+{
+  "profileAlternative": {
+    "name": "Ziv Barak",
+    "headline": "DBA Oracle and SQL Server",
+    "location": "Israel",
+    "connections": "500+",
+    "summary": "DBA ORACLE and SQL Server. Managed Information system in the health wellness and fitness industry. Skilled in Performance Tuning, Oracle and Sql Servers Database, PL/SQL, SSIS, TFS, Quiz, HTML Scripting. Strong professional graduated from Ort Braude College as software engineer."
+  },
+  "aboutAlternative": {
+    "text": "DBA ORACLE and SQL Server. Managed Information system in the health wellness and fitness industry. Skilled in Performance Tuning, Oracle and Sql Servers Database, PL/SQL, SSIS, TFS, Quiz, HTML Scripting. Strong professional graduated from Ort Braude College as software engineer."
+  },
+  "positions": [
+    {
+      "title": "DBA Oracle and SQL Server",
+      "companyName": "Isreal Police",
+      "location": "Jerusale",
+      "description": "Programming and maintaining structured processes, triggers, functions, Stored Procedure, indexes, views, etc. with PL / SQL.\n• Tuning and Performance for continuous improvement of system code Oracle ans SQL Server.\n• Working with TSF\n• Working with rdl's ans SSL.\n• Accompanying the process of assimilating new systems according to the company's requirements.\n* Creating optimize queries to get maximum perfotmance.",
+      "date1": "May 2018 – Present",
+      "date2": "1 yr 7 mos"
+    },
+    {
+      "title": "Oracle DBA",
+      "companyName": "SintecMedia",
+      "location": "Jerusalem Area, Israel",
+      "description": "• Programming and maintaining structured processes, triggers, functions, Stored Procedure,\nindexes, views, etc. with PL / SQL.\n• Tuning and Performance for continuous improvement of system code.\n• Create scripts using PL / SQL, Jobs, Shell, Keshel, Batch, HTML in order to create efficient\nprocesses And automatic to improve system performance.\n• Working with JIRA\n• Create automatic process which get the data from Excel file and insert it to specific tables in the\ndatabase using PL / SQL and HTML.\n• Accompanying the process of assimilating new systems according to the company's requirements. Build ERD\n…\nsee more",
+      "date1": "Mar 2016 – May 2018",
+      "date2": "2 yrs 3 mos"
+    },
+    {
+      "title": "Chief Information in Sunrider Israel",
+      "companyName": "Sunrider International",
+      "location": "Israel",
+      "description": "I was responsible for:\n1. Company's information systems in Israel, Turkey and Russia.\n2. Characterization and design of the system.\n3. Continuous improvement of the screens and reports in the existing systems.\n4. Providing a solution to technological problems.\n4. Development scripts in unix and pl/sql in order to improve exising automated processes.\n5. Development of automated processes to replace manual processes.\n6. Management IT staff.\n7. Working with method Scrum/Agile.\n8. Development of processes in the language of PL/SQL.\n9. Development in cognos language .\n10. Generating reports in excel from Unix using PL/SQL and HTML.\n…\nsee more",
+      "date1": "Dec 2012 – Mar 2016",
+      "date2": "3 yrs 4 mos"
+    },
+    {
+      "title": "Amdocs",
+      "location": "Israel, Ranana",
+      "description": "1. APEX, (DBHTML), development using PL/SQL and HTML\n2. Generating reports and creating automated processes using PL/SQL and HTML\n3. Improving PL / SQL code of the processes in the system.\n4. Write procedures, Views, Triggers etc.\n5. Design and characterization of data structure.\n6. Responsible for servers, reading logs, construction and maintenance of the schemes, backups,\ncreating instances, users, user permissions etc.\n7. Working with JIRA.\n…\nsee more",
+      "date1": "Sep 2008 – Dec 2012",
+      "date2": "4 yrs 4 mos",
+      "roles": [
+        {
+          "title": "Applicative and Infrastructure Oracle DBA",
+          "date1": "Sep 2008 – Dec 2012",
+          "date2": "4 yrs 4 mos",
+          "location": "Israel, Ranana"
+        },
+        {
+          "title": "Java Developer",
+          "date1": "Jun 2006 – Sep 2008",
+          "date2": "2 yrs 4 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nApplicative and Infrastructure Oracle DBA",
+      "location": "Israel, Ranana",
+      "description": "1. APEX, (DBHTML), development using PL/SQL and HTML\n2. Generating reports and creating automated processes using PL/SQL and HTML\n3. Improving PL / SQL code of the processes in the system.\n4. Write procedures, Views, Triggers etc.\n5. Design and characterization of data structure.\n6. Responsible for servers, reading logs, construction and maintenance of the schemes, backups,\ncreating instances, users, user permissions etc.\n7. Working with JIRA.\n…\nsee more",
+      "date1": "Sep 2008 – Dec 2012",
+      "date2": "4 yrs 4 mos",
+      "roles": [
+        {
+          "title": "Applicative and Infrastructure Oracle DBA",
+          "date1": "Sep 2008 – Dec 2012",
+          "date2": "4 yrs 4 mos",
+          "location": "Israel, Ranana"
+        }
+      ]
+    },
+    {
+      "title": "Title\nJava Developer",
+      "description": "Development screens in Java\nDevelopment prototype with HTML\nReads logs and find bugs\nQA - Create tests to check code\nSQL - create query in PL/SQL\n…\nsee more",
+      "date1": "Jun 2006 – Sep 2008",
+      "date2": "2 yrs 4 mos",
+      "roles": [
+        {
+          "title": "Java Developer",
+          "date1": "Jun 2006 – Sep 2008",
+          "date2": "2 yrs 4 mos"
+        }
+      ]
+    },
+    {
+      "title": "Helpdesk and System memeber in bank Igud.",
+      "companyName": "Taldor",
+      "location": "Israel - Petach Tikva",
+      "description": "1. Bank workers support.\n2. Maintenance of the bank systems, computers, networks and printers.\n3. Management and analysis SLA reports of Helpdesk/system team.\n4. Work independently, providing quick response, courteous and professional.",
+      "date1": "Jul 2004 – Jun 2006",
+      "date2": "2 yrs"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Ort Braude College",
+      "degree": "Progranning Engineer",
+      "date1": "2000",
+      "date2": "2004"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Infrastructure Management"
+    },
+    {
+      "title": "SQL",
+      "count": "2"
+    },
+    {
+      "title": "Oracle PL/SQL Development"
+    },
+    {
+      "title": "Systems Analysis"
+    },
+    {
+      "title": "Performance Tuning"
+    },
+    {
+      "title": "Oracle",
+      "count": "1"
+    },
+    {
+      "title": "Cognos"
+    },
+    {
+      "title": "PL/SQL",
+      "count": "1"
+    },
+    {
+      "title": "Linux"
+    },
+    {
+      "title": "Java"
+    },
+    {
+      "title": "JavaScript"
+    },
+    {
+      "title": "Microsoft Office"
+    },
+    {
+      "title": "Microsoft SQL Server"
+    },
+    {
+      "title": "SQL Server Reporting Services (SSRS)"
+    },
+    {
+      "title": "SQL Server Integration Services (SSIS)"
+    },
+    {
+      "title": "SQL Server Management Studio"
+    },
+    {
+      "title": "Project Managers"
+    },
+    {
+      "title": "Apex Programming"
+    },
+    {
+      "title": "dbhtml"
+    },
+    {
+      "title": "Unix Shell Scripting"
+    },
+    {
+      "title": "Issues Managment"
+    },
+    {
+      "title": "Powerhouse"
+    },
+    {
+      "title": "Quiz"
+    },
+    {
+      "title": "HTML scripting"
+    },
+    {
+      "title": "Sql Tuning"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "2",
+      "items": [
+        "English",
+        "עברית"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/haim-nissim-859b7940/",
+      "text": "QA Engineer at Mobileye"
+    },
+    {
+      "user": "https://www.linkedin.com/in/adir-ayalo-05b3b618a/",
+      "text": "Seeking QA Position"
+    },
+    {
+      "user": "https://www.linkedin.com/in/irit-bach-70b0601/",
+      "text": "Managerial and HR consultant"
+    },
+    {
+      "user": "https://www.linkedin.com/in/moshe-mangoli-3131a8111/",
+      "text": "DevOps Engineer at NCR Corporation"
+    },
+    {
+      "user": "https://www.linkedin.com/in/noa-gross-01699840/",
+      "text": "VP Sales at Quatro"
+    },
+    {
+      "user": "https://www.linkedin.com/in/oleg-tzurikov/",
+      "text": "Frontend Web Developer at Moonshot Marketing LTD"
+    },
+    {
+      "user": "https://www.linkedin.com/in/daniel-cohen-45271b18b/",
+      "text": "Graduate BSC Computer Science at Sapir College ⭐ Looking for my next challenge⭐"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ariel-bikman-740bbb48/",
+      "text": "Founder and CEO at YouTest"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shlomi-sarid-a07b9610a/",
+      "text": "Chief Risk Officer (CRO) at Transigo"
+    },
+    {
+      "user": "https://www.linkedin.com/in/inbal-vardi-2b54b7179/",
+      "text": "Account Executive at TravelSuit - WE ARE HIRING :)"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Ziv Barak",
+    "headline": "DBA Oracle and SQL Server",
+    "location": "Israel",
+    "connections": "500+",
+    "summary": "DBA ORACLE and SQL Server. Managed Information system in the health wellness and fitness industry. Skilled in Performance Tuning, Oracle and Sql Servers Database, PL/SQL, SSIS, TFS, Quiz, HTML Scripting. Strong professional graduated from Ort Braude College as software engineer."
+  }
+}

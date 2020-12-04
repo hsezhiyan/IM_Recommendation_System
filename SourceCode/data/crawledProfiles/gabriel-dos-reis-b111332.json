@@ -1,0 +1,324 @@
+{
+  "profileAlternative": {
+    "name": "Gabriel Dos Reis",
+    "headline": "Principal SDE at Microsoft",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQEERQVHPMPJrA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=1D6qSCc3JxSqX29hK58RCQ-9nxKGRYojPRR0-q83_qo",
+    "location": "Redmond, Washington",
+    "connections": "500+"
+  },
+  "aboutAlternative": {},
+  "positions": [
+    {
+      "title": "Principal SDE",
+      "companyName": "Microsoft",
+      "location": "Redmond",
+      "date1": "Sep 2013 – Present",
+      "date2": "6 yrs 3 mos"
+    },
+    {
+      "title": "C++ Expert",
+      "companyName": "ISO C++ Standards Committee",
+      "date1": "1997 – Present",
+      "date2": "22 yrs"
+    },
+    {
+      "title": "GCC contributor and Release Manager",
+      "companyName": "Free Software Foundation",
+      "date1": "1997 – Sep 2013",
+      "date2": "16 yrs"
+    },
+    {
+      "title": "Texas A&M University",
+      "date1": "Sep 2006 – Aug 2013",
+      "date2": "7 yrs",
+      "roles": [
+        {
+          "title": "Assistant Professor",
+          "date1": "Sep 2006 – Aug 2013",
+          "date2": "7 yrs"
+        },
+        {
+          "title": "Postdoctoral Research Associate",
+          "date1": "Nov 2003 – Aug 2006",
+          "date2": "2 yrs 10 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nAssistant Professor",
+      "date1": "Sep 2006 – Aug 2013",
+      "date2": "7 yrs",
+      "roles": [
+        {
+          "title": "Assistant Professor",
+          "date1": "Sep 2006 – Aug 2013",
+          "date2": "7 yrs"
+        }
+      ]
+    },
+    {
+      "title": "Title\nPostdoctoral Research Associate",
+      "date1": "Nov 2003 – Aug 2006",
+      "date2": "2 yrs 10 mos",
+      "roles": [
+        {
+          "title": "Postdoctoral Research Associate",
+          "date1": "Nov 2003 – Aug 2006",
+          "date2": "2 yrs 10 mos"
+        }
+      ]
+    },
+    {
+      "title": "Postdoctoral Research Associate",
+      "companyName": "INRIA",
+      "date1": "2002 – 2003",
+      "date2": "1 yr"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Ecole Normale Superieure de Cachan",
+      "degree": "PhD",
+      "fieldofstudy": "Mathematics"
+    }
+  ],
+  "skills": [
+    {
+      "title": "C++",
+      "count": "54"
+    },
+    {
+      "title": "Algorithms",
+      "count": "44"
+    },
+    {
+      "title": "Programming",
+      "count": "34"
+    },
+    {
+      "title": "Computer Science",
+      "count": "29"
+    },
+    {
+      "title": "Software Development",
+      "count": "16"
+    },
+    {
+      "title": "Software Engineering",
+      "count": "16"
+    },
+    {
+      "title": "Software Design",
+      "count": "6"
+    },
+    {
+      "title": "Distributed Systems",
+      "count": "5"
+    },
+    {
+      "title": "Mathematics",
+      "count": "4"
+    },
+    {
+      "title": "Mathematical Modeling",
+      "count": "4"
+    },
+    {
+      "title": "Artificial Intelligence",
+      "count": "3"
+    },
+    {
+      "title": "Simulations",
+      "count": "3"
+    },
+    {
+      "title": "Optimization",
+      "count": "3"
+    },
+    {
+      "title": "Image Processing",
+      "count": "2"
+    },
+    {
+      "title": "Numerical Analysis",
+      "count": "1"
+    },
+    {
+      "title": "Object Oriented Design",
+      "count": "1"
+    },
+    {
+      "title": "Machine Learning"
+    },
+    {
+      "title": "Agile Methodologies"
+    },
+    {
+      "title": "Research"
+    },
+    {
+      "title": "OOP"
+    },
+    {
+      "title": "Data Mining"
+    },
+    {
+      "title": "Shell Scripting"
+    },
+    {
+      "title": "C",
+      "count": "15"
+    },
+    {
+      "title": "LaTeX",
+      "count": "10"
+    },
+    {
+      "title": "Python",
+      "count": "6"
+    },
+    {
+      "title": "Linux",
+      "count": "6"
+    },
+    {
+      "title": "Unix",
+      "count": "4"
+    },
+    {
+      "title": "Perl",
+      "count": "3"
+    },
+    {
+      "title": "Bash",
+      "count": "2"
+    },
+    {
+      "title": "Java",
+      "count": "1"
+    },
+    {
+      "title": "R"
+    },
+    {
+      "title": "University Teaching",
+      "count": "3"
+    },
+    {
+      "title": "High Performance Computing",
+      "count": "9"
+    },
+    {
+      "title": "Computer Algebra",
+      "count": "6"
+    },
+    {
+      "title": "GCC",
+      "count": "4"
+    },
+    {
+      "title": "Scientific Computing",
+      "count": "4"
+    },
+    {
+      "title": "Applied Mathematics",
+      "count": "2"
+    },
+    {
+      "title": "Parallel Computing",
+      "count": "2"
+    },
+    {
+      "title": "Parallel Programming"
+    },
+    {
+      "title": "Symbolic Mathematics"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "10",
+      "items": [
+        "Safer SDN Programming through Arbiter",
+        "Open Pattern Matching for C++",
+        "Eliminating Network Protocol Vulnerabilities Through Abstraction and Systems Language Design",
+        "A System for Axiomatic Programming",
+        "A Mechanized Semantics for C++ Object Construction and Destruction, with Applications to Resource Management",
+        "A Principled, Complete, and Efficient Representation of C++",
+        "Formal Verification of Object Layout for C++ Multiple Inheritance",
+        "General Constant Expressions for System Programming Languages",
+        "Algorithmic Differentiation in Axiom",
+        "Specifying C++ Concepts"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "NSF CAREER",
+        "Sigma Xi's William Procter Grant-in-Aid for Research"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Visual C++"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/aparna-rajaraman-9859803/",
+      "text": "Principal SDE at Microsoft"
+    },
+    {
+      "user": "https://www.linkedin.com/in/chandlerc/",
+      "text": "Principal Software Engineer at Google and Open Source Software Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ryan-fairfax-21a988a5/",
+      "text": "Principal Group Software Engineering Manager at Microsoft"
+    },
+    {
+      "user": "https://www.linkedin.com/in/herb-sutter-826b436/",
+      "text": "SA at Microsoft"
+    },
+    {
+      "user": "https://www.linkedin.com/in/david-tarditi-7178a71/",
+      "text": "Principal Software Engineering Lead - Microsoft"
+    },
+    {
+      "user": "https://www.linkedin.com/in/eric-niebler-64287/",
+      "text": "Software Engineer at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/lefticus/",
+      "text": "C++ Trainer, Speaker, and Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/chetanraghavendra/",
+      "text": "Partner Software Engineer, Azure Compute at Microsoft"
+    },
+    {
+      "user": "https://www.linkedin.com/in/meema/",
+      "text": "Software Engineer and C++ Developer specializing in Getting Your Projects Moving"
+    },
+    {
+      "user": "https://www.linkedin.com/in/john-lueders-4682392/",
+      "text": "Senior Software Design Engineer at Microsoft"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Gabriel Dos Reis",
+    "headline": "Principal SDE at Microsoft",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQEERQVHPMPJrA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=1D6qSCc3JxSqX29hK58RCQ-9nxKGRYojPRR0-q83_qo",
+    "location": "Redmond, Washington",
+    "connections": "500+"
+  }
+}

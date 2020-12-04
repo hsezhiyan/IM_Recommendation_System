@@ -1,0 +1,93 @@
+{
+  "profileAlternative": {
+    "name": "soyra satve",
+    "headline": "SSRS developer and SQL developer at Bajaj Finserv",
+    "imageurl": "https://media.licdn.com/dms/image/C5103AQFmiKv0j-2kaA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=L5dVVeJ0Vs8VkxSOKLDS2txEJdFvcWSplJfjzyccXmU",
+    "location": "Pune, Maharashtra, India",
+    "connections": "1 connection"
+  },
+  "aboutAlternative": {},
+  "positions": [
+    {
+      "title": "SSRS developer and SQL developer",
+      "companyName": "Bajaj Finserv",
+      "date1": "Feb 2018 – Present",
+      "date2": "1 yr 10 mos"
+    },
+    {
+      "title": "Associate Programmer",
+      "companyName": "Maersk Global Service Centres",
+      "location": "Pune Area, India",
+      "description": "Role : Associate Programmer\n\nRobotic process automation (RPA) is the application of technology that allows employees in a company to configure computer software or a “robot” to capture and interpret existing applications for processing a transaction, manipulating data, triggering responses and communicating with other digital systems.\n\nResponsibilities:\nMonitoring Jobs and working on failures.\nTroubleshooting issue and fixing some of them permanently.\nWorking with developer team to fix bugs.\nProgramming views, stored procedures, Cursors and functions.\n\nApplications used in Automation process:\nSAP\nSQL – Database\nOrcle\nMS Excel\nInternet Explorer (Log Star Website)\n\n…\nsee more",
+      "date1": "Aug 2017 – Feb 2018",
+      "date2": "7 mos"
+    },
+    {
+      "title": "SQL Server Developer",
+      "companyName": "Innowave Technologies Ltd",
+      "location": "Pune Area, India",
+      "description": "Avante Codeworx Pvt Ltd. Comes under Innowave Technologies Ltd. Avanté Codeworx Pvt Ltd. is a rapidly growing company specializing in providing IT services and software development to Government organizations. We also excel in Web Designing and creating mobile apps for companies. Based out of Pune, we harbor a niche team of professionals with an extensive combined experience in IT field.\nOver the years Avanté has handled a variety of projects. Our versatile experience in providing consulting support to both central and state Governments and implementing e-Government projects is unparalleled.\nServices include:\n• GIS (Geographic information system)\n• Building permission process for Municipal Corporation\n• Slum Information Management System (SIMS)\n• Digitization of Citizen Services.\n• Storage Technologies\n• Systems Programming\n• Network Management\n• Application Development\n• Web Technologies and Product Development.\nResponsibilities\n• Writing queries and stored procedures used for front-end applications.\n• Designing and coding database tables to store the application’s data.\n• Working with application developers to create optimized queries.\n• Creating table variables used for stored procedures.\n• Creating table indexes to improve database performance .\n• Programming views, stored procedures, Cursors and functions.\n\n…\nsee more",
+      "date1": "Jan 2017 – Aug 2017",
+      "date2": "8 mos"
+    }
+  ],
+  "educations": [],
+  "skills": [],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/nikita-ghag-73702159/",
+      "text": "Senior Software Engineer at Larsen & Toubro Infotech Ltd (LTI) SQL server || SSIS || SSRS || SSAS"
+    },
+    {
+      "user": "https://www.linkedin.com/in/himanshi-mathur-6063642b/",
+      "text": "SSRS Developer at Allscripts"
+    },
+    {
+      "user": "https://www.linkedin.com/in/neetal-revankar-403812150/",
+      "text": "Actively Looking For New Career Opportunities"
+    },
+    {
+      "user": "https://www.linkedin.com/in/venugopal-reddy-12469425/",
+      "text": "MS SQL, SSIS, SSRS Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nidhi-sharma-4b4b74139/",
+      "text": "Recruiter"
+    },
+    {
+      "user": "https://www.linkedin.com/in/rahul-shrivastava-prince2%C2%AE-396747107/",
+      "text": "Manager PMO at BAJAJ FINSERV"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sachin-tamhane-4183a1a5/",
+      "text": "BI Developer with experience in Data Warehouse with Business Intelligence Tools - MSBI, Tableau, SQL Server."
+    },
+    {
+      "user": "https://www.linkedin.com/in/sreekanth-pv-19687a6/",
+      "text": "Product Management, Operations, RPA and Customer Experience"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sujit-gadhave-117110134/",
+      "text": "process and proposal engineer at aspecs global"
+    },
+    {
+      "user": "https://www.linkedin.com/in/avinash-verma-2486bb13/",
+      "text": "Senior Manager - Operations PMO"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "soyra satve",
+    "headline": "SSRS developer and SQL developer at Bajaj Finserv",
+    "imageurl": "https://media.licdn.com/dms/image/C5103AQFmiKv0j-2kaA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=L5dVVeJ0Vs8VkxSOKLDS2txEJdFvcWSplJfjzyccXmU",
+    "location": "Pune, Maharashtra, India",
+    "connections": "1 connection"
+  }
+}

@@ -1,0 +1,464 @@
+{
+  "profileAlternative": {
+    "name": "Treasure Porth",
+    "headline": "Front End Engineer at Lumen Learning",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQEcKNiJY5nd-A/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=yCK8yJON6svlJKZ_kDZBkUxCAIJ4S8XC1at1VmuVGBg",
+    "location": "Portland, Oregon",
+    "connections": "500+",
+    "summary": "Hey, I'm Treasure! I'm a Web Developer and JavaScript enthusiast who loves to learn new technologies and build awesome things in Vue.js and React."
+  },
+  "aboutAlternative": {
+    "text": "Hey, I'm Treasure! I'm a Web Developer and JavaScript enthusiast who loves to learn new technologies and build awesome things in Vue.js and React."
+  },
+  "positions": [
+    {
+      "title": "Front End Engineer",
+      "companyName": "Lumen Learning",
+      "location": "Portland, Oregon Area",
+      "date1": "Oct 2019 – Present",
+      "date2": "2 mos"
+    },
+    {
+      "title": "Software Engineer - Volunteer",
+      "companyName": "Code for America",
+      "description": "▸ Front end contributor for Dwellingly, a React/Redux app that helps social workers communicate with transitional housing managers\n▸ Back end contributor to POS system for Sisters of the Road Cafe built with Python/Django, including an incident log and flagging system to help track of exclusions from the cafe",
+      "date1": "Feb 2019 – Present",
+      "date2": "10 mos"
+    },
+    {
+      "title": "Treehouse",
+      "location": "Portland, OR",
+      "description": "▸ Responsible for all aspects of creating and teaching Full Stack JavaScript video courses for a popular online learning platform: build example web applications, design coding challenges and coding projects, write detailed scripts, present material on set and record in screencast\n▸ Subject matter expert in various JavaScript and front end technologies: design, build, maintain and improve modern web applications built with Vue.js, React, Node/Express, plain JavaScript, HTML/CSS, asynchronous JavaScript, Node/Express, Mongoose/MongoDB, RESTful APIs\n▸ My courses were among the most viewed and highest rated in the library, viewed by 100k+ unique students and average rating 4.8/5\n▸ Stay informed and practiced in latest trends and technologies in the JavaScript ecosystem and general web development\n\n\n\n…\nsee more",
+      "date1": "Mar 2016 – Jun 2019",
+      "date2": "3 yrs 4 mos",
+      "roles": [
+        {
+          "title": "Software Development Instructor III: Full Stack JavaScript",
+          "date1": "Mar 2016 – Jun 2019",
+          "date2": "3 yrs 4 mos"
+        },
+        {
+          "title": "Guest Web Development Instructor/Consultant",
+          "date1": "Aug 2015 – Mar 2016",
+          "date2": "8 mos",
+          "location": "Portland, OR"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSoftware Development Instructor III: Full Stack JavaScript",
+      "description": "▸ Responsible for all aspects of creating and teaching Full Stack JavaScript video courses for a popular online learning platform: build example web applications, design coding challenges and coding projects, write detailed scripts, present material on set and record in screencast\n▸ Subject matter expert in various JavaScript and front end technologies: design, build, maintain and improve modern web applications built with Vue.js, React, Node/Express, plain JavaScript, HTML/CSS, asynchronous JavaScript, Node/Express, Mongoose/MongoDB, RESTful APIs\n▸ My courses were among the most viewed and highest rated in the library, viewed by 100k+ unique students and average rating 4.8/5\n▸ Stay informed and practiced in latest trends and technologies in the JavaScript ecosystem and general web development\n\n\n\n…\nsee more",
+      "date1": "Mar 2016 – Jun 2019",
+      "date2": "3 yrs 4 mos",
+      "roles": [
+        {
+          "title": "Software Development Instructor III: Full Stack JavaScript",
+          "date1": "Mar 2016 – Jun 2019",
+          "date2": "3 yrs 4 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nGuest Web Development Instructor/Consultant",
+      "location": "Portland, OR",
+      "description": "▸ Research, script and perform engaging, easy-to-follow online video content on topics in web development: Introduction to HTML and CSS, Introducing Text Editors, Github Desktop, plus training videos on code review\n\n\n\n…\nsee more",
+      "date1": "Aug 2015 – Mar 2016",
+      "date2": "8 mos",
+      "roles": [
+        {
+          "title": "Guest Web Development Instructor/Consultant",
+          "date1": "Aug 2015 – Mar 2016",
+          "date2": "8 mos",
+          "location": "Portland, OR"
+        }
+      ]
+    },
+    {
+      "title": "Software Engineer",
+      "companyName": "Cinder Solutions",
+      "location": "Beaverton, OR",
+      "description": "• Responsible for all things front end as part of a small agile team building web-based business management software with Python/Django.\n\n• As the sole front end developer on the project, became an expert in Figuring Things Out.\n\n• Planned, designed, implemented user interface and user interface components\n\n• Angular, JavaScript/jQuery, HTML, SASS + Bootstrap, git, Django\n\n\n…\nsee more",
+      "date1": "Oct 2015 – Mar 2016",
+      "date2": "6 mos"
+    },
+    {
+      "title": "Front End Developer",
+      "companyName": "JAST Media",
+      "location": "Portland, OR",
+      "description": "• Built and maintained fully responsive websites for small and mid-sized businesses at busy digital marketing startup.\n\n• Use HTML/CSS, JavaScript/JQuery, Bootstrap, LESS, Photoshop daily.\n\n• Create dynamic custom forms, design and build reusable content page templates, delegate tasks to remote team members.\n\n• Build pixel-perfect front pages from Photoshop mockups.\n\n• Design and build out content pages.\n\n• Convert content to editable snippets using proprietary content management system.\n…\nsee more",
+      "date1": "Mar 2015 – Oct 2015",
+      "date2": "8 mos"
+    },
+    {
+      "title": "Specimen Processing Tech",
+      "companyName": "ZRT Laboratory",
+      "location": "Beaverton, OR",
+      "description": "• Quickly and accurately processed laboratory samples and client files for up to 50 patients per day.\n• Collaborated with coworkers to plan and implement company-wide recreational events for 80 employees.\n• Ordered tests, entered detailed confidential medical information into database.",
+      "date1": "Oct 2012 – Dec 2014",
+      "date2": "2 yrs 3 mos"
+    },
+    {
+      "title": "Curriculum Designer and Instructor",
+      "companyName": "Portland Community Media",
+      "location": "Portland, OR",
+      "description": "• Researched and designed a curriculum aimed at developing career and college skills through filmmaking and other multimedia projects. The curriculum was adopted by Street Level Youth Media in Chicago, IL.\n\n• Worked with a wide variety of culturally and economically diverse students to develop basic technology, multimedia and employment skills. Served homeless and disadvantaged youth, at-risk high school and middle school students, and young adults with various barriers to employment and education.\n\n• In collaboration with Outside In, tested portions of the curriculum through a media internship program with 12 homeless youth. Revised the curriculum based on research and feedback from program stakeholders.\n\n• Designed and developed relevant course materials.\n\n• Provided classroom and teaching assistance in a variety of middle and high school multimedia SUN classes.\n\n• Researched and composed grant applications\n…\nsee more",
+      "date1": "Feb 2010 – Feb 2012",
+      "date2": "2 yrs 1 mo"
+    },
+    {
+      "title": "Teaching Assistant/Peer Mentor",
+      "companyName": "Portland State University",
+      "location": "Portland, Oregon Area",
+      "description": "• Designed, planned and implemented 3 college readiness classes per term\n• Instructed and mentored 36 students per academic year to develop college success skills\n• Trained colleagues and students in PowerPoint, Excel and Photoshop\n• One-on-one and in small groups, helped students connect to campus resources, complete homework assignments and improve writing, public speaking and critical thinking skills.\n…\nsee more",
+      "date1": "Sep 2007 – Jun 2009",
+      "date2": "1 yr 10 mos"
+    },
+    {
+      "title": "Vocational Trainer",
+      "companyName": "Portland Community College",
+      "description": "• Worked one-on-one and in small groups with multinational, multicultural ESL students to develop and improve job readiness and computer skills.\n• Taught students how to use Microsoft Word, Excel, PowerPoint and Access.\n• Helped student prepare resumes and cover letters, search for and apply for open positions, fill out job applications, and improve interviewing skills.\n…\nsee more",
+      "date1": "Mar 2008 – Mar 2009",
+      "date2": "1 yr 1 mo"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Portland State University",
+      "degree": "Master's Degree",
+      "fieldofstudy": "Education: Postsecondary, Adult, and Continuing Education",
+      "date1": "2009",
+      "date2": "2011"
+    },
+    {
+      "title": "Portland State University",
+      "degree": "Bachelor's Degree",
+      "date1": "2002",
+      "date2": "2011"
+    },
+    {
+      "title": "PDX Code Guild",
+      "degree": "Full Stack Web Development Bootcamp, Python/Django, JavaScript, HTML/CSS",
+      "fieldofstudy": "Full Stack Web Development Bootcamp, Python/Django, JavaScript, HTML/CSS",
+      "date1": "2014"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Web Development",
+      "count": "24"
+    },
+    {
+      "title": "JavaScript",
+      "count": "20"
+    },
+    {
+      "title": "Front-end Development",
+      "count": "12"
+    },
+    {
+      "title": "Responsive Web Design",
+      "count": "7"
+    },
+    {
+      "title": "Program Development",
+      "count": "21"
+    },
+    {
+      "title": "Curriculum Design",
+      "count": "14"
+    },
+    {
+      "title": "Curriculum Development",
+      "count": "5"
+    },
+    {
+      "title": "Adult Education",
+      "count": "3"
+    },
+    {
+      "title": "Copy Editing",
+      "count": "3"
+    },
+    {
+      "title": "Program Evaluation",
+      "count": "1"
+    },
+    {
+      "title": "Instructional Design",
+      "count": "2"
+    },
+    {
+      "title": "Technology Training",
+      "count": "2"
+    },
+    {
+      "title": "Writing",
+      "count": "10"
+    },
+    {
+      "title": "Program Management",
+      "count": "1"
+    },
+    {
+      "title": "Python",
+      "count": "10"
+    },
+    {
+      "title": "HTML5",
+      "count": "16"
+    },
+    {
+      "title": "CSS",
+      "count": "18"
+    },
+    {
+      "title": "Meteor",
+      "count": "8"
+    },
+    {
+      "title": "Django",
+      "count": "7"
+    },
+    {
+      "title": "Bootstrap",
+      "count": "4"
+    },
+    {
+      "title": "Wordpress",
+      "count": "4"
+    },
+    {
+      "title": "Photoshop",
+      "count": "5"
+    },
+    {
+      "title": "Microsoft Office",
+      "count": "10"
+    },
+    {
+      "title": "WordPress",
+      "count": "4"
+    },
+    {
+      "title": "Cascading Style Sheets (CSS)",
+      "count": "13"
+    },
+    {
+      "title": "Adobe Photoshop",
+      "count": "2"
+    },
+    {
+      "title": "JavaScript eXtension (JSX)"
+    },
+    {
+      "title": "CSS Flexbox"
+    },
+    {
+      "title": "Community Outreach",
+      "count": "12"
+    },
+    {
+      "title": "Leadership",
+      "count": "10"
+    },
+    {
+      "title": "Tutoring",
+      "count": "6"
+    },
+    {
+      "title": "Career Counseling",
+      "count": "2"
+    },
+    {
+      "title": "Classroom Instruction",
+      "count": "1"
+    },
+    {
+      "title": "Training & Development",
+      "count": "1"
+    },
+    {
+      "title": "Classroom Management",
+      "count": "1"
+    },
+    {
+      "title": "Employment Counseling",
+      "count": "1"
+    },
+    {
+      "title": "Program Design",
+      "count": "1"
+    },
+    {
+      "title": "Writing Skills",
+      "count": "1"
+    },
+    {
+      "title": "Workshop Development",
+      "count": "1"
+    },
+    {
+      "title": "MS Office Suite",
+      "count": "2"
+    },
+    {
+      "title": "Career Advising",
+      "count": "1"
+    },
+    {
+      "title": "College Access",
+      "count": "1"
+    },
+    {
+      "title": "Career Transitions",
+      "count": "1"
+    },
+    {
+      "title": "Workforce Training",
+      "count": "1"
+    },
+    {
+      "title": "Readiness",
+      "count": "1"
+    },
+    {
+      "title": "Curriculum Writing",
+      "count": "1"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "3",
+    "receivedCount": "8",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/tommywingo/",
+        "text": "Treasure and I worked together at Treehouse in Content Production. I regularly mixed the content she produced for our students, and oversaw screen recording while she worked with us as both a guest teacher and later in a staff teaching position. She made an excellent transition from developer to educator and intuitively took to the performance skills required to communicate the difficult concepts involved in programing to novice students. She was always a joy to work with and her effusive good humor and positivity made those interactions something to look forward to.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/nickrp/",
+        "text": "Treasure is a technical tour de force and an exemplary educator. I had the privilege of working with her for many years at Treehouse, and during that time I saw her develop some of the most impressive online video courses I've ever seen. She has this incredible ability to break down technical topics in a personable and approachable fashion; her understanding of JavaScript is extraordinary and her on-camera presence is pure magic. I enjoyed all of my interactions with Treasure and I learned a lot from watch her work, both on-camera and behind the scenes. Treasure cares about her work, her students, and her personal growth. Don't pass up on this rare blend of talent! I highly recommend her for any position she seeks!\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/james-churchill-smashdev/",
+        "text": "I had the pleasure of being Treasure’s manager for a year and a half while we were both members of Treehouse’s JavaScript instructional team. In addition to being an incredible teacher, Treasure consistently demonstrated a passion for learning. Treasure was able to quickly ramp up on technologies--like Vue.js--to gain the necessary technical knowledge and skills to produce effective, beginner friendly content. I also had the chance to work with Treasure as she developed projects for her courses. Treasure is a conscientious coder that works diligently to write clear code and avoid unnecessary complexity. Treasure is also a strong collaborator who is receptive to feedback and able to leverage feedback to improve her code. Treasure would make a great addition to any software development team.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/ben-jakuben/",
+        "text": "I managed the teaching team at Treehouse where Treasure contributed extremely well received and effective content for students learning JavaScript and basic career skills. Treasure's thorough background in education, combined with her thoughtful communication style, enabled her to speak to students in a clear, friendly, and relatable manner. Her content would often receive near perfect feedback scores, and her students stayed engaged with the material and moved through it to achieve their learning goals. I was particularly happy to watch Treasure grow as a developer. She sought feedback and advice from senior teachers and developers and used it to learn new skills, practice them, and then teach them to students. I'd be happy to work with Treasure on any aspect of the full JavaScript stack and I will seek out opportunities to work with her as a developer or instructor.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/wadetchristensen/",
+        "text": "Amazing teacher? Yes. Great programmer? Definitely. Critical thinker and top-notch problem solver? Absolutely. The people who are best at what they do make it look easy. Taking the state of modern web development and breaking it into digestible concepts for beginners is a Herculean task. Treasure makes it look easy. Whether it's her tremendous writing skills, her friendly and approachable camera presence, or her ability to dissect technical information, Treasure makes it appear effortless. In my time working with Treasure, I could always count on her to over-deliver. Her dedication is evident in that she consistently produced some of our highest rated courses at Treehouse. I can't recommend working with Treasure enough.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/dunetchka-otero-serrano-6844a816/",
+        "text": "Treasure created an innovative curriculum focused on helping the students in our youth program develop valuable career and college readiness skills through filmmaking and other multimedia projects. Treasure was excellent at taking big ideas and abstract concepts and putting them to paper as tangible, attainable educational goals and outcomes. She successfully completed the project with little oversight or supervision. Her writing and editing skills were invaluable to our fundraising and program development efforts. She demonstrated a natural talent for working with the marginalized and at-risk students in our community-based multimedia classes. I wholeheartedly recommend Treasure for any workforce development or higher education position.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/joannahofer/",
+        "text": "Treasure Porth was my supervisor while I worked at The Daily Vanguard, the student newspaper of Portland State University. I wrote for the Arts & Culture section, which Treasure was responsible for editing. Treasure gave very clear instructions and empowered her writers. Her edits were well informed and always made my writing better. Treasure was able to successfully lead a group of 15 writers. She taught us how to pitch our stories, defend their merits, and improve their newsworthiness. Detail oriented, dedicated, and highly knowledgeable, I definitely recommend Treasure for editing and supervisory positions.\n…\nSee more"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/james-churchill-smashdev/",
+        "text": "I feel very fortunate to have reported to James for nearly two years during my time at Treehouse. He is a natural mentor who used his deep knowledge of multiple programming languages to give invaluable guidance and constructive feedback that really helped me grow as a developer. He knew how to support those who reported to him while allowing them autonomy and empowering them to do their best work. He was always willing to jump in and do whatever was needed to ensure our students would get the best possible educational experience. He’s a talented programmer, and awesome teacher, and a fantastic manager. I wholeheartedly recommend him for any development, educational, or management  position."
+      },
+      {
+        "user": "https://www.linkedin.com/in/ben-jakuben/",
+        "text": "Ben was my manager’s manager at Treehouse, but even being one step removed in the management chain I found him to be an amazingly supportive leader and mentor. Ben is patient and diplomatic as well as being a gifted listener and mediator who cares deeply about his team. He was excellent at communicating the company’s vision and goals and making sure we had the tools to stay motivated and do our jobs effectively. People with his leadership abilities are rare, and any team would be exceedingly lucky to have him."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "5",
+      "items": [
+        "Full scholarship to attend PDX Code Guild",
+        "Nina Mae Kellog Award",
+        "Oregon Laurels Graduate Tuition Remission",
+        "Oregon Newspaper Publishers Association Collegiate Awards",
+        "Ronald E. McNair Research Scholarship"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "How to Learn to Code",
+        "What You Need to Know to Be a Front End Developer in 2018"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Introduction to HTML and CSS"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/nicolasjhampton/",
+      "text": "Software Engineer at New Relic, Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/matthew-moss-661aa84/",
+      "text": "Principal of Product Management at Pluralsight"
+    },
+    {
+      "user": "https://www.linkedin.com/in/guil-hernandez-1374b110/",
+      "text": "Front End Web Development & JavaScript Teacher at teamtreehouse.com"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jaymcgavren/",
+      "text": "Author of Head First Ruby and Head First Go. Ruby on Rails Developer."
+    },
+    {
+      "user": "https://www.linkedin.com/in/jnordell/",
+      "text": "Student Success Specialist at Treehouse"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shakelia-johnson-39177451/",
+      "text": "Javascript Developer at Detroit Labs"
+    },
+    {
+      "user": "https://www.linkedin.com/in/pasan-premaratne-965180159/",
+      "text": "Mobile Software Engineer III at Credit Karma"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jeff-church-91a83247/",
+      "text": "Corporate Recruiter at Xerox"
+    },
+    {
+      "user": "https://www.linkedin.com/in/craigsdennis/",
+      "text": "Developer Educator at Twilio Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/ahl389/",
+      "text": "Instructional Designer at Citrine Informatics"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Community Room Volunteer",
+      "experience": "Maybelle Center for Community",
+      "description": "Social Services",
+      "date1": "Nov 2018 – Present",
+      "date2": "1 yr 1 mo"
+    },
+    {
+      "title": "GED and Literacy Tutor",
+      "experience": "Multnomah County Department of Community Justice",
+      "description": "Education",
+      "date1": "Feb 2014 – Feb 2015",
+      "date2": "1 yr 1 mo"
+    }
+  ],
+  "profile": {
+    "name": "Treasure Porth",
+    "headline": "Front End Engineer at Lumen Learning",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQEcKNiJY5nd-A/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=yCK8yJON6svlJKZ_kDZBkUxCAIJ4S8XC1at1VmuVGBg",
+    "location": "Portland, Oregon",
+    "connections": "500+",
+    "summary": "Hey, I'm Treasure! I'm a Web Developer and JavaScript enthusiast who loves to learn new technologies and build awesome things in Vue.js and React."
+  }
+}

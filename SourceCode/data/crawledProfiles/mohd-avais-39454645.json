@@ -1,0 +1,173 @@
+{
+  "profileAlternative": {
+    "name": "Mohd Avais",
+    "headline": "HTML and Wordpress Developer",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQEcLEDYWoUDXQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=qaXUcS_QbPP1TBXIW2EEqX6E7HP73haCmBdB7OLKoyA",
+    "location": "Varanasi Area, India",
+    "connections": "500+"
+  },
+  "aboutAlternative": {},
+  "positions": [
+    {
+      "title": "Wordpress And HTML Developer",
+      "companyName": "C&C InfoTech",
+      "location": "New Delhi",
+      "description": "PSD to HTML\nPSD to HTML and Responsive\nBootstrap\nPSD to Wordpress",
+      "date1": "Aug 2014 – Present",
+      "date2": "5 yrs 4 mos"
+    },
+    {
+      "title": "SEO Executive",
+      "companyName": "Era Webtech Solutions Pvt. Ltd",
+      "description": "ON Page SEO ( Meta, Robots,Google Analytic, Site Analysis ), OFF Page SEO ( Link Building, Submission, SMO)",
+      "date1": "Jan 2013 – Jul 2014",
+      "date2": "1 yr 7 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "DR. C.V. Raman UNI",
+      "degree": "M.Sc.(IT)",
+      "date1": "2011",
+      "date2": "2013"
+    }
+  ],
+  "skills": [
+    {
+      "title": "HTML",
+      "count": "7"
+    },
+    {
+      "title": "HTML5",
+      "count": "1"
+    },
+    {
+      "title": "CSS",
+      "count": "5"
+    },
+    {
+      "title": "SEO",
+      "count": "2"
+    },
+    {
+      "title": "SMO",
+      "count": "1"
+    },
+    {
+      "title": "Bootstrap",
+      "count": "1"
+    },
+    {
+      "title": "JavaScript",
+      "count": "5"
+    },
+    {
+      "title": "WordPress",
+      "count": "2"
+    },
+    {
+      "title": "C#",
+      "count": "3"
+    },
+    {
+      "title": "ASP.NET",
+      "count": "3"
+    },
+    {
+      "title": "Oracle",
+      "count": "3"
+    },
+    {
+      "title": "Crystal Reports",
+      "count": "2"
+    },
+    {
+      "title": "Google Analytics",
+      "count": "1"
+    },
+    {
+      "title": "Google Webmaster Tools",
+      "count": "1"
+    },
+    {
+      "title": "Cascading Style Sheets (CSS)",
+      "count": "1"
+    },
+    {
+      "title": "PHP"
+    },
+    {
+      "title": "CSS3",
+      "count": "1"
+    },
+    {
+      "title": "Responsive",
+      "count": "1"
+    },
+    {
+      "title": "On-page Optimisation",
+      "count": "1"
+    },
+    {
+      "title": "Link Building",
+      "count": "1"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/sakshi-dudeja-4b396271/",
+      "text": "Research Associate at ASER"
+    },
+    {
+      "user": "https://www.linkedin.com/in/neha-ram-4320abb7/",
+      "text": "Genomepatri- Know Yourself"
+    },
+    {
+      "user": "https://www.linkedin.com/in/harmehhar-singh-rajpal-a40911152/",
+      "text": "Software Engineer at Gold's Gym"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mitali-agrawal-2293a0a3/",
+      "text": "Research Associate at ASER Centre"
+    },
+    {
+      "user": "https://www.linkedin.com/in/medi-life-ayurveda-clinic-9b04ab167/",
+      "text": "CEO at Dr Sharda Medi Life Ayurveda Clinic"
+    },
+    {
+      "user": "https://www.linkedin.com/in/amit-mehra-bba59b158/",
+      "text": "Field Manager at SANAT Products Limited"
+    },
+    {
+      "user": "https://www.linkedin.com/in/babita-agarwal-53497217a/",
+      "text": "Head Counsler /Trainer at TIES"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sachin-gaur-5785a414a/",
+      "text": "General Manager at astrologer sachin gaur"
+    },
+    {
+      "user": "https://www.linkedin.com/in/chander-ratra-9a878911b/",
+      "text": "Proprietor at Cee Aar Softwares"
+    },
+    {
+      "user": "https://www.linkedin.com/in/richa-garg-963123152/",
+      "text": "Doctor at Zila parishad barnala"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Mohd Avais",
+    "headline": "HTML and Wordpress Developer",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQEcLEDYWoUDXQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=qaXUcS_QbPP1TBXIW2EEqX6E7HP73haCmBdB7OLKoyA",
+    "location": "Varanasi Area, India",
+    "connections": "500+"
+  }
+}

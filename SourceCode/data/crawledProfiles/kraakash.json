@@ -1,0 +1,256 @@
+{
+  "profileAlternative": {
+    "name": "Kumar Aakash",
+    "headline": "Software Engineer | C/C++/Compilers/Program Analysis | Computer Systems | HPC",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQHjqxHn0zIPbg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=YYxh5opvu_8IavMnsXrRnbr_J7L99lIykCKg0II8lck",
+    "location": "Greater Boston Area",
+    "connections": "500+",
+    "summary": "“Everything starts with one step, or one brick, or one word or one day.”\n\nI am an inquisitive, self-motivated and responsible software engineer who thrives on challenges, loves learning new technologies, designing new software and am deeply interested in Compilers, and Programming Languages. I love working with C/C++, Python on the Linux Platform and creating new Systems for the same.\n\nI have worked for 3 years and 8 months in a highly challenging compiler tool-chain development environment at Tata Consultancy Services and have won several accolades for my contribution in Language Processing, Grammars and Compiler Optimization area. I consider creating grammars for languages as my forte and enjoy analyzing programs and extracting information out of them.\n\nI am currently a Graduate Student at Northeastern University and am working as a team member in the Distributed Multi-threaded Transparent Check-pointing Team.\n\n\nGITHUB : https://github.com/kaakash29"
+  },
+  "aboutAlternative": {
+    "text": "“Everything starts with one step, or one brick, or one word or one day.”\n\nI am an inquisitive, self-motivated and responsible software engineer who thrives on challenges, loves learning new technologies, designing new software and am deeply interested in Compilers, and Programming Languages. I love working with C/C++, Python on the Linux Platform and creating new Systems for the same.\n\nI have worked for 3 years and 8 months in a highly challenging compiler tool-chain development environment at Tata Consultancy Services and have won several accolades for my contribution in Language Processing, Grammars and Compiler Optimization area. I consider creating grammars for languages as my forte and enjoy analyzing programs and extracting information out of them.\n\nI am currently a Graduate Student at Northeastern University and am working as a team member in the Distributed Multi-threaded Transparent Check-pointing Team.\n\n\nGITHUB : https://github.com/kaakash29"
+  },
+  "positions": [
+    {
+      "title": "Software Engineer 2",
+      "companyName": "MathWorks",
+      "location": "Natick, Massachusetts",
+      "description": "Compiler R&D",
+      "date1": "Jun 2017 – Present",
+      "date2": "2 yrs 6 mos"
+    },
+    {
+      "title": "Graduate Teaching Assistant",
+      "companyName": "Northeastern University",
+      "location": "Greater Boston Area",
+      "description": "Developing and Grading projects and assignments for CS3650 and CS5600 - Computer Systems at Northeastern University",
+      "date1": "Sep 2016 – May 2017",
+      "date2": "9 mos"
+    },
+    {
+      "title": "Compiler Developement Engineer Intern",
+      "companyName": "The MathWorks",
+      "location": "Natick, MA, USA",
+      "description": "* Implemented a high level authoring language for LLVM based Simulink Compiler IR.\n* Implemented program analysis tools for analyzing the CFG generated,\n* Implemented high level optimizations.\n* Implemented an XSD-validated XML serialization for a the Simulink Compiler IR.\n\n#Tools and Technologies Used: C++, Perforce and TDD\n…\nsee more",
+      "date1": "Jan 2016 – Sep 2016",
+      "date2": "9 mos"
+    },
+    {
+      "title": "Graduate Assistant - Department of Research Computing",
+      "companyName": "Northeastern University",
+      "location": "2 Ell Hall, Northeastern University. Boston, MA-02120",
+      "description": "* Automation of Cluster Configuration, Management and Maintenance tasks.\n* Helping researchers from interdisciplinary fields to parallelize and submit jobs on the cluster.\n* Data cleaning and exploratory analysis about cluster usage and performance.\n* Conducting seminars and helping sessions for users of the cluster.\n\n# Technologies Used : Python, Shell Scripting, Linux, Perl, LSF, Slurm\n…\nsee more",
+      "date1": "Oct 2015 – Jan 2016",
+      "date2": "4 mos"
+    },
+    {
+      "title": "Software Engineer",
+      "companyName": "Tata Consultancy Services",
+      "description": "* Compiler Development and Maintenance,\n* Grammar Understanding and Writing,\n* Understanding both high level and corresponding machine level instructions\n* Creating automation for compiler testing\n* Training New Project recruits with Compiler technology\n* Reviewing Project Reports and implementation of peer developers\n…\nsee more",
+      "date1": "Sep 2011 – Nov 2014",
+      "date2": "3 yrs 3 mos"
+    },
+    {
+      "title": "Project Intern",
+      "companyName": "Tata Consultancy Services",
+      "location": "Kolkata Area, India",
+      "description": "Worked in the highly competitive environment, with a team of highly skilled developers on a application for the employees of the Citi/TCS Connection.",
+      "date1": "Jan 2011 – Apr 2011",
+      "date2": "4 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Northeastern University",
+      "degree": "Master of Science (M.S.)",
+      "fieldofstudy": "Computer Science",
+      "date1": "2015",
+      "date2": "2017"
+    },
+    {
+      "title": "Sikkim Manipal University of Health, Medical and Technological Sciences",
+      "degree": "Bachelor of Technology in Computer Science and Engineering",
+      "fieldofstudy": "Computer Engineering",
+      "date1": "2007",
+      "date2": "2011"
+    },
+    {
+      "title": "Don Bosco Academy",
+      "degree": "Higher Secondary",
+      "fieldofstudy": "Basic Mathematics Science and Literature",
+      "date1": "1995",
+      "date2": "2011"
+    }
+  ],
+  "skills": [
+    {
+      "title": "C++",
+      "count": "49"
+    },
+    {
+      "title": "C",
+      "count": "44"
+    },
+    {
+      "title": "Python",
+      "count": "21"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "1",
+    "receivedCount": "1",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/arpit-jain-6a003614/",
+        "text": "Aakash (aka aaku) was a great asset for the team. He used to take responsibility and challenges without being asked. Always active and energetic. Picked up the stuff very quickly in our team and always have solutions ready. I wish him all the best for his future endeavors and I am sure he will do great wherever he go."
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/swethamadala/",
+        "text": "I had the pleasure of starting my career reporting directly to Swetha. She came across as an extremely knowledgeable, highly motivated and result driven leader. She took up new responsibilities and challenged her team members to do the same, driving growth for both individuals as well as the team. Her problem solving skills were immaculate which made her a highly sought after resource in the organization. Given a chance, I would love to work with Swetha again !!"
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "20",
+      "items": [
+        "Advanced Data Analysis Using R",
+        "Advanced Program Analysis",
+        "Algorithmic Thinking",
+        "Algorithms",
+        "Compiler Development",
+        "Design and Analysis of Algorithms",
+        "Intensive Computer Systems (Ph.D level Core Course)",
+        "Interactive Programming in Pyhton",
+        "Microprocessors",
+        "Mobile Robotics",
+        "OOP programming using C++",
+        "Principles of Computing",
+        "Program Design Paradigms",
+        "Programming mobile apps for Android Handheld Systems",
+        "Simulation and Modelling",
+        "Systems Engineering",
+        "Training On Handling Cisco Devices",
+        "Voluntary Research Project",
+        "Web Application Developement Using J2EE and Oracle",
+        "Web Application Developement Using PHP an MySQL"
+      ]
+    },
+    {
+      "count": "20",
+      "items": [
+        "Sparse Flow Sensitive Pointer Analysis on LLVM IR",
+        "FUSE Based FFS File System",
+        "QThreads - Simplistic pthreads-like threading library implementation",
+        "A Simple loader able to load and run simple executable compiled using Diet libc",
+        "Arcade Style Space Game Implementation:",
+        "Comparison of Game Simulation Strategies Minimax vs Monte Carlo for Tic-Tac-Toe:",
+        "2048 Game Implementation:",
+        "Clustering of Cancer Risks on a County-Level Dataset:",
+        "Analysis of Research Citations",
+        "Migration of tools from Solaris to Linux platform [Client: Ericsson]",
+        "Nielsen-TCS Hackathon",
+        "Compiler Enhancement for supporting 32 bit constants.[Client: Ericsson]",
+        "Compiler Enhancement for Better Utilization of Temporary Variable Memory.[Client: Ericsson]",
+        "Static Code Checker Enhancement for Verifying Proper Utilization of Temporary Variables. [Client: Ericsson]",
+        "Compiler Enhancement for Programmer Intervened Procedure Inlining [Client: Ericsson]",
+        "Compiler Enhancement for Suppressing Obsolete Warnings.[Client: Ericsson]",
+        "Compiler Enhancement for Dead Code Detection [Client: Ericsson]",
+        "Automated Testing Suite for a Static Code Checker. [Client: Ericsson]",
+        "Virtual Console",
+        "River Pattern Change Detection Using Stochastic Modelling"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "Employee of the Month",
+        "Employee of the Month",
+        "Employee of the Year"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "Bengali",
+        "English",
+        "Hindi"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "GRE",
+        "TOEFL"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/sergey-kru/",
+      "text": "C++/QML UI developer at Polaris Industries"
+    },
+    {
+      "user": "https://www.linkedin.com/in/pravin-nagare-38381636/",
+      "text": "Compiler Software Engineer at The MathWorks"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sumitghosh2089/",
+      "text": "SDE II at Mathworks | Compilers and PL enthusiast | MS in CS graduate from Northeastern University"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nirupamatalele/",
+      "text": "Compiler Engineer at MathWorks"
+    },
+    {
+      "user": "https://www.linkedin.com/in/davidfink1/",
+      "text": "Application Support Engineer at MathWorks"
+    },
+    {
+      "user": "https://www.linkedin.com/in/patwardhanmandar/",
+      "text": "Full Stack Developer at MathWorks"
+    },
+    {
+      "user": "https://www.linkedin.com/in/srinivashariharan/",
+      "text": "Member Of Technical Staff Software Engineer at eBay"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kunwar-kundan/",
+      "text": "Software Engineer at Quicken Loans"
+    },
+    {
+      "user": "https://www.linkedin.com/in/balaji-elangovan-ab1a703a/",
+      "text": "Team Lead, Senior Embedded Software Engineer in Test at The MathWorks"
+    },
+    {
+      "user": "https://www.linkedin.com/in/allenhayden/",
+      "text": "Consultant Senior C/C++ Linux Developer 20+ Yrs Experience"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Contributor",
+      "experience": "GiveIndia",
+      "description": "Education",
+      "date1": "Apr 2012",
+      "date2": "1 mo"
+    },
+    {
+      "title": "Contributor",
+      "experience": "ETASHA Society",
+      "description": "Economic Empowerment",
+      "date1": "Aug 2012",
+      "date2": "1 mo"
+    }
+  ],
+  "profile": {
+    "name": "Kumar Aakash",
+    "headline": "Software Engineer | C/C++/Compilers/Program Analysis | Computer Systems | HPC",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQHjqxHn0zIPbg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=YYxh5opvu_8IavMnsXrRnbr_J7L99lIykCKg0II8lck",
+    "location": "Greater Boston Area",
+    "connections": "500+",
+    "summary": "“Everything starts with one step, or one brick, or one word or one day.”\n\nI am an inquisitive, self-motivated and responsible software engineer who thrives on challenges, loves learning new technologies, designing new software and am deeply interested in Compilers, and Programming Languages. I love working with C/C++, Python on the Linux Platform and creating new Systems for the same.\n\nI have worked for 3 years and 8 months in a highly challenging compiler tool-chain development environment at Tata Consultancy Services and have won several accolades for my contribution in Language Processing, Grammars and Compiler Optimization area. I consider creating grammars for languages as my forte and enjoy analyzing programs and extracting information out of them.\n\nI am currently a Graduate Student at Northeastern University and am working as a team member in the Distributed Multi-threaded Transparent Check-pointing Team.\n\n\nGITHUB : https://github.com/kaakash29"
+  }
+}

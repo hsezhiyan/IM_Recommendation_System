@@ -1,0 +1,249 @@
+{
+  "profileAlternative": {
+    "name": "Allen Hayden",
+    "headline": "Consultant Senior C/C++ Linux Developer 20+ Yrs Experience",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQFyX5zBKaCQRQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=YDCWkaRPV9b8kTcxauDj8j3mHz-0RIgDiEg8G_aIJj8",
+    "location": "Greater Atlanta Area",
+    "connections": "228",
+    "summary": "Freelance consultant and senior software engineer with 20+ years dev experience working for numerous clients across a variety of industries. Although my current focus is machine learning and computer vision, occasionally getting an email to help build some sort of unique backend technology based on C/C++ and Linux seems to be the career I've fallen into...\n\nOver the years I've worked on projects for CNN, Weather Channel, Delta Airlines, Verizon, Glaxo Pharmaceuticals, Advertise.com, and tons of smaller companies. At times I might be on a short project building computer vision models for use in cancer cell diagnostics while at others spending several months creating a custom contextual advertising platform.\n\nMost projects are filled with more than a few all-nighters. But there's probably not a better fit to my skill set and personality than having a life of building creative solutions to a mix of complex problems... and it's definitely never boring :)\n\nSpecialties:\n- C/C++, Linux, Oracle\n- Image Recognition\n- Machine Learning\n- AdTech / Advertising Technology\n- High Performance C/C++ Search Technology\n- Biology, Life Sciences\n\nTechnical Expertise:\n- Full Stack Developer\n- Heavy C/C++ Linux Dev\n- Linux, Unix, Solaris, AIX, HP/UX\n- C/C++, Perl, Python, Javascript\n- Amazon Cloud (logged in daily)\n\n- Deep Database Knowledge\n- Oracle, MySQL, BerkeleyDB\n- Oracle Performance Tuning\n- Oracle DBA, SQL, PL/SQL\n\n- Visual Studio C/C++, gcc/g++\n- Apache (High Transaction)\n- TCP/IP Sockets (Low Level, High Transaction)\n- Heavy Threading, IPC, Shared Memory Dev\n- HTML, CSS, Graphics\n\n- Search Engine Technology (crawlers, indexers)\n- Advertising Technology (Contextual, InText)\n- Pay-Per-Click Technology (PPC)\n- Full Platform Designer/Engineer\n\n- Machine Learning\n- Image Recognition, OpenCV, FFmpeg\n- Keras, TensorFlow, Theano, SciKit Learn, Berkeley Caffe\n- Building Models Daily\n\n- Biology / Life Sciences\n- General Biology, Genetics, Immunology, Neurobiology"
+  },
+  "aboutAlternative": {
+    "text": "Freelance consultant and senior software engineer with 20+ years dev experience working for numerous clients across a variety of industries. Although my current focus is machine learning and computer vision, occasionally getting an email to help build some sort of unique backend technology based on C/C++ and Linux seems to be the career I've fallen into...\n\nOver the years I've worked on projects for CNN, Weather Channel, Delta Airlines, Verizon, Glaxo Pharmaceuticals, Advertise.com, and tons of smaller companies. At times I might be on a short project building computer vision models for use in cancer cell diagnostics while at others spending several months creating a custom contextual advertising platform.\n\nMost projects are filled with more than a few all-nighters. But there's probably not a better fit to my skill set and personality than having a life of building creative solutions to a mix of complex problems... and it's definitely never boring :)\n\nSpecialties:\n- C/C++, Linux, Oracle\n- Image Recognition\n- Machine Learning\n- AdTech / Advertising Technology\n- High Performance C/C++ Search Technology\n- Biology, Life Sciences\n\nTechnical Expertise:\n- Full Stack Developer\n- Heavy C/C++ Linux Dev\n- Linux, Unix, Solaris, AIX, HP/UX\n- C/C++, Perl, Python, Javascript\n- Amazon Cloud (logged in daily)\n\n- Deep Database Knowledge\n- Oracle, MySQL, BerkeleyDB\n- Oracle Performance Tuning\n- Oracle DBA, SQL, PL/SQL\n\n- Visual Studio C/C++, gcc/g++\n- Apache (High Transaction)\n- TCP/IP Sockets (Low Level, High Transaction)\n- Heavy Threading, IPC, Shared Memory Dev\n- HTML, CSS, Graphics\n\n- Search Engine Technology (crawlers, indexers)\n- Advertising Technology (Contextual, InText)\n- Pay-Per-Click Technology (PPC)\n- Full Platform Designer/Engineer\n\n- Machine Learning\n- Image Recognition, OpenCV, FFmpeg\n- Keras, TensorFlow, Theano, SciKit Learn, Berkeley Caffe\n- Building Models Daily\n\n- Biology / Life Sciences\n- General Biology, Genetics, Immunology, Neurobiology"
+  },
+  "positions": [
+    {
+      "title": "Senior C/C++, Linux, Database Consultant",
+      "companyName": "AllenHayden.com",
+      "location": "Atlanta, Boston",
+      "description": "I have a somewhat broad technical background both in computer science, machine learning, and biology. Coming up with novel solutions for clients utilizing various combinations of C/C++, Perl, Python, Apache, Linux, and Oracle/MySQL is what powers my life.\n\nLikewise, my subject matter experience is also fairly diverse having worked on projects ranging from oil exploration to advertising technology to satellite imagery to computer vision to medical devices.\n\nAlthough I'm quite capable of designing a full platform whatever I create is generally high transaction (especially for AdTech clients) so my backends are always full of high performance multi-threaded routines with an abundant use of shared memory and message queues. In short, spending a weekend trying to get query response times down to 1/10,000th of second is commonplace.\n\nFor most projects, I'm often tasked with creating an entire turnkey platform or engine from design and testing all the way through going live and then spending the last week or so writing up documentation for hand-off to the clients inhouse dev staff.\n\nI'm professional, down to earth, and always go the extra mile to help my clients feel not just comfortable but excited about their decision to work with me. Getting a 4am email about some idea that's had me in the zone pulling an all-nighter with a cold pizza box nearby is pretty much part of my creative DNA :)\n\nI can't talk about most projects but I've included a small sampling below that might be worth a quick skim to see if I'm a good fit for a potential client. If you have questions just let me know.\n\n**Got a project or decently funded startup that might change the world? Definitely give me a call. I'm always eager to help make the world a better place!\n\n\n…\nsee more",
+      "date1": "1989 – Present",
+      "date2": "30 yrs"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Harvard University",
+      "degree": "Biology/Biological Sciences, General",
+      "fieldofstudy": "Biology/Biological Sciences, General"
+    },
+    {},
+    {},
+    {},
+    {},
+    {
+      "title": "University of Georgia - Franklin College of Arts and Sciences"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Oracle Performance Tuning"
+    },
+    {
+      "title": "Artificial Intelligence"
+    },
+    {
+      "title": "Contextual Advertising"
+    },
+    {
+      "title": "Consumer Behavior"
+    },
+    {
+      "title": "Machine Learning"
+    },
+    {
+      "title": "Computer Vision"
+    },
+    {
+      "title": "Image Processing"
+    },
+    {
+      "title": "Programming"
+    },
+    {
+      "title": "Algorithms"
+    },
+    {
+      "title": "Data Analysis"
+    },
+    {
+      "title": "Software Development"
+    },
+    {
+      "title": "System Administration"
+    },
+    {
+      "title": "Web Development"
+    },
+    {
+      "title": "Python"
+    },
+    {
+      "title": "Keras"
+    },
+    {
+      "title": "C"
+    },
+    {
+      "title": "C++"
+    },
+    {
+      "title": "Linux"
+    },
+    {
+      "title": "Unix"
+    },
+    {
+      "title": "SQL"
+    },
+    {
+      "title": "PL/SQL"
+    },
+    {
+      "title": "JavaScript"
+    },
+    {
+      "title": "HTML"
+    },
+    {
+      "title": "MySQL"
+    },
+    {
+      "title": "Apache"
+    },
+    {
+      "title": "Oracle"
+    },
+    {
+      "title": "Windows"
+    },
+    {
+      "title": "jQuery"
+    },
+    {
+      "title": "Databases"
+    },
+    {
+      "title": "Microsoft Office"
+    },
+    {
+      "title": "AJAX"
+    },
+    {
+      "title": "Perl"
+    },
+    {
+      "title": "Scikit-Learn"
+    },
+    {
+      "title": "OpenCV"
+    },
+    {
+      "title": "FFMpeg"
+    },
+    {
+      "title": "Networking"
+    },
+    {
+      "title": "Low Latency"
+    },
+    {
+      "title": "Senior C++ Linux Database Developer"
+    },
+    {
+      "title": "Extensive High Transaction Web Development"
+    },
+    {
+      "title": "Visual Studio C++, gcc/g++"
+    },
+    {
+      "title": "TCP/IP Sockets (High Transaction)"
+    },
+    {
+      "title": "Linux, Unix, Solara, AIX, HP/UX"
+    },
+    {
+      "title": "HP9000, IBM RS-6000, Sun Sparc"
+    },
+    {
+      "title": "Advertising Technology (Contextual, PPC)"
+    },
+    {
+      "title": "Pay-per-Click Technology"
+    },
+    {
+      "title": "Biology / Life Science"
+    },
+    {
+      "title": "Extensive Amazon Cloud (EC2, ELB, Route53)"
+    },
+    {
+      "title": "Apache (High Transaction)"
+    },
+    {
+      "title": "Senior Full Stack Developer"
+    },
+    {
+      "title": "Berkeley Caffe"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "24",
+      "items": [
+        "3D Modeling / 3D Environments",
+        "AdTech Pay-Per-Click MetaServer",
+        "Board Level Sensor Interfacing",
+        "Cloud: Backend Architecture",
+        "Computer Vision / Image Recognition",
+        "Credit Card Processing",
+        "Custom Ad Platform / Pay-per-Click",
+        "Custom In-Text Advertising Platform",
+        "Custom Shipping Systems / UPS, FedEx, DHL",
+        "Custom Video Platform / Youtube Clone",
+        "Local Search / Localeze Database Dev",
+        "Machine Learning: Smart Retail / Image Recognition",
+        "Medical Imaging / MRI",
+        "MetaSearch: Simple Script To Commercial Grade Engine",
+        "Oracle Performance Tuning",
+        "Programmable Logic Controller (PLC)",
+        "Robotic Arms / Servos / Manipulators",
+        "Satellite Imagery / Landsat",
+        "Search Engine / FullText Crawler Indexer",
+        "Sentiment Analysis / Social Media"
+      ]
+    },
+    {
+      "count": "6",
+      "items": [
+        "American Association of Artificial Intelligence",
+        "American Psychological Association",
+        "American Society for Microbiology",
+        "Association of Computing Machinery (ACM)",
+        "British Neuroscience Association",
+        "Nvidia Developer Program"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "English"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Allen Hayden",
+    "headline": "Consultant Senior C/C++ Linux Developer 20+ Yrs Experience",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQFyX5zBKaCQRQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=YDCWkaRPV9b8kTcxauDj8j3mHz-0RIgDiEg8G_aIJj8",
+    "location": "Greater Atlanta Area",
+    "connections": "228",
+    "summary": "Freelance consultant and senior software engineer with 20+ years dev experience working for numerous clients across a variety of industries. Although my current focus is machine learning and computer vision, occasionally getting an email to help build some sort of unique backend technology based on C/C++ and Linux seems to be the career I've fallen into...\n\nOver the years I've worked on projects for CNN, Weather Channel, Delta Airlines, Verizon, Glaxo Pharmaceuticals, Advertise.com, and tons of smaller companies. At times I might be on a short project building computer vision models for use in cancer cell diagnostics while at others spending several months creating a custom contextual advertising platform.\n\nMost projects are filled with more than a few all-nighters. But there's probably not a better fit to my skill set and personality than having a life of building creative solutions to a mix of complex problems... and it's definitely never boring :)\n\nSpecialties:\n- C/C++, Linux, Oracle\n- Image Recognition\n- Machine Learning\n- AdTech / Advertising Technology\n- High Performance C/C++ Search Technology\n- Biology, Life Sciences\n\nTechnical Expertise:\n- Full Stack Developer\n- Heavy C/C++ Linux Dev\n- Linux, Unix, Solaris, AIX, HP/UX\n- C/C++, Perl, Python, Javascript\n- Amazon Cloud (logged in daily)\n\n- Deep Database Knowledge\n- Oracle, MySQL, BerkeleyDB\n- Oracle Performance Tuning\n- Oracle DBA, SQL, PL/SQL\n\n- Visual Studio C/C++, gcc/g++\n- Apache (High Transaction)\n- TCP/IP Sockets (Low Level, High Transaction)\n- Heavy Threading, IPC, Shared Memory Dev\n- HTML, CSS, Graphics\n\n- Search Engine Technology (crawlers, indexers)\n- Advertising Technology (Contextual, InText)\n- Pay-Per-Click Technology (PPC)\n- Full Platform Designer/Engineer\n\n- Machine Learning\n- Image Recognition, OpenCV, FFmpeg\n- Keras, TensorFlow, Theano, SciKit Learn, Berkeley Caffe\n- Building Models Daily\n\n- Biology / Life Sciences\n- General Biology, Genetics, Immunology, Neurobiology"
+  }
+}

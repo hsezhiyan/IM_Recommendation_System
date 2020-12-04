@@ -1,0 +1,276 @@
+{
+  "profileAlternative": {
+    "name": "Sara Williamson",
+    "headline": "Program Manager at MongoDB",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQEEY79Nvb5b5g/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=o-jN1PbWnyrQRR6YB6cV-DcAnq6unsCjI_sQXFhLBuM",
+    "location": "Greater New York City Area",
+    "connections": "312"
+  },
+  "aboutAlternative": {},
+  "positions": [
+    {
+      "title": "Program Manager",
+      "companyName": "MongoDB",
+      "location": "Greater New York City Area",
+      "date1": "Aug 2018 – Present",
+      "date2": "1 yr 4 mos"
+    },
+    {
+      "title": "The Casebook platform is now at @CasebookPBC",
+      "location": "Greater New York City Area",
+      "date1": "Oct 2017 – Jul 2018",
+      "date2": "10 mos",
+      "roles": [
+        {
+          "title": "Account Lead",
+          "date1": "Oct 2017 – Jul 2018",
+          "date2": "10 mos"
+        },
+        {
+          "title": "Technical Project Manager",
+          "date1": "Oct 2015 – Oct 2017",
+          "date2": "2 yrs 1 mo",
+          "location": "Greater New York City Area"
+        }
+      ]
+    },
+    {
+      "title": "Title\nAccount Lead",
+      "date1": "Oct 2017 – Jul 2018",
+      "date2": "10 mos",
+      "roles": [
+        {
+          "title": "Account Lead",
+          "date1": "Oct 2017 – Jul 2018",
+          "date2": "10 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nTechnical Project Manager",
+      "location": "Greater New York City Area",
+      "date1": "Oct 2015 – Oct 2017",
+      "date2": "2 yrs 1 mo",
+      "roles": [
+        {
+          "title": "Technical Project Manager",
+          "date1": "Oct 2015 – Oct 2017",
+          "date2": "2 yrs 1 mo",
+          "location": "Greater New York City Area"
+        }
+      ]
+    },
+    {
+      "title": "Director of Research and Technology",
+      "companyName": "Empire Search Partners, LLC",
+      "date1": "Mar 2014 – Sep 2015",
+      "date2": "1 yr 7 mos"
+    },
+    {
+      "title": "Project Manager",
+      "companyName": "Greene-Levin-Snyder",
+      "date1": "Feb 2011 – Mar 2014",
+      "date2": "3 yrs 2 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "University of Central Florida",
+      "degree": "BA",
+      "fieldofstudy": "English, Women's Studies",
+      "date1": "2006",
+      "date2": "2010"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Research",
+      "count": "13"
+    },
+    {
+      "title": "Microsoft Office",
+      "count": "11"
+    },
+    {
+      "title": "Social Media",
+      "count": "9"
+    },
+    {
+      "title": "Proofreading",
+      "count": "9"
+    },
+    {
+      "title": "Editing",
+      "count": "5"
+    },
+    {
+      "title": "Recruiting",
+      "count": "4"
+    },
+    {
+      "title": "Event Planning",
+      "count": "3"
+    },
+    {
+      "title": "Nonprofits",
+      "count": "2"
+    },
+    {
+      "title": "Resume Writing",
+      "count": "2"
+    },
+    {
+      "title": "Photography",
+      "count": "2"
+    },
+    {
+      "title": "Newsletters",
+      "count": "2"
+    },
+    {
+      "title": "Copy Editing",
+      "count": "1"
+    },
+    {
+      "title": "Creative Writing",
+      "count": "1"
+    },
+    {
+      "title": "Video Editing",
+      "count": "1"
+    },
+    {
+      "title": "Web Design",
+      "count": "1"
+    },
+    {
+      "title": "Higher Education",
+      "count": "1"
+    },
+    {
+      "title": "Social Media Marketing",
+      "count": "1"
+    },
+    {
+      "title": "Blogging",
+      "count": "1"
+    },
+    {
+      "title": "Data Analysis",
+      "count": "1"
+    },
+    {
+      "title": "Policy Analysis",
+      "count": "1"
+    },
+    {
+      "title": "PowerPoint",
+      "count": "6"
+    },
+    {
+      "title": "Photoshop",
+      "count": "2"
+    },
+    {
+      "title": "Microsoft Word",
+      "count": "2"
+    },
+    {
+      "title": "Microsoft Excel",
+      "count": "1"
+    },
+    {
+      "title": "WordPress",
+      "count": "1"
+    },
+    {
+      "title": "Final Cut Pro",
+      "count": "1"
+    },
+    {
+      "title": "Illustrator",
+      "count": "1"
+    },
+    {
+      "title": "Facebook",
+      "count": "1"
+    },
+    {
+      "title": "Public Speaking",
+      "count": "4"
+    },
+    {
+      "title": "Fundraising",
+      "count": "1"
+    },
+    {
+      "title": "Teaching",
+      "count": "1"
+    },
+    {
+      "title": "English",
+      "count": "1"
+    },
+    {
+      "title": "Social Networking",
+      "count": "14"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/schoffera/",
+      "text": "Senior Program Manager at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/payaltiwana/",
+      "text": "Head of Azure Retail Engineering at Microsoft"
+    },
+    {
+      "user": "https://www.linkedin.com/in/eric-holzhauer/",
+      "text": "Strategy and Product Marketing at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/atv/",
+      "text": "Program Manager at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mary-alati/",
+      "text": "Growth Marketing Manager at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/eshabhargava/",
+      "text": "Program Manager at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/seong17/",
+      "text": "Vice President, Strategy & Product Marketing"
+    },
+    {
+      "user": "https://www.linkedin.com/in/rahul-singhania-34b03bb9/",
+      "text": "Senior Program Manager at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tifaniramic/",
+      "text": "Product Marketing at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sharon-santillo-hawkins/",
+      "text": "Sr. Program Manager"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Sara Williamson",
+    "headline": "Program Manager at MongoDB",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQEEY79Nvb5b5g/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=o-jN1PbWnyrQRR6YB6cV-DcAnq6unsCjI_sQXFhLBuM",
+    "location": "Greater New York City Area",
+    "connections": "312"
+  }
+}

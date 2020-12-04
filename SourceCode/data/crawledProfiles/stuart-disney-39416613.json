@@ -1,0 +1,195 @@
+{
+  "profileAlternative": {
+    "name": "Stuart Disney",
+    "headline": "Database Administrator for SQL Server and Oracle",
+    "location": "Bristol, Bristol, United Kingdom",
+    "connections": "70"
+  },
+  "aboutAlternative": {},
+  "positions": [
+    {
+      "title": "Database Administrator - Oracle and SQL Server",
+      "companyName": "City of Bristol College",
+      "description": "Database Administration for SQL Server (2000, 2005, 2008 and 2012) databases and Oracle 10g and 11g databases.\nAdditional support for installing and supporting in-house software developments and 3rd party software.",
+      "date1": "2009 – Present",
+      "date2": "10 yrs"
+    },
+    {
+      "title": "Database Administrator - Oracle and Teradata on UNIX platforms",
+      "companyName": "Fujitsu",
+      "date1": "Mar 2001 – May 2009",
+      "date2": "8 yrs 3 mos"
+    },
+    {
+      "title": "Database Administrator - DB2 on Mainframe, Oracle and Teradata on UNIX",
+      "companyName": "WH Smith",
+      "date1": "1995 – 2001",
+      "date2": "6 yrs"
+    },
+    {
+      "title": "Database Administrator",
+      "companyName": "SUN ALLIANCE",
+      "date1": "1985 – 1995",
+      "date2": "10 yrs"
+    }
+  ],
+  "educations": [
+    {
+      "title": "University of the West of England",
+      "degree": "Computer Studies",
+      "fieldofstudy": "Computer Studies",
+      "date1": "1983",
+      "date2": "1985"
+    },
+    {
+      "title": "Worle Comprehensive",
+      "date1": "1976",
+      "date2": "1981"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Databases",
+      "count": "10"
+    },
+    {
+      "title": "Oracle",
+      "count": "9"
+    },
+    {
+      "title": "Microsoft SQL Server",
+      "count": "9"
+    },
+    {
+      "title": "Requirements Analysis",
+      "count": "3"
+    },
+    {
+      "title": "Project Planning",
+      "count": "3"
+    },
+    {
+      "title": "Database Administration",
+      "count": "3"
+    },
+    {
+      "title": "IT Service Management",
+      "count": "2"
+    },
+    {
+      "title": "Data Modeling",
+      "count": "2"
+    },
+    {
+      "title": "Data Warehousing",
+      "count": "2"
+    },
+    {
+      "title": "Software Development",
+      "count": "2"
+    },
+    {
+      "title": "Project Management",
+      "count": "1"
+    },
+    {
+      "title": "Database Design",
+      "count": "1"
+    },
+    {
+      "title": "Unix",
+      "count": "4"
+    },
+    {
+      "title": "DB2",
+      "count": "2"
+    },
+    {
+      "title": "SQL Server",
+      "count": "1"
+    },
+    {
+      "title": "SSIS"
+    },
+    {
+      "title": "SSRS"
+    },
+    {
+      "title": "Visual Studio"
+    },
+    {
+      "title": "Unix Shell Scripting",
+      "count": "3"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "2",
+    "receivedCount": "1",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/karlgrocock/",
+        "text": "Stuart is an enthusiastic and extremely capable database administrator. The work he has completed includes moving systems from Oracle (his original skill set was based in Oracle) to SQL Server (where he has quickly developed a comprehensive skillset). It is testament to his abilities that systems are fully available and robust in implementation. Stuart is on a personal level and extremely likeable individual who can work on his own, setting accurate deadlines but also as a valued team member.\n…\nSee more"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/karlgrocock/",
+        "text": "Karl has been an approachable manager who is always enthusiastic to take on new ideas and projects and ensure the means are inplace to implement them."
+      },
+      {
+        "user": "https://www.linkedin.com/in/ravi-kandola-b15a3b1/",
+        "text": "Ravi was an excellent Oracle DBA who joined the team to take sole responsibility for the management of Oracle Database/systems and train other team members. He integrated well within the team and was able to undertake support for other database systems very quickly. As the size and number of Oracle databases/systems grew Ravi was a major contributor in the strategic management of those systems."
+      }
+    ]
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/garethneal/",
+      "text": "Technology Specialist (Advanced Manufacturing and 3D Printing)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/katy-taylor-6292786a/",
+      "text": "IT Service Analyst at Unilever"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kevin-shelcott-66928818/",
+      "text": "Director of Publishing Services"
+    },
+    {
+      "user": "https://www.linkedin.com/in/neville-pease-164762b7/",
+      "text": "Head Chef at DoubleTree by Hilton"
+    },
+    {
+      "user": "https://www.linkedin.com/in/liam-todd-074342110/",
+      "text": "Fraud Operations at Capital One"
+    },
+    {
+      "user": "https://www.linkedin.com/in/christopher-major-370421158/",
+      "text": "Sales Manager at Bury Fixings LLP - Now Multifix Bury"
+    },
+    {
+      "user": "https://www.linkedin.com/in/deb-horner-b26973b9/",
+      "text": "sales assistant at Deichmann Shoes"
+    },
+    {
+      "user": "https://www.linkedin.com/in/andrewhornerglister/",
+      "text": "Nzime - Digital Strategy & UX/UI agency"
+    },
+    {
+      "user": "https://www.linkedin.com/in/daniel-pears-216246155/",
+      "text": "Conference and banqueting operations manager at Eastwood Hall Nottingham"
+    },
+    {
+      "user": "https://www.linkedin.com/in/radu-adelin-4347a1b3/",
+      "text": "SIA employeer"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Stuart Disney",
+    "headline": "Database Administrator for SQL Server and Oracle",
+    "location": "Bristol, Bristol, United Kingdom",
+    "connections": "70"
+  }
+}

@@ -1,0 +1,311 @@
+{
+  "profileAlternative": {
+    "name": "Gabriel Madureira",
+    "headline": "Sr Director, Growth Operations and Web at MongoDB",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQECmLkD2EJdhg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=jbAkRY5GSCaYjRHBLLA_T4ITO0MtbNmMPt3lEKRizsk",
+    "location": "New York, New York",
+    "connections": "500+",
+    "summary": "With a career that features 10+ years in senior-level roles of increasing scope and responsibility, I'm currently looking to solidify my position as a marketing executive. I'm a dynamic, proactive, and confident individual with the ability to excel independently or within team-oriented environments. My positive attitude serves as both a source of self-motivation and a model for peers, teammates and clients. In short, I'm a seasoned, likable, and award-winning leader with the ability to impact operations on a long-term basis."
+  },
+  "aboutAlternative": {
+    "text": "With a career that features 10+ years in senior-level roles of increasing scope and responsibility, I'm currently looking to solidify my position as a marketing executive. I'm a dynamic, proactive, and confident individual with the ability to excel independently or within team-oriented environments. My positive attitude serves as both a source of self-motivation and a model for peers, teammates and clients. In short, I'm a seasoned, likable, and award-winning leader with the ability to impact operations on a long-term basis."
+  },
+  "positions": [
+    {
+      "title": "Sr Director, Growth Operations and Web",
+      "companyName": "MongoDB",
+      "location": "Greater New York City Area",
+      "description": "Managing teams to expand the growth at MongoDB.",
+      "date1": "May 2019 – Present",
+      "date2": "7 mos"
+    },
+    {
+      "title": "Director, Marketing Operations and Growth",
+      "companyName": "Intercom",
+      "location": "San Francisco Bay Area",
+      "description": "My current role has me leading marketing projects and activities across various departments, including sales, marketing, business operations, and analytics. In addition, I lead a team of highly skilled peers in general technology, process / project management, budgeting, forecasting, and analytics.\n\nSpecific accomplishments include:\n\n► Building a team that paved the way for a new scale of demand generation\n► Implementing new channels and strategies to strengthen success across the marketing department\n► Pioneering new lead flow and marketing automation, ultimately bolstering revenue\n► Managing lead flow, scoring, and influence models to improve sales leads\n\n…\nsee more",
+      "date1": "Apr 2018 – May 2019",
+      "date2": "1 yr 2 mos"
+    },
+    {
+      "title": "Sprinklr",
+      "location": "Greater New York City Area",
+      "description": "My prior role saw me in charge of teammates positioned globally focused on operations and tech stack for sales and marketing.\n\nSpecific accomplishments include:\n\n► Re-engineering Salesforce from near-deprecated to delivering exceptional service for nine companies in the span of less than one year\n► Establishing a quote-to-cash process (CPQ+Billing) to strengthen forecasts and improve long-term profitability\n► Direct 10 teammates in day-to-day activities and operations\n…\nsee more",
+      "date1": "Apr 2017 – Apr 2018",
+      "date2": "1 yr 1 mo",
+      "roles": [
+        {
+          "title": "Director, Business & Technology Operations",
+          "date1": "Apr 2017 – Apr 2018",
+          "date2": "1 yr 1 mo",
+          "location": "Greater New York City Area"
+        },
+        {
+          "title": "Digital Marketing Director",
+          "date1": "Jul 2015 – Mar 2017",
+          "date2": "1 yr 9 mos",
+          "location": "New York"
+        }
+      ]
+    },
+    {
+      "title": "Title\nDirector, Business & Technology Operations",
+      "location": "Greater New York City Area",
+      "description": "My prior role saw me in charge of teammates positioned globally focused on operations and tech stack for sales and marketing.\n\nSpecific accomplishments include:\n\n► Re-engineering Salesforce from near-deprecated to delivering exceptional service for nine companies in the span of less than one year\n► Establishing a quote-to-cash process (CPQ+Billing) to strengthen forecasts and improve long-term profitability\n► Direct 10 teammates in day-to-day activities and operations\n…\nsee more",
+      "date1": "Apr 2017 – Apr 2018",
+      "date2": "1 yr 1 mo",
+      "roles": [
+        {
+          "title": "Director, Business & Technology Operations",
+          "date1": "Apr 2017 – Apr 2018",
+          "date2": "1 yr 1 mo",
+          "location": "Greater New York City Area"
+        }
+      ]
+    },
+    {
+      "title": "Title\nDigital Marketing Director",
+      "location": "New York",
+      "description": "This opportunity gave me the chance to develop and maintain a new company website and marketing tech stack. Not only did I collate more than 15 different marketing solutions into a unified tech stack, but I also took advantage of the latest automation strategies to jumpstart productivity and ensure consistent results.\n\nSpecific accomplishments include:\n\n► Maintaining responsibility for marketing, web, and analytics in marketing\n► Managing 15 people across three different countries, including USA, India, and Brazil\n…\nsee more",
+      "date1": "Jul 2015 – Mar 2017",
+      "date2": "1 yr 9 mos",
+      "roles": [
+        {
+          "title": "Digital Marketing Director",
+          "date1": "Jul 2015 – Mar 2017",
+          "date2": "1 yr 9 mos",
+          "location": "New York"
+        }
+      ]
+    },
+    {
+      "title": "COO",
+      "companyName": "Scup",
+      "location": "São Paulo Area, Brazil",
+      "description": "This role put me in charge of 80 personnel across multiple departments. The company was eventually acquired by Sprinkly.\n\nSpecific accomplishments include:\n\n► Drove business growth of 30% YoY\n► Executed the process of M&A with Sprinklr\n► Drove workforce management and engagement, ultimately growing the staff from 35 members to 130 and doubling revenue within a span of two short years\n…\nsee more",
+      "date1": "Sep 2014 – Jun 2015",
+      "date2": "10 mos"
+    },
+    {
+      "title": "Head of Operations",
+      "companyName": "Scup",
+      "location": "São Paulo Area, Brazil",
+      "description": "My initial role with Scup put me in direct contact with various organizational figureheads in support of ongoing company internationalization. I also created and maintained relationships with popular social media sites, including Facebook and Twitter, and participated in a highly successful round of funding on behalf of the company.\n\nSpecific accomplishments include:\n\n► Introducing best-in-class processes for use in sales, marketing, and engineering\n► Hiring and management of teams\n► Established processes and metrics to support the growth of the business\n\n…\nsee more",
+      "date1": "Feb 2013 – May 2014",
+      "date2": "1 yr 4 mos"
+    },
+    {
+      "title": "Business Development Manager",
+      "companyName": "MarketUP",
+      "location": "São Paulo Area, Brazil",
+      "description": "I played a critical role in the business strategy of this startup business that was in the development stages of free enterprise resource planning software. I modeled their initial revenue streams and go-to-market strategies while organizing, preparing, and supporting various rounds of funding.",
+      "date1": "Sep 2011 – Feb 2013",
+      "date2": "1 yr 6 mos"
+    },
+    {
+      "title": "Hypermarcas S/A",
+      "description": "One of my earlier roles, this job put me in direct oversight of sales and operations planning. Not only did I participate in more than 200 different product launches during this time, but I also created and implemented post-merger plans to support recent company acquisitions.",
+      "date1": "May 2011 – Aug 2011",
+      "date2": "4 mos",
+      "roles": [
+        {
+          "title": "Planning Coordinator",
+          "date1": "May 2011 – Aug 2011",
+          "date2": "4 mos"
+        },
+        {
+          "title": "Planning Engineer",
+          "date1": "Nov 2009 – May 2011",
+          "date2": "1 yr 7 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nPlanning Coordinator",
+      "description": "One of my earlier roles, this job put me in direct oversight of sales and operations planning. Not only did I participate in more than 200 different product launches during this time, but I also created and implemented post-merger plans to support recent company acquisitions.",
+      "date1": "May 2011 – Aug 2011",
+      "date2": "4 mos",
+      "roles": [
+        {
+          "title": "Planning Coordinator",
+          "date1": "May 2011 – Aug 2011",
+          "date2": "4 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nPlanning Engineer",
+      "description": "Working with Sales and Operations Planning (S&OP), focused on the industrial planning of all the plants in the group.",
+      "date1": "Nov 2009 – May 2011",
+      "date2": "1 yr 7 mos",
+      "roles": [
+        {
+          "title": "Planning Engineer",
+          "date1": "Nov 2009 – May 2011",
+          "date2": "1 yr 7 mos"
+        }
+      ]
+    },
+    {
+      "title": "Planning Intern",
+      "companyName": "Promon Engenharia",
+      "description": "Internship in the PMO. Worked with big projects planning and control.",
+      "date1": "Feb 2009 – Nov 2009",
+      "date2": "10 mos"
+    },
+    {
+      "title": "Engineering Intern",
+      "companyName": "No-Sag Molas e Fixadores Ltda",
+      "description": "Internship in Production Planning and Control.",
+      "date1": "Jan 2008 – Dec 2008",
+      "date2": "12 mos"
+    },
+    {
+      "title": "Engineering Intern",
+      "companyName": "BBL Bureau Brasileiro Ltda",
+      "description": "Internship in Operations Planning. Worked with cost reduction projects and process improvement.",
+      "date1": "Dec 2006 – Feb 2007",
+      "date2": "3 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Universidade de São Paulo",
+      "degree": "Engineering",
+      "fieldofstudy": "Industrial Engineering",
+      "date1": "2005",
+      "date2": "2009"
+    },
+    {
+      "title": "Fundação Getúlio Vargas",
+      "degree": "Master of Business Administration (MBA)",
+      "fieldofstudy": "Strategy and Economic Business Management",
+      "date1": "2013",
+      "date2": "2014"
+    },
+    {
+      "title": "Colégio Miguel De Cervantes"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Strategic Planning",
+      "count": "17"
+    },
+    {
+      "title": "Marketing Strategy",
+      "count": "12"
+    },
+    {
+      "title": "Business Development",
+      "count": "9"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "5",
+    "receivedCount": "0",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/tiphany-gilbert-08990028/",
+        "text": "Tiphany is amazing! A hard working smart girl that will pursue the solution to the problem until the end. Her skills in sales ops are impressive and her commitment to making the right thing makes her a unique professional. I've worked with her at Spinklr and it has hard to say the moment when she was not the most passionate and dedicated person in the room. Even in the worst moments, she was always with the best vibe and focus to get the job done. Reach out to me if you need more information but this one I definitely recommend!\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/mauro-nissan/",
+        "text": "I've worked with Mauro on projects that had different scopes but always with a high complexity and time pressure. His commitment to getting things done along with his high-quality standard makes him a unique mix of speed and quality. Always engaged and motivating the team."
+      },
+      {
+        "user": "https://www.linkedin.com/in/edgarramirezv/",
+        "text": "Edgar is a self-motivated extraordinary professional. His skills and commitment to get it done made our time together a pleasant moment."
+      },
+      {
+        "user": "https://www.linkedin.com/in/elianaguerrettaneves/",
+        "text": "Eliana é uma excelente profissional que trabalha muito bem em grupo. Consegue realizar suas tarefas dentro do prazo e qualidade esperados por todos. Tem responsabilidade e senso de urgência impecáveis. Foi muito bom ter trabalhado com ela."
+      },
+      {
+        "user": "https://www.linkedin.com/in/leonardo-diamante-12459211/",
+        "text": "Leonardo mostrou no projeto que trabalhamos juntos uma excelente capacidade técnica aliada a um grande compromisso com as expectativas e resultados necessários ao negócio de uma forma que nunca havia visto antes em uma pessoa da área de TI. Foi um grande prazer trabalhar com esse excelente profissional."
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "3",
+      "items": [
+        "Espanhol",
+        "Inglês",
+        "Português"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "Winner of the 1st USP Innovation Olympic Game",
+        "Winner of Best Innovative Product Project"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Technology Entrepreneurship"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Alliances in complex projects: a study of an EPC project"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/misslindawest/",
+      "text": "Sr. Director, Marketing Operations - I'm Hiring!"
+    },
+    {
+      "user": "https://www.linkedin.com/in/carlyemery/",
+      "text": "Senior Sales Recruiter at MongoDB - I'M HIRING!"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ericblewis/",
+      "text": "VP Demand Generation at RingCentral"
+    },
+    {
+      "user": "https://www.linkedin.com/in/michele-pares-sphr-shrm-scp-35a25b18/",
+      "text": "Global HRBP Director at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/alexandra-shapiro-1bb3851/",
+      "text": "Chief Marketing Officer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/niyati1/",
+      "text": "Business Operations, Product Management, & Growth Leader"
+    },
+    {
+      "user": "https://www.linkedin.com/in/steven-vannelli-6744923a/",
+      "text": "Program Manager at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/alexandrina-koykova-91890117/",
+      "text": "Director, People Operations at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/thnewton/",
+      "text": "Campaign Marketing at Toast"
+    },
+    {
+      "user": "https://www.linkedin.com/in/echan557/",
+      "text": "Marketing Data Analytics and Operations"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Gabriel Madureira",
+    "headline": "Sr Director, Growth Operations and Web at MongoDB",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQECmLkD2EJdhg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=jbAkRY5GSCaYjRHBLLA_T4ITO0MtbNmMPt3lEKRizsk",
+    "location": "New York, New York",
+    "connections": "500+",
+    "summary": "With a career that features 10+ years in senior-level roles of increasing scope and responsibility, I'm currently looking to solidify my position as a marketing executive. I'm a dynamic, proactive, and confident individual with the ability to excel independently or within team-oriented environments. My positive attitude serves as both a source of self-motivation and a model for peers, teammates and clients. In short, I'm a seasoned, likable, and award-winning leader with the ability to impact operations on a long-term basis."
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "profileAlternative": {
+    "name": "Basheer Syed",
+    "headline": "Full Stack Python Developer at Humana",
+    "location": "Greenville, Texas",
+    "connections": "310",
+    "summary": "• Full stack developer Close to 4+ years of industrial experience in Designing, Development, Deployment and maintenance of web apps based on Django framework, Python platforms.\n• Experience of Programming using Object Oriented Programming (OOPs concept) and software development life cycle (SDLC), architecting scalable platforms, object-oriented programming, database design and agile methodologies.\n• Experience in using Eclipse, PyCharm, Visual Studio, PyScripter and Sublime Text while developing different application in python.\n• Professional Web Apps development experience using Django and Flask inclusive of experience in UI using Javascript and AngularJS.\n• Good experience in developing web applications implementing MVC architecture using Django, Flask and Webapp2 web application frameworks.\n• Well versed with Design and Development of presentation layer for web applications using technologies like HTML, CSS, and JavaScript.\n• Experience in using frameworks and tools like Django, Flask, Django REST, Hibernate ORM.\n• Proficient knowledge in Web services like Google Cloud and Amazon AWS Services.\n• Worked with varieties of Relational Databases (RDBMS) like SQL Server, Oracle, MySQL and PostgreSQL.\n• Experience in installing software using pip command for Python libraries like Beautiful Soup, NumPy, SciPy, PySide, python-twitter, RabbitMQ, Celery, matplotlib, Pandas data-frame and used PEP8 coding convention.\n• Have worked with J2EE Architecture and Apache Tomcat Server.\n• Familiar with RaspberryPI and Raspbian OS for UART controlling.\n• Good knowledge of version control software - CVS, GitHub. Have good knowledge on Project management tools JIRA, Redmine and Bugzilla.\n• Excellent communication and time management skills. Capable to learn new technologies and to work in the team environment independently."
+  },
+  "aboutAlternative": {
+    "text": "• Full stack developer Close to 4+ years of industrial experience in Designing, Development, Deployment and maintenance of web apps based on Django framework, Python platforms.\n• Experience of Programming using Object Oriented Programming (OOPs concept) and software development life cycle (SDLC), architecting scalable platforms, object-oriented programming, database design and agile methodologies.\n• Experience in using Eclipse, PyCharm, Visual Studio, PyScripter and Sublime Text while developing different application in python.\n• Professional Web Apps development experience using Django and Flask inclusive of experience in UI using Javascript and AngularJS.\n• Good experience in developing web applications implementing MVC architecture using Django, Flask and Webapp2 web application frameworks.\n• Well versed with Design and Development of presentation layer for web applications using technologies like HTML, CSS, and JavaScript.\n• Experience in using frameworks and tools like Django, Flask, Django REST, Hibernate ORM.\n• Proficient knowledge in Web services like Google Cloud and Amazon AWS Services.\n• Worked with varieties of Relational Databases (RDBMS) like SQL Server, Oracle, MySQL and PostgreSQL.\n• Experience in installing software using pip command for Python libraries like Beautiful Soup, NumPy, SciPy, PySide, python-twitter, RabbitMQ, Celery, matplotlib, Pandas data-frame and used PEP8 coding convention.\n• Have worked with J2EE Architecture and Apache Tomcat Server.\n• Familiar with RaspberryPI and Raspbian OS for UART controlling.\n• Good knowledge of version control software - CVS, GitHub. Have good knowledge on Project management tools JIRA, Redmine and Bugzilla.\n• Excellent communication and time management skills. Capable to learn new technologies and to work in the team environment independently."
+  },
+  "positions": [
+    {
+      "title": "Full Stack Python Developer",
+      "companyName": "Humana",
+      "location": "TX",
+      "description": "• Designed and developed the server module and resolved issues and responsible for its enhancements.\n• Worked on Django ORM module for signing complex queries.\n• Used Python programming and Django for the backend development, Bootstrap and Angular for frontend connectivity and MongoDB for database.\n• Implemented MVC Architecture using JSF and Struts framework and custom tag libraries.\n• Defined different Django API profiling techniques for faster rendering information.\n• Developed Python scripts for testing the car functioning on different services.\n• Implemented various Validation Controls for form validation and implemented custom validation controls using Object Oriented JavaScript.\n• Developed Restful microservices using Flask and Django and deployed on AWS servers using EBS and EC2.\n• Used Pandas API to put the data as time series and tabular format for local timestamp data manipulation and retrieval and storing it into MongoDB.\n• Automated most of the task using python scripting, RaspberryPI and Raspbian OS, and Unix/Linux shell Scripting.\n• Implemented code for KPI's specified by client.\n• Used Python Library Beautiful Soup for web scrapping to extract data for building graphs.\n• Worked on Jira for managing the tasks and improving the individual performance.\n\n…\nsee more",
+      "date1": "Jan 2017 – Present",
+      "date2": "2 yrs 11 mos"
+    },
+    {
+      "title": "Full Stack Python Developer",
+      "companyName": "Lamda",
+      "location": "India",
+      "description": "• Responsible for gathering requirements, system analysis, design, development, testing and deployment.\n• As a Python Developer I designed and developed Use-Case Diagrams, Class Diagrams, and Object Diagrams using UML Rational Rose for OOA/OOD techniques.\n• Attend walk-thru meetings with the clients to understand the requirements.\n• Worked on Python OpenStack APIs and used NumPy for Numerical analysis.\n• Extensively used Python requests module to call webservices.\n• Used jQuery, Ajax calls to build dynamic websites.\n• Deployed Django web application in Apache webserver and Carpathia cloud web deployment.\n• Written numerous Django templates for page rendering.\n• Build JSON objects using the framework which will be used by JavaScript to control the flow of the page.\n• Resolved performance related issues using efficient coding.\n• Develop dynamic webpages using HTML, CSS, JavaScript and AJAX.\n• Worked on Bug fixes.\n• Installed numerous Python modules.\n• Built dB context, run context and other python objects that’s reused by application.\n• Developed a multi-user web application using JSP, JSTL, Action Forms, Action Classes, JavaScript and JDBC to provide the needed functionality.\n• Created entire application using Python, Django, MySQL and Linux.\n• Performed troubleshooting, fixed and deployed many Python bug fixes of the two main applications that were a main source of data for both customers and internal customer service team.\n\n…\nsee more",
+      "date1": "Jan 2014 – Jun 2015",
+      "date2": "1 yr 6 mos"
+    }
+  ],
+  "educations": [],
+  "skills": [],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/michael-rosenberg-3095a97/",
+      "text": "Manager of Contracts at TENICA and Associates LLC"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ruizhang519/",
+      "text": "Software Engineer at Amazon"
+    },
+    {
+      "user": "https://www.linkedin.com/in/srlockwood/",
+      "text": "J.D. Candidate, Texas A&M University School of Law"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jessica-dennis-105b0b16b/",
+      "text": "Junior Marketing (Analytics & Consulting) Student at Texas A&M University"
+    },
+    {
+      "user": "https://www.linkedin.com/in/natalie-cronk-e-i-t-006ba7124/",
+      "text": "Civil Engineering Analyst at Kimley-Horn"
+    },
+    {
+      "user": "https://www.linkedin.com/in/cody-coughenour-171a44165/",
+      "text": "Salesforce Developer at Revature"
+    },
+    {
+      "user": "https://www.linkedin.com/in/pablo-ortega-flores-90b3ab89/",
+      "text": "Investment Sales Associate at Marcus & Millichap"
+    },
+    {
+      "user": "https://www.linkedin.com/in/cody-bennett-b65350143/",
+      "text": "Certified Salesforce Developer at Infosys"
+    },
+    {
+      "user": "https://www.linkedin.com/in/amy-stoermer/",
+      "text": "Full-time Master's Student at Mays Business School Full-time E-Learning Developer at Texas A&M AgriLife"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jacob-baynham-86a4b9ab/",
+      "text": "Consultant at Credera"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Basheer Syed",
+    "headline": "Full Stack Python Developer at Humana",
+    "location": "Greenville, Texas",
+    "connections": "310",
+    "summary": "• Full stack developer Close to 4+ years of industrial experience in Designing, Development, Deployment and maintenance of web apps based on Django framework, Python platforms.\n• Experience of Programming using Object Oriented Programming (OOPs concept) and software development life cycle (SDLC), architecting scalable platforms, object-oriented programming, database design and agile methodologies.\n• Experience in using Eclipse, PyCharm, Visual Studio, PyScripter and Sublime Text while developing different application in python.\n• Professional Web Apps development experience using Django and Flask inclusive of experience in UI using Javascript and AngularJS.\n• Good experience in developing web applications implementing MVC architecture using Django, Flask and Webapp2 web application frameworks.\n• Well versed with Design and Development of presentation layer for web applications using technologies like HTML, CSS, and JavaScript.\n• Experience in using frameworks and tools like Django, Flask, Django REST, Hibernate ORM.\n• Proficient knowledge in Web services like Google Cloud and Amazon AWS Services.\n• Worked with varieties of Relational Databases (RDBMS) like SQL Server, Oracle, MySQL and PostgreSQL.\n• Experience in installing software using pip command for Python libraries like Beautiful Soup, NumPy, SciPy, PySide, python-twitter, RabbitMQ, Celery, matplotlib, Pandas data-frame and used PEP8 coding convention.\n• Have worked with J2EE Architecture and Apache Tomcat Server.\n• Familiar with RaspberryPI and Raspbian OS for UART controlling.\n• Good knowledge of version control software - CVS, GitHub. Have good knowledge on Project management tools JIRA, Redmine and Bugzilla.\n• Excellent communication and time management skills. Capable to learn new technologies and to work in the team environment independently."
+  }
+}

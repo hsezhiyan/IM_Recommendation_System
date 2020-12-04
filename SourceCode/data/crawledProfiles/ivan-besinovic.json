@@ -1,0 +1,176 @@
+{
+  "profileAlternative": {
+    "name": "Ivan Besinovic",
+    "headline": "Senior C++ and Java Software Engineer at Itekako",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQFTr5LSnj5AyA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=nfGt6shmJaqRBumhRoMzHu1F5bdSUnbeDdNbkmtg_f4",
+    "location": "Serbia",
+    "connections": "500+",
+    "summary": "Experienced Software Engineer with a demonstrated history of working in the information technology and services industry. Skilled in C++, x86 Assembly, Java and C#. Strong engineering professional graduated from School of Electrical Engineering, Belgrade."
+  },
+  "aboutAlternative": {
+    "text": "Experienced Software Engineer with a demonstrated history of working in the information technology and services industry. Skilled in C++, x86 Assembly, Java and C#. Strong engineering professional graduated from School of Electrical Engineering, Belgrade."
+  },
+  "positions": [
+    {
+      "title": "Senior C++ and Java Software Developer",
+      "companyName": "Itekako",
+      "location": "Belgrade",
+      "date1": "Aug 2015 – Present",
+      "date2": "4 yrs 4 mos"
+    },
+    {
+      "title": "Software Developer",
+      "companyName": "Devana Technologies",
+      "location": "Belgrade",
+      "date1": "Feb 2016 – Apr 2016",
+      "date2": "3 mos"
+    },
+    {
+      "title": "Software Developer",
+      "companyName": "Maxeler Technologies",
+      "location": "Belgrade",
+      "date1": "Sep 2014",
+      "date2": "1 mo"
+    },
+    {
+      "title": "Software Developer",
+      "companyName": "Itekako",
+      "location": "Belgrade",
+      "date1": "Mar 2014 – Aug 2014",
+      "date2": "6 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "School of Electrical Engineering, Belgrade",
+      "degree": "M.Sc. in Computer Engineering and Information Theory",
+      "fieldofstudy": "Information Technology",
+      "date1": "2014",
+      "date2": "2015"
+    },
+    {
+      "title": "School of Electrical Engineering, Belgrade",
+      "degree": "B.Sc. in Computer Engineering and Information Theory",
+      "date1": "2010",
+      "date2": "2014"
+    },
+    {
+      "title": "Vocational School of Electrical Engineering ''Nikola Tesla'', Belgrade",
+      "degree": "Computer Science",
+      "date1": "2006",
+      "date2": "2010"
+    }
+  ],
+  "skills": [
+    {
+      "title": "C++",
+      "count": "11"
+    },
+    {
+      "title": "C",
+      "count": "12"
+    },
+    {
+      "title": "Object-Oriented Programming (OOP)",
+      "count": "10"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "21",
+      "items": [
+        "Controller 4.0",
+        "Intervu",
+        "TGV",
+        "Encoder",
+        "Java back-end application for telecommunications",
+        "Robotic arm for table tennis",
+        "Viewer, Organizer and Starter",
+        "K-nearest neighbors on Data Flow technologies",
+        "Internet network simulation",
+        "Application for scheduling medical examination",
+        "K-nearest neighbors algorithm and decision trees",
+        "Koozzo",
+        "Chat application",
+        "Implementation of CPU, RAM memory and L1 cache in VHDL",
+        "Compiler for Micro Java",
+        "Construction of site: Innovation Centre of Faculty of Electrical Engineering",
+        "Game Warships",
+        "Linker and loader",
+        "Operating system",
+        "Operating system"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "English",
+        "Romanian",
+        "Serbian"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Link Mining in Facebook network"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/nenad-vitorovi%C4%87-02837b55/",
+      "text": "Senior Software Engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/stadanapisem/",
+      "text": "Software Engineer at Microsoft"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nikola-prica-42358315b/",
+      "text": "Software Engineer at RT-RK"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jovana-toroman-35237815a/",
+      "text": "Software Engineer at Microsoft"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ana-jevtic-022281114/",
+      "text": "QA Tester at Itekako"
+    },
+    {
+      "user": "https://www.linkedin.com/in/darko-vojki%C4%87-6bb881169/",
+      "text": "Node.js developer at Itekako"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mina-grani%C4%87/",
+      "text": "Software Engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nikola-ko%C5%A1anin-8ab746135/",
+      "text": "M.Sc. in Mechanical Engineering"
+    },
+    {
+      "user": "https://www.linkedin.com/in/dusanmilosavljevic/",
+      "text": "Senior Web Developer at Itekako"
+    },
+    {
+      "user": "https://www.linkedin.com/in/milanadundic/",
+      "text": "Software Engineering Student"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Ivan Besinovic",
+    "headline": "Senior C++ and Java Software Engineer at Itekako",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQFTr5LSnj5AyA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=nfGt6shmJaqRBumhRoMzHu1F5bdSUnbeDdNbkmtg_f4",
+    "location": "Serbia",
+    "connections": "500+",
+    "summary": "Experienced Software Engineer with a demonstrated history of working in the information technology and services industry. Skilled in C++, x86 Assembly, Java and C#. Strong engineering professional graduated from School of Electrical Engineering, Belgrade."
+  }
+}

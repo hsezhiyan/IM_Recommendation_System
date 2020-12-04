@@ -1,0 +1,200 @@
+{
+  "profileAlternative": {
+    "name": "Chet Lynch",
+    "headline": "Python Developer at Coding Temple/Seeking new opportunities in the Boston area",
+    "location": "Greater Boston Area",
+    "connections": "16",
+    "summary": "Experience building applications using Flask, Python, JavaScript, SQL, NumPy, and Pandas. Automated the process of creation of compelling and actionable interactive reports and dashboards using Python & SQL and visualized them on business intelligence tools. Proven ability to work under pressure in highly demanding situations and deliver projects according to expectations."
+  },
+  "aboutAlternative": {
+    "text": "Experience building applications using Flask, Python, JavaScript, SQL, NumPy, and Pandas. Automated the process of creation of compelling and actionable interactive reports and dashboards using Python & SQL and visualized them on business intelligence tools. Proven ability to work under pressure in highly demanding situations and deliver projects according to expectations."
+  },
+  "positions": [
+    {
+      "title": "Python Developer",
+      "companyName": "Coding Temple",
+      "location": "Boston",
+      "description": "Experience building applications using Flask, Python, JavaScript, SQL, NumPy, and Pandas. Automated the process of creation of compelling and actionable interactive reports and dashboards using Python & SQL and visualized them on business intelligence tools. Proven ability to work under pressure in highly demanding situations and deliver projects according to expectations.",
+      "date1": "Jul 2018 – Present",
+      "date2": "1 yr 5 mos"
+    },
+    {
+      "title": "Financial Manager",
+      "companyName": "Transamerica",
+      "location": "Waltham, Massachusetts",
+      "description": "built personalized retirement plans for clients\nbuilt and protected wealth for families and individuals\neducated clients about the importance of personal finance and life insurance",
+      "date1": "Oct 2013 – 2018",
+      "date2": "5 yrs"
+    },
+    {
+      "title": "Trading Analyst",
+      "companyName": "Wellseley Investment Advisors, Inc",
+      "location": "Wellseley, Massachusetts",
+      "description": "Provided support for trading and customer service teams\nAssisted with day to day trading activities including trade allocation and settlement\nIn-charge of resolving discrepancies between brokers and custodians",
+      "date1": "Nov 2014 – 2015",
+      "date2": "1 yr"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Coding Temple",
+      "degree": "Full Stack Python + Data Science",
+      "fieldofstudy": "Full Stack Python + Data Science",
+      "date1": "2018",
+      "date2": "2018"
+    },
+    {
+      "title": "University of Massachusetts Boston",
+      "degree": "Bachelor's degree",
+      "fieldofstudy": "Accounting and Finance",
+      "date1": "2012",
+      "date2": "2014"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Python (Programming Language)"
+    },
+    {
+      "title": "JavaScript"
+    },
+    {
+      "title": "HTML"
+    },
+    {
+      "title": "Lesson Planning"
+    },
+    {
+      "title": "Agile Methodologies"
+    },
+    {
+      "title": "Scrum"
+    },
+    {
+      "title": "Cascading Style Sheets (CSS)"
+    },
+    {
+      "title": "Flask"
+    },
+    {
+      "title": "React"
+    },
+    {
+      "title": "SQL"
+    },
+    {
+      "title": "Databases"
+    },
+    {
+      "title": "Microsoft Office"
+    },
+    {
+      "title": "Microsoft Word"
+    },
+    {
+      "title": "Microsoft PowerPoint"
+    },
+    {
+      "title": "git"
+    },
+    {
+      "title": "github"
+    },
+    {
+      "title": "AJAX"
+    },
+    {
+      "title": "Slack"
+    },
+    {
+      "title": "Jupyter Notebook"
+    },
+    {
+      "title": "Bootstrap"
+    },
+    {
+      "title": "JSON"
+    },
+    {
+      "title": "Anaconda"
+    },
+    {
+      "title": "Mandarin"
+    },
+    {
+      "title": "Atom"
+    },
+    {
+      "title": "NumPy"
+    },
+    {
+      "title": "API"
+    },
+    {
+      "title": "Sublime Text"
+    },
+    {
+      "title": "SQLAlchemy"
+    },
+    {
+      "title": "Pygal"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/mayurbhatia47/",
+      "text": "Bringing ideas to life with code as a Python/JavaScript Developer - Full-Stack - Seeking new opportunities in Boston, MA"
+    },
+    {
+      "user": "https://www.linkedin.com/in/carlos-marin-a08000178/",
+      "text": "Python Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sai-vishal-6a076a18a/",
+      "text": "Sr. Python Developer at Samsonite"
+    },
+    {
+      "user": "https://www.linkedin.com/in/rani-m-554112184/",
+      "text": "Python Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/david-ho-54a87a20/",
+      "text": "Software Engineer exploring new opportunities."
+    },
+    {
+      "user": "https://www.linkedin.com/in/uday-p-bbaa07178/",
+      "text": "Python Developer at NBC News"
+    },
+    {
+      "user": "https://www.linkedin.com/in/josh-hall-0b779211a/",
+      "text": "Contract Software Developer at TiggBee"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kartikay-gautam-122083151/",
+      "text": "Python Developer at Epsilon"
+    },
+    {
+      "user": "https://www.linkedin.com/in/geoff-stevens-413ba111b/",
+      "text": "Agile Software Engineer at Kessel Run"
+    },
+    {
+      "user": "https://www.linkedin.com/in/paul-klein-922963191/",
+      "text": "Software Developer at Coding Temple | Python | Javascript"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Chet Lynch",
+    "headline": "Python Developer at Coding Temple/Seeking new opportunities in the Boston area",
+    "location": "Greater Boston Area",
+    "connections": "16",
+    "summary": "Experience building applications using Flask, Python, JavaScript, SQL, NumPy, and Pandas. Automated the process of creation of compelling and actionable interactive reports and dashboards using Python & SQL and visualized them on business intelligence tools. Proven ability to work under pressure in highly demanding situations and deliver projects according to expectations."
+  }
+}

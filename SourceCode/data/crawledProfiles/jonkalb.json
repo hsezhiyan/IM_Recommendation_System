@@ -1,0 +1,420 @@
+{
+  "profileAlternative": {
+    "name": "Jon Kalb",
+    "headline": "Software Engineering Instructor",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQEZ-30nbKx2gw/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=ksrRwOHMts-B2OeXzE6Y4EA3w3cdw_GDsvxRurEf41E",
+    "location": "San Francisco Bay Area",
+    "connections": "500+",
+    "summary": "I'm using my decades of software engineering experience and knowledge about C++ to make other people better software engineers. I train experienced software engineers to be better programmers. I present at and help run technical conferences and local user groups.\nI'm passionate about quality code and want to inspire others to achieve their best engineering work.\nI'm excited about modern C++ and how we can exploit the latest hardware developments with standard, portable C++."
+  },
+  "aboutAlternative": {
+    "text": "I'm using my decades of software engineering experience and knowledge about C++ to make other people better software engineers. I train experienced software engineers to be better programmers. I present at and help run technical conferences and local user groups.\nI'm passionate about quality code and want to inspire others to achieve their best engineering work.\nI'm excited about modern C++ and how we can exploit the latest hardware developments with standard, portable C++."
+  },
+  "positions": [
+    {
+      "title": "Software Engineering Instructor",
+      "companyName": "Jon Kalb Consulting",
+      "description": "I work with companies to custom tailor material that meets the needs of their software engineering teams and present it on-site. I specialize in bringing teams up to speed with modern C++ and presenting advance topics in C++. Commonly requested topics include best practices, generic programming and best use of STL, and performance critical applications.\nI am an Approved Outside Vender for Scott Meyers training material. http://www.aristeia.com/training.html\nContact me at jon@cpp.training for information about availability and rates.",
+      "date1": "Jan 2013 – Present",
+      "date2": "6 yrs 11 mos"
+    },
+    {
+      "title": "Conference Chair",
+      "companyName": "CppCon",
+      "location": "Bellevue, Washington",
+      "description": "I chair the planning committee and am Conference Manager for the newest and largest C++ conference in the world.\nI recruit committee members and chairs that are responsible for all aspects of running the conference. I recruit volunteers and presenters, help program content, promote to attendees, negotiate with venders, and otherwise do whatever it help the planning committee create the conference.\n…\nsee more",
+      "date1": "Sep 2013 – Present",
+      "date2": "6 yrs 3 mos"
+    },
+    {
+      "title": "Conference Chair",
+      "companyName": "Boost",
+      "location": "Aspen, CO",
+      "description": "I chair the planning committee and am Conference Manager for C++Now (formerly BoostCon).\nI recruit committee members and chairs that are responsible for all aspects of running the conference. I recruit volunteers and presenters, help program content, promote to attendees, negotiate with venders, and otherwise do whatever it help the planning committee create the conference.\n…\nsee more",
+      "date1": "Nov 2011 – Present",
+      "date2": "8 yrs 1 mo"
+    },
+    {
+      "title": "Member of the Advisory Board",
+      "companyName": "Undo Software",
+      "location": "Palo Alto, California",
+      "description": "Undo Software is the leading commercial supplier of Linux and Android reversible debugging tools that enable software developers to record, rewind and replay their C/C++ code to respond quickly to customer critical bugs, increase their productivity and meet their development deadlines. I am advising them on communicating with software developers in the C++ community.",
+      "date1": "Nov 2014 – Dec 2015",
+      "date2": "1 yr 2 mos"
+    },
+    {
+      "title": "Software Engineer",
+      "companyName": "A9.com",
+      "location": "Palo Alto, California",
+      "description": "I'm responsible for maintenance and new features for the search engine used for Amazon's product search features.\nI added the ability to do \"A/B\" testing of search engine configurations to support evaluation of new approaches in ranking and other features.",
+      "date1": "Mar 2010 – Jul 2015",
+      "date2": "5 yrs 5 mos"
+    },
+    {
+      "title": "Software Engineer",
+      "companyName": "Microsoft",
+      "location": "Silicon Valley Campus",
+      "description": "I contributed to several releases of Entourage and the initial release of Outlook for Macintosh, which was based on the Entourage code base.",
+      "date1": "May 2001 – Mar 2010",
+      "date2": "8 yrs 11 mos"
+    },
+    {
+      "title": "Planning commitee",
+      "companyName": "MacHack, The Macintosh Technical Conference",
+      "description": "I supported the conference in a number of ways including presenting sessions, serving as Keynote Chairman, and working with the MacHax(TM) group to put on the annual show.",
+      "date1": "1992 – 2003",
+      "date2": "11 yrs"
+    },
+    {
+      "title": "Adjunct Professor",
+      "companyName": "Golden Gate University",
+      "location": "San Francisco, California",
+      "description": "Each semester I taught one session of a graduate course called, Introduction to Object-Oriented Development Using C++.",
+      "date1": "Sep 1999 – Dec 2002",
+      "date2": "3 yrs 4 mos"
+    },
+    {
+      "title": "Software Engineer",
+      "companyName": "Yahoo!",
+      "description": "Sole engineer working on the Macintosh Messenger client, a C++ application based on Metrowerk's PowerPlant framework.",
+      "date1": "Sep 2000 – Apr 2001",
+      "date2": "8 mos"
+    },
+    {
+      "title": "Software Engineer",
+      "companyName": "eGroups (now Yahoo! Groups)",
+      "description": "Responsible for shared files and links web application and general web UI development.",
+      "date1": "Sep 1999 – Sep 2000",
+      "date2": "1 yr 1 mo"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Wichita State University",
+      "degree": "BBA",
+      "fieldofstudy": "Major: Finance; Minors: Accounting Chemistry Economics Mathematics"
+    }
+  ],
+  "skills": [
+    {
+      "title": "C++",
+      "count": "77"
+    },
+    {
+      "title": "C/C++ STL",
+      "count": "43"
+    },
+    {
+      "title": "Software Engineering",
+      "count": "80"
+    },
+    {
+      "title": "Software Development",
+      "count": "50"
+    },
+    {
+      "title": "Software Design",
+      "count": "37"
+    },
+    {
+      "title": "Distributed Systems",
+      "count": "33"
+    },
+    {
+      "title": "Programming",
+      "count": "33"
+    },
+    {
+      "title": "OOP",
+      "count": "19"
+    },
+    {
+      "title": "Algorithms",
+      "count": "16"
+    },
+    {
+      "title": "Object Oriented Design",
+      "count": "17"
+    },
+    {
+      "title": "Debugging",
+      "count": "7"
+    },
+    {
+      "title": "User Interface",
+      "count": "3"
+    },
+    {
+      "title": "Web Applications",
+      "count": "11"
+    },
+    {
+      "title": "TCP/IP",
+      "count": "1"
+    },
+    {
+      "title": "Machine Learning",
+      "count": "1"
+    },
+    {
+      "title": "iOS development",
+      "count": "1"
+    },
+    {
+      "title": "Scalability",
+      "count": "5"
+    },
+    {
+      "title": "Event Management"
+    },
+    {
+      "title": "Software Project Management",
+      "count": "3"
+    },
+    {
+      "title": "Technical Training"
+    },
+    {
+      "title": "Object-Oriented Programming (OOP)",
+      "count": "4"
+    },
+    {
+      "title": "Internet Protocol Suite (TCP/IP)",
+      "count": "2"
+    },
+    {
+      "title": "Python",
+      "count": "35"
+    },
+    {
+      "title": "C",
+      "count": "33"
+    },
+    {
+      "title": "Unix",
+      "count": "18"
+    },
+    {
+      "title": "SQL",
+      "count": "6"
+    },
+    {
+      "title": "Hadoop",
+      "count": "2"
+    },
+    {
+      "title": "Xcode",
+      "count": "2"
+    },
+    {
+      "title": "Git",
+      "count": "4"
+    },
+    {
+      "title": "Subversion",
+      "count": "3"
+    },
+    {
+      "title": "Databases",
+      "count": "3"
+    },
+    {
+      "title": "Objective-C",
+      "count": "2"
+    },
+    {
+      "title": "Bash",
+      "count": "1"
+    },
+    {
+      "title": "Visual C++",
+      "count": "1"
+    },
+    {
+      "title": "XML",
+      "count": "3"
+    },
+    {
+      "title": "Windows",
+      "count": "1"
+    },
+    {
+      "title": "Open Source",
+      "count": "11"
+    },
+    {
+      "title": "Public Speaking",
+      "count": "4"
+    },
+    {
+      "title": "Teaching",
+      "count": "1"
+    },
+    {
+      "title": "Training",
+      "count": "1"
+    },
+    {
+      "title": "Programming Languages",
+      "count": "16"
+    },
+    {
+      "title": "STL",
+      "count": "6"
+    },
+    {
+      "title": "Network Programming",
+      "count": "1"
+    },
+    {
+      "title": "Cocoa",
+      "count": "1"
+    },
+    {
+      "title": "Parallel Computing",
+      "count": "1"
+    },
+    {
+      "title": "Conference Management"
+    },
+    {
+      "title": "Win32 API"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "9",
+    "receivedCount": "7",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/sergeyzhupanov/",
+        "text": "I had the pleasure of working with Jon on Search Infrastructure team at A9 for several years. Jon is an exceptional engineer -- very productive, pragmatic, with incredible degree of expertise in a diverse set of technologies. However, what made him particularly stand out was his phenomenal ability to transfer knowledge, be it technical or otherwise. Jon's out-of-this-world sense of humor combined with his superb charisma made him the soul of our lunch outings. Often, someone would float an interview problem or a puzzle they recently learned about. Jon's ability to solve these was truly legendary. Once, after spending more than an hour on a problem, I asked: \"How hard is it?\" The answer I got was: \"It's hard -- it took Kalb almost 30 seconds to crack it\"... Those around Jon, including me, felt very fortunate, and eagerly sought out every opportunity to learn from him. While I was sad to hear Jon transitioned from an engineering career to that of an educator, because it meant we will likely not work together again, I also rejoiced for the much larger audiences who will now be able to benefit from his teaching ability.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/lila-chase-42a81821/",
+        "text": "With his deep knowledge of the language and experience interacting with members of the community, Jon did an excellent job of presenting Scott Meyers' C++11/14 material to our group. He interacted well with the audience and effectively answered the many questions posed. And he added value with his personal insights and views on language features.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/kalen-brunham-14a1aa1/",
+        "text": "Jon has been invaluable at exposing my fellow developers and I the details of modern C++ programming. After personally taking two of Jon's classes I feel I have improved as a developer, but also have a better sense as to the current state of the art in software engineering."
+      },
+      {
+        "user": "https://www.linkedin.com/in/narajan/",
+        "text": "Jon is a C++ programming guru. He is also one of the best programmers I have ever known and certainly the easiest to get along with. He mentored several interns at Microsoft and conducted a weekly seminar on C++ programming and the Macintosh that was simply excellent."
+      },
+      {
+        "user": "https://www.linkedin.com/in/ricparks/",
+        "text": "Jon is the rare engineer who is truly and fully engaged and passionate about programming. He is also the first person I go to when I need a smart and creative problem solver to help me work through professional and programming issues. I hope we have the chance to work together again in the future because working with Jon has always been both a fun and an enlightening experience.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/lindensiahaan/",
+        "text": "Jon has a proven track record of repeatedly delivering features in a complex large-scale software project, meeting restrictive deadlines while dealing with punishing legacy code. He has an encyclopedic knowledge of C++ and has highly developed architectural skills. More than that, Jon has a passion for the art and science of software engineering. He is on a joyful quest to make himself and others more productive, write better code and produce better products. While constantly learning, Jon is also an excellent teacher. His highly reusable and maintainable code led by example, far exceeding the standards of the existing codebase. Through code reviews, mentoring junior engineers, and hosting informal classes benefiting dozens of developers, Jon has raised the quality of the code of the people around him. I look forward to opportunities to work with him in the future.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/devonhub/",
+        "text": "I've worked with Jon at multiple companies over the years. His knowledge and experience in software development is very good, and his work ethic and professionalism has always been impressive. On large or small teams, I've seen Jon add significant contributions to several projects over the years. I would work with him again and recommend him without any reservations.\n…\nSee more"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/kuzminrobin/",
+        "text": "I've been working with Robin since he served as a volunteer at C++Now in May of 2016. Most C++Now volunteers are thirsty for C++ knowledge, but Robin distinguished himself in that, in addition to technical knowledge, he was particularly conscientious about his assignments as a volunteer. He was ready, even eager, to learn how the conference was run and to take on more responsibilities leading to a transition from volunteer to staff.\n\nRobin is currently the Speaker Liaison for both C++Now and CppCon, the oldest and largest C++ conferences in the world, respectively. At both conferences he has taken on a number of other duties, most related to the conferences' technical content. His primary role, that of Speaker Liaison, is both very important to the conference and very time consuming for the liaison.\n\nIn addition to sending out information updates to all conference speakers, Robin is responsible for responding to the scores of questions and requests that we get every year from speakers, many of whom have not spoken at a conference before and some of whom make wrong assumptions about how these conferences are run.\n\nIn order to answer these questions and intermediate between speakers and other conference staff, Robin needs to know a lot of detail about how the conferences are run and I'm impressed that he can have learned all of that for both conference in so short a time.\n\nLike all the best software engineers, Robin is detail oriented and in addition he is extremely conscientious and reliable. It makes my job as conference chair so much easier when Robin volunteers to take something on, because I know that it will be done and done right.\n\nI'm impressed with Robin not just because he is a team player, executing on the plans developed (with his consultation) by the conference manager, but also because he's shown what he can do on his own.\n\nRobin recognized that there is a wealth of C++ videos available, but almost all are in English and, except for the auto-subtitling on YouTube (which is awful for tech videos), these videos have no subtitles and no translations.\n\nHe saw a need and went after it. He created and has led the C++ Video Access Project to recruit, train, and coordinate volunteers to provide captioning and translation of C++ Videos.\n\nThe C++ community owes a lot to Robin and I look forward to seeing how his leadership will continue to shape the community's future."
+      },
+      {
+        "user": "https://www.linkedin.com/in/jordimoncompanys/",
+        "text": "In addition to my day job developing the Amazon product search engine, I chair and manage a couple of technical conferences. It was in this capacity that Jordi contacted me on behalf of Biicode.\r\n\r\nBiicode was interested in engaging with the C++ community to drive adoption. This undertaking was made more challenging by a budget that was small even for a tech startup.\r\n\r\nBut due to Jordi's creativity and persistence we found a very economical way to gain recognition and gratitude from attendees at my oldest conference.\r\n\r\nI look forward to seeing what kind of impact he can make given real resources."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "5",
+      "items": [
+        "Amazon Search Engine",
+        "Microsoft Office:mac 2008",
+        "Microsoft Entourage:mac 2004 (Version 11.2)",
+        "Microsoft Office:mac 2004",
+        "Microsoft MSN for Mac OS X"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "C++ Russia, Keynote Speaker",
+        "Microsoft MVP",
+        "C++Now Best Tutorial"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "C++ Alliance",
+        "Boost C++ Libraries"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "C++ Today: The Beast is Back"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/jamesgosling/",
+      "text": "Software Engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/chandlerc/",
+      "text": "Principal Software Engineer at Google and Open Source Software Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/arthur-odwyer/",
+      "text": "Modern C++ guru"
+    },
+    {
+      "user": "https://www.linkedin.com/in/eric-niebler-64287/",
+      "text": "Software Engineer at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/meemaesguerra/",
+      "text": "Software Engineer at Splunk"
+    },
+    {
+      "user": "https://www.linkedin.com/in/bob-steagall-9649612a/",
+      "text": "Principal Engineer, C++ Advocate"
+    },
+    {
+      "user": "https://www.linkedin.com/in/linustorvalds/",
+      "text": "Fellow at Linux Foundation"
+    },
+    {
+      "user": "https://www.linkedin.com/in/natfriedman/",
+      "text": "CEO at GitHub"
+    },
+    {
+      "user": "https://www.linkedin.com/in/herb-sutter-826b436/",
+      "text": "SA at Microsoft"
+    },
+    {
+      "user": "https://www.linkedin.com/in/brycelelbach/",
+      "text": "C++ Community Leader, ISO C++ Library Incubator Chair, ISO C++ Tooling Chair, CUDA C++ Core Libraries Lead @ NVIDIA"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "C++ Track Chair",
+      "experience": "Silicon Valley Code Camp",
+      "description": "Science and Technology",
+      "date1": "Oct 2012 – Present",
+      "date2": "7 yrs 2 mos"
+    }
+  ],
+  "profile": {
+    "name": "Jon Kalb",
+    "headline": "Software Engineering Instructor",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQEZ-30nbKx2gw/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=ksrRwOHMts-B2OeXzE6Y4EA3w3cdw_GDsvxRurEf41E",
+    "location": "San Francisco Bay Area",
+    "connections": "500+",
+    "summary": "I'm using my decades of software engineering experience and knowledge about C++ to make other people better software engineers. I train experienced software engineers to be better programmers. I present at and help run technical conferences and local user groups.\nI'm passionate about quality code and want to inspire others to achieve their best engineering work.\nI'm excited about modern C++ and how we can exploit the latest hardware developments with standard, portable C++."
+  }
+}

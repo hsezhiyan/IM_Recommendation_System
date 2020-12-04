@@ -1,0 +1,207 @@
+{
+  "profileAlternative": {
+    "name": "Kevin Scott",
+    "headline": "Author of Deep Learning In Javascript",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQHR0tgi4dF5Eg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=MARQSaN4_L8Ng_zfu0PtC0rjzvdbwzZZq80mLSc1QtU",
+    "location": "Boston, Massachusetts",
+    "connections": "500+",
+    "summary": "I specialize in helping small (< 20) tech teams lay a strong web & mobile foundation, with particular emphasis on React/Redux technologies.\n\nI'm available for part-time consulting, as well as training and mentoring opportunities.\n\nI wrote a book, Deep Learning in Javascript: https://dljsbook.com"
+  },
+  "aboutAlternative": {
+    "text": "I specialize in helping small (< 20) tech teams lay a strong web & mobile foundation, with particular emphasis on React/Redux technologies.\n\nI'm available for part-time consulting, as well as training and mentoring opportunities.\n\nI wrote a book, Deep Learning in Javascript: https://dljsbook.com"
+  },
+  "positions": [
+    {
+      "title": "Author",
+      "companyName": "Deep Learning In Javascript",
+      "description": "Learn how to build Neural Networks with Javascript. For Hackers, by a Hacker.\n\nhttps://dljsbook.com",
+      "date1": "Feb 2019 – Present",
+      "date2": "10 mos"
+    },
+    {
+      "title": "Founder & Desingineer",
+      "companyName": "Theory Incorporated",
+      "location": "Greater Boston Area",
+      "description": "I’m the founder of Theory Incorporated, a consultancy helping early-stage startups craft beautiful web and mobile experiences",
+      "date1": "Apr 2016 – Present",
+      "date2": "3 yrs 8 mos"
+    },
+    {
+      "title": "Senior Developer",
+      "companyName": "Tenable",
+      "date1": "Sep 2014 – Mar 2016",
+      "date2": "1 yr 7 mos"
+    },
+    {
+      "title": "Venmo",
+      "location": "New York",
+      "date1": "Jun 2014 – Sep 2014",
+      "date2": "4 mos",
+      "roles": [
+        {
+          "title": "Product Manager",
+          "date1": "Jun 2014 – Sep 2014",
+          "date2": "4 mos"
+        },
+        {
+          "title": "Developer",
+          "date1": "Sep 2013 – Jun 2014",
+          "date2": "10 mos",
+          "location": "New York"
+        }
+      ]
+    },
+    {
+      "title": "Title\nProduct Manager",
+      "date1": "Jun 2014 – Sep 2014",
+      "date2": "4 mos",
+      "roles": [
+        {
+          "title": "Product Manager",
+          "date1": "Jun 2014 – Sep 2014",
+          "date2": "4 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nDeveloper",
+      "location": "New York",
+      "date1": "Sep 2013 – Jun 2014",
+      "date2": "10 mos",
+      "roles": [
+        {
+          "title": "Developer",
+          "date1": "Sep 2013 – Jun 2014",
+          "date2": "10 mos",
+          "location": "New York"
+        }
+      ]
+    },
+    {
+      "title": "Head Banana",
+      "companyName": "Scottlabs, LLC",
+      "description": "Ran my own development firm.",
+      "date1": "Nov 2009 – Aug 2012",
+      "date2": "2 yrs 10 mos"
+    },
+    {
+      "title": "Developer",
+      "companyName": "Edulence",
+      "date1": "Jul 2007 – Nov 2009",
+      "date2": "2 yrs 5 mos"
+    },
+    {
+      "title": "Product Associate",
+      "companyName": "Motionbox",
+      "date1": "Jun 2006 – Jun 2007",
+      "date2": "1 yr 1 mo"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Carnegie Mellon University",
+      "degree": "Master's degree",
+      "fieldofstudy": "Human Computer Interaction",
+      "date1": "2012",
+      "date2": "2013"
+    },
+    {
+      "title": "Brown University",
+      "degree": "BA",
+      "fieldofstudy": "Computer Music and Multimedia",
+      "date1": "2002",
+      "date2": "2006"
+    }
+  ],
+  "skills": [
+    {
+      "title": "User Experience",
+      "count": "30"
+    },
+    {
+      "title": "User Interface Design",
+      "count": "20"
+    },
+    {
+      "title": "Information Architecture",
+      "count": "13"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "1",
+    "receivedCount": "0",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/david-elks-1492a715/",
+        "text": "David performs top quality work. He's extremely competent and trustworthy, as well as easy to work with. Highly recommended!"
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "2",
+      "items": [
+        "Tandem",
+        "Portfolio"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Spanish"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/mimmilindquist/",
+      "text": "Marketing @ Venmo"
+    },
+    {
+      "user": "https://www.linkedin.com/in/danielcicconi/",
+      "text": "Senior Software Engineer at Good Uncle"
+    },
+    {
+      "user": "https://www.linkedin.com/in/lisa-ngai-0a06a39/",
+      "text": "Financial Planning & Analysis - PayPal Global Payment Initiatives & Venmo"
+    },
+    {
+      "user": "https://www.linkedin.com/in/joshuabendergordon/",
+      "text": "Teaching Deep Learning. Working on TensorFlow."
+    },
+    {
+      "user": "https://www.linkedin.com/in/frankliddy/",
+      "text": "Head of Strategic Growth at Venmo"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ashaegupta/",
+      "text": "Product Leader Squarespace | Previously Venmo, Customer.io, Hopscotch, Etsy, Stanford"
+    },
+    {
+      "user": "https://www.linkedin.com/in/maxg7/",
+      "text": "Engineering Leader @ Imagen -- we're hiring imagen.ai/careers"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nam-truong-9557905a/",
+      "text": "Web Developer - Machine Learning Engineer - Data Analyst"
+    },
+    {
+      "user": "https://www.linkedin.com/in/chase-dillon-31647753/",
+      "text": "Head of Brand Partnerships"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mickeyreiss/",
+      "text": "📲Building Visor - a simple app that does your taxes for you"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Kevin Scott",
+    "headline": "Author of Deep Learning In Javascript",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQHR0tgi4dF5Eg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=MARQSaN4_L8Ng_zfu0PtC0rjzvdbwzZZq80mLSc1QtU",
+    "location": "Boston, Massachusetts",
+    "connections": "500+",
+    "summary": "I specialize in helping small (< 20) tech teams lay a strong web & mobile foundation, with particular emphasis on React/Redux technologies.\n\nI'm available for part-time consulting, as well as training and mentoring opportunities.\n\nI wrote a book, Deep Learning in Javascript: https://dljsbook.com"
+  }
+}

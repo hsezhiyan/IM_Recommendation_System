@@ -1,0 +1,170 @@
+{
+  "profileAlternative": {
+    "name": "JeanHeyd M.",
+    "headline": "Software Engineer, Graphics Enthusiast, C++ Specialist",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQHIouUXTWxplA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=H6cffZ5jGhDjp_nLX15q5GUxl3Uq12OFfBO40o0eBvo",
+    "location": "Greater New York City Area",
+    "connections": "201",
+    "summary": "A software engineer looking to make tools and products that vastly boost productivity for everyone! Particular advanced proficiency in C++ and all its ecosystem tools."
+  },
+  "aboutAlternative": {
+    "text": "A software engineer looking to make tools and products that vastly boost productivity for everyone! Particular advanced proficiency in C++ and all its ecosystem tools."
+  },
+  "positions": [
+    {
+      "title": "Software Development Engineer",
+      "companyName": "Microsoft",
+      "description": "Prototyping cloud-enabled tools for checking deployments of machines\nSlimming down desktop application to Mobile-enabled (Surface-ready) function\nNetworking and API calls using OData",
+      "date1": "Jun 2014 – Sep 2014",
+      "date2": "4 mos"
+    },
+    {
+      "title": "Software Development Engineer",
+      "companyName": "Microsoft",
+      "location": "Redmond, Washington",
+      "description": "Foundation work with Unreal Engine 4 (UE4), its build system, and extending it using C++\nGained proficiency with UE4 Slate Framework in C++\nWorked on fresh Xbox One title and participated in rapid tools prototyping for development\nQA and Playtesting on various upcoming Xbox One titles",
+      "date1": "Jun 2013 – Sep 2013",
+      "date2": "4 mos"
+    },
+    {
+      "title": "Software Development Engineer",
+      "companyName": "Microsoft",
+      "description": "Created TeamNotify applet for displaying TeamFoundationServer SourceControl & related events\nProof-of-Concept for message queue's usability and responsiveness versus rapid server polling\nEliminated rapid-server-polling and replace with message queue-based notification system",
+      "date1": "May 2012 – Aug 2012",
+      "date2": "4 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Columbia University in the City of New York",
+      "degree": "Bachelor of Science (B.S.)",
+      "fieldofstudy": "Computer Science",
+      "date1": "2013",
+      "date2": "2019"
+    }
+  ],
+  "skills": [
+    {
+      "title": "C++",
+      "count": "2"
+    },
+    {
+      "title": "C",
+      "count": "1"
+    },
+    {
+      "title": "C#",
+      "count": "1"
+    },
+    {
+      "title": "Python"
+    },
+    {
+      "title": "LaTeX"
+    },
+    {
+      "title": "Java"
+    },
+    {
+      "title": "Visual Studio"
+    },
+    {
+      "title": "Microsoft Office"
+    },
+    {
+      "title": "OCaml"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "2",
+      "items": [
+        "Compile Fast, Run Faster, Scale Forever: A look into the sol2 Library",
+        "A Sun For the Moon - A Zero-Overhead Lua Abstraction using C++"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Best Lightning Talk: Runner Up"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Study Group 16: Unicode - ISO IEC JTC1/SC22/WG21 - The C++ Standards Committee"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Sol2"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/kuzminrobin/",
+      "text": "Crazy about C++ passionate bug preventer and meticulous code reviewer. Active Member of C++ Community."
+    },
+    {
+      "user": "https://www.linkedin.com/in/arthur-odwyer/",
+      "text": "Modern C++ guru"
+    },
+    {
+      "user": "https://www.linkedin.com/in/paul-fultz-ii-60391997/",
+      "text": "Software Engineer at AMD"
+    },
+    {
+      "user": "https://www.linkedin.com/in/lefticus/",
+      "text": "C++ Trainer, Speaker, and Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/gabriel-dos-reis-b111332/",
+      "text": "Principal SDE at Microsoft"
+    },
+    {
+      "user": "https://www.linkedin.com/in/david-stone-426a9637/",
+      "text": "Software Engineer at Uber"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mjcaisse/",
+      "text": "Principal at Ciere Consulting"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jonkalb/",
+      "text": "Software Engineering Instructor"
+    },
+    {
+      "user": "https://www.linkedin.com/in/barbara-geller-856491116/",
+      "text": "Software Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/grant-mercer-82a52097/",
+      "text": "Full Stack Developer at Slickdeals, LLC"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Student Volunteer",
+      "experience": "C++ Now 2018",
+      "description": "Science and Technology",
+      "date1": "May 2018",
+      "date2": "1 mo"
+    }
+  ],
+  "profile": {
+    "name": "JeanHeyd M.",
+    "headline": "Software Engineer, Graphics Enthusiast, C++ Specialist",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQHIouUXTWxplA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=H6cffZ5jGhDjp_nLX15q5GUxl3Uq12OFfBO40o0eBvo",
+    "location": "Greater New York City Area",
+    "connections": "201",
+    "summary": "A software engineer looking to make tools and products that vastly boost productivity for everyone! Particular advanced proficiency in C++ and all its ecosystem tools."
+  }
+}

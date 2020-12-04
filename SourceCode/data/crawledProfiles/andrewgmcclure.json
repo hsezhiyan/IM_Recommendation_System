@@ -1,0 +1,300 @@
+{
+  "profileAlternative": {
+    "name": "Andrew McClure",
+    "headline": "SQL BI Developer at Clarks",
+    "location": "Reading, United Kingdom",
+    "connections": "143",
+    "summary": "I am an MCITP certified database developer/administrator with over fifteen years’ experience working with SQL server, developing and managing many large and complex databases. I have extensive experience in developing and maintaining complex stored procedures (T-SQL and CLR), functions (T-SQL and CLR), views and also processing and loading large amounts of data into data warehouses. I have been involved with many long-term projects giving me valuable experience in performance tuning queries and identifying system bottlenecks. I have recently gained valuable experience in developing and managing SQL databases in the Microsoft Azure environment."
+  },
+  "aboutAlternative": {
+    "text": "I am an MCITP certified database developer/administrator with over fifteen years’ experience working with SQL server, developing and managing many large and complex databases. I have extensive experience in developing and maintaining complex stored procedures (T-SQL and CLR), functions (T-SQL and CLR), views and also processing and loading large amounts of data into data warehouses. I have been involved with many long-term projects giving me valuable experience in performance tuning queries and identifying system bottlenecks. I have recently gained valuable experience in developing and managing SQL databases in the Microsoft Azure environment."
+  },
+  "positions": [
+    {
+      "title": "SQL BI Developer",
+      "companyName": "Clarks",
+      "description": "Working within a team responsible for upgrading SQL Server 2005 databases to SQL Server 2014, I am responsible for converting approximately 60 DTS packages to SSIS packages. The initial conversion process used DTS xChange software to convert the DTS packages to SQL Server 2005 SSIS packages, and then upgraded to SQL Server 2014 packages using Visual Studio and SQL Server Data Tools (SSDT). The packages were then re-worked to take advantage of new SSIS functionality to simplify processing and improve error handling. Configuration files were used to simplify deployment to different environments. I am also responsible for defining and documenting the testing and migration process, this has included tracing and updating all the execution methods for the original DTS packages (scripts, stored procedures and SQL agent jobs).\n\nKey skills in this role:\n• SQL Server 2005, 2014\n• DTS xChange software\n• SSIS Development using Visual Studio.\n• Unit/ User acceptance testing\n• Documenting business process’\n\n…\nsee more",
+      "date1": "Oct 2018 – Present",
+      "date2": "1 yr 2 mos"
+    },
+    {
+      "title": "Director and Technical Consultant",
+      "companyName": "Blue Monkey Services Limited",
+      "date1": "Oct 2018 – Present",
+      "date2": "1 yr 2 mos"
+    },
+    {
+      "title": "Lead SQL Developer / DBA",
+      "companyName": "Xpert360",
+      "description": "As the senior developer/ dba, I was responsible for the full life cycle of a project to develop a complex telecommunication’s billing and reporting system, which would be entirely hosted in the Microsoft Azure environment with self-service reports / Dashboard via a portal. This role involved producing detailed design specifications, security audits, business continuity plans and disaster recovery plans. An important objective of the project was to keep on going costs to a minimum and this meant testing many different database configurations and techniques within Azure to find the best balance between cost and performance.\nI managed a small team of developers who were responsible for developing and implementing the final design, initial unit testing and finally user acceptance testing with the client. I finally set up the support infrastructure and developed the required processes to ensure all SLA, RTO and RPO requirements would be met.\n\nKey skills in this role:\n• Database – Microsoft Azure SQL Database V12, Microsoft SQL Server 2016\n• Azure Products – Azure SQL Database, Virtual Machines, Data Factory, VPN Gateway, File Storage, BLOB Storage\n• Advanced T-SQL development/ testing (Stored procedures, Functions and views)\n• Physical Design from business requirements.\n• Unit and integration testing using scripts.\n• Virtual servers.\n• Source control and release management with Team Foundation Server.\n• Automation with PowerShell scripting.\n• Development and maintenance of applications (C#).\n\n…\nsee more",
+      "date1": "Feb 2017 – Sep 2018",
+      "date2": "1 yr 8 mos"
+    },
+    {
+      "title": "SQL BI Developer",
+      "companyName": "Banco Santander",
+      "location": "Milton Keynes, United Kingdom",
+      "description": "Working with a small team to continue the development and testing of a new mortgage calculator programme which was required to replicate the functionality of a third-party application currently in use. This was then used to identify discrepancies and calculate any remediation payments, if required. My role involved loading multiple files daily from different data sources using SSIS packages through an ETL pipeline. Complex calculations within stored procedures\\ functions were required to handle all potential scenarios within an individual mortgage account. I liaised directly with technical consultants at the third-party supplier as well as subject matter experts within the bank to understand the current and correct handling of different mortgage account activities, and documenting the business and technical requirements of these. I developed an automated batch suite to process the required number of accounts to calculate account discrepancies which could then be displayed using SSRS reports. I also developed SSRS MI reports to calculate summary KPI information for weekly senior stakeholder meetings to allow monitoring of overall project budgets.\n\nKey skills in this role:\n• Database - Microsoft SQL Server 2014/ 2008 R2\n• Advanced T-SQL development/ testing (Stored procedures, Functions and views)\n• Unit and integration testing using scripts.\n• Implementation using release management scripts.\n• ETL (SSIS).\n• Reporting (SSRS).\n…\nsee more",
+      "date1": "Dec 2016 – Feb 2017",
+      "date2": "3 mos"
+    },
+    {
+      "title": "Lead SQL Developer /DBA",
+      "companyName": "Xpert360",
+      "location": "Maidenhead",
+      "description": "As the senior developer/ dba, I was responsible for the full life cycle of a project to develop a complex telecommunication’s billing and reporting system, which would be entirely hosted in the Microsoft Azure environment with self-service reports / Dashboard via a portal. This role involved producing detailed design specifications, security audits, business continuity plans and disaster recovery plans. An important objective of the project was to keep on going costs to a minimum and this meant testing many different database configurations and techniques within Azure to find the best balance between cost and performance.\nI managed a small team of developers who were responsible for developing and implementing the final design, initial unit testing and finally user acceptance testing with the client. I finally set up the support infrastructure and developed the required processes to ensure all SLA, RTO and RPO requirements would be met.\n\nKey skills in this role:\n• Database – Microsoft Azure SQL Database V12, Microsoft SQL Server 2016\n• Azure Products – Azure SQL Database, Virtual Machines, Data Factory, VPN Gateway, File Storage, BLOB Storage\n• Advanced T-SQL development/ testing (Stored procedures, Functions and views)\n• Physical Design from business requirements.\n• Unit and integration testing using scripts.\n• Virtual servers.\n• Source control and release management with Team Foundation Server.\n• Automation with PowerShell scripting.\n• Development and maintenance of applications (C#).\n\n…\nsee more",
+      "date1": "Feb 2016 – Dec 2016",
+      "date2": "11 mos"
+    },
+    {
+      "title": "SQL Developer",
+      "companyName": "Banco Santander",
+      "location": "Milton Keynes, United Kingdom",
+      "description": "I was responsible for replacing existing manual Excel PPI calculation spreadsheets, with an automated batch process that involved extracting the required data from various Oracle databases and calculating the PPI refunds using complex algorithms in SQL Server stored procedures. The itemised refunds were then stored in a SQL Server database and presented using SSRS reports. I was responsible for the complete design and implementation of the project; including liaising with all involved stakeholders to gather the business requirements and then translating the solution into a technical specification document. Once developed, I managed all unit / acceptance testing and final release to users.\n\nKey skills in this role:\n• Database - Microsoft SQL Server 2008 R2\n• Advanced T-SQL development/ testing (Stored procedures, Functions and views)\n• Unit and integration testing using scripts.\n• Implementation using release management scripts.\n• ETL (SSIS).\n• Reporting (SSRS).\n\n…\nsee more",
+      "date1": "Nov 2015 – Feb 2016",
+      "date2": "4 mos"
+    },
+    {
+      "title": "Technical Consultant",
+      "companyName": "Decrevi Solutions Limited",
+      "description": "Providing development, administration and support in Microsoft SQL Server Database environments.",
+      "date1": "Jun 2012 – Feb 2016",
+      "date2": "3 yrs 9 mos"
+    },
+    {
+      "title": "Senior Technical Consultant",
+      "companyName": "Mobile Enterprise Limited",
+      "location": "Newbury",
+      "description": "I was solely responsible for the design and implementation of the new MVNO (mobile virtual network operator) wholesale bundle billing system for Vodafone, whilst also performing the DBA role for their existing SQL server databases. This billing system was required to process millions of CDR records from disparate systems on a daily basis. The process involved data validation, transformation, exception reporting, auditing, complex algorithms for billing individual mobiles, and archiving data to the data warehouse for reporting and revenue assurance. I was responsible for upgrading the existing databases from SQL Server 2008R2 to SQL Server 2014, this required particular attention to cater for the CLR moving from version 2 to version 4. I also implemented source control for all the SQL Server databases using Team Foundation Server.\n\nKey skills in this role:\n• Databases - Microsoft SQL Server 2014/ 2008 R2\n• Advanced T-SQL development/ testing (Stored procedures, Functions and views)\n• CLR development/ testing (Stored procedures, Functions)\n• ETL (SSIS)\n• Reporting (SSRS & Excel)\n• Query performance tuning\n• Unit and integration testing using scripts\n• Implementation using release management scripts.\n• Source control with Team Foundation Server\n• Database security\n…\nsee more",
+      "date1": "Nov 2014 – Aug 2015",
+      "date2": "10 mos"
+    },
+    {
+      "title": "Technical Consultant",
+      "companyName": "Xpert360",
+      "description": "I was a SQL developer at Cincom Systems LTD (via XPert 360 Ltd) involved with the design, development and implementation of a large global corporate web application for Konecranes. This application was used to configure complex crane systems, and managed the whole workflow process from initial configuration, technical drawing, offer documents, contract documents and integration with SAP to start the manufacturing process.\nThe technologies involved were WPF, WCF services and SQL Server2008R2 database, and the system was developed using agile methodology.\n\nKey skills in this role:\n• Database - Microsoft SQL Server 2008 R2\n• Advanced T-SQL development/ testing (Stored procedures, Functions and views)\n• CLR development/ testing (Stored procedures, Functions)\n• XML processing using Xquery and CLR.\n• Physical Design from business requirements.\n• SCRUM Team development\n• Unit and integration testing using scripts.\n• Implementation using release management scripts.\n• Source control with Team Foundation Server.\n• Development and maintenance of WCF services (C#).\n…\nsee more",
+      "date1": "Jul 2012 – Nov 2014",
+      "date2": "2 yrs 5 mos"
+    },
+    {
+      "title": "Senior Database Administrator (Security Cleared SC)",
+      "companyName": "QinetiQ",
+      "location": "Farnborough",
+      "description": "I was a member of the DBA team responsible for monitoring and managing in excess of one hundred SQL Server instances. These instances were running varied versions of SQL Server (2000, 2005 and 2008R2) and the critical instance were using Clustering, database mirroring and log shipping.\nI was the DBA within a team responsible for the migration of their corporate SAP implementation on an Oracle database to SQL server. I worked closely with the server, network and storage team along with a Microsoft consultant to design the complete configuration of database and application servers following Microsoft best practice and guidance. This was a corporate critical application and required the implementation of a clustered environment for high availability and database mirroring to a separate datacentre for disaster recovery requirements.\n\nKey skills in this role:\n• Databases - Microsoft SQL Server 2000, 2005, 2008 R2\n• Installing and configuring SQL Server instances\n• Log shipping and Database mirroring\n• Reporting (SSRS)\n• ETL (SSIS)\n• Virtualised servers\n• Source control with Team Foundation Server.\n• Monitoring using System Center Operations Manager (SCOM)\n…\nsee more",
+      "date1": "Mar 2012 – Jul 2012",
+      "date2": "5 mos"
+    },
+    {
+      "title": "Senior Database Administrator\\ Developer",
+      "companyName": "Mobile Enterprise Limited",
+      "location": "Newbury",
+      "description": "Reporting directly to the company’s IT director I had sole responsibility for the entire SQL Server database estate within this data analytics company in the mobile telecommunications sector. My role included the design of large enterprise SQL Server databases, design and implementation of back-up and disaster recovery plans and 24/7 production support ensuring SLA requirements were met or exceeded. This main system processed millions of records from disparate systems on a daily basis. This process involved data validation, transformation, exception reporting, auditing, and archiving data to the data warehouse. I was also responsible for documenting company procedures and managing project budgets and deadlines.\n\nKey skills in this role:\n• Installation and configuration SQL server 2000 /2005/2008 databases\n• 24/7 on call support\n• Backup/Recovery\n• Database security\n• Query performance tuning\n• Advanced T-SQL development/ testing (Stored procedures, Functions and views)\n• Log shipping\n• Database mirroring\n• Reporting (SSRS & Excel)\n• ETL (SSIS)\n• SAN configuration and support\n\nOther skills:\n• ASP.NET website development\n• Windows Server configuration\n• Active Directory\n• MS Exchange 2003 support\n…\nsee more",
+      "date1": "Jun 2006 – Mar 2012",
+      "date2": "5 yrs 10 mos"
+    },
+    {
+      "title": "Analyst Programmer/SQL Server Developer",
+      "companyName": "Inform Information Systems Limited",
+      "description": "A solution provider for many blue chip organisations, particularly the retail fuel industry.\nI joined this company as a Cobol/Mainframe programmer and later cross-trained to become a SQL server developer. Ultimately working as the team leader of an efficient roll-out and development team, working on a Global Web Application (CRUSO) for Exxon Mobil. I joined this project in its prototype stage and was continually involved as it evolved to become a high-availability critical application. I was responsible for making the necessary databases and web changes to expand the system and bring further sites/interfaces into the application. I liaised directly with our customers in order to produce design specifications to meet their business requirements and provide them with budget and timescale estimations. My team developed the code and carried out unit & integration testing, implementation and support. I was also responsible for managing the budget for this project and for overseeing the work-load of each team member.\n…\nsee more",
+      "date1": "May 1999 – Jun 2006",
+      "date2": "7 yrs 2 mos"
+    },
+    {
+      "title": "Cobol Programmer",
+      "companyName": "Q Data Consulting",
+      "date1": "Jan 1998 – May 1999",
+      "date2": "1 yr 5 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "University of Leeds",
+      "degree": "Mechanical Engineering",
+      "fieldofstudy": "Mechanical Engineering",
+      "date1": "1989",
+      "date2": "1991"
+    },
+    {
+      "title": "St Bartholomew's Sixth Form",
+      "date1": "1986",
+      "date2": "1988"
+    },
+    {
+      "title": "Park House",
+      "date1": "1982",
+      "date2": "1987"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Microsoft SQL Server",
+      "count": "9"
+    },
+    {
+      "title": "Databases",
+      "count": "8"
+    },
+    {
+      "title": "T-SQL",
+      "count": "5"
+    },
+    {
+      "title": "ETL",
+      "count": "4"
+    },
+    {
+      "title": "Data Warehousing",
+      "count": "4"
+    },
+    {
+      "title": "Data Migration",
+      "count": "2"
+    },
+    {
+      "title": "Performance Tuning"
+    },
+    {
+      "title": "Database Design"
+    },
+    {
+      "title": "Business Intelligence"
+    },
+    {
+      "title": "Database Administration"
+    },
+    {
+      "title": "Data Modeling"
+    },
+    {
+      "title": "Solution Architecture"
+    },
+    {
+      "title": "Integration"
+    },
+    {
+      "title": "SSIS",
+      "count": "4"
+    },
+    {
+      "title": "SQL Server Integration Services (SSIS)",
+      "count": "3"
+    },
+    {
+      "title": "SSRS",
+      "count": "2"
+    },
+    {
+      "title": "SQL",
+      "count": "2"
+    },
+    {
+      "title": "SQL Server",
+      "count": "1"
+    },
+    {
+      "title": "WCF",
+      "count": "1"
+    },
+    {
+      "title": "Visual Studio",
+      "count": "1"
+    },
+    {
+      "title": "XML",
+      "count": "1"
+    },
+    {
+      "title": "SQL Server Reporting Services (SSRS)",
+      "count": "1"
+    },
+    {
+      "title": "ASP.NET"
+    },
+    {
+      "title": "MySQL"
+    },
+    {
+      "title": "COBOL"
+    },
+    {
+      "title": "Stored Procedures",
+      "count": "2"
+    },
+    {
+      "title": "Analysis Services",
+      "count": "2"
+    },
+    {
+      "title": "SQL Tuning"
+    },
+    {
+      "title": "Database Development"
+    },
+    {
+      "title": "OLAP"
+    },
+    {
+      "title": "SSAS"
+    },
+    {
+      "title": "SQL Server 2000-2008"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/paul-greenbank-49bab718/",
+      "text": "SQL Server / BI Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/carlbarker/",
+      "text": "Commercial Director and Consultant at In-Nuce Ltd"
+    },
+    {
+      "user": "https://www.linkedin.com/in/julia-geddes-87662123/",
+      "text": "SQL Server Specialist"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ned-giongo-0b8290139/",
+      "text": "Branch Manager at BEAVERBROOKS THE JEWELLERS LTD"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sqlegan/",
+      "text": "SQL Server DBA"
+    },
+    {
+      "user": "https://www.linkedin.com/in/paul-ibison-83429a1/",
+      "text": "Senior SQL Server DBA at DevOpsGroup and Preqin"
+    },
+    {
+      "user": "https://www.linkedin.com/in/darren-woodcock-85111887/",
+      "text": "DBA Team Lead at University of Leeds"
+    },
+    {
+      "user": "https://www.linkedin.com/in/richard-jackson-7a90192/",
+      "text": "SQL Server DBA at Communisis"
+    },
+    {
+      "user": "https://www.linkedin.com/in/paul-henry-87122a10/",
+      "text": "Senior Database Analyst at Leeds Building Society"
+    },
+    {
+      "user": "https://www.linkedin.com/in/teuta-mustafaj-141221157/",
+      "text": "Senior Assistant Manager at Pixi Inc."
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Andrew McClure",
+    "headline": "SQL BI Developer at Clarks",
+    "location": "Reading, United Kingdom",
+    "connections": "143",
+    "summary": "I am an MCITP certified database developer/administrator with over fifteen years’ experience working with SQL server, developing and managing many large and complex databases. I have extensive experience in developing and maintaining complex stored procedures (T-SQL and CLR), functions (T-SQL and CLR), views and also processing and loading large amounts of data into data warehouses. I have been involved with many long-term projects giving me valuable experience in performance tuning queries and identifying system bottlenecks. I have recently gained valuable experience in developing and managing SQL databases in the Microsoft Azure environment."
+  }
+}

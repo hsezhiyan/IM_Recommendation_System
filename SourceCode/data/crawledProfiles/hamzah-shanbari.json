@@ -1,0 +1,164 @@
+{
+  "profileAlternative": {
+    "name": "Hamzah Shanbari",
+    "headline": "Construction Technology Enthusiast at Haskell",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQGRpJ1M5qfKng/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=xui9-9bFYV_RZZJ_A9QIZDejDeksb6qNrs5CQViz9qE",
+    "location": "Jacksonville, Florida Area",
+    "connections": "500+"
+  },
+  "aboutAlternative": {},
+  "positions": [
+    {
+      "title": "The Haskell Company",
+      "description": "Successfully led 3D Coordination meetings on several projects. In addition, created several color-coded quantity takeoff sheets, Point-Cloud-based models and 4D simulation videos. Established workflows and standards for implementing sUAS and Virtual Reality applications within the company.",
+      "date1": "Jun 2018 – Present",
+      "date2": "1 yr 6 mos",
+      "roles": [
+        {
+          "title": "Manager - Construction Technology & Innovation",
+          "date1": "Jun 2018 – Present",
+          "date2": "1 yr 6 mos"
+        },
+        {
+          "title": "Virtual Construction Specialist",
+          "date1": "Jun 2016 – Jun 2018",
+          "date2": "2 yrs 1 mo"
+        }
+      ]
+    },
+    {
+      "title": "Title\nManager - Construction Technology & Innovation",
+      "date1": "Jun 2018 – Present",
+      "date2": "1 yr 6 mos",
+      "roles": [
+        {
+          "title": "Manager - Construction Technology & Innovation",
+          "date1": "Jun 2018 – Present",
+          "date2": "1 yr 6 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nVirtual Construction Specialist",
+      "description": "Successfully led 3D Coordination meetings on several projects. In addition, created several color-coded quantity takeoff sheets, Point-Cloud-based models and 4D simulation videos. Established workflows and standards for implementing sUAS and Virtual Reality applications within the company.",
+      "date1": "Jun 2016 – Jun 2018",
+      "date2": "2 yrs 1 mo",
+      "roles": [
+        {
+          "title": "Virtual Construction Specialist",
+          "date1": "Jun 2016 – Jun 2018",
+          "date2": "2 yrs 1 mo"
+        }
+      ]
+    },
+    {
+      "title": "BIM Coordinator",
+      "companyName": "BBI Construction Management, Inc.",
+      "location": "Gainesville, Florida",
+      "description": "Worked in developing and updating as-­built models of current projects in addition to running clash detection tests for new projects. Moreover, developed several conceptual designs and 3D renderings of potential projects for marketing purposes.",
+      "date1": "Jan 2014 – Dec 2016",
+      "date2": "3 yrs"
+    },
+    {
+      "title": "Research Assistant",
+      "companyName": "University of Florida",
+      "description": "Performed extensive data analysis for construction related research. In addition, contributed to published papers about: augmented reality in construction, use of unmanned aerial vehicles in construction, cloud computing in construction and virtual reality and gaming engines in CM education. Moreover, assisting teacher for both graduates and undergraduates BIM classes. Lastly, coaching the UF Virtual Design and Construction (VDC) team to win a national championship (ASC regions 6 & 7 2014).\n…\nsee more",
+      "date1": "Jan 2013 – May 2016",
+      "date2": "3 yrs 5 mos"
+    },
+    {
+      "title": "Cost Engineer",
+      "companyName": "Saudi Aramco",
+      "description": "Responsibilities included keeping track of several large projects’ cash flow and expenditures and submitting early estimates of proposed projects and change orders of current projects. Conducted weekly site visits to compare quantities and quality of delivered materials and equipment.",
+      "date1": "Mar 2011 – Mar 2012",
+      "date2": "1 yr 1 mo"
+    },
+    {
+      "title": "Construction Project Manager",
+      "companyName": "Samba Financial Group",
+      "description": "Worked as an owner’s rep in charge of branch construction projects coordinating with several contractors. Main job was to ensure contractors delivered projects on time, within budget and with specified quality and standards. Conducted weekly site visits to generate progress reports and punch-item lists. Successfully completed and opened 2 brand new stand-alone and 3 rented-space branches (average of 16,000 SF each)\n…\nsee more",
+      "date1": "Mar 2006 – May 2008",
+      "date2": "2 yrs 3 mos"
+    },
+    {
+      "title": "Coop Trainee - Construction Division",
+      "companyName": "NCB",
+      "description": "Cooperative training program required for graduation from KFUPM. Handled mostly construction drawings revision for new branches. Conducted site visits for quality assurance.",
+      "date1": "Jun 2004 – Jan 2005",
+      "date2": "8 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "University of Florida",
+      "degree": "Doctor of Philosophy (Ph.D.)",
+      "fieldofstudy": "Design, Construction and Planning",
+      "date1": "2012",
+      "date2": "2016"
+    },
+    {
+      "title": "University of Florida",
+      "degree": "Master of Science",
+      "fieldofstudy": "Building Construction",
+      "date1": "2009",
+      "date2": "2010"
+    },
+    {
+      "title": "King Fahd University of Petroleum & Minerals",
+      "degree": "Bachelor of Science",
+      "fieldofstudy": "Architectural Engineering",
+      "date1": "2000",
+      "date2": "2006"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Autodesk Revit",
+      "count": "2"
+    },
+    {
+      "title": "Autodesk Navisworks",
+      "count": "2"
+    },
+    {
+      "title": "Vico Office"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "8",
+      "items": [
+        "Use of video games to enhance construction management education",
+        "Laser Scanning Technology and BIM in Construction Management Education",
+        "Laser Scanning and BIM",
+        "Graphical User Interface in Interactive Education: An Implementation in the Construction Industry",
+        "Use of Video Games to Enhance Construction Management Education",
+        "Project Coordination Using Cloud Based BIM Computing in Education",
+        "Video Games in Education: An Implementation in Teaching Construction Management to College Students",
+        "Impact of Pre-Construction Project Planning on Cost Savings"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "Arabic",
+        "English"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Hamzah Shanbari",
+    "headline": "Construction Technology Enthusiast at Haskell",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQGRpJ1M5qfKng/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=xui9-9bFYV_RZZJ_A9QIZDejDeksb6qNrs5CQViz9qE",
+    "location": "Jacksonville, Florida Area",
+    "connections": "500+"
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "profileAlternative": {
+    "name": "Monica Lu",
+    "headline": "Strategy and Analytics at MongoDB",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQFwx1PnTvAV-Q/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=HEOa0dgb7J8hvGm4iOR1ycj5aSQqFFn29Iso2_gVZGU",
+    "location": "New York, New York",
+    "connections": "500+"
+  },
+  "aboutAlternative": {},
+  "positions": [
+    {
+      "title": "Analyst, Sales Strategy & Analytics",
+      "companyName": "MongoDB",
+      "location": "Greater New York City Area",
+      "date1": "May 2018 – Present",
+      "date2": "1 yr 7 mos"
+    },
+    {
+      "title": "Senior Strategy Analyst",
+      "companyName": "JPMorgan Chase & Co.",
+      "location": "Greater New York City Area",
+      "date1": "May 2017 – May 2018",
+      "date2": "1 yr 1 mo"
+    },
+    {
+      "title": "Business Transformation and Strategy Consultant",
+      "companyName": "IBM",
+      "date1": "Jun 2016 – May 2017",
+      "date2": "1 yr"
+    },
+    {
+      "title": "Princeton University",
+      "location": "Princeton, New Jersey",
+      "date1": "Oct 2012 – May 2016",
+      "date2": "3 yrs 8 mos",
+      "roles": [
+        {
+          "title": "Peer Tutor",
+          "date1": "Oct 2012 – May 2016",
+          "date2": "3 yrs 8 mos",
+          "location": "Princeton, New Jersey"
+        },
+        {
+          "title": "TigerCaller",
+          "date1": "Sep 2012 – May 2013",
+          "date2": "9 mos",
+          "location": "Princeton, New Jersey"
+        }
+      ]
+    },
+    {
+      "title": "Title\nPeer Tutor",
+      "location": "Princeton, New Jersey",
+      "date1": "Oct 2012 – May 2016",
+      "date2": "3 yrs 8 mos",
+      "roles": [
+        {
+          "title": "Peer Tutor",
+          "date1": "Oct 2012 – May 2016",
+          "date2": "3 yrs 8 mos",
+          "location": "Princeton, New Jersey"
+        }
+      ]
+    },
+    {
+      "title": "Title\nTigerCaller",
+      "location": "Princeton, New Jersey",
+      "date1": "Sep 2012 – May 2013",
+      "date2": "9 mos",
+      "roles": [
+        {
+          "title": "TigerCaller",
+          "date1": "Sep 2012 – May 2013",
+          "date2": "9 mos",
+          "location": "Princeton, New Jersey"
+        }
+      ]
+    },
+    {
+      "title": "Summer Strategy Analyst",
+      "companyName": "J.P. Morgan",
+      "description": "Strategy & Process Improvement Team",
+      "date1": "Jun 2015 – Aug 2015",
+      "date2": "3 mos"
+    },
+    {
+      "title": "Electrical Engineering Intern",
+      "companyName": "University of Nebraska–Lincoln",
+      "location": "Lincoln, Nebraska Area",
+      "description": "Collaborated with Electrical Engineering professor and graduate students on next-generation high-speed fiber-optic temperature sensor, which operates 30 times the speed of commercial counterparts",
+      "date1": "May 2014 – Aug 2014",
+      "date2": "4 mos"
+    },
+    {
+      "title": "Engineering Intern",
+      "companyName": "University of Nebraska–Lincoln",
+      "location": "Lincoln, Nebraska",
+      "description": "Utilized Microsoft Excel and MATLAB to manipulate data for obtaining numerical solutions to\ndifferential equations associated with wind energy research. Obtained data from rooftop wind turbine using LabView in order to find efficiency levels of installing wind turbines in residential areas.",
+      "date1": "Jun 2012 – Aug 2012",
+      "date2": "3 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Princeton University",
+      "degree": "Bachelor of Engineering (B.E.)",
+      "fieldofstudy": "Electrical Engineering"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Java",
+      "count": "4"
+    },
+    {
+      "title": "Matlab",
+      "count": "5"
+    },
+    {
+      "title": "Consulting",
+      "count": "2"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "19",
+      "items": [
+        "Advanced General Chemistry",
+        "Algorithms and Data Structures",
+        "Building Real Systems",
+        "Contemporary Logic Design",
+        "Corporate Finance",
+        "Designing Real Systems",
+        "Differential Equations",
+        "Electromagnetic Field Theory and Optics",
+        "Electronic Circuit Design",
+        "Electronics and Photonic Devices",
+        "General Computer Science",
+        "Information and Signals",
+        "Introduction to Microeconomics",
+        "Junior Indepedent Work",
+        "Laser Spectroscopy",
+        "Linear Algebra",
+        "Microeconomic Theory",
+        "Multivariable Calculus",
+        "Sophomore Independent Work"
+      ]
+    },
+    {
+      "count": "4",
+      "items": [
+        "IEEE",
+        "Business Today",
+        "Princeton Business Volunteers",
+        "Princeton Premedical Society"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "Characterizing an Integrated Optical Interference Cancellation System",
+        "Optical Interference Cancellation System",
+        "Electrocardiogram"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "Chinese",
+        "English"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Microwave Photonic Self-Interference Cancellation System Using a Slow and Fast Light Delay Line"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/xiang-gao-6977b4a/",
+      "text": "Engineering Team Lead at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shreya-seth-16938765/",
+      "text": "Strategic Finance at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/seong17/",
+      "text": "Vice President, Strategy & Product Marketing"
+    },
+    {
+      "user": "https://www.linkedin.com/in/matt-highland-7442639a/",
+      "text": "Growth Analytics & Operations Strategy at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/r-gooch/",
+      "text": "Analytics Manager at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/alex-cartlidge/",
+      "text": "Data Analyst at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ajzaharioudakis/",
+      "text": "Manager, Financial Planning and Analysis at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nichole-jones-mosby-3895b999/",
+      "text": "retail manager at Target"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nicksweeneybayarea/",
+      "text": "Marketing Specialist"
+    },
+    {
+      "user": "https://www.linkedin.com/in/laurenjsokal/",
+      "text": "Technical Recruiter @ MongoDB"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Volunteer",
+      "experience": "Madonna Rehabilitation Hospital"
+    },
+    {
+      "title": "Volunteer",
+      "experience": "St. Elizabeth Regional Medical Center"
+    }
+  ],
+  "profile": {
+    "name": "Monica Lu",
+    "headline": "Strategy and Analytics at MongoDB",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQFwx1PnTvAV-Q/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=HEOa0dgb7J8hvGm4iOR1ycj5aSQqFFn29Iso2_gVZGU",
+    "location": "New York, New York",
+    "connections": "500+"
+  }
+}

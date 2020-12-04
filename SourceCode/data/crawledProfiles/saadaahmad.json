@@ -1,0 +1,212 @@
+{
+  "profileAlternative": {
+    "name": "Saad Ahmad",
+    "headline": "Lead Software Engineer at Magic Leap",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQEY1_cLr8t3KQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=ApNmIw1YysSTvk1bzdQVdZCWjP9bGgrRhu2c6_ZMqew",
+    "location": "San Francisco Bay Area",
+    "connections": "419",
+    "summary": "C++\n• 10+ years • C++14 and C++17\n\nOTHER LANGUAGES\n• Python (Working)\n\nEMBEDDED PROGRAMMING\n• Many-core Processors • Cache Coherency • In-Memory Layout • Deep Learning • Computer Vision • Bare-metal programming\n\nOPTIMIZATIONS\n• Multi-threaded code • SIMD programming • Built-in intrinsics • Profiling • Cache friendly code • Parallel programming • CUDA\n\nCOMPUTER VISION\n• SLAM • Feature Detection • Feature Tracking • Stereo Matching • Pose Estimation\n\nIMAGE PROCESSING\n• Convolutions • Filtering • Transformations\n\n3D\n• Linear Algebra • Transformations\n\nDEVELOPMENT TOOLS\n• Linux • Git • CMake • QtCreator"
+  },
+  "aboutAlternative": {
+    "text": "C++\n• 10+ years • C++14 and C++17\n\nOTHER LANGUAGES\n• Python (Working)\n\nEMBEDDED PROGRAMMING\n• Many-core Processors • Cache Coherency • In-Memory Layout • Deep Learning • Computer Vision • Bare-metal programming\n\nOPTIMIZATIONS\n• Multi-threaded code • SIMD programming • Built-in intrinsics • Profiling • Cache friendly code • Parallel programming • CUDA\n\nCOMPUTER VISION\n• SLAM • Feature Detection • Feature Tracking • Stereo Matching • Pose Estimation\n\nIMAGE PROCESSING\n• Convolutions • Filtering • Transformations\n\n3D\n• Linear Algebra • Transformations\n\nDEVELOPMENT TOOLS\n• Linux • Git • CMake • QtCreator"
+  },
+  "positions": [
+    {
+      "title": "Magic Leap",
+      "location": "Sunnyvale, California",
+      "description": "- Worked on various tasks in multiple domains like SLAM, Deep Learning, 6-DOF Controller Tracking\n- Wrote C++14 code for real-time performance with limited compute, memory and bandwith\n- Wrote multi-threaded code with no hardware mutexes and dealt with synchronization issues\n- Sped up PC simulation code by 4-10x resulting savings in cloud compute cost and developer time.\n\n- Implemented state synchronization protocol across multiple systems\n- Debugged issues such as cache coherency, incorrectly compiled code, crashes, bottlenecks\n- Updated PC unit test framework to model and catch above device specic issues\n- Created on-device simulation to compute metrics on pre-recorded data for regression testing\n- Created scripts to simplify building, ashing, debugging, running tests to improve team productivity\n\n- Received company wide award for helping coworkers and achieving important deliverables\n- Worked with external vendors and internal teams based in Florida, Switzerland, and Israel\n…\nsee more",
+      "date1": "Feb 2018 – Jul 2018",
+      "date2": "6 mos",
+      "roles": [
+        {
+          "title": "Lead Software Engineer",
+          "date1": "Feb 2018 – Jul 2018",
+          "date2": "6 mos",
+          "location": "Sunnyvale, California"
+        },
+        {
+          "title": "Senior Software Engineer",
+          "date1": "May 2016 – Feb 2018",
+          "date2": "1 yr 10 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nLead Software Engineer",
+      "location": "Sunnyvale, California",
+      "description": "- Worked on various tasks in multiple domains like SLAM, Deep Learning, 6-DOF Controller Tracking\n- Wrote C++14 code for real-time performance with limited compute, memory and bandwith\n- Wrote multi-threaded code with no hardware mutexes and dealt with synchronization issues\n- Sped up PC simulation code by 4-10x resulting savings in cloud compute cost and developer time.\n\n- Implemented state synchronization protocol across multiple systems\n- Debugged issues such as cache coherency, incorrectly compiled code, crashes, bottlenecks\n- Updated PC unit test framework to model and catch above device specic issues\n- Created on-device simulation to compute metrics on pre-recorded data for regression testing\n- Created scripts to simplify building, ashing, debugging, running tests to improve team productivity\n\n- Received company wide award for helping coworkers and achieving important deliverables\n- Worked with external vendors and internal teams based in Florida, Switzerland, and Israel\n…\nsee more",
+      "date1": "Feb 2018 – Jul 2018",
+      "date2": "6 mos",
+      "roles": [
+        {
+          "title": "Lead Software Engineer",
+          "date1": "Feb 2018 – Jul 2018",
+          "date2": "6 mos",
+          "location": "Sunnyvale, California"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSenior Software Engineer",
+      "description": "See Above.",
+      "date1": "May 2016 – Feb 2018",
+      "date2": "1 yr 10 mos",
+      "roles": [
+        {
+          "title": "Senior Software Engineer",
+          "date1": "May 2016 – Feb 2018",
+          "date2": "1 yr 10 mos"
+        }
+      ]
+    },
+    {
+      "title": "Software Engineer",
+      "companyName": "Google",
+      "location": "Mountain View, California",
+      "description": "- Worked on the Enforcement Team to implement machine learning classifiers to detect abusive videos\n- Coded in C++, Python and SQL like language for data analysis\n- Responsible for developing new classifiers for automated processing flagged videos\n- Analyzed data and implemented new signals to improve classifier recall\n- Wrote design docs to describe how new features and required framework would be implemented\n…\nsee more",
+      "date1": "Apr 2015 – Apr 2016",
+      "date2": "1 yr 1 mo"
+    },
+    {
+      "title": "Software Engineering Intern",
+      "companyName": "LinkedIn",
+      "description": "- Worked in the cloud team and was responsible for working with the data storage system in Scala\n- Responsible for implelemting and testing different kinds of garbage collection\n- Wrote tools to visualise the storage system and metrics to compare garbage collection performance",
+      "date1": "Aug 2012 – Dec 2012",
+      "date2": "5 mos"
+    },
+    {
+      "title": "Software Engineer Intern",
+      "companyName": "Capcom Game Studio Vancouver",
+      "description": "- Worked in the NPC team and helped deliver boss battles and AI enemies in a C++ based game engine\n- Responsible for creating AI enemies that were part of external deliverables from start to completion\n- Communicated with designers and animators to tune and incorporate feedback into AI enemies\n- Incorporated various parts of the game engine to create AI features\n- Worked with developers to help find and solve bugs in the game engine\n…\nsee more",
+      "date1": "Jan 2012 – Apr 2012",
+      "date2": "4 mos"
+    },
+    {
+      "title": "Software Developer Intern",
+      "companyName": "Sony",
+      "location": "Waterloo, Ontario",
+      "description": "- Implemented new features and new slideshow effects in C++\n- Led redevelopment of partial slideshow framework to improve performance and fix bugs\n- Used Git and Perforce as source control",
+      "date1": "May 2011 – Aug 2011",
+      "date2": "4 mos"
+    },
+    {
+      "title": "Software Developer Intern",
+      "companyName": "Sony",
+      "location": "Waterloo, Ontario",
+      "description": "- Designed plugins to allow for publishing media to various media services\n- Wrote and used code from large code base shared between various Sony applications",
+      "date1": "Sep 2010 – Dec 2010",
+      "date2": "4 mos"
+    },
+    {
+      "title": "Software Developer",
+      "companyName": "Okino Computer Graphics",
+      "location": "Mississauga",
+      "description": "- Designed and implemented a custom 3D importer in C++\n- Importer code utilized the STL, pointers, templates, an OOP design and an external SDK\n- Communicated with a third party developer in Germany for SDK support\n- Completed the whole importer independently and with minimal supervision\n- Wrote daily work logs and Scientific Research and Experimental Development logs\n…\nsee more",
+      "date1": "Jan 2010 – Apr 2010",
+      "date2": "4 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "University of Waterloo",
+      "degree": "Bachelor of Applied Science (BASc)",
+      "fieldofstudy": "Mechatronics Engineering",
+      "date1": "2009",
+      "date2": "2014"
+    }
+  ],
+  "skills": [
+    {
+      "title": "C++",
+      "count": "21"
+    },
+    {
+      "title": "OpenGL",
+      "count": "11"
+    },
+    {
+      "title": "C",
+      "count": "9"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "9",
+      "items": [
+        "GPU Image Processing Library",
+        "ScanMe (Body Scanner)",
+        "Tricopter",
+        "GPU Accelerated 2D EKF Slam (Jan - May 2013)",
+        "Virtual Reality Glove",
+        "Stereo Matching using the GPU Based Image Processing Library",
+        "2D Physics Engine",
+        "3D Engine",
+        "LED Webcam Touchscreen"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "English",
+        "Urdu"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/anushmohan/",
+      "text": "Computer Vision and Machine Learning"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ryan-d-thomas/",
+      "text": "Facilities Engineering Manager at Caterpillar Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/lomeshpatel/",
+      "text": "Software Architect at BetterCloud"
+    },
+    {
+      "user": "https://www.linkedin.com/in/gstsai/",
+      "text": "Computer Vision & Robotics"
+    },
+    {
+      "user": "https://www.linkedin.com/in/cwu01/",
+      "text": "Computer Vision @ Magic Leap"
+    },
+    {
+      "user": "https://www.linkedin.com/in/zhezhong/",
+      "text": "Software Engineer at Magic Leap"
+    },
+    {
+      "user": "https://www.linkedin.com/in/vijay-badrinarayanan-6578692/",
+      "text": "Director of Deep Learning & AI at Magic Leap"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yizeng-sun-3b17265a/",
+      "text": "software engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/hirakawa/",
+      "text": "Frontend Developer at Sony Interactive Entertainment"
+    },
+    {
+      "user": "https://www.linkedin.com/in/earl-lamson-iii-1a39bb5/",
+      "text": "Principal Software Engineer at Nike"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Saad Ahmad",
+    "headline": "Lead Software Engineer at Magic Leap",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQEY1_cLr8t3KQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=ApNmIw1YysSTvk1bzdQVdZCWjP9bGgrRhu2c6_ZMqew",
+    "location": "San Francisco Bay Area",
+    "connections": "419",
+    "summary": "C++\n• 10+ years • C++14 and C++17\n\nOTHER LANGUAGES\n• Python (Working)\n\nEMBEDDED PROGRAMMING\n• Many-core Processors • Cache Coherency • In-Memory Layout • Deep Learning • Computer Vision • Bare-metal programming\n\nOPTIMIZATIONS\n• Multi-threaded code • SIMD programming • Built-in intrinsics • Profiling • Cache friendly code • Parallel programming • CUDA\n\nCOMPUTER VISION\n• SLAM • Feature Detection • Feature Tracking • Stereo Matching • Pose Estimation\n\nIMAGE PROCESSING\n• Convolutions • Filtering • Transformations\n\n3D\n• Linear Algebra • Transformations\n\nDEVELOPMENT TOOLS\n• Linux • Git • CMake • QtCreator"
+  }
+}

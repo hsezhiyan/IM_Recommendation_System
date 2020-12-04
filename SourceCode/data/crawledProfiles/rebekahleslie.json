@@ -1,0 +1,389 @@
+{
+  "profileAlternative": {
+    "name": "Rebekah Leslie-Hurd",
+    "headline": "Software Engineer (& Compiler Team Lead) at Groq",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQHRrIZAkAuw4A/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=DDpkK3FYqUe-G0NJmMoJqabHIprOrarfUgPxoTHqolQ",
+    "location": "Portland, Oregon",
+    "connections": "368"
+  },
+  "aboutAlternative": {},
+  "positions": [
+    {
+      "title": "Groq",
+      "location": "Portland, OR",
+      "date1": "Dec 2018 – Present",
+      "date2": "1 yr",
+      "roles": [
+        {
+          "title": "Software Engineer (& Compiler Team Lead)",
+          "date1": "Dec 2018 – Present",
+          "date2": "1 yr"
+        },
+        {
+          "title": "Software Engineer",
+          "date1": "Sep 2017 – Nov 2018",
+          "date2": "1 yr 3 mos",
+          "location": "Portland, OR"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSoftware Engineer (& Compiler Team Lead)",
+      "date1": "Dec 2018 – Present",
+      "date2": "1 yr",
+      "roles": [
+        {
+          "title": "Software Engineer (& Compiler Team Lead)",
+          "date1": "Dec 2018 – Present",
+          "date2": "1 yr"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSoftware Engineer",
+      "location": "Portland, OR",
+      "date1": "Sep 2017 – Nov 2018",
+      "date2": "1 yr 3 mos",
+      "roles": [
+        {
+          "title": "Software Engineer",
+          "date1": "Sep 2017 – Nov 2018",
+          "date2": "1 yr 3 mos",
+          "location": "Portland, OR"
+        }
+      ]
+    },
+    {
+      "title": "Research Scientist",
+      "companyName": "Intel Corporation",
+      "location": "Portland, Oregon Area",
+      "date1": "Jul 2011 – Sep 2017",
+      "date2": "6 yrs 3 mos"
+    },
+    {
+      "title": "PhD Student",
+      "companyName": "Portland State University",
+      "date1": "Sep 2004 – May 2011",
+      "date2": "6 yrs 9 mos"
+    },
+    {
+      "title": "Graduate Intern",
+      "companyName": "Galois, Inc.",
+      "description": "Internship. At Galois I worked on techniques for high-assurance software development in Haskell.",
+      "date1": "Jun 2007 – Sep 2007",
+      "date2": "4 mos"
+    },
+    {
+      "title": "Graduate Intern",
+      "companyName": "Intel",
+      "description": "Internship. While at Intel I formalized separation properties of an operating system interface modeled in Haskell.",
+      "date1": "Jun 2006 – Sep 2006",
+      "date2": "4 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Portland State University",
+      "degree": "Phd",
+      "fieldofstudy": "Computer Science",
+      "date1": "2004",
+      "date2": "2009"
+    },
+    {
+      "title": "Oregon Health & Science University",
+      "degree": "Computer Science",
+      "fieldofstudy": "Computer Science",
+      "date1": "2003",
+      "date2": "2004"
+    },
+    {
+      "title": "University of Oklahoma",
+      "degree": "BS",
+      "fieldofstudy": "Computer Engineering",
+      "date1": "1999",
+      "date2": "2003"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Haskell",
+      "count": "30"
+    },
+    {
+      "title": "Operating Systems",
+      "count": "12"
+    },
+    {
+      "title": "Computer Architecture",
+      "count": "5"
+    },
+    {
+      "title": "Computer Science",
+      "count": "26"
+    },
+    {
+      "title": "Software Development",
+      "count": "19"
+    },
+    {
+      "title": "Algorithms",
+      "count": "17"
+    },
+    {
+      "title": "Software Engineering",
+      "count": "10"
+    },
+    {
+      "title": "Programming",
+      "count": "16"
+    },
+    {
+      "title": "Machine Learning",
+      "count": "3"
+    },
+    {
+      "title": "Distributed Systems",
+      "count": "4"
+    },
+    {
+      "title": "Simulations",
+      "count": "3"
+    },
+    {
+      "title": "Shell Scripting",
+      "count": "1"
+    },
+    {
+      "title": "Artificial Intelligence",
+      "count": "1"
+    },
+    {
+      "title": "Software Design",
+      "count": "3"
+    },
+    {
+      "title": "C",
+      "count": "9"
+    },
+    {
+      "title": "Python",
+      "count": "5"
+    },
+    {
+      "title": "Java",
+      "count": "4"
+    },
+    {
+      "title": "C++",
+      "count": "10"
+    },
+    {
+      "title": "LaTeX",
+      "count": "3"
+    },
+    {
+      "title": "Linux",
+      "count": "5"
+    },
+    {
+      "title": "Bash",
+      "count": "2"
+    },
+    {
+      "title": "Subversion",
+      "count": "2"
+    },
+    {
+      "title": "UML",
+      "count": "2"
+    },
+    {
+      "title": "Git",
+      "count": "1"
+    },
+    {
+      "title": "Open Source",
+      "count": "1"
+    },
+    {
+      "title": "Perl",
+      "count": "4"
+    },
+    {
+      "title": "PostgreSQL",
+      "count": "1"
+    },
+    {
+      "title": "Ruby",
+      "count": "1"
+    },
+    {
+      "title": "JavaScript",
+      "count": "1"
+    },
+    {
+      "title": "C#",
+      "count": "1"
+    },
+    {
+      "title": "Android",
+      "count": "1"
+    },
+    {
+      "title": "Embedded Systems",
+      "count": "4"
+    },
+    {
+      "title": "Eclipse",
+      "count": "1"
+    },
+    {
+      "title": "Formal Verification"
+    },
+    {
+      "title": "Memory Management"
+    },
+    {
+      "title": "Programming Languages",
+      "count": "6"
+    },
+    {
+      "title": "Model Checking"
+    },
+    {
+      "title": "Parallel Programming",
+      "count": "3"
+    },
+    {
+      "title": "Linux Kernel",
+      "count": "1"
+    },
+    {
+      "title": "Compilers",
+      "count": "2"
+    },
+    {
+      "title": "Parallel Computing",
+      "count": "1"
+    },
+    {
+      "title": "Compiler Construction",
+      "count": "1"
+    },
+    {
+      "title": "High Performance Computing",
+      "count": "1"
+    },
+    {
+      "title": "Prolog",
+      "count": "1"
+    },
+    {
+      "title": "Scheme",
+      "count": "1"
+    },
+    {
+      "title": "Emacs"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "2",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/andyam/",
+        "text": "Rebekah is a highly skilled computer scientist, able to work on the whole spectrum from serious theoretical research (witness her paper extending Rushby's work on non-interference to dynamic systems) through to low-level operating systems and programming language run-time system hacking (her internship involved working on a Haskell run-time system ported to Xen VMs). She's very bright, self-motivated, and easy to work with.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/leventerkok/",
+        "text": "Rebekah worked as a graduate intern at Intel, working on the formalization of a proprietary hypervisor implementation. Her deep insight into the problem, and her ability to quickly abstract over details to come up with a formal description of the system was impressive. Her work helped us understand the an inherently complicated system from a brand new angle; clarifying many details. Her internship at Intel was extremely beneficial to the group.\n…\nSee more"
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "7",
+      "items": [
+        "Verifying Linearizability of Intel® Software Guard Extensions by Rebekah Leslie-Hurd, Dror Caspi, Matthew Fernandez.",
+        "Intel Software Guard Extensions Tutorial at International Symposium on Computer Architecture (ISCA) 2015",
+        "SMT-Based System Verification with DVF",
+        "A Functional Approach to Memory Safe Operating Systems",
+        "Writing Systems Software in a Functional Language",
+        "Formalizing Information Flow in a Haskell Hypervisor",
+        "A principled approach to operating system construction in Haskell"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "INSTRUCTIONS AND LOGIC TO PROVIDE ADVANCED PAGING CAPABILITIES FOR SECURE ENCLAVE PAGE CACHES"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/thomas-eding-23487920/",
+      "text": "Compiler Engineer at Groq"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jonathan-ross-12a95156/",
+      "text": "CEO, Co-Founder of Groq"
+    },
+    {
+      "user": "https://www.linkedin.com/in/elliotttrevor/",
+      "text": "Infrastructure Engineer at Stripe"
+    },
+    {
+      "user": "https://www.linkedin.com/in/andrew-bell-6771004/",
+      "text": "Engineer at Groq"
+    },
+    {
+      "user": "https://www.linkedin.com/in/michaelyukelson/",
+      "text": "Principal HW System Engineer at Groq"
+    },
+    {
+      "user": "https://www.linkedin.com/in/benjaminfjones7/",
+      "text": "Sr. Software Development Engineer at Amazon Web Services (AWS)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/quinie-hui-a479344/",
+      "text": "Principal Engineer at Intel Corporation"
+    },
+    {
+      "user": "https://www.linkedin.com/in/michael-beidler/",
+      "text": "Software Engineer at Groq"
+    },
+    {
+      "user": "https://www.linkedin.com/in/james-bielman-636765122/",
+      "text": "Software Engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/dogan-cile-2a2051174/",
+      "text": "."
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Legislative Action Team Member",
+      "experience": "Planned Parenthood Advocates of Oregon",
+      "description": "Health",
+      "date1": "Jan 2011 – May 2013",
+      "date2": "2 yrs 5 mos"
+    },
+    {
+      "title": "Women at Intel (WIN) Conference Organizing Team Member",
+      "experience": "Intel Corporation",
+      "description": "Science and Technology",
+      "date1": "2014",
+      "date2": "less than a year"
+    }
+  ],
+  "profile": {
+    "name": "Rebekah Leslie-Hurd",
+    "headline": "Software Engineer (& Compiler Team Lead) at Groq",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQHRrIZAkAuw4A/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=DDpkK3FYqUe-G0NJmMoJqabHIprOrarfUgPxoTHqolQ",
+    "location": "Portland, Oregon",
+    "connections": "368"
+  }
+}

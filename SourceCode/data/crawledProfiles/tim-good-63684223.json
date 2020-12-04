@@ -1,0 +1,189 @@
+{
+  "profileAlternative": {
+    "name": "Tim Good",
+    "headline": "Vice President-Director of Construction of Haskell's Industrial Group",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQHqDFzHR3cKTw/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=XjHa2qJHczzADIEpQpZs0u0m7vp4rJhg-vsPvbRd53E",
+    "location": "Jacksonville, Florida Area",
+    "connections": "136"
+  },
+  "aboutAlternative": {},
+  "positions": [
+    {
+      "title": "Vice President-Director of Construction Operations",
+      "companyName": "The Haskell Company",
+      "location": "Jacksonville, FL",
+      "date1": "1989 – Present",
+      "date2": "30 yrs"
+    },
+    {
+      "title": "Asst Vice President",
+      "companyName": "Robert E. McKee Construction",
+      "location": "Houston, TX",
+      "description": "Construction Manager",
+      "date1": "1986 – 1989",
+      "date2": "3 yrs"
+    },
+    {
+      "title": "Sr Proj Manager",
+      "companyName": "Rodgers Construction",
+      "location": "Corte Madera, CA & Houston, TX",
+      "description": "Field Engineer, Project Manager, Sr Proj Manager",
+      "date1": "1974 – 1986",
+      "date2": "12 yrs"
+    }
+  ],
+  "educations": [
+    {
+      "title": "University of Florida",
+      "degree": "BS",
+      "fieldofstudy": "Construction Management",
+      "date1": "1968",
+      "date2": "1972"
+    },
+    {
+      "title": "University of Florida"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Construction",
+      "count": "15"
+    },
+    {
+      "title": "Construction Management",
+      "count": "13"
+    },
+    {
+      "title": "Value Engineering",
+      "count": "12"
+    },
+    {
+      "title": "Pre-construction",
+      "count": "8"
+    },
+    {
+      "title": "Contract Management",
+      "count": "7"
+    },
+    {
+      "title": "Design-Build",
+      "count": "5"
+    },
+    {
+      "title": "LEED",
+      "count": "5"
+    },
+    {
+      "title": "Project Estimation",
+      "count": "4"
+    },
+    {
+      "title": "Change Orders",
+      "count": "3"
+    },
+    {
+      "title": "Submittals",
+      "count": "3"
+    },
+    {
+      "title": "Project Bidding",
+      "count": "3"
+    },
+    {
+      "title": "Project Planning",
+      "count": "2"
+    },
+    {
+      "title": "Green Building",
+      "count": "1"
+    },
+    {
+      "title": "Constructability"
+    },
+    {
+      "title": "Cost Control"
+    },
+    {
+      "title": "Construction Safety"
+    },
+    {
+      "title": "Project Coordination"
+    },
+    {
+      "title": "Process Scheduler",
+      "count": "4"
+    },
+    {
+      "title": "Contractors",
+      "count": "5"
+    },
+    {
+      "title": "Contract Negotiation",
+      "count": "5"
+    },
+    {
+      "title": "Suretrack",
+      "count": "3"
+    },
+    {
+      "title": "Integrated Project Delivery"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/gregory-smith-27910b30/",
+      "text": "Director of Construction"
+    },
+    {
+      "user": "https://www.linkedin.com/in/angelo-stratigakis-55508381/",
+      "text": "Director Of Construction"
+    },
+    {
+      "user": "https://www.linkedin.com/in/rob-miller-59a4a649/",
+      "text": "Director of Construction at RKM Construction Services"
+    },
+    {
+      "user": "https://www.linkedin.com/in/paul-mcelroy-b0300745/",
+      "text": "Director Of Construction at The Haskell Company"
+    },
+    {
+      "user": "https://www.linkedin.com/in/alan-kerry-63038410/",
+      "text": "Director of Construction"
+    },
+    {
+      "user": "https://www.linkedin.com/in/liz-seiber-63817011/",
+      "text": "Director of Construction"
+    },
+    {
+      "user": "https://www.linkedin.com/in/edward-sweeney-3040b220/",
+      "text": "Director of Construction"
+    },
+    {
+      "user": "https://www.linkedin.com/in/stephenkovack/",
+      "text": "Director of Construction"
+    },
+    {
+      "user": "https://www.linkedin.com/in/frank-duci-6b672920/",
+      "text": "Director of Construction/Purchasing at Davis Building and Construction"
+    },
+    {
+      "user": "https://www.linkedin.com/in/perry-covey-b8717211/",
+      "text": "Director of Construction at BRPH"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Tim Good",
+    "headline": "Vice President-Director of Construction of Haskell's Industrial Group",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQHqDFzHR3cKTw/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=XjHa2qJHczzADIEpQpZs0u0m7vp4rJhg-vsPvbRd53E",
+    "location": "Jacksonville, Florida Area",
+    "connections": "136"
+  }
+}

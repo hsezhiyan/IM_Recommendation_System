@@ -1,0 +1,226 @@
+{
+  "profileAlternative": {
+    "name": "Adam Machanic",
+    "headline": "Data Architect, Developer, and Database Performance Engineer",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQFmCZybleWJcg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=MGf_5GgaGbv1W2iUncSh66OqvYRTdtojGbwf7NbC_4U",
+    "location": "Melrose, Massachusetts",
+    "connections": "500+",
+    "summary": "Adam Machanic is a data-focused software architect and developer, with a strong interest in high performance and distributed cloud-based solutions utilizing open-source foundations. Over the course of his career, Adam has built successful large-scale data solutions for companies in several industries; he is especially focused on the world of asset management. As an active member of the technical community, Adam has written and edited several popular books, spoken numerous times at large industry conferences, and delivered standalone training to a variety of clients. Formerly a SQL Server specialist, he was a Microsoft Data Platform MVP for 15 years and is perhaps best known in the SQL Server world for having authored the award-winning monitoring stored procedure sp_whoisactive--which is used on a daily basis by tens of thousands of DBAs worldwide."
+  },
+  "aboutAlternative": {
+    "text": "Adam Machanic is a data-focused software architect and developer, with a strong interest in high performance and distributed cloud-based solutions utilizing open-source foundations. Over the course of his career, Adam has built successful large-scale data solutions for companies in several industries; he is especially focused on the world of asset management. As an active member of the technical community, Adam has written and edited several popular books, spoken numerous times at large industry conferences, and delivered standalone training to a variety of clients. Formerly a SQL Server specialist, he was a Microsoft Data Platform MVP for 15 years and is perhaps best known in the SQL Server world for having authored the award-winning monitoring stored procedure sp_whoisactive--which is used on a daily basis by tens of thousands of DBAs worldwide."
+  },
+  "positions": [
+    {
+      "title": "Senior Data Architect",
+      "companyName": "Balyasny Asset Management L.P.",
+      "location": "Greater Boston Area",
+      "date1": "Apr 2018 – Present",
+      "date2": "1 yr 8 mos"
+    },
+    {
+      "title": "Independent SQL Server Consultant",
+      "companyName": "Data Education",
+      "location": "Greater Boston Area",
+      "description": "SQL Server consulting and training, with a focus on large dataset performance tuning, database design, architecture, and development.",
+      "date1": "Jan 2009 – Present",
+      "date2": "10 yrs 11 mos"
+    },
+    {
+      "title": "Co-founder",
+      "companyName": "SQLblog.com",
+      "description": "Co-founded what was one of the top SQL Server blog sites on the web. At its peak the site was an extremely popular community destination featuring over 40 MVP and Microsoft bloggers.",
+      "date1": "2006 – Oct 2017",
+      "date2": "11 yrs"
+    },
+    {
+      "title": "Group Leader",
+      "companyName": "New England SQL Server Users Group",
+      "location": "Greater Boston Area",
+      "description": "The New England SQL Server Users Group meets each month in Microsoft's New England offices. I was involved with the group for over 11 years and built it from around 200 people to over 2000. Along the way I also produced four full-day conferences and a handful of free or discounted one-off training events.",
+      "date1": "2006 – Oct 2017",
+      "date2": "11 yrs"
+    },
+    {
+      "title": "Data Warehouse Architect and Principal Database Developer",
+      "companyName": "GMO",
+      "location": "Boston, MA",
+      "description": "Responsible for design, high level pattern and framework implementation, technical standards, and performance tuning of a large multi-source investment data warehouse environment running on Microsoft SQL Server.",
+      "date1": "Jan 2011 – May 2016",
+      "date2": "5 yrs 5 mos"
+    },
+    {
+      "title": "Owner and SQL Server Database/Software Consultant",
+      "companyName": "Data Manipulation Group, Inc.",
+      "location": "Greater Boston Area",
+      "description": "- SQL Server 2000, 2005, and 2008 database design, development, performance tuning, and security\n- Applications and data access architecture for SQL Server and .NET\n- Development of solutions for the Microsoft Business Intelligence stack, including SQL Server Reporting Services (SSRS), SQL Server Analysis Services (SSAS), and SQL Server Integration Services (SSIS)\n\nExample Engagements:\n\n# One-week SQL Server 2000/2005 performance monitoring and profiling, followed by delivery of a comprehensive recommendations document, for an e-commerce hosting firm in Massachusetts\n\n# Two-month SQL Server and .NET performance tuning and profiling, systems and database re-architecture, and implementation of high availability strategies for SQL Server 2005, for a weather services firm in Massachusetts\n\n# Several month, full-cycle implementation of a SQL Server 2005 Analysis Services data mart and SQL Server Integration Services load process for a marketing firm in Rhode Island\n…\nsee more",
+      "date1": "Sep 2005 – Jan 2011",
+      "date2": "5 yrs 5 mos"
+    },
+    {
+      "title": "Senior Database Engineer",
+      "companyName": "GetConnected",
+      "location": "Boston, MA",
+      "date1": "Jun 2004 – Sep 2005",
+      "date2": "1 yr 4 mos"
+    },
+    {
+      "title": "Database Engineer",
+      "companyName": "AIR Worldwide",
+      "location": "Boston, MA",
+      "date1": "2003 – 2004",
+      "date2": "1 yr"
+    },
+    {
+      "title": "Senior Software Engineer",
+      "companyName": "Protegent",
+      "location": "Greater Boston Area",
+      "date1": "2001 – 2003",
+      "date2": "2 yrs"
+    },
+    {
+      "title": "Web Systems Developer",
+      "companyName": "Syncra Systems",
+      "location": "Greater Boston Area",
+      "date1": "2000 – 2001",
+      "date2": "1 yr"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Tufts University",
+      "degree": "BS",
+      "fieldofstudy": "Computer Science, Philosophy",
+      "date1": "1996",
+      "date2": "2000"
+    }
+  ],
+  "skills": [
+    {
+      "title": "T-SQL",
+      "count": "99+"
+    },
+    {
+      "title": "Microsoft SQL Server",
+      "count": "99+"
+    },
+    {
+      "title": "Database Design",
+      "count": "99+"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "10",
+    "receivedCount": "12",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/raja-ravichandran-05b93611/",
+        "text": "Adam’s attention to detail and design, willingness to take on critical challenges, creative and critical problem-solving skills are just few of the highly desirable attributes of a technical leader. The high benchmark that Adam sets for himself and his team members help positively uplift the quality and output of the team. He surprises with his knowledge on a range of topics and engaging with him on a conversation is truly enlightening. Online repository of his work in his blogs and videos on YouTube are extremely valuable resources that I like many others have found repeatedly useful. A fantastic resource that I had pleasure of working with.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/joe-whalen-4139392/",
+        "text": "Adam Machanic is one of the most driven people I have ever had the opportunity to work with. If you’re looking for one of the best and brightest to take your team and/or systems to the next level, look no further. He’s your guy. When it comes to modeling data, analyzing data and breaking problems down to their most basic levels, Adam truly has a gift. He single handedly took our team to levels which I could never have imagined. His desire for quality makes everyone around him better and I wish the best in all his future endeavors.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/sindhudweep-sarkar-553b2310/",
+        "text": "Adam is the best SQL developers I have ever worked with. Adam's knowledge is practical and well-reasoned. Truly a fantastic resource for those willing to learn from him."
+      },
+      {
+        "user": "https://www.linkedin.com/in/richard-brideau-8105203/",
+        "text": "I have had the wonderful privilege of working side by side with Adam with Magenic for 4 months at a high-profile client site in Boston. As would be expected, his SQL knowledge is exceedingly expansive, which would be considered standard for a published MVP. Yet beyond this, his makeup far exceeds the mere implication of static knowledge that this title implies. He has that fantastic ability to blend with the client. Being very approachable, he has a natural flow about him that gives off a great deal of comfort and confidence, supporting experts, apprentices and managers alike. Within our own group of experts on site, we had casually made a sport of challenging his technical prowess from time to time, to which he had never been wrong! As a truly creative thinker, he refreshingly demonstrates a rare open mindedness in a field laced with many bright individuals.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/jameskchong/",
+        "text": "Adam is an excellent professional with deep knowledge of Microsoft SQL server environment. We have hired him on multiple occasions to help us with troubleshooting, architecting and maintaining our SQL server environment. Adam always has been very knowledgeable and professional. I would highly recommend Adam without hesitation."
+      },
+      {
+        "user": "https://www.linkedin.com/in/paul-caponetti-513a201/",
+        "text": "Adam came in and single-handedly brought our read and write times from intollerable to \"I had no idea it would go that fast!\" If you find a question he cannot answer, he has a tight network of MS folks that will willingly trade information."
+      },
+      {
+        "user": "https://www.linkedin.com/in/greg-boesel-56a177/",
+        "text": "We brought in Adam to address some potential scaling issues for our application. His combination of expert knowledge of SQL Server and creativity in coming up with a number of possible solutions was exactly what we needed. I highly recommend Adam as a person who can effectively tackle your toughest database challenges."
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/raja-ravichandran-05b93611/",
+        "text": "Raja is an intelligent, careful, and dependable developer. Unlike many other developers who simply dash something off and call it done as quickly as possible, Raja asks the right questions to make sure he's doing exactly what's needed. He is a hard worker and someone who can take a task and run with it, without having to be managed all the way to completion. In short, Raja is the kind of developer every developer should aspire to be. I would gladly work with him again."
+      },
+      {
+        "user": "https://www.linkedin.com/in/joe-whalen-4139392/",
+        "text": "Joe is a consummate data management professional. He is a person who truly CARES about data, data integrity, data quality, data modeling, and other data issues. Joe's passion for data and data management is combined with extraordinary T-SQL skills -- better than the vast majority of \"database developers\" with whom I've worked -- and an extremely strong work ethic. Joe is the kind of person who believes in doing great work and who will work as hard as he can to achieve a high quality end result."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "6",
+      "items": [
+        "T-SQL Querying",
+        "Microsoft SQL Server 2008 Internals",
+        "SQL Server MVP Deep Dives",
+        "Expert SQL Server 2005 Development",
+        "Inside Microsoft SQL Server 2005: Query Tuning and Optimization",
+        "Pro SQL Server 2005"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Who is Active"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/paulnielsensql/",
+      "text": "Data Architect, Author, SQL Server Query / Optimization Expert"
+    },
+    {
+      "user": "https://www.linkedin.com/in/itzikbengan/",
+      "text": "T-SQL Trainer at SolidQ, Microsoft Data Platform MVP"
+    },
+    {
+      "user": "https://www.linkedin.com/in/timcost/",
+      "text": "BI Data Architect at Brindle Consulting"
+    },
+    {
+      "user": "https://www.linkedin.com/in/seanmccown/",
+      "text": "Lead Architect at MinionWare"
+    },
+    {
+      "user": "https://www.linkedin.com/in/joe-whalen-4139392/",
+      "text": "Data Architect at Balyasny Asset Management L.P."
+    },
+    {
+      "user": "https://www.linkedin.com/in/anithatelkar/",
+      "text": "Senior Sql Server Database Administrator at DTI Global"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kristina1/",
+      "text": "Senior Sql Server Database Administrator at Jp Morgan Chase Bank"
+    },
+    {
+      "user": "https://www.linkedin.com/in/james-diaz-94275131/",
+      "text": "President Emprise Corporation"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jeff-moden-344b906/",
+      "text": "Senior DBA and T-SQL Mentor at Proctor Financial"
+    },
+    {
+      "user": "https://www.linkedin.com/in/glidefast/",
+      "text": "Co-Founder of GlideFast and Pharicode"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Adam Machanic",
+    "headline": "Data Architect, Developer, and Database Performance Engineer",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQFmCZybleWJcg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=MGf_5GgaGbv1W2iUncSh66OqvYRTdtojGbwf7NbC_4U",
+    "location": "Melrose, Massachusetts",
+    "connections": "500+",
+    "summary": "Adam Machanic is a data-focused software architect and developer, with a strong interest in high performance and distributed cloud-based solutions utilizing open-source foundations. Over the course of his career, Adam has built successful large-scale data solutions for companies in several industries; he is especially focused on the world of asset management. As an active member of the technical community, Adam has written and edited several popular books, spoken numerous times at large industry conferences, and delivered standalone training to a variety of clients. Formerly a SQL Server specialist, he was a Microsoft Data Platform MVP for 15 years and is perhaps best known in the SQL Server world for having authored the award-winning monitoring stored procedure sp_whoisactive--which is used on a daily basis by tens of thousands of DBAs worldwide."
+  }
+}

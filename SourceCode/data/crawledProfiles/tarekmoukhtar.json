@@ -1,0 +1,280 @@
+{
+  "profileAlternative": {
+    "name": "Tarek Moukhtar",
+    "headline": "Oracle Middleware and Java Team Lead at TRUEMEGA Technology Solutions",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQEAIXDqD98-qw/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=ZZw9nZ_a-jToZ1cprzz0rSb_76a1NRmxLvLiZDW0-0M",
+    "location": "Egypt",
+    "connections": "500+",
+    "summary": "Since my graduation in June 2007, have more than 9 years of extensive hands on experience of software development on different platforms using different Oracle Java and Fusion Middleware technologies.\n\nExperienced team lead and team player with excellent communication and interpersonal skills who has the ability to work independently under pressure.\n\nCurrently working as Oracle Middleware Lead / Project Technical Lead at Raya International Services (RIS).\n\nB.Sc. of computer science in 2007, the faculty of computers and information of Cairo University, Egypt.\nITI state-of-art 9-month scholarship diploma, Intake 30 in 2010, within the Java Enterprise track."
+  },
+  "aboutAlternative": {
+    "text": "Since my graduation in June 2007, have more than 9 years of extensive hands on experience of software development on different platforms using different Oracle Java and Fusion Middleware technologies.\n\nExperienced team lead and team player with excellent communication and interpersonal skills who has the ability to work independently under pressure.\n\nCurrently working as Oracle Middleware Lead / Project Technical Lead at Raya International Services (RIS).\n\nB.Sc. of computer science in 2007, the faculty of computers and information of Cairo University, Egypt.\nITI state-of-art 9-month scholarship diploma, Intake 30 in 2010, within the Java Enterprise track."
+  },
+  "positions": [
+    {
+      "title": "Oracle Middleware and Java Team Lead",
+      "companyName": "TRUEMEGA Technology Solutions",
+      "location": "Cairo Governorate, Egypt",
+      "date1": "Jan 2019 – Present",
+      "date2": "11 mos"
+    },
+    {
+      "title": "Oracle Middleware Lead Consultant",
+      "companyName": "Raya International Services",
+      "date1": "Oct 2017 – Dec 2018",
+      "date2": "1 yr 3 mos"
+    },
+    {
+      "title": "egabi Solutions",
+      "location": "Cairo, Egypt",
+      "description": "Responsible for software solutions delivery, team leading, architecture.\n\nEnd-to-end life cycle developer/team leader using Java and Oracle Middleware Stack to provide quality services to our clients.",
+      "date1": "Jan 2017 – Oct 2017",
+      "date2": "10 mos",
+      "roles": [
+        {
+          "title": "Senior Oracle Middleware Specialist Consultant",
+          "date1": "Jan 2017 – Oct 2017",
+          "date2": "10 mos"
+        },
+        {
+          "title": "Oracle Dev Specialist Consultant",
+          "date1": "Jan 2015 – Jan 2017",
+          "date2": "2 yrs 1 mo"
+        },
+        {
+          "title": "Senior Software Development Consultant",
+          "date1": "Jun 2012 – Jan 2015",
+          "date2": "2 yrs 8 mos",
+          "location": "Cairo, Egypt"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSenior Oracle Middleware Specialist Consultant",
+      "description": "Responsible for software solutions delivery, team leading, architecture.\n\nEnd-to-end life cycle developer/team leader using Java and Oracle Middleware Stack to provide quality services to our clients.",
+      "date1": "Jan 2017 – Oct 2017",
+      "date2": "10 mos",
+      "roles": [
+        {
+          "title": "Senior Oracle Middleware Specialist Consultant",
+          "date1": "Jan 2017 – Oct 2017",
+          "date2": "10 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nOracle Dev Specialist Consultant",
+      "date1": "Jan 2015 – Jan 2017",
+      "date2": "2 yrs 1 mo",
+      "roles": [
+        {
+          "title": "Oracle Dev Specialist Consultant",
+          "date1": "Jan 2015 – Jan 2017",
+          "date2": "2 yrs 1 mo"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSenior Software Development Consultant",
+      "location": "Cairo, Egypt",
+      "description": "- Technical Project lead.\n- Oracle SOA , BPM , ECM suites implementation and customization.\n- Oracle ADF\n- J2EE applications development.",
+      "date1": "Jun 2012 – Jan 2015",
+      "date2": "2 yrs 8 mos",
+      "roles": [
+        {
+          "title": "Senior Software Development Consultant",
+          "date1": "Jun 2012 – Jan 2015",
+          "date2": "2 yrs 8 mos",
+          "location": "Cairo, Egypt"
+        }
+      ]
+    },
+    {
+      "title": "Java developer",
+      "companyName": "HP Enterprise Services",
+      "date1": "May 2010 – May 2012",
+      "date2": "2 yrs 1 mo"
+    },
+    {
+      "title": "Enterprise Java Student",
+      "companyName": "ITI",
+      "date1": "Sep 2009 – May 2010",
+      "date2": "9 mos"
+    },
+    {
+      "title": "Java web developer",
+      "companyName": "Active digital developement",
+      "description": "Develop web applications",
+      "date1": "Jul 2009 – Sep 2009",
+      "date2": "3 mos"
+    },
+    {
+      "title": "Mobile application developer",
+      "companyName": "Telecom Arabia",
+      "description": "Develop mobile applications",
+      "date1": "Jul 2007 – Dec 2007",
+      "date2": "6 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "ITI",
+      "degree": "Diploma",
+      "fieldofstudy": "Computer Software Engineering",
+      "date1": "2010",
+      "date2": "2010"
+    },
+    {
+      "title": "Cairo University",
+      "degree": "Verygood",
+      "fieldofstudy": "Information technology",
+      "date1": "2003",
+      "date2": "2007"
+    },
+    {
+      "title": "Faculty of computers and information of Cairo university",
+      "degree": "BSc of Computer science",
+      "fieldofstudy": "informaito",
+      "date1": "2003",
+      "date2": "2007"
+    },
+    {
+      "title": "El-Fostat secondary school",
+      "degree": "95.5%",
+      "fieldofstudy": "GSCE",
+      "date1": "2001",
+      "date2": "2003"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Oracle BPM",
+      "count": "2"
+    },
+    {
+      "title": "ADF",
+      "count": "8"
+    },
+    {
+      "title": "Java Enterprise Edition",
+      "count": "75"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "6",
+    "receivedCount": "8",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/georgegabra/",
+        "text": "Tarek is a very dedicated hard worker, and sincerely focused on success. I'm very lucky that I have worked with him, and I hope he goes on and continues to weave his success story."
+      },
+      {
+        "user": "https://www.linkedin.com/in/yelhady/",
+        "text": "I can recommend Tarek as a person with great recognition and deep proficiency of business solutions. Tarek did not fail a single time. Tarek is an innovative employee. Reliable and energetic team player who can be trusted. , His knowledge is vast and thorough. Tarek follows the best IT guidelines. Has a strong experience in areas such as Oracle SOA Suite, BPM and software architecture.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/reem-salah-93761a67/",
+        "text": "Tarek helped me alot to learn J2ME, he's a very good developer and a very helpful person."
+      },
+      {
+        "user": "https://www.linkedin.com/in/sarah-elghayaty/",
+        "text": "Tarek has features such as dependability , Honesty , Willing to Work , flexibility"
+      },
+      {
+        "user": "https://www.linkedin.com/in/mahmoud-azmy-65886921/",
+        "text": "Tarek is a hard worker. He is a committed , self organized with good personality and Tarek also is very adaptive with any new technology or environment."
+      },
+      {
+        "user": "https://www.linkedin.com/in/6b546218/",
+        "text": "Tarek is a smart person, skilled in java and deeply understand it. he is professional, well organized and good team mate."
+      },
+      {
+        "user": "https://www.linkedin.com/in/melorbany/",
+        "text": "I have had a pleasure of knowing Tarek and working with him in the same team on the faculty. He is intelligent and careful developer. Open minded and great expert. Deadline oriented and very good programmer."
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/marwamahmoud/",
+        "text": "Marwa did an exceptional job on the project i had worked in with her. Her conception, wonderful work flow, creativity and understanding of change requests made the project a dream. I would highly recommend her to anyone anywhere in the world. Marwa not only exceeded the brief, but gave group members a valuable insight to her thinking & methodology by instructing and coaching. I found Marwa also to be friendly, articulate & a great person to work with & would recommend her to anyone looking for someone professional,workaholic,self-motivated and have excellent leadership skills that include different motivation techniques. I have learnt a lot from her on both technical and non-technical levels.I wish someday we will be able to work together again."
+      },
+      {
+        "user": "https://www.linkedin.com/in/karim-shama-08b35b20/",
+        "text": "Karim, is very self-disciplined guy tries to keep everything in control with a crystal clear line of sight.He prefers to use his brain and gained experience instead of using default patterns in testing that's apparently clear in the number and type of bugs and defects he opens on software developers. I'm really having all the fun working with Karim as keeping a SMART one :)"
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "7",
+      "items": [
+        "MOI Departments Integration",
+        "ADSIC NOC (Abu Dhabi No Objections Certificates)",
+        "Americana Processes Automation",
+        "Misr Life Insurance(MLI)",
+        "HSBC Egypt",
+        "Crédit Agricole Egypt",
+        "Vodafone Egypt HR automated Tools"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "Arabic",
+        "English",
+        "German"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/haytham-gamal-10a0aa83/",
+      "text": "Java Team Lead at OneCard"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nahla-mahmoud-63808948/",
+      "text": "Project Manager at egabi Solutions"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ahmed-hamed-sayed-45720354/",
+      "text": "Infrastructure Technical Specialist at egabi Solutions"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ahmed-mukhtar-b4586150/",
+      "text": "Oracle Applications Principal Functional Consultant \"Manufacturing/Supply Chain/EAM\" - Project Manager"
+    },
+    {
+      "user": "https://www.linkedin.com/in/khaled-farouk-4796a014/",
+      "text": "Senior Oracle Technical Consultant"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shaban-abusalim-25112820/",
+      "text": "Technical Lead and Financial Consultant at Saline Water Conversion corporation"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ahmed-yousri/",
+      "text": "Experienced Oracle HCM Consultant at Raya International Services"
+    },
+    {
+      "user": "https://www.linkedin.com/in/hossam-hany-644702aa/",
+      "text": "Senior Java Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ramy-abdallah-381b9120/",
+      "text": "Sr. Technical Support at Technologia"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mohamed-elpashoty-17241b29/",
+      "text": "Applications Solutions Lead"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Tarek Moukhtar",
+    "headline": "Oracle Middleware and Java Team Lead at TRUEMEGA Technology Solutions",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQEAIXDqD98-qw/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=ZZw9nZ_a-jToZ1cprzz0rSb_76a1NRmxLvLiZDW0-0M",
+    "location": "Egypt",
+    "connections": "500+",
+    "summary": "Since my graduation in June 2007, have more than 9 years of extensive hands on experience of software development on different platforms using different Oracle Java and Fusion Middleware technologies.\n\nExperienced team lead and team player with excellent communication and interpersonal skills who has the ability to work independently under pressure.\n\nCurrently working as Oracle Middleware Lead / Project Technical Lead at Raya International Services (RIS).\n\nB.Sc. of computer science in 2007, the faculty of computers and information of Cairo University, Egypt.\nITI state-of-art 9-month scholarship diploma, Intake 30 in 2010, within the Java Enterprise track."
+  }
+}

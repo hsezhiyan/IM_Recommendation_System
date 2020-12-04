@@ -1,0 +1,179 @@
+{
+  "profileAlternative": {
+    "name": "Ziv Hilu",
+    "headline": "Big Data Developer/ Architect Python and Java at Software Company",
+    "location": "Israel",
+    "connections": "500+",
+    "summary": "over 13 years of successful track record with strong technical background as a Java and Python tech lead both on the design/architecture and in the implementation mostly on startups companies.\nMy main duties over the past years include: Linux(high level),Java/Python tech lead and development, Solution architect, software architecture, cloud based environments include: AWS Elastic Beanstalk and Google Cloud. All using cutting edge technologies and highly complex enterprise system both on the development and maintenance parts.\n\nI am a dedicated and a strong team member, a fast learner and self-managed."
+  },
+  "aboutAlternative": {
+    "text": "over 13 years of successful track record with strong technical background as a Java and Python tech lead both on the design/architecture and in the implementation mostly on startups companies.\nMy main duties over the past years include: Linux(high level),Java/Python tech lead and development, Solution architect, software architecture, cloud based environments include: AWS Elastic Beanstalk and Google Cloud. All using cutting edge technologies and highly complex enterprise system both on the development and maintenance parts.\n\nI am a dedicated and a strong team member, a fast learner and self-managed."
+  },
+  "positions": [
+    {
+      "title": "Big Data Developer/ Architect Python and Java",
+      "companyName": "Software Company",
+      "description": "Devops and big data developer using: RabbitMQ, Elastic Search, Java(Spring Boot), Python(Flask), RedHat and CentOS as OS, NodeJS, Jenkins",
+      "date1": "Nov 2016 – Present",
+      "date2": "3 yrs 1 mo"
+    },
+    {
+      "title": "Lead Python Server Developer/Architect",
+      "companyName": "NiNiSpeech",
+      "description": "NiNiSpeech enables people who stutter to take control over their speech, using unique mobile technologies.\nDesign, develop, test, maintain the server on high volume environment using python, MySQL, Flask, SQLAlchemy and Apache. The server is deployed on AWS using the following technologies: ec2, aws, S3 elastic cache(redis), rds on Linux cloud based machines.\n\nDesign and build the deployment tool using Jenkins, Git for full automation of the process.\n…\nsee more",
+      "date1": "Dec 2015 – Nov 2016",
+      "date2": "1 yr"
+    },
+    {
+      "title": "Python/Java Developer",
+      "companyName": "Tingz.me",
+      "description": "On java I'm using the following technologies: MongoDB, Spring, Tomcat.\nOn python:Flask Tornado including the new python 3.xx version.\n\nUsing Git, Maven.\n\nDeep knowledge on Amazon Web Services and Google Cloud, building and deploying applications and environments on Linux on the cloud providing high level of support on all Linux machines including AWS Elastic Beanstalk.\n…\nsee more",
+      "date1": "Jan 2015 – Dec 2015",
+      "date2": "12 mos"
+    },
+    {
+      "title": "Team Leader , Opeartion",
+      "companyName": "Correlsense",
+      "date1": "Dec 2011 – Jan 2015",
+      "date2": "3 yrs 2 mos"
+    },
+    {
+      "title": "Solutions Architect",
+      "companyName": "Correlsense",
+      "description": "Correlsense is the leader in BTM(Business Transaction Management ) software. Correlsense SharePath provides a breakthrough in IT Reliability by enabling both a birds-eye and detailed view of how business transactions perform across all tiers.\n\nResponsible for design/implementation of a highly complex system which includes cutting edge technologies. The position requires the following: pure java using all new technologies like:redis big data, Lucene, tomcat, intensive use of Linux.\n…\nsee more",
+      "date1": "Nov 2008 – Apr 2011",
+      "date2": "2 yrs 6 mos"
+    },
+    {
+      "title": "Developer, Professional Service",
+      "companyName": "BMC Software",
+      "description": "Identify is part of BMC software that develops software solution black box that records transactions on both client and server.\n\nAs part of the EMEA professional service team I travel frequently to customer sites at Europe and US.\n\nThroughout the project serving as a lead developer, writing implementation documents,coding in java and JEE.\n\nAssist sales managers with pre sales activities in presentations, demos, design and participating in POC (Proof of Concept) at customers site.\n…\nsee more",
+      "date1": "Jan 2007 – Nov 2008",
+      "date2": "1 yr 11 mos"
+    },
+    {
+      "title": "Senior Java developer",
+      "companyName": "Amobee",
+      "description": "Amobee is a start up company that develops advertising platform for mobile phones.\n\nAs a part of small server-side team, development of an integrated online server in a multi-threaded environment.\n\nInvolvement in the design, implementation, architecture and maintenance of the on-line server, using the most advanced tools and platforms.\n\nWorking under strict demands: high scalability and performance standards. Serve as the company's JAVA expert.\n\nKey technology: core JAVA 5.0, UNIX, WIN, Sun Solaris,\nWeb server: Tomcat, Using the Junit, Log4j, apache http client open source tools intensively.\n…\nsee more",
+      "date1": "Dec 2005 – Jan 2007",
+      "date2": "1 yr 2 mos"
+    },
+    {
+      "title": "Java/JEE Developer",
+      "companyName": "EDS",
+      "description": "Leumi bank is one of the largest banks in Israel, one of the first banks implementing the JEE platform.\n\nParticipation in making detailed OO design documents through development (Both server and client), unit testing integration tests and memory leaks checks, Implementing both client and server side.\n\nKey technologies: JAVA in JEE architecture/ SOA, EJB JMS (MQ) JMX, Websphere, XML, UML, Swing, web using JSP and struts\n…\nsee more",
+      "date1": "Oct 2003 – Oct 2005",
+      "date2": "2 yrs 1 mo"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Yizrael college",
+      "degree": "BA",
+      "fieldofstudy": "Computer Science and Information System",
+      "date1": "2000",
+      "date2": "2003"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Java Enterprise Edition",
+      "count": "29"
+    },
+    {
+      "title": "Object Oriented Design",
+      "count": "20"
+    },
+    {
+      "title": "System Architecture",
+      "count": "3"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "3",
+    "receivedCount": "3",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/david-liederman-24a387/",
+        "text": "Ziv is a highly motivated and goal oriented individual. He demonstrates the right mix of enthusiasm, patience and energy in his work. Ziv possesses great technical skills and solid experience. Highly recommended. I especially applaud his ability to work under very tight schedules, multiple tasks and heavy load."
+      },
+      {
+        "user": "https://www.linkedin.com/in/wygodny/",
+        "text": "Ziv was part of the European PS team I managed, and was responsible for all J2EE related projects. He was quick in learning both the product and the Consultant responsibilities (both were new to him). In this position Ziv handled large accounts, coordinating tasks with the product team and presenting the company successfully in front of customers. The feedback we got from the customers was always positive.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/noamdayan/",
+        "text": "I managed Ziv for a year. Ziv is an enthusiastic developer who always likes to learn new technologies and to seek new challenges. He is a team player and a hard worker."
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/andyreedy/",
+        "text": "I have been working with Andy for over 2 years while I was a vendor for Gainsco. Andy is a very technical guy. He can easily create/configure/maintain/design any application based on Unix/Windows environments and obviously he is the guy to be at your team in case you have such environment. \r\n\r\nAndy is always polite and very professional.\r\n\r\nZiv"
+      },
+      {
+        "user": "https://www.linkedin.com/in/russelltran/",
+        "text": "I have been working with Russ for over 2 years while I was a vendor for UBS. Russ is well known around UBS as the go to person if you ever have a technical problem concerning your infrastructure. He is very responsive, quick to resolve complex and critical situations affecting numerous departments around the organization. I highly recommend Russ for any technical role, especially one that requires a service oriented approach, as he has always shown kindness to whom ever he was in contact with."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "2",
+      "items": [
+        "English",
+        "Hebrew"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/yossef-chriqui-73608833/",
+      "text": "Big Data Architect at WalkMe™"
+    },
+    {
+      "user": "https://www.linkedin.com/in/oshrat-shine-69a19816/",
+      "text": "Sr. Infrastructure & Data engineer at Taptica"
+    },
+    {
+      "user": "https://www.linkedin.com/in/menahem-godick-01211397/",
+      "text": "Web developer Django Python & Angular JS"
+    },
+    {
+      "user": "https://www.linkedin.com/in/gilad-moscovitch-26a393b/",
+      "text": "Senior Software Engineer at Salesforce"
+    },
+    {
+      "user": "https://www.linkedin.com/in/danieldriechlinger/",
+      "text": "Big Data Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/alina-petrov-84a753b3/",
+      "text": "QA - Looking For My Next Challenge"
+    },
+    {
+      "user": "https://www.linkedin.com/in/bibazoo/",
+      "text": "Big Data Developer at Philips"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ronen-fidel-b073707/",
+      "text": "Big Data and Solutions Architect"
+    },
+    {
+      "user": "https://www.linkedin.com/in/motigalmidi/",
+      "text": "Hands on Big Data Architect"
+    },
+    {
+      "user": "https://www.linkedin.com/in/michaelur/",
+      "text": "Big Data Developer"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Ziv Hilu",
+    "headline": "Big Data Developer/ Architect Python and Java at Software Company",
+    "location": "Israel",
+    "connections": "500+",
+    "summary": "over 13 years of successful track record with strong technical background as a Java and Python tech lead both on the design/architecture and in the implementation mostly on startups companies.\nMy main duties over the past years include: Linux(high level),Java/Python tech lead and development, Solution architect, software architecture, cloud based environments include: AWS Elastic Beanstalk and Google Cloud. All using cutting edge technologies and highly complex enterprise system both on the development and maintenance parts.\n\nI am a dedicated and a strong team member, a fast learner and self-managed."
+  }
+}

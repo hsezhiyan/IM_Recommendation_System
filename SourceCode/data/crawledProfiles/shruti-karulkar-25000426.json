@@ -1,0 +1,298 @@
+{
+  "profileAlternative": {
+    "name": "Shruti Karulkar",
+    "headline": "Quality Engineering Manager at MathWorks, GHC19, GHC18 and WECode19 Speaker",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQE_V_LioyCWjg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=L7V6huwm_7thQQ3F6HMwGBsCDsebln0bRY83VIYPf-c",
+    "location": "Natick, Massachusetts",
+    "connections": "500+"
+  },
+  "aboutAlternative": {},
+  "positions": [
+    {
+      "title": "MathWorks",
+      "location": "Natick, Massachusetts",
+      "description": "Manage a team of engineers who define, architect, and lead projects in collaboration with other cross-functional teams in the following domains:\n• Hardware test infrastructure\n• Test & Measurement\n• Mobile testing and infrastructure\n• Hardware support in MATLAB\n…\nsee more",
+      "date1": "May 2019 – Present",
+      "date2": "7 mos",
+      "roles": [
+        {
+          "title": "Quality Engineering Manager - Test & Measurement, MATLAB Hardware and MATLAB Mobile",
+          "date1": "May 2019 – Present",
+          "date2": "7 mos",
+          "location": "Natick, Massachusetts"
+        },
+        {
+          "title": "Senior Team Lead - Test & Measurement, MATLAB Hardware Support, MATLAB Mobile",
+          "date1": "Nov 2015 – Present",
+          "date2": "4 yrs 1 mo",
+          "location": "Greater Boston Area"
+        },
+        {
+          "title": "Team Lead",
+          "date1": "May 2013 – Nov 2015",
+          "date2": "2 yrs 7 mos",
+          "location": "Greater Boston Area"
+        },
+        {
+          "title": "Quality Engineer",
+          "date1": "Jan 2011 – May 2013",
+          "date2": "2 yrs 5 mos",
+          "location": "Greater Boston Area"
+        }
+      ]
+    },
+    {
+      "title": "Title\nQuality Engineering Manager - Test & Measurement, MATLAB Hardware and MATLAB Mobile",
+      "location": "Natick, Massachusetts",
+      "date1": "May 2019 – Present",
+      "date2": "7 mos",
+      "roles": [
+        {
+          "title": "Quality Engineering Manager - Test & Measurement, MATLAB Hardware and MATLAB Mobile",
+          "date1": "May 2019 – Present",
+          "date2": "7 mos",
+          "location": "Natick, Massachusetts"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSenior Team Lead - Test & Measurement, MATLAB Hardware Support, MATLAB Mobile",
+      "location": "Greater Boston Area",
+      "description": "Manage a team of engineers who define, architect, and lead projects in collaboration with other cross-functional teams in the following domains:\n• Hardware test infrastructure\n• Test & Measurement\n• Mobile testing and infrastructure\n• Hardware support in MATLAB\n…\nsee more",
+      "date1": "Nov 2015 – Present",
+      "date2": "4 yrs 1 mo",
+      "roles": [
+        {
+          "title": "Senior Team Lead - Test & Measurement, MATLAB Hardware Support, MATLAB Mobile",
+          "date1": "Nov 2015 – Present",
+          "date2": "4 yrs 1 mo",
+          "location": "Greater Boston Area"
+        }
+      ]
+    },
+    {
+      "title": "Title\nTeam Lead",
+      "location": "Greater Boston Area",
+      "date1": "May 2013 – Nov 2015",
+      "date2": "2 yrs 7 mos",
+      "roles": [
+        {
+          "title": "Team Lead",
+          "date1": "May 2013 – Nov 2015",
+          "date2": "2 yrs 7 mos",
+          "location": "Greater Boston Area"
+        }
+      ]
+    },
+    {
+      "title": "Title\nQuality Engineer",
+      "location": "Greater Boston Area",
+      "date1": "Jan 2011 – May 2013",
+      "date2": "2 yrs 5 mos",
+      "roles": [
+        {
+          "title": "Quality Engineer",
+          "date1": "Jan 2011 – May 2013",
+          "date2": "2 yrs 5 mos",
+          "location": "Greater Boston Area"
+        }
+      ]
+    },
+    {
+      "title": "University of Houston",
+      "description": "1. Conduct Polyphase Circuits labs for Undergraduate students\n2. Grade exams, home works, quizzes for Electrical Circuits I and Electrical Circuits II courses for Undergraduate students\n3. Co-ordinating with Instructors and Lab Manager, to synchronize lab and grading activities with the theory class\n…\nsee more",
+      "date1": "Aug 2010 – Feb 2011",
+      "date2": "7 mos",
+      "roles": [
+        {
+          "title": "Instructional Assistant",
+          "date1": "Aug 2010 – Feb 2011",
+          "date2": "7 mos"
+        },
+        {
+          "title": "Research Assistant",
+          "date1": "Aug 2008 – Jul 2010",
+          "date2": "2 yrs"
+        }
+      ]
+    },
+    {
+      "title": "Title\nInstructional Assistant",
+      "description": "1. Conduct Polyphase Circuits labs for Undergraduate students\n2. Grade exams, home works, quizzes for Electrical Circuits I and Electrical Circuits II courses for Undergraduate students\n3. Co-ordinating with Instructors and Lab Manager, to synchronize lab and grading activities with the theory class\n…\nsee more",
+      "date1": "Aug 2010 – Feb 2011",
+      "date2": "7 mos",
+      "roles": [
+        {
+          "title": "Instructional Assistant",
+          "date1": "Aug 2010 – Feb 2011",
+          "date2": "7 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nResearch Assistant",
+      "description": "1. Conduct mentoring sessions and monitor the proceedings of the National Science Project on Concept Mapping for Undergraduate students\n2. Analyze the project outcomes\n3. Review and write proposals and papers based on the NSF project\n4. Prepare presentations giving overview of the project\n…\nsee more",
+      "date1": "Aug 2008 – Jul 2010",
+      "date2": "2 yrs",
+      "roles": [
+        {
+          "title": "Research Assistant",
+          "date1": "Aug 2008 – Jul 2010",
+          "date2": "2 yrs"
+        }
+      ]
+    },
+    {
+      "title": "Project Engineer (Embedded Systems Domain)",
+      "companyName": "Wipro Technologies",
+      "description": "1. Designed and implemented RS Bus algorithm for the client, Lennox\n2. Writing scripts in NI TestStand and GUI development using Labview\n3. Testing of the algorithm on hardware",
+      "date1": "Jul 2007 – Jun 2008",
+      "date2": "1 yr"
+    }
+  ],
+  "educations": [
+    {
+      "title": "University of Houston",
+      "degree": "Master's degree",
+      "fieldofstudy": "Electrical and Electronics Engineering",
+      "date1": "2008",
+      "date2": "2010"
+    },
+    {
+      "title": "University of Pune",
+      "degree": "Bachelor's degree",
+      "fieldofstudy": "Electrical, Electronics and Communications Engineering"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Labview",
+      "count": "20"
+    },
+    {
+      "title": "Embedded Systems",
+      "count": "15"
+    },
+    {
+      "title": "Matlab",
+      "count": "13"
+    },
+    {
+      "title": "Testing",
+      "count": "11"
+    },
+    {
+      "title": "Algorithms",
+      "count": "5"
+    },
+    {
+      "title": "Simulations",
+      "count": "5"
+    },
+    {
+      "title": "Electrical Engineering",
+      "count": "4"
+    },
+    {
+      "title": "Debugging",
+      "count": "4"
+    },
+    {
+      "title": "FPGA",
+      "count": "3"
+    },
+    {
+      "title": "Digital Signal Processors",
+      "count": "2"
+    },
+    {
+      "title": "Software Development",
+      "count": "1"
+    },
+    {
+      "title": "C",
+      "count": "7"
+    },
+    {
+      "title": "C++",
+      "count": "6"
+    },
+    {
+      "title": "Simulink",
+      "count": "4"
+    },
+    {
+      "title": "VHDL",
+      "count": "4"
+    },
+    {
+      "title": "Embedded Software",
+      "count": "4"
+    },
+    {
+      "title": "LabVIEW",
+      "count": "3"
+    },
+    {
+      "title": "Verilog",
+      "count": "2"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/poonamchawla2010/",
+      "text": "Software Engineer at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/keerthi-gurijala-59569551/",
+      "text": "Senior Software Engineer at MathWorks"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sphurthi/",
+      "text": "Senior Manager, Cyber Security Consulting"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kartik-thakkar-72627b31/",
+      "text": "Senior Team Lead at MathWorks"
+    },
+    {
+      "user": "https://www.linkedin.com/in/suneesh-sasikumar-5a340625/",
+      "text": "Senior Software Engineer at MathWorks"
+    },
+    {
+      "user": "https://www.linkedin.com/in/aboli-barve-043b7a17/",
+      "text": "On a break- Parenting :)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shallu-ranchan-37637a4/",
+      "text": "Engineering Manager || Women in Tech Summit 2019 Speaker || Software Quality|| Hiring SDET in Hyderabad||"
+    },
+    {
+      "user": "https://www.linkedin.com/in/greenbergirene/",
+      "text": "Consulting Program Manager at MathWorks"
+    },
+    {
+      "user": "https://www.linkedin.com/in/anita-gajjala/",
+      "text": "Senior Technical Consultant at MathWorks"
+    },
+    {
+      "user": "https://www.linkedin.com/in/divyabhat-mw/",
+      "text": "Engineering Manager, Software Quality at MathWorks Inc"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Shruti Karulkar",
+    "headline": "Quality Engineering Manager at MathWorks, GHC19, GHC18 and WECode19 Speaker",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQE_V_LioyCWjg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=L7V6huwm_7thQQ3F6HMwGBsCDsebln0bRY83VIYPf-c",
+    "location": "Natick, Massachusetts",
+    "connections": "500+"
+  }
+}

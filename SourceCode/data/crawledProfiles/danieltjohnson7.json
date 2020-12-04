@@ -1,0 +1,139 @@
+{
+  "profileAlternative": {
+    "name": "Daniel Johnson",
+    "headline": "Corporate Account Executive at MongoDB",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQHnl7ZtzslgtQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=bxx_RRrcU7mb2r63psoUOmILQWEr5k0mkoedkjtSCE0",
+    "location": "Austin, Texas",
+    "connections": "500+",
+    "summary": "Specialties include B2B SaaS prospecting and sales, implementing an ROI-based sales approach, leadership and culture development."
+  },
+  "aboutAlternative": {
+    "text": "Specialties include B2B SaaS prospecting and sales, implementing an ROI-based sales approach, leadership and culture development."
+  },
+  "positions": [
+    {
+      "title": "Corporate Account Executive",
+      "companyName": "MongoDB",
+      "location": "Austin, Texas Area",
+      "description": "MongoDB, Inc. is the company behind MongoDB. We build MongoDB and the drivers, and sell software and services to make your life easier. We also run MongoDB University and sponsor the community, hosting MongoDB World and MongoDB Days all over the globe. With offices across North America, Europe, and Asia, we are close to where you do business.\n\n*25 million downloads\n*DB-Engines ranking: #4\n*Leader in Forrester NoSQL Wave 2016\n*Leader in The Forrester Wave™: Big Data NoSQL 2016\n*172% growth in popularity in the last 20 months\n*Named to the 2017 CNBC Disruptor 50 List and CEO Recognized by EY\n*On Wall Street Journal’s Billion Dollar Startup Club\n…\nsee more",
+      "date1": "Jul 2017 – Present",
+      "date2": "2 yrs 5 mos"
+    },
+    {
+      "title": "Get Smart Content",
+      "location": "Austin, Texas Area",
+      "description": "Get Smart Content is a website segmentation and targeting platform designed to create the relevant content experiences that your buyers expect.\n\nUsing behavioral, demographic, and firmographic data, our platform creates personalized web experiences for both anonymous and known website visitors by allowing marketers to read a website visitor’s digital body language and serve relevant content based on the person’s stage in the buying journey.\n\nIndustry-leading companies and destinations like GE, Rockwell Automation, SF Travel, and Austin CVB rely on Get Smart Content to ensure that their visitors and planners see the right message at the right time.\n\nResponsibilities include:\n-Building a business case for personalization at B2B tech and manufacturing companies\n-Designing and implementing a scaleable sales process for our travel segment\n-Contribute thought leadership content within that segment - including whitepapers, webinars, and blogs\n-Nurture relationships with channel partners that lead directly to revenue.\n…\nsee more",
+      "date1": "Apr 2016 – Jun 2017",
+      "date2": "1 yr 3 mos",
+      "roles": [
+        {
+          "title": "Account Executive",
+          "date1": "Apr 2016 – Jun 2017",
+          "date2": "1 yr 3 mos",
+          "location": "Austin, Texas Area"
+        },
+        {
+          "title": "Market Development Manager",
+          "date1": "Jan 2015 – Mar 2016",
+          "date2": "1 yr 3 mos",
+          "location": "Austin, Texas Area"
+        }
+      ]
+    },
+    {
+      "title": "Title\nAccount Executive",
+      "location": "Austin, Texas Area",
+      "description": "Get Smart Content is a website segmentation and targeting platform designed to create the relevant content experiences that your buyers expect.\n\nUsing behavioral, demographic, and firmographic data, our platform creates personalized web experiences for both anonymous and known website visitors by allowing marketers to read a website visitor’s digital body language and serve relevant content based on the person’s stage in the buying journey.\n\nIndustry-leading companies and destinations like GE, Rockwell Automation, SF Travel, and Austin CVB rely on Get Smart Content to ensure that their visitors and planners see the right message at the right time.\n\nResponsibilities include:\n-Building a business case for personalization at B2B tech and manufacturing companies\n-Designing and implementing a scaleable sales process for our travel segment\n-Contribute thought leadership content within that segment - including whitepapers, webinars, and blogs\n-Nurture relationships with channel partners that lead directly to revenue.\n…\nsee more",
+      "date1": "Apr 2016 – Jun 2017",
+      "date2": "1 yr 3 mos",
+      "roles": [
+        {
+          "title": "Account Executive",
+          "date1": "Apr 2016 – Jun 2017",
+          "date2": "1 yr 3 mos",
+          "location": "Austin, Texas Area"
+        }
+      ]
+    },
+    {
+      "title": "Title\nMarket Development Manager",
+      "location": "Austin, Texas Area",
+      "description": "Responsibilities included:\n-Prospecting\n-Cold-calling\n-Value-based email propositions\n-Territory development\n-Delivery of qualified opportunities to sales director\n\nPromoted to Account Executive after 1 year.\n…\nsee more",
+      "date1": "Jan 2015 – Mar 2016",
+      "date2": "1 yr 3 mos",
+      "roles": [
+        {
+          "title": "Market Development Manager",
+          "date1": "Jan 2015 – Mar 2016",
+          "date2": "1 yr 3 mos",
+          "location": "Austin, Texas Area"
+        }
+      ]
+    },
+    {
+      "title": "Sales Representative",
+      "companyName": "CourseTrends, Inc.",
+      "location": "Austin, TX",
+      "description": "From social media marketing to online tee time distribution to web site design—CourseTrends provides golf course operators with proven marketing tools and strategic business plans that increase revenue with minimal effort from clients.\n\nCourseTrends, Inc. offers a full collection of effective marketing tools, designed to drive revenue across all channels: web, email, social media, mobile, third party tee time sites and telephone. By using CourseTrends, golf courses and their customers enjoy world-class service that has become a CourseTrends trademark.\n\nFounded in 2003 amid the tech culture of Austin, Texas, CourseTrends has long been at the forefront of online golf marketing.\n…\nsee more",
+      "date1": "Sep 2013 – Dec 2014",
+      "date2": "1 yr 4 mos"
+    },
+    {
+      "title": "Coach",
+      "companyName": "CrossFit Renew",
+      "date1": "Apr 2013 – Dec 2014",
+      "date2": "1 yr 9 mos"
+    },
+    {
+      "title": "Partnership Manager",
+      "companyName": "The For the City Network",
+      "date1": "Aug 2011 – Sep 2013",
+      "date2": "2 yrs 2 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Baylor University",
+      "degree": "Bachelor of Arts (B.A.)",
+      "fieldofstudy": "Corporate Communication"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Sales"
+    },
+    {
+      "title": "Account Management"
+    },
+    {
+      "title": "Salesforce.com"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "1",
+    "receivedCount": "1",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/maryclaredavis/",
+        "text": "Daniel is the ultimate professional and would be a huge asset on any team. I was lucky to work with Daniel to set up a new industry-specific focus within our company and was always impressed by his ability to self start, to move projects and accounts forward, and to build real and lasting relationships with prospects, customers and colleagues. He's excellent in a sales role, but would be successful in just about anything he set his mind to. I would jump at the opportunity to work with him again and can't recommend him highly enough.\n…\nSee more"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/maryclaredavis/",
+        "text": "Mary Clare's unique ability to quickly process details and sort the extraneous from the important allowed her to scale our division at Bound. Her sheer ability and talent, paired with her humility and teachability, makes her a pleasure to work alongside. Any person or company fortunate enough to work with Mary Clare will undoubtedly achieve success, based on Mary Clare's commitment to excellence alone. I'd be proud to work with her again."
+      }
+    ]
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Daniel Johnson",
+    "headline": "Corporate Account Executive at MongoDB",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQHnl7ZtzslgtQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=bxx_RRrcU7mb2r63psoUOmILQWEr5k0mkoedkjtSCE0",
+    "location": "Austin, Texas",
+    "connections": "500+",
+    "summary": "Specialties include B2B SaaS prospecting and sales, implementing an ROI-based sales approach, leadership and culture development."
+  }
+}

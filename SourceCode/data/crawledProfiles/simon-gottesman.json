@@ -1,0 +1,174 @@
+{
+  "profileAlternative": {
+    "name": "Simon Gottesman",
+    "headline": "PHP and Javascript Developer",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQFx16xiocsEMg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=U1mAK1flry45TNCLck7jbUSuKL79XCJBc4yDFSOUBMs",
+    "location": "Greater New York City Area",
+    "connections": "243",
+    "summary": "PHP and Javascript web developer, with several years experience working on numerous projects.\n\nSpecialties: Web development with several MVC frameworks, including Zend and Cake, as well as with Javascript frameworks such as AngularJS, Handlebars, and JQuery Mobile/Phonegap app development."
+  },
+  "aboutAlternative": {
+    "text": "PHP and Javascript web developer, with several years experience working on numerous projects.\n\nSpecialties: Web development with several MVC frameworks, including Zend and Cake, as well as with Javascript frameworks such as AngularJS, Handlebars, and JQuery Mobile/Phonegap app development."
+  },
+  "positions": [
+    {
+      "title": "PHP/.Net Developer",
+      "companyName": "AECOM Tishman",
+      "location": "Greater New York City Area",
+      "date1": "May 2018 – Present",
+      "date2": "1 yr 7 mos"
+    },
+    {
+      "title": "Laravel/Joomla PHP",
+      "companyName": "Publishers Clearing House",
+      "location": "Jericho, NY",
+      "date1": "May 2017 – Feb 2018",
+      "date2": "10 mos"
+    },
+    {
+      "title": "Laravel Developer",
+      "companyName": "Agorafy",
+      "location": "New York, New York",
+      "date1": "Nov 2016 – Apr 2017",
+      "date2": "6 mos"
+    },
+    {
+      "title": "PHP Developer",
+      "companyName": "Vimbly",
+      "location": "NewYork, NY",
+      "date1": "Nov 2015 – Nov 2016",
+      "date2": "1 yr 1 mo"
+    },
+    {
+      "title": "Lead PHP and Javascript Developer",
+      "companyName": "BPS Consulting",
+      "description": "Building new websites and enhancing with major features several large Fortune 500 client websites utilizing PHP, Javascript and a proprietary, in-house CMS.",
+      "date1": "Sep 2012 – Oct 2015",
+      "date2": "3 yrs 2 mos"
+    },
+    {
+      "title": "Co-founder and Developer",
+      "companyName": "TheChineseLink LLC",
+      "date1": "Mar 2012 – Oct 2015",
+      "date2": "3 yrs 8 mos"
+    },
+    {
+      "title": "Web Developer",
+      "companyName": "TPG Rewards Inc",
+      "description": "PHP web developer working on promotional contest websites affiliated with Fortune 500 clients, including General Mills, Warner Bros., RealD, Marvel Comics, and many others. Projects all included extensive front-end coding as well, including CSS for web page styling and Javascript for interactive sites.",
+      "date1": "Feb 2011 – Sep 2012",
+      "date2": "1 yr 8 mos"
+    },
+    {
+      "title": "Software and web developer",
+      "companyName": "UnitedPhysicians.com",
+      "description": "I have worked as the chief software engineer at UnitedPhysicians LLC, a company in development focused on providing a novel approach in healthcare. I have worked with numerous technologies in this position, including PHP, the Zend Framework, SQL Server, Ajax, and JQuery.",
+      "date1": "Nov 2006 – Feb 2011",
+      "date2": "4 yrs 4 mos"
+    },
+    {
+      "title": "Helpdesk Software Technician",
+      "companyName": "College of Staten Island",
+      "location": "Staten Island, New York",
+      "description": "Performed technical support and maintenance for all versions of Microsoft Windows and various applications, such as M.S. Office, Test Out, and CUNY-specific applications",
+      "date1": "Jan 2004 – Nov 2006",
+      "date2": "2 yrs 11 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "College of Staten Island",
+      "degree": "Masters",
+      "fieldofstudy": "Computer Science",
+      "date1": "2003",
+      "date2": "2007"
+    },
+    {
+      "title": "Sarah Lawrence College",
+      "degree": "BA",
+      "fieldofstudy": "Liberal Arts",
+      "date1": "1996",
+      "date2": "2000"
+    }
+  ],
+  "skills": [
+    {
+      "title": "PHP",
+      "count": "12"
+    },
+    {
+      "title": "JavaScript",
+      "count": "11"
+    },
+    {
+      "title": "AJAX",
+      "count": "9"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "2",
+      "items": [
+        "Greek",
+        "Spanish"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/brockolson/",
+      "text": "»» React JavaScript Developer ««"
+    },
+    {
+      "user": "https://www.linkedin.com/in/flor-guzman-9b07b126/",
+      "text": "Web Developer at Happy Cog"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jrobinsonc/",
+      "text": "PHP Developer at GAIN Capital"
+    },
+    {
+      "user": "https://www.linkedin.com/in/alina-yudkevich-15530373/",
+      "text": "Software Developer at Dotdash"
+    },
+    {
+      "user": "https://www.linkedin.com/in/snehalvaidya/",
+      "text": "PHP Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/dan-delude-55320236/",
+      "text": "PHP Developer at Insight Global"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ruchigoyal/",
+      "text": "App. Developer at Dow Jones"
+    },
+    {
+      "user": "https://www.linkedin.com/in/derrick-mccurdy/",
+      "text": "Lead PHP Developer at Yello.co"
+    },
+    {
+      "user": "https://www.linkedin.com/in/claricel-ruiz-2b4b608b/",
+      "text": "PHP Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/will-fifer/",
+      "text": "Front-end Developer at Idealist"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Simon Gottesman",
+    "headline": "PHP and Javascript Developer",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQFx16xiocsEMg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=U1mAK1flry45TNCLck7jbUSuKL79XCJBc4yDFSOUBMs",
+    "location": "Greater New York City Area",
+    "connections": "243",
+    "summary": "PHP and Javascript web developer, with several years experience working on numerous projects.\n\nSpecialties: Web development with several MVC frameworks, including Zend and Cake, as well as with Javascript frameworks such as AngularJS, Handlebars, and JQuery Mobile/Phonegap app development."
+  }
+}

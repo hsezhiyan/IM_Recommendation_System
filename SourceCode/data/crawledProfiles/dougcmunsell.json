@@ -1,0 +1,184 @@
+{
+  "profileAlternative": {
+    "name": "Doug C. Munsell",
+    "headline": "Oracle and SQL Server Database Administrator at Leidos",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQELzi4bkXmayQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=NE8ZEbYlp7oXXuy4vfrIxOFVV15n4jGwiCGHCnBWf-Y",
+    "location": "Saint Louis, Missouri",
+    "connections": "147",
+    "summary": "Experienced Oracle Database Administrator with a demonstrated history of working in the information technology and services industry. Skilled in Oracle Database running on UNIX and Windows OS. Strong information technology professional graduated from Washington University, St. Louis, MO."
+  },
+  "aboutAlternative": {
+    "text": "Experienced Oracle Database Administrator with a demonstrated history of working in the information technology and services industry. Skilled in Oracle Database running on UNIX and Windows OS. Strong information technology professional graduated from Washington University, St. Louis, MO."
+  },
+  "positions": [
+    {
+      "title": "Oracle and SQL Server Database Administrator",
+      "companyName": "Leidos",
+      "location": "Ofallon IL",
+      "date1": "May 2018 – Present",
+      "date2": "1 yr 7 mos"
+    },
+    {
+      "title": "Oracle and SQL Server Database Administrator",
+      "companyName": "Apex Systems",
+      "location": "Scott Air Force Base, Shiloh, IL",
+      "date1": "Nov 2017 – Present",
+      "date2": "2 yrs 1 mo"
+    },
+    {
+      "title": "Oracle DBA",
+      "companyName": "TRI-COR Industries, Inc.",
+      "location": "Ofallon Illinois",
+      "description": "Oracle 12c Administration with emphasis on new installs, upgrades, patching, and troubleshooting. Utilizing Data Replication using Oracle Golden Gate and Dell Shareplex.\nOS experience on Solaris and Windows 2008/2012.",
+      "date1": "Apr 2016 – Present",
+      "date2": "3 yrs 8 mos"
+    },
+    {
+      "title": "Oracle DBA",
+      "companyName": "Modis",
+      "description": "Oracle 12c administration in a multi-tiered environment utilizing Oracle GoldenGate and Dell Shareplex replication. Concentration on patching and monitoring of 12c databases.",
+      "date1": "Oct 2015 – May 2016",
+      "date2": "8 mos"
+    },
+    {
+      "title": "SAP/XI and IBM WebSphere MQ Messaging Middleware Interface Administrator",
+      "companyName": "Nestle GLOBE Organization",
+      "location": "Saint Louis, MO",
+      "description": "SAP/XI and IBM WebSphere MQ Messaging Middleware Interface administration.\nEnvironment: UNIX(HP and IBM), Windows 2003 and 2008, and IBM AS400 severs",
+      "date1": "Apr 2011 – Mar 2015",
+      "date2": "4 yrs"
+    },
+    {
+      "title": "Oracle, SQL Server and UNIX Database and Server Administrator",
+      "companyName": "Nestle Purina Pet Care",
+      "location": "Saint Louis, MO",
+      "description": "10 years of Oracle, SQL Server, and UNIX Administration.\nEnvironment: UNIX(IBM and HP), Windows 2000, and IBM P series servers",
+      "date1": "May 2000 – Mar 2011",
+      "date2": "10 yrs 11 mos"
+    },
+    {
+      "title": "Oracle and UNIX Database Administrator",
+      "companyName": "Ascension Health",
+      "location": "St. Louis, MO",
+      "description": "Oracle and Unix database administration.\nEnvironment: IBM AS400 and Sun Solaris servers",
+      "date1": "Aug 1998 – May 2000",
+      "date2": "1 yr 10 mos"
+    },
+    {
+      "title": "Oracle Database Administrator",
+      "companyName": "Purina Mills Inc.",
+      "location": "St. Louis, MO",
+      "description": "Environment: SAP system. Windows and IBM RISC 6000 servers.",
+      "date1": "Jan 1998 – Aug 1998",
+      "date2": "8 mos"
+    },
+    {
+      "title": "Unix System Administrator",
+      "companyName": "The Registry Inc.",
+      "location": "St.Louis, MO",
+      "description": "Environment: UNIX (IBM and HP), Windows, IBM-AIX and NCR-SVR 4 servers",
+      "date1": "Jun 1997 – Jan 1998",
+      "date2": "8 mos"
+    },
+    {
+      "title": "Sybase Database Administrator",
+      "companyName": "National Imagery and Mapping Agency (NIMA)",
+      "location": "St. Louis, MO",
+      "description": "Environment: Sybase, Solaris and Windows servers.\nTop Secret Clearance.",
+      "date1": "May 1996 – May 1997",
+      "date2": "1 yr 1 mo"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Washington University, St. Louis, MO",
+      "degree": "Master of Information Management",
+      "fieldofstudy": "Master of Information Management",
+      "date1": "1993",
+      "date2": "1994"
+    },
+    {
+      "title": "Saint Louis University",
+      "degree": "Bachelor of Science in Geophysics",
+      "date1": "1980",
+      "date2": "1984"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Unix",
+      "count": "13"
+    },
+    {
+      "title": "Oracle",
+      "count": "9"
+    },
+    {
+      "title": "System Administration",
+      "count": "8"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "1",
+    "receivedCount": "0",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/gjbick/",
+        "text": "I am very happy to recommend Greg Bick to you for employment. As a working colleague of mine at Nestle for over 6 years, Greg has been an exemplary person to work with. I can’t recommend him highly enough. He has always met or exceeded expectations on his assigned tasks. Greg and I were both members of the same teams for the last 6+ years at Nestle. Four years with the Nestle GLOBE Interface Competency Center and 2 with Nestle Purina Pet Care’s Middleware Interface team. In that time I consider him to be the best team member I worked with locally in Saint Louis. One thing that stood out in our working relationship was Greg’s consistent willingness to answer questions on tasks that I was struggling with. His tenure at Nestle exceeded 25 years and I think that speaks for itself when it comes to his dedication to Nestle and the IT roles he has held in that time. For me the best attribute that Greg always showed, was his desire to make sure the customer was satisfied with his work or information he provided. This resulted in consistent favorable feedback from the teams and customers we supported. I highly recommend Greg for any positions that you may be considering for him.\n…\nSee more"
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/ramanmalhotra/",
+      "text": "Vice President, Talent Acquisition at Leidos"
+    },
+    {
+      "user": "https://www.linkedin.com/in/melisa-baumann-60001272/",
+      "text": "Vice President of Talent at Nestlé Purina PetCare North America at Nestlé Purina North America"
+    },
+    {
+      "user": "https://www.linkedin.com/in/snigdha55/",
+      "text": "Software Engineer at Leidos"
+    },
+    {
+      "user": "https://www.linkedin.com/in/john-kelly-51a4729b/",
+      "text": "Highly motivated and evolving individual adapting to the many changes of the industry."
+    },
+    {
+      "user": "https://www.linkedin.com/in/britneymay/",
+      "text": "Sr. Account Manager at Apex Systems"
+    },
+    {
+      "user": "https://www.linkedin.com/in/stephanie-whitt-3628a7175/",
+      "text": "QA Associate at Apex Life Sciences"
+    },
+    {
+      "user": "https://www.linkedin.com/in/dan-caruthers-22378135/",
+      "text": "--"
+    },
+    {
+      "user": "https://www.linkedin.com/in/buffa-deborah-ab9006134/",
+      "text": "--"
+    },
+    {
+      "user": "https://www.linkedin.com/in/matt-dobrinic-a08854161/",
+      "text": "--"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kierra-jones-856b1b178/",
+      "text": "Optician at Clarkson Eyecare"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Doug C. Munsell",
+    "headline": "Oracle and SQL Server Database Administrator at Leidos",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQELzi4bkXmayQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=NE8ZEbYlp7oXXuy4vfrIxOFVV15n4jGwiCGHCnBWf-Y",
+    "location": "Saint Louis, Missouri",
+    "connections": "147",
+    "summary": "Experienced Oracle Database Administrator with a demonstrated history of working in the information technology and services industry. Skilled in Oracle Database running on UNIX and Windows OS. Strong information technology professional graduated from Washington University, St. Louis, MO."
+  }
+}

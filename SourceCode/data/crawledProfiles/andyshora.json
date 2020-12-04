@@ -1,0 +1,260 @@
+{
+  "profileAlternative": {
+    "name": "Andy Shora",
+    "headline": "Lead Software Engineer – Front End at BCG GAMMA",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQFNOpBUuP-Jpw/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=sqM1YJFWiClMXoOh_JFRepeP58AXTZ9oCxHwXui4MwE",
+    "location": "London, Greater London, United Kingdom",
+    "connections": "500+",
+    "summary": "Andy's recent experience includes visualising large datasets for pharma and car manufacturing, building dashboards for Formula One teams on top of live event streams, and delivering high performance websites for the biggest tech firms in the Valley. Andy also built the first commercial system which implemented end-to-end encryption of large files in-browser using HTML5 and JavaScript."
+  },
+  "aboutAlternative": {
+    "text": "Andy's recent experience includes visualising large datasets for pharma and car manufacturing, building dashboards for Formula One teams on top of live event streams, and delivering high performance websites for the biggest tech firms in the Valley. Andy also built the first commercial system which implemented end-to-end encryption of large files in-browser using HTML5 and JavaScript."
+  },
+  "positions": [
+    {
+      "title": "Lead Software Engineer – Front End",
+      "companyName": "BCG GAMMA",
+      "location": "London, United Kingdom",
+      "description": "Making AI Real for Business.",
+      "date1": "Jul 2019 – Present",
+      "date2": "5 mos"
+    },
+    {
+      "title": "Senior Frontend Developer",
+      "companyName": "Qadre",
+      "location": "London, United Kingdom",
+      "description": "Building systems to facilitate trust.\n\nDefining a technology stack including React, SVG, HTML + CSS.",
+      "date1": "Mar 2018 – Jun 2019",
+      "date2": "1 yr 4 mos"
+    },
+    {
+      "title": "QuantumBlack",
+      "location": "London, United Kingdom",
+      "date1": "Jul 2017 – Mar 2018",
+      "date2": "9 mos",
+      "roles": [
+        {
+          "title": "Head of Creative Technology",
+          "date1": "Jul 2017 – Mar 2018",
+          "date2": "9 mos",
+          "location": "London, United Kingdom"
+        },
+        {
+          "title": "Lead Front End Engineer",
+          "date1": "Jul 2016 – Jul 2017",
+          "date2": "1 yr 1 mo",
+          "location": "London, United Kingdom"
+        },
+        {
+          "title": "Frontend Engineer",
+          "date1": "Sep 2015 – Jul 2016",
+          "date2": "11 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nHead of Creative Technology",
+      "location": "London, United Kingdom",
+      "date1": "Jul 2017 – Mar 2018",
+      "date2": "9 mos",
+      "roles": [
+        {
+          "title": "Head of Creative Technology",
+          "date1": "Jul 2017 – Mar 2018",
+          "date2": "9 mos",
+          "location": "London, United Kingdom"
+        }
+      ]
+    },
+    {
+      "title": "Title\nLead Front End Engineer",
+      "location": "London, United Kingdom",
+      "date1": "Jul 2016 – Jul 2017",
+      "date2": "1 yr 1 mo",
+      "roles": [
+        {
+          "title": "Lead Front End Engineer",
+          "date1": "Jul 2016 – Jul 2017",
+          "date2": "1 yr 1 mo",
+          "location": "London, United Kingdom"
+        }
+      ]
+    },
+    {
+      "title": "Title\nFrontend Engineer",
+      "date1": "Sep 2015 – Jul 2016",
+      "date2": "11 mos",
+      "roles": [
+        {
+          "title": "Frontend Engineer",
+          "date1": "Sep 2015 – Jul 2016",
+          "date2": "11 mos"
+        }
+      ]
+    },
+    {
+      "title": "Senior Frontend Developer",
+      "companyName": "R/GA",
+      "location": "London",
+      "description": "Developing mobile-first JavaScript applications using AngularJS.\n\nDuring my time at R/GA I've been fortunate to have worked on Frontend builds for Nike, Google and Apple.",
+      "date1": "Mar 2013 – Sep 2015",
+      "date2": "2 yrs 7 mos"
+    },
+    {
+      "title": "Founder & CTO",
+      "companyName": "CPD Review",
+      "description": "CPD Review is an online platform providing Dental Professionals with accurate and impartial reviews for CPD courses.",
+      "date1": "Jun 2012 – Nov 2013",
+      "date2": "1 yr 6 mos"
+    },
+    {
+      "title": "Software Development Engineer",
+      "companyName": "CertiVox",
+      "description": "I worked at CertiVox developing web-based security products for military-grade communications in the financial, law, and public sectors. During my time there I designed and developed the world’s first end-to-end secure email client in JavaScript/HTML5 (http:// www.privatesky.me), using elliptical curve cryptography for data encryption and message signing and verification.\n\nI enabled the encryption of files over 500MB in-browser via pushing the capabilities of HTML5 web workers to the limit, so encryption is ‘chunked’, queued, and processed via 3 asynchronous workers so even web browsers on slow computers didn’t experience browser lockup.\n\nThe encryption libraries were developed by Professor Mike Scott, which I became educated and familiarised with. I helped port them to JavaScript by working with libraries developed by Stanford University, oversaw compatibility testing with Managed C++ and C# libraries, and finally made sure their integration with the UX in an email client was as seemless as possible. The ported libraries surpassed benchmarks achieved by Stanford libraries, and the additional functionality achieved with HTML5 web workers allowed me to produce an enterprise-level solution to encrypting email attachments.\n\nI also developed compatibility testing tools, for example, to make sure a message encrypted on iOS could be decrypted in a web browser in JavaScript. Other notable projects included designing and developing company dashboards to display product usage and sales metrics, in HTML5, CSS3 and .NET (C#) backend, connecting to an API interfacing the MongoDB datastore.\n…\nsee more",
+      "date1": "Apr 2011 – Jun 2012",
+      "date2": "1 yr 3 mos"
+    },
+    {
+      "title": "Technical Lead",
+      "companyName": "Marketpoint Global",
+      "description": "Rebuilt company website, supporting and improving existing CRM product, UI Design for applications and new CRM to launch in late 2011, re-branded company services, introduced processes to improve efficiency and quality across the technical department. Long list of achievements, won Employee of the Year in my first full year.\n\nDeveloped web applications including a CRM, iPad lead collection app, telecoms data collection systems, in ASP, .NET (C#), php, HTML5 and jQuery.\n…\nsee more",
+      "date1": "Feb 2009 – Mar 2011",
+      "date2": "2 yrs 2 mos"
+    },
+    {
+      "title": "Engineering Services Engineer",
+      "companyName": "Redwood Technologies",
+      "description": "A mixture of sysadmin, support product development, and a client-facing technical support role maintaining Redwood telecommunications products, which were based on a platform hosting conferences for the US State Dept, as well as 100k+ calls during TV competitions and promotions.\n\nThe role also included developing internal web-based tools using PHP and MSSQL, as well as interacting with Windows Server systems and databases on a daily basis. Also involved trips to Cable & Wireless datacenters to install telecoms hardware, which required remote installation and resiliance testing.\n…\nsee more",
+      "date1": "Sep 2008 – Feb 2009",
+      "date2": "6 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "University of Warwick",
+      "degree": "Bachelor of Science (BSc)",
+      "fieldofstudy": "Computer Science",
+      "date1": "2005",
+      "date2": "2008"
+    },
+    {
+      "title": "Wargrave Piggott School",
+      "degree": "A-Levels",
+      "fieldofstudy": "Mathematics (A), Physics (A), Art (A)",
+      "date1": "2006",
+      "date2": "2008"
+    }
+  ],
+  "skills": [
+    {
+      "title": "JavaScript",
+      "count": "26"
+    },
+    {
+      "title": "HTML 5",
+      "count": "18"
+    },
+    {
+      "title": "User Interface Design",
+      "count": "18"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "6",
+    "receivedCount": "4",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/safaboga/",
+        "text": "Andy is a fantastic developer who sees both the detail and the big picture vision. He is a critical thinker and is not afraid of making bold decisions where they are required. Andy developed the whole CPD Review platform in less than 6 weeks and was focused on the user experience throughout. He is creative, intelligent and full of cheeky one liners. A pleasure to have had you as my business partner :)\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/agileleader/",
+        "text": "Andy is one the best front-end developer I worked with. His knowledge of Jquery, Javascript and HTML5 are second to none. Andy is personable and a great team player. I would not hesitate to recommend him to anyone and certainly would like to work with him again."
+      },
+      {
+        "user": "https://www.linkedin.com/in/dimitrovd/",
+        "text": "Andy is a proven expert with a vast experience, deep understanding about the technologies he uses, a reliable and very responsible team player and always fresh-minded and smiling. I do recommend Andy to any company/individual/customer that needs a strong professional with enormous pool of knowledge and experience."
+      },
+      {
+        "user": "https://www.linkedin.com/in/nickpateman/",
+        "text": "It's very rare to come across developers as keen and as professional as Andy. Without a doubt the best UX designer I have known, leaving no stone un-turned. Always a pleasure to work with and dedicated to hitting deadlines."
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/claratudela/",
+        "text": "Clara's talent doesn't go unnoticed on projects. She consistently produces magic no matter what pressures are applied, as we found on a couple of challenging projects for Google in the past year.\r\n\r\nThe work she's done has been seen by millions of people around the globe, and it's often the small details which make her work the reason why people smile.\r\n\r\nYou can add Clara to any team and she'll not only do an amazing job but she'll also boost the mood of everyone around her! This was one of the easiest recommendations I've had to write."
+      },
+      {
+        "user": "https://www.linkedin.com/in/peduarteltd/",
+        "text": "Pedro is a very rare type of frontend developer who possesses an acute eye for detail. The solutions he produces are completely unique. A true master of all things CSS, he is never happy until he has nailed the design, user experience, and performance of a web page. Pedro is not afraid to question any aspect of wireframes or design, identifying potential problems early on which end up saving hours of time on a project.He goes out of his way to ensure RWD is implemented properly, working closely with design and UX to make sure he gets the best possible result.\r\n\r\nIn the last year Pedro has led the frontend development of important projects, and shown he is more than capable of managing more than his own workload, designing object-orientated architecture for complex frontend builds and running code reviews with a team.\r\n\r\nPedro is the type of developer people love working with. He brings not just technical and visual skills, but he really is a top bloke and extremely fun to work with."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "8",
+      "items": [
+        "andyshora.com",
+        "Google Year in Search 2014",
+        "Nike+ FuelFest",
+        "Stackey.com",
+        "Google World Cup 2014",
+        "Web Performance News",
+        "The City Awards",
+        "Nike FuelBand Group Competition for Apple Stores"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/tobias-holler/",
+      "text": "Data Scientist at BCG"
+    },
+    {
+      "user": "https://www.linkedin.com/in/abossen/",
+      "text": "Contractor | Artificial Intelligence | Machine Learning | Software Engineering | Data Engineering | Data Science"
+    },
+    {
+      "user": "https://www.linkedin.com/in/syed-husain-7a7b98/",
+      "text": "Chief IT Architect at BCG Platinion"
+    },
+    {
+      "user": "https://www.linkedin.com/in/krisrivastava/",
+      "text": "Data Scientist at BCG GAMMA"
+    },
+    {
+      "user": "https://www.linkedin.com/in/chonsak/",
+      "text": "Design & Innovation Strategy | Founder at Oktbr"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tsoumitas/",
+      "text": "Web Applications Software Architect focusing on JavaScript (Node.js: 7 years, React.js: 3 years)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nigelmarkey/",
+      "text": "Lead Data Scientist"
+    },
+    {
+      "user": "https://www.linkedin.com/in/beke-vuma-3147236/",
+      "text": "Principal at Boston Consulting Group (BCG)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sudeep-maitra-3679b4/",
+      "text": "Senior executive, Board member and investor in the Energy Transition"
+    },
+    {
+      "user": "https://www.linkedin.com/in/samshort/",
+      "text": "Senior Data Scientist at BCG GAMMA"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Andy Shora",
+    "headline": "Lead Software Engineer – Front End at BCG GAMMA",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQFNOpBUuP-Jpw/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=sqM1YJFWiClMXoOh_JFRepeP58AXTZ9oCxHwXui4MwE",
+    "location": "London, Greater London, United Kingdom",
+    "connections": "500+",
+    "summary": "Andy's recent experience includes visualising large datasets for pharma and car manufacturing, building dashboards for Formula One teams on top of live event streams, and delivering high performance websites for the biggest tech firms in the Valley. Andy also built the first commercial system which implemented end-to-end encryption of large files in-browser using HTML5 and JavaScript."
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "profileAlternative": {
+    "name": "James Bice",
+    "headline": "Learning Unity and Swift development",
+    "location": "Sandia Park, New Mexico",
+    "connections": "Contact info",
+    "summary": "Toxic Heroes is my Game Studio which is basically a one man army. I am hoping to expand it and make more games for the app store, though its hard when you are the one making the website, the graphics, the code, the logos, and the ads, it seems impossible. Its a long process for me, especially with school in the way. Because I'm only 10 years old, its also very hard but fun. I live in NM Sandia Park, with my mom, dad, and two sisters."
+  },
+  "aboutAlternative": {
+    "text": "Toxic Heroes is my Game Studio which is basically a one man army. I am hoping to expand it and make more games for the app store, though its hard when you are the one making the website, the graphics, the code, the logos, and the ads, it seems impossible. Its a long process for me, especially with school in the way. Because I'm only 10 years old, its also very hard but fun. I live in NM Sandia Park, with my mom, dad, and two sisters."
+  },
+  "positions": [
+    {
+      "title": "Swift and HTML developer",
+      "companyName": "Toxic Heroes",
+      "date1": "Mar 2015 – Present",
+      "date2": "4 yrs 9 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Manzano Day School",
+      "degree": "5th",
+      "date1": "2010",
+      "date2": "2017"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Graphic Design"
+    },
+    {
+      "title": "Web Design"
+    },
+    {
+      "title": "Mobile Game Development"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "1",
+      "items": [
+        "English"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Toxic Heroes"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "James Bice",
+    "headline": "Learning Unity and Swift development",
+    "location": "Sandia Park, New Mexico",
+    "connections": "Contact info",
+    "summary": "Toxic Heroes is my Game Studio which is basically a one man army. I am hoping to expand it and make more games for the app store, though its hard when you are the one making the website, the graphics, the code, the logos, and the ads, it seems impossible. Its a long process for me, especially with school in the way. Because I'm only 10 years old, its also very hard but fun. I live in NM Sandia Park, with my mom, dad, and two sisters."
+  }
+}

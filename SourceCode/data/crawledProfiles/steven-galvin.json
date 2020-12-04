@@ -1,0 +1,175 @@
+{
+  "profileAlternative": {
+    "name": "Steven Galvin",
+    "headline": "Front-End Developer",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQHBjZrplYzQNA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=-VFbokWv9aRWUiDgTsYWdJrcssh9pqbjas4Fztp_wvY",
+    "location": "Portland, Oregon Area",
+    "connections": "385",
+    "summary": "I'm a Front-End Developer with a passion for learning and creating. After getting my feet wet with web development ages ago, I decided to dive in full force at the start of 2017. I signed up for Epicodus' 6 month-long immersive Ruby/JavaScript/Rails course. I fell in love with the excitement of learning something new every day and pushing my problem-solving skills to higher levels. Since then I have worked on a multitude of different projects, and I am excited to see where my new found passion of front-end development will take me."
+  },
+  "aboutAlternative": {
+    "text": "I'm a Front-End Developer with a passion for learning and creating. After getting my feet wet with web development ages ago, I decided to dive in full force at the start of 2017. I signed up for Epicodus' 6 month-long immersive Ruby/JavaScript/Rails course. I fell in love with the excitement of learning something new every day and pushing my problem-solving skills to higher levels. Since then I have worked on a multitude of different projects, and I am excited to see where my new found passion of front-end development will take me."
+  },
+  "positions": [
+    {
+      "title": "Front-End Developer",
+      "companyName": "Freelance",
+      "location": "Portland, Oregon Area",
+      "description": "My time as a freelance developer has led me to create many different kinds of projects, some of which include:\n\n– A PHP and MySQL powered blog\n– A web app used to randomly generate colors using JavaScript and create savable images using HTML Canvas\n– A Ruby on Rails powered blog using SCSS for styles\n– An inventory management PWA that scans QR codes and creates log entries. Ruby on Rails backend, React front-end\n– A playlist app powered with the JS Library, Amplitude\n– Many other projects utilizing libraries and frameworks like jQuery, React, and Angular4, as well as CSS preprocessors like LESS and SCSS.\n…\nsee more",
+      "date1": "Mar 2018 – Present",
+      "date2": "1 yr 9 mos"
+    },
+    {
+      "title": "Ruby on Rails and React Native Developer",
+      "companyName": "ByteShift Development",
+      "location": "Portland, Oregon",
+      "description": "My time at ByteShift had me create and manage Rails powered API's to store data for two local businesses. I created a front-end admin side for easy data entry and data modification, and later worked with the front-end team to build apps with React Native that called on the API's I created.",
+      "date1": "Aug 2017 – Mar 2018",
+      "date2": "8 mos"
+    },
+    {
+      "title": "Student",
+      "companyName": "Epicodus",
+      "location": "Portland, Oregon Area",
+      "description": "Pair programming was a big focus at Epicodus and I learned how to work with many different partners. Learning to overcome obstacles with a partner and effectively troubleshoot our problems was a key skill I walked out with.\n\nI also learned the ins and outs of development. While my focus was Ruby/Rails, JavaScript, HTML, and CSS, I also learned the fundamentals of development that gave me the ability to pick up new languages and frameworks with ease.\n\nMost importantly though I learned how to face challenges without fear. Countless times I ran into problems with my code that I couldn't figure out at first, but my time at Epicodus helped me learn how to work through any issue faced, with a team or independently, in a calm and collected manner.\n…\nsee more",
+      "date1": "Jan 2017 – Sep 2017",
+      "date2": "9 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Portland Community College",
+      "degree": "Associate of Applied Science – Web Development and Design",
+      "fieldofstudy": "Development and Design",
+      "date1": "2019",
+      "date2": "2021"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Web Development",
+      "count": "5"
+    },
+    {
+      "title": "Cascading Style Sheets (CSS)",
+      "count": "5"
+    },
+    {
+      "title": "JavaScript",
+      "count": "5"
+    },
+    {
+      "title": "TDD",
+      "count": "3"
+    },
+    {
+      "title": "Ruby on Rails",
+      "count": "4"
+    },
+    {
+      "title": "Git",
+      "count": "4"
+    },
+    {
+      "title": "Github",
+      "count": "4"
+    },
+    {
+      "title": "Firebase",
+      "count": "4"
+    },
+    {
+      "title": "HTML",
+      "count": "3"
+    },
+    {
+      "title": "AngularJS",
+      "count": "3"
+    },
+    {
+      "title": "SQL",
+      "count": "3"
+    },
+    {
+      "title": "Supervisory Skills",
+      "count": "1"
+    },
+    {
+      "title": "Customer Service",
+      "count": "1"
+    },
+    {
+      "title": "Pair Programming",
+      "count": "4"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "5",
+      "items": [
+        "Epiquiz Flashcard App",
+        "Epizon",
+        "Kalamity Records",
+        "Playtonic Fanpage",
+        "Zoo Tracker"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/elliot-burin/",
+      "text": "Front-end Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ivanbarylyak/",
+      "text": "Front-End Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mevolk/",
+      "text": "Software Engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sari-lott/",
+      "text": "Front End Web Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/timdurward/",
+      "text": "DevOps, Backend Engineer at Opal"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nathanhugon/",
+      "text": "Software Engineer at Zapproved"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jim-herring-8788204/",
+      "text": "Senior Ruby Developer at TKXS"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jen-agyemang/",
+      "text": "Software Engineer, Support"
+    },
+    {
+      "user": "https://www.linkedin.com/in/josh-logan/",
+      "text": "Project Manager at roboboogie"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ron-nichols-0367/",
+      "text": "Information Security Analyst II at AAA"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Steven Galvin",
+    "headline": "Front-End Developer",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQHBjZrplYzQNA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=-VFbokWv9aRWUiDgTsYWdJrcssh9pqbjas4Fztp_wvY",
+    "location": "Portland, Oregon Area",
+    "connections": "385",
+    "summary": "I'm a Front-End Developer with a passion for learning and creating. After getting my feet wet with web development ages ago, I decided to dive in full force at the start of 2017. I signed up for Epicodus' 6 month-long immersive Ruby/JavaScript/Rails course. I fell in love with the excitement of learning something new every day and pushing my problem-solving skills to higher levels. Since then I have worked on a multitude of different projects, and I am excited to see where my new found passion of front-end development will take me."
+  }
+}

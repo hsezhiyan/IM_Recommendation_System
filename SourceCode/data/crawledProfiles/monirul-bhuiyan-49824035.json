@@ -1,0 +1,116 @@
+{
+  "profileAlternative": {
+    "name": "Monirul Bhuiyan",
+    "headline": "SQL Server DBA at National Rifle Association, Fairfax VA",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQFe5GKABhGyzQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=7vz51LQxpXTMSbDcpuzrOL3pGYLk5a9eCNdkXgjVB5k",
+    "location": "Alexandria, Virginia",
+    "connections": "47",
+    "summary": "Over 6+ years of in-depth experience in database design, development, administration and maintenance of SQL Server 2014/2012/2008/2008R2/2005/2000 large scale databases. Strong experience in MS SQL Server with SQL Server Reporting Services (SSRS), SQL Server Integration Services (SSIS) and SQL Server Analysis Services (SSAS) and T-SQL. Migration SQL Server 2005 to 2008 R2 and 2008 R2 to SQL 2012 & SQL 2014. Experience in Microsoft SQL Server Database Administration including planning, backup, and recovery strategies. Extensively used tools like SQL Profiler, Index Tuning Wizard, and Database Engine tuning wizard, Windows Performance Monitor for monitoring and tuning MS SQL Server performance. Experience in configuration of report server and report manager scheduling, give permissions to different level of users in SQL Server Reporting Services (SSRS). Strong knowledge and experience in configuring and administering High Availability Database like Database Mirroring, Replication, Log shipping, Cluster Database. Working experience with SAN and RAID. Good customer support experience in providing end-user support on a day-to-day basis. Self-motivated team player with excellent verbal and writing communication skills."
+  },
+  "aboutAlternative": {
+    "text": "Over 6+ years of in-depth experience in database design, development, administration and maintenance of SQL Server 2014/2012/2008/2008R2/2005/2000 large scale databases. Strong experience in MS SQL Server with SQL Server Reporting Services (SSRS), SQL Server Integration Services (SSIS) and SQL Server Analysis Services (SSAS) and T-SQL. Migration SQL Server 2005 to 2008 R2 and 2008 R2 to SQL 2012 & SQL 2014. Experience in Microsoft SQL Server Database Administration including planning, backup, and recovery strategies. Extensively used tools like SQL Profiler, Index Tuning Wizard, and Database Engine tuning wizard, Windows Performance Monitor for monitoring and tuning MS SQL Server performance. Experience in configuration of report server and report manager scheduling, give permissions to different level of users in SQL Server Reporting Services (SSRS). Strong knowledge and experience in configuring and administering High Availability Database like Database Mirroring, Replication, Log shipping, Cluster Database. Working experience with SAN and RAID. Good customer support experience in providing end-user support on a day-to-day basis. Self-motivated team player with excellent verbal and writing communication skills."
+  },
+  "positions": [
+    {
+      "title": "SQL Server DBA",
+      "companyName": "National Rifle Association, Fairfax VA",
+      "description": "• Installed, Configured, and Administered SQL Server 2005, 2008, 2008 R2, 2012 in development, test, and production environment\n• Installed and Configured Operating System, Windows Server (2000, 2003 & 2008)\n• Database High Availability:\no Installed, Configured and Managed Database Mirroring, Replication and Log Shipping\no Installed, Configured and Maintained Fail-Over Cluster Servers in SQL Server 2005, 2008, 2008 R2 & 2012\n• SQL/T-SQL, Triggers, Stored Procedure:\no Wrote SQL, T-SQL, Stored-Procedures and triggers\no Assisted SQL developers to optimize SQL queries, Stored Procedures and Triggers\n• Monitoring and Performance Tuning:\no Performed database monitoring and Performance tuning, index and statistics management\no Monitor Servers activity, and worked with clients to solve different problems\no Managed SQL Server Error Logs, space usage, growth pattern\no Managed BLOCK and LOCK\n• Database Automation:\no Created Backup jobs for different types of backup like FULL, Differential and Transaction Log\no Created Jobs for database maintenance Index fragmentation, rebuild, database statistics\n• Data Modeling:\no Worked on different Data Modeling projects using Toad Data Modeler on designing Logical & Physical Database\no Used Backward & Forward Engineering to create Logical and Physical database\n• Index/Constraints, Triggers, Stored Procedure: Created and managed Index (Cluster/Non-Cluster), Constraints\n• Security Management: Created and Managed users, roles, security at object level, data encryption\n• Backup/Recovery:\no Work experience and strong knowledge in disaster recovery\no Rebuilt databases using backups\n• Reports:\no Installed, Configured, and administered SQL Server Reporting Services (SSRS)\no Developed Reports using SSRS\no Developed Ad-hoc Reports using Report Builder\no Deployed Reports and Managed security for reports\n• Monitor Server Activity, and solving problem as needed\n\n…\nsee more",
+      "date1": "Mar 2013 – Present",
+      "date2": "6 yrs 9 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Sufia Institute of Science & Technology",
+      "degree": "B.Sc in Science",
+      "fieldofstudy": "Computer Science",
+      "date1": "1986",
+      "date2": "1992"
+    }
+  ],
+  "skills": [
+    {
+      "title": "SQL",
+      "count": "1"
+    },
+    {
+      "title": "Microsoft Office",
+      "count": "1"
+    },
+    {
+      "title": "Microsoft SQL Server",
+      "count": "1"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "1",
+    "receivedCount": "0",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/ashrafur-rahman-iat-ii-comptia-security-plus-mcitp-mcts-08819219/",
+        "text": "Yes, an awesome man."
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "2",
+      "items": [
+        "Bangla",
+        "English"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/brian-kim-8b24a390/",
+      "text": "System Developer Senior Analyst at Accenture"
+    },
+    {
+      "user": "https://www.linkedin.com/in/a-a-34a070138/",
+      "text": "MS SQL Server Database Administrator (DBA)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/michelle-slaughter-b952a119/",
+      "text": "Senior SQL Server DBA at Objectstream, Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/tim-martin-22a9131/",
+      "text": "Senior SQL Server Database Administrator at Delmock Technologies Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/konjit-asresahagan-angdasaw-5b208218b/",
+      "text": "SQL Server Database Administrator at The Avant Network"
+    },
+    {
+      "user": "https://www.linkedin.com/in/varma-p-9273233/",
+      "text": "Sr. MS Sql Server Professional looking for Sql Server/ETL/SSIS/SSRS positions in Washington DC Metro Area"
+    },
+    {
+      "user": "https://www.linkedin.com/in/charles-titus-5b868149/",
+      "text": "MS SQL Server Administrator and Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/allyson-ugarte-a37a941/",
+      "text": "Database/Developer/Business Intelligence"
+    },
+    {
+      "user": "https://www.linkedin.com/in/frank-wang-5bb199127/",
+      "text": "Business Intelligence Developer at AbleVets LLC"
+    },
+    {
+      "user": "https://www.linkedin.com/in/praveen-y-7705bb127/",
+      "text": "Sr SQL BI Developer/SSIS/SSRS/SSAS at Evolent Healthcare"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Monirul Bhuiyan",
+    "headline": "SQL Server DBA at National Rifle Association, Fairfax VA",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQFe5GKABhGyzQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=7vz51LQxpXTMSbDcpuzrOL3pGYLk5a9eCNdkXgjVB5k",
+    "location": "Alexandria, Virginia",
+    "connections": "47",
+    "summary": "Over 6+ years of in-depth experience in database design, development, administration and maintenance of SQL Server 2014/2012/2008/2008R2/2005/2000 large scale databases. Strong experience in MS SQL Server with SQL Server Reporting Services (SSRS), SQL Server Integration Services (SSIS) and SQL Server Analysis Services (SSAS) and T-SQL. Migration SQL Server 2005 to 2008 R2 and 2008 R2 to SQL 2012 & SQL 2014. Experience in Microsoft SQL Server Database Administration including planning, backup, and recovery strategies. Extensively used tools like SQL Profiler, Index Tuning Wizard, and Database Engine tuning wizard, Windows Performance Monitor for monitoring and tuning MS SQL Server performance. Experience in configuration of report server and report manager scheduling, give permissions to different level of users in SQL Server Reporting Services (SSRS). Strong knowledge and experience in configuring and administering High Availability Database like Database Mirroring, Replication, Log shipping, Cluster Database. Working experience with SAN and RAID. Good customer support experience in providing end-user support on a day-to-day basis. Self-motivated team player with excellent verbal and writing communication skills."
+  }
+}

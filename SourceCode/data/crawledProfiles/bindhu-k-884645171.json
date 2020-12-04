@@ -1,0 +1,172 @@
+{
+  "profileAlternative": {
+    "name": "Bindhu K",
+    "headline": "Sr.Python Developer",
+    "location": "Edison, New Jersey",
+    "connections": "336",
+    "summary": "•8+ years of experience in developing web based applications, software development and design using Python, Django, XML, CSS, HTML, C++, DHTML, Java, JavaScript, jQuery and AngularJS.\n•Proficiency in Analysis, Design & Development Testing of Enterprise Applications and Database Development using, Python, Django, Flask and SQL projects.\n•Involved in complete Software Development Life Cycle, and major aspects of technological projects including Requirement Analysis, Design, Development, Database Design, Deployment, Testing, Debugging, and Application Maintenance.\n•Experience of dealing with various development methodologies like Waterfall, Scrum, and Agile.\n•Skilled with WAMP (Windows, Apache, MySQL, and Python/PHP) and LAMP (Linux, Apache, MySQL, and Python/PHP) Architecture.\n•Experience of using Python modules like NumPy, Matplotlib, Pickle, Pandas, SciPy, wxPython, PyTables, PyQt, etc., for generating complex graphical data, creation of histograms, etc.\n•Skilled in Object-Oriented Design and Programming using Python and C++.\n•Master of implementing Model View Control (MVC) architecture using server-side applications like Django and Flask for developing web applications.\n•Expertise in JSON based RESTful web services, and XML based SOAP web services.\n•Worked on various applications using python integrated IDEs like Eclipse, IntelliJ, Sublime Text and PyCharm.\n•Working experience with relational databases like Oracle, SQLite, PostgreSQL, MySQL, DB2 and non-relational databases like MongoDB and Cassandra.\n•Proficient in developing complex SQL Queries, Stored Procedures, Triggers, Cursors, Functions, and Packages along with performing DDL and DML operations on the database.\n•Written and developed scripts for automating tasks using Jenkins and UNIX shell scripting.\n•Good exposure in project deployment using Heroku, Jenkins and Amazon Web Services (AWS).\n•Used Python package called Beautiful Soup for Web Scraping."
+  },
+  "aboutAlternative": {
+    "text": "•8+ years of experience in developing web based applications, software development and design using Python, Django, XML, CSS, HTML, C++, DHTML, Java, JavaScript, jQuery and AngularJS.\n•Proficiency in Analysis, Design & Development Testing of Enterprise Applications and Database Development using, Python, Django, Flask and SQL projects.\n•Involved in complete Software Development Life Cycle, and major aspects of technological projects including Requirement Analysis, Design, Development, Database Design, Deployment, Testing, Debugging, and Application Maintenance.\n•Experience of dealing with various development methodologies like Waterfall, Scrum, and Agile.\n•Skilled with WAMP (Windows, Apache, MySQL, and Python/PHP) and LAMP (Linux, Apache, MySQL, and Python/PHP) Architecture.\n•Experience of using Python modules like NumPy, Matplotlib, Pickle, Pandas, SciPy, wxPython, PyTables, PyQt, etc., for generating complex graphical data, creation of histograms, etc.\n•Skilled in Object-Oriented Design and Programming using Python and C++.\n•Master of implementing Model View Control (MVC) architecture using server-side applications like Django and Flask for developing web applications.\n•Expertise in JSON based RESTful web services, and XML based SOAP web services.\n•Worked on various applications using python integrated IDEs like Eclipse, IntelliJ, Sublime Text and PyCharm.\n•Working experience with relational databases like Oracle, SQLite, PostgreSQL, MySQL, DB2 and non-relational databases like MongoDB and Cassandra.\n•Proficient in developing complex SQL Queries, Stored Procedures, Triggers, Cursors, Functions, and Packages along with performing DDL and DML operations on the database.\n•Written and developed scripts for automating tasks using Jenkins and UNIX shell scripting.\n•Good exposure in project deployment using Heroku, Jenkins and Amazon Web Services (AWS).\n•Used Python package called Beautiful Soup for Web Scraping."
+  },
+  "positions": [
+    {
+      "title": "Sr.Python Developer",
+      "companyName": "Satellite Television",
+      "location": "EL Segundo, CA",
+      "description": "•Designed front end and backend of the application utilizing Python on Django Web Framework.\n•For the development of the user interface of the website used HTML, CSS, and JavaScript.\n•Experience in developing views and templates with Python and Django's view controller and templating language to create a user-friendly website interface.\n•Expertise in developing consumer-based features and applications with Python, Django, HTML, Behavior Driven Development (BDD) and pair-based programming.\n•Modify the existing Python/Django modules to deliver certain format of data.\n•Have work knowledge on JIRA(Agile) fo the bug tracking of the project.\n•Worked on deployment on AWS EC2 instance with Postgres RDS and S3 file storage.\n•Involved in deploying the code into Amazon Web Server using BOTO API.\n•Developed Chef Cookbooks to install and configure Apache Tomcat, Jenkins and deployment automation.\n•Used Jenkins for continuous integration(CI) and continuous deployment(CD).\n•Used Django-celery with the help of RabbitMQ message broker for large processing.\n•Experience with Streaming platforms like Apache Kafka.\n•Involved in development of Web Services using SOAP for sending and getting data from the external interface in the XML format.\n•Developed full stack Python web framework with an emphasis on simplicity, flexibility, and\nextensibility.\n•Worked on AWS Cloud Platform and its features which includes EC2, S3, EBS\n\n\n…\nsee more",
+      "date1": "Nov 2016 – Present",
+      "date2": "3 yrs 1 mo"
+    },
+    {
+      "title": "Sr.Python Developer",
+      "companyName": "Retailing",
+      "location": "Blue ash,OH",
+      "description": "•Involved in analysis, specification, design, and implementation and testing phases of Software\nDevelopment Life Cycle (SDLC) and used agile methodology for developing application.\n•Working as an application developer experienced with controllers, views and models in Django\n•Used Salt Stack to configure and manage the infrastructure\n•Restful web services using Python REST API Framework.\n•Implemented the application using Python Spring IOC (Inversion of Control), Django Framework and handled the security using Python Spring Security.\n•Tested entire frontend and backend modules using Python on Django Web Framework\n•Responsible for handling the integration of database system.\n•Developed Server-side automation using Node JS scripting and connecting different types of SQL and NoSQL stores from Node JS.\n•Used object-relational mapping (ORM) solution, technique of mapping data representation from MVC model to Oracle Relational data model with an SQL-based scheme.\n•Implemented Performance tuning and improved the Performance of Stored Procedures and Queries.\n•Installed and configured py Builder for application builds and deploying it.\n•Used Selenium Library to write fully functioning test automation process that allowed the simulation of submitting different we request from multiple browser to web application.\n•Developed and Deployed SOAP based Web Services on Tomcat Server.\n•Used Jenkins for continuous integration for code quality inspection and worked on building local repository mirror and source code management using Git hub.\n•Used IDE tool to develop the application and JIRA for bug and issue tracking.\n•Wrote unit testing codes using unit test, resolving bugs and other defects using Firebug.\n•Used JIRA to assign, track, report and audit the issues.\n•Used GIT to coordinate team development.\n\n…\nsee more",
+      "date1": "Jun 2015 – Oct 2016",
+      "date2": "1 yr 5 mos"
+    },
+    {
+      "title": "Finance Company",
+      "location": "dallas,tx",
+      "description": "•Gathered and analyzed the requirements and converted them into User Requirement Specifications and Functional Requirement Specifications for the designers and developers to understand them as per their perspective.\n•Worked on object oriented programming (OOP) concepts using Python, Django and Linux.\n•Developed web-based applications using Python, Django, XML, CSS, HTML, JavaScript, Angular JS and JQuery.\n•Experience with JSON based REST Web services and Amazon Web Services (AWS).\n•Worked on Amazon services like Amazon Cloud EC2.\n•Added support for Amazon AWS and RDS to host static/media files and the database into Amazon Cloud.\n•Experience in writing Sub Queries, Stored Procedures, Triggers, Cursors, and Functions on MySQL and PostgreSQL database.\n•Worked in agile and waterfall methodologies with high quality deliverables delivered on-time.\n•Experience with continuous integration and automation using Jenkins.\n•Experience with Unit testing/ Test driven Development (TDD), Load Testing.\n•Developed the required XML Schema documents and implemented the framework for parsing XML documents.\n•Involved in Unit testing and Integration testing.\n•Worked on AJAX framework to transform Datasets and Data tables into HTTP-serializable JSON strings.\n•Designed Interface using Bootstrap framework.\n•Experience with working on multiple environments like development, testing, production. Excellent analytical and problem-solving skills and ability to work on own besides being valuable and contributing team player.\n\n…\nsee more",
+      "date1": "Sep 2013 – May 2015",
+      "date2": "1 yr 9 mos",
+      "roles": [
+        {
+          "title": "Python Developer",
+          "date1": "Sep 2013 – May 2015",
+          "date2": "1 yr 9 mos",
+          "location": "dallas,tx"
+        },
+        {
+          "title": "Python Developer",
+          "date1": "Dec 2011 – Aug 2013",
+          "date2": "1 yr 9 mos",
+          "location": "Columbus, Ohio Area"
+        }
+      ]
+    },
+    {
+      "title": "Title\nPython Developer",
+      "location": "dallas,tx",
+      "description": "•Gathered and analyzed the requirements and converted them into User Requirement Specifications and Functional Requirement Specifications for the designers and developers to understand them as per their perspective.\n•Worked on object oriented programming (OOP) concepts using Python, Django and Linux.\n•Developed web-based applications using Python, Django, XML, CSS, HTML, JavaScript, Angular JS and JQuery.\n•Experience with JSON based REST Web services and Amazon Web Services (AWS).\n•Worked on Amazon services like Amazon Cloud EC2.\n•Added support for Amazon AWS and RDS to host static/media files and the database into Amazon Cloud.\n•Experience in writing Sub Queries, Stored Procedures, Triggers, Cursors, and Functions on MySQL and PostgreSQL database.\n•Worked in agile and waterfall methodologies with high quality deliverables delivered on-time.\n•Experience with continuous integration and automation using Jenkins.\n•Experience with Unit testing/ Test driven Development (TDD), Load Testing.\n•Developed the required XML Schema documents and implemented the framework for parsing XML documents.\n•Involved in Unit testing and Integration testing.\n•Worked on AJAX framework to transform Datasets and Data tables into HTTP-serializable JSON strings.\n•Designed Interface using Bootstrap framework.\n•Experience with working on multiple environments like development, testing, production. Excellent analytical and problem-solving skills and ability to work on own besides being valuable and contributing team player.\n\n…\nsee more",
+      "date1": "Sep 2013 – May 2015",
+      "date2": "1 yr 9 mos",
+      "roles": [
+        {
+          "title": "Python Developer",
+          "date1": "Sep 2013 – May 2015",
+          "date2": "1 yr 9 mos",
+          "location": "dallas,tx"
+        }
+      ]
+    },
+    {
+      "title": "Title\nPython Developer",
+      "location": "Columbus, Ohio Area",
+      "description": "•Involved in Continuous Integration (CI) and Continuous Delivery (CD) process implementation using Jenkins along with Shell script.\n•Used GIT repository for software configuration management and version control.\n•Used JIRA for tracking and Updating Project issue.\n•Performed troubleshooting, fixed and deployed many Python bug fixes of the two main applications that were Maintained main source of data for both customers and internal customer service team.\n•Maintained technical documentation for resolved issues for future reference\n•Coded test programs and evaluated existing engineering process\n•Effectively communicated with the external vendors to resolve queries.\n•Worked on development of customer support and complains registration system. This is a Customer feedback and complains management system.\n•Design, develop, test, deploy and maintain the website.\n•Coding and execution of scripts in Python/Unix/VB.\n•Development of Application using Java and Python.\n•Recording of Scripts (Web, Web Services HTML) using Vugen and SoapUI and script validation through co correlations, parameterizations and other methods. Scripting - web and web services.\n•Resolving Complexity in the scripts of the website due to the complex logic and correlations.\n•Script validation sometimes becomes challenging as it demanded many web based logic rather than correlation and parameterization.\n•Running load/endurance tests using Vugen, ALM and controller, server monitoring, analysis using Dynatrace, UNIX putty, SQL logs and other tools and reporting the performance. Analyzing errors and exceptions using putty logs (UNIX), etc.\n•Testing in citrix protocol with scripts and scenario.\n\n…\nsee more",
+      "date1": "Dec 2011 – Aug 2013",
+      "date2": "1 yr 9 mos",
+      "roles": [
+        {
+          "title": "Python Developer",
+          "date1": "Dec 2011 – Aug 2013",
+          "date2": "1 yr 9 mos",
+          "location": "Columbus, Ohio Area"
+        }
+      ]
+    },
+    {
+      "title": "Python Developer",
+      "companyName": "Navayuga Infotech",
+      "location": "HYD, IND",
+      "description": "•Implemented business logic of the application utilizing Python on Django Framework\n•Worked on object-oriented programming (OOP) concepts using Python, Django and Linux.\n•Developed Views and Templates with Django view controller and template language to create a user- friendly website interface\n•Developed rich user interface guidelines and standards throughout the development and maintenance of the website using CSS, HTML and JavaScript\n•Designed and developed data management system using MySQL\n•Wrote python modules to extract/load asset data from the MySQL source database.\n•Dashboard features were developed and tested using Django, Java Script and CSS\n•Used PyUnit, a python unit test framework for all Python applications.\n•Used Bit bucket to do basic Git operations and controlling read and write access to the code\n•Responsible for debugging and troubleshooting the web application\n•Ability to successfully implement the application in LINUX environment\n\n…\nsee more",
+      "date1": "Jan 2010 – Nov 2011",
+      "date2": "1 yr 11 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Jawaharlal Nehru Technological University",
+      "degree": "Bachelor's degree",
+      "fieldofstudy": "Electronics and communication",
+      "date1": "2005",
+      "date2": "2009"
+    }
+  ],
+  "skills": [
+    {
+      "title": "GitHub"
+    },
+    {
+      "title": "Python, PL/SQL, AngularJS"
+    },
+    {
+      "title": "Oracle 10/11g, MySQL, SQL Server"
+    },
+    {
+      "title": "Intellij, PyCharm, FileZilla, PL/SQL Developer"
+    },
+    {
+      "title": "Jenkins and Web Builder"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/shekharanjireddy/",
+      "text": "Python Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/chandhu-kumar-1b471411b/",
+      "text": "Python Developer at siemens"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ekta-chauhan-42a351160/",
+      "text": "Python , Angular and AWS Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/vladimirgosha/",
+      "text": "Full-stack Python developer. Looking for opportunities."
+    },
+    {
+      "user": "https://www.linkedin.com/in/alekya-m-528b5a159/",
+      "text": "Python Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sandeep-t-64174a142/",
+      "text": "Sr. Python Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/writepython/",
+      "text": "Python Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/gopal-t-b86767169/",
+      "text": "Sr.Python Developer at Cox Automotive Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/sai-j-342670168/",
+      "text": "Sr Python Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/vija-y/",
+      "text": "Python Developer"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Bindhu K",
+    "headline": "Sr.Python Developer",
+    "location": "Edison, New Jersey",
+    "connections": "336",
+    "summary": "•8+ years of experience in developing web based applications, software development and design using Python, Django, XML, CSS, HTML, C++, DHTML, Java, JavaScript, jQuery and AngularJS.\n•Proficiency in Analysis, Design & Development Testing of Enterprise Applications and Database Development using, Python, Django, Flask and SQL projects.\n•Involved in complete Software Development Life Cycle, and major aspects of technological projects including Requirement Analysis, Design, Development, Database Design, Deployment, Testing, Debugging, and Application Maintenance.\n•Experience of dealing with various development methodologies like Waterfall, Scrum, and Agile.\n•Skilled with WAMP (Windows, Apache, MySQL, and Python/PHP) and LAMP (Linux, Apache, MySQL, and Python/PHP) Architecture.\n•Experience of using Python modules like NumPy, Matplotlib, Pickle, Pandas, SciPy, wxPython, PyTables, PyQt, etc., for generating complex graphical data, creation of histograms, etc.\n•Skilled in Object-Oriented Design and Programming using Python and C++.\n•Master of implementing Model View Control (MVC) architecture using server-side applications like Django and Flask for developing web applications.\n•Expertise in JSON based RESTful web services, and XML based SOAP web services.\n•Worked on various applications using python integrated IDEs like Eclipse, IntelliJ, Sublime Text and PyCharm.\n•Working experience with relational databases like Oracle, SQLite, PostgreSQL, MySQL, DB2 and non-relational databases like MongoDB and Cassandra.\n•Proficient in developing complex SQL Queries, Stored Procedures, Triggers, Cursors, Functions, and Packages along with performing DDL and DML operations on the database.\n•Written and developed scripts for automating tasks using Jenkins and UNIX shell scripting.\n•Good exposure in project deployment using Heroku, Jenkins and Amazon Web Services (AWS).\n•Used Python package called Beautiful Soup for Web Scraping."
+  }
+}

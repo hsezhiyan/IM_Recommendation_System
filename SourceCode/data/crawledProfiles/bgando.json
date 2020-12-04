@@ -1,0 +1,327 @@
+{
+  "profileAlternative": {
+    "name": "Bianca Gandolfo",
+    "headline": "Software Engineer | JavaScript Evangelist & Consultant | andcoffee.io",
+    "imageurl": "https://media.licdn.com/dms/image/C5103AQGu7qCidjQjrQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=imNbOglxUrV-YVXG_OMfaumvokyFRAK5U0ZhNL_CjdM",
+    "location": "Alamo, California",
+    "connections": "500+",
+    "summary": "Join me on Code and Coffee: https://andcoffee.io (coming soon)\n\nI’m a JavaScript advocate and consultant with 5+ years of experience and a heart for developer experience and education. I build developer tools, open source software, technical content, and curriculum because I believe learning something or trying a new product should be approachable and and enjoyable - not full of mathematical proofs, white papers, and cryptic acronyms. I enjoy taking complex ideas or technical systems and distilling them into digestible interfaces for others whether it is programming, teaching, mentoring new developers, or even communicating effectively.\n\nI have experience:\n… building JavaScript / React / Node apps for developers, non-developers, and Fortune 500 companies\n… working on open source (https://www.npmjs.com/~bgando)\n… teaching JavaScript, in particular I like teaching: JS Fundamentals, Data Structures & Algorithms on the Frontend, and Functional Programming (https://frontendmasters.com/teachers/bianca-gandolfo/)\n... writing curriculum and teaching for coding bootcamps around the world\n... and more!\n\nPeople and community matter to me. Please drop me a note before adding me on LinkedIn :)"
+  },
+  "aboutAlternative": {
+    "text": "Join me on Code and Coffee: https://andcoffee.io (coming soon)\n\nI’m a JavaScript advocate and consultant with 5+ years of experience and a heart for developer experience and education. I build developer tools, open source software, technical content, and curriculum because I believe learning something or trying a new product should be approachable and and enjoyable - not full of mathematical proofs, white papers, and cryptic acronyms. I enjoy taking complex ideas or technical systems and distilling them into digestible interfaces for others whether it is programming, teaching, mentoring new developers, or even communicating effectively.\n\nI have experience:\n… building JavaScript / React / Node apps for developers, non-developers, and Fortune 500 companies\n… working on open source (https://www.npmjs.com/~bgando)\n… teaching JavaScript, in particular I like teaching: JS Fundamentals, Data Structures & Algorithms on the Frontend, and Functional Programming (https://frontendmasters.com/teachers/bianca-gandolfo/)\n... writing curriculum and teaching for coding bootcamps around the world\n... and more!\n\nPeople and community matter to me. Please drop me a note before adding me on LinkedIn :)"
+  },
+  "positions": [
+    {
+      "title": "Software Engineer",
+      "companyName": "Thumbtack",
+      "date1": "Sep 2018 – Present",
+      "date2": "1 yr 3 mos"
+    },
+    {
+      "title": "Javascript Developer",
+      "companyName": "Bitovi",
+      "description": "- Contributed to open source framework and tooling for CanJS, NDJSON streaming, React View Model, and jscodeshift.\n- Worked with site reliability team of Fortune 10 using React and Node.\n- Worked with production software used by millions of people for a Fortune 10 company.\n- Built a mindfulness meditation app using Cordova and PhoneGap.\n- Led both internal and external trainings, screencasts and wrote technical blogs.\n…\nsee more",
+      "date1": "2017 – Present",
+      "date2": "2 yrs"
+    },
+    {
+      "title": "Curriculum Developer and JavaScript Consultant",
+      "companyName": "Be Tech, LLC",
+      "description": "Wrote curriculum and/or taught at the following:\nLaboratoria (various locations, Latin America)\nCodeWorks (Barcelona, Spain)\nCodeChrysalis (Tokyo, Japan)\nGirl Develop It (San Francisco, Ca)\nHack Reactor (San Francisco, Ca)\nSan Francisco Unified School District\n\nPast Conference Workshops:\nKnowJS\nForwardJS\nHTML5DevConf\n\nOnline workshops:\nFrontend Masters\nPluralsight\n\n\n\n…\nsee more",
+      "date1": "Jun 2015 – Apr 2018",
+      "date2": "2 yrs 11 mos"
+    },
+    {
+      "title": "Various",
+      "companyName": "Hack Reactor",
+      "location": "San Francisco Bay Area",
+      "description": "Held multiple positions during my time at Hack Reactor. Primarily focused on student success, student experience and managing internal tools like our learning management system (written in Angular).\n\n--- Interim Managing Director, Hack Reactor Remote ---\n- Led the team through a time of organizational change.\n\n--- Cofounder, Telegraph Academy ---\n- Wore many hats, focused on the technical and experiential success of students.\n\n--- Technical Mentor, Hack Reactor ---\n- Ensured each cohort's technical success through lecturing, mentoring, and code reviews.\n\n--- JavaScript Evangelist, Hack Reactor ---\n- Designed curriculum for workshop series and taught intensive JS courses for the community.\n- Represented Hack Reactor at community events, encouraged and helped students/alumni get involved in the tech community.\n\n--- Hacker in Residence, Hack Reactor ---\n- Taught OOJS patterns, recursion, functional programming techniques, closures and context binding, algorithmic analysis, Backbone, Node/Express, Grunt, Bower.\n…\nsee more",
+      "date1": "Jul 2013 – Sep 2016",
+      "date2": "3 yrs 3 mos"
+    },
+    {
+      "title": "UI Engineer",
+      "companyName": "Edmodo",
+      "location": "San Mateo, Ca",
+      "description": "Converted slow Django application to a lightning fast one-page application with rich client-side architecture using Backbone.js, Handlebars, CSS, jQuery and Bootstrap.\n\nLead design decisions that brightened up the UI/UX into clean but colorful application that was consistent with Edmodo's overall design sense.\n\nOvercame challenge of interacting with a non-RESTful API with Backbone.js and learned a lot about Python/Django through the process.\n…\nsee more",
+      "date1": "Jan 2014 – Apr 2014",
+      "date2": "4 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "UC Berkeley",
+      "degree": "Political Economy",
+      "fieldofstudy": "Political Economy",
+      "date1": "2007",
+      "date2": "2012"
+    }
+  ],
+  "skills": [
+    {
+      "title": "JavaScript",
+      "count": "99+"
+    },
+    {
+      "title": "Git",
+      "count": "93"
+    },
+    {
+      "title": "Node.js",
+      "count": "70"
+    },
+    {
+      "title": "Web Development",
+      "count": "60"
+    },
+    {
+      "title": "Test Driven Development",
+      "count": "18"
+    },
+    {
+      "title": "Recruiting",
+      "count": "14"
+    },
+    {
+      "title": "Object Oriented Design",
+      "count": "14"
+    },
+    {
+      "title": "Algorithms",
+      "count": "13"
+    },
+    {
+      "title": "Android Development",
+      "count": "9"
+    },
+    {
+      "title": "Data Analysis",
+      "count": "5"
+    },
+    {
+      "title": "jQuery",
+      "count": "65"
+    },
+    {
+      "title": "CSS",
+      "count": "59"
+    },
+    {
+      "title": "Backbone.js",
+      "count": "51"
+    },
+    {
+      "title": "HTML 5",
+      "count": "49"
+    },
+    {
+      "title": "SQL",
+      "count": "31"
+    },
+    {
+      "title": "Java",
+      "count": "25"
+    },
+    {
+      "title": "Python",
+      "count": "11"
+    },
+    {
+      "title": "Android",
+      "count": "9"
+    },
+    {
+      "title": "Ruby",
+      "count": "7"
+    },
+    {
+      "title": "NoSQL",
+      "count": "5"
+    },
+    {
+      "title": "Stata",
+      "count": "3"
+    },
+    {
+      "title": "OS X",
+      "count": "2"
+    },
+    {
+      "title": "Leadership",
+      "count": "15"
+    },
+    {
+      "title": "Teaching",
+      "count": "14"
+    },
+    {
+      "title": "Public Speaking",
+      "count": "9"
+    },
+    {
+      "title": "Community Engagement",
+      "count": "4"
+    },
+    {
+      "title": "Bilingual Spanish",
+      "count": "5"
+    },
+    {
+      "title": "Functional Programming",
+      "count": "11"
+    },
+    {
+      "title": "Econometric Modeling",
+      "count": "1"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "5",
+    "receivedCount": "18",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/katrinauychaco/",
+        "text": "Bianca is a wonderfully congenial person, as well as a skilled and effective teacher, brimming with contagious enthusiasm and positive energy. I am touched and inspired by her clear passion to teach and empower people - she generously offers support and encouragement to those around her. I very much look forward to connecting with her more in the future, and continuing to learn and grow through my interactions with her.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/julianpormentilla/",
+        "text": "Bianca simply gets things done. Her warm personality and eagerness to learn make her a tremendous asset to any team. Smart, articulate, and motivated - I'm always excited to see what she does next."
+      },
+      {
+        "user": "https://www.linkedin.com/in/spencer48/",
+        "text": "Bianca is an incredible teacher and friend. She creates an awesome environment for her students to learn javascript, is deeply knowledgable up and down the javascript stack and communicates her understanding with complete clarity... not to mention, I hear she climbs a mean route in the climbing gym. Bianca is the best!"
+      },
+      {
+        "user": "https://www.linkedin.com/in/wcj11/",
+        "text": "Bianca is an engaged and passionate educator with a deep knowledge of Javascript. In addition to helping the students achieve a greater mastery of Javascript and web fundamentals, she helped TA's develop the skills necessary to contribute in a meaningful way to the students learning process. I look forward to working with her again soon.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/alexhawkinsme/",
+        "text": "I had the pleasure of taking one of Bianca's JavaScript workshops at the Hack Reactor school in San Francisco. Not only does Bianca know her JavaScript extremely well but she is also a great public speaker. It's definitely not easy standing in front of a bunch of smart people from diverse backgrounds that you've never met before, all while attempting to teach them about complex subject matters such as Closure and Recursion. Bianca explained things in a clear and concise manner and made herself more than available for help during and after class. Her initial explanations were so good, in fact, that I actually didn't end up having too many questions. This says a lot considering that I was exhausted from a full day of work and commuting to the city from Los Gatos for her workshop. Bianca was asked a few questions by students that were pretty conceptual in nature; I thought for sure she would be stumped. Nope. She handled the questions with ease. You would only be able to answer challenging questions like this on the fly if you truly understood the nuts and bolts of the topic you were teaching. Bianca knows her JavaScript! I struggled with a few of the coding exercises she provided(these were great by the way) and she was more than happy to guide me down the proper path. If Bianca is representative of all the instructors at Hack Reactor than it is readily apparent why everyone wants to attend this school. This is my first experience with Bianca and Hack Reactor. Very impressed.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/ilonabudapesti/",
+        "text": "Bianca is a highly technical JavaScript instructor. I assist and co-teach with Bianca at the Hack Reactor JavaScript Algorithms meetup and the Hack Reactor Junior classes, specifically JavaScript Fundamentals 2. She has broad and deep knowledge of object oriented JavaScript, Functional JavaScript and algorithms implemented in JavaScript. Being educated at Harvard and Stanford and having worked in education I have a wide basis of comparison for 'instructor quality' and I can say with a clear conscience that Bianca ranks in the top 5% of all instructors I have encountered. Among other great qualities she is a great trouble shooter: it takes both deep technical understanding, technical experience as well as empathetic skills to drill down and find each participant's point of confusion and clarify it, and Bianca excels at this. As a lecturer and instructor, Bianca is very well prepared, professional in her presentations, Q&A and code reviews. She manages the classroom with ease, giving attention to each participant. I particularly enjoyed her explanation of closures and object instantiation patterns as well as the expertise with which she can break down complex topics and present them simply. Finally, I must admit that it was the positive atmosphere that she creates in each and every event which has made me apply to Hack Reactor. She is a true asset to any technical organization, and we can all learn a great deal from Bianca.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/jakeseip/",
+        "text": "Bianca is a dedicated and tenacious community builder with a knack for rallying software engineers around new tech. At Hack Reactor, Bianca set up, hosted, and led events ranging from the San Francisco Algorithms Meetup to a Leap Motion user group. If I were looking for someone to represent my company and its product to the developer community, Bianca would be my top choice. Not only does she have the technical chops to be credible, she has the interpersonal and organizational skills essential to cultivating vibrant, engaged, communities.\n…\nSee more"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/wcj11/",
+        "text": "Will started as a TA for my JS Fundamentals class at Hack Reactor and quickly graduated to co-teacher for CSS, HTML and JavaScript. He is very comfortable explaining complex ideas in ways that are beginner friendly and his demeanor is welcoming and patient. He is able to foresee potential confusion which was invaluable when creating programming challenges for the class to address different angles of a concept. \r\n\r\nAdditionally, he is always looking out to add value and help others by sending follow-up resources. His positivity and enthusiasm for coding is contagious. I have learned a lot from him and am looking forward to our continued collaboration in future JS Fundamentals classes."
+      },
+      {
+        "user": "https://www.linkedin.com/in/albreybrown/",
+        "text": "I want to highlight two aspects of Albrey that make him an invaluable engineer and friend. Firstly, he absorbs information at an incredible pace. I have taught at least 100 people JavaScript in the past year and he learned twice as fast as anyone I have ever taught before. Because of this, I asked him to TA some of the classes I teach and within a short time, he was co-teaching alongside me. \r\n\r\nSecondly, I want to highlight his people skills. Albrey immediately connects with people whether it is a server at a restaurant, a teenager from a YMCA program or the students in my JavaScript Fundamentals class. He is engaging in front of a crowd and is a clear communicator for complex concepts. He is an incredible asset to our community and classroom."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "4",
+      "items": [
+        "Snail of Approval App",
+        "VisualStager",
+        "MPWR - More People Web Ready",
+        "Consumer Karma"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "Development Economics",
+        "Econometrics"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "English",
+        "Spanish"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "Girl Develop It SF",
+        "Women Who Code SF"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/jen4web/",
+      "text": "Lecturer at Harvard University Extension School, Freelance web design"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jonkuperman/",
+      "text": "Senior Software Engineer at Adobe"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kentcdodds/",
+      "text": "Software Engineer Educator at Kent C. Dodds Tech"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sarahdrasner/",
+      "text": "Head of Developer Experience at Netlify"
+    },
+    {
+      "user": "https://www.linkedin.com/in/arkadyp/",
+      "text": "Software Engineer at Uber"
+    },
+    {
+      "user": "https://www.linkedin.com/in/madeline-mirzoeff-1b1bb741/",
+      "text": "Software Engineer at Thumbtack (We're Hiring!)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/marcusphillips/",
+      "text": "Co-founder of Hack Reactor"
+    },
+    {
+      "user": "https://www.linkedin.com/in/harpreet-kakkar-63a18a152/",
+      "text": "UI Developer at One America. Actively looking for New Opportunities / Open to Relocate."
+    },
+    {
+      "user": "https://www.linkedin.com/in/mallika-potter-2b07a79a/",
+      "text": "Software Engineer at Thumbtack"
+    },
+    {
+      "user": "https://www.linkedin.com/in/traviswerbelow/",
+      "text": "Remote Javascript Developer"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Organizer",
+      "experience": "Javascript Study Group: Algorithms",
+      "description": "Science and Technology",
+      "date1": "Apr 2013 – Present",
+      "date2": "6 yrs 8 mos"
+    },
+    {
+      "title": "Lead Advisor",
+      "experience": "California YMCA Youth & Government",
+      "description": "Civil Rights and Social Action",
+      "date1": "Jul 2012 – Present",
+      "date2": "7 yrs 5 mos"
+    },
+    {
+      "title": "GED instructor",
+      "experience": "San Quentin State Prison",
+      "description": "Education",
+      "date1": "Aug 2010 – Jun 2011",
+      "date2": "11 mos"
+    }
+  ],
+  "profile": {
+    "name": "Bianca Gandolfo",
+    "headline": "Software Engineer | JavaScript Evangelist & Consultant | andcoffee.io",
+    "imageurl": "https://media.licdn.com/dms/image/C5103AQGu7qCidjQjrQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=imNbOglxUrV-YVXG_OMfaumvokyFRAK5U0ZhNL_CjdM",
+    "location": "Alamo, California",
+    "connections": "500+",
+    "summary": "Join me on Code and Coffee: https://andcoffee.io (coming soon)\n\nI’m a JavaScript advocate and consultant with 5+ years of experience and a heart for developer experience and education. I build developer tools, open source software, technical content, and curriculum because I believe learning something or trying a new product should be approachable and and enjoyable - not full of mathematical proofs, white papers, and cryptic acronyms. I enjoy taking complex ideas or technical systems and distilling them into digestible interfaces for others whether it is programming, teaching, mentoring new developers, or even communicating effectively.\n\nI have experience:\n… building JavaScript / React / Node apps for developers, non-developers, and Fortune 500 companies\n… working on open source (https://www.npmjs.com/~bgando)\n… teaching JavaScript, in particular I like teaching: JS Fundamentals, Data Structures & Algorithms on the Frontend, and Functional Programming (https://frontendmasters.com/teachers/bianca-gandolfo/)\n... writing curriculum and teaching for coding bootcamps around the world\n... and more!\n\nPeople and community matter to me. Please drop me a note before adding me on LinkedIn :)"
+  }
+}

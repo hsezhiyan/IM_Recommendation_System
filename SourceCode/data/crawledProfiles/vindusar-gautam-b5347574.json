@@ -1,0 +1,136 @@
+{
+  "profileAlternative": {
+    "name": "vindusar gautam",
+    "headline": "Web Designer",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQGzDgRRg-HxlA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=AYP_iAaPMD1qXzzxmVejT84MNZJU75II-OJEg3FwLXU",
+    "location": "Mumbai, Maharashtra, India",
+    "connections": "500+",
+    "summary": "I am a web designer"
+  },
+  "aboutAlternative": {
+    "text": "I am a web designer"
+  },
+  "positions": [
+    {
+      "title": "Html5 Developer",
+      "companyName": "html developers",
+      "location": "Mumbai Area, India",
+      "date1": "May 2017 – Present",
+      "date2": "2 yrs 7 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "deploma",
+      "degree": "Bachelor's Degree",
+      "fieldofstudy": "Web design",
+      "date1": "2016",
+      "date2": "2017"
+    }
+  ],
+  "skills": [
+    {
+      "title": "HTML5",
+      "count": "6"
+    },
+    {
+      "title": "Dreamweaver",
+      "count": "7"
+    },
+    {
+      "title": "CSS",
+      "count": "11"
+    },
+    {
+      "title": "Web Development",
+      "count": "4"
+    },
+    {
+      "title": "Photoshop",
+      "count": "3"
+    },
+    {
+      "title": "bootstrap"
+    },
+    {
+      "title": "jQuery",
+      "count": "6"
+    },
+    {
+      "title": "JavaScript",
+      "count": "9"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "2",
+      "items": [
+        "English",
+        "Hindi"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "web designer"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/rahul-business-manager/",
+      "text": "Business Development Manager at ControlF5"
+    },
+    {
+      "user": "https://www.linkedin.com/in/rahul-patel-bba192132/",
+      "text": "Currently Looking For a Job In Web Designing ( Ux Design )"
+    },
+    {
+      "user": "https://www.linkedin.com/in/muhammad-danish-khan-00a37567/",
+      "text": "Web UI / UX Designer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sagar-panchal-01b85150/",
+      "text": "UI/UX Designer at Codiant - A YASH Technologies Company"
+    },
+    {
+      "user": "https://www.linkedin.com/in/virendra-pawar-4045a0104/",
+      "text": "Sr. Graphic Designer at Shri Sai Events And Promotions Pvt Ltd"
+    },
+    {
+      "user": "https://www.linkedin.com/in/priyanka-vaishnav-573503115/",
+      "text": "PHP Developer at \"F5 Buddy\" Web Design and Development Company"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yogesh-verma-84a91758/",
+      "text": "UI/UX Designer at MobiWeb Technologies"
+    },
+    {
+      "user": "https://www.linkedin.com/in/foduu-com-7a20105a/",
+      "text": "Executive Managing Director at FODUU"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nitish-agrawal-459b73118/",
+      "text": "Android and React-Native Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/manoj-patidar-277872a4/",
+      "text": "Senior Web Developer | Project Lead | Angularjs | Angular | ionic | Laravel | Nodejs"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "vindusar gautam",
+    "headline": "Web Designer",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQGzDgRRg-HxlA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=AYP_iAaPMD1qXzzxmVejT84MNZJU75II-OJEg3FwLXU",
+    "location": "Mumbai, Maharashtra, India",
+    "connections": "500+",
+    "summary": "I am a web designer"
+  }
+}

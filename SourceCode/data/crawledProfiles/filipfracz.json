@@ -1,0 +1,167 @@
+{
+  "profileAlternative": {
+    "name": "Filip Frącz",
+    "headline": "Lead Software Engineer at Seed CX",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQGyXEkEej6yQg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=A5aSgLbSlcQIiSetr22k_pLOKKsyZG-McBnKsF9uM4Y",
+    "location": "Naperville, Illinois",
+    "connections": "500+",
+    "summary": "Creative software professional with over 13 years of financial industry experience.\nSpecializing in low-latency, high-performance computing. Modern C++, Java, Python and .NET technologies.\n\n\nKeyword galore:\nModern C++17, C++14, C++/CLI, Java, C# 8.0, Python, STL, Boost, Linux, Win32, DotNet Core, WPF, Android, SQL, XML, XSLT, TDD, iOS, Objective-C, Protocol Buffers, FlatBuffers, TCP/IP, Xamarin, FIX protocol, Open Onload, XCAPI API, NSMDA API, Vela API, template metaprogramming, 29west LBM, Wireshark, docker, microservices, Redis"
+  },
+  "aboutAlternative": {
+    "text": "Creative software professional with over 13 years of financial industry experience.\nSpecializing in low-latency, high-performance computing. Modern C++, Java, Python and .NET technologies.\n\n\nKeyword galore:\nModern C++17, C++14, C++/CLI, Java, C# 8.0, Python, STL, Boost, Linux, Win32, DotNet Core, WPF, Android, SQL, XML, XSLT, TDD, iOS, Objective-C, Protocol Buffers, FlatBuffers, TCP/IP, Xamarin, FIX protocol, Open Onload, XCAPI API, NSMDA API, Vela API, template metaprogramming, 29west LBM, Wireshark, docker, microservices, Redis"
+  },
+  "positions": [
+    {
+      "title": "Lead Software Engineer",
+      "companyName": "Seed CX",
+      "location": "Greater Chicago Area",
+      "description": "• Designed and implemented a high-efficiency PitchFork binary protocol for streaming Level 3 (market-by-order) full-depth market data. It was loosely based on industry-standard Pitch protocol but adjusted to better serve cryptocurrencies. It supported both multicast and stream-oriented transports.\n• Designed and developed a high-performance market data distribution system. C++17 Ticker plant. High-availability edge distribution gateways written in C++17 – FIX 4.4 and PitchFork binary multicast; JSON for websocket customers.\n• Interfaced with exchange customers and ISVs. Assisted with PitchFork adoption; open sourced decoders in several programming languages. Provided support for connectivity and certification to Seed’s FIX protocols. Authored Wireshark dissectors.\n• Drove requirements for Seed’s two matching engines – for Swap Execution Facility and Spot Market. Integrated gateways with the matching engines and created various management utility scripts.\n• Developed and maintained high-performance Order Entry gateways which served all Seed’s trading paths. Proprietary low-latency FIX engine, C++17, template metaprogramming, Ubuntu Linux, Redis.\n• Established an end-to-end Python 3 suite for comprehensive order entry and market data testing.\n• Authored Seed’s API documentation for Binary Market Data and FIX Market Data. Assisted with FIX Order Entry and FIX Straight Through Processing API specification and design.\n• Completed a management training course. Mentored and coached junior developers. Empowered team members to best utilize their strengths and talents on various projects. Reviewed code and design documents; encouraged use of unit testing tools.\n• Recruiting, talent acquisition and nurturing. Revamped company’s programming assessment. Managed team meetings, stand-ups & on-call schedules.\n…\nsee more",
+      "date1": "2018 – Present",
+      "date2": "1 yr"
+    },
+    {
+      "title": "Senior Software Engineer",
+      "companyName": "Chicago Trading Company",
+      "location": "Greater Chicago Area",
+      "description": "• Senior Software Engineer on the Exchange Trading Services team.\n• Responsible for dissemination of live market data to all trading desks, as well as delayed and historical market data to quants and researchers. Consuming applications were written in C++14, Java 8 and Python 2.7.\n• Created a low-latency abstraction layer for normalization of market data from different exchange venues. C++14 plus a thin Java 8 wrapper using code generation and JNI.\n• Integrated third-party FPGA Ticker Plants and cache offerings into CTC’s systems. XCAPI and C++14. Mixed FPGA and software solution.\n• Designed and implemented a consumer for FPGA sub-microsecond CME MDP 3.0 market data feed. FPGA, binary multicast, C++14, SolarFlare OpenOnload, microservices.\n• Maintained and enhanced reference data server which supplied instrument definitions to all trading and valuation systems. Google Protocol Buffers, C++14, Java 8.\n• Recruiting and talent nurturing. Performed code reviews and coached junior engineers. Represented CTC at professional C++ conferences.\n\n…\nsee more",
+      "date1": "2016 – 2018",
+      "date2": "2 yrs"
+    },
+    {
+      "title": "Lead Software Engineer",
+      "companyName": "Thomson Reuters",
+      "description": "I'm a Lead Software Engineer of a global team with members in the United States, Beijing and Hong Kong. I'm working on revitalization of the many data feeds that Thomson Reuters currently supports. I designed and implemented a Domain-Specific Language for transforming market data from various exchanges into a normalized form. This greatly simplifies on-boarding of new gateways. I implemented a configuration-driven, high performance run-time environment for executing transformations.\nTechnologies used: C++14, Boost, STL, TDD, Centos 6 Linux, Python, Bison, Flex, Git, Subversion.\n…\nsee more",
+      "date1": "2015 – 2016",
+      "date2": "1 yr"
+    },
+    {
+      "title": "Principal Software Engineer",
+      "companyName": "Trading Technologies International, Inc.",
+      "description": "Developed high performance, low latency Algorithmic Trading Server securely hosting customer-written trading strategies. Optimized for dedicated- and shared-hosting in data centers co-located with exchanges. CentOS Linux, Docker/Rocket, raw C, C++14, gcc, clang, git, sockets, LBM, FUSE\n\nArchitected and implemented next-generation Trading API known as TT SDK used with Algorithmic Cloud-Trading. Interfaces exposed as raw C, implementation in C++14 and C. CentOS Linux, gcc, git.\n\nArchitected the foundation for TT's mobile trading app targeting iPhones and iPads. Objective-C, OS X\n\nCreated a fresh, modern, mobile Android trading app which connects to TT's cloud platform. The app covered all main features found on desktop equivalents. Android, Java, JSON, C# 5.0, Xamarin tools, git\n\nTeam-lead of EdgeServer and developer of TT's newest cloud-based trading platform. Designed client-facing communication protocols (inspired by FIX). C++11, STL, gcc, clang, Linux, Protocol Buffers, LBM, Python, Java, Scala, Amazon Web Services (AWS).\n\nArchitect of TT API, TT's managed trading library for Automated Trading Servers. C++, C++/CLI, C#\n\nInvolved in design and implementation of AlgoSE algorithmic trading server and Algo Design Lab client application. C#, C++/CLI, Windows Forms, WPF.\n\nWorked on a high performance X_TRADER trading application. C++, STL, Win32, MFC, C++/CLI, C#.\n\nImplemented numerous usability improvements to the GUI, making the application faster, easier and more pleasant to use. Technologies used: Windows Forms, WPF, MFC.\n\nRe-architected legacy code to take advantage of multi-core systems. C++, C#, Queues and Actors\n\nPerformed various micro- and macro-optimizations of existing code, both in C#, C++/CLI and C++.\n\nDesigned and developed several key modules of X_TRADER.\n\nBridged new .NET code with legacy C++ MFC sources. Technologies used: C#, COM, C++, C++/CLI\n…\nsee more",
+      "date1": "2006 – 2014",
+      "date2": "8 yrs"
+    },
+    {
+      "title": "Computer Programmer",
+      "companyName": "Intelilinks, LLC",
+      "description": "Sole designer and developer of Intelilinks' flagship application for collecting and analyzing newspaper articles using C# 2.0 and Microsoft SQL Server 2005.",
+      "date1": "2005 – 2007",
+      "date2": "2 yrs"
+    },
+    {
+      "title": "Technician",
+      "companyName": "OptiMetrics, Inc.",
+      "location": "Ann Arbor, MI",
+      "description": "Summer 2005. Developed slick Java GUI for thermal image analysis software written in Fortran and C++, remarkably improving user experience.\nSummer 2004. Researched new intelligent data input technology involving eye trackers, now being implemented into commercial game engine.\n2003. Developed computerized training manual for Stryker Light Armored Vehicle using PHP, Apache and MySQL; later deployed to troops in Iraq.\n2002. Worked on quantum computer project sponsored by DARPA; created Java applets allowing scientists to publish quantum circuit diagrams online.\nSummer 2002. Contracted to US Army Tank and Automotive Command to assist in camouflage evaluation using Maple and Matlab software.\n…\nsee more",
+      "date1": "2002 – 2005",
+      "date2": "3 yrs"
+    }
+  ],
+  "educations": [
+    {
+      "title": "University of Michigan",
+      "degree": "BSE",
+      "fieldofstudy": "Computer Science",
+      "date1": "2002",
+      "date2": "2005"
+    },
+    {
+      "title": "Oakland University",
+      "degree": "Mathematics",
+      "fieldofstudy": "Mathematics",
+      "date1": "2001",
+      "date2": "2002"
+    }
+  ],
+  "skills": [
+    {
+      "title": "C#",
+      "count": "42"
+    },
+    {
+      "title": "C++",
+      "count": "41"
+    },
+    {
+      "title": "Multithreading",
+      "count": "40"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "1",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/donald-brinkman-b942761/",
+        "text": "Filip is a tireless programmer and a meticulous engineer. He knows how to balance elegant code with practical considerations. Not only does he keep up with the latest tech trends, he has a good eye for picking out the serious products. Trust him."
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "2",
+      "items": [
+        "English",
+        "Polish"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "System, Method, and Tool for Synthetic Order Recovery"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/matt-weiss-7a8b1760/",
+      "text": "Chief Technology Officer at Seed CX"
+    },
+    {
+      "user": "https://www.linkedin.com/in/john-churchill-a246168b/",
+      "text": "Senior Software Engineer at CME Group"
+    },
+    {
+      "user": "https://www.linkedin.com/in/b3nson/",
+      "text": "Senior Software Engineer at CME Group"
+    },
+    {
+      "user": "https://www.linkedin.com/in/alexander-irwin-cpa-1921ba7/",
+      "text": "VP Accounting at The Connor Group"
+    },
+    {
+      "user": "https://www.linkedin.com/in/poulosjim/",
+      "text": "Production Management at SeedCX"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nandana-desai-8175273/",
+      "text": "Director Financial Planning & Analysis"
+    },
+    {
+      "user": "https://www.linkedin.com/in/radu-dram-b00228/",
+      "text": "Senior software engineer at Jump Trading, LLC"
+    },
+    {
+      "user": "https://www.linkedin.com/in/graham-nash-56b5764/",
+      "text": "Senior Software Engineer at DRW Trading Group"
+    },
+    {
+      "user": "https://www.linkedin.com/in/wm-maraist-46a83391/",
+      "text": "- at Digital Asset Management Group (DAMG)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mindshift-kqed-016a07aa/",
+      "text": "MindShift at KQED"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Filip Frącz",
+    "headline": "Lead Software Engineer at Seed CX",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQGyXEkEej6yQg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=A5aSgLbSlcQIiSetr22k_pLOKKsyZG-McBnKsF9uM4Y",
+    "location": "Naperville, Illinois",
+    "connections": "500+",
+    "summary": "Creative software professional with over 13 years of financial industry experience.\nSpecializing in low-latency, high-performance computing. Modern C++, Java, Python and .NET technologies.\n\n\nKeyword galore:\nModern C++17, C++14, C++/CLI, Java, C# 8.0, Python, STL, Boost, Linux, Win32, DotNet Core, WPF, Android, SQL, XML, XSLT, TDD, iOS, Objective-C, Protocol Buffers, FlatBuffers, TCP/IP, Xamarin, FIX protocol, Open Onload, XCAPI API, NSMDA API, Vela API, template metaprogramming, 29west LBM, Wireshark, docker, microservices, Redis"
+  }
+}

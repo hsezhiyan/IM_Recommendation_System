@@ -1,0 +1,176 @@
+{
+  "profileAlternative": {
+    "name": "Boris Fomitchev",
+    "headline": "Sr. Software Engineer in Deep Learning Frameworks at NVIDIA",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQHI0VHCizp5Sg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=qA1jlIzAm0fezeSvitYuwL5TXOPuv2uLzSNepo3A_Qk",
+    "location": "San Francisco Bay Area",
+    "connections": "322",
+    "summary": "• Advanced C++, STL, Multi-Thead, Multi-Platform, Heterogenous, Distributed, HPC Programming\n• GPU/CPU Accelerated Image Processing for NVIDIA, DL Frameworks, Adobe Photoshop and AfterFX\n• REST/SOAP API Web Services, from Scratch to Live at eBay and Yahoo!\n• Low-Level and Networking Code, Porting, CUDA, CPU and NPU Simulation, Refactoring\n• Hands-on in NodeJS, NoSQL(Mongo), Java, Python, Perl, Shell, Make, CMake, Xcode, BUCK\n• Open Source: Biggest SW Companies still use STLport Library. Contributed to OpenCV and CMake"
+  },
+  "aboutAlternative": {
+    "text": "• Advanced C++, STL, Multi-Thead, Multi-Platform, Heterogenous, Distributed, HPC Programming\n• GPU/CPU Accelerated Image Processing for NVIDIA, DL Frameworks, Adobe Photoshop and AfterFX\n• REST/SOAP API Web Services, from Scratch to Live at eBay and Yahoo!\n• Low-Level and Networking Code, Porting, CUDA, CPU and NPU Simulation, Refactoring\n• Hands-on in NodeJS, NoSQL(Mongo), Java, Python, Perl, Shell, Make, CMake, Xcode, BUCK\n• Open Source: Biggest SW Companies still use STLport Library. Contributed to OpenCV and CMake"
+  },
+  "positions": [
+    {
+      "title": "Sr. Software Engineer in Deep Learning Frameworks",
+      "companyName": "NVIDIA",
+      "location": "Santa Clara, CA",
+      "description": "Worked on leading Deep Learning frameworks projects for optimal and stable bleeding edge CUDA/CUDNN experience: Torch, Caffe, Theano. Helped porting Lua Torch to Android.\n\nContributed CUDA-related enhancements upstream to OpenCV and CMake.\n\nCreated \"Real Time HD Video Style Transfer\" demo for GTC 2017.\n\nSubmitted ANSI/ISO C++ and C proposals, \"Adding Fundamental Type for Short Float\" - to be included in C++20.\n\nGitHub: https://github.com/borisfom\n…\nsee more",
+      "date1": "Aug 2015 – Present",
+      "date2": "4 yrs 4 mos"
+    },
+    {
+      "title": "Software Developer",
+      "companyName": "STLport Consulting",
+      "location": "Mountain View, CA",
+      "description": "Onsite projects for major Silicon Valley clients:\n\n- PayPal, 2015: Dashboard for Paypal Node.JS applications: builds, deployments, traffic, availability: Node.JS, MongoDB, Altus Cloud, React.JS\n- Ebay, 2012-14: Scalable REST API Backend for “eBay Fashion” Visual Search: C++, STL, Boost.Asio, HTTP, OpenCV, Java, Node.JS, MongoDB, SaaS, PaaS, Altus, Maven, Jenkins, Raptor, feature extraction and recognition, machine learning\n- EBay, Analytic Platform & Delivery: Clickstream TIBCO RendezVous Bus Data Listener and file transport pipeline.\n- Sony Electronics: Core library for Android Book Reader (EPUB/PDF), built upon Adobe RMSDK\n- EBay IMD/UBI: optimizing Ab Initio ™ clickstream reports using C++ API extension.\n- Yahoo! SDS: Fetching data from “Petabyte” Postgres DB for real time ad targeting on Hadoop\n- Novafora: Compiled (JIT) C++ simulator for new VLIW chip designed to process H.264 video processing in hardware\n- PayPal, Infra: MLOC C++ code base refactoring: dependency analysis, service extraction. Refactoring of build system (ICE, make) and C++code base. Porting complete PayPal code base from GCC 2.95 to 4.0 and OS migration from Red Hat 6.2 to RHEL5.\n- Yahoo! Briefcase: Converted Briefcase to use distributed system to lift user storage limits.\n- Yahoo! Photos: Wrote REST Web Service for Photo Print partner integration, using SOAP\n- Cisco Systems: Static Analysis Tools used in development of Cisco IOS, on top of Klocwork and Coverity\n- KLA-Tencor: Optimized pipeline of Visual C++ application used to control multi-million defect inspection devices\n- Yahoo! Finance: Extended Core XML/XSLT DSO framework. Converting Y! Finance pages to XML/XSLT\n- EBay: First “eBay API” SOAP Web Service development, LTS coordination\n- Procket Networks, now Cisco: “NPU” Terabyte Router Network CPU simulator\nCustom STLport builds:\n- for compiler vendors: Nokia, Borland, Hewlett-Packard, SUN/Oracle, IBM\n- for internal use: Sony, EMC, General Electric, Wine, eBay\n\n…\nsee more",
+      "date1": "Apr 1999 – Present",
+      "date2": "20 yrs 8 mos"
+    },
+    {
+      "title": "Sr. Software Engineer, Mobile",
+      "companyName": "FullPower Technologies",
+      "location": "Santa Cruz, CA",
+      "description": "FullPower is a wearable tech company founded by Silicon Valley visionary Philipp Kahn.\nI wrote code for FullPower’s mobile/cloud platform, MotionX®, on Android and iOS:\nPorted ‘Local Band’ (Activity Tracking Band emulation via mobile phone sensors) code from C++/iOS to Android/Java Service, for Android app “MotionX®-MÜV”.\nDeveloping MotionX 365 (“Exclusively for Swiss Horological Smart Watches”) iOS app. Established Continuous Integration process using XCode Server.\n\n…\nsee more",
+      "date1": "Mar 2014 – Jul 2015",
+      "date2": "1 yr 5 mos"
+    },
+    {
+      "title": "Senior Computer Scientist",
+      "companyName": "Adobe",
+      "location": "San Jose, CA",
+      "description": "* Photoshop Team: Implemented “Oil Paint” Artistic Filter Plugin for Adobe Photoshop. First shipped with CS6.\nTools used: XCode, Visual C++, Perforce, Pixel Bender, OpenGL, AIF, Adobe Photoshop SDK.\n\n* Adobe Core Tech, Image Foundation (AIF) Team: Development of AIF, C++ Framework for heterogeneous multi-threaded CPU and GPU accelerated image processing. AIF is used to build Photoshop, Photoshop Elements and After Effects). AIF introduced Pixel Bender, an OpenCL-like proprietary language for runtime OpenGL or x86 code generation.\nTools used:XCode, Visual C++, Perforce, Intel C++ Compiler, Intel TBB, Boost, CUDA, OpenCL, OpenGL.\n…\nsee more",
+      "date1": "Nov 2006 – Dec 2013",
+      "date2": "7 yrs 2 mos"
+    },
+    {
+      "title": "Member of Technical Staff (MTS) 3",
+      "companyName": "SUN Microelecronics",
+      "location": "Sunnyvale, CA",
+      "description": "Architecture --Performance Group.\nLead developer for SHADE project - SPARC ISA simulator framework based on\ndynamic code generation. Fast LWP-level simulator with full Solaris emulation\nand extensive user API. More info at https://www.linkedin.com/redir/general-malware-page?url=http%3A%2F%2Fwww%2esun%2ecom%2Fmicroelectronics%2Fshade%2e\nDevelopment, multithreaded debugging, performance optimization, porting to ELF64,\nproject/website maintenance, support.\n…\nsee more",
+      "date1": "Aug 1998 – Jul 1999",
+      "date2": "1 yr"
+    },
+    {
+      "title": "Software Engineer",
+      "companyName": "Metabyte, Inc.",
+      "description": "Direct3D video drivers development (C,C++/Win NT,9x), trace tools for optimization.",
+      "date1": "Oct 1997 – Aug 1998",
+      "date2": "11 mos"
+    },
+    {
+      "title": "Senior Software Engineer",
+      "companyName": "MCST",
+      "description": "MCST(Moscow Center for SPARC Technology) was founded in 1992 as joint venture between Lebedev Institute (IPMCE) and SUN Microsystems.\nMajor hardware architecture product was ELBRUS 2000.\nThe team has split since then, and most of Elbrus team joined Intel Corporation, Software & Solutions Group, Moscow.\n\nLeader of compiled simulation project for E2000 (next generation EPIC/VLIW ISA)\nchips family (team of 3, C++/STL/ACE, SunPro CC, portable).\nScalable set of compatible simulators varying in speed/accuracy.\n…\nsee more",
+      "date1": "Apr 1992 – Oct 1997",
+      "date2": "5 yrs 7 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Moscow Institute of Physics and Technology (State University) (MIPT)",
+      "degree": "Master of Science (MS)",
+      "fieldofstudy": "Computer Science",
+      "date1": "1984",
+      "date2": "1990"
+    },
+    {}
+  ],
+  "skills": [
+    {
+      "title": "STL",
+      "count": "22"
+    },
+    {
+      "title": "C++",
+      "count": "30"
+    },
+    {
+      "title": "C",
+      "count": "13"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "10",
+    "receivedCount": "7",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/goldsmith/",
+        "text": "Boris is a talented developer with a deep understanding of C++ and STL. He also is very skilled with threading and algorithms. He was a good member of the team, and took on extremely challenging architectural tasks. When he made a commitment, he did whatever was necessary to deliver. A great senior developer."
+      },
+      {
+        "user": "https://www.linkedin.com/in/yeagerjohn/",
+        "text": "I supervised Boris on two projects at Yahoo. One was to build photo-related e-commerce solutions, and another was to do a massive scale up of Yahoo Briefcase storage. In both cases, Boris could be counted on the deliver on schedule, and deliver a quality product. Recruiters often ask if you would hire a person again given a chance. In Boris's case, I already did that.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/prashant-kommireddi-3645624/",
+        "text": "Boris is a C++ Guru! I worked with him in developing a parser for a highly complex merchandizing log and he was very successful in developing a highly efficient, well tested and documented code. He is extremely knowledgeable about code performance, algorithm and data structure optimizations which reflected in the code he wrote and the discussions we had in the group. It was a pleasure working with him.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/edwinpelaes/",
+        "text": "Boris is an C++ expert with analytical brilliance, fast execution, and highly focus. At eBay IMD/UBI he optimized several in-house extensions in a multi-platform cluster environment. His farsighted and original recommendations to an existing Tibco/C++ application provided the foundation for a quick and stable expansion. Boris creates an extremely enjoyable professional working environment, it is always a pleasure working with him.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/konstantin-malolin-a6722a2/",
+        "text": "Boris was a team leader when we worked together on the \"Itanium killer\" CPU project. I really liked working with him, as he is very sharp guy with a lots of technical expertise. His original STLport library was a valuable tool for years before compilers became mature enough to have fully featured native STL."
+      },
+      {
+        "user": "https://www.linkedin.com/in/davidyan1/",
+        "text": "Boris is an outstanding C++ programmer. He gets up to speed with new projects and starts contributing very quickly. His work is of good quality and reliability. And it was a pleasure to work with him."
+      },
+      {
+        "user": "https://www.linkedin.com/in/igorek/",
+        "text": "I know Boris as a foremost expert in Advanced C++, STL and generic programming methodology. For any C++ question, however complex or tricky, he can always give a quick and in-depth answer. Boris is the author of STLport, a multi-platform, highly portable, ANSI C++ Standard Library implementation."
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/edwinpelaes/",
+        "text": "I worked together with Edwin on two projects at eBay. He is remarkably solid and well-rounded professional. \r\nAfter many years of industrial experience, he kept his Berkeley vibe. He has this habit getting to the bottom of things - in my book, this takes an engineer to a computer scientist. Yet he is super organized and dependable.\r\nEdwin handles demanding and pressuring projects very professionally and with positive attitude, even through weekend and night Operations support calls.\r\nIt was a great pleasure working with Edwin, I would not hesitate to recommend him for a wide range of engineering positions."
+      },
+      {
+        "user": "https://www.linkedin.com/in/dassujata/",
+        "text": "Sujata joined AIF team when the project was mature. She got to the speed very quickly and was able to immediately contribute useful and important extensions that she was able to identify quickly thanks to her previous Adobe experience. Sujata led a few new feature projects in AIF team, communicating very successfully with our India team. She also took very enthusiastically on new technologies and quickly became OpenCL leader in our team. Sujata is very diligent and attentive to detail, it was great pleasure working together. I would highly recommend Sujata for Senior/Principal Engineer role, in particular for challenging projects involving heterogenous computing."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "2",
+      "items": [
+        "English",
+        "Russian"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "ACCU"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "STLport"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [],
+  "volunteerExperience": [
+    {
+      "title": "Founder, coordinator",
+      "experience": "STLport Open Source Project",
+      "description": "Science and Technology",
+      "date1": "Mar 1997",
+      "date2": "1 mo"
+    }
+  ],
+  "profile": {
+    "name": "Boris Fomitchev",
+    "headline": "Sr. Software Engineer in Deep Learning Frameworks at NVIDIA",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQHI0VHCizp5Sg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=qA1jlIzAm0fezeSvitYuwL5TXOPuv2uLzSNepo3A_Qk",
+    "location": "San Francisco Bay Area",
+    "connections": "322",
+    "summary": "• Advanced C++, STL, Multi-Thead, Multi-Platform, Heterogenous, Distributed, HPC Programming\n• GPU/CPU Accelerated Image Processing for NVIDIA, DL Frameworks, Adobe Photoshop and AfterFX\n• REST/SOAP API Web Services, from Scratch to Live at eBay and Yahoo!\n• Low-Level and Networking Code, Porting, CUDA, CPU and NPU Simulation, Refactoring\n• Hands-on in NodeJS, NoSQL(Mongo), Java, Python, Perl, Shell, Make, CMake, Xcode, BUCK\n• Open Source: Biggest SW Companies still use STLport Library. Contributed to OpenCV and CMake"
+  }
+}

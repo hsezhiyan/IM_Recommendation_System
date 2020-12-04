@@ -1,0 +1,216 @@
+{
+  "profileAlternative": {
+    "name": "Christopher Buecheler",
+    "headline": "Full-Stack JavaScript Developer",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQHHj-tGPV6pKw/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=F8rY0-k3YdvKDoIAq4hXF6CU-16H5yy7IckYUXGlBpI",
+    "location": "Providence, Rhode Island Area",
+    "connections": "181",
+    "summary": "Note: I am currently closed to new opportunities. Sorry!\n\nI'm a Full-Stack Web Designer/Developer with 22 years of experience. I've worked with LAMP, Windows/.NET, Node/Express/Mongo, Rails/MySQL, proprietary web servers, and more.\n\nI'm well-versed in Design, HTML, CSS, JavaScript, jQuery, React.js, Angular.js, and much more. I make frequent efforts to educate myself on the latest and greatest techniques, tools, and frameworks. I'm also comfortable with back-end development and database construction. I get along beautifully with programmers, producers, and executives, and enjoy managing teams.\n\nCurrently I'm running my own company, CloseBrace. Previous employers include startups Crispy Gamer, Humor Rainbow (OkCupid), GameSpy Industries, and GoldenSpear."
+  },
+  "aboutAlternative": {
+    "text": "Note: I am currently closed to new opportunities. Sorry!\n\nI'm a Full-Stack Web Designer/Developer with 22 years of experience. I've worked with LAMP, Windows/.NET, Node/Express/Mongo, Rails/MySQL, proprietary web servers, and more.\n\nI'm well-versed in Design, HTML, CSS, JavaScript, jQuery, React.js, Angular.js, and much more. I make frequent efforts to educate myself on the latest and greatest techniques, tools, and frameworks. I'm also comfortable with back-end development and database construction. I get along beautifully with programmers, producers, and executives, and enjoy managing teams.\n\nCurrently I'm running my own company, CloseBrace. Previous employers include startups Crispy Gamer, Humor Rainbow (OkCupid), GameSpy Industries, and GoldenSpear."
+  },
+  "positions": [
+    {
+      "title": "Freelance Sr. Web Developer",
+      "companyName": "Self-Employed",
+      "location": "Providence, Rhode Island Area",
+      "description": "Providing superior web development and consulting for a variety of clients, including Nevo Technologies, Omniex, Inc; SocialCircle.io; and Stitchly.com",
+      "date1": "Aug 2018 – Present",
+      "date2": "1 yr 4 mos"
+    },
+    {
+      "title": "Founder",
+      "companyName": "CloseBrace",
+      "location": "Providence, Rhode Island Area",
+      "description": "CloseBrace is a website providing tutorials and other resources for JavaScript developers. It launched in April 2017. I built the site using a combination of existing frameworks and custom HTML, CSS, and JavaScript, and am creating its tutorial content and managing its growth.",
+      "date1": "Nov 2016 – Present",
+      "date2": "3 yrs 1 mo"
+    },
+    {
+      "title": "Freelance Senior Web Developer / Designer",
+      "companyName": "Self-Employed",
+      "location": "Providence, Rhode Island Area",
+      "description": "Provided superior front-end and full-stack development, design services, consulting, and other work for a variety of clients both local and national. Working extensively in HTML5, CSS3, and JavaScript. Projects vary and include Rails/Redux/React.js, LAMP, Angular.js, and more.\n\nClients: Datarista, Volt Server, Tizra, Luminus Networks, and others.\n…\nsee more",
+      "date1": "Aug 2015 – Oct 2016",
+      "date2": "1 yr 3 mos"
+    },
+    {
+      "title": "Principal Front-End Developer",
+      "companyName": "Goldenspear",
+      "location": "San Francisco",
+      "description": "Provided front-end development and direction for GoldenSpear's AI Discovery Engine. Currently working extensively with ASP.Net MVC 4, HTML5, CSS3, jQuery and AngularJS.",
+      "date1": "Mar 2010 – Aug 2015",
+      "date2": "5 yrs 6 mos"
+    },
+    {
+      "title": "Director of Web Applications",
+      "companyName": "Crispy Gamer",
+      "description": "• Managed freelance and contract Illustrators, Designers and UI Developers\n• Provided all XHTML/CSS/JavaScript used on the launch website in eight weeks.\n• Learned and applied C#-driven ASP.Net solutions to the website\n• Major SEO and UI overhaul work post beta-launch\n• Redesigned site from ground up with lead engineer to be better, faster, and easier to use\n• Provided all mockups, XHTML, CSS, and JavaScript for website re-launch in six weeks\n• Worked with Business Development, Marketing, Editorial, IT, Ad Sales and other departments on a variety of projects related to the website and its associated content.\n…\nsee more",
+      "date1": "Feb 2008 – Feb 2010",
+      "date2": "2 yrs 1 mo"
+    },
+    {
+      "title": "Freelance Web Designer",
+      "companyName": "",
+      "description": "Providing superior design and front-end development for a variety of clients in the NYC area and around the United States. Clients included: GameSpy Industries, IGN Entertainment, Alexander Interactive, Ology Group, Humor Rainbow, Crispy Gamer, and others.",
+      "date1": "Aug 2004 – Feb 2008",
+      "date2": "3 yrs 7 mos"
+    },
+    {
+      "title": "Lead Web Designer",
+      "companyName": "Humor Rainbow, Inc",
+      "description": "Lead Web Designer and Developer for the website OkCupid.com",
+      "date1": "Jun 2005 – Sep 2007",
+      "date2": "2 yrs 4 mos"
+    },
+    {
+      "title": "Web Designer",
+      "companyName": "Comcast",
+      "description": "Web Designer for Comcast, a fortune 100 company that provides cable service for millions of customers in the United States",
+      "date1": "Apr 2005 – Jun 2005",
+      "date2": "3 mos"
+    },
+    {
+      "title": "Senior Web Designer",
+      "companyName": "GameSpy Industries",
+      "description": "Twelfth employee hired for a startup that eventually ballooned to 120+ employees, was profitable, and sold in 2004. I had a hand in the web design for nearly every project the company was involved with, including being directly responsible for enterprise-level sites such as GameSpy.com.",
+      "date1": "Mar 1999 – Mar 2004",
+      "date2": "5 yrs 1 mo"
+    },
+    {
+      "title": "Web Designer",
+      "companyName": "Dreamscape Online",
+      "description": "Web Designer for numerous clients around the Upstate New york area.",
+      "date1": "Dec 1997 – Mar 1999",
+      "date2": "1 yr 4 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Westhill High",
+      "degree": "na",
+      "fieldofstudy": "na",
+      "date1": "1991",
+      "date2": "1995"
+    }
+  ],
+  "skills": [
+    {
+      "title": "JavaScript",
+      "count": "15"
+    },
+    {
+      "title": "Web Development",
+      "count": "14"
+    },
+    {
+      "title": "CSS",
+      "count": "13"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "15",
+    "receivedCount": "10",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/carynvainio/",
+        "text": "After working with Chris at GameSpy years ago, I knew he was the right person to work with again. I brought him in as a consultant on two separate projects, and on both occasions he delivered more value than I’d anticipated getting. He was thorough, professional, and timely, and he really knows his field. I’d recommend him instantly to anyone looking for his skill set.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/patsabatino/",
+        "text": "Chris created the initial UI for Datarista from scratch. Working with just UX designs he collaborated with our small team to understand the platform's needs and to lay out a strategy for the front end. He decided on React/Redux for the project and then proceeded to build the UI and train our team members in the \"new to us\" technology. From April to September 2106 Chris was not only a contractor but an integral part of our team. I could not recommend Chris any more emphatically.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/thomnichols/",
+        "text": "I brought Chris on to help add bandwidth to our rails-based product as we underwent a transition to a react/redux SPA web frontend. We were both new to react and learned as we went. I'm happy to say Chris picked it up quickly and went to work quickly, adding a lot of bandwidth to the team. He helped knock out a huge chunk of work that would have taken much longer to accomplish had he not been part of the team. Chris worked remotely for the duration of his contract. He was 100% reliable - I knew exactly when he would be online and working. It was very easy to assign work and then check back in a day or two or wait until a pull request was submitted. He's very easy to work with, a good communicator, talented web designer, and overall a great resource for adding bandwidth to a project.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/gabekruger/",
+        "text": "Chris is the best front end developer I've ever worked with. He is fast and he's also constantly learning new technologies. Pure javascript to jQuery to Angular. He's also not afraid to dabble in the backend and fix problems. His CSS and HTML are cutting edge. He's a hard worker and very reliable."
+      },
+      {
+        "user": "https://www.linkedin.com/in/andresrinivasan/",
+        "text": "In the early days of Crispy Gamer, every page update was manual or had to be tweaked after the CMS had done its thing. During that time, Chris not only found time to design, optimize, and tweak every page template, but deal with every manual change thrown at him. As we evolved the tools to make Chris' life easier, he used his new spare time to make the Crispy Gamer pages easier to navigate and perform better while still conforming to the requirements placed on him by ad sales and the product team. It is because of Chris that Crispy Gamer never once looked like the soulless video game sites that are so common.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/evomoore/",
+        "text": "Working with Chris has been an extremely valuable and educational experience. He is a talented, creative, and knowledgeable front-end developer and has emerged as a leader within Crispy Gamer. I have never in my time experienced a development team so adept at maintaining an open and highly productive line of communication with an entire company and user base. Chris is a huge part of that team and his knowledge, drive, and creativity are a shining example of how to lead in a Start-Up environment.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/seanflinn/",
+        "text": "I've contracted Chris on several occasions to produce design projects for various products under my supervision. He's been thrown a wide variety of requests (from straight marketing pieces to more complex user interface design), and has handled them all with aplomb. Chris is a rock -- when I absolutely need to turn to a designer who I can trust to do a great job with minimal direction and turn it around on time, I look to Chris to get it done. His years of expertise in both design and web development means he brings a lot to the table.\n…\nSee more"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/jamie-demaria-566833122/",
+        "text": "I worked with Jamie during her summer 2016 internship with Datarista. I was tasked with teaching her the basics of React.js and several associated technologies with which she'd never worked, and then helping her as she began developing components, actions, and reducers for a real-world application. She picked up the core concepts quickly and was very receptive to feedback and suggestions while also powering through a wide variety of tasks--some of them quite advanced!--in a short span of time. Jamie's work unquestionably helped Datarista move further along its aggressive development timeline than it otherwise would have, and it was a pleasure working with her."
+      },
+      {
+        "user": "https://www.linkedin.com/in/thomnichols/",
+        "text": "I worked with Thom for several months at Volt Server, and was extremely impressed with his competence, speed, ability to learn new technologies, and ability to juggle multiple responsibilities. Whether it was studying up on new technology, determining the best course of development for the application we were working on, performing code reviews, working with management and hardware engineers to deliver what they needed, or just hammering out high-quality code, Thom handled it with aplomb. He's a talented coder who's more than capable with multiple languages, understands the direction in which the web is headed, and is dedicated to writing clean, smart code that avoids growing technical debt. I learned a lot from him and enjoyed working with him on the various projects we tackled while I was contracting for Volt Server"
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "2",
+      "items": [
+        "English",
+        "French"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/lisapaliulis/",
+      "text": "Director, Marketing at BMG Production Music US"
+    },
+    {
+      "user": "https://www.linkedin.com/in/cbuechler/",
+      "text": "Principal Engineer at Ubiquiti Networks"
+    },
+    {
+      "user": "https://www.linkedin.com/in/liz-carley-24587059/",
+      "text": "Third grade teacher at rocky Hill School"
+    },
+    {
+      "user": "https://www.linkedin.com/in/army-c-b2445b15b/",
+      "text": "The Official LinkedIn for U.S. Army Chaplain Corps"
+    },
+    {
+      "user": "https://www.linkedin.com/in/matthias-buechler-36385776/",
+      "text": "Retail Professional"
+    },
+    {
+      "user": "https://www.linkedin.com/in/karah-chartrand-9a4a75a/",
+      "text": "Director at Giggle Monkeys Child Care"
+    },
+    {
+      "user": "https://www.linkedin.com/in/wayne-buechler-5651a61a/",
+      "text": "Retired"
+    },
+    {
+      "user": "https://www.linkedin.com/in/beth-degerlia-97720ab/",
+      "text": "Assistant Head of School"
+    },
+    {
+      "user": "https://www.linkedin.com/in/wendy-gustavel-381526a4/",
+      "text": "PreK through 12 educator and wellness champion."
+    },
+    {
+      "user": "https://www.linkedin.com/in/carynvainio/",
+      "text": "Interaction Designer at Oculus Research"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Christopher Buecheler",
+    "headline": "Full-Stack JavaScript Developer",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQHHj-tGPV6pKw/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=F8rY0-k3YdvKDoIAq4hXF6CU-16H5yy7IckYUXGlBpI",
+    "location": "Providence, Rhode Island Area",
+    "connections": "181",
+    "summary": "Note: I am currently closed to new opportunities. Sorry!\n\nI'm a Full-Stack Web Designer/Developer with 22 years of experience. I've worked with LAMP, Windows/.NET, Node/Express/Mongo, Rails/MySQL, proprietary web servers, and more.\n\nI'm well-versed in Design, HTML, CSS, JavaScript, jQuery, React.js, Angular.js, and much more. I make frequent efforts to educate myself on the latest and greatest techniques, tools, and frameworks. I'm also comfortable with back-end development and database construction. I get along beautifully with programmers, producers, and executives, and enjoy managing teams.\n\nCurrently I'm running my own company, CloseBrace. Previous employers include startups Crispy Gamer, Humor Rainbow (OkCupid), GameSpy Industries, and GoldenSpear."
+  }
+}

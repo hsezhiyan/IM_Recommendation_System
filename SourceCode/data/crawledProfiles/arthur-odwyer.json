@@ -1,0 +1,176 @@
+{
+  "profileAlternative": {
+    "name": "Arthur O'Dwyer",
+    "headline": "Modern C++ guru",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQHxPccl8cq24Q/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=HrDJ9w5sM_14jj2EGIbYf9hT9bqzGddQ830Ll6CYCgI",
+    "location": "Yonkers, New York",
+    "connections": "184",
+    "summary": "Professional software engineer with 12+ years of work experience in C, C++, and Python. Keen on low-level C/C++ platform and library design and C++ evangelism. I have significant experience in compiler implementation, software tool design, and automatic test-case generation.\n\nI am available for training courses in Modern C++; email me to learn more.\n\nI have spoken at conferences such as CppCon (cppcon.org), Silicon Valley Code Camp (siliconvalley-codecamp.com), and C++Now (cppnow.org). From 2014 to 2018, I was the chief organizer of the San Francisco C++ Meetup. I have published one book and one board game. My patches have been accepted by major open-source projects including GCC, Clang, MySQL, Postgres, and NetHack 4."
+  },
+  "aboutAlternative": {
+    "text": "Professional software engineer with 12+ years of work experience in C, C++, and Python. Keen on low-level C/C++ platform and library design and C++ evangelism. I have significant experience in compiler implementation, software tool design, and automatic test-case generation.\n\nI am available for training courses in Modern C++; email me to learn more.\n\nI have spoken at conferences such as CppCon (cppcon.org), Silicon Valley Code Camp (siliconvalley-codecamp.com), and C++Now (cppnow.org). From 2014 to 2018, I was the chief organizer of the San Francisco C++ Meetup. I have published one book and one board game. My patches have been accepted by major open-source projects including GCC, Clang, MySQL, Postgres, and NetHack 4."
+  },
+  "positions": [
+    {
+      "title": "Senior Staff Engineer",
+      "companyName": "Nominum",
+      "location": "San Francisco, CA",
+      "date1": "May 2017 – Present",
+      "date2": "2 yrs 7 mos"
+    },
+    {
+      "title": "Systems engineer, then senior SRE",
+      "companyName": "Mixpanel, Inc.",
+      "location": "San Francisco",
+      "description": "Event analytics service spanning 1100 machines in 7 datacenters\nPlanned and executed the combining of separate datastores for events and user profiles\nMember of on-call team; ran incident postmortems\nImplemented C++ libraries for logging and JSON parsing/printing",
+      "date1": "Oct 2014 – Apr 2017",
+      "date2": "2 yrs 7 mos"
+    },
+    {
+      "title": "Senior software engineer",
+      "companyName": "MemSQL",
+      "location": "San Francisco, CA",
+      "description": "Fast, distributed, in-memory SQL database using lockfree data structures. Uses C++11 to generate C++11.\nDesigned and implemented MemSQL's JSON column type. Implemented a fast Unicode collation algorithm. Acted as guru for C++11 and yacc.\nPython test infrastructure, including a random SQL query generator.\nStreamlined the build system using CMake, flex, bison, and ccache.\n…\nsee more",
+      "date1": "Jul 2013 – Sep 2014",
+      "date2": "1 yr 3 mos"
+    },
+    {
+      "title": "Software engineer",
+      "companyName": "Push Computing",
+      "location": "San Francisco, CA",
+      "description": "Used both Objective-C (ARC) and C++11, for a startup later acquired by MobileIron.\nUsed PLY (Python Lex-Yacc) to parse Objective-C header files.\nExtensive Bash and Python scripting.",
+      "date1": "Apr 2012 – Jun 2013",
+      "date2": "1 yr 3 mos"
+    },
+    {
+      "title": "PHP contractor",
+      "companyName": "ReadThrough.com",
+      "location": "Santa Barbara, CA",
+      "description": "Automatically convert screenplays from PDF format to Celtx/Final Draft.\nWrite and maintain parser heuristics to tag lines as \"dialog\", \"action\", etc.",
+      "date1": "Sep 2011 – Mar 2012",
+      "date2": "7 mos"
+    },
+    {
+      "title": "Systems software engineer, compiler team",
+      "companyName": "Green Hills Software",
+      "location": "Santa Barbara, CA",
+      "description": "Compiler group. Maintain x86 assembler and multi-target optimizing linker, in a 20+-year-old codebase with strict code ownership. Upgrade the C++ front-end to EDG 3.10. Automatically generate and reduce test cases using both CSmith (embed.cs.utah.edu/csmith) and an in-house random program generator.",
+      "date1": "Aug 2006 – Mar 2011",
+      "date2": "4 yrs 8 mos"
+    },
+    {
+      "title": "Intern",
+      "companyName": "Spatial Integrated Systems",
+      "location": "Rockville, MD",
+      "description": "Camera characterization and feature detection in Matlab and C, for a small company building hardware and software for 3-D machine vision.",
+      "date1": "2003 – 2005",
+      "date2": "2 yrs"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Carnegie Mellon University",
+      "degree": "BS",
+      "fieldofstudy": "Mathematical Science",
+      "date1": "2002",
+      "date2": "2006"
+    },
+    {
+      "title": "Carnegie Mellon University",
+      "degree": "BS",
+      "fieldofstudy": "Computer Science",
+      "date1": "2002",
+      "date2": "2006"
+    }
+  ],
+  "skills": [
+    {
+      "title": "C",
+      "count": "6"
+    },
+    {
+      "title": "C++",
+      "count": "7"
+    },
+    {
+      "title": "Compilers",
+      "count": "4"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "4",
+      "items": [
+        "Algorithms",
+        "Compilers",
+        "Computer Graphics",
+        "Operating Systems"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "Chinese, Mandarin",
+        "English",
+        "Spanish"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/ncmyers/",
+      "text": "All C++, All the Time"
+    },
+    {
+      "user": "https://www.linkedin.com/in/bob-steagall-9649612a/",
+      "text": "Principal Engineer, C++ Advocate"
+    },
+    {
+      "user": "https://www.linkedin.com/in/bjarnestroustrup/",
+      "text": "Technical Fellow and Managing Director at Morgan Stanley"
+    },
+    {
+      "user": "https://www.linkedin.com/in/linustorvalds/",
+      "text": "Fellow at Linux Foundation"
+    },
+    {
+      "user": "https://www.linkedin.com/in/diksha-garg-491283186/",
+      "text": "MS CS student at NYU | Proficient in Python, C and C++"
+    },
+    {
+      "user": "https://www.linkedin.com/in/weihang-frank-fan-15172b57/",
+      "text": "Software Engineering Intern at MemSQL"
+    },
+    {
+      "user": "https://www.linkedin.com/in/lefticus/",
+      "text": "C++ Trainer, Speaker, and Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/brycelelbach/",
+      "text": "C++ Community Leader, ISO C++ Library Incubator Chair, ISO C++ Tooling Chair, CUDA C++ Core Libraries Lead @ NVIDIA"
+    },
+    {
+      "user": "https://www.linkedin.com/in/lex-gospodinoff/",
+      "text": "Software Developer in Java, Python, and C++"
+    },
+    {
+      "user": "https://www.linkedin.com/in/emilypakulski/",
+      "text": "Software Engineer at MongoDB"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Arthur O'Dwyer",
+    "headline": "Modern C++ guru",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQHxPccl8cq24Q/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=HrDJ9w5sM_14jj2EGIbYf9hT9bqzGddQ830Ll6CYCgI",
+    "location": "Yonkers, New York",
+    "connections": "184",
+    "summary": "Professional software engineer with 12+ years of work experience in C, C++, and Python. Keen on low-level C/C++ platform and library design and C++ evangelism. I have significant experience in compiler implementation, software tool design, and automatic test-case generation.\n\nI am available for training courses in Modern C++; email me to learn more.\n\nI have spoken at conferences such as CppCon (cppcon.org), Silicon Valley Code Camp (siliconvalley-codecamp.com), and C++Now (cppnow.org). From 2014 to 2018, I was the chief organizer of the San Francisco C++ Meetup. I have published one book and one board game. My patches have been accepted by major open-source projects including GCC, Clang, MySQL, Postgres, and NetHack 4."
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "profileAlternative": {
+    "name": "A Abdul",
+    "headline": "Python Developer at Cadence",
+    "location": "United States",
+    "connections": "340",
+    "summary": "• Over 7 years of experience as a Web Application Developer and Software Engineer using Python, Django, C++, Javascript, Java .\n• Good Experience with Django, a high-level Python Web framework.\n• Experience object oriented programming (OOP) concepts using Python and Django.\n• Experienced in LAMP (Linux, Apache, MySQL, and Python/PHP) Architecture.\n• Experienced in developing web-based applications using Python, Django, PHP, C++, XML, CSS, HTML5/CSS3,AngularJS, DHTML, JavaScript and JQuery.\n• Good experience with Amazon Cloud EC2, Elastic Bean and Simple Storage Service S3 ."
+  },
+  "aboutAlternative": {
+    "text": "• Over 7 years of experience as a Web Application Developer and Software Engineer using Python, Django, C++, Javascript, Java .\n• Good Experience with Django, a high-level Python Web framework.\n• Experience object oriented programming (OOP) concepts using Python and Django.\n• Experienced in LAMP (Linux, Apache, MySQL, and Python/PHP) Architecture.\n• Experienced in developing web-based applications using Python, Django, PHP, C++, XML, CSS, HTML5/CSS3,AngularJS, DHTML, JavaScript and JQuery.\n• Good experience with Amazon Cloud EC2, Elastic Bean and Simple Storage Service S3 ."
+  },
+  "positions": [
+    {
+      "title": "Python Developer",
+      "companyName": "Cadence",
+      "location": "San Jose, CA",
+      "description": "• Worked with stakeholders/Business Analyst to understand system requirements and created Detail Design specs.\n• Technical experience with LAMP (Linux, Apache, MySQL, PYTHON) architecture.\n• Developed entire frontend and backend modules using Python on Django Web Framework.\n• Designed and developed data management system using MySQL and Django.\n• Developed responsive UI using HTML5/CSS3,AngularJS and Javascript.\n• Developed database layer including Tables and Stored procedures in MYSQL.\n• Ported parts of application on cloud using AWS.\n• Used Amazon Cloud EC2 ,Amazon S3 and Elastic bean to deploy the project on Cloud\n\n…\nsee more",
+      "date1": "Jul 2016 – Present",
+      "date2": "3 yrs 5 mos"
+    },
+    {
+      "title": "Python Developer",
+      "companyName": "Key Corporate & Commercial Bank",
+      "location": "San Francisco Bay Area",
+      "description": "• Created Business Logic using Python 2.7.\n• Used Django framework for application development.\n• Created database using MySQL, wrote several queries and Django API’s to extract data from database.\n• Used Amazon Cloud EC2 ,Amazon S3 and Elastic bean to deploy the project on Cloud\n\n…\nsee more",
+      "date1": "May 2014 – Jul 2016",
+      "date2": "2 yrs 3 mos"
+    },
+    {
+      "title": "Programmer",
+      "companyName": "Gallo Wine Company",
+      "location": "Modesto, California Area",
+      "description": "• Design, develop, test, deploy and maintain the website.\n• Designed and developed the UI of the website using HTML, AJAX, CSS and JavaScript.\n• Developed entire frontend and backend modules using PHP/Python.\n• Designed and developed data management system using MySQL.",
+      "date1": "Feb 2012 – May 2014",
+      "date2": "2 yrs 4 mos"
+    },
+    {
+      "title": "Software Engineer",
+      "companyName": "Subex Limited",
+      "location": "India",
+      "description": "• Designed and developed Use-Case Diagrams, Class Diagrams, and Object Diagrams using UML Rational Rose for OOA/OOD techniques.\n• Developed Application using Java J2EE Platform\n• Designed and developed components using C++.\n• Development of real-time multitasking systems using C++.\n• Implemented database access and data manipulation functions in Oracles Embedded SQL environment using ODBC.\n\n…\nsee more",
+      "date1": "May 2010 – Feb 2012",
+      "date2": "1 yr 10 mos"
+    }
+  ],
+  "educations": [],
+  "skills": [],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/adam-helton-799a8a169/",
+      "text": "Software Developer at PGIP - Tech"
+    },
+    {
+      "user": "https://www.linkedin.com/in/victoriagnip/",
+      "text": "Python Full Stack Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/chandini-reddy-8b9372136/",
+      "text": "Looking for Python Developer position"
+    },
+    {
+      "user": "https://www.linkedin.com/in/prathiba-k-a54b5216b/",
+      "text": "Actively looking for Job change, Fulltime / Contract. Python Developer at WestRock Company"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kiran-p-18aa84170/",
+      "text": "Python Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/venkat-g-1a2447176/",
+      "text": "Python Developer at Charles Schwab"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ganeshkooduru/",
+      "text": "Sr. Python developer At Rockwell Collins."
+    },
+    {
+      "user": "https://www.linkedin.com/in/ragavi-srinivasan-676165153/",
+      "text": "Experienced Python developer looking for opportunities"
+    },
+    {
+      "user": "https://www.linkedin.com/in/graziella-layouss-toutoungis-16728633/",
+      "text": "Full stack Python, Django, React Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/vladimirgosha/",
+      "text": "Full-stack Python developer. Looking for opportunities."
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "A Abdul",
+    "headline": "Python Developer at Cadence",
+    "location": "United States",
+    "connections": "340",
+    "summary": "• Over 7 years of experience as a Web Application Developer and Software Engineer using Python, Django, C++, Javascript, Java .\n• Good Experience with Django, a high-level Python Web framework.\n• Experience object oriented programming (OOP) concepts using Python and Django.\n• Experienced in LAMP (Linux, Apache, MySQL, and Python/PHP) Architecture.\n• Experienced in developing web-based applications using Python, Django, PHP, C++, XML, CSS, HTML5/CSS3,AngularJS, DHTML, JavaScript and JQuery.\n• Good experience with Amazon Cloud EC2, Elastic Bean and Simple Storage Service S3 ."
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "profileAlternative": {
+    "name": "Carlo C. del Mundo",
+    "headline": "Engineering Manager at Xnor.ai. I'm hiring!",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQEwdsQaxUvyhQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=Rg79HMH8q18Jjr2noiW55ledktqD3t0qNfo6FcGI2dU",
+    "location": "Seattle, Washington",
+    "connections": "500+",
+    "summary": "Engineering manager specializing in systems for deep learning.\n\nI'm hiring for the Machine Learning Engineering and Software Engineering roles at Xnor."
+  },
+  "aboutAlternative": {
+    "text": "Engineering manager specializing in systems for deep learning.\n\nI'm hiring for the Machine Learning Engineering and Software Engineering roles at Xnor."
+  },
+  "positions": [
+    {
+      "title": "Xnor.ai",
+      "location": "Greater Seattle Area",
+      "description": "C++, Python. Bespoke deep learning systems for resource-constrained devices.\n\nI'm hiring for Machine Learning Engineers and Software Engineering positions.",
+      "date1": "Aug 2018 – Present",
+      "date2": "1 yr 4 mos",
+      "roles": [
+        {
+          "title": "Engineering Manager",
+          "date1": "Aug 2018 – Present",
+          "date2": "1 yr 4 mos",
+          "location": "Greater Seattle Area"
+        },
+        {
+          "title": "Software Engineer",
+          "date1": "Apr 2016 – Aug 2018",
+          "date2": "2 yrs 5 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nEngineering Manager",
+      "location": "Greater Seattle Area",
+      "description": "C++, Python. Bespoke deep learning systems for resource-constrained devices.\n\nI'm hiring for Machine Learning Engineers and Software Engineering positions.",
+      "date1": "Aug 2018 – Present",
+      "date2": "1 yr 4 mos",
+      "roles": [
+        {
+          "title": "Engineering Manager",
+          "date1": "Aug 2018 – Present",
+          "date2": "1 yr 4 mos",
+          "location": "Greater Seattle Area"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSoftware Engineer",
+      "description": "Core C++ Engineering. Performance optimization for deep learning systems.",
+      "date1": "Apr 2016 – Aug 2018",
+      "date2": "2 yrs 5 mos",
+      "roles": [
+        {
+          "title": "Software Engineer",
+          "date1": "Apr 2016 – Aug 2018",
+          "date2": "2 yrs 5 mos"
+        }
+      ]
+    },
+    {
+      "title": "Graduate Student",
+      "companyName": "University of Washington",
+      "location": "Seattle",
+      "description": "C++, Python. Computer architecture research in ML systems.",
+      "date1": "2014 – 2016",
+      "date2": "2 yrs"
+    },
+    {
+      "title": "Research Intern",
+      "companyName": "Microsoft Research",
+      "location": "Redmond",
+      "description": "C++. Content-based video searching.",
+      "date1": "2015",
+      "date2": "less than a year"
+    },
+    {
+      "title": "Undergraduate Research Assistant",
+      "companyName": "Virginia Tech College of Engineering",
+      "location": "Roanoke, Virginia Area",
+      "description": "C++, CUDA. High-performance computing research.",
+      "date1": "2012 – 2014",
+      "date2": "2 yrs"
+    },
+    {
+      "title": "Software Engineer Intern",
+      "companyName": "Intel Corporation",
+      "location": "Sacramento, California Area",
+      "description": "Ruby. Pre-silicon validation for GPGPU chips.",
+      "date1": "2012",
+      "date2": "less than a year"
+    },
+    {
+      "title": "Software Engineer",
+      "companyName": "Virginia Tech AUVSI Student Chapter",
+      "location": "Roanoke, Virginia Area",
+      "description": "C++. Autonomous underwater robots.",
+      "date1": "2011",
+      "date2": "less than a year"
+    },
+    {
+      "title": "Software Engineering Intern",
+      "companyName": "SAIC",
+      "location": "Washington D.C. Metro Area",
+      "description": "C++, Java. Computer graphics simulations.",
+      "date1": "2010",
+      "date2": "less than a year"
+    }
+  ],
+  "educations": [
+    {
+      "title": "University of Washington",
+      "degree": "Master of Science - MS",
+      "fieldofstudy": "Computer Science and Engineering"
+    },
+    {
+      "title": "Virginia Tech",
+      "degree": "BS",
+      "fieldofstudy": "Computer Engineering"
+    }
+  ],
+  "skills": [
+    {
+      "title": "C++",
+      "count": "17"
+    },
+    {
+      "title": "Parallel Computing",
+      "count": "10"
+    },
+    {
+      "title": "High Performance Computing",
+      "count": "11"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "4",
+      "items": [
+        "NSF Graduate Research Fellow",
+        "Qualcomm Innovation Fellow",
+        "Dora Zee Ling Endowed Fellowship",
+        "Outstanding ECE Senior"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "English"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/arjunrgupta/",
+      "text": "ML + Robotics @ MIT"
+    },
+    {
+      "user": "https://www.linkedin.com/in/matt-welsh-5002875/",
+      "text": "Principal Engineer at Xnor.ai, ex-Google, ex-Harvard prof"
+    },
+    {
+      "user": "https://www.linkedin.com/in/golnoosh-samei-aa649653/",
+      "text": "Machine Learning Engineer at Xnor.ai"
+    },
+    {
+      "user": "https://www.linkedin.com/in/maxwell-horton-3335732b/",
+      "text": "Machine Learning Researcher at XNOR.AI"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yanzi-jin-112a3137/",
+      "text": "Machine Learning Engineer at Xnor.ai"
+    },
+    {
+      "user": "https://www.linkedin.com/in/paulmichaelcurry/",
+      "text": "Machine Learning Engineer at Xnor.ai"
+    },
+    {
+      "user": "https://www.linkedin.com/in/guberti/",
+      "text": "Winner of 2019 Worldwide Purple Comet Math Contest"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mohammad-rastegari-50a88a44/",
+      "text": "Founder and CTO at XNOR.ai, Research Scientist at Allen Institute for Artificial Intelligence (AI2)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shappenny/",
+      "text": "ML infrastructure at Xnor.ai"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jongelsey/",
+      "text": "CEO at Xnor.ai"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Carlo C. del Mundo",
+    "headline": "Engineering Manager at Xnor.ai. I'm hiring!",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQEwdsQaxUvyhQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=Rg79HMH8q18Jjr2noiW55ledktqD3t0qNfo6FcGI2dU",
+    "location": "Seattle, Washington",
+    "connections": "500+",
+    "summary": "Engineering manager specializing in systems for deep learning.\n\nI'm hiring for the Machine Learning Engineering and Software Engineering roles at Xnor."
+  }
+}

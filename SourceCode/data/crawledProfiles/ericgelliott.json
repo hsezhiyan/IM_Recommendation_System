@@ -1,0 +1,308 @@
+{
+  "profileAlternative": {
+    "name": "Eric Elliott",
+    "headline": "Make some magic. #JavaScript #crypto #blockchain",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQFuPUQRccd57w/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=ulHHFxXq9DwfwD5r6fSW3UGyhmZuzdWpyDJ5bB_k6-0",
+    "location": "San Francisco, California",
+    "connections": "114",
+    "summary": "Eric Elliott is the author of “Composing Software” and “Programming JavaScript Applications” (O’Reilly). Founder of DevAnywhere.io. Mentor of mentors. Contributed to software experiences for Adobe Systems, Zumba Fitness, The Wall Street Journal, ESPN, BBC, and top recording artists including Usher, Frank Ocean, Metallica, and many more.\n\nHe enjoys a remote lifestyle with the most beautiful woman in the world."
+  },
+  "aboutAlternative": {
+    "text": "Eric Elliott is the author of “Composing Software” and “Programming JavaScript Applications” (O’Reilly). Founder of DevAnywhere.io. Mentor of mentors. Contributed to software experiences for Adobe Systems, Zumba Fitness, The Wall Street Journal, ESPN, BBC, and top recording artists including Usher, Frank Ocean, Metallica, and many more.\n\nHe enjoys a remote lifestyle with the most beautiful woman in the world."
+  },
+  "positions": [
+    {
+      "title": "Cofounder / Director of Engineering",
+      "companyName": "DevAnywhere.io",
+      "description": "Mentor senior level developers and C-level executives in software development and leadership. Mentor the mentors. Product management, project management, business management, marketing, communications.",
+      "date1": "Jan 2017 – Present",
+      "date2": "2 yrs 11 mos"
+    },
+    {
+      "title": "Founder / Engineering Manager",
+      "companyName": "Parallel Drive",
+      "description": "Manage multiple software development projects (team of 6). Product management, business management, marketing. Video content development, documentary film production, field PA.\nNode, JavaScript, React, Crypto, Blockchain, NFTs.",
+      "date1": "Apr 2014 – Present",
+      "date2": "5 yrs 8 mos"
+    },
+    {
+      "title": "Vice President Of Engineering",
+      "companyName": "Po.et",
+      "description": "* Grew team from 2 full time to 9 full time engineers in 2 months\n* Cultivated a development culture built on collaboration, learning, and growth\n* Took the product from a broken prototype to a production-ready system in 8 months\n* Provided architecture help and assisted in code reviews across the full stack\n* Established a reporting system giving stakeholders a clear view of continuous development progress\n* Led standards for engineering quality and process, empowering team members to improve it\n…\nsee more",
+      "date1": "Mar 2018 – Oct 2018",
+      "date2": "8 mos"
+    },
+    {
+      "title": "Computer Scientist (JavaScript)",
+      "companyName": "Adobe",
+      "location": "San Francisco",
+      "description": "Software engineering and systems architecture for Adobe Creative Cloud using JavaScript, Node, Express, Restify, Backbone, TDD. Helped bring Adobe to the subscription software model and integrate online collaboration features into legendary products like Adobe Photoshop.",
+      "date1": "Feb 2013 – Jul 2014",
+      "date2": "1 yr 6 mos"
+    },
+    {
+      "title": "Author",
+      "companyName": "O'Reilly Media",
+      "date1": "2010 – 2014",
+      "date2": "4 yrs"
+    },
+    {
+      "title": "JavaScript Lead",
+      "companyName": "Tout",
+      "description": "Led the JavaScript team for a social video platform used by 85 million monthly users and dozens of top-tier media companies. JavaScript architecture, mentorship, framework design.",
+      "date1": "May 2012 – Jan 2013",
+      "date2": "9 mos"
+    },
+    {
+      "title": "Senior JavaScript Rockstar",
+      "companyName": "BandPage",
+      "location": "San Francisco, CA",
+      "description": "Contributed fundamental JavaScript architecture and implementation to the #1 music app on Facebook, that served over 30 million active users and 500,000 musician profiles - Acquired by YouTube",
+      "date1": "Apr 2011 – May 2012",
+      "date2": "1 yr 2 mos"
+    },
+    {
+      "title": "JavaScript Developer in Charge of Client Side Architecture",
+      "companyName": "Zumba",
+      "description": "JavaScript application architecture, overhauled shopping cart UX, leading to multimillion dollar revenue improvements. Advised on social media marketing, helping to grow Facebook followers from 60k to over 2 million in a few months.",
+      "date1": "Oct 2010 – Apr 2011",
+      "date2": "7 mos"
+    }
+  ],
+  "educations": [],
+  "skills": [
+    {
+      "title": "JavaScript",
+      "count": "14"
+    },
+    {
+      "title": "Team Building",
+      "count": "3"
+    },
+    {
+      "title": "Leadership",
+      "count": "3"
+    },
+    {
+      "title": "Product Development",
+      "count": "1"
+    },
+    {
+      "title": "Programming"
+    },
+    {
+      "title": "Content Marketing"
+    },
+    {
+      "title": "User Experience",
+      "count": "5"
+    },
+    {
+      "title": "Digital Marketing"
+    },
+    {
+      "title": "Usability Testing",
+      "count": "1"
+    },
+    {
+      "title": "Web Services",
+      "count": "1"
+    },
+    {
+      "title": "Social Media",
+      "count": "2"
+    },
+    {
+      "title": "Scalability",
+      "count": "4"
+    },
+    {
+      "title": "Web Applications",
+      "count": "5"
+    },
+    {
+      "title": "Blogging",
+      "count": "2"
+    },
+    {
+      "title": "Software Development"
+    },
+    {
+      "title": "Agile Methodologies"
+    },
+    {
+      "title": "Project Management"
+    },
+    {
+      "title": "Product Management"
+    },
+    {
+      "title": "Strategy"
+    },
+    {
+      "title": "Cloud Computing"
+    },
+    {
+      "title": "Distributed Systems"
+    },
+    {
+      "title": "Continuous Integration"
+    },
+    {
+      "title": "Software Development Life Cycle (SDLC)"
+    },
+    {
+      "title": "Software Project Management"
+    },
+    {
+      "title": "Blockchain"
+    },
+    {
+      "title": "React.js"
+    },
+    {
+      "title": "Redux"
+    },
+    {
+      "title": "Node.js",
+      "count": "8"
+    },
+    {
+      "title": "HTML5",
+      "count": "4"
+    },
+    {
+      "title": "SaaS"
+    },
+    {
+      "title": "CSS"
+    },
+    {
+      "title": "Team Leadership",
+      "count": "1"
+    },
+    {
+      "title": "Training",
+      "count": "1"
+    },
+    {
+      "title": "Management",
+      "count": "3"
+    },
+    {
+      "title": "Product Strategy"
+    },
+    {
+      "title": "Technology Education"
+    },
+    {
+      "title": "Organizational Culture"
+    },
+    {
+      "title": "Decentralization"
+    },
+    {
+      "title": "Crypto"
+    },
+    {
+      "title": "Protocol Development"
+    },
+    {
+      "title": "Application Architecture",
+      "count": "1"
+    },
+    {
+      "title": "Facebook API",
+      "count": "1"
+    },
+    {
+      "title": "APIs",
+      "count": "1"
+    },
+    {
+      "title": "Framework Design",
+      "count": "1"
+    },
+    {
+      "title": "PaaS"
+    },
+    {
+      "title": "API Design"
+    },
+    {
+      "title": "Continuous Integration and Continuous Delivery (CI/CD)"
+    },
+    {
+      "title": "Continuous Delivery"
+    },
+    {
+      "title": "Software Product Management"
+    },
+    {
+      "title": "Engineering Leadership"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "14",
+    "receivedCount": "5",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/jeremiak/",
+        "text": "Eric is not only a fantastic developer, but a great voice to have on the team. He is a skilled engineer with a strong philosophical leaning towards testable, readable code. Not only does Eric bring JavaScript experience to the table, but the breadth of his knowledge is evident as the conversation winds from testing to new trends such as hypermedia APIs to code paradigms. Additionally, Eric was always available for questions on JavaScript & Node.js development and offered outstanding advice freely. I would welcome the opportunity to work with Eric again in the future.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/jonathancobb/",
+        "text": "Eric is, hands-down, the sharpest JavaScript developer I've ever worked with. He knows the language inside and out, and stays up to speed (and occasionally pushes the boundaries himself) with the latest design patterns, best practices and useful libraries. At Tout, he helped put our JavaScript architecture on a much firmer foundation, standardizing around a core set of abstractions, which were then implemented in code, that will serve us well for a long time to come. I look forward to the day we can work together again.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/michaeldowning/",
+        "text": "Eric has a very strong technical toolset and deep experience in development that was extremely useful to our organization, he would be a solid contributor to any development team."
+      },
+      {
+        "user": "https://www.linkedin.com/in/douglasjarquin/",
+        "text": "Eric has always displayed an elegant understanding of Javascript, both in its construction and implementation. With the language becoming more and more important to technology organizations, having an elite developer like Eric on board can really ease the pains of achieving success."
+      },
+      {
+        "user": "https://www.linkedin.com/in/cmartini/",
+        "text": "Eric is the most thorough, detail oriented, knowledgeable JavaScript developer I have worked with in my entire career. His solutions are both innovative, scalable and bullet-proof. He is also friendly & sociable. Any organization would be lucky to have him on their team!"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/wennergr/",
+        "text": "Tobias is a great engineer. He's creative thinker who delivers clear API designs and scalable software. He's also a great collaborator, mentor, and leader. I would love to work with him again."
+      },
+      {
+        "user": "https://www.linkedin.com/in/diurnalist/",
+        "text": "Jason has a great sense of UX design and was largely responsible for the strong growth and adoption of BandPage products. Jason's great work is behind the web experience of 500,000 bands, including many household names. Frank Ocean, Usher, and Metallica to name a few.\r\n\r\nJason is also a great collaborator, and his talent and work ethic are motivational and inspiring to other team members. His ability to balance creative aesthetics and technical implementation makes him a tremendous asset -- particularly if you need to prototype and get a product to market quickly. In short, if you have a chance to hire Jason, jump on it. Candidates with Jason's qualities are very rare."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "3",
+      "items": [
+        "RITEway Testing Framework",
+        "Cuid",
+        "JavaScript Scene Blog"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "Composing Software",
+        "Programming JavaScript Applications"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Eric Elliott",
+    "headline": "Make some magic. #JavaScript #crypto #blockchain",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQFuPUQRccd57w/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=ulHHFxXq9DwfwD5r6fSW3UGyhmZuzdWpyDJ5bB_k6-0",
+    "location": "San Francisco, California",
+    "connections": "114",
+    "summary": "Eric Elliott is the author of “Composing Software” and “Programming JavaScript Applications” (O’Reilly). Founder of DevAnywhere.io. Mentor of mentors. Contributed to software experiences for Adobe Systems, Zumba Fitness, The Wall Street Journal, ESPN, BBC, and top recording artists including Usher, Frank Ocean, Metallica, and many more.\n\nHe enjoys a remote lifestyle with the most beautiful woman in the world."
+  }
+}

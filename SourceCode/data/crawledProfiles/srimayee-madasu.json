@@ -1,0 +1,412 @@
+{
+  "profileAlternative": {
+    "name": "srimayee madasu",
+    "headline": "Team Lead and Java, Python and AWS based Blockchain Developer",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQFlzJm6DO8pag/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=Mtx4ynLGy81jfgJgkzOVX1IDMr8UQO2dmMdXnjarUg4",
+    "location": "Raleigh-Durham, North Carolina Area",
+    "connections": "242",
+    "summary": "Senior Lead Full Stack Developer with almost 10 years of professional experience in architecting and developing applications for various domains including Healthcare, Retail, Mortgage and Finance. I have expertise in technologies like Cloud, Java, Oracle, Python, Android and Blockchain. With leadership skills and technical expertise combined, I am leading and mentoring teams of different sizes to achieve project success. Strong information technology professional with a master’s in software engineering and computer science."
+  },
+  "aboutAlternative": {
+    "text": "Senior Lead Full Stack Developer with almost 10 years of professional experience in architecting and developing applications for various domains including Healthcare, Retail, Mortgage and Finance. I have expertise in technologies like Cloud, Java, Oracle, Python, Android and Blockchain. With leadership skills and technical expertise combined, I am leading and mentoring teams of different sizes to achieve project success. Strong information technology professional with a master’s in software engineering and computer science."
+  },
+  "positions": [
+    {
+      "title": "Full Stack Engineer",
+      "companyName": "Fidelity Investments",
+      "location": "Raleigh-Durham, North Carolina Area",
+      "date1": "Sep 2019 – Present",
+      "date2": "3 mos"
+    },
+    {
+      "title": "Google FLutter Developer: PharmEasy",
+      "companyName": "SELF",
+      "description": "PharmEasy is a Pharmacy app written using Google Flutter cross platform framework used by customers to refill prescriptions, transfer prescriptions. PharmEasy can be viewed on Android, IOS, Windows desktop, Linux Desktop and Web.",
+      "date1": "Jun 2019 – Present",
+      "date2": "6 mos"
+    },
+    {
+      "title": "FibonacciSolutions",
+      "location": "Fibonacci solutions, Raleigh-Durham, North Carolina Area",
+      "description": "",
+      "date1": "Jan 2019 – Sep 2019",
+      "date2": "9 mos",
+      "roles": [
+        {
+          "title": "Team Lead and Senior Java Blockchain Developer: Thalr Cryptocurrency",
+          "date1": "Jan 2019 – Sep 2019",
+          "date2": "9 mos",
+          "location": "Fibonacci solutions, Raleigh-Durham, North Carolina Area"
+        },
+        {
+          "title": "Lead Full stack developer: Auditchain MVP",
+          "date1": "Apr 2019 – Jun 2019",
+          "date2": "3 mos",
+          "location": "Fibonacci solutions, Raleigh-Durham, North Carolina Area"
+        },
+        {
+          "title": "CLoud API developer: Collaboration Platform (Blockchain as a Service).",
+          "date1": "Feb 2019 – Apr 2019",
+          "date2": "3 mos",
+          "location": "Fibonacci solutions, Raleigh-Durham, North Carolina Area"
+        }
+      ]
+    },
+    {
+      "title": "Title\nTeam Lead and Senior Java Blockchain Developer: Thalr Cryptocurrency",
+      "location": "Fibonacci solutions, Raleigh-Durham, North Carolina Area",
+      "date1": "Jan 2019 – Sep 2019",
+      "date2": "9 mos",
+      "roles": [
+        {
+          "title": "Team Lead and Senior Java Blockchain Developer: Thalr Cryptocurrency",
+          "date1": "Jan 2019 – Sep 2019",
+          "date2": "9 mos",
+          "location": "Fibonacci solutions, Raleigh-Durham, North Carolina Area"
+        }
+      ]
+    },
+    {
+      "title": "Title\nLead Full stack developer: Auditchain MVP",
+      "location": "Fibonacci solutions, Raleigh-Durham, North Carolina Area",
+      "description": "",
+      "date1": "Apr 2019 – Jun 2019",
+      "date2": "3 mos",
+      "roles": [
+        {
+          "title": "Lead Full stack developer: Auditchain MVP",
+          "date1": "Apr 2019 – Jun 2019",
+          "date2": "3 mos",
+          "location": "Fibonacci solutions, Raleigh-Durham, North Carolina Area"
+        }
+      ]
+    },
+    {
+      "title": "Title\nCLoud API developer: Collaboration Platform (Blockchain as a Service).",
+      "location": "Fibonacci solutions, Raleigh-Durham, North Carolina Area",
+      "date1": "Feb 2019 – Apr 2019",
+      "date2": "3 mos",
+      "roles": [
+        {
+          "title": "CLoud API developer: Collaboration Platform (Blockchain as a Service).",
+          "date1": "Feb 2019 – Apr 2019",
+          "date2": "3 mos",
+          "location": "Fibonacci solutions, Raleigh-Durham, North Carolina Area"
+        }
+      ]
+    },
+    {
+      "title": "Lead Java and oracle developer",
+      "companyName": "FDA",
+      "location": "CNIPS, Rockville, MD",
+      "date1": "Nov 2013 – Feb 2018",
+      "date2": "4 yrs 4 mos"
+    },
+    {
+      "title": "Sr. Java Developer",
+      "companyName": "Freddie Mac",
+      "location": "Mc Lean, VA",
+      "date1": "Apr 2013 – Nov 2013",
+      "date2": "8 mos"
+    },
+    {
+      "title": "Sr.java developer",
+      "companyName": "FDA",
+      "location": "CNIPS, Rockville, MD",
+      "date1": "May 2012 – Apr 2013",
+      "date2": "1 yr"
+    },
+    {
+      "title": "Sr.Java Developer",
+      "companyName": "National Institutes of Health",
+      "date1": "Nov 2011 – May 2012",
+      "date2": "7 mos"
+    },
+    {
+      "title": "Java Developer",
+      "companyName": "Capital Technology Information Services",
+      "location": "Rockville MD",
+      "date1": "Nov 2011 – May 2012",
+      "date2": "7 mos"
+    },
+    {
+      "title": "Java Developer",
+      "companyName": "Walmart",
+      "location": "Bentonville Arkansas",
+      "date1": "Oct 2010 – Oct 2011",
+      "date2": "1 yr 1 mo"
+    },
+    {
+      "title": "Junior Java Developer",
+      "companyName": "Teleparadigm Networks Ltd",
+      "location": "Hyderabad Area, India",
+      "date1": "Nov 2007 – Oct 2008",
+      "date2": "1 yr"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Jawaharlal Nehru Technological University",
+      "degree": "Bachelor's degree",
+      "fieldofstudy": "Computer Science"
+    },
+    {
+      "title": "Stratford University",
+      "degree": "Master's degree",
+      "fieldofstudy": "Computer Software Engineering"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Java",
+      "count": "24"
+    },
+    {
+      "title": "Oracle",
+      "count": "11"
+    },
+    {
+      "title": "Spring",
+      "count": "7"
+    },
+    {
+      "title": "Agile Methodologies",
+      "count": "12"
+    },
+    {
+      "title": "Web Services",
+      "count": "8"
+    },
+    {
+      "title": "Scrum",
+      "count": "4"
+    },
+    {
+      "title": "Android Development",
+      "count": "1"
+    },
+    {
+      "title": "XML",
+      "count": "10"
+    },
+    {
+      "title": "SQL",
+      "count": "11"
+    },
+    {
+      "title": "JMS",
+      "count": "10"
+    },
+    {
+      "title": "JavaScript",
+      "count": "6"
+    },
+    {
+      "title": "Java Enterprise Edition",
+      "count": "6"
+    },
+    {
+      "title": "PL/SQL",
+      "count": "5"
+    },
+    {
+      "title": "JSP",
+      "count": "4"
+    },
+    {
+      "title": "Hibernate",
+      "count": "3"
+    },
+    {
+      "title": "Struts",
+      "count": "3"
+    },
+    {
+      "title": "EJB",
+      "count": "3"
+    },
+    {
+      "title": "JPA",
+      "count": "2"
+    },
+    {
+      "title": "Weblogic",
+      "count": "2"
+    },
+    {
+      "title": "ClearCase",
+      "count": "2"
+    },
+    {
+      "title": "JUnit",
+      "count": "2"
+    },
+    {
+      "title": "Tomcat",
+      "count": "2"
+    },
+    {
+      "title": "JDBC",
+      "count": "2"
+    },
+    {
+      "title": "JBoss Application Server",
+      "count": "2"
+    },
+    {
+      "title": "SOAP"
+    },
+    {
+      "title": "jQuery"
+    },
+    {
+      "title": "RESTful WebServices",
+      "count": "1"
+    },
+    {
+      "title": "XSLT"
+    },
+    {
+      "title": "JSF"
+    },
+    {
+      "title": "Maven"
+    },
+    {
+      "title": "DB2"
+    },
+    {
+      "title": "REST"
+    },
+    {
+      "title": "Servlets"
+    },
+    {
+      "title": "Oracle Database"
+    },
+    {
+      "title": "Oracle SQL Developer"
+    },
+    {
+      "title": "Amazon Web Services (AWS)",
+      "count": "1"
+    },
+    {
+      "title": "Docker"
+    },
+    {
+      "title": "Angular"
+    },
+    {
+      "title": "HTML"
+    },
+    {
+      "title": "google firebase"
+    },
+    {
+      "title": "Flutter"
+    },
+    {
+      "title": "micro services"
+    },
+    {
+      "title": "Schematron"
+    },
+    {
+      "title": "MarkLogic"
+    },
+    {
+      "title": "JAXB"
+    },
+    {
+      "title": "XSL"
+    },
+    {
+      "title": "Stored Procedures"
+    },
+    {
+      "title": "Google App Engine"
+    },
+    {
+      "title": "J2EE Application Development",
+      "count": "2"
+    },
+    {
+      "title": "Dart"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "3",
+      "items": [
+        "AWS Certified Solutions Architect - Associate 2018",
+        "Programming with Python",
+        "The Complete Flutter Development Bootcamp Using Dart"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "Certificate of Recognition",
+        "FDA Group Recognition"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/christine-chen-87406317b/",
+      "text": "Java based Blockchain Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/supriya-ramireddy/",
+      "text": "Software Developer | Full Stack Java Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/vijayk916/",
+      "text": "Working as a Full Stack Java Developer with IoT platform experience."
+    },
+    {
+      "user": "https://www.linkedin.com/in/mallikharjuna-bheemavarapu-0372279b/",
+      "text": "Senior Java/Spring Boot/Micro Services/REST/Cloud Native Apps/No-SQL Engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/vijay-maddala-1356627/",
+      "text": "Principal Software Engineer at Fidelity Investments"
+    },
+    {
+      "user": "https://www.linkedin.com/in/rajesh-jillella-4389b15/",
+      "text": "Principal Software Engineer at Fidelity Investments"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tarun-kashyap-pulijala-92520519/",
+      "text": "Senior Software Developer at Fidelity Investments"
+    },
+    {
+      "user": "https://www.linkedin.com/in/pd272/",
+      "text": "Fullstack Software Engineer at Fidelity Investments"
+    },
+    {
+      "user": "https://www.linkedin.com/in/krishna-makineni-b0a153b/",
+      "text": "Manager - Software Engineering at Fidelity Investments"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ozair-shareef-32b319153/",
+      "text": "Java Developer Associate @Blue Cross Blue Shield NC"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "srimayee madasu",
+    "headline": "Team Lead and Java, Python and AWS based Blockchain Developer",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQFlzJm6DO8pag/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=Mtx4ynLGy81jfgJgkzOVX1IDMr8UQO2dmMdXnjarUg4",
+    "location": "Raleigh-Durham, North Carolina Area",
+    "connections": "242",
+    "summary": "Senior Lead Full Stack Developer with almost 10 years of professional experience in architecting and developing applications for various domains including Healthcare, Retail, Mortgage and Finance. I have expertise in technologies like Cloud, Java, Oracle, Python, Android and Blockchain. With leadership skills and technical expertise combined, I am leading and mentoring teams of different sizes to achieve project success. Strong information technology professional with a master’s in software engineering and computer science."
+  }
+}

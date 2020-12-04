@@ -1,0 +1,228 @@
+{
+  "profileAlternative": {
+    "name": "Philippe Parant",
+    "headline": "Senior Software Developer, Architect and Java/JEE Advisor",
+    "location": "Crolles, Rhône-Alpes, France",
+    "connections": "102",
+    "summary": "Understand, learn, master and leverage software technologies and best practices to improve business process and maximize business value"
+  },
+  "aboutAlternative": {
+    "text": "Understand, learn, master and leverage software technologies and best practices to improve business process and maximize business value"
+  },
+  "positions": [
+    {
+      "title": "Enterprise software developer, portfolio owner, Java/JEE advisor",
+      "companyName": "STMicroelectronics",
+      "location": "Crolles, France",
+      "description": "Maintenance of proven (12 years) Java/JEE enterprise web applications framework, support for application owners and developer community\nCreation, deployment and continuous improvement of a software factory: JEE6/7 application servers, Continuous Integration (CI), Content Management System (CMS), development environment (customized IDE), Quality Assurance (QA) and testing tooling for Behavioral and Test Driven Developments (BDD, TDD), guidelines, components, support for agile developments\nSuccessful co-development of complex reporting applications with internal core team or in collaboration with subcontractors, agile project leadership\nResponsible for 8 line management applications portfolio, regular reviews and evolutions with representative key users\nFigures: hundreds of users (clean room, industrial engineering and manufacturing departments), 40+ web applications, 2M+ lines of code\n…\nsee more",
+      "date1": "Jul 2008 – Present",
+      "date2": "11 yrs 5 mos"
+    },
+    {
+      "title": "STMicroelectronics",
+      "description": "Preparation of a validation and benchmark demonstrator for single chip products (smartphone market) at application level (Java ME, Android), involving Divisions and external partners; technical advisor\nInvolvement in product definitions and roadmaps\nParticipation and follow-up of standardization bodies (OMA, OMTP, JCP)\nCoordination of a security working group across the Company\n…\nsee more",
+      "date1": "2005 – 2008",
+      "date2": "3 yrs",
+      "roles": [
+        {
+          "title": "Marketing engineer for mobile market",
+          "date1": "2005 – 2008",
+          "date2": "3 yrs"
+        },
+        {
+          "title": "Sales engineer for mobile market",
+          "date1": "2001 – 2005",
+          "date2": "4 yrs"
+        },
+        {
+          "title": "System-On-a-Chip project leader",
+          "date1": "1997 – 2001",
+          "date2": "4 yrs"
+        },
+        {
+          "title": "CPU Design / Team Leader",
+          "date1": "1994 – 1997",
+          "date2": "3 yrs"
+        },
+        {
+          "title": "Design engineer and team leader",
+          "date1": "1992 – 1994",
+          "date2": "2 yrs"
+        }
+      ]
+    },
+    {
+      "title": "Title\nMarketing engineer for mobile market",
+      "description": "Preparation of a validation and benchmark demonstrator for single chip products (smartphone market) at application level (Java ME, Android), involving Divisions and external partners; technical advisor\nInvolvement in product definitions and roadmaps\nParticipation and follow-up of standardization bodies (OMA, OMTP, JCP)\nCoordination of a security working group across the Company\n…\nsee more",
+      "date1": "2005 – 2008",
+      "date2": "3 yrs",
+      "roles": [
+        {
+          "title": "Marketing engineer for mobile market",
+          "date1": "2005 – 2008",
+          "date2": "3 yrs"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSales engineer for mobile market",
+      "description": "Promotion, training and recommendations related to mobile Java technology (attendance to JavaOne 2004 in San Francisco)\nRequirement management and customer support on mobile application processor at application level\nTechnical, business trend analysis (handset manufacturers, mobile operators)\nDevelopment of Java based mobile multimedia demonstrator (MPEG4)\n…\nsee more",
+      "date1": "2001 – 2005",
+      "date2": "4 yrs",
+      "roles": [
+        {
+          "title": "Sales engineer for mobile market",
+          "date1": "2001 – 2005",
+          "date2": "4 yrs"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSystem-On-a-Chip project leader",
+      "description": "RICS+DSP architecture for digital baseband, hardware / software partitioning\nDevelopment of standard software library, voice coders (FR, EFR, AMR) and multimedia processing (MP3, JPEG, H263) for ARM and 32-bit DSP",
+      "date1": "1997 – 2001",
+      "date2": "4 yrs",
+      "roles": [
+        {
+          "title": "System-On-a-Chip project leader",
+          "date1": "1997 – 2001",
+          "date2": "4 yrs"
+        }
+      ]
+    },
+    {
+      "title": "Title\nCPU Design / Team Leader",
+      "description": "Design of the Arithmetic Unit for a 64-bit CPU\nInternational team (150 people from various countries, mainly France/UK)",
+      "date1": "1994 – 1997",
+      "date2": "3 yrs",
+      "roles": [
+        {
+          "title": "CPU Design / Team Leader",
+          "date1": "1994 – 1997",
+          "date2": "3 yrs"
+        }
+      ]
+    },
+    {
+      "title": "Title\nDesign engineer and team leader",
+      "description": "Lead of the Arithmetic Unit design for a 64-bit microprocessor in an international design team (150 people, 10+ nationalities)\n16-bit DSP design (patent), CMOS library characterization and design",
+      "date1": "1992 – 1994",
+      "date2": "2 yrs",
+      "roles": [
+        {
+          "title": "Design engineer and team leader",
+          "date1": "1992 – 1994",
+          "date2": "2 yrs"
+        }
+      ]
+    },
+    {
+      "title": "IC designer",
+      "companyName": "Thomson CSF",
+      "location": "Saint Egreve, France",
+      "description": "CMOS Digital library cells and components",
+      "date1": "1990 – 1992",
+      "date2": "2 yrs"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Ecole nationale supérieure de l'Aéronautique et de l'Espace",
+      "date1": "1987",
+      "date2": "1990"
+    },
+    {
+      "title": "Lycée Rouvière",
+      "date1": "1985",
+      "date2": "1987"
+    },
+    {
+      "title": "Jean Perrin"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Languages: Java8, SQL, C, XML, C++, UML",
+      "count": "1"
+    },
+    {
+      "title": "Java EE 7, Java SE 8",
+      "count": "1"
+    },
+    {
+      "title": "Application Servers: JBoss AS, Wildfly 8",
+      "count": "1"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "2",
+      "items": [
+        "English",
+        "French"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Parallel multiplication logic circuit"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/patrice-gouedo-6749346/",
+      "text": "Ingénieur Décisionnel"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jreygrobellet/",
+      "text": "IT Decisional Solutions section manager chez STMicroelectronics"
+    },
+    {
+      "user": "https://www.linkedin.com/in/bellet-sabine-82257755/",
+      "text": "Team Leader IT chez ST Microelectronics"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sandrine-fixot-54125987/",
+      "text": "--"
+    },
+    {
+      "user": "https://www.linkedin.com/in/thomas-eberhardt-93401750/",
+      "text": "--"
+    },
+    {
+      "user": "https://www.linkedin.com/in/marie-no%C3%ABlle-jouve-29130647/",
+      "text": "négociatrice en immobilier chez MH IMMO GESTION"
+    },
+    {
+      "user": "https://www.linkedin.com/in/corinnejeannet/",
+      "text": "Team Leader IT chez STMicroelectronics"
+    },
+    {
+      "user": "https://www.linkedin.com/in/r%C3%A9mi-poinas-36b0b529/",
+      "text": "Senior IT Project Manager & IT Team Leader"
+    },
+    {
+      "user": "https://www.linkedin.com/in/noel-dao-236a072/",
+      "text": "ActivePivot and Java JEE Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/khalid-boulite-1a7558a/",
+      "text": "Senior developer Java/JEE - BI - SAP BO"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Philippe Parant",
+    "headline": "Senior Software Developer, Architect and Java/JEE Advisor",
+    "location": "Crolles, Rhône-Alpes, France",
+    "connections": "102",
+    "summary": "Understand, learn, master and leverage software technologies and best practices to improve business process and maximize business value"
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "profileAlternative": {
+    "name": "Amit Eshet",
+    "headline": "DBA (Oracle & SQL Server) at TAMA",
+    "location": "Israel",
+    "connections": "155",
+    "summary": "• 10+ years Oracle and SQL Server DBA\n• Vast experience in administration and maintenance of large number of distributed\ndatabases both Oracle and SQL Server\n• Implementation and administration of SOA Suite(10g, 11g), Oracle applications, OEM 12c\n• Oracle Database upgrades: 9i 32bit --> 10g 64bit --> 11R2 64bit\n• SQL Server upgrades: sql2000 --> sql2008 --> sql2012\n• Implement SQL Server Cluster configuration\n• SQL Server replication over remote (overseas) servers (merge and transactional)\n\nAnd much more (perfomance tunning, backup/recovery methods, automatic clonning, SSIS , SSRS)..."
+  },
+  "aboutAlternative": {
+    "text": "• 10+ years Oracle and SQL Server DBA\n• Vast experience in administration and maintenance of large number of distributed\ndatabases both Oracle and SQL Server\n• Implementation and administration of SOA Suite(10g, 11g), Oracle applications, OEM 12c\n• Oracle Database upgrades: 9i 32bit --> 10g 64bit --> 11R2 64bit\n• SQL Server upgrades: sql2000 --> sql2008 --> sql2012\n• Implement SQL Server Cluster configuration\n• SQL Server replication over remote (overseas) servers (merge and transactional)\n\nAnd much more (perfomance tunning, backup/recovery methods, automatic clonning, SSIS , SSRS)..."
+  },
+  "positions": [
+    {
+      "title": "Senior DBA (Oracle & SQL Server)",
+      "companyName": "Tama Plastic Industry",
+      "date1": "Jun 2006 – Present",
+      "date2": "13 yrs 6 mos"
+    },
+    {
+      "title": "Oracle and SQL Server DBA",
+      "companyName": "Intel Corporation",
+      "location": "Haifa Israel",
+      "date1": "Apr 2002 – Jun 2006",
+      "date2": "4 yrs 3 mos"
+    },
+    {
+      "title": "Oracle DBA",
+      "companyName": "ECTEL",
+      "location": "Petach Tikva - Israel",
+      "date1": "Jan 2000 – Apr 2002",
+      "date2": "2 yrs 4 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Israel Open university",
+      "degree": "Bachelor of Applied Science (B.A.Sc.)",
+      "fieldofstudy": "Computer Science",
+      "date1": "1999",
+      "date2": "2003"
+    },
+    {
+      "title": "Ben-Gurion University of the Negev",
+      "degree": "Bachelor of Applied Science (B.A.Sc.)",
+      "fieldofstudy": "Biology/Biological Sciences, General",
+      "date1": "1990",
+      "date2": "1993"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Microsoft SQL Server",
+      "count": "7"
+    },
+    {
+      "title": "SQL",
+      "count": "6"
+    },
+    {
+      "title": "Performance Tuning",
+      "count": "5"
+    },
+    {
+      "title": "Database Design",
+      "count": "3"
+    },
+    {
+      "title": "ETL",
+      "count": "3"
+    },
+    {
+      "title": "Data Warehousing",
+      "count": "3"
+    },
+    {
+      "title": "Database Administration",
+      "count": "3"
+    },
+    {
+      "title": "SSIS",
+      "count": "5"
+    },
+    {
+      "title": "Oracle Applications",
+      "count": "5"
+    },
+    {
+      "title": "Relational Databases",
+      "count": "3"
+    },
+    {
+      "title": "T-SQL",
+      "count": "3"
+    },
+    {
+      "title": "PL/SQL",
+      "count": "2"
+    },
+    {
+      "title": "SQL Tuning",
+      "count": "4"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/yuval-eisenberg-72950b29/",
+      "text": "DBA ORACLE אפליקטיבי"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sveta-topchiy-3765364a/",
+      "text": "DBA ORACLE at Phoenix"
+    },
+    {
+      "user": "https://www.linkedin.com/in/anat-chezana-99b07a10b/",
+      "text": "Oracle DBA at Amdocs"
+    },
+    {
+      "user": "https://www.linkedin.com/in/raisa-doroshev-495560b/",
+      "text": "DBA Oracle at Negevtech"
+    },
+    {
+      "user": "https://www.linkedin.com/in/anna-rybachkova-2087a721/",
+      "text": "Oracle certified professional - DBA"
+    },
+    {
+      "user": "https://www.linkedin.com/in/marica-zinger-12532/",
+      "text": "Senior Oracle DBA at Freelanser"
+    },
+    {
+      "user": "https://www.linkedin.com/in/limor-bachar-16b62a2a/",
+      "text": "dba oracle at First International Bank of Israel"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yehoshua-krochmale-45795410/",
+      "text": "DBA Oracle at SuperCom"
+    },
+    {
+      "user": "https://www.linkedin.com/in/roni-yafe-24b89917/",
+      "text": "DBA Oracle And Mssql At ZIM Intergrated Shipping Service LTD."
+    },
+    {
+      "user": "https://www.linkedin.com/in/uri-lerner-2361478/",
+      "text": "Oracle DBA at LADPC"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Amit Eshet",
+    "headline": "DBA (Oracle & SQL Server) at TAMA",
+    "location": "Israel",
+    "connections": "155",
+    "summary": "• 10+ years Oracle and SQL Server DBA\n• Vast experience in administration and maintenance of large number of distributed\ndatabases both Oracle and SQL Server\n• Implementation and administration of SOA Suite(10g, 11g), Oracle applications, OEM 12c\n• Oracle Database upgrades: 9i 32bit --> 10g 64bit --> 11R2 64bit\n• SQL Server upgrades: sql2000 --> sql2008 --> sql2012\n• Implement SQL Server Cluster configuration\n• SQL Server replication over remote (overseas) servers (merge and transactional)\n\nAnd much more (perfomance tunning, backup/recovery methods, automatic clonning, SSIS , SSRS)..."
+  }
+}

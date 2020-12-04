@@ -1,0 +1,135 @@
+{
+  "profileAlternative": {
+    "name": "rakhi sharma",
+    "headline": "Python Developer",
+    "location": "Jaipur, Rajasthan, India",
+    "connections": "500+",
+    "summary": "Experienced Python Developer with a demonstrated history of working in the IT industry. Skilled in selenium Webdriver, Beautiful soup, PYQT, PYTHON, MYSQL, Ubuntu . Strong engineering professional with a Engineer's Degree focused in Electronics and Communications Engineering from poornima university."
+  },
+  "aboutAlternative": {
+    "text": "Experienced Python Developer with a demonstrated history of working in the IT industry. Skilled in selenium Webdriver, Beautiful soup, PYQT, PYTHON, MYSQL, Ubuntu . Strong engineering professional with a Engineer's Degree focused in Electronics and Communications Engineering from poornima university."
+  },
+  "positions": [
+    {
+      "title": "Python Developer",
+      "companyName": "Vertexplus Softwares Pvt. Ltd.",
+      "date1": "Dec 2017 – Present",
+      "date2": "2 yrs"
+    }
+  ],
+  "educations": [
+    {
+      "title": "poornima university",
+      "degree": "Engineer's Degree",
+      "fieldofstudy": "Electronics and Communications Engineering",
+      "date1": "2012",
+      "date2": "2014"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Microsoft Office",
+      "count": "8"
+    },
+    {
+      "title": "Microsoft Excel",
+      "count": "7"
+    },
+    {
+      "title": "Microsoft Word",
+      "count": "5"
+    },
+    {
+      "title": "PowerPoint",
+      "count": "4"
+    },
+    {
+      "title": "Windows",
+      "count": "4"
+    },
+    {
+      "title": "C",
+      "count": "3"
+    },
+    {
+      "title": "C",
+      "count": "1"
+    },
+    {
+      "title": "Python (Programming Language)"
+    },
+    {
+      "title": "Leadership",
+      "count": "3"
+    },
+    {
+      "title": "Team Management",
+      "count": "3"
+    },
+    {
+      "title": "Public Speaking",
+      "count": "2"
+    },
+    {
+      "title": "English",
+      "count": "1"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/priya-singh-763258b7/",
+      "text": "Python Developer at The NineHertz"
+    },
+    {
+      "user": "https://www.linkedin.com/in/taruna-gupta-aa03b0108/",
+      "text": "UI / UX Designer at Metacube Software Pvt Ltd"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sneha-shinde-95ba6a78/",
+      "text": "Python/Django Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/megha-bansal-960877114/",
+      "text": "Python Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tiwari-vishakha-586ab1113/",
+      "text": "Student at JECRC University"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tanvi-tayagi-83630a173/",
+      "text": "IT Manager at Freelancer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/rishabh-jhalani-903b20159/",
+      "text": "Python Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/akashpatni/",
+      "text": "Python / Django Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/lalit-jangir-1b419482/",
+      "text": "UI Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/dharmendrabajiya/",
+      "text": "python developer"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "rakhi sharma",
+    "headline": "Python Developer",
+    "location": "Jaipur, Rajasthan, India",
+    "connections": "500+",
+    "summary": "Experienced Python Developer with a demonstrated history of working in the IT industry. Skilled in selenium Webdriver, Beautiful soup, PYQT, PYTHON, MYSQL, Ubuntu . Strong engineering professional with a Engineer's Degree focused in Electronics and Communications Engineering from poornima university."
+  }
+}

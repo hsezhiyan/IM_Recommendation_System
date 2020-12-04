@@ -1,0 +1,159 @@
+{
+  "profileAlternative": {
+    "name": "Chandler Carruth",
+    "headline": "Principal Software Engineer at Google and Open Source Software Developer",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQGQ3ME7oS0GRw/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=bKMw6LKJwDIBvvFDeOgTHicgfEbQyIpmXAipZbGJBiY",
+    "location": "San Jose, California",
+    "connections": "346",
+    "summary": "Specialties: Programming, Software Design, Object-Oriented Design, Project Management\nDevelopment Infrastructure, Open Source Software Development, Dispersed Team Colloboration\n3D Graphics, 3D Physics, Program Optimization, Language Theory, Compiler Writing\nC, C++, assembly language, shell"
+  },
+  "aboutAlternative": {
+    "text": "Specialties: Programming, Software Design, Object-Oriented Design, Project Management\nDevelopment Infrastructure, Open Source Software Development, Dispersed Team Colloboration\n3D Graphics, 3D Physics, Program Optimization, Language Theory, Compiler Writing\nC, C++, assembly language, shell"
+  },
+  "positions": [
+    {
+      "title": "Principal Software Engineer",
+      "companyName": "Google",
+      "location": "San Francisco Bay Area",
+      "description": "I am the technical lead for Google's internal C++ developer platform. As part of that I work on compilers, runtimes, and libraries to support all of Google's C++ developers, helping them write better code more easily.\n\nI also lead Google's LLVM team, the primary team using and contributing to LLVM, Clang, LLD, and the various other parts of the LLVM project.\n\nI help represent Google's interests on the ISO C++ Standards Committee. I also speak at a wide range of conferences to help spread awareness of modern C++, programming tools for C++ developers, compilers, and optimizers. My mission is for C++ programmers everywhere to be able to easily write, debug, and maintain efficient and elegant code on the platform of their choice.\n…\nsee more",
+      "date1": "Jan 2008 – Present",
+      "date2": "11 yrs 11 mos"
+    },
+    {
+      "title": "Member Board of Directors",
+      "companyName": "Standard C++ Foundation",
+      "description": "I serve on the Board for the Standard C++ Foundation, a Washington 501(c)(6) not-for-profit organization whose purpose is to support the C++ software developer community and promote the understanding and use of modern Standard C++ on all compilers and platforms.\n\nhttp://isocpp.org/about\n…\nsee more",
+      "date1": "Oct 2012 – Present",
+      "date2": "7 yrs 2 mos"
+    },
+    {
+      "title": "Google Representative and Study Group Chair",
+      "companyName": "ISO/IEC JTC1/SC22/WG21 - The C++ Standards Committee",
+      "description": "I help represent Google on the C++ Standards Committee, and chair the study group (SG7) on reflection in C++.",
+      "date1": "Feb 2012 – Present",
+      "date2": "7 yrs 10 mos"
+    },
+    {
+      "title": "Developer",
+      "companyName": "Clang",
+      "description": "Starting in late 2009, I began to help the Clang C and C++ frontend in the LLVM project build its support for the C++ programming language as part of my job at Google. I contributed significantly to Clang through 2011, but since then I have focused more of my energy on LLVM and other efforts. I continue to contribute occasionally where useful, often as part of LLVM-project-wide changes.",
+      "date1": "Oct 2009 – Present",
+      "date2": "10 yrs 2 mos"
+    },
+    {
+      "title": "Developer",
+      "companyName": "LLVM",
+      "description": "While I started contributing to LLVM itself in 2007, it wasn't until late 2009 that I started contributing in earnest, and even then I was more focused on the Clang C and C++ frontend until 2011. Since 2011 I have been contributing significantly to LLVM both as part of my job at Google and in my own time.\n\nI'm responsible for the current inline cost analysis, scalar replacement of aggregates, and code layout in LLVM. I have worked heavily on address mode matching for x86, loop pass structure, the canonicalization passes, the reassociate pass, and the profile weight modeling infrastructure.\n\nI'm in the process of rewriting the core pass management infrastructure of LLVM to enable more powerful inlining, profile guided optimizations, and LTO.\n…\nsee more",
+      "date1": "Jan 2007 – Present",
+      "date2": "12 yrs 11 mos"
+    },
+    {
+      "title": "Owner",
+      "companyName": "Retina Software",
+      "date1": "Dec 2004 – Jan 2008",
+      "date2": "3 yrs 2 mos"
+    },
+    {
+      "title": "Summer MTA",
+      "companyName": "The Aerospace Corporation",
+      "description": "Worked with HPC think tank / research group developing advanced language and compiler solutions.",
+      "date1": "May 2007 – Aug 2007",
+      "date2": "4 mos"
+    },
+    {
+      "title": "Software Engineer",
+      "companyName": "GreatWall Systems",
+      "description": "Researched and implemented proprietary firewall optimization technologies.",
+      "date1": "Jun 2006 – Aug 2006",
+      "date2": "3 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Wake Forest University",
+      "degree": "MS",
+      "fieldofstudy": "Computer Science",
+      "date1": "2006",
+      "date2": "2007"
+    },
+    {
+      "title": "Wake Forest University",
+      "degree": "BS",
+      "fieldofstudy": "Computer Science",
+      "date1": "2001",
+      "date2": "2005"
+    }
+  ],
+  "skills": [
+    {
+      "title": "C++",
+      "count": "42"
+    },
+    {
+      "title": "Programming",
+      "count": "18"
+    },
+    {
+      "title": "C",
+      "count": "17"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/tituswinters/",
+      "text": "Senior Staff Software Engineer at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ramakrishnan-kandhan-78841227/",
+      "text": "Principal Software Engineer at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/anandmu/",
+      "text": "Principal Software Engineer (Director) at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jay-yagnik-3727776/",
+      "text": "Google Fellow, VP Google AI"
+    },
+    {
+      "user": "https://www.linkedin.com/in/barbara-geller-856491116/",
+      "text": "Software Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sujata/",
+      "text": "Distinguished Engineer / Senior Director at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/herb-sutter-826b436/",
+      "text": "SA at Microsoft"
+    },
+    {
+      "user": "https://www.linkedin.com/in/xiangyang-mark-guo-a94b6765/",
+      "text": "Software Engineer at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mjcaisse/",
+      "text": "Principal at Ciere Consulting"
+    },
+    {
+      "user": "https://www.linkedin.com/in/chris-lattner-5664498a/",
+      "text": "Senior Director and Distinguished Engineer at Google"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Chandler Carruth",
+    "headline": "Principal Software Engineer at Google and Open Source Software Developer",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQGQ3ME7oS0GRw/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=bKMw6LKJwDIBvvFDeOgTHicgfEbQyIpmXAipZbGJBiY",
+    "location": "San Jose, California",
+    "connections": "346",
+    "summary": "Specialties: Programming, Software Design, Object-Oriented Design, Project Management\nDevelopment Infrastructure, Open Source Software Development, Dispersed Team Colloboration\n3D Graphics, 3D Physics, Program Optimization, Language Theory, Compiler Writing\nC, C++, assembly language, shell"
+  }
+}

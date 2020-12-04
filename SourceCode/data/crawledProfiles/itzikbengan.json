@@ -1,0 +1,169 @@
+{
+  "profileAlternative": {
+    "name": "Itzik Ben-Gan",
+    "headline": "T-SQL Trainer at SolidQ, Microsoft Data Platform MVP",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQFaScQMFC4svg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=N8kfGbtgyUxb3FmZit0UcGBQc55lfKSrVYxFtJ4q7cI",
+    "location": "United States",
+    "connections": "500+",
+    "summary": "Itzik Ben-Gan is a Mentor and Co-Founder of SolidQ. A Microsoft Data Platform MVP (Most Valuable Professional) since 1999, Itzik has delivered numerous training events around the world focused on T-SQL Querying, Query Tuning and Programming. Itzik is the author of several books including Microsoft SQL Server High-Performance T-SQL Using Window Functions, T-SQL Fundamentals and T-SQL Querying. He has written articles for SQL Server Pro, SolidQ Journal and MSDN. Itzik's speaking activities include SQLPASS, SQLBits, SQLTeach and various user groups around the world. Itzik is the author of SolidQ's Advanced T-SQL Querying, Programming and Tuning and T-SQL Fundamentals courses along with being a primary resource within the company for their T-SQL related activities."
+  },
+  "aboutAlternative": {
+    "text": "Itzik Ben-Gan is a Mentor and Co-Founder of SolidQ. A Microsoft Data Platform MVP (Most Valuable Professional) since 1999, Itzik has delivered numerous training events around the world focused on T-SQL Querying, Query Tuning and Programming. Itzik is the author of several books including Microsoft SQL Server High-Performance T-SQL Using Window Functions, T-SQL Fundamentals and T-SQL Querying. He has written articles for SQL Server Pro, SolidQ Journal and MSDN. Itzik's speaking activities include SQLPASS, SQLBits, SQLTeach and various user groups around the world. Itzik is the author of SolidQ's Advanced T-SQL Querying, Programming and Tuning and T-SQL Fundamentals courses along with being a primary resource within the company for their T-SQL related activities."
+  },
+  "positions": [
+    {
+      "title": "T-SQL Trainer",
+      "companyName": "SolidQ",
+      "description": "Itzik is a Mentor and Co-Founder of SolidQ. He has delivered numerous training events around the world focused on T-SQL Querying, Query Tuning and Programming. Itzik is the author of SolidQ's Advanced T-SQL Querying, Programming and Tuning and T-SQL Fundamentals courses along with being a primary resource within the company for their T-SQL related activities.",
+      "date1": "2002 – Present",
+      "date2": "17 yrs"
+    },
+    {
+      "title": "Microsoft Data Platform MVP",
+      "companyName": "Microsoft Data Platform MVP",
+      "date1": "1999 – Present",
+      "date2": "20 yrs"
+    },
+    {
+      "title": "Database Consultant",
+      "companyName": "Mercury",
+      "location": "Yahud, Israel",
+      "description": "Mercury (formerly Mercury Interactive Corporation) is a global business unit within HP Software Division.\nItzik was a database consultant with the Application Performance Monitoring (APM) dev team. In this role, Itzik was the go to guy in any SQL Server related expert advice.",
+      "date1": "2002",
+      "date2": "less than a year"
+    },
+    {
+      "title": "SQL Server Trainer",
+      "companyName": "Hi-Tech College",
+      "location": "Herzliya, Israel",
+      "description": "A senior SQL Server trainer at Hi-Tech College (of the Matrix group). In this role, Itzik delivered numerous classes about different SQL Server related technologies, such as Advanced T-SQL, Query Tuning, SQL Server Administration and Development.",
+      "date1": "1998 – 2002",
+      "date2": "4 yrs"
+    },
+    {
+      "title": "Data Expert",
+      "companyName": "Tempo beverages Ltd",
+      "location": "Netanya, Israel",
+      "description": "Tempo beverages Ltd is one of the largest and longest established beverage companies in Israel.\nItzik was in charge of developing processes that pulled data from an AS/400 database to a PC database, and analyzing the data there. The solutions Itzik developed included creating OLAP cubes (with the Panorama software before Microsoft acquired them to create OLAP Services, which later became Analysis Services), and various other reports for data analysis purposes.\n…\nsee more",
+      "date1": "1992 – 1997",
+      "date2": "5 yrs"
+    }
+  ],
+  "educations": [],
+  "skills": [
+    {
+      "title": "T-SQL",
+      "count": "99+"
+    },
+    {
+      "title": "Microsoft SQL Server",
+      "count": "99+"
+    },
+    {
+      "title": "SQL",
+      "count": "99+"
+    },
+    {
+      "title": "SQL Tuning",
+      "count": "87"
+    },
+    {
+      "title": "Query Tuning",
+      "count": "59"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "2",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/micahnikkel/",
+        "text": "Over 15 years ago, I was fortunate enough to attend a couple of Itzik's training classes. I was just getting started as a database professional and his training left a significant impression on me. His wealth of knowledge and genuine desire to help others learn was extremely exciting for me. It's rare to see someone this talented still be able to teach concepts in such a practical way. I can honestly say that I have continued to find ways in which to apply what I learned in those classes. Whether it's developing some queue logic or evaluating index design, I still reference his books regularly. On top of the extensive knowledge he shares, Itzik truly helped grow my ability to problem solve and approach things logically. In short, Itzik has my respect and appreciation as a phenomenal teacher that played a large role in the direction my career took. I gained applicable knowledge, developed a hunger for more, and left inspired to take things to the next level. Thank you, Itzik!\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/mposadas/",
+        "text": "Itzik is one of the top leading, world wide experts in T-SQL. And one of the best authors and speakers on this subject I've ever met. Anything related to this activities is highly recommended."
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "13",
+      "items": [
+        "T-SQL Window Functions, 2nd Edition",
+        "Exam Ref 70-761 Querying Data with Transact-SQL",
+        "T-SQL Querying",
+        "Training Kit (Exam 70-461): Querying Microsoft SQL Server 2012",
+        "Microsoft SQL Server 2012 T-SQL Fundamentals",
+        "Microsoft SQL Server 2012 High-Performance T-SQL Using Window Functions",
+        "Inside Microsoft SQL Server 2008: T-SQL Programming",
+        "Inside Microsoft SQL Server 2008: T-SQL Querying",
+        "SQL Server MVP Deep Dives",
+        "Microsoft SQL Server 2008: T-SQL Fundamentals",
+        "Inside Microsoft SQL Server 2005: T-SQL Programming",
+        "Inside Microsoft SQL Server 2005: T-SQL Querying",
+        "Advanced Transact-SQL Programming for SQL Server 2000"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "Advanced T-SQL Querying, Programming and Tuning (5-day course, http://tsql.solidq.com/t-sql-courses/)",
+        "T-SQL Fundamentals (5-day course, https://training.solidq.com/course/t-sql-fundamentals/)",
+        "T-SQL Fundamentals OnDemand (https://training.solidq.com/course/t-sql-fundamentals-on-demand/)"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/kalendelaney/",
+      "text": "Senior Content Developer at Microsoft"
+    },
+    {
+      "user": "https://www.linkedin.com/in/joesack/",
+      "text": "Principal Program Manager, Azure Data at Microsoft"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jamesserra/",
+      "text": "Big Data/Data Warehouse Evangelist at Microsoft"
+    },
+    {
+      "user": "https://www.linkedin.com/in/adammachanic/",
+      "text": "Data Architect, Developer, and Database Performance Engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/guthriescott/",
+      "text": "Executive Vice President at Microsoft"
+    },
+    {
+      "user": "https://www.linkedin.com/in/johnsterrett/",
+      "text": "Data Platform Expert and CEO of Procure SQL"
+    },
+    {
+      "user": "https://www.linkedin.com/in/robertldavis/",
+      "text": "Senior SQL Server Software Engineer at Global Relay"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ryanjadams/",
+      "text": "Senior Premier Field Engineer at Microsoft"
+    },
+    {
+      "user": "https://www.linkedin.com/in/parvinder-pal/",
+      "text": "Lead SQL Server Database Administrator at Aspen Dental Management, Inc. (ADMI)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/argenis/",
+      "text": "Principal Program Manager, Azure Data / SQL Server, Microsoft"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Itzik Ben-Gan",
+    "headline": "T-SQL Trainer at SolidQ, Microsoft Data Platform MVP",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQFaScQMFC4svg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=N8kfGbtgyUxb3FmZit0UcGBQc55lfKSrVYxFtJ4q7cI",
+    "location": "United States",
+    "connections": "500+",
+    "summary": "Itzik Ben-Gan is a Mentor and Co-Founder of SolidQ. A Microsoft Data Platform MVP (Most Valuable Professional) since 1999, Itzik has delivered numerous training events around the world focused on T-SQL Querying, Query Tuning and Programming. Itzik is the author of several books including Microsoft SQL Server High-Performance T-SQL Using Window Functions, T-SQL Fundamentals and T-SQL Querying. He has written articles for SQL Server Pro, SolidQ Journal and MSDN. Itzik's speaking activities include SQLPASS, SQLBits, SQLTeach and various user groups around the world. Itzik is the author of SolidQ's Advanced T-SQL Querying, Programming and Tuning and T-SQL Fundamentals courses along with being a primary resource within the company for their T-SQL related activities."
+  }
+}

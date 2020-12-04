@@ -1,0 +1,291 @@
+{
+  "profileAlternative": {
+    "name": "Stuart Padley",
+    "headline": "SQL Server big data clusters",
+    "imageurl": "https://media.licdn.com/dms/image/C5103AQHIszYg_5EIyg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=PyJrU-AQQ7RHSl525mug3GDgT_KG1mwdjiIxXH6Rx9g",
+    "location": "Redmond, Washington",
+    "connections": "500+",
+    "summary": "I’m a software engineer and group manager with a focus on database systems. Spent many years hiring teams, growing and managing principal & partner level engineers."
+  },
+  "aboutAlternative": {
+    "text": "I’m a software engineer and group manager with a focus on database systems. Spent many years hiring teams, growing and managing principal & partner level engineers."
+  },
+  "positions": [
+    {
+      "title": "Microsoft",
+      "location": "Redmond, WA",
+      "description": "The Helsinki project enables SQL Server to run on Linux. Specifically, I designed and implemented Globalization and Localization support, ported the Full Text Search and Statistical Semantic search engines, and implemented the operating system information runtime in the abstraction layer (SQLPAL).",
+      "date1": "2016 – Present",
+      "date2": "3 yrs",
+      "roles": [
+        {
+          "title": "Software Engineer – SQL Server on Linux (Helsinki)",
+          "date1": "2016 – Present",
+          "date2": "3 yrs",
+          "location": "Redmond, WA"
+        },
+        {
+          "title": "Group Program Manager – SQL Server (Distributed Systems)",
+          "date1": "2015 – 2016",
+          "date2": "1 yr",
+          "location": "Redmond, WA"
+        },
+        {
+          "title": "Principal Architect – Azure SQL Database (Sterling)",
+          "date1": "2014 – 2016",
+          "date2": "2 yrs",
+          "location": "Redmond, WA"
+        },
+        {
+          "title": "Group Engineering Manager – Azure Cosmos DB (Project Florence)",
+          "date1": "2013 – 2014",
+          "date2": "1 yr",
+          "location": "Redmond, WA"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSoftware Engineer – SQL Server on Linux (Helsinki)",
+      "location": "Redmond, WA",
+      "description": "The Helsinki project enables SQL Server to run on Linux. Specifically, I designed and implemented Globalization and Localization support, ported the Full Text Search and Statistical Semantic search engines, and implemented the operating system information runtime in the abstraction layer (SQLPAL).",
+      "date1": "2016 – Present",
+      "date2": "3 yrs",
+      "roles": [
+        {
+          "title": "Software Engineer – SQL Server on Linux (Helsinki)",
+          "date1": "2016 – Present",
+          "date2": "3 yrs",
+          "location": "Redmond, WA"
+        }
+      ]
+    },
+    {
+      "title": "Title\nGroup Program Manager – SQL Server (Distributed Systems)",
+      "location": "Redmond, WA",
+      "description": "Led the program/product management teams responsible for:\n\n1. Preview and GA of Azure SQL Data Warehouse and SQL Server Analytics Platform System (APS)\n2. Release of SQL Server 2016 Polybase & Stretch Database.\n3. Release of Azure SQL Database scale-out OLTP (global scale sharding with cloud service hosted distributed query & distributed transactions)\n…\nsee more",
+      "date1": "2015 – 2016",
+      "date2": "1 yr",
+      "roles": [
+        {
+          "title": "Group Program Manager – SQL Server (Distributed Systems)",
+          "date1": "2015 – 2016",
+          "date2": "1 yr",
+          "location": "Redmond, WA"
+        }
+      ]
+    },
+    {
+      "title": "Title\nPrincipal Architect – Azure SQL Database (Sterling)",
+      "location": "Redmond, WA",
+      "description": "Led design and implementation of devops and quality in the re-architecture of Azure SQL Database. During this time I initiated the move of the SQL Server group to the services ‘push’ culture, introduced concepts like A1/A2/A3 etc.\n\nDuring this time I led the worldwide build out of Azure SQL DB (Gen2)\n\nWorked with Microsoft Research implementing global scale relational distributed snapshot transactions (Clock-SI), both the algorithms and global scale GPS data center clock synchronization.\n…\nsee more",
+      "date1": "2014 – 2016",
+      "date2": "2 yrs",
+      "roles": [
+        {
+          "title": "Principal Architect – Azure SQL Database (Sterling)",
+          "date1": "2014 – 2016",
+          "date2": "2 yrs",
+          "location": "Redmond, WA"
+        }
+      ]
+    },
+    {
+      "title": "Title\nGroup Engineering Manager – Azure Cosmos DB (Project Florence)",
+      "location": "Redmond, WA",
+      "description": "Led formation of the devops engineering team through to launch of the Azure DocumentDB/CosmosDB service. Took the learnings from launching Azure SQL Database and spread them into another service. Built a team around me to run the service.",
+      "date1": "2013 – 2014",
+      "date2": "1 yr",
+      "roles": [
+        {
+          "title": "Group Engineering Manager – Azure Cosmos DB (Project Florence)",
+          "date1": "2013 – 2014",
+          "date2": "1 yr",
+          "location": "Redmond, WA"
+        }
+      ]
+    },
+    {
+      "title": "Director",
+      "companyName": "Homes of Hope India",
+      "location": "Seattle, WA",
+      "date1": "Sep 2008 – Present",
+      "date2": "11 yrs 3 mos"
+    },
+    {
+      "title": "Principal Architect – SQL Server In-Memory OLTP (Hekaton)",
+      "companyName": "Microsoft",
+      "location": "Redmond, WA",
+      "description": "Team formed for productizing extreme OLTP (XTP) engine ‘Hekaton’ into SQL Server, previously incubated in Dr DeWitt’s Gray Systems Labs (GSL). I led customer engagements, quality strategy and early implementations (TPC-E, national stock market quote systems and massive session state management systems)",
+      "date1": "Mar 2010 – 2012",
+      "date2": "2 yrs"
+    },
+    {
+      "title": "Principal Software Engineer – SQL Server (MatrixDB & CloudDB)",
+      "companyName": "Microsoft",
+      "location": "Redmond, WA",
+      "description": "Led the quality efforts for MatrixDB, and then joined the team that founded Azure SQL Database (CloudDB) through to launch. Co-ordinated teams of engineers across China and India.",
+      "date1": "2008 – 2010",
+      "date2": "2 yrs"
+    },
+    {
+      "title": "Software Engineer – Husoft (ImmortalPC)",
+      "companyName": "Husoft",
+      "location": "London, United Kingdom",
+      "description": "Designed and engineered peer to peer (social network), reliable (erasure coded) free forever backup app, using spare disk space on home PCs and a business model built around restore.",
+      "date1": "2007 – 2008",
+      "date2": "1 yr"
+    },
+    {
+      "title": "Microsoft",
+      "location": "Redmond, WA",
+      "description": "Incubated Live Mesh, Skydrive (now OneDrive) and the founding of Azure, during the Ray Ozzie tenure. Implemented the frontend mid-tier technologies.",
+      "date1": "2005 – 2006",
+      "date2": "1 yr",
+      "roles": [
+        {
+          "title": "Software Engineer – Office of Chief Software Architect (Live Mesh & Skydrive)",
+          "date1": "2005 – 2006",
+          "date2": "1 yr",
+          "location": "Redmond, WA"
+        },
+        {
+          "title": "Group Engineering Manager - SQL Server 2005 (Yukon)",
+          "date1": "2000 – 2005",
+          "date2": "5 yrs",
+          "location": "Redmond, WA"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSoftware Engineer – Office of Chief Software Architect (Live Mesh & Skydrive)",
+      "location": "Redmond, WA",
+      "description": "Incubated Live Mesh, Skydrive (now OneDrive) and the founding of Azure, during the Ray Ozzie tenure. Implemented the frontend mid-tier technologies.",
+      "date1": "2005 – 2006",
+      "date2": "1 yr",
+      "roles": [
+        {
+          "title": "Software Engineer – Office of Chief Software Architect (Live Mesh & Skydrive)",
+          "date1": "2005 – 2006",
+          "date2": "1 yr",
+          "location": "Redmond, WA"
+        }
+      ]
+    },
+    {
+      "title": "Title\nGroup Engineering Manager - SQL Server 2005 (Yukon)",
+      "location": "Redmond, WA",
+      "description": "Led teams responsible for the quality of: SQL Server Security, Execution Engine, XML, Protocols, SQLCLR\nLed a multi-year cross group hiring effort of 80 software engineers.",
+      "date1": "2000 – 2005",
+      "date2": "5 yrs",
+      "roles": [
+        {
+          "title": "Group Engineering Manager - SQL Server 2005 (Yukon)",
+          "date1": "2000 – 2005",
+          "date2": "5 yrs",
+          "location": "Redmond, WA"
+        }
+      ]
+    }
+  ],
+  "educations": [
+    {
+      "title": "University of Washington",
+      "degree": "Master's degree",
+      "fieldofstudy": "Computer Science",
+      "date1": "2014",
+      "date2": "2019"
+    },
+    {
+      "title": "Staffordshire University",
+      "degree": "BSc Hons",
+      "fieldofstudy": "Information Systems",
+      "date1": "1994",
+      "date2": "1997"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Software Design",
+      "count": "22"
+    },
+    {
+      "title": "C#",
+      "count": "20"
+    },
+    {
+      "title": ".NET",
+      "count": "13"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "3",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/ravisu/",
+        "text": "Stuart has a rare combination of superior leadership skills and raw technical abilities, mixed in with compassion, cheerfulness, and an ability to motivate and inspire by example. He believed and brought out the best in me -- too bad I worked directly with him for only a short period of time. Certainly the best of the best -- two thumbs up for Stuart!\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/rogerfleig/",
+        "text": "Stuart is a brilliant leader, coach and strategic thinker. While working alongside him I observed Stuart fluidly moving between being a great manager for his team and being one of the strongest technical contributors in his space. Definitely someone who constantly challenged his peers with new ideas and perspectives and always for the better.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/paul-conover-608a90/",
+        "text": "Stuart was a great manager to work for. He took an active role in my career and collaborated on challenging work. He managed a team working on leading edge technology while contributing significantly as an Individual. Stuart treats people fair and rewards those that deliver. I can definitely say he was a motivational manager and I enjoyed working for him.\n…\nSee more"
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/janengelsberg/",
+      "text": "Principal PM Manager at Microsoft"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kunal-mukerjee-1714b8/",
+      "text": "Partner Director of Engineering, Microsoft"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sonia-parchani-b8232b21/",
+      "text": "Principal Group Software Engineering Manager in Database Systems at Microsoft"
+    },
+    {
+      "user": "https://www.linkedin.com/in/matt-neerincx-7993015/",
+      "text": "Principal Software Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sapnajeswani/",
+      "text": "Bringing customers to Azure Platform, enabling them to use Azure services worldwide"
+    },
+    {
+      "user": "https://www.linkedin.com/in/guohongfei/",
+      "text": "Principal Group PM Manager at Microsoft | HIRING - PROBLEM SOLVERS"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ilsung/",
+      "text": "Product Manager at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jerome-halmans-0140064/",
+      "text": "Principal Software Engineer Lead, Microsoft HoloLens"
+    },
+    {
+      "user": "https://www.linkedin.com/in/slava-oks-6602323/",
+      "text": "Distinguished Engineer at Microsoft"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tobias-ternstr%C3%B6m-4281701/",
+      "text": "Director, Product Management @ Amazon Web Services"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Stuart Padley",
+    "headline": "SQL Server big data clusters",
+    "imageurl": "https://media.licdn.com/dms/image/C5103AQHIszYg_5EIyg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=PyJrU-AQQ7RHSl525mug3GDgT_KG1mwdjiIxXH6Rx9g",
+    "location": "Redmond, Washington",
+    "connections": "500+",
+    "summary": "I’m a software engineer and group manager with a focus on database systems. Spent many years hiring teams, growing and managing principal & partner level engineers."
+  }
+}

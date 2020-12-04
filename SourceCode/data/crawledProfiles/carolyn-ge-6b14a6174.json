@@ -1,0 +1,114 @@
+{
+  "profileAlternative": {
+    "name": "Carolyn Ge",
+    "headline": "CS @ Harvard",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQHxvRT3eLtKWA/profile-displayphoto-shrink_200_200/0?e=1577318400&v=beta&t=_KIJdVLM50fAC-RNZvb66jNARM_gaiw2tfqDsNdWtMM",
+    "location": "Greater Boston Area",
+    "connections": "500+",
+    "summary": "Hi! I am an undergraduate at Harvard University studying Computer Science with a secondary in Statistics. I'm excited to be joining Facebook as a Software Engineering Intern in Menlo Park this summer.\n\nFeel free to contact me at carolynge@college.harvard.edu!"
+  },
+  "aboutAlternative": {
+    "text": "Hi! I am an undergraduate at Harvard University studying Computer Science with a secondary in Statistics. I'm excited to be joining Facebook as a Software Engineering Intern in Menlo Park this summer.\n\nFeel free to contact me at carolynge@college.harvard.edu!"
+  },
+  "positions": [
+    {
+      "title": "Comp Director",
+      "companyName": "Harvard Women in Computer Science",
+      "location": "Cambridge, MA",
+      "description": "Design and oversee initiatives for introducing and integrating new members into the WiCS community. Organize educational and social events to promote diversity and inclusion in the CS community on campus.",
+      "date1": "Aug 2019 – Present",
+      "date2": "3 mos"
+    },
+    {
+      "title": "Software Engineering Intern",
+      "companyName": "Two Sigma",
+      "location": "Houston, Texas",
+      "description": "Team: Foundational Data Engineering",
+      "date1": "May 2019 – Aug 2019",
+      "date2": "4 mos"
+    },
+    {
+      "title": "Summer Research Intern",
+      "companyName": "The Summer Science Program",
+      "location": "New Mexico Tech, Socorro, New Mexico",
+      "description": "Led a team to analyze and conduct research on near-earth asteroid orbital path, used Python to determine photometry, orbital elements, and probable future collisions, submitted and published data to the Minor Planet Center",
+      "date1": "Jun 2017 – Jul 2017",
+      "date2": "2 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Harvard University",
+      "degree": "Bachelor of Arts - BA",
+      "fieldofstudy": "Computer Science",
+      "date1": "2018",
+      "date2": "2022"
+    },
+    {
+      "title": "Mission San Jose High School",
+      "degree": "High School Diploma",
+      "date1": "2014",
+      "date2": "2018"
+    }
+  ],
+  "skills": [
+    {
+      "title": "C",
+      "count": "5"
+    },
+    {
+      "title": "SQL",
+      "count": "4"
+    },
+    {
+      "title": "Adobe Photoshop",
+      "count": "3"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "5",
+      "items": [
+        "Functional Programming",
+        "Introduction to Computer Science",
+        "Linear Algebra and Real Analysis I",
+        "Mathematics for Computation, Statistics, and Data Science",
+        "Structure and Interpretation of Computer Programs"
+      ]
+    },
+    {
+      "count": "5",
+      "items": [
+        "Five-time AIME Qualifier",
+        "National AP Scholar",
+        "National Merit Finalist",
+        "Three-time Conrad Spirit of Innovation Challenge Finalist",
+        "USACO Silver Division"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "Chinese",
+        "English",
+        "French"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Carolyn Ge",
+    "headline": "CS @ Harvard",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQHxvRT3eLtKWA/profile-displayphoto-shrink_200_200/0?e=1577318400&v=beta&t=_KIJdVLM50fAC-RNZvb66jNARM_gaiw2tfqDsNdWtMM",
+    "location": "Greater Boston Area",
+    "connections": "500+",
+    "summary": "Hi! I am an undergraduate at Harvard University studying Computer Science with a secondary in Statistics. I'm excited to be joining Facebook as a Software Engineering Intern in Menlo Park this summer.\n\nFeel free to contact me at carolynge@college.harvard.edu!"
+  }
+}

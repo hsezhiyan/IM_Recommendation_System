@@ -1,0 +1,360 @@
+{
+  "profileAlternative": {
+    "name": "Jonah Cohen",
+    "headline": "Senior Director, Analytics and Business Operations at MongoDB",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQElBEsZ-HtU5A/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=8lbQfs9NxNgBSC9toGm35r-Tk2diLzuxrNYA-BlE2wY",
+    "location": "New York, New York",
+    "connections": "500+"
+  },
+  "aboutAlternative": {},
+  "positions": [
+    {
+      "title": "MongoDB",
+      "location": "New York, New York",
+      "date1": "Feb 2018 – Present",
+      "date2": "1 yr 10 mos",
+      "roles": [
+        {
+          "title": "Senior Director, Analytics & Business Operations",
+          "date1": "Feb 2018 – Present",
+          "date2": "1 yr 10 mos",
+          "location": "New York, New York"
+        },
+        {
+          "title": "Director, Finance & Business Operations",
+          "date1": "Feb 2016 – Jan 2018",
+          "date2": "2 yrs",
+          "location": "New York, NY"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSenior Director, Analytics & Business Operations",
+      "location": "New York, New York",
+      "date1": "Feb 2018 – Present",
+      "date2": "1 yr 10 mos",
+      "roles": [
+        {
+          "title": "Senior Director, Analytics & Business Operations",
+          "date1": "Feb 2018 – Present",
+          "date2": "1 yr 10 mos",
+          "location": "New York, New York"
+        }
+      ]
+    },
+    {
+      "title": "Title\nDirector, Finance & Business Operations",
+      "location": "New York, NY",
+      "date1": "Feb 2016 – Jan 2018",
+      "date2": "2 yrs",
+      "roles": [
+        {
+          "title": "Director, Finance & Business Operations",
+          "date1": "Feb 2016 – Jan 2018",
+          "date2": "2 yrs",
+          "location": "New York, NY"
+        }
+      ]
+    },
+    {
+      "title": "PepsiCo Foodservice",
+      "location": "Somers, NY",
+      "description": "• Led division strategy development focused on marketing equipment and next generation technology",
+      "date1": "Sep 2014 – Jan 2016",
+      "date2": "1 yr 5 mos",
+      "roles": [
+        {
+          "title": "Strategy Director",
+          "date1": "Sep 2014 – Jan 2016",
+          "date2": "1 yr 5 mos",
+          "location": "Somers, NY"
+        },
+        {
+          "title": "Finance Manager, Strategy & Innovation",
+          "date1": "Mar 2013 – Aug 2014",
+          "date2": "1 yr 6 mos",
+          "location": "Somers, NY"
+        }
+      ]
+    },
+    {
+      "title": "Title\nStrategy Director",
+      "location": "Somers, NY",
+      "description": "• Led division strategy development focused on marketing equipment and next generation technology",
+      "date1": "Sep 2014 – Jan 2016",
+      "date2": "1 yr 5 mos",
+      "roles": [
+        {
+          "title": "Strategy Director",
+          "date1": "Sep 2014 – Jan 2016",
+          "date2": "1 yr 5 mos",
+          "location": "Somers, NY"
+        }
+      ]
+    },
+    {
+      "title": "Title\nFinance Manager, Strategy & Innovation",
+      "location": "Somers, NY",
+      "description": "• Business case development for long term initiatives focused on consumer facing equipment and technology\n• Portfolio and growth strategy for foodservice division covering all PepsiCo food & beverage brands",
+      "date1": "Mar 2013 – Aug 2014",
+      "date2": "1 yr 6 mos",
+      "roles": [
+        {
+          "title": "Finance Manager, Strategy & Innovation",
+          "date1": "Mar 2013 – Aug 2014",
+          "date2": "1 yr 6 mos",
+          "location": "Somers, NY"
+        }
+      ]
+    },
+    {
+      "title": "Consultant",
+      "companyName": "BTS",
+      "date1": "Oct 2009 – Dec 2010",
+      "date2": "1 yr 3 mos"
+    },
+    {
+      "title": "Analyst",
+      "companyName": "Gotham Consulting Partners",
+      "location": "New York, NY",
+      "description": "• Led analytics effort to evaluate 6 potential new markets with a combined overall size of over $2.1B during a market entry study for a leading supplier of safety products and services\n• Validated prospective buyer’s expansion hypothesis by identifying potential for 200% production volume increase requiring minimal capital spend during due diligence effort at a packaged foods manufacturer\n• Identified a 22% cost reduction opportunity through the coordination of purchasing practices, vendor consolidation, volume based contract renegotiation, and more accurate usage forecasting during a sourcing effort at a steel foundry\n• Identified areas of warehousing and filling line weakness and worked with client personnel to address them through continuous improvement efforts at a juice company\n…\nsee more",
+      "date1": "Sep 2008 – Oct 2009",
+      "date2": "1 yr 2 mos"
+    },
+    {
+      "title": "Business Analyst",
+      "companyName": "6-24 Consulting",
+      "location": "Paris, France",
+      "description": "• Operations consulting focused on distribution systems optimization for a leading European automobile manufacturer's factory-to-market transportation network.",
+      "date1": "Feb 2006 – Dec 2006",
+      "date2": "11 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Cornell University",
+      "degree": "Masters of Engineering",
+      "fieldofstudy": "Systems Engineering and Operations Research"
+    },
+    {
+      "title": "Carnegie Mellon University",
+      "degree": "Bachelor of Science",
+      "fieldofstudy": "Mechanical Engineering"
+    },
+    {
+      "title": "Georgia Institute of Technology",
+      "degree": "Masters Coursework",
+      "fieldofstudy": "Mechanical Engineering"
+    },
+    {
+      "title": "Maret School",
+      "degree": "High School Diploma"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Strategy",
+      "count": "36"
+    },
+    {
+      "title": "Management",
+      "count": "17"
+    },
+    {
+      "title": "Forecasting",
+      "count": "16"
+    },
+    {
+      "title": "Management Consulting",
+      "count": "15"
+    },
+    {
+      "title": "Business Strategy",
+      "count": "11"
+    },
+    {
+      "title": "Analytics",
+      "count": "11"
+    },
+    {
+      "title": "Business Analysis",
+      "count": "10"
+    },
+    {
+      "title": "Change Management",
+      "count": "8"
+    },
+    {
+      "title": "Supply Chain",
+      "count": "7"
+    },
+    {
+      "title": "Analysis",
+      "count": "6"
+    },
+    {
+      "title": "Competitive Analysis",
+      "count": "6"
+    },
+    {
+      "title": "Finance",
+      "count": "6"
+    },
+    {
+      "title": "Financial Analysis",
+      "count": "5"
+    },
+    {
+      "title": "Strategic Planning",
+      "count": "5"
+    },
+    {
+      "title": "Data Analysis",
+      "count": "4"
+    },
+    {
+      "title": "Valuation",
+      "count": "4"
+    },
+    {
+      "title": "Financial Modeling",
+      "count": "4"
+    },
+    {
+      "title": "Due Diligence",
+      "count": "4"
+    },
+    {
+      "title": "Project Planning",
+      "count": "4"
+    },
+    {
+      "title": "Business Process Improvement",
+      "count": "4"
+    },
+    {
+      "title": "Business Development",
+      "count": "3"
+    },
+    {
+      "title": "Supply Chain Management",
+      "count": "3"
+    },
+    {
+      "title": "Budgets",
+      "count": "3"
+    },
+    {
+      "title": "Consulting",
+      "count": "2"
+    },
+    {
+      "title": "Pricing",
+      "count": "1"
+    },
+    {
+      "title": "Demand Planning"
+    },
+    {
+      "title": "Business Planning"
+    },
+    {
+      "title": "Cross-functional Team Leadership",
+      "count": "6"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "2",
+    "receivedCount": "3",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/jpaguilar/",
+        "text": "I worked with Jonah on a high-profile project for PepsiCo looking to acquire a new technological capability. Jonah's thought leadership and rigorous analytical capability were invaluable in arriving at a fair valuation and to ultimately closing the deal. His professionalism and his positive attitude made him a pleasure to work with at all times."
+      },
+      {
+        "user": "https://www.linkedin.com/in/pcoppinger/",
+        "text": "It has been my pleasure and good fortune to work with Jonah on some fairly substantive and challenging projects. Through this collaboration I have had the opportunity to gain first-hand an in-depth look at Jonah's talents and abilities. He is smart, that's a given, but more importantly he has a knack for asking the right questions and a refreshing desire to understand completely the fundamental problem that needs to be solved. I've worked with a lot of smart people in my day, but Jonah's ability to apply his intellect towards solving complex business problems is something that I found to be a rare and valuable gift.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/michaellattimer/",
+        "text": "Jonah had a keen attention for details, and was constantly able to build the big picture take-aways around a variety of business issues. His analytical prowess was impressive, learning new things and developing alternative approaches quickly. Jonah was also adept at discussing technical, non-technical, and analytical concepts within our firm and at different levels of client organizations. He has a passion for doing things the right way, and understands the importance of a good approach in tackling any issue.\n…\nSee more"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/jpaguilar/",
+        "text": "Jorge possesses the great combination of a natural, laid-back demeanor and a robust skill-set that makes working with him both enjoyable and satisfying. I had the distinct pleasure of collaborating with him on several challenging projects, and look forward to any opportunity to work with him in the future."
+      },
+      {
+        "user": "https://www.linkedin.com/in/justin-ahmad-7249217/",
+        "text": "The qualities most immediately apparent in Justin are his professionalism and his congenial demeanor. Upon working with him it quickly becomes clear that not only are these faculties unwavering, but behind them lies an extremely thoughtful, thorough, and analytically proficient consultant. Working with Justin has consistently been both enjoyable and satisfying; I look forward to any opportunity to collaborate with him."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "3",
+      "items": [
+        "English",
+        "French",
+        "Spanish"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Best Paper"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/imran0rashid/",
+      "text": "Customer Success Manager at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jodisiskind/",
+      "text": "Data Analytics Senior Manager at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/billcarden/",
+      "text": "Regional Director, New York Metro at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/samuel-weaver/",
+      "text": "VP, Head of Product at Unqork Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/enrico-manes-2a4174150/",
+      "text": "Manufacturing and Engineering VP of Americas c/o Campari Group"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shreya-seth-16938765/",
+      "text": "Strategic Finance at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/myahney/",
+      "text": "Business Operations + Strategy | Process Optimization + Automation"
+    },
+    {
+      "user": "https://www.linkedin.com/in/stanley-liu-7395b2162/",
+      "text": "Data Scientist at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jason-conley-aa22177/",
+      "text": "VP & Controller at Roper Technologies, Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/austinwenzel/",
+      "text": "Senior Enterprise Account Executive at MongoDB"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Jonah Cohen",
+    "headline": "Senior Director, Analytics and Business Operations at MongoDB",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQElBEsZ-HtU5A/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=8lbQfs9NxNgBSC9toGm35r-Tk2diLzuxrNYA-BlE2wY",
+    "location": "New York, New York",
+    "connections": "500+"
+  }
+}

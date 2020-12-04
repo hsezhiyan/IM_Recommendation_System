@@ -1,0 +1,180 @@
+{
+  "profileAlternative": {
+    "name": "TJ Tang",
+    "headline": "Principal Solutions Architect at MongoDB",
+    "location": "Hong Kong",
+    "connections": "253",
+    "summary": "A software-architect turned data technologist, I thrive on working with customers in various verticals to identify their business challenges and to propose solutions to help them achieving success.\n\nI'm a confident, adaptive and communicative speaker, whether the settings is with thousands audiences or a panel of execs. I've presented at many large scale conferences, including Ali Developer Conference and DTCC etc. In DTCC 2016 the largest database conference in China, I won the \"Best Speaker\" award.\n\nI'm well versed in modern data technologies with good grasp of distributed architecture, capable of performing competitive analysis for various technologies based on the context of solving the business problem in the most efficient and agile way. I'm particularly invested in the document database technology(such as MongoDB) with strong knowledge in document data modeling and associated performance characteristics, and deep familiarity of common design patterns with document database. My history of development background also allowed me to have productive and foten fruitful conversions with developer and DBA audiences.\n\nBefore focusing on data technology, I already had 10+ years multi-tier enterprise software architecting, designing and building experiences. I'm fluent at Java, Node.js, Python programming language.\n\nI'm an active open source community member, main contributor to MEAN stack framework \"angoose\". I'm the founder of the MongoDB Chinese User Group in Greater China region which promotes MongoDB techology. The community group consists of more than 20,000 active members, with sub communities in more than a dozen cities throughout the region, including Beijing, Shanghai, Shenzhen, Hong Kong, Taipei etc. We have published more than 400 blogs/articles on community website http://www.mongoing.com, and organized no less than 40 meetup events."
+  },
+  "aboutAlternative": {
+    "text": "A software-architect turned data technologist, I thrive on working with customers in various verticals to identify their business challenges and to propose solutions to help them achieving success.\n\nI'm a confident, adaptive and communicative speaker, whether the settings is with thousands audiences or a panel of execs. I've presented at many large scale conferences, including Ali Developer Conference and DTCC etc. In DTCC 2016 the largest database conference in China, I won the \"Best Speaker\" award.\n\nI'm well versed in modern data technologies with good grasp of distributed architecture, capable of performing competitive analysis for various technologies based on the context of solving the business problem in the most efficient and agile way. I'm particularly invested in the document database technology(such as MongoDB) with strong knowledge in document data modeling and associated performance characteristics, and deep familiarity of common design patterns with document database. My history of development background also allowed me to have productive and foten fruitful conversions with developer and DBA audiences.\n\nBefore focusing on data technology, I already had 10+ years multi-tier enterprise software architecting, designing and building experiences. I'm fluent at Java, Node.js, Python programming language.\n\nI'm an active open source community member, main contributor to MEAN stack framework \"angoose\". I'm the founder of the MongoDB Chinese User Group in Greater China region which promotes MongoDB techology. The community group consists of more than 20,000 active members, with sub communities in more than a dozen cities throughout the region, including Beijing, Shanghai, Shenzhen, Hong Kong, Taipei etc. We have published more than 400 blogs/articles on community website http://www.mongoing.com, and organized no less than 40 meetup events."
+  },
+  "positions": [
+    {
+      "title": "Principal Solutions Architect",
+      "companyName": "MongoDB",
+      "location": "Hongkong",
+      "description": "With its signature document data model, elastic scalability and rich query-ability, MongoDB is the most popular NoSQL database today. At MongoDB, my responsibility is to guide and assist our customers and users to design and build reliable, scalable systems using MongoDB.",
+      "date1": "Apr 2014 – Present",
+      "date2": "5 yrs 8 mos"
+    },
+    {
+      "title": "Chief Architect",
+      "companyName": "ePatientFinder",
+      "description": "ePatientFinder was created to challenge the status quo of how information about treatment options is shared. The traditional methods of mass media advertising and clinic to clinic sales reps don't make sense in the information age. This inefficiency causes a lot of unnecessary suffering, patients who would benefit from cutting edge treatment options have to wait until the information spreads to them or their physician through conventional channels.\n\nePatientFinder uses a revolutionary approach to matching patients with treatment opportunities. Through our platform, we allow physicians to leverage the power of electronic health records (EHR) to discover treatment options that they would not have otherwise considered. We facilitate communication among treating and referring physicians to spread knowledge of novel treatment options and enhance collaboration.\n\nOur vision is to have a profound impact on healthcare by completely changing the way patients are connected with novel, life-altering treatments. At the same time, we dramatically reduce costs and time to market for our clients by revolutionizing the way that they identify patients for their clinical trials and procedures.\n…\nsee more",
+      "date1": "Oct 2013 – Apr 2014",
+      "date2": "7 mos"
+    },
+    {
+      "title": "Co-Founder",
+      "companyName": "Big Head Mode, Inc.",
+      "description": "Big Head Mode, Inc (formerly GameFace.me) makes mobile games personal. Using face recognition combined with your social network data, we bring you and your friends to life as game characters. Acquired by PlayFirst in July 2013",
+      "date1": "Apr 2012 – Jun 2013",
+      "date2": "1 yr 3 mos"
+    },
+    {
+      "title": "Sr. Techinical Advisor/Chief Architect",
+      "companyName": "FedEx",
+      "location": "Singapore",
+      "description": "Add FedEx my main role was working with Managing Director to revamp the technology stack for the Very Large Customer sector, as well as establishing a Jenkins-based Continuous Integration process to address the deployment inefficiency problem. The new stack is based on Spring + Hibernate, integrating the Ajax enabled responsive web interface.\n\nI also acted as Performance Champion, responsible for reviewing and approving project's non-functional requirements as well as functional requirements, things like performance, scalability, deployment architecture etc. I was also responsible for all performance related escalations.\n\n…\nsee more",
+      "date1": "Jul 2010 – Nov 2011",
+      "date2": "1 yr 5 mos"
+    },
+    {
+      "title": "Technical Lead/Presale Engineer",
+      "companyName": "HP(Software Division)",
+      "description": "The greatest achievement was built a Javascript based SDK to allow 3rd party or developers to quickly create device drivers for Network Automation product. The driver support request backlog was the biggest pain point at the time. It severely hindered the ability to demonstrate product value at customer site if customer's device is not already supported by Network Automation. A typical driver takes 1~2 month of engineering effort and the backlog was hundreds in length. With an open design, and a revolutionary design based on server side Javascript, the new SDK allowed anyone with basic training to implement a driver within a few days. This was done under the insurmountable pressure from the peers who were happy with status quo.\n\n\n…\nsee more",
+      "date1": "Nov 2007 – Jul 2010",
+      "date2": "2 yrs 9 mos"
+    },
+    {
+      "title": "Sr. Software Engineer",
+      "companyName": "Opsware",
+      "description": "Was one of the earliest engineers on Opsware's Network Automation product. Single handedly architected, designed and developed the Web UI, Permission, Reporting systems. Top performing employee, awarded by Ben Horowitz!",
+      "date1": "May 2002 – Oct 2007",
+      "date2": "5 yrs 6 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Georgia Institute of Technology",
+      "degree": "Certificate",
+      "fieldofstudy": "Software Defined Networks",
+      "date1": "2013",
+      "date2": "2013"
+    },
+    {
+      "title": "Maharishi University of Management",
+      "degree": "MS",
+      "fieldofstudy": "Computer Science",
+      "date1": "2001",
+      "date2": "2002"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Java",
+      "count": "9"
+    },
+    {
+      "title": "Python",
+      "count": "8"
+    },
+    {
+      "title": "Ant",
+      "count": "7"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "2",
+    "receivedCount": "1",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/richard-au-173498/",
+        "text": "TJ has all the attributes that anyone could ask for in an engineering leader: He is highly resourceful, thorough, organized, and quick to learn and quick to resolve issues. He is a driven self-starter. When your newly launched web service is hit by millions of users in the middle of the night and you suddenly have to figure out a way to scale (or fix) some part of your software, you'll thank the heavens TJ is on your team. Or, when a partner you are relying on shuts down their service, TJ will be the one to present a viable alternative within days, even if it means he has to assimilate open source code and make it production quality. TJ also has an incredibly well rounded personality which brings energy and positivity to the team. Of all the people I've worked with in startups over the years, TJ is the first person who comes to mind when I think of who I'd like to work with again.\n…\nSee more"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/edouardss/",
+        "text": "Edouard was my manager at MongoDB. He's very technical oriented person identifiable by his signature scarf.  Being a remote employee we didn't have lots of face time. However that's not necessary since Edouard always communicates precisely and to the point. I witnessed a perfect execution of customer meeting during an uber ride to airport. Once briefed by the project description, Edouard quickly took up the lead, analyzed the situation,  discussed challenges and provided technical guidances,  managed customer expectations and confirmed a game plan for all parties at end of the meeting. \r\n\r\nIn his own words: \"...secret to team building is to hire people smarter than you and then get out of the way...\".  No, I'm not smarter than him but I do find his management style is very effective. Running at frontline opening a new region for the company, I received tremendous support from Edouard. He made me felt that he's got my back, technically or managerially."
+      },
+      {
+        "user": "https://www.linkedin.com/in/jasonchen913/",
+        "text": "I had joked with Jason during the interview process that I'd write a positive review if things work out. On reflection, it was Jason's great approach that made me very comfortable communicating/joking with him. \r\n\r\nLooking at the numerous reviews of Jason, I pondered for a second if my review would be that necessary. However I really really wanted to say that I'm very impressed by Jason's professionalism through out the process.  First he reaches out to you, only after he has done the due diligence and made sure you would be a good fit. He absolutely knows what he is doing and he's very resourceful with answers for almost all of the questions, specifically he'd give you very clear information in terms of what exact skills/qualifications/personal attributes the position will be requiring. Last but not least, he went beyond a recruiter in the sense that he tries to be your advocate during the negotiation phase and that really makes a big difference - he was the first person made I felt MongoDB would be a great company to work for.\r\n\r\nIf you got a call from a stranger named Jason from MongoDB, it'll be very likely you'll end up being my coworker one day!"
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "7",
+      "items": [
+        "Angoose",
+        "Database Modernization for Health Care Organization",
+        "Real Time Recommendation with Spark + Mongo",
+        "Multi-Region(across globe) Cluster for Local Reads/Writes",
+        "China Eastern Airlines - Spark Based Fare Engine",
+        "Huawei MongoDB as a Service",
+        "China Eastern Airlines - PSS Ticket Search"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "Chinese",
+        "English",
+        "Spanish"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/roywkc/",
+      "text": "Site Reliability Engineer at Bloomberg LP"
+    },
+    {
+      "user": "https://www.linkedin.com/in/derekwong93/",
+      "text": "programmer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/gabriel-woo-b35b7a14/",
+      "text": "Regional Director, Hong Kong & Taiwan at MongoDB, Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/tony-li-991a8243/",
+      "text": "Senior Consulting Engineer at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ken-cheng-7a23b0108/",
+      "text": "Currently Seeking New Opportunities"
+    },
+    {
+      "user": "https://www.linkedin.com/in/aviscwh/",
+      "text": "Associate Consultant at Bain & Company"
+    },
+    {
+      "user": "https://www.linkedin.com/in/chun-sing-jackie-ho-686757168/",
+      "text": "Open to Opportunities"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nicholashpcheung/",
+      "text": "Artist Manager at Warner Music Group"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ada-yuen-429a7b181/",
+      "text": "Enterprise Account Executive at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ho-ying-chan-431076b/",
+      "text": "Senior software engineer"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "TJ Tang",
+    "headline": "Principal Solutions Architect at MongoDB",
+    "location": "Hong Kong",
+    "connections": "253",
+    "summary": "A software-architect turned data technologist, I thrive on working with customers in various verticals to identify their business challenges and to propose solutions to help them achieving success.\n\nI'm a confident, adaptive and communicative speaker, whether the settings is with thousands audiences or a panel of execs. I've presented at many large scale conferences, including Ali Developer Conference and DTCC etc. In DTCC 2016 the largest database conference in China, I won the \"Best Speaker\" award.\n\nI'm well versed in modern data technologies with good grasp of distributed architecture, capable of performing competitive analysis for various technologies based on the context of solving the business problem in the most efficient and agile way. I'm particularly invested in the document database technology(such as MongoDB) with strong knowledge in document data modeling and associated performance characteristics, and deep familiarity of common design patterns with document database. My history of development background also allowed me to have productive and foten fruitful conversions with developer and DBA audiences.\n\nBefore focusing on data technology, I already had 10+ years multi-tier enterprise software architecting, designing and building experiences. I'm fluent at Java, Node.js, Python programming language.\n\nI'm an active open source community member, main contributor to MEAN stack framework \"angoose\". I'm the founder of the MongoDB Chinese User Group in Greater China region which promotes MongoDB techology. The community group consists of more than 20,000 active members, with sub communities in more than a dozen cities throughout the region, including Beijing, Shanghai, Shenzhen, Hong Kong, Taipei etc. We have published more than 400 blogs/articles on community website http://www.mongoing.com, and organized no less than 40 meetup events."
+  }
+}

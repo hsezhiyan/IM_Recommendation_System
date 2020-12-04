@@ -1,0 +1,307 @@
+{
+  "profileAlternative": {
+    "name": "Tim Chevalier",
+    "headline": "Programming language researcher and computer science educator",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQG1-nACj_W2Mw/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=ZmwhwwXSNvhuL0QvmfeK3GWnBNYP0cBPq8xISE8bvY4",
+    "location": "Oakland, California",
+    "connections": "431",
+    "summary": "I'm an experienced software developer and computer science researcher who is in the process of moving into computer science education.\n\nI'm also interested in technical consulting opportunities related to programming language design and implementation, functional programming, compilation, program verification, type systems, software quality, or static analysis. I have a particular interest in modern typed programming languages like Rust and Haskell, but specific technologies are less important to me than people are.\n\nI'm a skilled writer with experience in technical editing and permissions work, and am also interested in technical writing or editing work.\n\nLanguages: Rust, Haskell, Erlang, SML, OCaml, Java, C/C++, et al."
+  },
+  "aboutAlternative": {
+    "text": "I'm an experienced software developer and computer science researcher who is in the process of moving into computer science education.\n\nI'm also interested in technical consulting opportunities related to programming language design and implementation, functional programming, compilation, program verification, type systems, software quality, or static analysis. I have a particular interest in modern typed programming languages like Rust and Haskell, but specific technologies are less important to me than people are.\n\nI'm a skilled writer with experience in technical editing and permissions work, and am also interested in technical writing or editing work.\n\nLanguages: Rust, Haskell, Erlang, SML, OCaml, Java, C/C++, et al."
+  },
+  "positions": [
+    {
+      "title": "Teacher, Academic Talent Development Program",
+      "companyName": "University of California, Berkeley",
+      "location": "Berkeley, CA",
+      "description": "ATDP, part of the Graduate School of Education at UC Berkeley, is a program that offers rigorous summer courses to highly motivated young students. I taught two sections of Introduction to Programming in Python to students entering 7th through 11th grades.",
+      "date1": "Jun 2018 – Aug 2018",
+      "date2": "3 mos"
+    },
+    {
+      "title": "Teaching Assistant",
+      "companyName": "Black Pine Circle School",
+      "location": "Berkeley, CA",
+      "description": "Worked with middle school science students to assist them with their science fair projects, from troubleshooting to proofreading essays. Also substitute taught several different middle school classes.",
+      "date1": "Feb 2018 – Apr 2018",
+      "date2": "3 mos"
+    },
+    {
+      "title": "Software Engineer, Site Reliability Engineering",
+      "companyName": "Google",
+      "location": "San Francisco Bay Area",
+      "description": "Site reliability engineer (SRE) for Google App Engine ( https://appengine.google.com ) storage products (Datastore, Task Queue API, Memcache).",
+      "date1": "Dec 2015 – Nov 2017",
+      "date2": "2 yrs"
+    },
+    {
+      "title": "Senior Member of Technical Staff",
+      "companyName": "Heroku",
+      "location": "San Francisco, CA",
+      "description": "HTTP Routing Infrastructure team",
+      "date1": "Jul 2014 – Apr 2015",
+      "date2": "10 mos"
+    },
+    {
+      "title": "Principal Software Engineer",
+      "companyName": "AlephCloud Systems, Inc.",
+      "location": "Sunnyvale, CA",
+      "description": "Worked on a secure cloud sharing back-end in Haskell, using Happstack, Riak, and other technologies.",
+      "date1": "Nov 2013 – Jun 2014",
+      "date2": "8 mos"
+    },
+    {
+      "title": "Research Engineer",
+      "companyName": "Mozilla Corporation",
+      "description": "I worked on the compiler, libraries and tools for the Rust programming language: http://rustlang.org/ . I wrote one version of the Rust build system and package manager, implemented one iteration of Rust's object system, and fixed many bugs in the front- and back-end of the Rust-to-LLVM compiler.",
+      "date1": "Jan 2012 – Nov 2013",
+      "date2": "1 yr 11 mos"
+    },
+    {
+      "title": "Research Intern",
+      "companyName": "Mozilla",
+      "description": "Implemented the typestate system for Rust, a new type-safe systems programming language.",
+      "date1": "Mar 2011 – Sep 2011",
+      "date2": "7 mos"
+    },
+    {
+      "title": "Research Assistant",
+      "companyName": "Portland State University",
+      "description": "Researched the performance of operating system software written in statically typed functional languages. Implemented a typed compiler middle-end to bridge a compiler front-end for Haskell with a certified compiler back-end.\n\nWorked on designing an extensible intermediate language for certified compilation.\n…\nsee more",
+      "date1": "Jun 2007 – Mar 2011",
+      "date2": "3 yrs 10 mos"
+    },
+    {
+      "title": "Freelance scientific and technical editor",
+      "companyName": "AJE - American Journal Experts",
+      "location": "remote",
+      "description": "I was hired as an independent contractor by American Journal Experts (AJE), which says they've \"helped thousands of international researchers to eliminate language barriers and get their work published in the best journals in the world\". In 2013, the IRS reclassified me retroactively as an employee of AJE.\n\nI gained valuable experience working for AJE in my role editing scientific papers written by non-native speakers of English.\n…\nsee more",
+      "date1": "Jul 2008 – Nov 2010",
+      "date2": "2 yrs 5 mos"
+    },
+    {
+      "title": "Programmer",
+      "companyName": "Planning Systems",
+      "location": "Monterey, CA",
+      "description": "Programmed in Haskell, as an on-site contractor at Fleet Numerical Meterology and Oceanography Center (Monterey, Ca.)",
+      "date1": "Apr 2007 – Jun 2007",
+      "date2": "3 mos"
+    },
+    {
+      "title": "Editorial Assistant II",
+      "companyName": "Institute for Legal Research (University of California, Berkeley)",
+      "description": "Prepared a manuscript for a 1000-page legal casebook on victimless crime, including converting text to electronic form, editing, proofreading, and communicating with publishers to obtain copyright clearance.",
+      "date1": "Jan 2007 – Apr 2007",
+      "date2": "4 mos"
+    },
+    {
+      "title": "Research Intern",
+      "companyName": "Microsoft Research",
+      "description": "Re-engineered the demand analyzer portion of the Glasgow Haskell Compiler (GHC), and implemented extensions of it to do further optimization. Also worked on low-level profiling in GHC.",
+      "date1": "Oct 2006 – Dec 2006",
+      "date2": "3 mos"
+    },
+    {
+      "title": "Software Engineer (intern)",
+      "companyName": "GrammaTech",
+      "description": "Did implementation and research related to decompilation and other reverse engineering techniques, in the framework of a static analysis software package for C/C++ programs.",
+      "date1": "Jun 2006 – Oct 2006",
+      "date2": "5 mos"
+    },
+    {
+      "title": "Software Engineer",
+      "companyName": "Laszlo Systems",
+      "description": "Developed the contacts module for LaszloMail, a rich Internet application for web-based email. Contributed to the OpenLaszlo compiler by isolating and fixing bugs. Programmed in OpenLaszlo, Java, and mySQL.",
+      "date1": "Jan 2005 – Aug 2005",
+      "date2": "8 mos"
+    },
+    {
+      "title": "Desktop Support Lead",
+      "companyName": "Good Vibrations",
+      "description": "Was responsible for Windows and network technical support for an organization of about 100 employees. Did Unix systems administration. Wrote documentation.",
+      "date1": "Nov 2004 – Jan 2005",
+      "date2": "3 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "University of California, Berkeley",
+      "degree": "MS",
+      "fieldofstudy": "Computer Science",
+      "date1": "2001",
+      "date2": "2003"
+    },
+    {
+      "title": "Portland State University",
+      "degree": "Ph.D (noncompleted)",
+      "fieldofstudy": "Computer Science",
+      "date1": "2007",
+      "date2": "2011"
+    },
+    {
+      "title": "Wellesley College",
+      "degree": "BA",
+      "fieldofstudy": "Computer Science, Mathematics",
+      "date1": "1997",
+      "date2": "2001"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Computer Science",
+      "count": "24"
+    },
+    {
+      "title": "Haskell",
+      "count": "25"
+    },
+    {
+      "title": "Algorithms",
+      "count": "22"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "1",
+    "receivedCount": "1",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/chrischuneducator/",
+        "text": "If you have to eat 9 ice creams in one day, call Tim. I recommend Tim for all your ice cream eating needs."
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/chrischuneducator/",
+        "text": "If you have to eat 12 ice creams in one day, call Chris. Chris can not only satisfy your ice cream eating needs, but motivate, train and mentor others who aspire to similar heights."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "4",
+      "items": [
+        "Dear 'Anonymous' Wellesley Trans Man, Excluding Trans Women Isn't Really About 'Safety'",
+        "Killing the Messenger at Mozilla: Hero worship, “meritocracy” and the Eich crisis",
+        "Gendered Language: Feature or Bug in Software Documentation? How open source enforces male domination through shaming and hostility",
+        "A Certified Framework for Compiling and. Executing Garbage-collected Languages"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "Geek Feminism Blog",
+        "Geek Feminism Wiki",
+        "Internet Oracle"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "English",
+        "French"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/james-damore-b277b62b/",
+      "text": "Senior Software Engineer at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nadavrotem/",
+      "text": "Engineering Director of Compiler team at Facebook (We are hiring)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/everding-daniel-11896ba/",
+      "text": "Software Engineer - Test Automation Lead"
+    },
+    {
+      "user": "https://www.linkedin.com/in/irene-knapp/",
+      "text": "Ethical Software Engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jess-muskin-pierret-68776668/",
+      "text": "Software Engineer at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/scriptedmotion/",
+      "text": "Senior software engineer at Stackforce"
+    },
+    {
+      "user": "https://www.linkedin.com/in/cameron-vogler-892556124/",
+      "text": "Specializing in Automation Through Protractor"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ihab-awad-8ba3011/",
+      "text": "Software engineer at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/padmapriya-rajasekaran-11319215a/",
+      "text": "Software Developer at Catalyte"
+    },
+    {
+      "user": "https://www.linkedin.com/in/robhilgefort/",
+      "text": "Senior Software Engineer at PwC"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "HIV counselor in training",
+      "experience": "Berkeley Free Clinic",
+      "description": "Health",
+      "date1": "Jan 2019 – Present",
+      "date2": "11 mos"
+    },
+    {
+      "title": "CASA (Court-Appointed Special Advocate)",
+      "experience": "Alameda County CASA",
+      "description": "Children",
+      "date1": "Jun 2017 – Present",
+      "date2": "2 yrs 6 mos"
+    },
+    {
+      "title": "Writing Coach",
+      "experience": "WriterCoach Connection",
+      "description": "Education",
+      "date1": "Nov 2017 – May 2018",
+      "date2": "7 mos"
+    },
+    {
+      "title": "FOSS Outreach Program: career mentor",
+      "experience": "GNOME Foundation",
+      "description": "Education",
+      "date1": "Nov 2014 – Jun 2015",
+      "date2": "8 mos"
+    },
+    {
+      "title": "Outreach Program for Women: mentor",
+      "experience": "GNOME Foundation",
+      "description": "Education",
+      "date1": "Oct 2013 – Jan 2014",
+      "date2": "4 mos"
+    },
+    {
+      "title": "Volunteer",
+      "experience": "All Hands Volunteers",
+      "description": "Disaster and Humanitarian Relief",
+      "date1": "Jul 2010 – Aug 2010",
+      "date2": "2 mos"
+    },
+    {
+      "title": "GED tutor",
+      "experience": "Southeast Works - Portland, Oregon",
+      "description": "Education",
+      "date1": "Sep 2009 – Mar 2010",
+      "date2": "7 mos"
+    }
+  ],
+  "profile": {
+    "name": "Tim Chevalier",
+    "headline": "Programming language researcher and computer science educator",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQG1-nACj_W2Mw/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=ZmwhwwXSNvhuL0QvmfeK3GWnBNYP0cBPq8xISE8bvY4",
+    "location": "Oakland, California",
+    "connections": "431",
+    "summary": "I'm an experienced software developer and computer science researcher who is in the process of moving into computer science education.\n\nI'm also interested in technical consulting opportunities related to programming language design and implementation, functional programming, compilation, program verification, type systems, software quality, or static analysis. I have a particular interest in modern typed programming languages like Rust and Haskell, but specific technologies are less important to me than people are.\n\nI'm a skilled writer with experience in technical editing and permissions work, and am also interested in technical writing or editing work.\n\nLanguages: Rust, Haskell, Erlang, SML, OCaml, Java, C/C++, et al."
+  }
+}

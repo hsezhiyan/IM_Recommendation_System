@@ -1,0 +1,154 @@
+{
+  "profileAlternative": {
+    "name": "Jason Roth",
+    "headline": "SQL Developer",
+    "location": "Greater New York City Area",
+    "connections": "157",
+    "summary": "Over 4 years of experience focused on delivering Business Intelligence Analysis tools. Skilled in T - SQL, SSIS,SSRS 2005/2008/2012, Data Warehousing, ETL, data mapping, system installation and configuration, upgrading, query optimization and tuning, Backup/Restore, data import/export, troubleshooting, testing, data load automation, star schema, snow flake schema, Stored procedures, Functions etc. Flexible, enthusiastic and project oriented team player with strong analysis, design, development, testing, and implementation experience. Solid communication and leadership skills to develop creative solutions for challenging client needs."
+  },
+  "aboutAlternative": {
+    "text": "Over 4 years of experience focused on delivering Business Intelligence Analysis tools. Skilled in T - SQL, SSIS,SSRS 2005/2008/2012, Data Warehousing, ETL, data mapping, system installation and configuration, upgrading, query optimization and tuning, Backup/Restore, data import/export, troubleshooting, testing, data load automation, star schema, snow flake schema, Stored procedures, Functions etc. Flexible, enthusiastic and project oriented team player with strong analysis, design, development, testing, and implementation experience. Solid communication and leadership skills to develop creative solutions for challenging client needs."
+  },
+  "positions": [
+    {
+      "title": "SQL Developer",
+      "companyName": "White Plains Hospital",
+      "location": "White Plains, New York",
+      "description": "Collaborate with clinical users and informaticist to gather business requirements for new data development tasks. Analyze clinical work flow and application to identify related information extraction method in SQL data warehouse.\nHands-on development in complex data extraction utilizing SQL technologies such as stored procedures, SSIS and .NET. Engineer efficient, automated and reliable solutions to deliver accurate data results.\nAnalyze clinical and business needs and requirements to define and build datamart with historical and multidimensional structure in assisting management decision-making for financial planning and clinical efficiency.\nAnalyze clinical data structure between different systems to integrate data into a central data warehouse.\nDevelop complex dashboard reports and scheduled delivery processes utilizing SSRS, SSIS and SQL jobs.\nEfficiently produce ad-hoc SQL based reports in an on-demand environment.\nImprove, reengineer and optimize legacy reports utilizing available technologies. Architect and design new database structure and schema. Maintain healthy SQL server, performance tuning and resolve data specific issues.\nMaintain existing and develop new ETL processes to facilitate healthcare data exchange between SQL data repository, datamart and other data sources.\n…\nsee more",
+      "date1": "Dec 2015 – Present",
+      "date2": "4 yrs"
+    },
+    {
+      "title": "SQL Developer",
+      "companyName": "Stamford Hospital",
+      "description": "Analyze business requirements and functional specifications and translated them to technical solutions.\nDrive design process and develop solutions according to design specifications.\nDesign SSIS packages to load dimensional and fact data in to data warehouse.\nTest existing SSIS packages for data load and resolve any functional or performance issues.\nPerform upgrades on existing SSIS packages from SQL 2005/2008 to 2012\nImport production data from various sources including Access, Excel, and perform data validations, data cleaning, apply logics to meet business requirements.\nDesigned SSIS packages for new data warehouse loads utilizing SQL 2005 / 2008 / 2012 databases and MS BI development studio (Visual Studio 2010 / 2012).\nDesigned and implemented data models with Erwin.\nCreated SSRS reports based on business intelligence specifications.\nPerformed upgrades on existing SSIS from SQL 2005 / 2008 and DTS 2000 to SQL 2012.\nDeployed SSIS packages to QA and production servers and provided production support.\nCreated stored procedures and other utilities to manage relational and dimensional data.\nAssisted with installation and configuration of SQL instances.\nAssisted Senior Database Administrator with performance tuning, back up procedures / schedules.\n\n…\nsee more",
+      "date1": "Jan 2014 – Sep 2015",
+      "date2": "1 yr 9 mos"
+    },
+    {
+      "title": "Data Operations Intern",
+      "companyName": "Argus Information & Advisory Services",
+      "description": "Development of batch processing files for automation of monthly tasks\nCreate back up procedures for information\n\nData Analysis and Database Development; Developed MS Access database(s) to capture key financial information for large multinational insurance company\nBuilt MS Excel macros to automate data retrieval, analysis, and reporting capabilities\n…\nsee more",
+      "date1": "May 2012 – Dec 2013",
+      "date2": "1 yr 8 mos"
+    },
+    {
+      "title": "Clinical Trial Support Specialist",
+      "companyName": "Boehringer Ingelheim Pharmaceuticals, Inc",
+      "description": "Monitored, collected and tracked trial information regarding Financial Disclosures, prepared regulatory documents for New Drug Application (NDA) submissions by Drug and Regulatory Affairs upon completion\nDeveloped a solid understanding of the international process for trial related functions, especially Financial Disclosure collection\nCreated MS Access database used for storage and processing of investigator information; Database also served to give upper level management information regarding status of upcoming submissions and streamlined processes and reduces time needed to accomplish deadlines by creating regulatory documents used for New Drug Application (NDA) submissions to the FDA\n…\nsee more",
+      "date1": "Nov 2007 – Dec 2009",
+      "date2": "2 yrs 2 mos"
+    },
+    {
+      "title": "Maintenance Data Systems Analyst",
+      "companyName": "United States Air Force",
+      "location": "Hurlburt Field, FL",
+      "date1": "Mar 2004 – Sep 2007",
+      "date2": "3 yrs 7 mos"
+    },
+    {
+      "title": "Data entry Analyst",
+      "companyName": "Millennix Inc",
+      "description": "Imaged and indexed all Patient Case Report Forms in Clinical Data Management System (CDMS).\nResearched and resolved indexing discrepancies\nCompleted double key data entry from imaged CRF’s into CDMS\nVerified and approved entered data\nPerformed database QA/QC on assigned projects\n…\nsee more",
+      "date1": "Nov 2001 – Sep 2003",
+      "date2": "1 yr 11 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Pace University",
+      "degree": "Computer Science",
+      "fieldofstudy": "Computer Science",
+      "date1": "2010",
+      "date2": "2013"
+    }
+  ],
+  "skills": [
+    {
+      "title": "SQL",
+      "count": "11"
+    },
+    {
+      "title": "Java",
+      "count": "8"
+    },
+    {
+      "title": "Databases",
+      "count": "8"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "1",
+    "receivedCount": "1",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/tyler-marino-0354a759/",
+        "text": "Jason is a quality IT professional with great experience within the SQL development space. He has been a pleasure to work with and has made my job very easy throughout the course of our relationship. Jason is hard working, strong willed, and an organized IT professional. I am looking forward to working with him both now and in the future and would recommend him for any opportunity.\n…\nSee more"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/tyler-marino-0354a759/",
+        "text": "Working with Tyler has been and still is a truly pleasurable experience.  Tyler took the time to get to know me and has been on my side throughout the entire process.  He was extremely responsive, and eager in assisting me find an opportunity.  Never once did I question that Tyler was on my team, doing what he could to make the job offer not only happen but also include the salary I was looking for.  I can’t say it enough, if you’re looking for a job or want to make a change Tyler and TEKSystems will work hard to get you what you’re looking for!"
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "1",
+      "items": [
+        "Sign Languages"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/jasper-shahn-24a33254/",
+      "text": "SQL Developer at Alacra"
+    },
+    {
+      "user": "https://www.linkedin.com/in/rbrezner/",
+      "text": "SQL Developer at SNF Metrics"
+    },
+    {
+      "user": "https://www.linkedin.com/in/andrew-strickland-986b4513/",
+      "text": "PL/SQL Developer at EMERA MAINE"
+    },
+    {
+      "user": "https://www.linkedin.com/in/vinoth-kumar-mani-282a66106/",
+      "text": "SQL Developer at Coach"
+    },
+    {
+      "user": "https://www.linkedin.com/in/payal-patel-186616164/",
+      "text": "Senior SQL Developer at Sharp Electronic"
+    },
+    {
+      "user": "https://www.linkedin.com/in/zisha-twersky-3a243858/",
+      "text": "sql developer at B&H photo"
+    },
+    {
+      "user": "https://www.linkedin.com/in/vijayalaxmi-tipparthi-1617a1143/",
+      "text": "Sr. SQL Developer at Barclay Simpson"
+    },
+    {
+      "user": "https://www.linkedin.com/in/megha-pise-01560a182/",
+      "text": "SQL Developer at Segal Consulting"
+    },
+    {
+      "user": "https://www.linkedin.com/in/betty-b-chen/",
+      "text": "SQL Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/gavinrjackson/",
+      "text": "SQL Developer"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Jason Roth",
+    "headline": "SQL Developer",
+    "location": "Greater New York City Area",
+    "connections": "157",
+    "summary": "Over 4 years of experience focused on delivering Business Intelligence Analysis tools. Skilled in T - SQL, SSIS,SSRS 2005/2008/2012, Data Warehousing, ETL, data mapping, system installation and configuration, upgrading, query optimization and tuning, Backup/Restore, data import/export, troubleshooting, testing, data load automation, star schema, snow flake schema, Stored procedures, Functions etc. Flexible, enthusiastic and project oriented team player with strong analysis, design, development, testing, and implementation experience. Solid communication and leadership skills to develop creative solutions for challenging client needs."
+  }
+}

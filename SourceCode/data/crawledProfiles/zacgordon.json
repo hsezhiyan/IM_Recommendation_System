@@ -1,0 +1,239 @@
+{
+  "profileAlternative": {
+    "name": "Zac Gordon",
+    "headline": "Educator",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQGkcGGsTbDxpQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=i80VYsX66SH4PMLP4e_bnisPUxo6LQJc_4bN2y-ppEY",
+    "location": "Washington, District Of Columbia",
+    "connections": "500+",
+    "summary": "I am an experienced educator training students, teachers and professionals on the fundamentals, best practices, and latest trends on the web. At the moment, I am particularly focused on JavaScript and WordPress Development.\n\nI also own Web Hosting for Students, the world's leading hosting company dedicated to providing students and teachers hosting accounts for learning how to design, build and develop on the web."
+  },
+  "aboutAlternative": {
+    "text": "I am an experienced educator training students, teachers and professionals on the fundamentals, best practices, and latest trends on the web. At the moment, I am particularly focused on JavaScript and WordPress Development.\n\nI also own Web Hosting for Students, the world's leading hosting company dedicated to providing students and teachers hosting accounts for learning how to design, build and develop on the web."
+  },
+  "positions": [
+    {
+      "title": "Educator",
+      "companyName": "JavaScript for WordPress",
+      "description": "Create courses, run online bootcamps, host live and recorded shows for developers, put on a virtual conference, promote other educators.",
+      "date1": "Dec 2015 – Present",
+      "date2": "4 yrs"
+    },
+    {
+      "title": "CEO",
+      "companyName": "Web Hosting for Students",
+      "description": "Oversee the direction of one of the world's leading Web Hosting Companies dedicated to Students, Teachers and Schools.",
+      "date1": "Sep 2005 – Present",
+      "date2": "14 yrs 3 mos"
+    },
+    {
+      "title": "Instructor",
+      "companyName": "Udemy",
+      "description": "Featured educator on WordPress Development.",
+      "date1": "Apr 2017 – Present",
+      "date2": "2 yrs 8 mos"
+    },
+    {
+      "title": "Consultant",
+      "companyName": "Udacity",
+      "location": "San Francisco Bay Area",
+      "description": "Provided consulting on iterative recording practices and pedagogical best practices.",
+      "date1": "Mar 2017 – Present",
+      "date2": "2 yrs 9 mos"
+    },
+    {
+      "title": "Trainer and Coach",
+      "companyName": "WP Elevation",
+      "description": "Create online courses and offer one on one coaching about best practices for WordPress agencies and developers.",
+      "date1": "Jan 2017 – Present",
+      "date2": "2 yrs 11 mos"
+    },
+    {
+      "title": "JavaScript Coach",
+      "companyName": "XWP",
+      "description": "Led monthly JavaScript Study Group Sessions, education on JavaScript, and discussions of technology stacks and implementation practices.",
+      "date1": "Jan 2017 – Jan 2018",
+      "date2": "1 yr 1 mo"
+    },
+    {
+      "title": "Workshop Instructor",
+      "companyName": "Human Made Global",
+      "description": "Led workshops at Day of REST and Week of REST in person events. Taught JavaScript, React and WordPress API Driven Development.",
+      "date1": "Jul 2016 – Mar 2017",
+      "date2": "9 mos"
+    },
+    {
+      "title": "Trainer",
+      "companyName": "Materiell | Web Design and Development",
+      "description": "I serve as a stand in trainer and educator at Materiel, which does great WordPress related education projects. This includes client training on custom WordPress projects as well as public presentations and talks on Materiell's education related projects.",
+      "date1": "May 2016 – Dec 2016",
+      "date2": "8 mos"
+    },
+    {
+      "title": "WordPress Instructor",
+      "companyName": "WP101",
+      "description": "Released a course on Jetpack.",
+      "date1": "Jun 2016 – Jul 2016",
+      "date2": "2 mos"
+    },
+    {
+      "title": "WordPress Teacher",
+      "companyName": "Treehouse Island Inc.",
+      "description": "I was the primary and lead WordPress teacher at Treehouse, producing 1-2 courses per month on both beginner and advanced WordPress content. This included managing guest teachers as well as determining the direction of WordPress education at Treehouse.\n\nWas let go at the end of 2015 when Treehouse stopped teaching WordPress.\n…\nsee more",
+      "date1": "Jul 2012 – Dec 2015",
+      "date2": "3 yrs 6 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "University of Cambridge",
+      "degree": "Mayan Calendrics and Mathematics",
+      "fieldofstudy": "Anthropology",
+      "date1": "2002",
+      "date2": "2003"
+    },
+    {
+      "title": "University of Maryland",
+      "degree": "Masters",
+      "fieldofstudy": "Education",
+      "date1": "2005",
+      "date2": "2006"
+    },
+    {
+      "title": "University of Maryland",
+      "degree": "BA",
+      "fieldofstudy": "World History",
+      "date1": "2002",
+      "date2": "2005"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Web Design",
+      "count": "66"
+    },
+    {
+      "title": "User Experience",
+      "count": "61"
+    },
+    {
+      "title": "Web Development",
+      "count": "58"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "13",
+    "receivedCount": "14",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/mmuhsin/",
+        "text": "I have taken some of Zac's courses and he has a great way of explaining and making complex things easy to understand. I have recently been working with Zac on the GatsbyWPThemes.com project and have found him to be a great mentor. He has advised me with the best approach for taking the project forward and has been extremely kind and professional. A pleasure to work with. I would highly recommend taking Zac's courses or working with him.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/matt-watson/",
+        "text": "I was tutored by Zac on the Human Made \"A Week of Rest\" course. I found Zac to be friendly, approachable and incredibly knowledgeable of the subjects covered, from JavaScript and ES6 to ReactJS (and beyond). Zac's personality and unique approach made the course a pleasure to attend. I look forward to attending future events of Zac's as well as subscribing to the fantastic digital content he produces.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/ryankienstra/",
+        "text": "Zac is an exceptional educator. He has a rare clarity in explaining complex topics. And he shows them in concrete examples and projects. At XWP, we've been fortunate to have Zac lead our \"JavaScript for WordPress\" study groups. He has unique insight into the future of JavaScript and WordPress. And to the areas where we could focus. I'd recommend taking any opportunity to work with Zac. His \"JavaScript For WordPress Master Course\" is one of the most thorough and forward-thinking courses I've taken. But personal interaction with him is also really valuable, and is sure to bring new insights.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/ozozel/",
+        "text": "I was very fortunate to work with Zac on Social Learning integration for Blackboard Learn for about a year. From ideation to design, from design to code, it was a blast working with him! His consistently positive attitude and strong urge to make things better (UX+Design+Code) are some of my favorite qualities of his. His attention to detail, powerful brainstorming and rapid prototyping abilities, and energetic yet peaceful personality is a huge contribution to any team that he is part of. If I ever need to pick a partner to design the next best web/app design, Zac is on the top of my list.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/liltydings/",
+        "text": "I met Zac a few years ago when we were both teaching Web Design and Development at Montgomery College. I was very impressed with Zac's design and front-end abilities right off the bat. I would have hired him on the spot but he played hard to get. When I was finally able to bring him on board as an Experience Designer for Blackboard, he played a key role as an ideator, designer and front-end developer for Blackboard Learn, and also contributed toward the success of various client projects. Aside, Zac has an overflowing personality that is contagious and can lift up the mood of an entire department. One of the best things I love about Zac is that he is always game for everything: he can go from being a serious coder to a video maker to a rapper to a designer. Zac would make a tremendous additions to any teaching and learning environment.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/svetoslav-kostadinov-6559a638/",
+        "text": "Zac is extreamly exerienced and passioned programmer. He is friendly and working with him is extreamly easy. Inexhaustible source of knowledge and Ideas. I believe he will reach high academic and professional results!"
+      },
+      {
+        "user": "https://www.linkedin.com/in/tanzinaiman/",
+        "text": "Mr. Gordon is by far one of the best instructors I had while attending Springbrook High School!! I first met Mr. Gordon during my freshman year taking Honors US History when he was beginning his career as a teacher. Despite the fact that he was just starting his profession as an educator, I must say he was fantastic both inside and outside of the classroom!! While instructing, he always ensured that the classroom maintained an interactive atmosphere. He did not just lecture at students, but rather, he always ensured to involve the students so that they felt engaged all the while. He made history \"fun\" for his students!! I was fortunate enough to have Mr. Gordon as an instructor for the second time when I enrolled in the signature International Baccalaureate course titled Information Technology in a Global Society. He was an excellent educator!! Having seen him perform as a teacher in two different areas I can affirm that he is a teacher who deserves to be acknowledged for the service he is providing to his community. Plenty of people strive to teach, but they lack the necessary skills to deliver quality service to their students inside the classroom. This gentleman truly has mastered the art of teaching and he totally deserve a shout-out for his continuous effort to educate his students. He always had innovative ways to engage his students, which was something that always captivated me about Mr. Gordon's teaching style. He also looked out for his students beyond the walls of the classroom and that to me is an educator who loves what he does on a day-to-day basis. A happy, vibrant educator can make all the difference in the world for a student because he holds the secret to establishing the optimal teaching and learning environment - I could not think of anyone else who would do a better job than Mr. Gordon!!\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/jamesmrobinson/",
+        "text": "Zac is a talented educator, designer, and developer who has a knack for bringing together motivated students and fellow web professionals. His efforts in forming Refresh Rockville have resulted in a fun and social learning environment highly beneficial to anyone interested in furthering their knowledge of the creative and technical aspects of new media.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/joanne-digiorgio-92480518/",
+        "text": "Zac is one of the best teachers I've ever had. He is one of the rare \"techies\" who seems brilliant (to me, a graphic designer) and excited about what he does, and at the same time has not a trace of arrogance about him. He is a really encouraging teacher with great interpersonal skills."
+      },
+      {
+        "user": "https://www.linkedin.com/in/jleveille/",
+        "text": "Zac treats his contract workers with respect, and does not dictate solutions to the professionals he hires. Not only that, but he pays his contract workers even in the face of clients who are not paying him. I look forward to future work with Zac."
+      },
+      {
+        "user": "https://www.linkedin.com/in/doylekat/",
+        "text": "Zac is a very engaging and gifted instructor . He teaches a challenging, constantly, evolving subject and amazes me with the breadth of his knowledge of it. Zac shows a lot of passion for his work as a teacher as well as passion for the standards of the web. He has the ability to push his students beyond what they imagine they can do, and that is the trait of a true educator. Finally, his sense of humor and his humbleness keep him very approachable and I always look forward to my classes with him.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/patyongpradit/",
+        "text": "Mr. Zac Gordon is a creative, passionate, and visionary teacher who I have had the honor of knowing for three years as a colleague at Springbrook High School. I have been afforded the opportunity to experience his unique talents and capabilities as a teacher who shares my classroom, as his peer mentor, and as his friend. One does not come across a teacher of Mr. Gordon’s caliber often, a teacher who has passion, expertise, and student appeal. I have known Mr. Gordon as a peer in the Computer Science department for three years. His skill as a professional web designer who also runs his own company is an asset in his class. He routinely talks about experiences he has had with clients and gives real professional advice that students can trust. Professional experience does not always go hand in hand with teaching ability, but in Zac's case, it does. As his peer mentor, I have observed countless examples of Mr. Gordon’s pedagogical skill. His lessons are filled with metaphors, germane examples, and detailed instructions for creating web sites. He routinely reflects on the efficacy of his lessons and makes improvements. He spends hours planning and compiling resources in order to put his curriculum on the Internet to make his information more accessible to his students. I feel comfortable knowing that I have a peer that shares my same vision for our program, and I feel challenged to apply myself to my goals as much as Mr. Gordon.\n…\nSee more"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/mmuhsin/",
+        "text": "I am so glad I connected with Muhammad!  His experience with cutting edge technology in JavaScript and WordPress has been such an asset to our project porting WordPress themes over to Gatsby themes.  His communication skills on top of that have helped him share with everyone HOW he does what he does through in depth tutorials.  If you have a chance to work with Muhammad on development or educational work, I suggest you go for it!"
+      },
+      {
+        "user": "https://www.linkedin.com/in/liltydings/",
+        "text": "Lil is by far the most inspiring person I have ever had the pleasure of calling boss. \r\n\r\nShe is constantly immersed in the latest trends and practices in project management, forward thinking design, and in general how to create a great team.  When she brought this back to our team it propelled us into being more creative and harder working people.\r\n\r\nAny team that has Lil on board is lucky and will definitely notice the effects of having such an energetic and creative person on board!\r\n\r\nIn addition to working for Lil as a UX designer at Blackboard, I have also had the opportunity to teach web design at the college level along side her.  I could always tells students who graduated from her classes because they thought out of the box more than other students and in general had a stronger motivation to succeed in their studies."
+      }
+    ]
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/brad-schiff-32a02bb4/",
+      "text": "Web Developer & Educator"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ted-herring/",
+      "text": "Professional Consultant | Enhance Process | Grow | Optimize Teams | Increase ROI | Entreprenuership"
+    },
+    {
+      "user": "https://www.linkedin.com/in/teymi-herring-408804b3/",
+      "text": "Ensemble Leader at Emmanuel Brinklow"
+    },
+    {
+      "user": "https://www.linkedin.com/in/james-macgregor-watson-405b9b29/",
+      "text": "Sr CTI Analyst at ASM Research"
+    },
+    {
+      "user": "https://www.linkedin.com/in/justin-tadlock-3905747/",
+      "text": "Web Developer at Theme Hybrid"
+    },
+    {
+      "user": "https://www.linkedin.com/in/lee-schneller-sligh-a871028/",
+      "text": "Owner at Lee Schneller Fine Gardens"
+    },
+    {
+      "user": "https://www.linkedin.com/in/billerickson/",
+      "text": "WordPress Consultant"
+    },
+    {
+      "user": "https://www.linkedin.com/in/joshgellock/",
+      "text": "SEO and Content Strategist"
+    },
+    {
+      "user": "https://www.linkedin.com/in/menescardi/",
+      "text": "WordPress/React.js Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/angela-ginn-meadow-2639431a/",
+      "text": "Media Spokesperson at Real Talk Real Food"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Zac Gordon",
+    "headline": "Educator",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQGkcGGsTbDxpQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=i80VYsX66SH4PMLP4e_bnisPUxo6LQJc_4bN2y-ppEY",
+    "location": "Washington, District Of Columbia",
+    "connections": "500+",
+    "summary": "I am an experienced educator training students, teachers and professionals on the fundamentals, best practices, and latest trends on the web. At the moment, I am particularly focused on JavaScript and WordPress Development.\n\nI also own Web Hosting for Students, the world's leading hosting company dedicated to providing students and teachers hosting accounts for learning how to design, build and develop on the web."
+  }
+}

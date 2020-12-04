@@ -1,0 +1,200 @@
+{
+  "profileAlternative": {
+    "name": "Reddy A",
+    "headline": "SQL/DATABASE Developer || Actively looking for new opportunities.",
+    "location": "Irving, Texas",
+    "connections": "500+",
+    "summary": "• Having 3 years of Experience in SQL/ETL, Data Warehousing and development and Maintenance of Integration Services using Talend Data Integration.\n• Experience working with business users to gather application, data or security requirements.\n• Experience in ETL tools for Data Mapping, Data conversion, Data Migration using Talend Data Integration, SSIS.\n• Experience of in SQL Server, retrieving data from databases using T-SQL, Import data from other filesystems.\n• Created mappings using Lookup, Aggregator, Joiner, Expression, Filter, Normalizer and De-Normalizer, Maps Transformations. Developed reusable Transformation and Job lets.\n• Hands on experience working with SQL Server Integration Services(SSIS) and SQL Server Reporting Services (SSRS).\n• Experience in Interacting with Business users to analyze business process and transforming requirements into screens, performing ETL, documenting and rolling out the deliverables.\n• Demonstrated expertise utilizing ETL tools: Talend Data Integration, SQL Server Integration Services (SSIS), Developed slowly changing dimension (SCD) mappings using Type methods.\n• Expertise in Extract Transform Load (ETL) and Data Transformation Services (DTS).\n• Experience in Extraction, Transformation, loading data from Oracle, DB2, SQL Server, MS Access, Excel, Flat Files using Talend.\n• Knowledge in normalization/denormalization techniques for optimum performance in relational and dimensional database environments and building Referential Integrity Constraints.\n• Expert in all areas of SQL Server development including tables, user functions, views, indexes, Stored procedures, functions, triggers, clustering, T-SQL, relational database models, data dictionaries, and data integrity & warehousing concepts.\n• Experienced in Waterfall, Agile/Scrum Development.\n• Effective communication and interpersonal skills, ability to learn quickly, with good analytical reasoning and adaptive to new and challenging technological environment."
+  },
+  "aboutAlternative": {
+    "text": "• Having 3 years of Experience in SQL/ETL, Data Warehousing and development and Maintenance of Integration Services using Talend Data Integration.\n• Experience working with business users to gather application, data or security requirements.\n• Experience in ETL tools for Data Mapping, Data conversion, Data Migration using Talend Data Integration, SSIS.\n• Experience of in SQL Server, retrieving data from databases using T-SQL, Import data from other filesystems.\n• Created mappings using Lookup, Aggregator, Joiner, Expression, Filter, Normalizer and De-Normalizer, Maps Transformations. Developed reusable Transformation and Job lets.\n• Hands on experience working with SQL Server Integration Services(SSIS) and SQL Server Reporting Services (SSRS).\n• Experience in Interacting with Business users to analyze business process and transforming requirements into screens, performing ETL, documenting and rolling out the deliverables.\n• Demonstrated expertise utilizing ETL tools: Talend Data Integration, SQL Server Integration Services (SSIS), Developed slowly changing dimension (SCD) mappings using Type methods.\n• Expertise in Extract Transform Load (ETL) and Data Transformation Services (DTS).\n• Experience in Extraction, Transformation, loading data from Oracle, DB2, SQL Server, MS Access, Excel, Flat Files using Talend.\n• Knowledge in normalization/denormalization techniques for optimum performance in relational and dimensional database environments and building Referential Integrity Constraints.\n• Expert in all areas of SQL Server development including tables, user functions, views, indexes, Stored procedures, functions, triggers, clustering, T-SQL, relational database models, data dictionaries, and data integrity & warehousing concepts.\n• Experienced in Waterfall, Agile/Scrum Development.\n• Effective communication and interpersonal skills, ability to learn quickly, with good analytical reasoning and adaptive to new and challenging technological environment."
+  },
+  "positions": [
+    {
+      "title": "SQL/ETL(Talend) Developer",
+      "companyName": "Infosoft Systems",
+      "description": "Responsibilities:\n• Worked closely with Business Analysts, SME and Data Warehouse architects to understand the source data, target layout and need for the Warehouse.\n• Implemented File Transfer Protocol operations using Talend Studio to transfer files in between network folders.\n• Worked in Agile SDLC methodology team to develop a common formal SDLC based on iterative and incremental development.\n• Created Talend jobs to copy the files from one server to another and utilized Talend FTP components.\n• Experienced working with all phases of Data warehouse development starting from gathering the requirements, developing, unit testing and documenting.\n• Used more components in Talend and Few to be mentioned: tjava, toracle, txmlMap, tdelimited files, tlogrow, tlogback components etc. in many of my Jobs Design.\n• Worked on Joblets (reusable code) & Java routines in Talend.\n• Responsible for passing the requirements to offshore team and co-ordinate with them in completing the tasks and then presenting them to the client.\n• Experienced in writing SQL Queries and used Joins to access data from Oracle, and MySQL.\n• Developed Talend mapping as per the ETL design document and Source to Target mapping sheet.\n• Developed Talend mappings that extracts the data from multiple sources like Oracle & SQL Server, Transforms the data and Loads the data into Teradata.\n• Implemented complex mapping to load data into target tables using SCD Type 1, 2 & 3.\n• Creating Test cases & performed Unit testing, involved in migrating the code to SIT & UAT environment to deliver the data to the testers & users.\n• Validate the data in warehouse and data marts after loading process balancing with source data.\n• Facilitate code migration to Production and also provided warranty/production support.\n\nEnvironment: Talend, XML files, DB2, Oracle 11g, SQL server, SQL, MS Excel, MS Access, Java, TOAD, JIRA, Git, Visual Studio, Talend Open Studio, JUnit\n\n…\nsee more",
+      "date1": "May 2017 – Present",
+      "date2": "2 yrs 7 mos"
+    },
+    {
+      "title": "SQL Developer",
+      "companyName": "Infosoft",
+      "description": "This project is designed and developed for maintenance of all drugs inventory at the Labs. The database facilitated maintains data related to all the pharmacy purchase orders and inventory in warehouse. It is also facilitated for analysis on specific purchase orders and scheduled deliveries to maintain and update the current stock\n• Extraction, Transformation and data loading were performed using Talend into the database. Involved in Logical and Physical modeling of the drugs database.\n• Involved as a team member for requirement analysis in design phase of the Project.\n• Experience in handling Extraction Transformation and Loading (ETL) process by pulling large volume of data from various data sources using SSIS.\n• Followed the organization defined Naming conventions for naming the Flat file structure, Talend Jobs and daily batches for executing the Talend Jobs.\n• Developed stored procedures, functions and database triggers according to specific business logic.\n• Experience in working with different control flow elements like Data Flow Task, Bulk Insert Task, Active X scripts, Execute SQL Task, Script Task, Send Mail Task, and XML Task.\n• Experience in working with different data flow elements like Flat File, OLEDB, Excel Sources and Destinations, Data Conversion, Term Extraction, Conditional Split, Derived Column, Pivot etc.\n• Created complex Stored Procedures, Functions, DTS packages, Triggers, Cursors, Tables, Views, Indexes and other SQL joins and statements for applications.\n• Scheduled reports to run daily, weekly and monthly based on the requirement Report Manager.\n• Created Jobs, Alerts, Activity logs, Error logs to capture any possible errors using SQL server Agent.\n\n…\nsee more",
+      "date1": "Jan 2017 – May 2017",
+      "date2": "5 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "University of Central Missouri",
+      "degree": "Master's degree",
+      "fieldofstudy": "Computer Science",
+      "date1": "2016",
+      "date2": "2017"
+    },
+    {
+      "title": "Jawaharlal Nehru Technological University",
+      "degree": "Bachelor of Technology - BTech",
+      "date1": "2011",
+      "date2": "2015"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Talend"
+    },
+    {
+      "title": "SQL",
+      "count": "1"
+    },
+    {
+      "title": "Extract, Transform, Load (ETL)"
+    },
+    {
+      "title": "Software Development Life Cycle (SDLC)"
+    },
+    {
+      "title": "Agile & Waterfall Methodologies"
+    },
+    {
+      "title": "HTML5"
+    },
+    {
+      "title": "JavaScript"
+    },
+    {
+      "title": "Bootstrap"
+    },
+    {
+      "title": "Microsoft SQL Server"
+    },
+    {
+      "title": "Oracle SQL Developer"
+    },
+    {
+      "title": "SQL Server Integration Services (SSIS)"
+    },
+    {
+      "title": "Github"
+    },
+    {
+      "title": "MySQL"
+    },
+    {
+      "title": "JUnit"
+    },
+    {
+      "title": "JIRA"
+    },
+    {
+      "title": "SVN"
+    },
+    {
+      "title": "Visual Studio"
+    },
+    {
+      "title": "Eclipse"
+    },
+    {
+      "title": "Windows"
+    },
+    {
+      "title": "Mac"
+    },
+    {
+      "title": "Jenkins"
+    },
+    {
+      "title": "Microsoft Office"
+    },
+    {
+      "title": "Microsoft Excel"
+    },
+    {
+      "title": "Microsoft Access"
+    },
+    {
+      "title": "Java"
+    },
+    {
+      "title": "Transact-SQL (T-SQL)"
+    },
+    {
+      "title": "Oracle Database"
+    },
+    {
+      "title": "Microsoft Power BI"
+    },
+    {
+      "title": "Webstorm"
+    },
+    {
+      "title": "CSS3"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "1",
+      "items": [
+        "Advanced Software Engineering, Advance Computer Networking & Security, Advanced Database Systems, Web Programming and Services, Algorithms & Data Structures, Advanced Operating Systems, Advance Mobile App Development, Software Engineering"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/kumar-adarsh-82310a14b/",
+      "text": "Actively looking for Contract positions in ETL/Ecommerce/Teradata/Vertica/informatica developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/rajashekar-g-6513b915a/",
+      "text": "Actively seeking Teradata/Informatica ETL Developer contract Opportunities"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sdevarasetty/",
+      "text": "Actively looking for new opportunities in Microsoft Power BI/SSRS/SSIS/Tableau"
+    },
+    {
+      "user": "https://www.linkedin.com/in/divya-mv-b99a3b1a/",
+      "text": "ETL / PLSQL Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/taranjeet-kaur-b18520117/",
+      "text": "Looking for Business Analyst Position"
+    },
+    {
+      "user": "https://www.linkedin.com/in/wayne-nguyen-32557b35/",
+      "text": "SQL/DW/ETL/BI Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/julie-connolly-05a06a10b/",
+      "text": "Senior Manager, Business Intelligence at Merkle"
+    },
+    {
+      "user": "https://www.linkedin.com/in/daniel-lu-a745b9164/",
+      "text": "SQL/SSIS Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/manoj-p-60120917b/",
+      "text": "Baxter Health Care at Teradata/ Informatica Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sneharavi/",
+      "text": "Business Intelligence Analyst at Comprehensive Logistics Co., Inc."
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Reddy A",
+    "headline": "SQL/DATABASE Developer || Actively looking for new opportunities.",
+    "location": "Irving, Texas",
+    "connections": "500+",
+    "summary": "• Having 3 years of Experience in SQL/ETL, Data Warehousing and development and Maintenance of Integration Services using Talend Data Integration.\n• Experience working with business users to gather application, data or security requirements.\n• Experience in ETL tools for Data Mapping, Data conversion, Data Migration using Talend Data Integration, SSIS.\n• Experience of in SQL Server, retrieving data from databases using T-SQL, Import data from other filesystems.\n• Created mappings using Lookup, Aggregator, Joiner, Expression, Filter, Normalizer and De-Normalizer, Maps Transformations. Developed reusable Transformation and Job lets.\n• Hands on experience working with SQL Server Integration Services(SSIS) and SQL Server Reporting Services (SSRS).\n• Experience in Interacting with Business users to analyze business process and transforming requirements into screens, performing ETL, documenting and rolling out the deliverables.\n• Demonstrated expertise utilizing ETL tools: Talend Data Integration, SQL Server Integration Services (SSIS), Developed slowly changing dimension (SCD) mappings using Type methods.\n• Expertise in Extract Transform Load (ETL) and Data Transformation Services (DTS).\n• Experience in Extraction, Transformation, loading data from Oracle, DB2, SQL Server, MS Access, Excel, Flat Files using Talend.\n• Knowledge in normalization/denormalization techniques for optimum performance in relational and dimensional database environments and building Referential Integrity Constraints.\n• Expert in all areas of SQL Server development including tables, user functions, views, indexes, Stored procedures, functions, triggers, clustering, T-SQL, relational database models, data dictionaries, and data integrity & warehousing concepts.\n• Experienced in Waterfall, Agile/Scrum Development.\n• Effective communication and interpersonal skills, ability to learn quickly, with good analytical reasoning and adaptive to new and challenging technological environment."
+  }
+}

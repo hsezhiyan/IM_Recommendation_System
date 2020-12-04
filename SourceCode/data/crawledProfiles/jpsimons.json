@@ -1,0 +1,380 @@
+{
+  "profileAlternative": {
+    "name": "John Simons",
+    "headline": "Front-end Software Engineer",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQHrRucl3IYeHA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=lhmlipidxQbX_XeevbAo8utYtVWSll0Ve8XdaKncYO0",
+    "location": "Seattle, Washington",
+    "connections": "346",
+    "summary": "Client-focused web developer with more than 10 years experience building web pages and applications, with especially deep knowledge of client-server interaction (HTTP, CGI, AJAX), presentation (HTML, CSS, images), and behavior (JavaScript, DOM).... see more"
+  },
+  "aboutAlternative": {
+    "text": "Client-focused web developer with more than 10 years experience building web pages and applications, with especially deep knowledge of client-server interaction (HTTP, CGI, AJAX), presentation (HTML, CSS, images), and behavior (JavaScript, DOM).... see more"
+  },
+  "positions": [
+    {
+      "title": "Web Development Engineer",
+      "companyName": "Amazon",
+      "location": "Greater Seattle Area",
+      "description": "Amazon Stores, those brand microsites you see such as https://www.amazon.com/lego or https://amazon.com/oxo or (as of just recently) https://www.amazon.com/apple",
+      "date1": "Aug 2018 – Present",
+      "date2": "1 yr 4 mos"
+    },
+    {
+      "title": "Sr. Software Development Engineer - Front-end",
+      "companyName": "OfferUp",
+      "location": "Bellevue, WA",
+      "description": "We have a monolith serving both API and HTML, and what I'm doing here at OfferUp is teasing that behemoth apart, with an all-new service dedicated to HTML that calls our APIs. The monolith is in Django, the new service is Node/React.\n\nI'm going way beyond my job description here, but but somebody has to do it. I'd rather be crafting microinteractions and pixel polishing UI implementation, but instead I'm often doing service owner stuff like making sure our EC2 cluster is healthy. I'd never even logged into AWS before this job, now I'm pretty comfortable with multiple AWS products.\n\nFirst phase of the new web experience rolls out by end of Q1, look for it at offerup.com in a desktop or mobile browser.\n…\nsee more",
+      "date1": "Jun 2017 – Mar 2018",
+      "date2": "10 mos"
+    },
+    {
+      "title": "Sr. Software Engineer",
+      "companyName": "Uber",
+      "location": "Greater Seattle Area",
+      "description": "Coming into this role, I'd used Angular but not React, so I had to ramp up quick on isomorphic React/Redux on Node/Express. Sorry (especially to former Google coworkers like Jen Bourey) but having used them both I definitely prefer React. I know they aren't quite the same, React does less than Angular, but for the simple task of dumping data into templates this stack shines.",
+      "date1": "Jan 2017 – Jun 2017",
+      "date2": "6 mos"
+    },
+    {
+      "title": "Software Engineer",
+      "companyName": "FLEXE",
+      "location": "Seattle, WA",
+      "description": "Sharing economy meets third party logistics, i.e. warehouse space. #b2b #airbnbforwarehouses\n\nRails/Postgres web stack, which is mostly what I worked on, plus a little Android development. Things I first used here (and liked): FontAwesome, Bootstrap, Adobe XD. Things I first used here and hated (but convinced the team to abandon): HAML. Things I first used here and hated but couldn't do anything about: Github for code reviews, CoffeeScript.\n…\nsee more",
+      "date1": "Jan 2016 – Sep 2016",
+      "date2": "9 mos"
+    },
+    {
+      "title": "Trim and Body Man",
+      "companyName": "Black Swan Painting",
+      "location": "Greater Seattle Area",
+      "description": "Residential and commercial, call Arlan at (206) 437-2966.",
+      "date1": "Jul 2015 – Dec 2015",
+      "date2": "6 mos"
+    },
+    {
+      "title": "Google",
+      "location": "Greater Seattle Area",
+      "description": "In the cloud org, working on the unified developer console (https://console.developers.google.com/).",
+      "date1": "Sep 2013 – Jun 2015",
+      "date2": "1 yr 10 mos",
+      "roles": [
+        {
+          "title": "Senior Software Engineer",
+          "date1": "Sep 2013 – Jun 2015",
+          "date2": "1 yr 10 mos",
+          "location": "Greater Seattle Area"
+        },
+        {
+          "title": "Software Engineer",
+          "date1": "Apr 2010 – Sep 2013",
+          "date2": "3 yrs 6 mos",
+          "location": "Greater New York City Area"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSenior Software Engineer",
+      "location": "Greater Seattle Area",
+      "description": "In the cloud org, working on the unified developer console (https://console.developers.google.com/).",
+      "date1": "Sep 2013 – Jun 2015",
+      "date2": "1 yr 10 mos",
+      "roles": [
+        {
+          "title": "Senior Software Engineer",
+          "date1": "Sep 2013 – Jun 2015",
+          "date2": "1 yr 10 mos",
+          "location": "Greater Seattle Area"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSoftware Engineer",
+      "location": "Greater New York City Area",
+      "description": "I'm on the DFP (Doubleclick for Publishers) team. That's the in-house Google product at google.com/dfp, not the acquired product at google.com/doubleclick/publishers/dart.html. It's a bit confusing. The product I work on is intended to replace the one we acquired.\n\nI primarily do GWT development, which is the Google Web Toolkit. While I'm not a fan of transforming Java to JavaScript, I will say that you can't just have a bunch of unstructured JavaScript and expect a project of any size to work. So GWT gives you structure and patterns and a basic skeleton to hang client-side code on. Plus lots of other benefits like i18n and CSS class obfuscation and server-side testability of code, if testing is something you're into.\n…\nsee more",
+      "date1": "Apr 2010 – Sep 2013",
+      "date2": "3 yrs 6 mos",
+      "roles": [
+        {
+          "title": "Software Engineer",
+          "date1": "Apr 2010 – Sep 2013",
+          "date2": "3 yrs 6 mos",
+          "location": "Greater New York City Area"
+        }
+      ]
+    },
+    {
+      "title": "Web Development Engineer",
+      "companyName": "Amazon.com",
+      "description": "When I'm not writing JavaScript or Perl Mason or Python or Ruby or CSS, I can usually be found listening to my deskside turntable, or up on the 40th floor of the Columbia Center, at Starbucks, trying to order bizarre things like a \"Double Tall Happy Meal\" or a \"Nonfat Alligator Machiatto (two pumps of alligator)\".\n\nSome things I wrote or had a significant hand in developing:\n\nGreasemonkey scripts\nPopover (DIV overlay) library, used across all of Amazon.com (with alpha PNGs even in IE6)\nThrottling proxy server written in Twisted Python\nMany JavaScript components, including drag and drop table columns, image magnifier, slideshow, slider controls, ajax form posting\nPrototyped all sorts of concepts using JavaScript and Rails\nMac geekery such as a Phone Tool dashboard widget and contributions to the Amazon TextMate bundle\n…\nsee more",
+      "date1": "Jun 2008 – Mar 2010",
+      "date2": "1 yr 10 mos"
+    },
+    {
+      "title": "Mega Extreme Web Developer",
+      "companyName": "Digital Railroad",
+      "description": "The usual ASPX, HTML, CSS, JavaScript, XSLT kinda stuff, plus more recently, Ruby on Rails. I came into this role with expert level knowledge of the front-end aspects of .NET, i.e. getting web controls to play nice with web standards, as well as world-class CSS skills. I mean I'm one of the first official entries in the CSS Zen Garden for god's sakes. One important thing I think I've learned here is JavaScript. So many web devs (myself included) assume they basically know it already because they studied computer science and they already know C++ and Java, but that's just not the case. It's a really powerful and interesting language, but you have to actually spend some time to learn it. If someone claims to know JavaScript just ask them how variable scoping works... it's nothing like C and if they don't know they haven't learned JavaScript yet.\n…\nsee more",
+      "date1": "Aug 2006 – Feb 2008",
+      "date2": "1 yr 7 mos"
+    },
+    {
+      "title": "Web Developer",
+      "companyName": "Imagekind.com",
+      "description": "ASP.NET, SQL Server, AJAX. Kelly Smith is a righteous dude, but the company just wasn't a good fit for me. I wrote their Frame Shop, an interactive feature for choosing print size, frame, and matting. It was a lot of fun because it involved server-side image compositing (to scale) as well as ajax. It's served as a good demo in various job interviews.",
+      "date1": "Feb 2006 – Jul 2006",
+      "date2": "6 mos"
+    },
+    {
+      "title": "Male ballet dancer",
+      "companyName": "Pacific Northwest Ballet",
+      "description": "I don't want to talk about it.",
+      "date1": "Nov 2005 – Dec 2005",
+      "date2": "2 mos"
+    },
+    {
+      "title": "Software Developer",
+      "companyName": "POP!",
+      "description": "ASP.NET, Tessitura, left to pursue a career in ballet.",
+      "date1": "Jul 2005 – Oct 2005",
+      "date2": "4 mos"
+    },
+    {
+      "title": "Web Developer",
+      "companyName": "X-BAR",
+      "location": "Greater Seattle Area",
+      "description": "ASP.NET, CSS, JavaScript. Yet another place I've worked in Pioneer Square. I wonder what Paul Hanson is up to?",
+      "date1": "Apr 2005 – Jul 2005",
+      "date2": "4 mos"
+    },
+    {
+      "title": "Web Developer",
+      "companyName": "Bear Creek Web",
+      "location": "Greater Seattle Area",
+      "description": "ASP.NET. This is where I learned ASP.NET, thanks to Kevin Mayer for giving me the opportunity to jump into a brand new (to me) technology. I also discovered that working from home sucks, it's lonely and depressing, so I moved on. I also did some \"web production\" work, i.e. \"here's a Word doc and Photoshop comp, make it a webpage.\" That kind of work would have been so much easier if I'd had MangleBracket back then. That's right, MangleBracket. Check it out at manglebracket.com.\n…\nsee more",
+      "date1": "Mar 2004 – Mar 2005",
+      "date2": "1 yr 1 mo"
+    },
+    {
+      "title": "Proprietor",
+      "companyName": "John Simons",
+      "description": "This is just my freelance stuff, so I could link to a couple people like Megan Finaly (it requires a company name). I also did a few odd sites like wanp.org, coloradosteelsash.com, lightek.com, and got accepted into the Css Zen Garden (http://csszengarden.com/?cssfile=/018/018.css&page=22) and got published in a CSS book by Apress: http://www.friendsofed.com/book.html?isbn=159059231X\n…\nsee more",
+      "date1": "2002 – 2005",
+      "date2": "3 yrs"
+    },
+    {
+      "title": "Web Developer",
+      "companyName": "SoftwareMedia.com",
+      "location": "Greater Seattle Area",
+      "description": "PHP, MySQL. This was my \"pre .net\" web development phase, when I hated Microsoft and would only use open source. I still hate Microsoft of course, but ASP.NET ain't so bad. All I really remember about this summer job was that I made $12 an hour, and the boss drove a cool black Lexus IS-300 and his brother smoked a lot of weed.",
+      "date1": "Jun 2003 – Sep 2003",
+      "date2": "4 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "University of Washington",
+      "degree": "B.S.",
+      "fieldofstudy": "Computer engineering",
+      "date1": "1998",
+      "date2": "2001"
+    },
+    {
+      "title": "Shoreline Community College",
+      "degree": "Visual Communication Technology",
+      "fieldofstudy": "Visual Communication Technology",
+      "date1": "2003",
+      "date2": "2003"
+    },
+    {
+      "title": "Western Washington University",
+      "date1": "1995",
+      "date2": "1998"
+    }
+  ],
+  "skills": [
+    {
+      "title": "JavaScript",
+      "count": "30"
+    },
+    {
+      "title": "CSS",
+      "count": "16"
+    },
+    {
+      "title": "Web Development",
+      "count": "15"
+    },
+    {
+      "title": "User Experience",
+      "count": "5"
+    },
+    {
+      "title": "User Interface Design",
+      "count": "3"
+    },
+    {
+      "title": "Scalability",
+      "count": "2"
+    },
+    {
+      "title": "Agile Methodologies",
+      "count": "2"
+    },
+    {
+      "title": "Information Architecture",
+      "count": "1"
+    },
+    {
+      "title": "AJAX",
+      "count": "12"
+    },
+    {
+      "title": "Ruby on Rails",
+      "count": "7"
+    },
+    {
+      "title": "HTML",
+      "count": "7"
+    },
+    {
+      "title": "SQL",
+      "count": "6"
+    },
+    {
+      "title": "Python",
+      "count": "6"
+    },
+    {
+      "title": "Java",
+      "count": "5"
+    },
+    {
+      "title": "jQuery",
+      "count": "3"
+    },
+    {
+      "title": "ASP.NET",
+      "count": "3"
+    },
+    {
+      "title": "JSON",
+      "count": "3"
+    },
+    {
+      "title": "Cascading Style Sheets (CSS)",
+      "count": "1"
+    },
+    {
+      "title": "AngularJS"
+    },
+    {
+      "title": "GWT",
+      "count": "4"
+    },
+    {
+      "title": "Twisted"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "6",
+    "receivedCount": "7",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/johnkieltyka/",
+        "text": "Many developers can code a solution. John, however, can see a feature in three dimensions. He turns it over in his hands, considers all its possibilities, then writes code that accomplishes more than you thought could be done when you wrote the spec. Want a webdev? I'm sure you can find one somewhere. Want a ninja? Talk to John"
+      },
+      {
+        "user": "https://www.linkedin.com/in/mfinaly/",
+        "text": "John worked on many web projects with me at Ashbury Designs. He is amazing with CSS. He was so reliable and would work through any problems we encountered. He just never gave up. It is a great quality to have in a worker and I really appreciated his dedication to getting jobs done on time. We worked over the phone or email a lot and he seemed to understand what I wanted even before I finished my sentence.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/danedwardsrealtor/",
+        "text": "As the former manager for John, I must say that for the $12 and hour John was awesome. His skills really speak for themselves. I am sure he has continued to become proficient and successful in his career. Good Luck John!"
+      },
+      {
+        "user": "https://www.linkedin.com/in/joancli/",
+        "text": "John is not only great at beef hoarding, but in hoarding all kinds of meats and food-stuffs that will survive throughout the ages. He has developed a way to store CornNuts in bulk. It's great."
+      },
+      {
+        "user": "https://www.linkedin.com/in/patrick-wilkinson-0b78891/",
+        "text": "John's strength was his excellent judgment in tackling engineering problems. He would intelligently weigh in all factors in his implementation decisions (from game play to testability). This allowed him to accomplish much more than his peers. His ability to take a vague set of specifications and implement a clean solution that exceeded the requirements was invaluable to us. I'm confident John will excel in any engineering career he chooses.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/kellysmith/",
+        "text": "“John is a great all around developer and particularly fast at complex client-side work though his abilities extend far beyond that arena. Great guy to work with and would hire again.”"
+      },
+      {
+        "user": "https://www.linkedin.com/in/kellysmith/",
+        "text": "John is a great all around developer and particularly fast and complex client work though his abilities extend far beyond that arena. Great guy to work with and would hire again."
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/brentvincent/",
+        "text": "To be honest, when I first got to know Brent I thought he was too \"soft\" to be an effective manager, but I've since discovered that he exemplifies the ideal management style. Consider this: He's wicked smart so he always knows what he's talking about. And what does he choose to do with that technical confidence? He peers himself with his subordinates, not in that \"I'm not really your manager, I'm your buddy\" sort of way, but in an approachable charismatic sort of way that gives me, the software developer, courage to innovate free from VP distraction. In any arena, people that can have the center without having to take the center are extremely valuable, and Brent is such a character."
+      },
+      {
+        "user": "https://www.linkedin.com/in/josh-weltman-8b49224/",
+        "text": "Josh is social glue. He makes the days fun, and makes the team gel. At Digital Railroad, I liked almost everybody (save one, which I won't mention here). But it was Josh Weltman and my \"boss\" Ben Maldonado who improved my work moral on a daily basis. The fact that Josh was able to do so while not even being on my team is a testament to his sunshine powers. I don't know much about is official work duties, but I do know that I'd sacrifice a significant amount of monetary reward for the chance to work with him again."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "1",
+      "items": [
+        "Providing separate views for items"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/quangkcao/",
+      "text": "Sr. Web Developer @ OfferUp"
+    },
+    {
+      "user": "https://www.linkedin.com/in/purvin-desai-a023774/",
+      "text": "Software Engineer/Tech Lead at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/charanya-badarinarayanan-46b52218/",
+      "text": "Principal Support Consultant at Manhattan Associates"
+    },
+    {
+      "user": "https://www.linkedin.com/in/joseph-janos-546420aa/",
+      "text": "Part time professor at Aquincum Institute of Technology (AIT-Budapest)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/joe-sowell-b97a39142/",
+      "text": "Operations Support Manager at Floco Foods"
+    },
+    {
+      "user": "https://www.linkedin.com/in/andymalinky/",
+      "text": "Senior Software Engineer at Oracle Data Cloud"
+    },
+    {
+      "user": "https://www.linkedin.com/in/joachim-santen-a66a581b/",
+      "text": "--"
+    },
+    {
+      "user": "https://www.linkedin.com/in/joachim-santen-0881b7a5/",
+      "text": "Wind Power Growth Manager at HYTORC Division UNEX Corporation"
+    },
+    {
+      "user": "https://www.linkedin.com/in/brandy-lynn-71810556/",
+      "text": "Regional Check Recovery Field Specialist at BI-LO, LLC"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ambra/",
+      "text": "Global Leadership Recruiting Leader at Facebook"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "John Simons",
+    "headline": "Front-end Software Engineer",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQHrRucl3IYeHA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=lhmlipidxQbX_XeevbAo8utYtVWSll0Ve8XdaKncYO0",
+    "location": "Seattle, Washington",
+    "connections": "346",
+    "summary": "Client-focused web developer with more than 10 years experience building web pages and applications, with especially deep knowledge of client-server interaction (HTTP, CGI, AJAX), presentation (HTML, CSS, images), and behavior (JavaScript, DOM).... see more"
+  }
+}

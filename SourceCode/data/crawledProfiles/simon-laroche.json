@@ -1,0 +1,195 @@
+{
+  "profileAlternative": {
+    "name": "Simon Laroche",
+    "headline": "Senior Front-End Developer",
+    "location": "Montreal, Canada Area",
+    "connections": "420"
+  },
+  "aboutAlternative": {},
+  "positions": [
+    {
+      "title": "Front-End Web Developer and JavaScript Consultant",
+      "companyName": "Self-Employed",
+      "date1": "Jan 2011 – Present",
+      "date2": "8 yrs 11 mos"
+    },
+    {
+      "title": "Front-End Developer",
+      "companyName": "SID LEE",
+      "location": "Montreal, Canada Area",
+      "date1": "Jan 2017 – Jul 2017",
+      "date2": "7 mos"
+    },
+    {
+      "title": "Front-End Developer",
+      "companyName": "Havas Canada",
+      "location": "Montreal, QC, Canada",
+      "date1": "Jun 2015 – Nov 2016",
+      "date2": "1 yr 6 mos"
+    }
+  ],
+  "educations": [],
+  "skills": [
+    {
+      "title": "JavaScript",
+      "count": "7"
+    },
+    {
+      "title": "React.js",
+      "count": "3"
+    },
+    {
+      "title": "Cascading Style Sheets (CSS)",
+      "count": "4"
+    },
+    {
+      "title": "Object-Oriented Programming (OOP)",
+      "count": "3"
+    },
+    {
+      "title": "Web Development",
+      "count": "1"
+    },
+    {
+      "title": "Responsive Web Design"
+    },
+    {
+      "title": "Unit Testing",
+      "count": "1"
+    },
+    {
+      "title": "Front-end Development",
+      "count": "1"
+    },
+    {
+      "title": "HTML5",
+      "count": "4"
+    },
+    {
+      "title": "Node.js",
+      "count": "2"
+    },
+    {
+      "title": "SASS",
+      "count": "2"
+    },
+    {
+      "title": "Git",
+      "count": "2"
+    },
+    {
+      "title": "jQuery",
+      "count": "1"
+    },
+    {
+      "title": "JSON",
+      "count": "1"
+    },
+    {
+      "title": "Github",
+      "count": "1"
+    },
+    {
+      "title": "BEM",
+      "count": "1"
+    },
+    {
+      "title": "Gulp.js",
+      "count": "1"
+    },
+    {
+      "title": "Gitlab",
+      "count": "1"
+    },
+    {
+      "title": "Functional Programming"
+    },
+    {
+      "title": "Web Performance"
+    },
+    {
+      "title": "Web Standards"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "12",
+      "items": [
+        "vose.tv",
+        "St-Hubert Contest",
+        "Videotron Revamp",
+        "Jean Coutu - Passion Beauty Guide - May Edition",
+        "Maison des Futailles",
+        "Mondia Alliance",
+        "Jean Coutu 2016 Revamp",
+        "Sloche",
+        "Desjardins Internal Project",
+        "Champion Canada Revamp",
+        "Couche-Tard Contests",
+        "Rouge Condominiums"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "English",
+        "French"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/richard-quentin-587108a3/",
+      "text": "Front-end Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/davidemaser/",
+      "text": "Senior front end developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/maxime-basque-97097425/",
+      "text": "Développeur Front-End"
+    },
+    {
+      "user": "https://www.linkedin.com/in/carldufourm/",
+      "text": "Consultant front-end developer at Intact"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jenniferodowd/",
+      "text": "Front-End Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jlsubdesign/",
+      "text": "Développeur front-end chez KFFEIN"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ericblancpublic/",
+      "text": "Senior JavaScript Developer @ALDO Group (React, Node.js...)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/stephan-rajaratnam-6a46087/",
+      "text": "Front End Developer at MindGeek"
+    },
+    {
+      "user": "https://www.linkedin.com/in/benjaminhanusse/",
+      "text": "Développeur front-end"
+    },
+    {
+      "user": "https://www.linkedin.com/in/melanielapeyre/",
+      "text": "Independant Front End Developer"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Simon Laroche",
+    "headline": "Senior Front-End Developer",
+    "location": "Montreal, Canada Area",
+    "connections": "420"
+  }
+}

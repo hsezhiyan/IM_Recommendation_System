@@ -1,0 +1,176 @@
+{
+  "profileAlternative": {
+    "name": "Chris Campbell",
+    "headline": "JavaScript Application Developer at RF-SMART",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQEf8zDr1yQHqA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=kADu0dKtGzZKWmqqO8jdJHENI0Ylmet5G1bebgBtVIg",
+    "location": "Jacksonville, Florida",
+    "connections": "178",
+    "summary": "I believe that software development enables me to leave a positive impact on the world by transforming customers and changing lives. I have worked with startups, non-profits, and supply chain advisors to create engaging user experiences and effective solutions that delight customers.\n\n❏ Working knowledge of the NetSuite ecosystem and experience using SuiteScript and the NetSuite Records API to interact with data in the ERP.\n❏ Experience building data-driven web applications using full stack JavaScript frameworks.\n❏ Contributed as a founding member within a tech startup that became a semi-finalist in the Techstars incubator program on two separate occasions."
+  },
+  "aboutAlternative": {
+    "text": "I believe that software development enables me to leave a positive impact on the world by transforming customers and changing lives. I have worked with startups, non-profits, and supply chain advisors to create engaging user experiences and effective solutions that delight customers.\n\n❏ Working knowledge of the NetSuite ecosystem and experience using SuiteScript and the NetSuite Records API to interact with data in the ERP.\n❏ Experience building data-driven web applications using full stack JavaScript frameworks.\n❏ Contributed as a founding member within a tech startup that became a semi-finalist in the Techstars incubator program on two separate occasions."
+  },
+  "positions": [
+    {
+      "title": "JavaScript Application Developer",
+      "companyName": "RF-SMART, a division of ICS",
+      "location": "Jacksonville, Florida Area",
+      "date1": "May 2017 – Present",
+      "date2": "2 yrs 7 mos"
+    },
+    {
+      "title": "Lead Web Developer",
+      "companyName": "New York Ave.",
+      "location": "Deland, FL",
+      "description": "Assesses the technical requirements of new projects and creates engaging and effective user experiences. Collaborates within planning meetings to outline project goals and create an effective user experience. Builds modern and functional websites and applications using HTML5, CSS3, and JavaScript.\n\n❏ Builds engaging and effective websites using HTML5, JavaScript, and CSS3.\n❏ Develops data-driven web applications using full stack JavaScript frameworks.\n❏ Restructured organizational workflow and tooling to decrease development time and launch projects faster.\n…\nsee more",
+      "date1": "May 2015 – Feb 2017",
+      "date2": "1 yr 10 mos"
+    },
+    {
+      "title": "Software Engineering Assistant",
+      "companyName": "Cru",
+      "description": "Developed and maintained websites for clients using WordPress, MODX, and pure HTML. Corresponded with stakeholders to assess their needs throughout each project. Performed QA and usability testing to ensure functionality across multiple devices.\n\n❏ Developed and maintained key web properties within organization.\n❏ Authored WordPress plugin to deliver core media assets via RESTful API.\n…\nsee more",
+      "date1": "Sep 2013 – May 2015",
+      "date2": "1 yr 9 mos"
+    },
+    {
+      "title": "Research Assistant",
+      "companyName": "University of Central Florida",
+      "description": "Performed analysis of statistical data gathered through IBM SPSS for use in reporting effectiveness of UCF's SARC tutoring program. Created the department's tutoring schedule using SurveyMonkey and a web application to query classroom availability. Communicated with tutors to resolve schedule conflicts, and assign tutors to available classrooms.\n\n❏ Performed statistical analysis on student body’s GPA data for use in department reports.\n❏ Created tutoring schedule for 80+ sessions by corresponding with 20+ tutors each semester.\n…\nsee more",
+      "date1": "Jul 2012 – Oct 2013",
+      "date2": "1 yr 4 mos"
+    },
+    {
+      "title": "Front End Developer",
+      "companyName": "Bidzuku",
+      "description": "Participated as a founding member in a startup that went on to become a Techstars semi-finalist on two separate occasions. Collaborated with team members to outline project scope, team goals, and identify key features. Implemented user interface using HTML, CSS, and JavaScript according to design specifications.\n\n❏ Contributed as a key team member within a startup that became a Techstars semi-finalist twice.\n❏ Outlined project goals and collaborated with team to rapidly implement new features.\n❏ Developed user interface based on design specifications and feedback from scrum meetings.\n…\nsee more",
+      "date1": "Sep 2010 – May 2012",
+      "date2": "1 yr 9 mos"
+    },
+    {
+      "title": "Technical Support Specialist",
+      "companyName": "Car People Marketing, Inc.",
+      "location": "New Smyrna Beach",
+      "description": "Ran queries on clients' databases to gather data for use in their customer rewards programs. Used HTML and CSS to build email templates for use in clients' email marketing campaigns. Proofread digital and printed materials for marketing campaigns.\n\n❏ Increased department efficiency, accuracy, and output by programming macros using\nExcel VBA.\n❏ Authored technical documentation detailing all of the operations of the department.\n…\nsee more",
+      "date1": "Aug 2010 – Mar 2012",
+      "date2": "1 yr 8 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "University of Central Florida",
+      "degree": "Computer Science",
+      "fieldofstudy": "Computer Science",
+      "date1": "2012",
+      "date2": "2014"
+    },
+    {
+      "title": "Daytona State College",
+      "degree": "Associate of Arts (A.A.)",
+      "date1": "2009",
+      "date2": "2011"
+    }
+  ],
+  "skills": [
+    {
+      "title": "JavaScript",
+      "count": "8"
+    },
+    {
+      "title": "Web Development",
+      "count": "5"
+    },
+    {
+      "title": "NetSuite",
+      "count": "2"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "2",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/joshuahays/",
+        "text": "Chris is irreplaceable. I’ve worked with Chris on a variety of projects and can confidently attest to his unparalleled ability to solve complex problems with code. He’s easy to engage in conversation with, open to ideas, and eager to make an impact on the projects he’s part of and the people he’s surrounded by. I admire Chris for his willingness to be challenged, his attention to detail in the smallest of things, and his ability to inspire greatness in the people he coaches and mentors. It is without hesitation that I recommend Chris, his work, and his demonstrated ability.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/jwtechdev/",
+        "text": "I owe a large chunk of my career to Chris Campbell. His guidance and tutelage allowed me to become the developer I am today. Our first project was a 48hr deadline where we picked up the pieces of a failed implementation and Chris is the majority reason it was a success. I can whole heartedly recommended him to colleagues, from startups to established brands.\n…\nSee more"
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "6",
+      "items": [
+        "AI for Game Programming",
+        "C Programming",
+        "Computer Science I",
+        "Computer Science II",
+        "Object-Oriented Programming",
+        "Systems Software"
+      ]
+    },
+    {
+      "count": "4",
+      "items": [
+        "Meteor Lobby - HTML5 Game Lobby Demonstration",
+        "Patternatrix - HTML5 Drum Machine",
+        "Askew - Browse DeviantArt From The Command Line",
+        "2015 Orlando American Advertising Awards Website"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/renee-j-sparkman-sphr-79370b45/",
+      "text": "Are you interested in starting a software sales career? Talk to me about a Business Dev. Rep opening we have now"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sirkortes/",
+      "text": "Front End Developer at TIAA Bank"
+    },
+    {
+      "user": "https://www.linkedin.com/in/daviddarley/",
+      "text": "JavaScript Application Developer at RF-SMART, a division of ICS"
+    },
+    {
+      "user": "https://www.linkedin.com/in/matthew-hosken-4a5160119/",
+      "text": "C# Developer at MSMGroup Inc/ Jaylynn consulting/ NASA"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mahmuda-nizami-07b40b13a/",
+      "text": "QA Automation Engineer at US Banccorp"
+    },
+    {
+      "user": "https://www.linkedin.com/in/joshua-yount-133199129/",
+      "text": "Software Engineer at RF-SMART, a division of ICS"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jakewilsoncodes/",
+      "text": "Just sitting around all day"
+    },
+    {
+      "user": "https://www.linkedin.com/in/fred-wehle-3695a64a/",
+      "text": "Software Engineer at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mtmills/",
+      "text": "Developer IV at Greenshades, Director of IT at Welltality"
+    },
+    {
+      "user": "https://www.linkedin.com/in/andrewdutt/",
+      "text": "Front End Developer at Beeline"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Chris Campbell",
+    "headline": "JavaScript Application Developer at RF-SMART",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQEf8zDr1yQHqA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=kADu0dKtGzZKWmqqO8jdJHENI0Ylmet5G1bebgBtVIg",
+    "location": "Jacksonville, Florida",
+    "connections": "178",
+    "summary": "I believe that software development enables me to leave a positive impact on the world by transforming customers and changing lives. I have worked with startups, non-profits, and supply chain advisors to create engaging user experiences and effective solutions that delight customers.\n\n❏ Working knowledge of the NetSuite ecosystem and experience using SuiteScript and the NetSuite Records API to interact with data in the ERP.\n❏ Experience building data-driven web applications using full stack JavaScript frameworks.\n❏ Contributed as a founding member within a tech startup that became a semi-finalist in the Techstars incubator program on two separate occasions."
+  }
+}

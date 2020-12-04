@@ -1,0 +1,210 @@
+{
+  "profileAlternative": {
+    "name": "Josh Cough",
+    "headline": "Lead Software Engineer at SimSpace Corporation",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQGbYBgOy6P5-Q/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=bG-Bze-hw1mpy6swsdybbP2XF05peGHiBeX0kNRDIO4",
+    "location": "Greater Boston Area",
+    "connections": "473",
+    "summary": "A lover of functional programming, programming languages, compilers, large scale distributed systems, and open source development. In general, I'm a programmer with an insatiable desire for learning and tackling challenging problems.\n\nLanguages: Haskell (3.5 years), Scala (8 years), Ermine, Java (12+ years), F#, C#, JavaScript, NetLogo, Coq, Racket, x86-64, C, Clojure, Perl, Twelf, and more.\n\nAWS experience includes: Lambda, Kinesis, Kinesis Streams, DynamoDB, DynamoDB Streams, EC2, S3, SQS, ELB, CloudWatch, and more."
+  },
+  "aboutAlternative": {
+    "text": "A lover of functional programming, programming languages, compilers, large scale distributed systems, and open source development. In general, I'm a programmer with an insatiable desire for learning and tackling challenging problems.\n\nLanguages: Haskell (3.5 years), Scala (8 years), Ermine, Java (12+ years), F#, C#, JavaScript, NetLogo, Coq, Racket, x86-64, C, Clojure, Perl, Twelf, and more.\n\nAWS experience includes: Lambda, Kinesis, Kinesis Streams, DynamoDB, DynamoDB Streams, EC2, S3, SQS, ELB, CloudWatch, and more."
+  },
+  "positions": [
+    {
+      "title": "Lead Software Engineer",
+      "companyName": "SimSpace Corporation",
+      "location": "Greater Boston Area",
+      "date1": "Jul 2019 – Present",
+      "date2": "5 mos"
+    },
+    {
+      "title": "Senior Software Engineer",
+      "companyName": "CollegeVine",
+      "location": "Greater Boston Area",
+      "description": "Lead Dev on several projects. Responsibilities included:\n\nArchitecting new features, running sprints and standups, making sure work was properly broken up and specced out before estimation meetings, clearing any obstacles to for daily work, and especially for deployments, implementing, deploying and maintaining new and existing microservices, bug fixes, etc.\n\nTechs: Haskell (especially Servant), Purescript, Microservices on AWS ECS, Postgres, React, Terraform\n…\nsee more",
+      "date1": "Feb 2018 – May 2019",
+      "date2": "1 yr 4 mos"
+    },
+    {
+      "title": "Boston Haskell Founder / Organizer",
+      "companyName": "Boston Haskell",
+      "location": "Greater Boston Area",
+      "description": "Founded Boston Haskell (http://www.meetup.com/Boston-Haskell) with Dan Doel and Ed Kmett. Dan has since taken the lead role as organizer.",
+      "date1": "Jan 2014 – 2018",
+      "date2": "4 yrs"
+    },
+    {
+      "title": "Lead Software Engineer",
+      "companyName": "Sentenai",
+      "location": "Greater Boston Area",
+      "description": "Designed and implemented the Flare Query Language. Flare queries search for patterns across time in streams of unstructured JSON data. Implemented the parser, interpreter, compiler and REPL in Haskell.",
+      "date1": "Feb 2016 – Nov 2017",
+      "date2": "1 yr 10 mos"
+    },
+    {
+      "title": "Senior Software Engineer",
+      "companyName": "Localytics",
+      "description": "Teaching Scala and Functional Programming in general. Hardening our backend infrastructure to be more scalable, and fault tolerant while increasing to over 3 billion data points per day. AWS services used include Lambda, Kinesis, Kinesis Streams, DynamoDB, DynamoDB Streams, EC2, S3, SQS, ELB, and CloudWatch. Other technologies, libraries, and services include Hysterix, Librato, New Relic, Scala, scalaz, Akka, Play, Spark and more.\n…\nsee more",
+      "date1": "Jul 2015 – Jan 2016",
+      "date2": "7 mos"
+    },
+    {
+      "title": "Lead Developer",
+      "companyName": "S&P Capital IQ",
+      "description": "Worked on a team that designed, implemented, and shipped the next generation financial reporting framework at S&P, which included implementing a Haskell-like language for the JVM called Ermine. Duties include design and implementation of the Ermine standard library, the reporting API, and much more. Programming languages used include Scala, Haskell, Ermine, F#, C#, Java, Javascript.",
+      "date1": "Oct 2011 – Jul 2015",
+      "date2": "3 yrs 10 mos"
+    },
+    {
+      "title": "Language Designer and Developer",
+      "companyName": "Northwestern University",
+      "description": "Co-designed, implemented, and documented NetLogo 5.0. The major release included several new language features such as Lambda, Internationalization, radical HubNet changes, a new Wiki style documentation system, and a redesign of the plotting system.\n\nMaintained NetLogo 4.1.x line, and managed and mentored undergraduate students working on various NetLogo projects including an Android HubNet client.\n…\nsee more",
+      "date1": "Oct 2009 – Oct 2011",
+      "date2": "2 yrs 1 mo"
+    },
+    {
+      "title": "Senior Engineer",
+      "companyName": "NYSE Euronext",
+      "description": "Team lead on the design and implementation of a number of low latency, highly concurrent financial messaging protocols and a pluggable protocol API.\n\nLeadership duties including leading design discussions and planning meetings, code review, quality control. Responsible for technical introduction of Agile Development. Implemented test frameworks and taught developers about unit testing. Introduced and implemented Continuous Integration. Introduced a Friday lunch-and-learn session where we discussed a number of technologies and programming languages.\n…\nsee more",
+      "date1": "Aug 2007 – Oct 2008",
+      "date2": "1 yr 3 mos"
+    },
+    {
+      "title": "Agile Enabler / Applications Developer",
+      "companyName": "ThoughtWorks",
+      "date1": "Apr 2007 – Jul 2007",
+      "date2": "4 mos"
+    },
+    {
+      "title": "Java Developer",
+      "companyName": "VoicePort LLC-Automated Adherence Solutions-Influencing Patient Outcomes",
+      "date1": "Jan 2006 – Oct 2006",
+      "date2": "10 mos"
+    },
+    {
+      "title": "Java Developer",
+      "companyName": "TextWise",
+      "date1": "Jan 2005 – Feb 2006",
+      "date2": "1 yr 2 mos"
+    },
+    {
+      "title": "Developer",
+      "companyName": "Layer 8 Group",
+      "date1": "Jul 2003 – Jan 2005",
+      "date2": "1 yr 7 mos"
+    },
+    {
+      "title": "Java Developer",
+      "companyName": "Northcoast Software",
+      "location": "Oswego, NY",
+      "date1": "May 2001 – Aug 2002",
+      "date2": "1 yr 4 mos"
+    },
+    {
+      "title": "Student Developer",
+      "companyName": "SUNY Oswego",
+      "location": "Oswego, NY",
+      "date1": "May 2000 – Jul 2001",
+      "date2": "1 yr 3 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Northwestern University",
+      "degree": "M.S. (PAUSED)",
+      "fieldofstudy": "Computer Science (Programming Languages)",
+      "date1": "2009",
+      "date2": "2011"
+    },
+    {
+      "title": "State University of New York College at Oswego",
+      "degree": "Bachelor of Arts",
+      "fieldofstudy": "Computer Science",
+      "date1": "1997",
+      "date2": "2001"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Haskell",
+      "count": "3"
+    },
+    {
+      "title": "Scala",
+      "count": "13"
+    },
+    {
+      "title": "Java",
+      "count": "11"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "4",
+      "items": [
+        "Talks",
+        "Boston Haskell Organizer",
+        "ScalaTest",
+        "SBT"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/adammackmetcalf/",
+      "text": "Co-Founder @ ZeeMee"
+    },
+    {
+      "user": "https://www.linkedin.com/in/max-rothman-22498b53/",
+      "text": "Multi-talented software engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/iamkellyburton/",
+      "text": "I lead the fastest growing community of minority entrepreneurs (while entrepreneur-ing)."
+    },
+    {
+      "user": "https://www.linkedin.com/in/pat-ruppel-26819717/",
+      "text": "Developer at athenahealth"
+    },
+    {
+      "user": "https://www.linkedin.com/in/matthew-brandly-34024a40/",
+      "text": "Software Engineer at Sentenai"
+    },
+    {
+      "user": "https://www.linkedin.com/in/britt-randall-buckler-6b659710a/",
+      "text": "Global Entrepreneur/Executive Skincare Specialist"
+    },
+    {
+      "user": "https://www.linkedin.com/in/marc-cordova-95425b98/",
+      "text": "Junior Software Engineer at CollegeVine"
+    },
+    {
+      "user": "https://www.linkedin.com/in/anthonydeaver/",
+      "text": "Software Architect/Tech Lead at The Weather Company"
+    },
+    {
+      "user": "https://www.linkedin.com/in/natala/",
+      "text": "Product Marketing & Experience Strategy | Google, Microsoft, Amazon, Salesforce + Startups"
+    },
+    {
+      "user": "https://www.linkedin.com/in/paul-nunes-96518067/",
+      "text": "Developer at The Pulse Network"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Josh Cough",
+    "headline": "Lead Software Engineer at SimSpace Corporation",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQGbYBgOy6P5-Q/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=bG-Bze-hw1mpy6swsdybbP2XF05peGHiBeX0kNRDIO4",
+    "location": "Greater Boston Area",
+    "connections": "473",
+    "summary": "A lover of functional programming, programming languages, compilers, large scale distributed systems, and open source development. In general, I'm a programmer with an insatiable desire for learning and tackling challenging problems.\n\nLanguages: Haskell (3.5 years), Scala (8 years), Ermine, Java (12+ years), F#, C#, JavaScript, NetLogo, Coq, Racket, x86-64, C, Clojure, Perl, Twelf, and more.\n\nAWS experience includes: Lambda, Kinesis, Kinesis Streams, DynamoDB, DynamoDB Streams, EC2, S3, SQS, ELB, CloudWatch, and more."
+  }
+}

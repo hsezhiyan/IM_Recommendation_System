@@ -1,0 +1,543 @@
+{
+  "profileAlternative": {
+    "name": "Spyros Argyroiliopoulos",
+    "headline": "Java Developer",
+    "imageurl": "https://media.licdn.com/dms/image/C5103AQFfdj8y-lryzg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=lE38wBniQQRAhchaS3WVOnfS7tem8cLRKpn9bdkoyyU",
+    "location": "Greece",
+    "connections": "500+",
+    "summary": "Java Full Stack Web Developer, bright, self-driven, ambitious, enthusiastic, professional, reliable, clear thinking with strong attention to detail and excellent analytical and problem-solving skills. Eager to work with bleeding-edge technologies.\nAgile methodology and Scrum practitioner. Having demonstrated mathematical, programming and business background, able to multi-task and thrive in dynamic environments.\nA strong team player with excellent communication skills."
+  },
+  "aboutAlternative": {
+    "text": "Java Full Stack Web Developer, bright, self-driven, ambitious, enthusiastic, professional, reliable, clear thinking with strong attention to detail and excellent analytical and problem-solving skills. Eager to work with bleeding-edge technologies.\nAgile methodology and Scrum practitioner. Having demonstrated mathematical, programming and business background, able to multi-task and thrive in dynamic environments.\nA strong team player with excellent communication skills."
+  },
+  "positions": [
+    {
+      "title": "Java Developer",
+      "companyName": "Camelot Global",
+      "location": "Greece, Athens",
+      "description": "Building an agile, modular, future-ready interactive platform, upscaling the modern lottery experience.\n\nProjects:\n2019- present: Irish National Lottery: https://www.lottery.ie/\nProject: React Native Mobile App - Integration Layer\nDetails: [Spring Boot, Kong API Gateway, Docker, Stateless Integration Layer, Microservices, Automation Testing, Gradle]\n\n2018-2019: Illinois State Lottery: https://www.illinoislottery.com/\nProject: iLottery Platform - Financials Team - Financial Integrations\nDetails: [Spring Boot, Postgres, Docker, Rest Application, Modular Monolith, Automation Testing, Gradle, Scrum]\n\n2016-2018: Loterie Romande: https://jeux.loro.ch/\nProject: iLottery Platform - Wallet Service, Prize Service, Admin Portal - Financial Integrations\nDetails: [Spring, Spring MVC, Cassandra, Rest Applications, Microservices, Automation Testing, Gradle, Scrum@Scale]\n\n…\nsee more",
+      "date1": "Apr 2016 – Present",
+      "date2": "3 yrs 8 mos"
+    },
+    {
+      "title": "Java Developer",
+      "companyName": "Agile Actors",
+      "location": "Greece, Athens",
+      "description": "Working on Camelot Lottery Solutions projects.\nhttps://www.camelotls.com/\n\nEmpowering tech professionals to be a citizen of the world, resident of anywhere",
+      "date1": "Apr 2016 – Present",
+      "date2": "3 yrs 8 mos"
+    },
+    {
+      "title": "Learning Actors",
+      "location": "Athens",
+      "description": "Learning and Development Specialist on Java and Spring Framework",
+      "date1": "Nov 2017 – Present",
+      "date2": "2 yrs 1 mo",
+      "roles": [
+        {
+          "title": "Learning And Development Specialist",
+          "date1": "Nov 2017 – Present",
+          "date2": "2 yrs 1 mo",
+          "location": "Athens"
+        },
+        {
+          "title": "Technical Director",
+          "date1": "Sep 2019 – Present",
+          "date2": "3 mos",
+          "location": "Greece, Athens"
+        }
+      ]
+    },
+    {
+      "title": "Title\nLearning And Development Specialist",
+      "location": "Athens",
+      "description": "Learning and Development Specialist on Java and Spring Framework",
+      "date1": "Nov 2017 – Present",
+      "date2": "2 yrs 1 mo",
+      "roles": [
+        {
+          "title": "Learning And Development Specialist",
+          "date1": "Nov 2017 – Present",
+          "date2": "2 yrs 1 mo",
+          "location": "Athens"
+        }
+      ]
+    },
+    {
+      "title": "Title\nTechnical Director",
+      "location": "Greece, Athens",
+      "description": "Tech Director: [Java | Spring] @ Agile Academy\nDesigning, supervising and executing an up-skilling program for young IT and Science graduates",
+      "date1": "Sep 2019 – Present",
+      "date2": "3 mos",
+      "roles": [
+        {
+          "title": "Technical Director",
+          "date1": "Sep 2019 – Present",
+          "date2": "3 mos",
+          "location": "Greece, Athens"
+        }
+      ]
+    },
+    {
+      "title": "Java & Spring Framework Instructor",
+      "companyName": "Code.Hub",
+      "location": "Athens, Greece",
+      "description": "Head Instructor of:\n- OOP & Java Ecosystem\n- Spring Framework (Core, Boot, Data/JPA, Data Rest, Web)\n- Agile Methodologies\n- Databases\n- Build Automation Tools\n- Version Control Systems\n- Testing Strategies & Techniques\n…\nsee more",
+      "date1": "Nov 2018 – Dec 2018",
+      "date2": "2 mos"
+    },
+    {
+      "title": "Java & Spring Framework Instructor",
+      "companyName": "Code.Hub",
+      "location": "Greece",
+      "description": "Head Instructor of:\n- OOP & Java Ecosystem\n- Spring Framework (Core, Boot, Data/JPA, Data Rest, Web)\n- Agile Methodologies\n- Databases\n- Build Automation Tools\n- Version Control Systems\n- Testing Strategies & Techniques\n…\nsee more",
+      "date1": "Apr 2018 – Jun 2018",
+      "date2": "3 mos"
+    },
+    {
+      "title": "Java & Spring Framework Instructor",
+      "companyName": "Coding School",
+      "location": "Athens, Greece",
+      "description": "Head Instructor of:\n- Object-Oriented Programming\n- Java SE\n- Spring Framework (Core, MVC, Data/JPA)",
+      "date1": "Sep 2017 – Nov 2017",
+      "date2": "3 mos"
+    },
+    {
+      "title": "Java & Spring Framework Instructor",
+      "companyName": "Alliance For Digital Employability",
+      "location": "Athens, Greece",
+      "description": "Instructor of:\n- Java SE\n- Spring Framework (Core, MVC, Data/JPA)",
+      "date1": "Jun 2017 – Jul 2017",
+      "date2": "2 mos"
+    },
+    {
+      "title": "Freelance",
+      "location": "Greece, Athens",
+      "description": "Developing Java Applications and SQL solutions\n\nDeveloping Front End Web Applications\n\nEnriching knowledge on leading-edge programming technologies\n…\nsee more",
+      "date1": "2015 – 2016",
+      "date2": "1 yr",
+      "roles": [
+        {
+          "title": "Java Developer",
+          "date1": "2015 – 2016",
+          "date2": "1 yr",
+          "location": "Greece, Athens"
+        },
+        {
+          "title": "Mathematician, Private Tutor",
+          "date1": "2013 – 2016",
+          "date2": "3 yrs",
+          "location": "Greece, Athens"
+        }
+      ]
+    },
+    {
+      "title": "Title\nJava Developer",
+      "location": "Greece, Athens",
+      "description": "Developing Java Applications and SQL solutions\n\nDeveloping Front End Web Applications\n\nEnriching knowledge on leading-edge programming technologies\n…\nsee more",
+      "date1": "2015 – 2016",
+      "date2": "1 yr",
+      "roles": [
+        {
+          "title": "Java Developer",
+          "date1": "2015 – 2016",
+          "date2": "1 yr",
+          "location": "Greece, Athens"
+        }
+      ]
+    },
+    {
+      "title": "Title\nMathematician, Private Tutor",
+      "location": "Greece, Athens",
+      "description": "Assist University students in research papers and dissertations.\n\nHelped more than 100 university and secondary students to achieve better marks by 85%\n\nHandled hundrends of assignments and papers regarding Object Oriented Programming,\nFunctional Programming, Algorithmic analysis and Mathematical problems\n\nCourses:\n> Linear Algebra\n> Calculus\n> Planar Geometry\n> Probabilities\n> Combinatorics\n> Introduction to Informatics\n> Programming in C++\n> MatLab\n> Mathematics for Informatics I\n\nReferences:\nhttp://www.cs.teiath.gr/?page_id=6348\nhttp://www.eap.gr/view_en.php?artid=2175\nhttp://www.eap.gr/view_en.php?artid=2177\nhttp://efp.aua.gr/el/course/160\n…\nsee more",
+      "date1": "2013 – 2016",
+      "date2": "3 yrs",
+      "roles": [
+        {
+          "title": "Mathematician, Private Tutor",
+          "date1": "2013 – 2016",
+          "date2": "3 yrs",
+          "location": "Greece, Athens"
+        }
+      ]
+    },
+    {
+      "title": "IT Support",
+      "companyName": "Associated Bailiffs Office",
+      "location": "Greece, Athens, 10, Koletti St.",
+      "description": "Technical Support and Troubleshooting for End Users.\n\nSupervision and Maintenance of LAN and IP PBX Asterisk Server.\n\nDeveloped professionalism and extended my multitasking and comunication skills.\n\n…\nsee more",
+      "date1": "2010 – 2014",
+      "date2": "4 yrs"
+    },
+    {
+      "title": "Assistant Officer",
+      "companyName": "Hellenic Army",
+      "location": "Chios - Athens, Greece",
+      "description": "Managing, Processing, Organizing and Archiving of inbound and outbound daily commands.\n\nAssisting and consulting on education, about security of networks and computer usage.\n\nIT support and troubleshooting for the Military Unit's terminals.\n…\nsee more",
+      "date1": "Mar 2012 – Nov 2012",
+      "date2": "9 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Ethnikon kai Kapodistriakon Panepistimion Athinon",
+      "degree": "Master’s Degree",
+      "fieldofstudy": "Information and Communications Technologies (ITT)",
+      "date1": "2016",
+      "date2": "2019"
+    },
+    {
+      "title": "Fit4Jobs by HePIS: Hellenic Professionals Informatics Society",
+      "degree": "Web development Full Stack, Java Courses",
+      "fieldofstudy": "Web development Full Stack, Java Courses",
+      "date1": "2016",
+      "date2": "2016"
+    },
+    {},
+    {
+      "title": "Ethnikon kai Kapodistriakon Panepistimion Athinon / University of Athens",
+      "degree": "Bachelor’s Degree",
+      "fieldofstudy": "Applied Mathematics"
+    },
+    {}
+  ],
+  "skills": [
+    {
+      "title": "Spring Framework",
+      "count": "23"
+    },
+    {
+      "title": "JavaScript",
+      "count": "37"
+    },
+    {
+      "title": "Object-Oriented Programming (OOP)",
+      "count": "8"
+    },
+    {
+      "title": "Unit Testing",
+      "count": "10"
+    },
+    {
+      "title": "Functional Testing",
+      "count": "8"
+    },
+    {
+      "title": "Web Development",
+      "count": "14"
+    },
+    {
+      "title": "Web Applications",
+      "count": "11"
+    },
+    {
+      "title": "Software Development",
+      "count": "6"
+    },
+    {
+      "title": "Computer Science",
+      "count": "13"
+    },
+    {
+      "title": "Algorithms",
+      "count": "11"
+    },
+    {
+      "title": "Mathematical Modeling",
+      "count": "5"
+    },
+    {
+      "title": "Mathematics",
+      "count": "9"
+    },
+    {
+      "title": "Agile Project Management",
+      "count": "4"
+    },
+    {
+      "title": "Statistics",
+      "count": "5"
+    },
+    {
+      "title": "Data Analysis",
+      "count": "8"
+    },
+    {
+      "title": "Programming",
+      "count": "18"
+    },
+    {
+      "title": "Software Design",
+      "count": "6"
+    },
+    {
+      "title": "Business Analysis",
+      "count": "4"
+    },
+    {
+      "title": "Front-end Development",
+      "count": "4"
+    },
+    {
+      "title": "Scrum",
+      "count": "1"
+    },
+    {
+      "title": "Test Automation",
+      "count": "1"
+    },
+    {
+      "title": "Test Driven Development"
+    },
+    {
+      "title": "MySQL",
+      "count": "30"
+    },
+    {
+      "title": "HTML5",
+      "count": "20"
+    },
+    {
+      "title": "AngularJS",
+      "count": "16"
+    },
+    {
+      "title": "Databases",
+      "count": "15"
+    },
+    {
+      "title": "Matlab",
+      "count": "12"
+    },
+    {
+      "title": "Java",
+      "count": "11"
+    },
+    {
+      "title": "NoSQL",
+      "count": "1"
+    },
+    {
+      "title": "Spring MVC",
+      "count": "2"
+    },
+    {
+      "title": "Spring Boot",
+      "count": "2"
+    },
+    {
+      "title": "Maven",
+      "count": "1"
+    },
+    {
+      "title": "Git",
+      "count": "1"
+    },
+    {
+      "title": "Hibernate",
+      "count": "2"
+    },
+    {
+      "title": "PostgreSQL",
+      "count": "1"
+    },
+    {
+      "title": "React.js",
+      "count": "1"
+    },
+    {
+      "title": "RESTful WebServices"
+    },
+    {
+      "title": "Teaching",
+      "count": "15"
+    },
+    {
+      "title": "Teamwork",
+      "count": "12"
+    },
+    {
+      "title": "Management",
+      "count": "5"
+    },
+    {
+      "title": "Gradle",
+      "count": "6"
+    },
+    {
+      "title": "Graph Theory",
+      "count": "6"
+    },
+    {
+      "title": "Linear Algebra",
+      "count": "7"
+    },
+    {
+      "title": "Complexity Theory",
+      "count": "6"
+    },
+    {
+      "title": "Scientific Computing",
+      "count": "6"
+    },
+    {
+      "title": "Cloud Development",
+      "count": "4"
+    },
+    {
+      "title": "Back-End Web Development",
+      "count": "7"
+    },
+    {
+      "title": "Spring Security",
+      "count": "1"
+    },
+    {
+      "title": "Spring Batch",
+      "count": "1"
+    },
+    {
+      "title": "Cassandra",
+      "count": "1"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "3",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/petros-lengos-4126b455/",
+        "text": "I had the privilege of working with Spyros Argyroiliopoulos in a SCRUM Team for more than one year at Camelot Global. Spyros is proactive, result oriented, responsible and technically sound employee and he is always ready to put all his energy and time to get the job done. He has an exceptional troubleshooting and analytical skill. Spyros is a great asset to any company.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/kamlesh-patel-bba5941/",
+        "text": "Spyros and I worked together as part of a geographically dispersed SCRUM team. As a member of the Development team, I’ve always found Spyros to be extremely professional and willing to offer several ideas and solutions in order to meet the customer requirements. As a Product Owner, I always found that he was able to communicate very well the options available given the technical constraints and helped me arrive at optimal solutions. I’m impressed with his enthusiastic approach to his work and would welcome the opportunity to work with him again in the future.\n…\nSee more"
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "20",
+      "items": [
+        "Algorithm Design and Analysis",
+        "Automata and Formal Languages",
+        "Computational Complexity",
+        "Computational Science and Engineering",
+        "Computer Graphics",
+        "Computer Science Ι",
+        "Computer Science ΙΙ",
+        "Data Structures",
+        "Graph Theory and Applications",
+        "Hibernate",
+        "Introduction to Operations Research",
+        "Java EE",
+        "Java SE",
+        "JavaScript",
+        "Matrix Analysis and Applications",
+        "Numerical Analysis Ι",
+        "Numerical Linear Algebra",
+        "Stochastic Processes",
+        "jQuery",
+        "mySQL"
+      ]
+    },
+    {
+      "count": "4",
+      "items": [
+        "Journey 2 Jobs - Initiative for young developers funded by SNF",
+        "Finance, Accounting and Business Intelligence Web Application for Re-Shape Personal Trainers",
+        "Reservation System and Customer DB Web Application for Re-Shape Personal Trainers",
+        "M30 Mortar and M106 Platoon Targeting Solution Application for Greek Army"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "English",
+        "French",
+        "Greek"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "HEPIS",
+        "Hellenic Mathematical Society"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/dimitra-pappa/",
+      "text": "IT Consultant at INTRASOFT International"
+    },
+    {
+      "user": "https://www.linkedin.com/in/giannisvlachopoulos/",
+      "text": "Software Engineer at Agile Actors | Camelot Lottery Solutions"
+    },
+    {
+      "user": "https://www.linkedin.com/in/chrisgavanas/",
+      "text": "Software Engineer at Blueground Co"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nikos-thomos-43a42b17a/",
+      "text": "Entry level Full-Stack Java Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/antonissavaris/",
+      "text": "QA Manager / Technical Project Manager"
+    },
+    {
+      "user": "https://www.linkedin.com/in/georgia-gkika/",
+      "text": "Software Engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/smatthaios/",
+      "text": "Software Engineer at Agile Actors"
+    },
+    {
+      "user": "https://www.linkedin.com/in/achilleas-drakatos-5355b3117/",
+      "text": "Web Developer at Self-employed"
+    },
+    {
+      "user": "https://www.linkedin.com/in/keirini/",
+      "text": "QA Engineer / ISTQB® Certified for CTAL-TTA / ISTQB Instructor"
+    },
+    {
+      "user": "https://www.linkedin.com/in/despoina-charkiolaki/",
+      "text": "Front-end Developer"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Java / Spring Instructor",
+      "experience": "IEEE Computer Society",
+      "description": "Education",
+      "date1": "Dec 2017",
+      "date2": "1 mo"
+    },
+    {
+      "title": "Career Coach",
+      "experience": "Career In Progress - Consulting Services",
+      "description": "Education",
+      "date1": "Feb 2017 – May 2017",
+      "date2": "4 mos"
+    },
+    {
+      "title": "Career Coach",
+      "experience": "ΕΔΕΠ - HEPIS",
+      "description": "Education",
+      "date1": "Oct 2016 – Dec 2016",
+      "date2": "3 mos"
+    }
+  ],
+  "profile": {
+    "name": "Spyros Argyroiliopoulos",
+    "headline": "Java Developer",
+    "imageurl": "https://media.licdn.com/dms/image/C5103AQFfdj8y-lryzg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=lE38wBniQQRAhchaS3WVOnfS7tem8cLRKpn9bdkoyyU",
+    "location": "Greece",
+    "connections": "500+",
+    "summary": "Java Full Stack Web Developer, bright, self-driven, ambitious, enthusiastic, professional, reliable, clear thinking with strong attention to detail and excellent analytical and problem-solving skills. Eager to work with bleeding-edge technologies.\nAgile methodology and Scrum practitioner. Having demonstrated mathematical, programming and business background, able to multi-task and thrive in dynamic environments.\nA strong team player with excellent communication skills."
+  }
+}

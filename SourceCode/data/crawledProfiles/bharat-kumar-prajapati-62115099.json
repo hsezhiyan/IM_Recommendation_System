@@ -1,0 +1,158 @@
+{
+  "profileAlternative": {
+    "name": "BHARAT Kumar Prajapati",
+    "headline": "Angular and JavaScript Programmer",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQGXXGIu9-qsBg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=vTeDDIUASCRejMjCw90uvLsVI32Xcbqt7cnFdyxRU0g",
+    "location": "Jhalawar, Rajasthan, India",
+    "connections": "305",
+    "summary": "Angular and JavaScript Programmer Currently working with an IT firm as an angular developer."
+  },
+  "aboutAlternative": {
+    "text": "Angular and JavaScript Programmer Currently working with an IT firm as an angular developer."
+  },
+  "positions": [
+    {
+      "title": "Angular and JavaScript Programmer",
+      "companyName": "Truelogics Infotech Pvt. Ltd. - India",
+      "location": "India",
+      "date1": "Apr 2019 – Present",
+      "date2": "8 mos"
+    },
+    {
+      "title": "Angular and JavaScript Programmer",
+      "companyName": "Okruti It Consulting Pvt. Ltd.",
+      "location": "India",
+      "description": "Working on companies project a web application.\nImplementation of functionality based on clients requirement using the supporting language JavaScript and angular js framework",
+      "date1": "Jun 2017 – Mar 2019",
+      "date2": "1 yr 10 mos"
+    },
+    {
+      "title": "Technical Support",
+      "companyName": "studybazar.com",
+      "location": "Jaipur Area, India",
+      "date1": "Feb 2017 – Jun 2017",
+      "date2": "5 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Jecrc university",
+      "degree": "Engineer’s Degree",
+      "fieldofstudy": "Computer Science",
+      "date1": "2013",
+      "date2": "2017"
+    },
+    {
+      "title": "Jawahar Novadaya Vidyalaya Pachpahar",
+      "degree": "Senior secondary",
+      "fieldofstudy": "Mathematics and Computer Science",
+      "date1": "2005",
+      "date2": "2012"
+    }
+  ],
+  "skills": [
+    {
+      "title": "HTML"
+    },
+    {
+      "title": "CSS"
+    },
+    {
+      "title": "C++"
+    },
+    {
+      "title": "Social Media Marketing"
+    },
+    {
+      "title": "C"
+    },
+    {
+      "title": "JavaScript"
+    },
+    {
+      "title": "WordPress"
+    },
+    {
+      "title": "AngularJS"
+    },
+    {
+      "title": "Angular Material"
+    },
+    {
+      "title": "MySQL"
+    },
+    {
+      "title": "MongoDB"
+    },
+    {
+      "title": "NestJS"
+    },
+    {
+      "title": "Opencart"
+    },
+    {
+      "title": "TypeScript"
+    },
+    {
+      "title": "Express.js"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/palash-bhatnagar-91534411b/",
+      "text": "Angular developer at Infogain"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shweta-dixit-0931335a/",
+      "text": "Senior Business Analyst at American Express"
+    },
+    {
+      "user": "https://www.linkedin.com/in/maharishiraghu/",
+      "text": "Senior Salesforce Consultant at Appronex"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ankita-sharma-6075a4104/",
+      "text": "HR Manager"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shubhi-nigotiya-23b635165/",
+      "text": "Senior HR Executive at Hivesure Infosolutions"
+    },
+    {
+      "user": "https://www.linkedin.com/in/vimaldaga/",
+      "text": "World Record Holder | TEDx Speaker | Philanthropist | Sr. Principal Consultant | Entrepreneur | Founder LW Informatics"
+    },
+    {
+      "user": "https://www.linkedin.com/in/vaibhav-modi-3a46b316a/",
+      "text": "Providing Quality Services in web Designing & Development | UI/UX | Laravel | CI | Cake PHP | Graphic Design, Animation & Multimedia / Freelancer | IT Consultant | Android App|ios Angular/ SEO&SMO."
+    },
+    {
+      "user": "https://www.linkedin.com/in/balveer-chhimpa-19664270/",
+      "text": "UI developer at Planet Web Solutions Pvt. Ltd."
+    },
+    {
+      "user": "https://www.linkedin.com/in/anshul-gupta-69201487/",
+      "text": "Student at JECRC University"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yogeshchaturvedi/",
+      "text": "Software Engineer"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "BHARAT Kumar Prajapati",
+    "headline": "Angular and JavaScript Programmer",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQGXXGIu9-qsBg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=vTeDDIUASCRejMjCw90uvLsVI32Xcbqt7cnFdyxRU0g",
+    "location": "Jhalawar, Rajasthan, India",
+    "connections": "305",
+    "summary": "Angular and JavaScript Programmer Currently working with an IT firm as an angular developer."
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "profileAlternative": {
+    "name": "Edwin Veltman",
+    "headline": "Javascript Developer at Independent Contractor",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQFQNY4yUAlpfw/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=8p02RT2avz8LRAqDO6MdyGhjjb3jczna-EY-j9GH1H0",
+    "location": "Oakland, California",
+    "connections": "260",
+    "summary": "Front-End / JavaScript Developer\n\nExperience Summary:\n\nProgrammer with experience in all aspects of application development, including\nprototyping, specification, design, documentation, development, QA, and client support.\n\nComfortable in working closely with both small and large teams of coders, designers, producers and project managers.\n\nInterested in working on challenging projects in a fast-paced environment.\n\nSeveral years experience programming e-learning, portfolio and advertising-based\napplications, as well as kiosks and various web-based games and tools.\n\nQuick and eager to learn new programming languages and methodologies.\n\nProgramming Skills:\nStrong coding skills and experience with an eye for good design\nHTML5, CSS3, JavaScript, jQuery, ActionScript 3, Responsive Design\nExperience with PHP, XML, Photoshop, SVN, MDM Zinc, OOP principles"
+  },
+  "aboutAlternative": {
+    "text": "Front-End / JavaScript Developer\n\nExperience Summary:\n\nProgrammer with experience in all aspects of application development, including\nprototyping, specification, design, documentation, development, QA, and client support.\n\nComfortable in working closely with both small and large teams of coders, designers, producers and project managers.\n\nInterested in working on challenging projects in a fast-paced environment.\n\nSeveral years experience programming e-learning, portfolio and advertising-based\napplications, as well as kiosks and various web-based games and tools.\n\nQuick and eager to learn new programming languages and methodologies.\n\nProgramming Skills:\nStrong coding skills and experience with an eye for good design\nHTML5, CSS3, JavaScript, jQuery, ActionScript 3, Responsive Design\nExperience with PHP, XML, Photoshop, SVN, MDM Zinc, OOP principles"
+  },
+  "positions": [
+    {
+      "title": "Front-End / JavaScript Developer",
+      "companyName": "Independent Contractor"
+    },
+    {
+      "title": "Javascript Developer",
+      "companyName": "Independent Contractor",
+      "description": "Currently pursuing an intensive study of React, Redux and associated third-party helpers and components.\n\nUpdated the eBay 2016 Spring Seller Update webpages under a tight deadline, fully mobile responsive and integrated into the eBay UI.\n\nCreated custom interactive rich-media ads using HTML5, animation tools and plugins, testing and deploying on all major browsers, responsive to varying sizes and orientations of desktops and mobile devices.\n\nWorked closely with producers and designers in creating ads adhering to IAB digital ad guidelines, standards and best practices.\n\nProgrammed, maintained and debugged websites and HTML emails.\n\nConstructed interactive menus and customized cost analysis forms for an extensive Hubspot-based website.\n\nProgrammed an interactive video with menu navigation, synchronized effects and links for desktop and mobile.\n\nWorked closely with designers and producers to finesse engaging animations.\n…\nsee more",
+      "date1": "Feb 2013 – Present",
+      "date2": "6 yrs 10 mos"
+    },
+    {
+      "title": "Technical Specialist",
+      "companyName": "Flashtalking, Inc.",
+      "description": "Solved bugs and technical problems with web ads, performed ad unit QA, implemented tech support for production and sales teams and campaign managers, developed rich-media ads using Flash and JavaScript.\n\nCreated a new type of ad unit, using JavaScript and PHP, which gathers data from a recipe webpage and associated database to build a printable recipe page.\n\nProgrammed a product carousel in Flash and duplicated it in HTML5 for use in non-Flash environments such as mobile.\n\nCreated several webpages for AT&T which were the only ad sites hosted by Flashtalking, rather than the usual practice of only hosting ad units on other pages.\n…\nsee more",
+      "date1": "May 2012 – Feb 2013",
+      "date2": "10 mos"
+    },
+    {
+      "title": "ActionScript Developer",
+      "companyName": "Independent Contractor",
+      "description": "Coded an interactive web banner for HP featuring animation, rollovers and links, then converted it to JavaScript/JQuery for cross-platform and mobile deployment.\n\nProgrammed web-based and stand-alone Flash applications, working independently and in collaboration with other programmers.\n\nProgrammed a three-hour cultural training application for Humintell, configurable through XML and a client database, including testing and assessment capabilities.\n\nCreated a coverflow-type webpage for RockYou to showcase their online games.\n\nCoded a ROI tool for Blade Network Technologies which emulates a data-intensive spreadsheet.\n\nProgrammed an animation/video banner for Adobe's Photoshop Lightroom software.\n\nCreated a touchpad control system for use in controlling multiple devices such as dvd players, audio systems, and lighting controls, for use during seminar presentations.\n\nProgrammed a multi-language video kiosk in use at hundreds of locations worldwide.\n\nProgrammed the Facebook game application Social Nutz, coding all of the Flash, assisting in UI design and both Ruby and Javascript programming.\n\nCoded and helped design the site bunnybot.com (no longer active), a social shopping instant messaging client. Ported to Facebook and Meebo sites.\n\nUpdated and coded various webpages and applications for ScreamStream Interactive.\n\nProgrammed the Zazzle Flash Panel, in which users and sellers can select Zazzle.com products to create an interactive scrolling gallery to embed in any webpage.\n\nCreated the SlideText application, to create text effects that can be embedded in a webpage, for Slide.com.\n…\nsee more",
+      "date1": "Jan 2005 – May 2012",
+      "date2": "7 yrs 5 mos"
+    },
+    {
+      "title": "Actionscript Developer",
+      "companyName": "Distributed Learning Workshop",
+      "location": "Berkeley, CA",
+      "description": "Programmed complex interactive mathematics instruction for a small non-profit educational firm.\n\nConverted an interactive mathematics training application from Director to Flash in collaboration with the University of California College Prep Online.\n\nProgrammed the computer-mediated learning component of the Learning Conductor, a suite of complex online interactive algebra and geometry instruction sets for entry-level college students.\n\nProgrammed Mellie, an interactive bilingual math instruction application for elementary school age children.\n…\nsee more",
+      "date1": "Jan 2001 – Jan 2005",
+      "date2": "4 yrs 1 mo"
+    },
+    {
+      "title": "Actionscript / Lingo Software Engineer",
+      "companyName": "Wilson Learning",
+      "location": "Emeryville, CA",
+      "description": "Programmed large-project application CD-Roms and websites for the eLearning division of a business-training company with 35 on-site employees.\n\nProgrammed the award-winning CD-Roms Houghton-Mifflin Mathsteps, an educational application, Fiat Punto, a sales training application, and Addison Wesley Teacher's Resource Planner, a curriculum management application supplied with textbooks.\nSupervised small teams of programming contractors.\n\nCreated the Sun StarOffice business-card type CD-Rom as the sole programmer.\n\nProgrammed the Online Quiz portion of the Roche Online Bluebook Training by learning ASP from scratch and completing the project under a tight deadline.\n\nCreated and documented data management and security procedures.\n\nBuilt application installers and supervised QA testing.\n…\nsee more",
+      "date1": "Jan 1997 – Jan 2001",
+      "date2": "4 yrs 1 mo"
+    }
+  ],
+  "educations": [
+    {
+      "title": "University of Illinois at Chicago",
+      "degree": "Diploma; B.S",
+      "fieldofstudy": "Geology, Computer Science Minor"
+    },
+    {
+      "title": "Zurich Versicherungen Programmierschule"
+    }
+  ],
+  "skills": [
+    {
+      "title": "HTML5",
+      "count": "3"
+    },
+    {
+      "title": "JavaScript",
+      "count": "9"
+    },
+    {
+      "title": "JQuery"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "1",
+      "items": [
+        "German"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/siyuan-wu-264516118/",
+      "text": "React & Node.js Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sirisha-lankela-b2105a165/",
+      "text": "React JS Developer at American Express"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shashidhar-eruganamoni-6bbb15131/",
+      "text": "Looking for New opportunities- UX Designer / UI Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ian-butler-46a35a22/",
+      "text": "Javascript Developer. React Node.js"
+    },
+    {
+      "user": "https://www.linkedin.com/in/anish-aggarwal-08496916/",
+      "text": "React, Redux, & React-Native Javascript Engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/lucas-helminiak-a59378105/",
+      "text": "Full Stack Javascript and React Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nozomiichihara/",
+      "text": "Front End Web Developer/UX & UI Engineer - AngularJS Developer - Full-time at Io-Tahoe"
+    },
+    {
+      "user": "https://www.linkedin.com/in/chetian/",
+      "text": "Senior Frontend Developer at Intuit"
+    },
+    {
+      "user": "https://www.linkedin.com/in/vinodreddy9/",
+      "text": "UI Developer having experience with Angular js, Node.js and React.js"
+    },
+    {
+      "user": "https://www.linkedin.com/in/navimarella/",
+      "text": "Full stack React developer"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Edwin Veltman",
+    "headline": "Javascript Developer at Independent Contractor",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQFQNY4yUAlpfw/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=8p02RT2avz8LRAqDO6MdyGhjjb3jczna-EY-j9GH1H0",
+    "location": "Oakland, California",
+    "connections": "260",
+    "summary": "Front-End / JavaScript Developer\n\nExperience Summary:\n\nProgrammer with experience in all aspects of application development, including\nprototyping, specification, design, documentation, development, QA, and client support.\n\nComfortable in working closely with both small and large teams of coders, designers, producers and project managers.\n\nInterested in working on challenging projects in a fast-paced environment.\n\nSeveral years experience programming e-learning, portfolio and advertising-based\napplications, as well as kiosks and various web-based games and tools.\n\nQuick and eager to learn new programming languages and methodologies.\n\nProgramming Skills:\nStrong coding skills and experience with an eye for good design\nHTML5, CSS3, JavaScript, jQuery, ActionScript 3, Responsive Design\nExperience with PHP, XML, Photoshop, SVN, MDM Zinc, OOP principles"
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "profileAlternative": {
+    "name": "Ilia Rudinsky",
+    "headline": "Senior C++ Quantitative Developer",
+    "location": "Greater New York City Area",
+    "connections": "136",
+    "summary": "Current experience in quantitative development: MBS prepayment models and analytics; economic capital and VaR models. Extensive experience in C++/C++11/C++14 software architecture / design / development of low latency distributed multi-threaded real time systems for network, manufacturing and financial applications. Strong background in a number of areas of applied mathematics and computer science: probability and statistics, stochastic processes, data modeling, data structures, and algorithms. Advanced to expert understanding of equities and equity derivatives valuation and the mathematical foundations, as well as fixed income products and derivatives(bonds, swaps, caps, swaptions)."
+  },
+  "aboutAlternative": {
+    "text": "Current experience in quantitative development: MBS prepayment models and analytics; economic capital and VaR models. Extensive experience in C++/C++11/C++14 software architecture / design / development of low latency distributed multi-threaded real time systems for network, manufacturing and financial applications. Strong background in a number of areas of applied mathematics and computer science: probability and statistics, stochastic processes, data modeling, data structures, and algorithms. Advanced to expert understanding of equities and equity derivatives valuation and the mathematical foundations, as well as fixed income products and derivatives(bonds, swaps, caps, swaptions)."
+  },
+  "positions": [
+    {
+      "title": "Senior C++ Quantitative Developer",
+      "companyName": "Intercontinental Exchange",
+      "location": "Greater New York City Area",
+      "description": "Application and quantitative development on a grid computing system in C++11/C++14 and Java 1.6/1.7/1.8 in Mortgage Backed Securities OAS computing group.",
+      "date1": "May 2017 – Present",
+      "date2": "2 yrs 7 mos"
+    },
+    {
+      "title": "Senior C++ Quant Dev. Consultant",
+      "companyName": "Bank of America",
+      "location": "Greater New York City Area",
+      "description": "Global Risk Analytics Group.\nMigration of the economic model “Lease Residuals Economic Risk Capital”, initially implemented in MATLAB by the bank quant analysts, into the standard compliant C++ 11/C++14 language. The model implementation involved principally the input data probability density Kernel Density Estimation (KDE), and subsequent Monte Carlo simulation of a number of correlated Producer Price Index based returns to obtain the distributions of individual indices, and subsequently top of the house economic capitals per line of business or legal entity, at a specified value at risk percentile; subsequent calculation of the risk capital allocations per equipment within lines of business and legal entities. The Gaussian Copula approach was used to model dependencies between individual PPI indices.\nMigration of the economic model “Equity Investments Portfolio Value at Risk”, initially implemented in MATLAB by the bank quantitative analysts, into the standard compliant C++ 11/C++14 language. The model involved implementation of the revaluation, and subsequent VaR estimation of a linear correlated portfolio of equities, at a specified value of risk percentile. The Monte Carlo simulation approach was used to obtain the distribution of the P&L of the portfolio. In this model (as well as in the model above) the Gaussian Copula approach was used to model dependencies between individual elements (equities) of the portfolio.\n…\nsee more",
+      "date1": "Jan 2016 – Mar 2017",
+      "date2": "1 yr 3 mos"
+    },
+    {
+      "title": "Senior C++ Quant Dev. Consultant",
+      "companyName": "Confidential Client",
+      "location": "Greater New York City Area",
+      "description": "Key projects/responsibilities: Equities allocation and management advisory system.\nDevelopment and implementation of algorithms and algorithmic improvements w.r.t. predictive capabilities of the dynamic portfolio equities allocation model, in standard compliant C++11 language, for the proprietary, statistically arbitraged risk management system, in close collaboration with quantitative analysts.\n…\nsee more",
+      "date1": "Jun 2014 – Jan 2016",
+      "date2": "1 yr 8 mos"
+    },
+    {
+      "title": "Senior C++ Consultant",
+      "companyName": "Morgan Stanley",
+      "location": "Greater New York City Area",
+      "description": "Platform: Linux. Languages: C++. Specific architectures: Compliance with Morgan Stanley proprietary OMS component architecture. Main project: The renovation of the Morgan Stanley low latency FIX protocol based Institutional Trading Order Management System for Listed Securities.",
+      "date1": "Nov 2013 – May 2014",
+      "date2": "7 mos"
+    },
+    {
+      "title": "Chief Technical Lead C++",
+      "companyName": "Minsk Tractor Works Limited",
+      "location": "Greater New York City Area",
+      "description": "Key responsibilities: Development of the real time low latency multi-threaded robotic control and data acquisition distributed systems in the standard compliant C++ language on Linux machines.",
+      "date1": "May 2004 – Oct 2013",
+      "date2": "9 yrs 6 mos"
+    },
+    {
+      "title": "Senior Developer",
+      "companyName": "Bloomberg LP",
+      "location": "Greater New York City Area",
+      "description": "Enhancement and maintenance of the Bloomberg API real time market data distribution system, written in C language, on UNIX and Windows platforms.",
+      "date1": "Mar 2001 – Feb 2004",
+      "date2": "3 yrs"
+    }
+  ],
+  "educations": [
+    {
+      "title": "University of Illinois at Urbana-Champaign",
+      "degree": "Master of Science - MS",
+      "fieldofstudy": "Engineering Physics/Applied Physics"
+    }
+  ],
+  "skills": [],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/danielleyucht/",
+      "text": "C++ Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tuo-sara-li-0aa5663b/",
+      "text": "C++ Developer at JPMorgan Chase & Co."
+    },
+    {
+      "user": "https://www.linkedin.com/in/shambhavivats/",
+      "text": "Graduate Student, Master's of Quantitative Finance | Computer Science Engineer | Actively Seeking Full-Time Quant roles"
+    },
+    {
+      "user": "https://www.linkedin.com/in/chrisrodier/",
+      "text": "High Latency Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mujun-han/",
+      "text": "Algorithm Trading Analyst at Trade Informatics, CFA exams passed"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nachuan-ouyang-2047a8109/",
+      "text": "Software Engineer at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/david-song-m-d-ph-d-67267519/",
+      "text": "Managing Director at Rockefeller Capital Management"
+    },
+    {
+      "user": "https://www.linkedin.com/in/bryangottschalk/",
+      "text": "Software Engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/andrew-demaio-865a1815b/",
+      "text": "C++ Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tyrus-cukavac-5b222273/",
+      "text": "Software Developer at Bloomberg LP"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Ilia Rudinsky",
+    "headline": "Senior C++ Quantitative Developer",
+    "location": "Greater New York City Area",
+    "connections": "136",
+    "summary": "Current experience in quantitative development: MBS prepayment models and analytics; economic capital and VaR models. Extensive experience in C++/C++11/C++14 software architecture / design / development of low latency distributed multi-threaded real time systems for network, manufacturing and financial applications. Strong background in a number of areas of applied mathematics and computer science: probability and statistics, stochastic processes, data modeling, data structures, and algorithms. Advanced to expert understanding of equities and equity derivatives valuation and the mathematical foundations, as well as fixed income products and derivatives(bonds, swaps, caps, swaptions)."
+  }
+}

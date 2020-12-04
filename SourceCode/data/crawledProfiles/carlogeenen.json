@@ -1,0 +1,292 @@
+{
+  "profileAlternative": {
+    "name": "Carlo Geenen",
+    "headline": "Automation Tester and Java Developer bij Alliander",
+    "location": "’s-Hertogenbosch, North Brabant Province, Netherlands",
+    "connections": "272"
+  },
+  "aboutAlternative": {},
+  "positions": [
+    {
+      "title": "Automation Tester and Java Developer",
+      "companyName": "Alliander",
+      "date1": "Jul 2019 – Present",
+      "date2": "5 mos"
+    },
+    {
+      "title": "Automated smart EV charging with smart metering and DALI smart grid data",
+      "companyName": "ElaadNL",
+      "location": "Arnhem",
+      "description": "Can individual EV charging stations be controlled in their maximum output current by a smart meter based on DALI smart grid load data? This can have great potential for a grid operator in providing maximum up-time in their grid in the fast changing and increasing energy demand using existing smart grid facilities.",
+      "date1": "Jan 2019 – Present",
+      "date2": "11 mos"
+    },
+    {
+      "title": "Java Software Developer and Tester",
+      "companyName": "Infiniot B.V.",
+      "location": "Eindhoven en omgeving, Nederland",
+      "description": "Facilitating the energy transition with IOT.",
+      "date1": "Jul 2018 – Present",
+      "date2": "1 yr 5 mos"
+    },
+    {
+      "title": "Automation Agile Tester and DevOps Java Developer",
+      "companyName": "CCV Nederland",
+      "location": "Arnhem",
+      "description": "The Cardnet application in the CCV IT landscape is responsible for transaction processing from for example creditcards and other payment cards for customers, (web)shops and banks. The integration, up time and accuracy are very critical in combination with a huge amount of specific customers and their specific requirements. For future purposes a new application is build from scratch with higher performance output and reliability.\n\nIn these applications, automated testing is very important to maintain all this functionality and to get reliable feedback fast. The tests are created with Cucumber in Java. I also translate business requirements to implementation and build new software projects and infrastructure in the Agile DevOps team. Further I help CCV with my Scrum Master knowledge to work more efficiënt in an Agile environment.\n\n…\nsee more",
+      "date1": "Aug 2018 – Jun 2019",
+      "date2": "11 mos"
+    },
+    {
+      "title": "Java Software Developer and Tester",
+      "companyName": "Smart Society Services B.V.",
+      "location": "Eindhoven en omgeving, Nederland",
+      "description": "As a member of Smart Society Services, I am working as a Java developer and tester in a DevOps Agile project team. The Smart Meter Headend and Zown Microgrids is a part of the OSGP \"open, generic, scalable and independent ‘Internet of Things’ platform which enables various public service objects to be easily controlled and monitored with any application and with any communication infrastructure.\"\n\nI fulfill the roles of a software developer, software tester and scrum master within the dynamic project team.\n\nApplication examples are managing 10 million smart energy meters by a grid operator and a independent micro grid energy supply which is already live on the Dutch island Pampus.\n…\nsee more",
+      "date1": "Jan 2016 – Jun 2018",
+      "date2": "2 yrs 6 mos"
+    },
+    {
+      "title": "Software Engineer",
+      "companyName": "CGI Nederland",
+      "location": "Eindhoven en omgeving, Nederland",
+      "description": "Starting new internal and external projects for software development in C++, Java and Ruby.",
+      "date1": "Sep 2015 – Jun 2018",
+      "date2": "2 yrs 10 mos"
+    },
+    {
+      "title": "Software Assembly Integrator",
+      "companyName": "ASML",
+      "description": "As software assembly integrator I am responsible for a successful integration of individual software deliveries from Prodrive Technologies within the software framework of ASML.\nThis requires meeting quality standards and hard deadlines, writing test specifications, proto testing, software implementing, compiling, merging, reviewing, integrating and testing software in ASML software context. Further the development cluster was a pilot within ASML to work with assembly integration. Despite the pilot and the fact that software integration is the last link of the chain I always achieved deadlines, planning and quality. At the same moment, this is the first group within ASML that works according the new software assembly releasing pilot. This means testing and discovering new processes, tools and reporting improvements or malfunctioning as at will be rolled out throughout the whole company.\n…\nsee more",
+      "date1": "Jan 2014 – Aug 2015",
+      "date2": "1 yr 8 mos"
+    },
+    {
+      "title": "Prodrive Technologies",
+      "description": "As product coordinator I am responsible for the coordination of maintenance and support after the launch of the in-line automated electrical test machine. It has to be more mature so it can be used in a larger scale with higher production targets and more test coverage. This means carry out quality improvements and automation for the test developers. I also focused on improving and developing new and accurate measuring and programming of the products. But also automating of test development, and developing accurate, faster measuring solutions. And updating documentation of processes, and act on malfunction issues.\n…\nsee more",
+      "date1": "Aug 2013 – Dec 2013",
+      "date2": "5 mos",
+      "roles": [
+        {
+          "title": "Product Coordinator",
+          "date1": "Aug 2013 – Dec 2013",
+          "date2": "5 mos"
+        },
+        {
+          "title": "Project Leader",
+          "date1": "Jul 2013 – Dec 2013",
+          "date2": "6 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nProduct Coordinator",
+      "description": "As product coordinator I am responsible for the coordination of maintenance and support after the launch of the in-line automated electrical test machine. It has to be more mature so it can be used in a larger scale with higher production targets and more test coverage. This means carry out quality improvements and automation for the test developers. I also focused on improving and developing new and accurate measuring and programming of the products. But also automating of test development, and developing accurate, faster measuring solutions. And updating documentation of processes, and act on malfunction issues.\n…\nsee more",
+      "date1": "Aug 2013 – Dec 2013",
+      "date2": "5 mos",
+      "roles": [
+        {
+          "title": "Product Coordinator",
+          "date1": "Aug 2013 – Dec 2013",
+          "date2": "5 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nProject Leader",
+      "description": "As project leader I am overall responsible for the achievement of the internal projects that derived from using the test machine on a larger scale, I have been responsible in controlling and supporting technical aspects to achieve milestones and project targets according the ‘first time right’ principle. As a project leader I startup internal projects when I determine needs for development for the test machine. Also reviewing technical specification documents for new functionalities and give feedback when needed to team members.\n…\nsee more",
+      "date1": "Jul 2013 – Dec 2013",
+      "date2": "6 mos",
+      "roles": [
+        {
+          "title": "Project Leader",
+          "date1": "Jul 2013 – Dec 2013",
+          "date2": "6 mos"
+        }
+      ]
+    },
+    {
+      "title": "Embedded System Design",
+      "companyName": "Neways Technologies B.V.",
+      "location": "Son, The Netherlands",
+      "description": "Graduation internship Bachelor of Engineering.\nIndependent research for a classified project that contained hardware and software design including all documentation.",
+      "date1": "Aug 2012 – Jan 2013",
+      "date2": "6 mos"
+    },
+    {
+      "title": "Repairing, installation and sales in electronic appliances and multi-room systems.",
+      "companyName": "Electroteam Roggel",
+      "location": "Roggel, The Netherlands",
+      "description": "Part time job in sales, repairing, delivery and installation of electronic appliances.\nProgramming and installation of custom home automation multi-room systems.",
+      "date1": "Feb 2006 – Jan 2013",
+      "date2": "7 yrs"
+    },
+    {
+      "title": "Research and Development",
+      "companyName": "Philips Research",
+      "location": "Eindhoven, The Netherlands",
+      "description": "Intermediate Vocational Education Electronics graduation internship.\nDevelopment and realization from prototypes for internal customers. PCB lay-out.",
+      "date1": "Feb 2009 – Jul 2009",
+      "date2": "6 mos"
+    },
+    {
+      "title": "Development and Prototyping",
+      "companyName": "Proosten Electronics B.V.",
+      "location": "Meijel, The Netherlands",
+      "description": "Intermediate Vocational Education Electronics internship.\nResearch and development of professional battery chargers and inverters.",
+      "date1": "Aug 2007 – Jan 2008",
+      "date2": "6 mos"
+    },
+    {
+      "title": "Repair and Development audio equipment",
+      "companyName": "HB Elektronica",
+      "location": "Weert, The Netherlands",
+      "description": "Intermediate Vocational Education Electronics internship.\nDevelopment and repairing of audio equipment.\nwww.hbelectronica.com",
+      "date1": "Feb 2007 – Apr 2007",
+      "date2": "3 mos"
+    },
+    {
+      "title": "Installing Satellite TV, video surveillance and telephone systems",
+      "companyName": "Ralectro B.V.",
+      "location": "Roggel, The Netherlands",
+      "description": "Intermediate Vocational Education Electronics internship.\nInstalling Satellite TV, video surveillance and telephone systems.\nwww.ralectro.nl",
+      "date1": "Mar 2006 – Apr 2006",
+      "date2": "2 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Hogeschool Zuyd (Maastricht, Heerlen, Sittard)",
+      "degree": "Bachelor of Engineering",
+      "fieldofstudy": "Electronics, Telecommunications and Computer Science",
+      "date1": "2009",
+      "date2": "2013"
+    },
+    {
+      "title": "Gilde Opleidingen Roermond, Intermediate Vocational Education Electronics level 4",
+      "degree": "Middle Management Automation Electronics, Intermediate Vocational Education level 4",
+      "fieldofstudy": "Electronics",
+      "date1": "2005",
+      "date2": "2009"
+    },
+    {
+      "title": "SG Sint Ursula Horn, Secondary Vocational Education",
+      "degree": "Secondary Vocational Education",
+      "date1": "2001",
+      "date2": "2005"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Electronics",
+      "count": "1"
+    },
+    {
+      "title": "Energy",
+      "count": "1"
+    },
+    {
+      "title": "Software Development"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "18",
+      "items": [
+        "Ansible",
+        "Basic Security VCA 2006",
+        "Basic Solder Training IPC-A-610E, IPC-A-7711, IPC-A-7721 April 2013",
+        "Cisco Networking for Home and Small Business 2009",
+        "Computer Based Workflow and Workbench Analysis Training",
+        "Control4® TECH 1 installation and programming training 2012",
+        "Cucumber",
+        "Design Patterns",
+        "Google Go",
+        "Linux/UNIX part 1, October 2014",
+        "Linux/UNIX part 2 scripting, April 2017",
+        "PADS Layout 27-28 November 2012",
+        "Raspberry Pi workshop",
+        "Spring Security",
+        "Spring for Java",
+        "Xamarin",
+        "gRPC",
+        "jMeter"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "Duits",
+        "Engels",
+        "Nederlands"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Fontys presentation for students"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/alwindocter/",
+      "text": "Product Owner at Alliander"
+    },
+    {
+      "user": "https://www.linkedin.com/in/janwout/",
+      "text": "Freelance developer and devops engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kim-bierman-ba738bb9/",
+      "text": "Procesverbeteraar | databeheerder"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tonko-van-eerden-60583462/",
+      "text": "Project Engineer at Alliander"
+    },
+    {
+      "user": "https://www.linkedin.com/in/stefan-rang-8b0635101/",
+      "text": "ICT-consultant bij Infiniot"
+    },
+    {
+      "user": "https://www.linkedin.com/in/patrick-van-eijk-0742a8179/",
+      "text": "Data Scientist bij Infiniot B.V."
+    },
+    {
+      "user": "https://www.linkedin.com/in/gijs-kerkhof-32a410112/",
+      "text": "--"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ramon-hagenaars-a442159/",
+      "text": "Senior Software Engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/annelies-krijgsman-b15b672/",
+      "text": "HR Director NL at CGI Nederland"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jos-klein-bleumink-a7136661/",
+      "text": "Graduation bij E-laad.nl"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Design, implementation and maintanence website",
+      "experience": "CGK Den Bosch",
+      "date1": "May 2017 – Present",
+      "date2": "2 yrs 7 mos"
+    }
+  ],
+  "profile": {
+    "name": "Carlo Geenen",
+    "headline": "Automation Tester and Java Developer bij Alliander",
+    "location": "’s-Hertogenbosch, North Brabant Province, Netherlands",
+    "connections": "272"
+  }
+}

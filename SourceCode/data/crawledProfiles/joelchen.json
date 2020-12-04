@@ -1,0 +1,217 @@
+{
+  "profileAlternative": {
+    "name": "Joel Chen",
+    "headline": "Hiring JavaScript experts (Node/React/Infra/Platform) @WalmartLabs",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQEZuDI0t6-5XQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=AhGfHnYshUG-ZmhCA2HZD3_CEmPJs8PM__SYomqtzuE",
+    "location": "San Francisco Bay Area",
+    "connections": "500+",
+    "summary": "Engineering Manager, Architect, Mentor, Coder"
+  },
+  "aboutAlternative": {
+    "text": "Engineering Manager, Architect, Mentor, Coder"
+  },
+  "positions": [
+    {
+      "title": "Walmart eCommerce",
+      "location": "Sunnyvale",
+      "description": "Principal Architect, Customer Experience eCommerce Platform.\nLead and coordinate with multiple teams to architect, develop, and maintain the web platform for Enterprise NodeJS and ReactJS Webapps for eCommerce. What we developed is powering 100% of the http://www.walmart.com sites, part of which is Open Sourced http://www.electrode.io.\n\nAlso authored other Open Source Software: https://github.com/electrode-io/memcache, https://github.com/electrode-io/fyn, https://github.com/jchip/xclap, https://www.npmjs.com/package/nix-clap, and more at https://github.com/jchip and https://github.com/electrode-io\n\nBlogs: https://medium.com/walmartlabs\n…\nsee more",
+      "date1": "Jan 2018 – Present",
+      "date2": "1 yr 11 mos",
+      "roles": [
+        {
+          "title": "Director Of Software Development, Application Platform",
+          "date1": "Jan 2018 – Present",
+          "date2": "1 yr 11 mos",
+          "location": "Sunnyvale"
+        },
+        {
+          "title": "Principal Architect and Technology Leader",
+          "date1": "Oct 2015 – Present",
+          "date2": "4 yrs 2 mos",
+          "location": "San Francisco Bay Area"
+        }
+      ]
+    },
+    {
+      "title": "Title\nDirector Of Software Development, Application Platform",
+      "location": "Sunnyvale",
+      "date1": "Jan 2018 – Present",
+      "date2": "1 yr 11 mos",
+      "roles": [
+        {
+          "title": "Director Of Software Development, Application Platform",
+          "date1": "Jan 2018 – Present",
+          "date2": "1 yr 11 mos",
+          "location": "Sunnyvale"
+        }
+      ]
+    },
+    {
+      "title": "Title\nPrincipal Architect and Technology Leader",
+      "location": "San Francisco Bay Area",
+      "description": "Principal Architect, Customer Experience eCommerce Platform.\nLead and coordinate with multiple teams to architect, develop, and maintain the web platform for Enterprise NodeJS and ReactJS Webapps for eCommerce. What we developed is powering 100% of the http://www.walmart.com sites, part of which is Open Sourced http://www.electrode.io.\n\nAlso authored other Open Source Software: https://github.com/electrode-io/memcache, https://github.com/electrode-io/fyn, https://github.com/jchip/xclap, https://www.npmjs.com/package/nix-clap, and more at https://github.com/jchip and https://github.com/electrode-io\n\nBlogs: https://medium.com/walmartlabs\n…\nsee more",
+      "date1": "Oct 2015 – Present",
+      "date2": "4 yrs 2 mos",
+      "roles": [
+        {
+          "title": "Principal Architect and Technology Leader",
+          "date1": "Oct 2015 – Present",
+          "date2": "4 yrs 2 mos",
+          "location": "San Francisco Bay Area"
+        }
+      ]
+    },
+    {
+      "title": "Principal Software Engineer",
+      "companyName": "PayPal",
+      "location": "San Francisco Bay Area",
+      "description": "PayPal Checkout Dev Lead. Clean code advocate. Typical pain in the neck guy with demands at striking for high quality in both design and code, while delivering ahead of schedule. Push for test driven development and highly diagnoseable code.\n\nWorked on backend services and web applications in C++, and then Java.\nRewritten Checkout backend in NodeJS.\nRedesigned and rewrote backend again in NodeJS and with SPA in AngularJS.\nMoved to mobile and worked on iOS in Swift and Objective-C.\n\n…\nsee more",
+      "date1": "Jan 2010 – Oct 2015",
+      "date2": "5 yrs 10 mos"
+    },
+    {
+      "title": "Software Engineer",
+      "companyName": "Ziosoft",
+      "location": "San Francisco Bay Area",
+      "description": "Developed the networking and system layer on 64-bit Windows for high performance and low latency cluster for 3D medical image rendering and analyzing software. C++, STL, Boost, TCPIP, Multi-thread, Win32, Multi-core, Multi-Servers, and Multi-Clients.\nDeveloped iPhone application for viewing medical images in Objective-C with XCode on Mac OSX",
+      "date1": "Jun 2007 – Jan 2010",
+      "date2": "2 yrs 8 mos"
+    },
+    {
+      "title": "Software Engineer",
+      "companyName": "TGC",
+      "description": "Fixed and Implemented Tivo UIs and features specific for Chinese markets. Extended Tivo Home Media Engine to have Chinese support. Worked on new HD Tivo; debugged hardware video drivers and kernel crashes; debugged video encryption driver; implemented video stream encryption/decryption for recording and playback. C++, Linux, HD Video Handling, Unicode, and Java.\n…\nsee more",
+      "date1": "Jul 2006 – Jun 2007",
+      "date2": "1 yr"
+    },
+    {
+      "title": "Software Engineer",
+      "companyName": "Vulcan Research, LLC",
+      "description": "Developed SIP based VOIP system with video and audio based on standard codecs. Server runs on Linux with Oracle/PostgreSQL. Clients for Linux, Digeo settop box, Windows, and pSos embedded device. Customized embedded web browser. Client APIs exported to Javascript. Web based client in Javascript and HTML. Implemented and maintained one build system for all platforms. C, C++, TCPIP, Multithread, Embedded system, Board Bring-UP, device drivers, JTAG, and Javascript.\n…\nsee more",
+      "date1": "Mar 2001 – Jun 2006",
+      "date2": "5 yrs 4 mos"
+    },
+    {
+      "title": "Software Engineer",
+      "companyName": "Liberate Technologies",
+      "description": "Implemented OHCI USB Stack for VxWorks on x86 based settop box, and drivers for USB mouse, keyboard, ethernet dongle, and scanner. Implemented on VxWorks Modem driver, PPP hook support, Smartcards controller driver, and video chip driver. Export APIs for these devices to Javascript and implemented HTML test UI on embedded browser. C, C++, VxWorks, embedded system, device drivers, USB, and Javascript.\n…\nsee more",
+      "date1": "Jan 1999 – Mar 2001",
+      "date2": "2 yrs 3 mos"
+    },
+    {
+      "title": "Software Engineer",
+      "companyName": "Electronics For Imaging, Inc",
+      "description": "Implemented LCD drivers, display subsystems, and multi-language supports on VxWorks; implemented UI for LCD that controls printer engine. Worked on remote control subsystem so printer can be controlled by a PC. Hardware bringup and driver debugging. C, VxWorks, embedded system, LCD Display, device driver.",
+      "date1": "Apr 1997 – Jan 1999",
+      "date2": "1 yr 10 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "University of California, Davis",
+      "degree": "BS",
+      "fieldofstudy": "CSE",
+      "date1": "1992",
+      "date2": "1996"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Node.js",
+      "count": "5"
+    },
+    {
+      "title": "JavaScript",
+      "count": "6"
+    },
+    {
+      "title": "C++",
+      "count": "8"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "4",
+    "receivedCount": "2",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/myke-morgan/",
+        "text": "I managed Joel for a few years when he initially worked at PayPal. He always was an innovator and strive to be a multiplier by building and driving change that impacted the engineering organization. He was excellent in both Java and JavaScript development, eventually being drafted out of my team for a company critical project. He is definitely an asset to any team he joins.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/ldesegur/",
+        "text": "I had the privilege to work with Joel at PayPal when he joined my initial \"ninja\" team to reboot the way the company shifted to a modern approach building and delivering experiences to our customers and then when I hired him at WalmartLabs again as one of the top original engineers to build an application platform from A-Z, we later called Electrode after it was open-sourced. Joel is one of the smartest and most efficient developers I ever met in my entire career. If you think you've met some 10x devs before, wait to work with Joel to recalibrate your eval. His depth of knowledge in so many areas ranging from FE development, CI/CD, automation, to distributed systems with a mix of legacy and new technologies provided my teams and the organization the support and confidence that any project he touched would ship on time. I would hire Joel again without any hesitation, if the opportunity happens to be. Joel, you rock!\n…\nSee more"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/aruneshjoshi/",
+        "text": "Arunesh is a top developer that I've had the pleasure of working with.  He's one of the best.  His technical skills, dedication, passion for quality and excellence, and openness to collaborate with others make him stand out.  In the past three years he was a huge help for my team by always being the first to adopt new features we release and work with us closely to test and fix issues.  His technical knowledge and a curiosity to get to the bottom of things was instrumental to help shape some of the work we do."
+      },
+      {
+        "user": "https://www.linkedin.com/in/sinhaanurag/",
+        "text": "Anurag is a very talented, smart, and driven engineer.  He can quickly learn new technology and problems thrown at him and come up with great solutions.  He always work hard to thoroughly understand any problems and make sure the solution covers all corners."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "3",
+      "items": [
+        "Cantonese",
+        "English",
+        "Mandarin"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/dat-vong-9478b2/",
+      "text": "Staff Engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/chengmu/",
+      "text": "S/W Solution Architect"
+    },
+    {
+      "user": "https://www.linkedin.com/in/anhduy-nguyen/",
+      "text": "I'm Hiring in Cupertino! Looking for Software Engineers & Technical Program Managers to join the AWS EBS team."
+    },
+    {
+      "user": "https://www.linkedin.com/in/aamir-waheed-9863002/",
+      "text": "Senior Manager, Quality Engineering and Tools"
+    },
+    {
+      "user": "https://www.linkedin.com/in/alex-huang-2857b5/",
+      "text": "Member of Technical Staff 2, Quality Engineering at PayPal"
+    },
+    {
+      "user": "https://www.linkedin.com/in/xiao-michelle-wang-1414577/",
+      "text": "Sr Business Analyst/Engineer at PayPal"
+    },
+    {
+      "user": "https://www.linkedin.com/in/daniel-palevich-5a44a517/",
+      "text": "Android Software Engineer at PayPal"
+    },
+    {
+      "user": "https://www.linkedin.com/in/rachana-nallur-0361152/",
+      "text": "MTS 1 QE at EBAY"
+    },
+    {
+      "user": "https://www.linkedin.com/in/bitao-li-2768944/",
+      "text": "MTS 2 Software Engineer at PayPal"
+    },
+    {
+      "user": "https://www.linkedin.com/in/james-poag-3b889784/",
+      "text": "Lead Programmer"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Joel Chen",
+    "headline": "Hiring JavaScript experts (Node/React/Infra/Platform) @WalmartLabs",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQEZuDI0t6-5XQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=AhGfHnYshUG-ZmhCA2HZD3_CEmPJs8PM__SYomqtzuE",
+    "location": "San Francisco Bay Area",
+    "connections": "500+",
+    "summary": "Engineering Manager, Architect, Mentor, Coder"
+  }
+}

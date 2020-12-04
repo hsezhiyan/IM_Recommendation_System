@@ -1,0 +1,311 @@
+{
+  "profileAlternative": {
+    "name": "James McNellis",
+    "headline": "Principal Software Engineer at Microsoft",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQEpNmUSoLP-qg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=hvDhivc_2YnN09Icf_iUAwi4GrBffVETX78qcrkSvII",
+    "location": "Washington, District Of Columbia",
+    "connections": "375",
+    "summary": "C++ maven. Systems programmer. Scotch connoisseur. Classical music enthusiast. Photographer. Principal engineer at Microsoft working on Time Travel Debugging."
+  },
+  "aboutAlternative": {
+    "text": "C++ maven. Systems programmer. Scotch connoisseur. Classical music enthusiast. Photographer. Principal engineer at Microsoft working on Time Travel Debugging."
+  },
+  "positions": [
+    {
+      "title": "Microsoft",
+      "location": "Washington, DC and Redmond, WA",
+      "description": "I am a software engineer in the Visual C++ group, where I work on the development of C++ toolsets.\n\nI frequently speak at conferences on a wide variety of C++-related subjects. Recent events include CppCon, Meeting C++, Pacific++, C++Now, ACCU, the Italian C++ Community Conference, ADC++, Microsoft TechDays, C++ London, Madrid C/C++, MUC++ (C++ User Group Munich), FRUG (C++ FRench User Group), and the Microsoft MVP Summit.",
+      "date1": "Oct 2019 – Present",
+      "date2": "2 mos",
+      "roles": [
+        {
+          "title": "Principal Software Engineer, Visual C++",
+          "date1": "Oct 2019 – Present",
+          "date2": "2 mos",
+          "location": "Washington, DC and Redmond, WA"
+        },
+        {
+          "title": "Principal Software Engineer, Windows Debuggers",
+          "date1": "Dec 2016 – Oct 2019",
+          "date2": "2 yrs 11 mos",
+          "location": "Washington, DC and Redmond, WA"
+        },
+        {
+          "title": "Senior Software Engineer, Visual C++",
+          "date1": "Aug 2012 – Dec 2016",
+          "date2": "4 yrs 5 mos",
+          "location": "Washington, DC and Redmond, WA"
+        },
+        {
+          "title": "Software Development Engineer II, Expression Blend",
+          "date1": "Sep 2010 – Aug 2012",
+          "date2": "2 yrs",
+          "location": "Redmond, WA"
+        }
+      ]
+    },
+    {
+      "title": "Title\nPrincipal Software Engineer, Visual C++",
+      "location": "Washington, DC and Redmond, WA",
+      "description": "I am a software engineer in the Visual C++ group, where I work on the development of C++ toolsets.\n\nI frequently speak at conferences on a wide variety of C++-related subjects. Recent events include CppCon, Meeting C++, Pacific++, C++Now, ACCU, the Italian C++ Community Conference, ADC++, Microsoft TechDays, C++ London, Madrid C/C++, MUC++ (C++ User Group Munich), FRUG (C++ FRench User Group), and the Microsoft MVP Summit.",
+      "date1": "Oct 2019 – Present",
+      "date2": "2 mos",
+      "roles": [
+        {
+          "title": "Principal Software Engineer, Visual C++",
+          "date1": "Oct 2019 – Present",
+          "date2": "2 mos",
+          "location": "Washington, DC and Redmond, WA"
+        }
+      ]
+    },
+    {
+      "title": "Title\nPrincipal Software Engineer, Windows Debuggers",
+      "location": "Washington, DC and Redmond, WA",
+      "description": "I was a developer on Microsoft's Time Travel Debugging (TTD) reverse debugging toolkit. I designed the concurrent algorithms for efficiently replaying TTD trace files; these algorithms yielded 300x+ performance improvements over the prior implementation, and allowed us to scale to support trace files 100x+ larger.",
+      "date1": "Dec 2016 – Oct 2019",
+      "date2": "2 yrs 11 mos",
+      "roles": [
+        {
+          "title": "Principal Software Engineer, Windows Debuggers",
+          "date1": "Dec 2016 – Oct 2019",
+          "date2": "2 yrs 11 mos",
+          "location": "Washington, DC and Redmond, WA"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSenior Software Engineer, Visual C++",
+      "location": "Washington, DC and Redmond, WA",
+      "description": "I was responsible for the Microsoft C Runtime (CRT) and C Standard Library implementation. I worked on modernizing large legacy C and C++ codebases; developed guidelines for building maintainable, ABI-stable APIs using C++; and contributed to the design and implementation of numerous modern C++ libraries.",
+      "date1": "Aug 2012 – Dec 2016",
+      "date2": "4 yrs 5 mos",
+      "roles": [
+        {
+          "title": "Senior Software Engineer, Visual C++",
+          "date1": "Aug 2012 – Dec 2016",
+          "date2": "4 yrs 5 mos",
+          "location": "Washington, DC and Redmond, WA"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSoftware Development Engineer II, Expression Blend",
+      "location": "Redmond, WA",
+      "description": "I worked on the XAML designer tools for Universal Windows Platform (UWP) apps and the integration of the Blend designer into the Microsoft Visual Studio IDE.",
+      "date1": "Sep 2010 – Aug 2012",
+      "date2": "2 yrs",
+      "roles": [
+        {
+          "title": "Software Development Engineer II, Expression Blend",
+          "date1": "Sep 2010 – Aug 2012",
+          "date2": "2 yrs",
+          "location": "Redmond, WA"
+        }
+      ]
+    },
+    {
+      "title": "Lockheed Martin",
+      "location": "Dallas, TX",
+      "description": "I designed and implemented high-performance, real-time 3-D graphics software used for real-world terrain visualization and mission rehearsal. In addition to the work on the 3-D rendering parts of the system, I built several libraries for managing and querying databases of flight information.",
+      "date1": "Dec 2008 – Sep 2010",
+      "date2": "1 yr 10 mos",
+      "roles": [
+        {
+          "title": "Software Engineer, TOPSCENE Tactical Terrain Visualization System (TTVS)",
+          "date1": "Dec 2008 – Sep 2010",
+          "date2": "1 yr 10 mos",
+          "location": "Dallas, TX"
+        },
+        {
+          "title": "Associate Software Engineer, FCS Multifunction Utility/Logistics Equipment (MULE) Vehicle",
+          "date1": "Jun 2007 – Dec 2008",
+          "date2": "1 yr 7 mos",
+          "location": "Dallas, TX"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSoftware Engineer, TOPSCENE Tactical Terrain Visualization System (TTVS)",
+      "location": "Dallas, TX",
+      "description": "I designed and implemented high-performance, real-time 3-D graphics software used for real-world terrain visualization and mission rehearsal. In addition to the work on the 3-D rendering parts of the system, I built several libraries for managing and querying databases of flight information.",
+      "date1": "Dec 2008 – Sep 2010",
+      "date2": "1 yr 10 mos",
+      "roles": [
+        {
+          "title": "Software Engineer, TOPSCENE Tactical Terrain Visualization System (TTVS)",
+          "date1": "Dec 2008 – Sep 2010",
+          "date2": "1 yr 10 mos",
+          "location": "Dallas, TX"
+        }
+      ]
+    },
+    {
+      "title": "Title\nAssociate Software Engineer, FCS Multifunction Utility/Logistics Equipment (MULE) Vehicle",
+      "location": "Dallas, TX",
+      "description": "I built real-time, embedded software for communications and user control of the vehicle, and supported field testing of the first vehicle prototype.",
+      "date1": "Jun 2007 – Dec 2008",
+      "date2": "1 yr 7 mos",
+      "roles": [
+        {
+          "title": "Associate Software Engineer, FCS Multifunction Utility/Logistics Equipment (MULE) Vehicle",
+          "date1": "Jun 2007 – Dec 2008",
+          "date2": "1 yr 7 mos",
+          "location": "Dallas, TX"
+        }
+      ]
+    }
+  ],
+  "educations": [
+    {
+      "title": "The University of Texas at Arlington",
+      "degree": "Master of Science",
+      "fieldofstudy": "Computer Science / Artificial Intelligence",
+      "date1": "2008",
+      "date2": "2009"
+    },
+    {
+      "title": "The Catholic University of America",
+      "degree": "Bachelor of Arts",
+      "fieldofstudy": "Philosophy",
+      "date1": "2003",
+      "date2": "2007"
+    }
+  ],
+  "skills": [
+    {
+      "title": "C++",
+      "count": "39"
+    },
+    {
+      "title": "Visual Studio",
+      "count": "33"
+    },
+    {
+      "title": "Software Development",
+      "count": "31"
+    },
+    {
+      "title": "Software Engineering",
+      "count": "22"
+    },
+    {
+      "title": "Software Design",
+      "count": "12"
+    },
+    {
+      "title": "Object Oriented Design",
+      "count": "10"
+    },
+    {
+      "title": "OOP",
+      "count": "6"
+    },
+    {
+      "title": "Multithreading",
+      "count": "5"
+    },
+    {
+      "title": "C",
+      "count": "20"
+    },
+    {
+      "title": "Visual C++",
+      "count": "14"
+    },
+    {
+      "title": "C#",
+      "count": "10"
+    },
+    {
+      "title": ".NET",
+      "count": "7"
+    },
+    {
+      "title": "Databases",
+      "count": "2"
+    },
+    {
+      "title": "STL",
+      "count": "3"
+    },
+    {
+      "title": "Boost",
+      "count": "3"
+    },
+    {
+      "title": "Generic Programming",
+      "count": "3"
+    },
+    {
+      "title": "Templates",
+      "count": "2"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "2",
+      "items": [
+        "C",
+        "C++"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/tiwariakhil/",
+      "text": "Software Engineer at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/arthur-odwyer/",
+      "text": "Modern C++ guru"
+    },
+    {
+      "user": "https://www.linkedin.com/in/susheel-bhalabhadra-76128519/",
+      "text": "Senior Staff Engineer at MediaTek"
+    },
+    {
+      "user": "https://www.linkedin.com/in/izzy-muerte/",
+      "text": "C++ Bruja"
+    },
+    {
+      "user": "https://www.linkedin.com/in/joekachmar/",
+      "text": "Software Engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/raman-bhatia-7415a245/",
+      "text": "Senior Software Development Engineer, Amazon"
+    },
+    {
+      "user": "https://www.linkedin.com/in/bruce-dawson-75019a165/",
+      "text": "Software Engineer at Output Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/jonathan-butturini-5a2555b0/",
+      "text": "Software Engineer at Microsoft"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ajinkya-potdar/",
+      "text": "Senior Software Engineer at Microsoft"
+    },
+    {
+      "user": "https://www.linkedin.com/in/morganbeller/",
+      "text": "Co-creator of Libra ‬‪≋ & Head of Strategy at Calibra (Facebook)"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "James McNellis",
+    "headline": "Principal Software Engineer at Microsoft",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQEpNmUSoLP-qg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=hvDhivc_2YnN09Icf_iUAwi4GrBffVETX78qcrkSvII",
+    "location": "Washington, District Of Columbia",
+    "connections": "375",
+    "summary": "C++ maven. Systems programmer. Scotch connoisseur. Classical music enthusiast. Photographer. Principal engineer at Microsoft working on Time Travel Debugging."
+  }
+}

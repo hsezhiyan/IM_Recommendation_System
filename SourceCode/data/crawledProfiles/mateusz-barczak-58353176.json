@@ -1,0 +1,205 @@
+{
+  "profileAlternative": {
+    "name": "Mateusz Barczak",
+    "headline": "Front-end Lead",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQFw5Ebw5mH73Q/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=7-QHhDxRut_vmOJrBcuJz234NwndWRDG1HvpCy1QdTw",
+    "location": "Wroclaw, Lower Silesian District, Poland",
+    "connections": "157"
+  },
+  "aboutAlternative": {},
+  "positions": [
+    {
+      "title": "Node.js and JavaScript Frontend Developer",
+      "companyName": "THAUMATEC Sp. z o. o.",
+      "date1": "Jul 2015 – Present",
+      "date2": "4 yrs 5 mos"
+    },
+    {
+      "title": "Node.js, React.js and JavaScript Developer",
+      "companyName": "ALTIMI",
+      "date1": "Apr 2015 – Jun 2015",
+      "date2": "3 mos"
+    },
+    {
+      "title": "Ruby on Rails and Javascript Developer",
+      "companyName": "netguru",
+      "description": "Build applications using Ruby on Rails.\nBuilding front-end applications with Backbone.js and Marionette.js.",
+      "date1": "Jan 2015 – Mar 2015",
+      "date2": "3 mos"
+    },
+    {
+      "title": "Ruby on Rails and JavaScript Developer",
+      "companyName": "Naturaily",
+      "description": "Build applications using Ruby on Rails.\nBuilding RESTful APIs with Ruby on Rails.\nBuilding RESTful APIs with Node.js and Express.js\nBuilding front-end applications with Backbone.js, Marionette.js and React.js",
+      "date1": "Feb 2013 – Dec 2014",
+      "date2": "1 yr 11 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Politechnika Wrocławska",
+      "degree": "Engineer's degree",
+      "fieldofstudy": "Elektronika i Telekomunikacja (Electronics and Telecommunications)",
+      "date1": "2006",
+      "date2": "2013"
+    }
+  ],
+  "skills": [
+    {
+      "title": "JavaScript",
+      "count": "8"
+    },
+    {
+      "title": "React.js",
+      "count": "3"
+    },
+    {
+      "title": "Node.js",
+      "count": "5"
+    },
+    {
+      "title": "Web Development",
+      "count": "7"
+    },
+    {
+      "title": "OOP"
+    },
+    {
+      "title": "AngularJS"
+    },
+    {
+      "title": "Backbone.js",
+      "count": "5"
+    },
+    {
+      "title": "jQuery",
+      "count": "4"
+    },
+    {
+      "title": "Ruby",
+      "count": "7"
+    },
+    {
+      "title": "Git",
+      "count": "8"
+    },
+    {
+      "title": "Ruby on Rails",
+      "count": "7"
+    },
+    {
+      "title": "PostgreSQL",
+      "count": "5"
+    },
+    {
+      "title": "MongoDB",
+      "count": "4"
+    },
+    {
+      "title": "Linux",
+      "count": "3"
+    },
+    {
+      "title": "redux"
+    },
+    {
+      "title": "Express.js",
+      "count": "3"
+    },
+    {
+      "title": "Marionette.js",
+      "count": "3"
+    },
+    {
+      "title": "Underscore.js",
+      "count": "4"
+    },
+    {
+      "title": "Sketch App"
+    },
+    {
+      "title": "TypeScript"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "2",
+    "receivedCount": "0",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/dariuszmusielak/",
+        "text": "Helpful, friendly definitely a team player. Versatile in modern web best practices. Listens to others and there opinions capable of finding a common ground. Great mentoring and leadership skills. Writes good, clean code. Never forgets about scaling and efficiency. capable of tackling any job at hand."
+      },
+      {
+        "user": "https://www.linkedin.com/in/jan-wieczorkowski/",
+        "text": "Pisze 'dobry' kod. testuje summienie, swietna wspolpraca."
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "3",
+      "items": [
+        "angielski",
+        "niemiecki",
+        "polski"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "How Spree handles overriding on the frontend and the backend"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/pawelkucia/",
+      "text": "Senior Software Developer (Symfony, Node.js, Vue.js)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/bartosz-g%C3%B3rski-11190b168/",
+      "text": "Software Developer at THAUMATEC Sp. z o. o."
+    },
+    {
+      "user": "https://www.linkedin.com/in/tomasz-iskrzycki-aa112010a/",
+      "text": "NodeJS developer at Viessmann Research & Development Center"
+    },
+    {
+      "user": "https://www.linkedin.com/in/dariusz-kowalczyk-1aa51915b/",
+      "text": "Software Developer at THAUMATEC Sp. z o. o."
+    },
+    {
+      "user": "https://www.linkedin.com/in/edwin-barczy%C5%84ski-162880b0/",
+      "text": "Embedded SW/HW Engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/rafa%C5%82-chabowski-2a3a34/",
+      "text": "C/C++, Rust, 8-bit"
+    },
+    {
+      "user": "https://www.linkedin.com/in/piotrjelonkiewicz/",
+      "text": "Software Developer/Project Leader"
+    },
+    {
+      "user": "https://www.linkedin.com/in/eliza-bulda%C5%84czyk-788363182/",
+      "text": "Purchasig Assistant w THAUMATEC Sp. z o. o."
+    },
+    {
+      "user": "https://www.linkedin.com/in/piotr-lipie%C5%84-087325181/",
+      "text": "Junior software engineer w THAUMATEC Sp. z o.o."
+    },
+    {
+      "user": "https://www.linkedin.com/in/dominikdalek/",
+      "text": "Renaissance Man in the Digital Age"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Mateusz Barczak",
+    "headline": "Front-end Lead",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQFw5Ebw5mH73Q/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=7-QHhDxRut_vmOJrBcuJz234NwndWRDG1HvpCy1QdTw",
+    "location": "Wroclaw, Lower Silesian District, Poland",
+    "connections": "157"
+  }
+}

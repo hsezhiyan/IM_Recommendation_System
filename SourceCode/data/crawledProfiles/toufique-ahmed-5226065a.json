@@ -1,0 +1,179 @@
+{
+  "profileAlternative": {
+    "name": "Toufique Ahmed",
+    "headline": "Dean’s Distinguished Graduate Fellow, UC Davis",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQHXQb1KX2paWg/profile-displayphoto-shrink_200_200/0?e=1577318400&v=beta&t=7UWm7T4eKCuD5Yfz85JS6dmTDKppYw-XJutP8_fYPrQ",
+    "location": "Bangladesh",
+    "connections": "186"
+  },
+  "aboutAlternative": {},
+  "positions": [
+    {
+      "title": "Dean’s Distinguised Graduate Fellow",
+      "companyName": "University of California, Davis",
+      "location": "Davis, California",
+      "date1": "Sep 2018 – Present",
+      "date2": "1 yr 2 mos"
+    },
+    {
+      "title": "Bangladesh University of Engineering and Technology",
+      "location": "Dhaka, Bangladesh",
+      "date1": "Dec 2017 – Present",
+      "date2": "1 yr 11 mos",
+      "roles": [
+        {
+          "title": "Assistant Professor",
+          "date1": "Dec 2017 – Present",
+          "date2": "1 yr 11 mos",
+          "location": "Dhaka, Bangladesh"
+        },
+        {
+          "title": "Lecturer",
+          "date1": "Aug 2014 – Dec 2017",
+          "date2": "3 yrs 5 mos",
+          "location": "Dhaka, Bangladesh"
+        }
+      ]
+    },
+    {
+      "title": "Title\nAssistant Professor",
+      "location": "Dhaka, Bangladesh",
+      "date1": "Dec 2017 – Present",
+      "date2": "1 yr 11 mos",
+      "roles": [
+        {
+          "title": "Assistant Professor",
+          "date1": "Dec 2017 – Present",
+          "date2": "1 yr 11 mos",
+          "location": "Dhaka, Bangladesh"
+        }
+      ]
+    },
+    {
+      "title": "Title\nLecturer",
+      "location": "Dhaka, Bangladesh",
+      "date1": "Aug 2014 – Dec 2017",
+      "date2": "3 yrs 5 mos",
+      "roles": [
+        {
+          "title": "Lecturer",
+          "date1": "Aug 2014 – Dec 2017",
+          "date2": "3 yrs 5 mos",
+          "location": "Dhaka, Bangladesh"
+        }
+      ]
+    }
+  ],
+  "educations": [
+    {
+      "title": "Bangladesh University of Engineering and Technology",
+      "degree": "Master of Science - MS",
+      "fieldofstudy": "CSE",
+      "date1": "2014",
+      "date2": "2016"
+    },
+    {
+      "title": "Bangladesh University of Engineering and Technology",
+      "degree": "Bachelor of Science - BS",
+      "fieldofstudy": "CSE",
+      "date1": "2009",
+      "date2": "2014"
+    },
+    {
+      "title": "Notre Dame College",
+      "degree": "Higher Secondary",
+      "fieldofstudy": "Science",
+      "date1": "2006",
+      "date2": "2008"
+    }
+  ],
+  "skills": [
+    {
+      "title": "C++",
+      "count": "1"
+    },
+    {
+      "title": "Research"
+    },
+    {
+      "title": "C"
+    },
+    {
+      "title": "Machine Learning"
+    },
+    {
+      "title": "Software Engineering"
+    },
+    {
+      "title": "Matlab"
+    },
+    {
+      "title": "Java"
+    },
+    {
+      "title": "Teaching"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "1",
+    "receivedCount": "0",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/man-04b61a5b/",
+        "text": "I enjoyed a lot working with Mr. Ali Nayeem. I know him for six years, and he is a fantastic person. As a colleague, I would say he is very much self-motivated, dedicated, and responsible. He has been an excellent instructor. He has taught undergraduate courses since he joined the Department of CSE, BUET."
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/md-mahmud-muntakim-khan-2ab83362/",
+      "text": "Chief Engineer at Samsung R&D Institute Bangladesh"
+    },
+    {
+      "user": "https://www.linkedin.com/in/zuberul/",
+      "text": "CTO at Samsung R&D Institute Bangladesh"
+    },
+    {
+      "user": "https://www.linkedin.com/in/motasima-afrose-mine-4b640a132/",
+      "text": "Graduate Trainee at Robi Axiata Limited"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shadhin-int/",
+      "text": "Software Engineer (ML) at LEADS Corporation Limited | Researcher | Developer | Chatbot Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/md-anwar-parvez-66a75117/",
+      "text": "Assistant Manager at BTCL"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ahm-modasser-billah-6b277aa9/",
+      "text": "Lead Software Engineer at BriteCore"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mohammad-rakibul-hasan-346b7284/",
+      "text": "Assistant General Manager (Maintenance & Utility) at APS Apparels (Dyeing Unit) Ltd"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kawserhabib97/",
+      "text": "Software Engineer | Cyber Security Practitioner"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jmrashed/",
+      "text": "Senior Web Developer at Boishakhi Media Limited"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ahasan-ahamed-83001294/",
+      "text": "Research Assistant at University of California, Davis"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Toufique Ahmed",
+    "headline": "Dean’s Distinguished Graduate Fellow, UC Davis",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQHXQb1KX2paWg/profile-displayphoto-shrink_200_200/0?e=1577318400&v=beta&t=7UWm7T4eKCuD5Yfz85JS6dmTDKppYw-XJutP8_fYPrQ",
+    "location": "Bangladesh",
+    "connections": "186"
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "profileAlternative": {
+    "name": "Joe Kutner",
+    "headline": "Java Language Owner @ Heroku",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQE7IBrrUMZRbQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=x2Hp4q7J1hhr3WVOcEzGm6yZAC3kRnzFiJAW4wpONmY",
+    "location": "United States",
+    "connections": "347",
+    "summary": "I curate the Java experience on Heroku. Previously, I was a programmer and founder at Logichaus, a software consultancy specializing in Java, Ruby, and iOS development. I've written three books for the Pragmatic Bookshelf, including Deploying With JRuby and The Healthy Programmer."
+  },
+  "aboutAlternative": {
+    "text": "I curate the Java experience on Heroku. Previously, I was a programmer and founder at Logichaus, a software consultancy specializing in Java, Ruby, and iOS development. I've written three books for the Pragmatic Bookshelf, including Deploying With JRuby and The Healthy Programmer."
+  },
+  "positions": [
+    {
+      "title": "Java Languages Owner @ Heroku",
+      "companyName": "Salesforce",
+      "date1": "Jul 2014 – Present",
+      "date2": "5 yrs 5 mos"
+    },
+    {
+      "title": "Founder",
+      "companyName": "Logichaus, LLC",
+      "description": "Consulting for Ruby, JRuby, Rails, iOS and Java development.",
+      "date1": "Aug 2011 – 2014",
+      "date2": "3 yrs"
+    },
+    {
+      "title": "Software Architect",
+      "companyName": "Emerson Network Power",
+      "date1": "2008 – 2011",
+      "date2": "3 yrs"
+    },
+    {
+      "title": "Software Developer",
+      "companyName": "IBM",
+      "date1": "Apr 2006 – Jul 2008",
+      "date2": "2 yrs 4 mos"
+    },
+    {
+      "title": "Java Developer",
+      "companyName": "Radiance Technologies",
+      "date1": "2004 – 2006",
+      "date2": "2 yrs"
+    },
+    {
+      "title": "Java Developer",
+      "companyName": "Concurrent Technologies Corporation",
+      "date1": "2003 – 2004",
+      "date2": "1 yr"
+    }
+  ],
+  "educations": [
+    {
+      "title": "University of Southern Mississippi",
+      "degree": "Masters of Science",
+      "fieldofstudy": "Computer Science",
+      "date1": "2003",
+      "date2": "2006"
+    },
+    {
+      "title": "Loyola University New Orleans",
+      "degree": "Bachelor's degree",
+      "fieldofstudy": "Computer Science",
+      "date1": "1999",
+      "date2": "2003"
+    },
+    {
+      "title": "University of Alabama in Huntsville",
+      "degree": "PhD",
+      "fieldofstudy": "Computer Science"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Ruby on Rails",
+      "count": "27"
+    },
+    {
+      "title": "Ruby",
+      "count": "22"
+    },
+    {
+      "title": "Java",
+      "count": "18"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "2",
+    "receivedCount": "0",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/joshrufer/",
+        "text": "Josh is a highly-technical software programmer. His skills are diverse, and this is demonstrated by his ability to build applications of all kinds. He is both proficient and passionate about the craft of software."
+      },
+      {
+        "user": "https://www.linkedin.com/in/venkatasivaramireddy-kurri-82432924/",
+        "text": "Venkata is an excellent leader and implementer. He is able to identify problems and set people in the right direction to solve those problems. His most valuable characteristic is the ability to make steady and effective progress toward a goal."
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "7",
+      "items": [
+        "Deploying with JRuby 9k",
+        "Remote Pairing",
+        "Deploying with JRuby in the Cloud",
+        "The Healthy Programmer",
+        "Deploying with JRuby",
+        "AOP Maintains an Independent Coordinate System",
+        "Ruleby: The Rules Engine for Ruby"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "System and method for monitoring and managing data center resources in real time"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/yan-liu-690b034/",
+      "text": "Director of Architecture, Center for Translational Data Science at University of Chicago"
+    },
+    {
+      "user": "https://www.linkedin.com/in/chapnelson/",
+      "text": "Software Development Engineer II at Amazon"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tatiana-nicks-656b1b29/",
+      "text": "Software Developer at ReadyTalk"
+    },
+    {
+      "user": "https://www.linkedin.com/in/komalahmad/",
+      "text": "Founder & CEO of Copia (YC W'16 - We're Hiring a COO) - Forbes 30 Under 30 - Toyota Mother of Invention. Keynote Speaker"
+    },
+    {
+      "user": "https://www.linkedin.com/in/richardschneeman/",
+      "text": "Ruby Task Force Member at Heroku"
+    },
+    {
+      "user": "https://www.linkedin.com/in/travis-l-624a5a5/",
+      "text": "Software Engineer at Heroku (Salesforce)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sarahekershaw/",
+      "text": "Legal Counsel at ReedGroup"
+    },
+    {
+      "user": "https://www.linkedin.com/in/chris-weaver/",
+      "text": "Lead Software Engineer at InVisionApp Inc"
+    },
+    {
+      "user": "https://www.linkedin.com/in/slhommedieu/",
+      "text": "Software Development Leader"
+    },
+    {
+      "user": "https://www.linkedin.com/in/josephpoch/",
+      "text": "at Salesforce.com"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Joe Kutner",
+    "headline": "Java Language Owner @ Heroku",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQE7IBrrUMZRbQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=x2Hp4q7J1hhr3WVOcEzGm6yZAC3kRnzFiJAW4wpONmY",
+    "location": "United States",
+    "connections": "347",
+    "summary": "I curate the Java experience on Heroku. Previously, I was a programmer and founder at Logichaus, a software consultancy specializing in Java, Ruby, and iOS development. I've written three books for the Pragmatic Bookshelf, including Deploying With JRuby and The Healthy Programmer."
+  }
+}

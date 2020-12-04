@@ -1,0 +1,290 @@
+{
+  "profileAlternative": {
+    "name": "Gerald Britton",
+    "headline": "SQL Server Specialist, Pythonista",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQFiXsoTHcnDcA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=mGv7loqWK6u4tC0rPIdByPvuGwRX95jT2roijswNgbU",
+    "location": "Toronto, Canada Area",
+    "connections": "224",
+    "summary": "I am an innovative, results-oriented business intelligence specialist focused on mining critical information from a company's operational and support databases and delivering timely results to the operation's internal customers.\n\nPROFESSIONAL SQL SERVER DEVELOPER: I dive into a company's data warehouse using state-of-the-art SQL Server queries then build efficient, comprehensive stored procedures to ensure correct, on-time results while minimizing server processing requirements. Skilled in SSIS and SSRS.\n\nEXPERIENCED .NET DEVELOPER: I use the .NET applications stack as the glue to bind SQL Server query results to MS-Office documents for delivery to the customer. I leverage ASP.NET to build robust applications to deliver superior customer management. High-quality software in C#, VB.NET and F# (coming!)\n\nOBJECT-ORIENTED FOCUS: Whatever I build, I build it to for robustness and extensibility, using best-practice object-oriented principles.\n\nSOFTWARE DEVELOPMENT LIFE CYCLE: I follow SDLC practices to enable consistent management of the software for each BI project.\n\nCONTACT ME: gerald.britton@gmail.com, 647-293-1453"
+  },
+  "aboutAlternative": {
+    "text": "I am an innovative, results-oriented business intelligence specialist focused on mining critical information from a company's operational and support databases and delivering timely results to the operation's internal customers.\n\nPROFESSIONAL SQL SERVER DEVELOPER: I dive into a company's data warehouse using state-of-the-art SQL Server queries then build efficient, comprehensive stored procedures to ensure correct, on-time results while minimizing server processing requirements. Skilled in SSIS and SSRS.\n\nEXPERIENCED .NET DEVELOPER: I use the .NET applications stack as the glue to bind SQL Server query results to MS-Office documents for delivery to the customer. I leverage ASP.NET to build robust applications to deliver superior customer management. High-quality software in C#, VB.NET and F# (coming!)\n\nOBJECT-ORIENTED FOCUS: Whatever I build, I build it to for robustness and extensibility, using best-practice object-oriented principles.\n\nSOFTWARE DEVELOPMENT LIFE CYCLE: I follow SDLC practices to enable consistent management of the software for each BI project.\n\nCONTACT ME: gerald.britton@gmail.com, 647-293-1453"
+  },
+  "positions": [
+    {
+      "title": "Author",
+      "companyName": "Pluralsight",
+      "description": "Author of Pluralsight course \"Design Patterns with Python\" at:\n\nhttps://www.pluralsight.com/courses/python-design-patterns",
+      "date1": "Oct 2016 – Present",
+      "date2": "3 yrs 2 mos"
+    },
+    {
+      "title": "TD",
+      "location": "Toronto, Canada Area",
+      "description": "SQL Server AG management; SQL Server design and consultation; .NET development; SSIS, SSRS",
+      "date1": "Aug 2016 – Present",
+      "date2": "3 yrs 4 mos",
+      "roles": [
+        {
+          "title": "Solutions Design IT Specialist,",
+          "date1": "Aug 2016 – Present",
+          "date2": "3 yrs 4 mos",
+          "location": "Toronto, Canada Area"
+        },
+        {
+          "title": "IT Specialist",
+          "date1": "Sep 2014 – Jul 2016",
+          "date2": "1 yr 11 mos",
+          "location": "Toronto, Ontario, Canada"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSolutions Design IT Specialist,",
+      "location": "Toronto, Canada Area",
+      "description": "SQL Server AG management; SQL Server design and consultation; .NET development; SSIS, SSRS",
+      "date1": "Aug 2016 – Present",
+      "date2": "3 yrs 4 mos",
+      "roles": [
+        {
+          "title": "Solutions Design IT Specialist,",
+          "date1": "Aug 2016 – Present",
+          "date2": "3 yrs 4 mos",
+          "location": "Toronto, Canada Area"
+        }
+      ]
+    },
+    {
+      "title": "Title\nIT Specialist",
+      "location": "Toronto, Ontario, Canada",
+      "description": "Database development, business intelligence dashboarding and reporting, SSIS, SSRS, SQL Server, MySql, C#, VB",
+      "date1": "Sep 2014 – Jul 2016",
+      "date2": "1 yr 11 mos",
+      "roles": [
+        {
+          "title": "IT Specialist",
+          "date1": "Sep 2014 – Jul 2016",
+          "date2": "1 yr 11 mos",
+          "location": "Toronto, Ontario, Canada"
+        }
+      ]
+    },
+    {
+      "title": "Director",
+      "companyName": "G.Britton Solutions, Inc.",
+      "description": "* Discover critical business information through data mapping and mining\n* Build databases as foundation for business intelligence reporting\n* Create efficient, flexible, parameter-driven SQL Stored Procedures\n* Deliver timely reporting using .NET, SSIS, SSRS, Excel\n* Build robust, extensible solutions\n* Follow SDLC best practices\n* Python developer and instructor\n…\nsee more",
+      "date1": "Oct 2013 – Present",
+      "date2": "6 yrs 2 mos"
+    },
+    {
+      "title": "Senior Developer",
+      "companyName": "Maritz Canada",
+      "location": "Toronto, Canada Area",
+      "description": "* Enabled more efficient customer service by extending mission-critical intranet applications using ASP.NET, C# and SQL Server\n* Delivered timely, program-performance reporting using SSRS",
+      "date1": "Mar 2014 – Sep 2014",
+      "date2": "7 mos"
+    },
+    {
+      "title": "Business System Analyst (Contract)",
+      "companyName": "TD",
+      "description": "* Analysed current state of IT Project Management reporting\n* Designed OLAP data warehouse for business intelligence reporting\n* Built SSIS ETL procedures using Kimball techniques\n* Implement automated and on-demand reporting using SSRS\n* Provide training to developers and users\n* Documented all work done for full-time team\n…\nsee more",
+      "date1": "Oct 2013 – Feb 2014",
+      "date2": "5 mos"
+    },
+    {
+      "title": "MTS Allstream",
+      "description": "* Reduced rebates on SLA accounts through development of more than 50 BI reports using SQL Server, VB.NET and MS Excel\n* Reduced report delivery time up to 20% by creating BI-specific .NET tools and Visual Studio add-ons\n* Improved collaboration and project tracking by lobbying for and Implementing source code revision control using Subversion\n* Shaved 5 days off month-end processing by automating manual tasks using PowerShell and SQL Server Agent\n* Cut up to 50% off run-time of existing SQL stored procedures\n…\nsee more",
+      "date1": "2011 – 2013",
+      "date2": "2 yrs",
+      "roles": [
+        {
+          "title": "Business Intelligence Analyst, MTS Allstream",
+          "date1": "2011 – 2013",
+          "date2": "2 yrs"
+        },
+        {
+          "title": "Performance Specialist",
+          "date1": "2009 – 2011",
+          "date2": "2 yrs"
+        }
+      ]
+    },
+    {
+      "title": "Title\nBusiness Intelligence Analyst, MTS Allstream",
+      "description": "* Reduced rebates on SLA accounts through development of more than 50 BI reports using SQL Server, VB.NET and MS Excel\n* Reduced report delivery time up to 20% by creating BI-specific .NET tools and Visual Studio add-ons\n* Improved collaboration and project tracking by lobbying for and Implementing source code revision control using Subversion\n* Shaved 5 days off month-end processing by automating manual tasks using PowerShell and SQL Server Agent\n* Cut up to 50% off run-time of existing SQL stored procedures\n…\nsee more",
+      "date1": "2011 – 2013",
+      "date2": "2 yrs",
+      "roles": [
+        {
+          "title": "Business Intelligence Analyst, MTS Allstream",
+          "date1": "2011 – 2013",
+          "date2": "2 yrs"
+        }
+      ]
+    },
+    {
+      "title": "Title\nPerformance Specialist",
+      "description": "* Enabled performance tracking by developing tools following Cornerstone On Demand methodology\n* Eliminated 2 hours per week off executive work time by delivering report-ready business intelligence data.",
+      "date1": "2009 – 2011",
+      "date2": "2 yrs",
+      "roles": [
+        {
+          "title": "Performance Specialist",
+          "date1": "2009 – 2011",
+          "date2": "2 yrs"
+        }
+      ]
+    },
+    {
+      "title": "Developer",
+      "companyName": "Computer Associates",
+      "date1": "1978 – 1988",
+      "date2": "10 yrs"
+    }
+  ],
+  "educations": [
+    {
+      "title": "University of Toronto",
+      "degree": "Bachelor of Science (B.Sc.)",
+      "fieldofstudy": "Computer Science",
+      "date1": "2008",
+      "date2": "2012"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Databases",
+      "count": "25"
+    },
+    {
+      "title": "Visual Studio",
+      "count": "14"
+    },
+    {
+      "title": "Microsoft SQL Server",
+      "count": "18"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "9",
+    "receivedCount": "4",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/rickfleischmann/",
+        "text": "Gerald is highly skilled in development of .NET and Sql server solutions. He would be a fine addition to any team."
+      },
+      {
+        "user": "https://www.linkedin.com/in/nelson-mak-a1927955/",
+        "text": "Gerald is always quick in problem solving and he always has a bright and surprising idea in doing it in a better way."
+      },
+      {
+        "user": "https://www.linkedin.com/in/david-sharman-2b648951/",
+        "text": "Gerald is a solid worker, and during the time I worked with him, he demonstrated solid knowledge of managing and generation of reporting data for the executives of the company. Good grasp of data organization and report generation skills. Would recommend Gerald for any job where data organization and reporting were involved."
+      },
+      {
+        "user": "https://www.linkedin.com/in/dancmarinescu/",
+        "text": "Gerald is a refined and very efficient developer. Having built a vast and valuable experience, he’s constantly updating and honing his skills to the latest technologies and methodologies. His solid track of proven accomplishments attests his ability to add value to any endeavor he undertakes"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/dila-anvarova-8a373818/",
+        "text": "Dila is an outstanding business leader, quick on the uptake, never hesitating to take on new roles and challenges.  Working with Dila was pleasure. She is a team member who encourages her fellow team mates to excel while challenging herself to continually grow and expand her own impressive skill set."
+      },
+      {
+        "user": "https://www.linkedin.com/in/jordan-cochrane-425b0312/",
+        "text": "I have the pleasure of working with Jordan on 2 different contracts. Jordan was both very responsive to my requirements and in fulfilling the requirements of the clients. He is extremely knowledgeable as an IT recruiter, understands current technology and current specialties, and is highly skilled at matching candidate to position."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "6",
+      "items": [
+        "Why is my CTE so slow?",
+        "How to see the schema of a result set before running a query",
+        "How to check if a date is a holiday in SQL server",
+        "Getting Started With Pyton",
+        "Adventures in SQL Server",
+        "Using APPLY to make your queries DRYer"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "Dutch",
+        "English"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Microsoft Most Valuable Professional (MVP)"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Toronto PASS"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/bob-sachsenidis-a428359/",
+      "text": "Sr. Project Manager, Strategic Planning & Portfolio Management Division at CIBC"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nutan-shah-562863118/",
+      "text": "Credit Card Specialist at TD Bank"
+    },
+    {
+      "user": "https://www.linkedin.com/in/isha-bhatia-csm-and-istqb-81493226/",
+      "text": "QA Automation Engineer at TD"
+    },
+    {
+      "user": "https://www.linkedin.com/in/lilypascar/",
+      "text": "Business & Technology Strategy, Architecture, and Transformation"
+    },
+    {
+      "user": "https://www.linkedin.com/in/darko-knezevic-02006941/",
+      "text": "Enterprise Architecture Specialist, I+IT Planning & Architecture at Metrolinx"
+    },
+    {
+      "user": "https://www.linkedin.com/in/oliverazatezalo/",
+      "text": "Chief Security Officer, Huawei Technologies Canada"
+    },
+    {
+      "user": "https://www.linkedin.com/in/raiedsiddiqui/",
+      "text": "User Experience Designer at eCompliance.com"
+    },
+    {
+      "user": "https://www.linkedin.com/in/aniveshika/",
+      "text": "A result-oriented Marketing Professional with 8+ years of experience in Service & Digital Marketing"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jayanttibhe/",
+      "text": "Qlikview | Qlik Sense | Business Intelligence | Alteryx | Data Architect"
+    },
+    {
+      "user": "https://www.linkedin.com/in/karan-bhalla-18108aa6/",
+      "text": "Credit card Specialist at TD"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Open source developer",
+      "experience": "GRAMPS Genealogical Research Software",
+      "date1": "2000 – Present",
+      "date2": "19 yrs"
+    }
+  ],
+  "profile": {
+    "name": "Gerald Britton",
+    "headline": "SQL Server Specialist, Pythonista",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQFiXsoTHcnDcA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=mGv7loqWK6u4tC0rPIdByPvuGwRX95jT2roijswNgbU",
+    "location": "Toronto, Canada Area",
+    "connections": "224",
+    "summary": "I am an innovative, results-oriented business intelligence specialist focused on mining critical information from a company's operational and support databases and delivering timely results to the operation's internal customers.\n\nPROFESSIONAL SQL SERVER DEVELOPER: I dive into a company's data warehouse using state-of-the-art SQL Server queries then build efficient, comprehensive stored procedures to ensure correct, on-time results while minimizing server processing requirements. Skilled in SSIS and SSRS.\n\nEXPERIENCED .NET DEVELOPER: I use the .NET applications stack as the glue to bind SQL Server query results to MS-Office documents for delivery to the customer. I leverage ASP.NET to build robust applications to deliver superior customer management. High-quality software in C#, VB.NET and F# (coming!)\n\nOBJECT-ORIENTED FOCUS: Whatever I build, I build it to for robustness and extensibility, using best-practice object-oriented principles.\n\nSOFTWARE DEVELOPMENT LIFE CYCLE: I follow SDLC practices to enable consistent management of the software for each BI project.\n\nCONTACT ME: gerald.britton@gmail.com, 647-293-1453"
+  }
+}

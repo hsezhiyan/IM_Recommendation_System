@@ -1,0 +1,255 @@
+{
+  "profileAlternative": {
+    "name": "Teppo Pera",
+    "headline": "Python Developer at Noble",
+    "location": "London, Greater London, United Kingdom",
+    "connections": "500+",
+    "summary": "I'm a software developer with various skills in my toolbox. My favorite language by far is Python, although I have wide experience in other languages too, such as C++ and JavaScript being the strongest ones. Still, I consider programming language to be just one tool to accomplish functional software. In fact, I believe that programming skill is not limited just to languages, but also how to use them and how to use the skills learned in other language and use those same skills in the other. That's why we have test-driven development, frameworks, design patterns and other concepts, that can be mixed together so that we can build a working software. I want to use those tools and concepts to build a software that matters to its users. Quality comes first."
+  },
+  "aboutAlternative": {
+    "text": "I'm a software developer with various skills in my toolbox. My favorite language by far is Python, although I have wide experience in other languages too, such as C++ and JavaScript being the strongest ones. Still, I consider programming language to be just one tool to accomplish functional software. In fact, I believe that programming skill is not limited just to languages, but also how to use them and how to use the skills learned in other language and use those same skills in the other. That's why we have test-driven development, frameworks, design patterns and other concepts, that can be mixed together so that we can build a working software. I want to use those tools and concepts to build a software that matters to its users. Quality comes first."
+  },
+  "positions": [
+    {
+      "title": "Python Developer",
+      "companyName": "Noble",
+      "location": "London, United Kingdom",
+      "description": "(Company has been known as SecGate and Berry Technologies through various stages of its life cycle)",
+      "date1": "Oct 2018 – Present",
+      "date2": "1 yr 2 mos"
+    },
+    {
+      "title": "CEO",
+      "companyName": "Fin-Mace Limited",
+      "date1": "Jul 2016 – Present",
+      "date2": "3 yrs 5 mos"
+    },
+    {
+      "title": "Python developer as contractor",
+      "companyName": "Secret Escapes",
+      "location": "London, United Kingdom",
+      "description": "Data engineering work, building pipeline drawing files from different locations, using ELT (not ETL) technique to store the data eventually into a data warehouse. Technologies used to achieve these goals were AWS, Airflow, Snowflake, Docker, and Python 3.",
+      "date1": "Jul 2018 – Sep 2018",
+      "date2": "3 mos"
+    },
+    {
+      "title": "Python Developer as contractor",
+      "companyName": "Bank of America Merrill Lynch",
+      "location": "London, United Kingdom",
+      "description": "Participated development of MiFID2, which is a transaction reporting and post-trade transparency platform. It was developed using high availability microservices with Python as the main language. It included receiving trades from multiple sources, processing trades and deciding which trades were going to be reported. All this was and had to be done in few seconds. Testing was done using lettuce BDD framework and python unit tests. Additionally, developed web applications using Scala, JavaScript, AngularJS and Webpack 2.\n…\nsee more",
+      "date1": "Sep 2016 – Feb 2018",
+      "date2": "1 yr 6 mos"
+    },
+    {
+      "title": "SDE II",
+      "companyName": "Microsoft",
+      "location": "Tampere",
+      "description": "Participating in development of web applications using web technologies for frontend such as JavaScript, AngularJS, JQuery and for backend such as Python 3, Django and Django REST API, which work on Microsoft SQL. Main concept for UI development was MVVM pattern, which enabled rapid prototyping and development of UI.\n\nTesting is done using Protractor (All major browsers and PhantomJS) and Jasmine for JavaScript and for Python its own unit test framework and Fresher.\nThe development is done to multiple separated systems where communication happens over REST APIs.\n\nAlong with development work, also participated on supporting new Scrum Master to get into the role, lead development of major features and documented functionality of huge system. Additionally developed multiple working prototypes to support decision making which eventually were productized into system.\n\n\n…\nsee more",
+      "date1": "Apr 2014 – Aug 2016",
+      "date2": "2 yrs 5 mos"
+    },
+    {
+      "title": "Nokia",
+      "location": "Tampere",
+      "description": "This role continued the work in same environment as described in previous role, with following additions.\n\nDuring this period, mainly worked as full-time Scrum Master, or to be more specific, Kanban Master in a major web application project. The work involved of defining the workflow for single team, motivating people to follow that workflow, measuring metrics (Trac) and improving workflow based on the metric. Major highlights for process renewal were: Changes to Git branching practices, review practices, developer responsibilities, individual coaching, etc. General goal was to take development closer to Behavior Driven Development (BDD).\n\nCompleted Sertified Scrum Master and Agile Coaching and Leadership courses.\n\nDesigned and implemented a major UI feature with testability as prioirity one feature. As a result, that feature turned out to close to bug free solution thanks to design that enabled to cover most of the code with tests. Used techonologies were ExtJS, CoffeeScript, Jasmine and CucumberJS.\n\nInfluenced highly on techonology choices, architecture and design of new Python based system service where high performance was the most important factor. Techonologies used were Python 2, Twisted, Celery, Memcached, Django and MySQL\n…\nsee more",
+      "date1": "Jan 2012 – Apr 2014",
+      "date2": "2 yrs 4 mos",
+      "roles": [
+        {
+          "title": "System Specialist",
+          "date1": "Jan 2012 – Apr 2014",
+          "date2": "2 yrs 4 mos",
+          "location": "Tampere"
+        },
+        {
+          "title": "Senior Design Engineer",
+          "date1": "Sep 2011 – Jun 2012",
+          "date2": "10 mos",
+          "location": "Tampere"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSystem Specialist",
+      "location": "Tampere",
+      "description": "This role continued the work in same environment as described in previous role, with following additions.\n\nDuring this period, mainly worked as full-time Scrum Master, or to be more specific, Kanban Master in a major web application project. The work involved of defining the workflow for single team, motivating people to follow that workflow, measuring metrics (Trac) and improving workflow based on the metric. Major highlights for process renewal were: Changes to Git branching practices, review practices, developer responsibilities, individual coaching, etc. General goal was to take development closer to Behavior Driven Development (BDD).\n\nCompleted Sertified Scrum Master and Agile Coaching and Leadership courses.\n\nDesigned and implemented a major UI feature with testability as prioirity one feature. As a result, that feature turned out to close to bug free solution thanks to design that enabled to cover most of the code with tests. Used techonologies were ExtJS, CoffeeScript, Jasmine and CucumberJS.\n\nInfluenced highly on techonology choices, architecture and design of new Python based system service where high performance was the most important factor. Techonologies used were Python 2, Twisted, Celery, Memcached, Django and MySQL\n…\nsee more",
+      "date1": "Jan 2012 – Apr 2014",
+      "date2": "2 yrs 4 mos",
+      "roles": [
+        {
+          "title": "System Specialist",
+          "date1": "Jan 2012 – Apr 2014",
+          "date2": "2 yrs 4 mos",
+          "location": "Tampere"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSenior Design Engineer",
+      "location": "Tampere",
+      "description": "Full-time Python developer for major web application project. The technologies used in the project were Python 2, Django, Rest API, MySQL and Linux.\n\nThe web application consisted frontend written in JavaScript, where parts of the UI were built with ExtJS. The UI communicated with multiple backends through REST API where each backend handled own database. All backends were written in Python, using Django to manipulate MySQL database.\n\nWork consisted of reworking the design to be more testable and maintainable, developing new features, fixing bugs, etc.\n\nMy work was to develop many testing and maintanance practices and also to introduce Behavior Driven Development to teams.\n\n…\nsee more",
+      "date1": "Sep 2011 – Jun 2012",
+      "date2": "10 mos",
+      "roles": [
+        {
+          "title": "Senior Design Engineer",
+          "date1": "Sep 2011 – Jun 2012",
+          "date2": "10 mos",
+          "location": "Tampere"
+        }
+      ]
+    },
+    {
+      "title": "Nokia",
+      "description": "Development of QT based gesture framework for Symbian devices, where used languages were QT C++ and QML. Studied testing practices and developed a testing framework for testing product code. Developed and prototyped lot of usability related features to enhance user experience for UI.\n\nDevelopment of touch based keyboards for Symbian Devices. The development was done on QT C++ and QML. Introduced testing practices to the team. During this period, worked as techonology specialist for QT C++ and testing, as well as agile coach for 5 months for 2 teams in Beijing, China. Participated there also for UI usability development and developed multiple Python based code generation tools to speed up development and tests.\n…\nsee more",
+      "date1": "2009 – 2011",
+      "date2": "2 yrs",
+      "roles": [
+        {
+          "title": "Senior Design Engineer (JG: 9)",
+          "date1": "2009 – 2011",
+          "date2": "2 yrs"
+        },
+        {
+          "title": "Lead Design Engineer (JG: 9)",
+          "date1": "2008 – 2009",
+          "date2": "1 yr"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSenior Design Engineer (JG: 9)",
+      "description": "Development of QT based gesture framework for Symbian devices, where used languages were QT C++ and QML. Studied testing practices and developed a testing framework for testing product code. Developed and prototyped lot of usability related features to enhance user experience for UI.\n\nDevelopment of touch based keyboards for Symbian Devices. The development was done on QT C++ and QML. Introduced testing practices to the team. During this period, worked as techonology specialist for QT C++ and testing, as well as agile coach for 5 months for 2 teams in Beijing, China. Participated there also for UI usability development and developed multiple Python based code generation tools to speed up development and tests.\n…\nsee more",
+      "date1": "2009 – 2011",
+      "date2": "2 yrs",
+      "roles": [
+        {
+          "title": "Senior Design Engineer (JG: 9)",
+          "date1": "2009 – 2011",
+          "date2": "2 yrs"
+        }
+      ]
+    },
+    {
+      "title": "Title\nLead Design Engineer (JG: 9)",
+      "description": "UI Research Projects",
+      "date1": "2008 – 2009",
+      "date2": "1 yr",
+      "roles": [
+        {
+          "title": "Lead Design Engineer (JG: 9)",
+          "date1": "2008 – 2009",
+          "date2": "1 yr"
+        }
+      ]
+    },
+    {
+      "title": "Sw Designer",
+      "companyName": "ResComi Oy",
+      "description": "Embedded software development",
+      "date1": "2000 – 2002",
+      "date2": "2 yrs"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Raahen tietokonealan oppilaitos",
+      "degree": "Bachelor's degree",
+      "date1": "1997",
+      "date2": "2002"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Agile Methodologies",
+      "count": "14"
+    },
+    {
+      "title": "Scrum",
+      "count": "20"
+    },
+    {
+      "title": "Coaching",
+      "count": "2"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "3",
+      "items": [
+        "English",
+        "German",
+        "Swedish"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "Agile Coaching and Leadership",
+        "Certified ScrumMaster"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Python Traits"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/laura-turnbull-479133136/",
+      "text": "Python developer at Nomura"
+    },
+    {
+      "user": "https://www.linkedin.com/in/charles-allatson-107538137/",
+      "text": "Python Developer at Novastone"
+    },
+    {
+      "user": "https://www.linkedin.com/in/namakarskiy/",
+      "text": "Python Developer – IG"
+    },
+    {
+      "user": "https://www.linkedin.com/in/emilyworrall/",
+      "text": "Software Developer at Farmdrop"
+    },
+    {
+      "user": "https://www.linkedin.com/in/alisha-malhotra/",
+      "text": "Python Software Consultant at X4 Group Ltd"
+    },
+    {
+      "user": "https://www.linkedin.com/in/aaron-smith-43bab3166/",
+      "text": "Python Developer at White Champel"
+    },
+    {
+      "user": "https://www.linkedin.com/in/maxisme/",
+      "text": "Python Developer at Octopus Labs. Passionate about product building."
+    },
+    {
+      "user": "https://www.linkedin.com/in/francesco-morandini-252a86114/",
+      "text": "Python Developer at Freelancer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/andreycizov/",
+      "text": "Python Developer at The Fusion Labs"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tharuka-devendra/",
+      "text": "Python/Django Developer at Elfin Market"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Teppo Pera",
+    "headline": "Python Developer at Noble",
+    "location": "London, Greater London, United Kingdom",
+    "connections": "500+",
+    "summary": "I'm a software developer with various skills in my toolbox. My favorite language by far is Python, although I have wide experience in other languages too, such as C++ and JavaScript being the strongest ones. Still, I consider programming language to be just one tool to accomplish functional software. In fact, I believe that programming skill is not limited just to languages, but also how to use them and how to use the skills learned in other language and use those same skills in the other. That's why we have test-driven development, frameworks, design patterns and other concepts, that can be mixed together so that we can build a working software. I want to use those tools and concepts to build a software that matters to its users. Quality comes first."
+  }
+}

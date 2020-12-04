@@ -1,0 +1,318 @@
+{
+  "profileAlternative": {
+    "name": "Elad Shechter",
+    "headline": "CSS/HTML Architect Expert - UI/UX Front-End Developer",
+    "imageurl": "https://media.licdn.com/dms/image/C5103AQGNrWwzbw6A1g/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=XUntRjy1cgn9OyCgMckygKzLFP9mx_VGP585wSQbybM",
+    "location": "Israel",
+    "connections": "500+",
+    "summary": "- CSS and HTML Expert\n- Leading CSS technology @investing.com\n- Speaker & Publisher on CSS Stuff\n- Founder of CSS Masters Israel (Facebook Group)"
+  },
+  "aboutAlternative": {
+    "text": "- CSS and HTML Expert\n- Leading CSS technology @investing.com\n- Speaker & Publisher on CSS Stuff\n- Founder of CSS Masters Israel (Facebook Group)"
+  },
+  "positions": [
+    {
+      "title": "Tech Lead CSS/HTML",
+      "companyName": "Investing.com",
+      "location": "Tel Aviv Area, Israel",
+      "description": "CSS and HTML Expert ( UI Developer )\n- Leader of CSS technology @investing.com\n- Building CSS/HTML architecture\n- Promoting new projects\n- Speaker\n- Code review for others CSS developers\n- Working with SASS\n- Full Responsive Design\n- Full Browser supports, including mobile devices (android & ios)\n- Accessibility Support\n\nProject Lead\n- allrates.com\n…\nsee more",
+      "date1": "Mar 2018 – Present",
+      "date2": "1 yr 9 mos"
+    },
+    {
+      "title": "Senior HTML/CSS Interface Developer ( UI Developer )",
+      "companyName": "Walla!",
+      "location": "Tel Aviv Area, Israel",
+      "description": "HTML and CSS development, starting from scratch to full production (according to PSD's)\n- HTML5 semantics & CSS3 features,\n- Mobile Websites (Liquid Design)\n- Responsive Design\n- avoiding using images(by using CSS3 effects).\n- and using only Sprite Images on websites.\n- using LESS, a CSS library.\n- Cross Browsing support, +using Modernizr library.\n- CSS Re-usability\n- Multiple themes via CSS only.\n- cut Photoshop PSD's images, and make sprite images when necessary.\n- JS/JQuery visual features (like galleries, popups and etc...).\n…\nsee more",
+      "date1": "May 2012 – Feb 2018",
+      "date2": "5 yrs 10 mos"
+    },
+    {
+      "title": "Client Web Developer",
+      "companyName": "Moonsite Software Ltd",
+      "description": "Build websites - All HTML and CSS from scratch (according PSD's), and JS/JQuery features.\n\nAll Links - are websites that i have created HTML+CSS from scratch.",
+      "date1": "Aug 2010 – Apr 2012",
+      "date2": "1 yr 9 mos"
+    },
+    {
+      "title": "Client consultant",
+      "companyName": "AlphaCSP",
+      "description": "Resolve client issues like cross-browser support...",
+      "date1": "Sep 2008 – Jul 2010",
+      "date2": "1 yr 11 mos"
+    },
+    {
+      "title": "Client Developer",
+      "companyName": "Q Multimedia",
+      "date1": "Jan 2007 – Aug 2008",
+      "date2": "1 yr 8 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "John Bryce",
+      "degree": "Web Master",
+      "date1": "2006",
+      "date2": "2007"
+    },
+    {
+      "title": "Sela Group",
+      "degree": "Photoshop",
+      "date1": "2010",
+      "date2": "2010"
+    },
+    {
+      "title": "John Bryce",
+      "degree": ".net Developer",
+      "date1": "2007",
+      "date2": "2008"
+    }
+  ],
+  "skills": [
+    {
+      "title": "CSS",
+      "count": "69"
+    },
+    {
+      "title": "CSS3",
+      "count": "41"
+    },
+    {
+      "title": "Responsive Design",
+      "count": "27"
+    },
+    {
+      "title": "Web Development",
+      "count": "40"
+    },
+    {
+      "title": "SEO",
+      "count": "13"
+    },
+    {
+      "title": "User Experience",
+      "count": "19"
+    },
+    {
+      "title": "User Interface",
+      "count": "20"
+    },
+    {
+      "title": "User Interface Design",
+      "count": "20"
+    },
+    {
+      "title": "Responsive Web Design",
+      "count": "5"
+    },
+    {
+      "title": "Object Oriented Design",
+      "count": "4"
+    },
+    {
+      "title": "Search Engine Optimization (SEO)",
+      "count": "1"
+    },
+    {
+      "title": "OOP",
+      "count": "1"
+    },
+    {
+      "title": "HTML 5",
+      "count": "54"
+    },
+    {
+      "title": "HTML",
+      "count": "47"
+    },
+    {
+      "title": "jQuery",
+      "count": "39"
+    },
+    {
+      "title": "Photoshop",
+      "count": "20"
+    },
+    {
+      "title": "JavaScript",
+      "count": "23"
+    },
+    {
+      "title": "Modernizr",
+      "count": "8"
+    },
+    {
+      "title": "Flexbox",
+      "count": "10"
+    },
+    {
+      "title": "Open Source",
+      "count": "4"
+    },
+    {
+      "title": "Illustrator",
+      "count": "3"
+    },
+    {
+      "title": "HTML5",
+      "count": "14"
+    },
+    {
+      "title": "Sass",
+      "count": "2"
+    },
+    {
+      "title": "Less",
+      "count": "1"
+    },
+    {
+      "title": "Cascading Style Sheets (CSS)",
+      "count": "1"
+    },
+    {
+      "title": "Cross-browser Compatibility",
+      "count": "37"
+    },
+    {
+      "title": "Semantic Web",
+      "count": "26"
+    },
+    {
+      "title": "Less CSS Library",
+      "count": "25"
+    },
+    {
+      "title": "CSS Performance",
+      "count": "12"
+    },
+    {
+      "title": "Accessibility",
+      "count": "12"
+    },
+    {
+      "title": "CSS Grid",
+      "count": "2"
+    },
+    {
+      "title": "Conference Speaking"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "1",
+    "receivedCount": "2",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/eldadfux/",
+        "text": "It was fantastic to work together with Elad, who was an amazing CSS Architect when we worked together at Walla! NEWS. Elad is always punctual, his knowledge is vast and extensive. Elad leads by example and many developers who worked with him, found his enthusiasm and dedication motivating. Elad was always dedicated and goal oriented that cannot be overestimated. Working with Elad, seeing his passion for CSS was truly inspiring.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/creatorit/",
+        "text": "In the year time i work with Elad i learned that he holds an amazing knowledge base in Front End Development. From a designer's perspective - Elad is a proffesional wet dream, because he's extremely creative and working with him mean almost everything is possible - Give him a design and he will not only find a way to do it - but it would be in the most clean and browser friendly fashion. On a personal level, Elad is also funny, friendly, and has a big heart. i love working with him!\n…\nSee more"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/sapir-saban-lugassy/",
+        "text": "Sapir is an amazing Web Designer who likes the challenges with a lot of creativity.\r\nShe understand the Web Developers needs and thanks to that It is a pleasure to work with her."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "27",
+      "items": [
+        "Walla!Vod",
+        "Walla! Mail",
+        "Walla! Homepage",
+        "Walla! Brnz'h",
+        "Walla! Cars",
+        "Walla! Entertainment",
+        "Walla! Finance",
+        "Walla! Healthy",
+        "Walla! Home",
+        "Walla! Judaism",
+        "Walla! News",
+        "Walla! Singles",
+        "Walla! Sports",
+        "Walla! TECH",
+        "Walla! Travel",
+        "Walla! ZONE",
+        "Walla! Food",
+        "Walla! Celebs",
+        "Walla! Fashion",
+        "Walla! Mundial 2014"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "English",
+        "Hebrew"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "Advanced technical posts of CSS3 and HTML5",
+        "CSS Accessibility Validator for your HTML"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "CSS Masters Israel"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/eliortabeka/",
+      "text": "🦄 UX Engineer - Senior Frontend Developer and UI & UX Designer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/alexeikrupnik/",
+      "text": "Project Manager at Keymakr A.E.M. ltd"
+    },
+    {
+      "user": "https://www.linkedin.com/in/eldadfux/",
+      "text": "Software Architect, CTO, open source enthusiastic and the creator of appwrite.io"
+    },
+    {
+      "user": "https://www.linkedin.com/in/liat-hasper-959335123/",
+      "text": "Owner at Liat Hasper - Digital Marketing & SEO"
+    },
+    {
+      "user": "https://www.linkedin.com/in/danniburstein/",
+      "text": "Full Stack Team Leader at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/menny-pinhasov-67048329/",
+      "text": "GIS Software Engineer at Whitewater Technologies"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mshparber/",
+      "text": "Chief Data Officer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/guynir/",
+      "text": "Chief Technology Officer at Wizer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/alex-krepch/",
+      "text": "Software Developer at Frs Vision"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yanaiedri/",
+      "text": "Senior Web Developer at Taboola"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Elad Shechter",
+    "headline": "CSS/HTML Architect Expert - UI/UX Front-End Developer",
+    "imageurl": "https://media.licdn.com/dms/image/C5103AQGNrWwzbw6A1g/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=XUntRjy1cgn9OyCgMckygKzLFP9mx_VGP585wSQbybM",
+    "location": "Israel",
+    "connections": "500+",
+    "summary": "- CSS and HTML Expert\n- Leading CSS technology @investing.com\n- Speaker & Publisher on CSS Stuff\n- Founder of CSS Masters Israel (Facebook Group)"
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "profileAlternative": {
+    "name": "Edward Kmett",
+    "headline": "Research Engineer at Machine Intelligence Research Institute",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQEj7TC80rMYiQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=NR02kumcQ3sAKNFvJeYGoQdxO5CCXvStoDHgsTthsg8",
+    "location": "Berkeley, California",
+    "connections": "500+",
+    "summary": "I spent most of my adult life trying to build reusable code in imperative languages before realizing I was building castles in sand. I converted to Haskell in 2006 while searching for better building materials. I now chair the Haskell core libraries committee, collaborate with hundreds of other developers on over 200 projects on github, and I am obsessed with finding better tools so that seven years from now I won’t be stuck solving the same problems with small variations on the same tools I was stuck using seven years ago."
+  },
+  "aboutAlternative": {
+    "text": "I spent most of my adult life trying to build reusable code in imperative languages before realizing I was building castles in sand. I converted to Haskell in 2006 while searching for better building materials. I now chair the Haskell core libraries committee, collaborate with hundreds of other developers on over 200 projects on github, and I am obsessed with finding better tools so that seven years from now I won’t be stuck solving the same problems with small variations on the same tools I was stuck using seven years ago."
+  },
+  "positions": [
+    {
+      "title": "Research Engineer",
+      "companyName": "Machine Intelligence Research Institute",
+      "location": "Berkeley, CA",
+      "date1": "Aug 2018 – Present",
+      "date2": "1 yr 4 mos"
+    },
+    {
+      "title": "Senior Software Engineer",
+      "companyName": "Digital Asset",
+      "location": "Greater New York City Area",
+      "description": "Worked as the language engineering development lead for the DAML smart contract language.",
+      "date1": "Jul 2017 – Aug 2018",
+      "date2": "1 yr 2 mos"
+    },
+    {
+      "title": "Sr. Software Engineering Lead",
+      "companyName": "S&P Global Market Intelligence",
+      "location": "Greater Boston Area",
+      "description": "Designed and implemented scalable techniques for processing streaming data including portfolio attribution and factor backtesting.\n\nDesigned and implemented the lazy, pure Haskell-like functional programming language Ermine in both Scala and Haskell for use in report generation inside of ClariFI and the larger Capital IQ ecosystem.\n\nI also do a great deal of community outreach to the Haskell and Scala communities. I chair the Haskell core libraries committee, run Boston Haskell, sit on the committee and run the Google Summer of Code for haskell.org, and maintain over 100 open source projects that are beneficial to both the open source community at large and S&P Capital IQ in particular, including the \"monad transformer library\" for Haskell and I help maintain \"scalaz\" the standard library for functional programming in Scala.\n…\nsee more",
+      "date1": "Oct 2010 – Jul 2017",
+      "date2": "6 yrs 10 mos"
+    },
+    {
+      "title": "Raytheon Site Lead",
+      "companyName": "SM&A",
+      "location": "Billerica, MA",
+      "description": "Managed the software engineering team for SM&A.\n\nImplemented the earned value management system (EVMS) dashboard and data warehouse for Raytheon's National and Theater Security Programs through the one|IDE SharePoint environment.\n\nDevised novel techniques for analyzing earned value management data to determine when programs are trying to make their numbers look good for the end of quarter, at the expense of the critical path.\n…\nsee more",
+      "date1": "Jan 2007 – Oct 2010",
+      "date2": "3 yrs 10 mos"
+    },
+    {
+      "title": "Lead Software Engineer",
+      "companyName": "The LINGUIST List",
+      "location": "Ypsilanti, MI",
+      "description": "Designed and prototyped a common infrastructure and interface for two NSF funded projects:\n\nNational Science Foundation Grant for Multi-Tree: A Digital Library of Language Relationships. BCS-04040000.\n\nNational Science Foundation Human and Social Dynamics Grant: LL-MAP: Language and Location, a Map Annotation Project. HSD 0527512\n…\nsee more",
+      "date1": "Jan 2006 – Dec 2006",
+      "date2": "12 mos"
+    },
+    {
+      "title": "Lecturer",
+      "companyName": "Eastern Michigan University",
+      "location": "Ypsilanti, MI",
+      "description": "Taught courses in computer science from the college freshman to senior level.",
+      "date1": "Jan 2006 – Dec 2006",
+      "date2": "12 mos"
+    },
+    {
+      "title": "Consultant",
+      "companyName": "MichTel Communications LLC",
+      "location": "Pontiac, MI",
+      "description": "MichTel Communications, LLC. is a phone company that was started while I was at mich.com, and which was part of BigNet Holdings. I returned as the senior software engineer to help address the needs of a growing organization that found itself under new management. I extended our billing and accounting system to support direct billing for DSL customers and to allow them to resell AOL/Time Warner Cable.\n…\nsee more",
+      "date1": "May 2003 – Jan 2004",
+      "date2": "9 mos"
+    },
+    {
+      "title": "Systems Engineer",
+      "companyName": "Intrepid World Communications",
+      "location": "Troy, MI",
+      "description": "Developed drivers for a holographic autostereoscopic computer display system that enabled the LifeVision 3D system to interact with commercial off the shelf software.",
+      "date1": "Mar 2003 – Sep 2003",
+      "date2": "7 mos"
+    },
+    {
+      "title": "Chief Information Officer",
+      "companyName": "Big Net, Inc.",
+      "location": "Pontiac, MI",
+      "description": "Managed 100+ employees across software engineering, network engineering, security and technical support for a nationwide DSL provider. Extended the system from mich.com (by this time a wholly owned subsidiary) to use XML and SOAP to automatically provision service from DSL providers Covad, SBC, and Rhythms along with our own CLEC DSL offering. Designed websites for Microsoft, Boeing and Marvel Comics.\n…\nsee more",
+      "date1": "Jul 1998 – Jan 2003",
+      "date2": "4 yrs 7 mos"
+    },
+    {
+      "title": "Software Engineer",
+      "companyName": "mich.com",
+      "location": "Farmington Hills, MI",
+      "description": "Designed, implemented and maintained a web based billing, accounting and automated service provisioning system for a regional ISP and phone company that used techniques now known as AJAX to craft a more responsive user interface.",
+      "date1": "Dec 1996 – Jul 1998",
+      "date2": "1 yr 8 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Eastern Michigan University",
+      "degree": "M.S.",
+      "fieldofstudy": "Computer Science",
+      "date1": "2005",
+      "date2": "2007"
+    },
+    {
+      "title": "Eastern Michigan University",
+      "degree": "M.A.",
+      "fieldofstudy": "Mathematics",
+      "date1": "2005",
+      "date2": "2005"
+    },
+    {
+      "title": "Eastern Michigan University",
+      "degree": "Graduate Certificate",
+      "fieldofstudy": "Artificial Intelligence",
+      "date1": "2005",
+      "date2": "2005"
+    },
+    {
+      "title": "Eastern Michigan University",
+      "degree": "B.S.",
+      "fieldofstudy": "Mathematics and Computer Science",
+      "date1": "2004",
+      "date2": "2004"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Algorithms",
+      "count": "99+"
+    },
+    {
+      "title": "Haskell",
+      "count": "99+"
+    },
+    {
+      "title": "Software Engineering",
+      "count": "99+"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "3",
+    "receivedCount": "3",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/eli-sennesh-412126b/",
+        "text": "Ed was an excellent coworker to have on the team and my original inspiration for joining Clarifi. I look forward to working with him again in the future."
+      },
+      {
+        "user": "https://www.linkedin.com/in/danjoseph/",
+        "text": "Ed is an outstanding person to work for. He gave me my first shot at software development, and taught me quite a bit. He was always a wealth of knowledge, and a valuable asset to our company."
+      },
+      {
+        "user": "https://www.linkedin.com/in/helen-aristar-dry-5940ba2/",
+        "text": "Ed is extremely intelligent, up-to-date, and full of creative ideas. If you need an idea man, you won't be disappointed."
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/eli-sennesh-412126b/",
+        "text": "I worked with Eli on two projects: an in-house lazy functional programming language, and a portfolio analytics engine we use here at ClariFI.\r\n\r\nEli had no difficulty covering the broad range of technical issues that arose from each of these very different spaces and was highly self-motivated.\r\n\r\nI was quite sad to see him leave to further his education, and would very happily work with him again."
+      },
+      {
+        "user": "https://www.linkedin.com/in/danjoseph/",
+        "text": "Dan is incredibly self-motivated and hard working. During his time at Big Net he quickly rose from tier 1 technical support to the technical support manager, passing many peers hired before himon the way. Finding himself insufficiently challenged, he taught himself enough about software development -- from scratch! -- that I was more than happy to help him transition into software engineering, a role that suited his keen problem solving skills and attention to detail."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "9",
+      "items": [
+        "Haskell Core Libraries Committee",
+        "Boston Haskell",
+        "haskell.org Committee",
+        "Google Summer of Code",
+        "Haskell Implementors Workshop",
+        "Haskell Symposium",
+        "LambdaJam Chicago",
+        "Commercial Users of Functional Programming (CUFP)",
+        "Workshop on Generic Programming - WGP 2013"
+      ]
+    },
+    {
+      "count": "5",
+      "items": [
+        "lens",
+        "ad",
+        "scalaz",
+        "The monad transformer library (mtl)",
+        "lca"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "English"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/so8res/",
+      "text": "Executive Director at Machine Intelligence Research Institute"
+    },
+    {
+      "user": "https://www.linkedin.com/in/buck-shlegeris-a2b89386/",
+      "text": "Researcher at Machine Intelligence Research Institute"
+    },
+    {
+      "user": "https://www.linkedin.com/in/benja-fallenstein-11a05a4/",
+      "text": "Research Fellow, Machine Intelligence Research Institute"
+    },
+    {
+      "user": "https://www.linkedin.com/in/pcihon/",
+      "text": "Research Affiliate, Centre for the Governance of AI, Oxford"
+    },
+    {
+      "user": "https://www.linkedin.com/in/timothytl/",
+      "text": "Executive Director at Center for Applied Rationality"
+    },
+    {
+      "user": "https://www.linkedin.com/in/luke-stebbing-38897b3/",
+      "text": "Software Engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mthvedt/",
+      "text": "Software Enginner at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/antoinelatter/",
+      "text": "Software Developer at Epic"
+    },
+    {
+      "user": "https://www.linkedin.com/in/pchiusano/",
+      "text": "Founder at Unison Computing"
+    },
+    {
+      "user": "https://www.linkedin.com/in/katia-patkin-b258204a/",
+      "text": "Software Programmer, Machine Learning Researcher"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Vice President",
+      "experience": "haskell.org, Inc.",
+      "description": "Science and Technology",
+      "date1": "Nov 2015 – Nov 2016",
+      "date2": "1 yr 1 mo"
+    }
+  ],
+  "profile": {
+    "name": "Edward Kmett",
+    "headline": "Research Engineer at Machine Intelligence Research Institute",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQEj7TC80rMYiQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=NR02kumcQ3sAKNFvJeYGoQdxO5CCXvStoDHgsTthsg8",
+    "location": "Berkeley, California",
+    "connections": "500+",
+    "summary": "I spent most of my adult life trying to build reusable code in imperative languages before realizing I was building castles in sand. I converted to Haskell in 2006 while searching for better building materials. I now chair the Haskell core libraries committee, collaborate with hundreds of other developers on over 200 projects on github, and I am obsessed with finding better tools so that seven years from now I won’t be stuck solving the same problems with small variations on the same tools I was stuck using seven years ago."
+  }
+}

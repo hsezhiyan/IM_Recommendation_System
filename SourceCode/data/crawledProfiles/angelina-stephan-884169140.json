@@ -1,0 +1,32 @@
+{
+  "profileAlternative": {
+    "name": "Angelina Stephan",
+    "headline": "Web Development (HTML, CSS and Javascript) at Consultant",
+    "location": "Mountain View, California",
+    "connections": "166"
+  },
+  "aboutAlternative": {},
+  "positions": [
+    {
+      "title": "Web Development (HTML, CSS and Javascript)",
+      "companyName": "Consultant"
+    }
+  ],
+  "educations": [],
+  "skills": [],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Angelina Stephan",
+    "headline": "Web Development (HTML, CSS and Javascript) at Consultant",
+    "location": "Mountain View, California",
+    "connections": "166"
+  }
+}

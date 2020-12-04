@@ -1,0 +1,198 @@
+{
+  "profileAlternative": {
+    "name": "Chad Scherrer",
+    "headline": "Probabilistic programming in Julia",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQEFMWBHKQZf6Q/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=Jh4P_-m8_2M-FTAhQX5Cm9VUXXdtySpmZxUHw5yES4U",
+    "location": "Greater Seattle Area",
+    "connections": "500+",
+    "summary": "Probabilistic programming since before it was cool"
+  },
+  "aboutAlternative": {
+    "text": "Probabilistic programming since before it was cool"
+  },
+  "positions": [
+    {
+      "title": "Senior Data Scientist",
+      "companyName": "Metis",
+      "location": "Greater Seattle Area",
+      "date1": "Jan 2018 – Present",
+      "date2": "1 yr 11 mos"
+    },
+    {
+      "title": "Data science consultant",
+      "companyName": "Self-Employed",
+      "location": "remote (contract)",
+      "description": "Implement and test generative models in the Hakaru probabilistic programming language.",
+      "date1": "Feb 2017 – Jan 2018",
+      "date2": "1 yr"
+    },
+    {
+      "title": "Technical Lead",
+      "companyName": "Galois, Inc.",
+      "location": "Portland, Oregon Area",
+      "date1": "Sep 2014 – Jan 2017",
+      "date2": "2 yrs 5 mos"
+    },
+    {
+      "title": "Lead Data Scientist",
+      "companyName": "Melinae",
+      "date1": "Feb 2014 – Aug 2014",
+      "date2": "7 mos"
+    },
+    {
+      "title": "Statistics Consultant",
+      "companyName": "Insight Results",
+      "date1": "Jun 2013 – Feb 2014",
+      "date2": "9 mos"
+    },
+    {
+      "title": "Developer Relations Consultant",
+      "companyName": "FP Complete",
+      "date1": "Feb 2013 – Jun 2013",
+      "date2": "5 mos"
+    },
+    {
+      "title": "Adjunct Professor of Mathematics",
+      "companyName": "Yakima Valley Community College",
+      "location": "Yakima, WA",
+      "date1": "Sep 2012 – Mar 2013",
+      "date2": "7 mos"
+    },
+    {
+      "title": "Research Scientist",
+      "companyName": "Pacific Northwest National Laboratory",
+      "location": "Richland, WA",
+      "description": "• Led development of Passage, a C/OpenMP code generator for hierarchical Bayesian modeling, written in Haskell.\n• Led research and development of parallel coordinate descent algorithms for sparse (ℓ1-regularized) classification; published in top-tier international machine learning conferences (ICML, NIPS).\n• Designed a statistical model for location estimation of a radiological source. Implemented model fitting using expectation maximization (EM algorithm) and Haskell regular parallel arrays (repa).\n• Designed statistical models for a wide variety of domains, including radiation detection, proteomics, data compression, and network anomaly detection.\n• Designed and implemented parallel algorithms for statistical learning and other scientific applications.\n…\nsee more",
+      "date1": "Dec 2000 – Jul 2012",
+      "date2": "11 yrs 8 mos"
+    },
+    {
+      "title": "Adjunct Professor of Mathematics",
+      "companyName": "Columbia Basin College",
+      "location": "Pasco, WA",
+      "date1": "2005 – 2008",
+      "date2": "3 yrs"
+    },
+    {
+      "title": "Associate Instructor",
+      "companyName": "Indiana University",
+      "date1": "1994 – 2000",
+      "date2": "6 yrs"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Indiana University Bloomington",
+      "degree": "PhD",
+      "fieldofstudy": "Mathematics",
+      "date1": "1994",
+      "date2": "2000"
+    },
+    {
+      "title": "Rose-Hulman Institute of Technology",
+      "degree": "BS",
+      "fieldofstudy": "Math",
+      "date1": "1990",
+      "date2": "1994"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Algorithms",
+      "count": "45"
+    },
+    {
+      "title": "Machine Learning",
+      "count": "43"
+    },
+    {
+      "title": "Mathematical Modeling",
+      "count": "35"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "5",
+    "receivedCount": "7",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/danalindquist/",
+        "text": "The Metis Data Science Bootcamp was a life changing experience for me, mainly due to the quality of the Metis staff. Chad was one of two instructors for my cohort. He taught lessons in the mornings and helped us work through projects in the afternoons for an intensive 12 week bootcamp. One Monday morning after a weekend of puzzling through some aspects of a project I asked Chad for help. He said I should look at a Bayesian pymc3 model, then proceeded to help me understand and implement the model in the next few days. I was exhilarated by the Bayesian methods and grateful for the coaching I received from Chad. He had a way of understanding the rabbit holes we students were going down and an exceptional depth of knowledge combined with a true caring for others that helped us grow to be better data scientists. I am grateful to have had Chad as an instructor.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/tiffanydedeaux/",
+        "text": "The key to technical teaching in an intensive and immersive environment is do be clear, effective, and supportive. Chad is the heart of the classroom. He hit the ground running working along side a seasoned instructor and always spoke up when things didn't make sense or he had something to contribute. In a startup environment we all had to take on multiple roles and Chad always and immediately stepped up to handle any extra time in the classroom without a complaint and always with his signature smile. The best part about working with Chad is his thoughtful approach with the students. He carefully deliberated over the feedback he provided, especially in written form, to ensure that he maximized constructive ideas and inclusiveness. Of all the instructors he was among the few who was open and willing to talk through situations with students and come up with the best approach for both the individual and the community. Chad as a team mate is awesome. He always has a laugh or a smile and an encouraging word and has quickly become one of the best things about being at Metis.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/sean-robinson-9a789255/",
+        "text": "Chad is an extremely capable researcher and has proven an invaluable mathematical resource. We worked together chiefly on the implementation of a scheme for localization of radiological sources by drawing inference from data taken from spatially distributed detectors. Chad's knowledge, both of the necessary numerical techniques and of the parallel code for the generation of results, has been exemplary. In addition, his commitment to the careful production and validation of results adds a great deal of rigor and confidence in the numerical modeling arena.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/ken-jarman-80819610/",
+        "text": "Chad consistently displays outstanding technical scientific knowledge and practice, and combines that with a desire to always understand the significance of the application and problem space, guiding his technical work to results that matter to clients. He consistently improves the quality of mathematical modeling and analysis in research projects, providing a level of rigor that makes our results more defensible. For example, as part of an effort to study the viability of monitoring containerized cargo for illicit radiological sources during oceanic transit, Chad established the statistical foundation for estimating radiological content of containers, a component that was crucial to the effort's success. He is highly adaptable to new challenges and always eager to learn new concepts, functions well independently as well as collaboratively, seeking and welcoming input and sharing the credit. It has been a thorough pleasure for me to work with Chad.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/andr%C3%A9s-m%C3%A1rquez-581a816/",
+        "text": "It is my experience that Chad is a highly motivated scientist with a knack of solving complex computational problems that are of high interest to our clients. It is a pleasure working with him."
+      },
+      {
+        "user": "https://www.linkedin.com/in/leventerkok/",
+        "text": "I've worked with Chad on the development of a DSL for Bayesian Modeling in Haskell. Chad demonstrated a deep understanding of both the complicated mathematics involved, and the language development aspects; including the design of a high-performance, massively parallel code generator, starting from very high-level specifications. Chad is joy to work with, and is a clear asset to any team.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/davidhaglin/",
+        "text": "I had the privilege of working with Chad for over two years on research projects ranging from High Performance Computing to Information Retrieval to Machine Learning. Chad was always happy to work hard, find creative solutions, and strive to disseminate those solutions in the form of papers. His practical approach to moving his research agenda forward was refreshing and continually reminded me that research is achievable through hard work. We wrote three papers together and I enjoyed Chad's contributions and his leadership, which resulted in achieving a better final paper than I originally imagined.\n…\nSee more"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/danalindquist/",
+        "text": "I taught and mentored Dana in data science during her time at Metis.\n\nDana has a natural curiosity and a rigorous analytical background; her management experience gives her a keen business sense, and the self-discipline to make the hard decisions needed to stay on track and deliver on time. She will be a great asset to any data science team."
+      },
+      {
+        "user": "https://www.linkedin.com/in/jhonsen/",
+        "text": "I was Jhonsen's instructor at Metis.\n\nJhonsen works hard, delivering solid analytical results and engaging presentations. During the bootcamp, Jhonsen quickly became very involved in the Metis community, and has remained so since his graduation. He was also very active on the bootcamp cohort's Slack channel, frequently offering technical references, as well as general encouragement and team-building.\n\nI believe Jhonsen has a bright career path ahead of him. As a Junior Data Scientist (for now), he would be a valuable asset to any team."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "7",
+      "items": [
+        "Feature Clustering for Accelerating Parallel Coordinate Descent",
+        "Passage: A Parallel Sampler Generator for Hierarchical Bayesian Modeling",
+        "Scaling Up Coordinate Descent Algorithms for Large ℓ1 Regularization Problems",
+        "Indirect Estimation of Radioactivity in Containerized Cargo",
+        "Hashing Strategies for the Cray XMT",
+        "Accelerating Numerical Calculation on the Cray XMT",
+        "Increasing the Efficiency of Data Storage and Analysis using Indexed Compression"
+      ]
+    },
+    {
+      "count": "6",
+      "items": [
+        "Center for Adaptive Supercomputing Software — Multithreaded Architectures (CASS- MT)",
+        "Indexed Compression for Scientific Data",
+        "Network Anomaly Detection",
+        "Parallel Hierarchical Bayesian Modeling",
+        "Proteomics",
+        "Remote Portal Monitoring"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "System and method for anomaly detection"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Chad Scherrer",
+    "headline": "Probabilistic programming in Julia",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQEFMWBHKQZf6Q/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=Jh4P_-m8_2M-FTAhQX5Cm9VUXXdtySpmZxUHw5yES4U",
+    "location": "Greater Seattle Area",
+    "connections": "500+",
+    "summary": "Probabilistic programming since before it was cool"
+  }
+}

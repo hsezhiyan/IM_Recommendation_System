@@ -1,0 +1,274 @@
+{
+  "profileAlternative": {
+    "name": "Robin Kuzmin",
+    "headline": "Crazy about C++ passionate bug preventer and meticulous code reviewer. Active Member of C++ Community.",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQGnn_9LUGzQpA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=eKXks3TzMTtJ98fcpm-iNJnthy7JHcv49aH3u7y2xZI",
+    "location": "Bellevue, Washington",
+    "connections": "274",
+    "summary": "Experienced C/C++ developer, meticulous code reviewer, thorough analyst of the design decisions, passionate bug preventer.\nC++ community member:\n* Speaker Liaison for CppCon and C++Now conferences.\n* Volunteer Shift Leader, Surveys Co-Chair, and Speaker for CppCon 2017. Talks:\n\"Captioning and Translating C++ Videos\", Part 1 (5:05), Part 2 (15:03).\n* Co-Founder and Master Admin of http://cppvap.wikidot.com/.\n* Co-Manager of YouTube channels CppCon and BoostCon (C++Now).\n* Co-Admin of schedules for CppCon and C++Now at https://sched.com/.\n* Co-Chair of the submissions for CppCon and C++Now at https://easychair.org/.\n* Co-Admin of the Submission System for CppCon and C++Now.\n* Volunteer for C++Now 2017 and CppCon 2016.\n* Attendee of C++Russia 2018.\nhttps://github.com/kuzminrobin/code_review_notes/blob/master/cpp_design_bookmarks.md"
+  },
+  "aboutAlternative": {
+    "text": "Experienced C/C++ developer, meticulous code reviewer, thorough analyst of the design decisions, passionate bug preventer.\nC++ community member:\n* Speaker Liaison for CppCon and C++Now conferences.\n* Volunteer Shift Leader, Surveys Co-Chair, and Speaker for CppCon 2017. Talks:\n\"Captioning and Translating C++ Videos\", Part 1 (5:05), Part 2 (15:03).\n* Co-Founder and Master Admin of http://cppvap.wikidot.com/.\n* Co-Manager of YouTube channels CppCon and BoostCon (C++Now).\n* Co-Admin of schedules for CppCon and C++Now at https://sched.com/.\n* Co-Chair of the submissions for CppCon and C++Now at https://easychair.org/.\n* Co-Admin of the Submission System for CppCon and C++Now.\n* Volunteer for C++Now 2017 and CppCon 2016.\n* Attendee of C++Russia 2018.\nhttps://github.com/kuzminrobin/code_review_notes/blob/master/cpp_design_bookmarks.md"
+  },
+  "positions": [
+    {
+      "title": "Senior Software Development Engineer",
+      "companyName": "Microsoft",
+      "location": "Redmond WA",
+      "description": "Quantum Computing, OpenOCD, C/C++, GIT, Linux.",
+      "date1": "Jul 2019 – Present",
+      "date2": "5 mos"
+    },
+    {
+      "title": "Firmware Developer",
+      "companyName": "Zensa LLC.",
+      "location": "Redmond WA",
+      "description": "Contract for Microsoft.\nXBOX Controller Firmware Development.\nARM, bare metal, C++98/03/11/14, IAR.\nx86 + Windows, VC++2012/2017.",
+      "date1": "Feb 2019 – Jun 2019",
+      "date2": "5 mos"
+    },
+    {
+      "title": "Senior Embedded Software Engineer",
+      "companyName": "Physio-Control, Inc.",
+      "location": "Redmond WA, USA",
+      "description": "Physio-Control (Stryker company) for Kestra Medical Technologies (Kirkland WA, USA).\nC++, Code Reviewing, Code Analysis, Architectural and OO Design, Embedded Linux on ARM, chroot, LTIB, Ubuntu 12.04, 16.04 on PC. Medical devices industry.\nFor code reviewing got a reputation of a “Human Debugger” and a “Live Static Analyzer”.",
+      "date1": "Sep 2015 – Oct 2018",
+      "date2": "3 yrs 2 mos"
+    },
+    {
+      "title": "Microsoft",
+      "location": "Redmond WA, USA",
+      "description": "C/C++, Kernel Debugging, Windows 10.\nCore Input (Keyboard, Mouse, Touch[Pad], Pen) for Windows [Server | Phone] and XBOX.",
+      "date1": "Jun 2014 – Sep 2015",
+      "date2": "1 yr 4 mos",
+      "roles": [
+        {
+          "title": "Software Engineer II",
+          "date1": "Jun 2014 – Sep 2015",
+          "date2": "1 yr 4 mos",
+          "location": "Redmond WA, USA"
+        },
+        {
+          "title": "Software Development Engineer in Test II",
+          "date1": "Apr 2013 – Jun 2014",
+          "date2": "1 yr 3 mos",
+          "location": "Redmond WA, USA"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSoftware Engineer II",
+      "location": "Redmond WA, USA",
+      "description": "C/C++, Kernel Debugging, Windows 10.\nCore Input (Keyboard, Mouse, Touch[Pad], Pen) for Windows [Server | Phone] and XBOX.",
+      "date1": "Jun 2014 – Sep 2015",
+      "date2": "1 yr 4 mos",
+      "roles": [
+        {
+          "title": "Software Engineer II",
+          "date1": "Jun 2014 – Sep 2015",
+          "date2": "1 yr 4 mos",
+          "location": "Redmond WA, USA"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSoftware Development Engineer in Test II",
+      "location": "Redmond WA, USA",
+      "description": "Windows Server 2012 R2, File Servers and Clustering.\nRunning the tests and reporting the bugs, Hyper-V (Virtual Machines), PowerShell, Product Studio (Bug Tracker), Source Depot (Source Control), WTT Studio (Test Executor), Razzle (nmake-based build environment).",
+      "date1": "Apr 2013 – Jun 2014",
+      "date2": "1 yr 3 mos",
+      "roles": [
+        {
+          "title": "Software Development Engineer in Test II",
+          "date1": "Apr 2013 – Jun 2014",
+          "date2": "1 yr 3 mos",
+          "location": "Redmond WA, USA"
+        }
+      ]
+    },
+    {
+      "title": "Advisory Software Engineer, Team Lead",
+      "companyName": "IBM",
+      "location": "Moscow, Russian Federation",
+      "description": "Hardware Simulation in C/C++, Python. Simics, shell, make, gdb, Device Modeling Language (DML), x86 + Linux.\nPowerPC-based I/O boards models for early stage firmware debugging.\n- Developed Code Coverage and Profiling tool for the Simulation Environment. The tool generates HTML-highlighted C/C++ Sources with Disassembly, per-line and per-instruction exec statistics.\n- Developed an extensive unified Framework in C for Logging, Error Reporting, Communication Protocols, Simulation API Access, and Utilities. Partially extended that framework to C++.\n- Significantly improved the makefile structure so that the other teams in different countries copied and started using that structure.\n…\nsee more",
+      "date1": "Jun 2006 – Apr 2013",
+      "date2": "6 yrs 11 mos"
+    },
+    {
+      "title": "Programmer",
+      "companyName": "Rapas, JSC",
+      "location": "Moscow, Russia",
+      "description": "Hardware Simulation, C/C++, shell, make, gdb, x86 + Win + Linux.\nARM PrimeCells models library for Mentor Graphics' \"Perspecta\" models development tool.\nSimulated hardware behavior in C++ and developed ARM firmware in C to test the virtual hardware behavior.",
+      "date1": "Sep 2005 – May 2006",
+      "date2": "9 mos"
+    },
+    {
+      "title": "Senior Developer",
+      "companyName": "Mirantis",
+      "location": "Moscow, Russian Federation",
+      "description": "Hardware Simulation tools development for Virtio Corporation Ltd. (Campbell CA, USA).\nC++ (MS VC++ .NET 2003), Java (Eclipse RCP), Scripting (.BAT, .sh). x86 + Windows.",
+      "date1": "Dec 2004 – May 2006",
+      "date2": "1 yr 6 mos"
+    },
+    {
+      "title": "Programmer",
+      "companyName": "Artezio",
+      "description": "Phone network control system development for Telcordia Technologies Inc. (Piscataway NJ, USA).\nC++, gcc, gdb, Proprietary scripting language, HPUX, x86 + Win.",
+      "date1": "Jan 2004 – Sep 2005",
+      "date2": "1 yr 9 mos"
+    },
+    {
+      "title": "Software Developer",
+      "companyName": "Zelax",
+      "location": "Zelenograd, Moscow, Russia",
+      "description": "Ethernet Modem Firmware development.\nC, Assembly, Texas Instruments MSP430F149, x86 + Win.",
+      "date1": "Jan 2003 – Jan 2004",
+      "date2": "1 yr 1 mo"
+    },
+    {
+      "title": "Senior Programmer",
+      "companyName": "ABS ZEiM Automation OJSC",
+      "location": "Cheboksary, Russia",
+      "description": "Industrial Microcontrollers Firmware development (C) and PC Utils (C++).\nC/C++, Assembly, Atmel AVR, x86 + Win.",
+      "date1": "Aug 1998 – Jan 2003",
+      "date2": "4 yrs 6 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Chuvash State University",
+      "degree": "Master of Science (MS)",
+      "fieldofstudy": "Computer Science",
+      "date1": "1994",
+      "date2": "1999"
+    },
+    {
+      "title": "Chuvash State University",
+      "degree": "Master's Degree",
+      "fieldofstudy": "English-Russian Translation",
+      "date1": "1997",
+      "date2": "2000"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Software Development",
+      "count": "39"
+    },
+    {
+      "title": "Agile Methodologies",
+      "count": "16"
+    },
+    {
+      "title": "Linux",
+      "count": "13"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "1",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/jonkalb/",
+        "text": "I've been working with Robin since he served as a volunteer at C++Now in May of 2016. Most C++Now volunteers are thirsty for C++ knowledge, but Robin distinguished himself in that, in addition to technical knowledge, he was particularly conscientious about his assignments as a volunteer. He was ready, even eager, to learn how the conference was run and to take on more responsibilities leading to a transition from volunteer to staff. Robin is currently the Speaker Liaison for both C++Now and CppCon, the oldest and largest C++ conferences in the world, respectively. At both conferences he has taken on a number of other duties, most related to the conferences' technical content. His primary role, that of Speaker Liaison, is both very important to the conference and very time consuming for the liaison. In addition to sending out information updates to all conference speakers, Robin is responsible for responding to the scores of questions and requests that we get every year from speakers, many of whom have not spoken at a conference before and some of whom make wrong assumptions about how these conferences are run. In order to answer these questions and intermediate between speakers and other conference staff, Robin needs to know a lot of detail about how the conferences are run and I'm impressed that he can have learned all of that for both conference in so short a time. Like all the best software engineers, Robin is detail oriented and in addition he is extremely conscientious and reliable. It makes my job as conference chair so much easier when Robin volunteers to take something on, because I know that it will be done and done right. I'm impressed with Robin not just because he is a team player, executing on the plans developed (with his consultation) by the conference manager, but also because he's shown what he can do on his own. Robin recognized that there is a wealth of C++ videos available, but almost all are in English and, except for the auto-subtitling on YouTube (which is awful for tech videos), these videos have no subtitles and no translations. He saw a need and went after it. He created and has led the C++ Video Access Project to recruit, train, and coordinate volunteers to provide captioning and translation of C++ Videos. The C++ community owes a lot to Robin and I look forward to seeing how his leadership will continue to shape the community's future.\n…\nSee more"
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "2",
+      "items": [
+        "English",
+        "Russian"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/herb-sutter-826b436/",
+      "text": "SA at Microsoft"
+    },
+    {
+      "user": "https://www.linkedin.com/in/linustorvalds/",
+      "text": "Fellow at Linux Foundation"
+    },
+    {
+      "user": "https://www.linkedin.com/in/bob-steagall-9649612a/",
+      "text": "Principal Engineer, C++ Advocate"
+    },
+    {
+      "user": "https://www.linkedin.com/in/christophergriffis/",
+      "text": "Software Engineer @ Microsoft (Azure | Identity)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mjcaisse/",
+      "text": "Principal at Ciere Consulting"
+    },
+    {
+      "user": "https://www.linkedin.com/in/cppcon-team-66a978139/",
+      "text": "--"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ctorre/",
+      "text": "Senior Software Engineer - Azure Service Fabric"
+    },
+    {
+      "user": "https://www.linkedin.com/in/paul-fultz-ii-60391997/",
+      "text": "Software Engineer at AMD"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jonkalb/",
+      "text": "Software Engineering Instructor"
+    },
+    {
+      "user": "https://www.linkedin.com/in/rodrigc/",
+      "text": "Member Of Technical Staff at Portworx"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Speaker Liaison",
+      "experience": "CppCon",
+      "description": "Science and Technology",
+      "date1": "Jun 2018 – Present",
+      "date2": "1 yr 6 mos"
+    },
+    {
+      "title": "Speaker Liaison",
+      "experience": "C++Now",
+      "description": "Science and Technology",
+      "date1": "Feb 2018 – Present",
+      "date2": "1 yr 10 mos"
+    },
+    {
+      "title": "Volunteer Shift Leader, Surveys Co-Chair, and Speaker",
+      "experience": "CppCon 2017",
+      "description": "Science and Technology",
+      "date1": "Sep 2017",
+      "date2": "1 mo"
+    },
+    {
+      "title": "Volunteer",
+      "experience": "C++Now 2017",
+      "description": "Science and Technology",
+      "date1": "May 2017",
+      "date2": "1 mo"
+    },
+    {
+      "title": "Volunteer",
+      "experience": "CppCon 2016",
+      "description": "Science and Technology",
+      "date1": "Sep 2016",
+      "date2": "1 mo"
+    }
+  ],
+  "profile": {
+    "name": "Robin Kuzmin",
+    "headline": "Crazy about C++ passionate bug preventer and meticulous code reviewer. Active Member of C++ Community.",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQGnn_9LUGzQpA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=eKXks3TzMTtJ98fcpm-iNJnthy7JHcv49aH3u7y2xZI",
+    "location": "Bellevue, Washington",
+    "connections": "274",
+    "summary": "Experienced C/C++ developer, meticulous code reviewer, thorough analyst of the design decisions, passionate bug preventer.\nC++ community member:\n* Speaker Liaison for CppCon and C++Now conferences.\n* Volunteer Shift Leader, Surveys Co-Chair, and Speaker for CppCon 2017. Talks:\n\"Captioning and Translating C++ Videos\", Part 1 (5:05), Part 2 (15:03).\n* Co-Founder and Master Admin of http://cppvap.wikidot.com/.\n* Co-Manager of YouTube channels CppCon and BoostCon (C++Now).\n* Co-Admin of schedules for CppCon and C++Now at https://sched.com/.\n* Co-Chair of the submissions for CppCon and C++Now at https://easychair.org/.\n* Co-Admin of the Submission System for CppCon and C++Now.\n* Volunteer for C++Now 2017 and CppCon 2016.\n* Attendee of C++Russia 2018.\nhttps://github.com/kuzminrobin/code_review_notes/blob/master/cpp_design_bookmarks.md"
+  }
+}

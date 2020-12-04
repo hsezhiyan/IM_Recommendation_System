@@ -1,0 +1,210 @@
+{
+  "profileAlternative": {
+    "name": "Pavel Ivanovich Ubiera Marrero",
+    "headline": "Lead Logical DBA and SQL Server \"SME\" at Ryder System, Inc.",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQHRt4YUQ1N_NA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=2ew23mIs9d-ojeWG2S5yb4xRGhdu5Y2l76pz6217noU",
+    "location": "Fort Lauderdale, Florida",
+    "connections": "452",
+    "summary": "More than ten years like application developer, database administrator and project manager in a wide variety of business applications. Interested in client/server and relational database design using MS-SQL Server environment automatization using PowerShell, VB.net programming and business intelligence using SQL server and office platform.\n\nSpecialties: SQL DBA\nExperience with SQL Tuning and Performance Tuning\nPerform system installation, monitoring, backup, and support\nExperience with reporting and analysis services (SSRS, SSAS, SSIS).\nGathering and analyzing business requirements\nDesigning data services and data model\nDesigning business requirement\nVB.Programming\nPowerShell"
+  },
+  "aboutAlternative": {
+    "text": "More than ten years like application developer, database administrator and project manager in a wide variety of business applications. Interested in client/server and relational database design using MS-SQL Server environment automatization using PowerShell, VB.net programming and business intelligence using SQL server and office platform.\n\nSpecialties: SQL DBA\nExperience with SQL Tuning and Performance Tuning\nPerform system installation, monitoring, backup, and support\nExperience with reporting and analysis services (SSRS, SSAS, SSIS).\nGathering and analyzing business requirements\nDesigning data services and data model\nDesigning business requirement\nVB.Programming\nPowerShell"
+  },
+  "positions": [
+    {
+      "title": "Lead Application DBA and SQL Server \"SME\"",
+      "companyName": "Ryder System, Inc.",
+      "location": "Doral, Florida",
+      "date1": "Nov 2013 – Present",
+      "date2": "6 yrs 1 mo"
+    },
+    {
+      "title": "Lead Database Administrator",
+      "companyName": "Sheridan Healthcorp",
+      "date1": "Aug 2012 – Nov 2013",
+      "date2": "1 yr 4 mos"
+    },
+    {
+      "title": "Sr. SQL DBA",
+      "companyName": "Lender Processing Services, Inc. (LPS)",
+      "date1": "Aug 2011 – Jun 2012",
+      "date2": "11 mos"
+    },
+    {
+      "title": "Lead Senior DBA",
+      "companyName": "Verizon",
+      "date1": "Feb 2005 – Mar 2006",
+      "date2": "1 yr 2 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Productivity Point",
+      "degree": "MCP, MCSD, MCDBA, MCTS SQL 2k8 R2, MCITP SQL 2k8 R2 and BI",
+      "fieldofstudy": "Data Modeling/Warehousing and Database Administration",
+      "date1": "2001",
+      "date2": "2003"
+    },
+    {
+      "title": "Teknowlogic",
+      "degree": "MCTS SQL Server 2k8 R2",
+      "fieldofstudy": "Database Administration",
+      "date1": "2010",
+      "date2": "2011"
+    },
+    {
+      "title": "Teknowlogic",
+      "degree": "MCTS SSAS SQL Server 2k8 R2",
+      "fieldofstudy": "Data Analysis",
+      "date1": "2010",
+      "date2": "2011"
+    },
+    {
+      "title": "Teorema",
+      "degree": "MCITP BI SQL Server 2k8 R2",
+      "fieldofstudy": "Business Intelligence",
+      "date1": "2010",
+      "date2": "2011"
+    },
+    {
+      "title": "Teorema",
+      "degree": "MCTS SSRS SQL 2k8 R2",
+      "fieldofstudy": "Database Reporting",
+      "date1": "2010",
+      "date2": "2011"
+    },
+    {
+      "title": "VUE",
+      "degree": "MCSA SQL Server 2k12",
+      "fieldofstudy": "Data Modeling/Warehousing and Database Administration"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Microsoft SQL Server",
+      "count": "16"
+    },
+    {
+      "title": "SSRS",
+      "count": "14"
+    },
+    {
+      "title": "SSIS",
+      "count": "12"
+    },
+    {
+      "title": "Performance Tuning",
+      "count": "9"
+    },
+    {
+      "title": "Database Administration",
+      "count": "8"
+    },
+    {
+      "title": "ETL",
+      "count": "7"
+    },
+    {
+      "title": "Database Design",
+      "count": "6"
+    },
+    {
+      "title": "Business Intelligence",
+      "count": "6"
+    },
+    {
+      "title": "VB.NET",
+      "count": "8"
+    },
+    {
+      "title": "T-SQL",
+      "count": "7"
+    },
+    {
+      "title": "Powershell",
+      "count": "5"
+    },
+    {
+      "title": "SQL Tuning",
+      "count": "8"
+    },
+    {
+      "title": "Analysis Services",
+      "count": "5"
+    },
+    {
+      "title": "Replication",
+      "count": "5"
+    },
+    {
+      "title": "System Monitoring",
+      "count": "2"
+    },
+    {
+      "title": "DTS",
+      "count": "2"
+    },
+    {
+      "title": "Mirroring",
+      "count": "2"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/faustosuarez/",
+      "text": "Sr. SQL Server DBA/Developer at Ryder System, Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/francgonzalez/",
+      "text": "Senior Software Developer at Ryder System, Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/george-matook-b7475524/",
+      "text": "Sr. SQL BI Database Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/alexvulitsky/",
+      "text": "SQL,.NET,Data Warehousing, SSIS, SSAS, SSRS, Dash Board"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sharoncollett/",
+      "text": "Manager of Database Administration"
+    },
+    {
+      "user": "https://www.linkedin.com/in/angelodesantis/",
+      "text": "Business Intelligence Developer at Aptum"
+    },
+    {
+      "user": "https://www.linkedin.com/in/edward-blaushield-763053a/",
+      "text": "Data Base Devloper / Analyst at Wash Mutual"
+    },
+    {
+      "user": "https://www.linkedin.com/in/heatherwardwell/",
+      "text": "Latin teacher at Bedford School Department"
+    },
+    {
+      "user": "https://www.linkedin.com/in/gginfante/",
+      "text": "Administrative Operations Manager at Renaissance Charter School"
+    },
+    {
+      "user": "https://www.linkedin.com/in/oliver-espaillat-74ba148a/",
+      "text": "--"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Pavel Ivanovich Ubiera Marrero",
+    "headline": "Lead Logical DBA and SQL Server \"SME\" at Ryder System, Inc.",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQHRt4YUQ1N_NA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=2ew23mIs9d-ojeWG2S5yb4xRGhdu5Y2l76pz6217noU",
+    "location": "Fort Lauderdale, Florida",
+    "connections": "452",
+    "summary": "More than ten years like application developer, database administrator and project manager in a wide variety of business applications. Interested in client/server and relational database design using MS-SQL Server environment automatization using PowerShell, VB.net programming and business intelligence using SQL server and office platform.\n\nSpecialties: SQL DBA\nExperience with SQL Tuning and Performance Tuning\nPerform system installation, monitoring, backup, and support\nExperience with reporting and analysis services (SSRS, SSAS, SSIS).\nGathering and analyzing business requirements\nDesigning data services and data model\nDesigning business requirement\nVB.Programming\nPowerShell"
+  }
+}

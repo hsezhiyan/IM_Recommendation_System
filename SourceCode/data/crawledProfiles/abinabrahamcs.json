@@ -1,0 +1,307 @@
+{
+  "profileAlternative": {
+    "name": "Abin Abraham - Python Developer",
+    "headline": "Python Developer and Team Lead",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQHJwRzJu9Vu5w/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=wRjxuN_a5JrsdS9aRlgzFH4bAEgrgnti2vHP8h134rM",
+    "location": "Ernakulam, Kerala, India",
+    "connections": "500+",
+    "summary": "I am seeking a challenging position with an esteemed organization to leverage my technical and professional skills, while working for the organization serving them in all the ways I could .\n\nI believe that I can be a good team player with the ability to work under minimum guidance especially when carrying out challenging assignments.\n\nI consider myself as a very ambitious, motivated, career oriented person, willing to accept challenges, energetic and result oriented, with excellent leadership abilities, and an active and hardworking person who is patient and diligent, with great adaptability to changing working conditions, able to adopt to the needs of different clients, with excellent interpersonal, negotiation and diplomatic skills, knowledgeable, and having tenacity of purpose.\n\n\nLanguages: Python, AngularJS, PolymerJS, JavaScript, Go, SQL, HTML5, Jython, Perl, CSS\n\nFrameworks: Django, Flask, Tornado\n\nPlatforms: Linux, Amazon Web Services (AWS), Google App Engine, Heroku, Windows, Mac OS X\n\nStorage: NoSQL, MongoDB, MySQL, PostgreSQL, Redis, Google Cloud SQL, Fusion Tables, Amazon S3, Google BigQuery\n\nVersion control systems (SVN, GIT, Mercurial)"
+  },
+  "aboutAlternative": {
+    "text": "I am seeking a challenging position with an esteemed organization to leverage my technical and professional skills, while working for the organization serving them in all the ways I could .\n\nI believe that I can be a good team player with the ability to work under minimum guidance especially when carrying out challenging assignments.\n\nI consider myself as a very ambitious, motivated, career oriented person, willing to accept challenges, energetic and result oriented, with excellent leadership abilities, and an active and hardworking person who is patient and diligent, with great adaptability to changing working conditions, able to adopt to the needs of different clients, with excellent interpersonal, negotiation and diplomatic skills, knowledgeable, and having tenacity of purpose.\n\n\nLanguages: Python, AngularJS, PolymerJS, JavaScript, Go, SQL, HTML5, Jython, Perl, CSS\n\nFrameworks: Django, Flask, Tornado\n\nPlatforms: Linux, Amazon Web Services (AWS), Google App Engine, Heroku, Windows, Mac OS X\n\nStorage: NoSQL, MongoDB, MySQL, PostgreSQL, Redis, Google Cloud SQL, Fusion Tables, Amazon S3, Google BigQuery\n\nVersion control systems (SVN, GIT, Mercurial)"
+  },
+  "positions": [
+    {
+      "title": "Programmer Analyst and Team Lead",
+      "companyName": "Theory Y Technologies",
+      "location": "Infopark",
+      "description": "I am an experienced Software Engineer with a proven track record of delivering successfully, multiple, concurrent projects using Agile and Waterfall methodologies. I am experienced in Python and facilitating requirements capture through workshops, interviews and questionnaires. I am adept at building and leading high performance teams that focus on delivering superior customer and business outcomes. I am skilled in stakeholder management at all levels and has experience working on projects in North America, Middle East and Asia.",
+      "date1": "Jul 2017 – Present",
+      "date2": "2 yrs 5 mos"
+    },
+    {
+      "title": "Senior Python Developer",
+      "companyName": "RapidValue",
+      "location": "Infopark",
+      "description": "Worked as Lead Developer in Python Team, Handled multiple reputed projects and 6 scale team.",
+      "date1": "May 2014 – Jul 2017",
+      "date2": "3 yrs 3 mos"
+    },
+    {
+      "title": "Senior Software Engineer in Python",
+      "companyName": "Techversant Infotech Pvt. Ltd",
+      "location": "Trivandrum",
+      "description": "Comprehensive database management and migration from SQL to Oracle.\nGenerated new development company that focuses on projects, including E-commerce also.",
+      "date1": "May 2014 – Feb 2015",
+      "date2": "10 mos"
+    },
+    {
+      "title": "Software Developer",
+      "companyName": "SayOne Technologies",
+      "description": "Software Developer in python",
+      "date1": "Apr 2012 – Mar 2014",
+      "date2": "2 yrs"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Cochin University of Science and Technology",
+      "degree": "Bachelor of Technology (B.Tech.)",
+      "fieldofstudy": "Computer Software Engineering",
+      "date1": "2007",
+      "date2": "2011"
+    },
+    {
+      "title": "St Thomas HSS Erumely, Kanjirappally",
+      "date1": "2004",
+      "date2": "2006"
+    }
+  ],
+  "skills": [
+    {
+      "title": "JavaScript",
+      "count": "99+"
+    },
+    {
+      "title": "HTML",
+      "count": "73"
+    },
+    {
+      "title": "Python",
+      "count": "70"
+    },
+    {
+      "title": "Web Services",
+      "count": "23"
+    },
+    {
+      "title": "E-commerce",
+      "count": "14"
+    },
+    {
+      "title": "Scrum",
+      "count": "12"
+    },
+    {
+      "title": "Testing",
+      "count": "10"
+    },
+    {
+      "title": "PMO",
+      "count": "10"
+    },
+    {
+      "title": "Project Planning",
+      "count": "10"
+    },
+    {
+      "title": "Analysis",
+      "count": "9"
+    },
+    {
+      "title": "Web Design"
+    },
+    {
+      "title": "Responsive Web Design"
+    },
+    {
+      "title": "Django",
+      "count": "64"
+    },
+    {
+      "title": "SQL",
+      "count": "51"
+    },
+    {
+      "title": "MySQL",
+      "count": "44"
+    },
+    {
+      "title": "jQuery",
+      "count": "41"
+    },
+    {
+      "title": "C++",
+      "count": "34"
+    },
+    {
+      "title": "Java",
+      "count": "33"
+    },
+    {
+      "title": "AJAX",
+      "count": "31"
+    },
+    {
+      "title": "Git",
+      "count": "28"
+    },
+    {
+      "title": "JSP",
+      "count": "24"
+    },
+    {
+      "title": "PHP",
+      "count": "24"
+    },
+    {
+      "title": "CSS",
+      "count": "23"
+    },
+    {
+      "title": "Linux",
+      "count": "13"
+    },
+    {
+      "title": "Eclipse",
+      "count": "12"
+    },
+    {
+      "title": "Photoshop",
+      "count": "12"
+    },
+    {
+      "title": "NetBeans",
+      "count": "11"
+    },
+    {
+      "title": "C",
+      "count": "10"
+    },
+    {
+      "title": "Oracle",
+      "count": "8"
+    },
+    {
+      "title": "HTML5",
+      "count": "8"
+    },
+    {
+      "title": "Subversion",
+      "count": "7"
+    },
+    {
+      "title": "PostgreSQL",
+      "count": "7"
+    },
+    {
+      "title": "AngularJS",
+      "count": "5"
+    },
+    {
+      "title": "JSON"
+    },
+    {
+      "title": "RESTful WebServices"
+    },
+    {
+      "title": "cPanel",
+      "count": "9"
+    },
+    {
+      "title": "API Development"
+    },
+    {
+      "title": "Full-Stack Development"
+    },
+    {
+      "title": "Microservices"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "2",
+    "receivedCount": "3",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/shareer-t-m-a3744994/",
+        "text": "Abin is focused and dedicated to producing his very best at all times. he is always a great asset to any team. very adaptive always keen to learn new technologies.I recommend him highly"
+      },
+      {
+        "user": "https://www.linkedin.com/in/ajaik/",
+        "text": "Abin is a brilliant developer with many years of experience! He successfully runs multiple websites, manages several applications. He is extremely enthusiastic about his work which is infectious, makes it fun to learn, and easy to remember. He always has a creative, positive outlook and he’s good at building complex applications.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/jayapal/",
+        "text": "Abin Abraham can be described as one of those pure breeds who can be rightfully called \" the organizational citizen\". I have been very fortunate to come across Vinoo who is not only a gentleman but also a professional \"machine\". He has been consistently proving his capacity to undertake multiple projects single-handedly. He pays close attention to the finest details and channels customers from oven directly to the freezer with such ease. His mentor-ship adds energy to the team and goes by the attitude \"let me know if you are stuck\". In short , he is a valuable asset for my team.\n…\nSee more"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/shareer-t-m-a3744994/",
+        "text": "I've worked with or nearby Shareer a couple of months.  he is an excellent Front end developer. I have appreciated that expertise multiple times, as he is able to pick up technical issues and have his team work them; always with satisfactory outcomes. In addition, he is a pleasure to work with, on a personal level."
+      },
+      {
+        "user": "https://www.linkedin.com/in/jayapal/",
+        "text": "Jayapal has always provided timely and valuable management to our team that has made a positive difference to our day to day operations. He is pro-active in offering support, and has alway promptly responded to our requests for help. I can recommend Jayapal D as a person with great experience of modern website solutions. He always takes care of the job, works hard and really enjoys his work."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "3",
+      "items": [
+        "English",
+        "Hindi",
+        "Malayalam"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "Oracle Java (JSP) (Core Java)",
+        "Python Certification"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/anju-s-nair-a10a9a11b/",
+      "text": "Python/Django Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sneha-shinde-95ba6a78/",
+      "text": "Python/Django Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sweety-gupta-25000b15/",
+      "text": "6+ years of experience as a Python/Django developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/linuxpythondeveloper/",
+      "text": "Python Developer and Technical Lead at Calpine Group"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tarunbehal/",
+      "text": "Python Developer at Adobe"
+    },
+    {
+      "user": "https://www.linkedin.com/in/djangodeveloper/",
+      "text": "at JPMorgan Chase & Co."
+    },
+    {
+      "user": "https://www.linkedin.com/in/harsha-jha-28a11b94/",
+      "text": "Full Stack Developer(Python,Django)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/uttam-kumar-17510462/",
+      "text": "Software Developer - Python at Boeing"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ssutrave/",
+      "text": "Senior Backend Engineer at TensorIot"
+    },
+    {
+      "user": "https://www.linkedin.com/in/bibindas-t-p-b48860148/",
+      "text": "Python Developer - Looking for Immediate Openings"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Abin Abraham - Python Developer",
+    "headline": "Python Developer and Team Lead",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQHJwRzJu9Vu5w/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=wRjxuN_a5JrsdS9aRlgzFH4bAEgrgnti2vHP8h134rM",
+    "location": "Ernakulam, Kerala, India",
+    "connections": "500+",
+    "summary": "I am seeking a challenging position with an esteemed organization to leverage my technical and professional skills, while working for the organization serving them in all the ways I could .\n\nI believe that I can be a good team player with the ability to work under minimum guidance especially when carrying out challenging assignments.\n\nI consider myself as a very ambitious, motivated, career oriented person, willing to accept challenges, energetic and result oriented, with excellent leadership abilities, and an active and hardworking person who is patient and diligent, with great adaptability to changing working conditions, able to adopt to the needs of different clients, with excellent interpersonal, negotiation and diplomatic skills, knowledgeable, and having tenacity of purpose.\n\n\nLanguages: Python, AngularJS, PolymerJS, JavaScript, Go, SQL, HTML5, Jython, Perl, CSS\n\nFrameworks: Django, Flask, Tornado\n\nPlatforms: Linux, Amazon Web Services (AWS), Google App Engine, Heroku, Windows, Mac OS X\n\nStorage: NoSQL, MongoDB, MySQL, PostgreSQL, Redis, Google Cloud SQL, Fusion Tables, Amazon S3, Google BigQuery\n\nVersion control systems (SVN, GIT, Mercurial)"
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "profileAlternative": {
+    "name": "Ben Fhala",
+    "headline": "Director Of Engineering at Discovery Inc",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQEivF4vebNCOA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=jHUCYK67NHFS__8412wyNcHSdZmW0MHHnO_Z6JD0OSM",
+    "location": "Brooklyn, New York",
+    "connections": "430",
+    "summary": "Ben discovered his passion for data visualization in the start of this century while he was working at Parsons in New York, in their data visualization department, PIIM. He is a published author and has published a book and 10’s of video courses (some of them can be found at 02skills.com ) and has been acknowledged by Adobe to join their advisory board and ACP list. He enjoys spending most of his time learning and teaching and has a love for abstraction, visual programming and visualization in general. Ben has had the honor of developing applications for members of the US Congress, Prime Ministers, and Presidents around the world. He has built many interactive experiences for companies such as Target, AT&T, Crayola, Marriott, Neutrogena, and Nokia. He has technically directed many award-winning projects and has been part of teams that have won three Agency of the Year awards.\n\nCurrently Ben is The Technology Director for the UI/UX teams at Discovery."
+  },
+  "aboutAlternative": {
+    "text": "Ben discovered his passion for data visualization in the start of this century while he was working at Parsons in New York, in their data visualization department, PIIM. He is a published author and has published a book and 10’s of video courses (some of them can be found at 02skills.com ) and has been acknowledged by Adobe to join their advisory board and ACP list. He enjoys spending most of his time learning and teaching and has a love for abstraction, visual programming and visualization in general. Ben has had the honor of developing applications for members of the US Congress, Prime Ministers, and Presidents around the world. He has built many interactive experiences for companies such as Target, AT&T, Crayola, Marriott, Neutrogena, and Nokia. He has technically directed many award-winning projects and has been part of teams that have won three Agency of the Year awards.\n\nCurrently Ben is The Technology Director for the UI/UX teams at Discovery."
+  },
+  "positions": [
+    {
+      "title": "Director Of Engineering",
+      "companyName": "Discovery Inc",
+      "location": "Greater New York City Area",
+      "description": "Leading multiple teams that are building mobile and CTV applications for Discovery networks. Managing a team of ~16 developers on site (plus ~20 offshore). Main technologies used: React Native, React, TypeScript, goLang, and JEST.",
+      "date1": "Mar 2019 – Present",
+      "date2": "9 mos"
+    },
+    {
+      "title": "Technology Director",
+      "companyName": "Everything Nice inc",
+      "description": "My own grass roots company. Main focus is online education solutions.",
+      "date1": "2008 – Present",
+      "date2": "11 yrs"
+    },
+    {
+      "title": "UI Tech Lead",
+      "companyName": "CLEAR (clearme.com)",
+      "location": "Greater New York City Area",
+      "description": "Manage a team of developers. User interface specialist and lead engineer. Hands on developer and UI team manager of clearme.com. The main technologies we interact with are Gatsby, React, Redux, Node/Express, Jest, Sonar, Bamboo and Dockers.",
+      "date1": "May 2018 – Mar 2019",
+      "date2": "11 mos"
+    },
+    {
+      "title": "Senior Technical Team Lead (Contract)",
+      "companyName": "Sapient",
+      "location": "Greater New York City Area",
+      "description": "Helping lead the client side team as the core architect and team lead for one of the most exclusive financial institutions.",
+      "date1": "Apr 2017 – Apr 2018",
+      "date2": "1 yr 1 mo"
+    },
+    {
+      "title": "Interactive Tech Lead (Contract)",
+      "companyName": "mcgarrybowen",
+      "description": "Helped lead interactive development of award winning websites and applications.",
+      "date1": "Jan 2009 – Oct 2010",
+      "date2": "1 yr 10 mos"
+    },
+    {
+      "title": "Interactive Tech Lead (Contract)",
+      "companyName": "JWT",
+      "description": "Fun things and really great people. Worked on Stride,Sudafed, Royal Caribbean and more.",
+      "date1": "Jan 2008 – Jan 2009",
+      "date2": "1 yr 1 mo"
+    },
+    {
+      "title": "Technology Director (Contract)",
+      "companyName": "Atmosphere BBDO",
+      "description": "Lead the solutions and implementation of all technical aspects of projects under my fold. Incredibly proud of the work we created . Leading efforts for Target, AT&T, Conservation International to name a few.",
+      "date1": "2007 – Apr 2008",
+      "date2": "1 yr"
+    },
+    {
+      "title": "Sr. Interactive Developer (Client side Lead)",
+      "companyName": "Parsons Institute for Information Mapping",
+      "description": "Leading the client side development for research and government on-line software. main focus is on visual data and representation of textual data in visuals and maps.",
+      "date1": "Sep 2006 – Jul 2007",
+      "date2": "11 mos"
+    },
+    {
+      "title": "Senior Interactive Developer",
+      "companyName": "Tribal DDB",
+      "description": "Leading the Interactive Development Production as an Interactive Developer. With a main focus on Video Broadcasting, interactive touch displays and online campaigns. Creating content for: Tribal DDB, Philips, Neutrogena, Clean & Clear, Cuervo and other applications that where nominated in numerous awards.",
+      "date1": "Jan 2006 – Aug 2006",
+      "date2": "8 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "The Open University of Israel",
+      "degree": "Master’s Degree",
+      "fieldofstudy": "Technologies and Learning Systems",
+      "date1": "2014",
+      "date2": "2017"
+    },
+    {
+      "title": "Ha'Universita Ha'Petuha",
+      "degree": "Bachelor of Science (BS)",
+      "fieldofstudy": "Political Science and Government",
+      "date1": "2001",
+      "date2": "2005"
+    }
+  ],
+  "skills": [
+    {
+      "title": "JavaScript",
+      "count": "17"
+    },
+    {
+      "title": "User Experience",
+      "count": "13"
+    },
+    {
+      "title": "HTML 5",
+      "count": "12"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "12",
+    "receivedCount": "38",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/mara-betsch-1326ab5/",
+        "text": "Ben and I worked together on several projects while at Discovery. He was tasked with hiring and mentoring a large number of engineers, and I watched him really invest in helping his team grow and develop. I watched him help one engineer gain confidence while helping another steadily increase his velocity and contributions to the pod. He was devoted to building a strong team and keeping them motivated despite a few changes in priorities in a short period in time. He was decisive, strategic, and a strong technical leader.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/eric-murray-87288713/",
+        "text": "I've had the pleasure of working as a developer with Ben in the past and recently as my boss. Ben has been gracious in both roles. There are many types of developers and only two types of bosses. As a developer Ben is meticulous in his process and deeply responsible in his actions. As a boss thankfully he takes the high road and has the maturity to guide his team with gravitas, that both facilitates and promotes each team member to feel proud of the work they have achieved. This is a rare talent in a boss these days. So thank you for your guidance and leadership. It goes without saying I fully recommend Ben to any company who wants a skillset of this level. I hope our paths will pass again in the future.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/stephanie-disturco-bb238a41/",
+        "text": "Ben was an excellent colleague from day one. He cared deeply about fostering change and growth with the company, and went out of his way to integrate himself into each team to do so. Ben is a go-getter and a problem-solver, and any team is lucky to have him."
+      },
+      {
+        "user": "https://www.linkedin.com/in/lancharles/",
+        "text": "In the time I've worked with Ben, I have been impressed by not only his technical skills but also his leadership. He is thoughtful, empathetic and measured when engaging with his team, leaders and stakeholders. He carries himself with integrity and professionalism. I would not hesitate to work with Ben in future."
+      },
+      {
+        "user": "https://www.linkedin.com/in/stephenhgillmore/",
+        "text": "It's been a pleasure to have had Ben as a colleague and friend. He is able to quickly distill down large, complex problems into smaller achievable tasks - a very useful skill to have when working in a fast paced environment with tons of ambiguity. Ben is thoughtful, energetic and devoted to his craft. I wouldn't hesitate to recommend him and have no doubt success will follow him where ever he goes.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/jamesrmaher/",
+        "text": "Ben would make a very good leader for any team. There are times for mentorship and times for execution - and Ben knows when is best for both. I enjoyed working with Ben from day one. He’s got a fantastic attitude toward elevating his team’s skill sets and team morale and is incredibly capable of solving complex problems in an efficient manner. He’s also got a knack for determining a vision and making it happen. I would absolutely work with Ben again, and I hope to cross paths in the future.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/vijaypunna9/",
+        "text": "Ben is the best JavaScript developer I have ever worked with. Working with Ben exposed me to deep concepts that are very hard to understand and implement. When the service was not so helpful, he could still mantain the UI with the ideal and reusable contracts and components by driving the UI with separate layers. Not only Ben was able to solve every problem we came across, he managed to do so in a manner that was elegant and forward thinking. He is a strong proponent of best practices and it shows in the quality of his code. Ben is a great person as well and I would not only consider him as the best developer, but a friend. I hope our professional paths cross again as it was an absolute pleasure to work with him.\n…\nSee more"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/vijaypunna9/",
+        "text": "Vijay is a talented hard working developer that strives to create better architectures.  While managing a development of a large framework on a team of 12+ developers, Vijay stood out as a valuable core developer, being a team player with a fundamental hunger to create better applications. While the project was moving very quickly, he stood out by working hard into the night to understand the underlying foundations of the project. With his hard work and dedication (and his great personality) he had a great impact on the project and I would gladly be a referral to him on any future endeavor he has.  \n\nI look foreword to working with him again in the future."
+      },
+      {
+        "user": "https://www.linkedin.com/in/nitee-shetty-615b8024/",
+        "text": "Nitee is a wonderful editor that goes out of her way to make things better. She is passionate about creating high quality projects and is always willing to invest the time to elevate creations.\r\n\r\nNitee is the type of editor you want on your team. I've had the pleasure of working with her on a few high grossing titles and i know a big part of their success where directly tied to her dedication and thinking the box. I hope to have her join my content development team in many more titles to come in the future."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "4",
+      "items": [
+        "Learning Full Stack React : complete Full stack development with React",
+        "Mastering JavaScript",
+        "Learning Object Oriented JavaScript",
+        "HTML5 Graphing & Data Visualization Cookbook"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "English",
+        "Hebrew"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "Learning Object-Oriented JavaScript [Video]",
+        "HTML5 Graphics & Data Visualization Cookbook"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/jamesor/",
+      "text": "Vice President, Software Engineering - Digital Media & Emerging Technology"
+    },
+    {
+      "user": "https://www.linkedin.com/in/lena-mills/",
+      "text": "Technical Recruiter at Discovery Inc"
+    },
+    {
+      "user": "https://www.linkedin.com/in/christine-liu-4a3b1a100/",
+      "text": "Software Engineer at Discovery Inc"
+    },
+    {
+      "user": "https://www.linkedin.com/in/danielcjoseph/",
+      "text": "Sr. Director, Product and Design at Discovery Inc"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sarah-sweat/",
+      "text": "Software Engineer at Discovery"
+    },
+    {
+      "user": "https://www.linkedin.com/in/soojung-holle-1666905/",
+      "text": "Sr. UX Designer at Discovery Communications"
+    },
+    {
+      "user": "https://www.linkedin.com/in/victor-cuascut-38940b21/",
+      "text": "Head of Infrastructure Technology"
+    },
+    {
+      "user": "https://www.linkedin.com/in/dragan-blagojevic/",
+      "text": "VP of Infrastructure at CLEAR (clearme.com)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/abigail-wright-83808313b/",
+      "text": "Creative Communications"
+    },
+    {
+      "user": "https://www.linkedin.com/in/margo-kornspan-ms-csm-37a4b25a/",
+      "text": "Technical Project Manager - Services at Discovery Inc"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Ben Fhala",
+    "headline": "Director Of Engineering at Discovery Inc",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQEivF4vebNCOA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=jHUCYK67NHFS__8412wyNcHSdZmW0MHHnO_Z6JD0OSM",
+    "location": "Brooklyn, New York",
+    "connections": "430",
+    "summary": "Ben discovered his passion for data visualization in the start of this century while he was working at Parsons in New York, in their data visualization department, PIIM. He is a published author and has published a book and 10’s of video courses (some of them can be found at 02skills.com ) and has been acknowledged by Adobe to join their advisory board and ACP list. He enjoys spending most of his time learning and teaching and has a love for abstraction, visual programming and visualization in general. Ben has had the honor of developing applications for members of the US Congress, Prime Ministers, and Presidents around the world. He has built many interactive experiences for companies such as Target, AT&T, Crayola, Marriott, Neutrogena, and Nokia. He has technically directed many award-winning projects and has been part of teams that have won three Agency of the Year awards.\n\nCurrently Ben is The Technology Director for the UI/UX teams at Discovery."
+  }
+}

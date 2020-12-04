@@ -1,0 +1,173 @@
+{
+  "profileAlternative": {
+    "name": "Bruno Carneiro",
+    "headline": "Senior Java Backend developer | OCP Java SE 8 Programmer",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQHZtPKzVC2AhQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=GpPYaCVfPAz2V7WYU2Fay5EG3_9LNwPt0EZKemhkfR4",
+    "location": "Cariacica, Espírito Santo, Brazil",
+    "connections": "500+",
+    "summary": "I’m interested in potentially transitioning to remote programming work. Let me know if you have an offer.\n\nProgramming since 2001. Currently studying for a master's degree in computer science while works as a Java and JavaScript developer at Accenture. Very interested in Functional Reactive Programming and natural language processing."
+  },
+  "aboutAlternative": {
+    "text": "I’m interested in potentially transitioning to remote programming work. Let me know if you have an offer.\n\nProgramming since 2001. Currently studying for a master's degree in computer science while works as a Java and JavaScript developer at Accenture. Very interested in Functional Reactive Programming and natural language processing."
+  },
+  "positions": [
+    {
+      "title": "Sr Java and JavaScript developer",
+      "companyName": "Spassu Tecnologia e Serviços",
+      "location": "Vitória Area, Brazil",
+      "date1": "Apr 2019 – Present",
+      "date2": "8 mos"
+    },
+    {
+      "title": "Application Development Analyst",
+      "companyName": "Accenture Brasil",
+      "location": "Vitória Area, Brazil",
+      "description": "Java Developer and JavaScript Developer. Developing web applications using tools/technologies like Spring, Struts, Maven, JSF, Oracle DB, Git and VSTS.",
+      "date1": "Dec 2014 – Apr 2019",
+      "date2": "4 yrs 5 mos"
+    },
+    {
+      "title": "Web Developer",
+      "companyName": "Infobase IT",
+      "location": "Vitória Area, Brazil",
+      "description": "Web Developer with Java Struts.",
+      "date1": "Apr 2013 – Nov 2014",
+      "date2": "1 yr 8 mos"
+    },
+    {
+      "title": "Graduate Student Researcher",
+      "companyName": "UFES - Universidade Federal do Espírito Santo",
+      "location": "Vitória Area, Brazil",
+      "description": "Build ontology models using the language Onto-UML in the Research Lab NEMO. (https://nemo.inf.ufes.br/)",
+      "date1": "Dec 2011 – Mar 2013",
+      "date2": "1 yr 4 mos"
+    },
+    {
+      "title": "Flash Flex Developer",
+      "companyName": "MySelf (as an independent consultant)",
+      "location": "Vitória Area, Brazil",
+      "description": "Worked as an freelancer developer building systems using Flash Flex and PHP. From the requirements to the implementation.",
+      "date1": "Jul 2009 – Nov 2011",
+      "date2": "2 yrs 5 mos"
+    },
+    {
+      "title": "Web Developer",
+      "companyName": "Maxis Media",
+      "description": "I work building web based systems and websites, e-commerce and content managers.",
+      "date1": "Jan 2009 – Jun 2009",
+      "date2": "6 mos"
+    },
+    {
+      "title": "Web Developer",
+      "companyName": "Modelab",
+      "description": "I worked with e-learning websites.\n\nActivities with php, mysql, ajax.",
+      "date1": "Jan 2008 – Jun 2008",
+      "date2": "6 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Universidade Federal do Espírito Santo (Oficial)",
+      "degree": "Master's degree",
+      "fieldofstudy": "Computer Science",
+      "date1": "2018",
+      "date2": "2020"
+    },
+    {
+      "title": "Universidade Federal do Espírito Santo (Oficial)",
+      "degree": "Bachelor's Degree",
+      "fieldofstudy": "Computer Science",
+      "date1": "2006",
+      "date2": "2012"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Java",
+      "count": "2"
+    },
+    {
+      "title": "SQL",
+      "count": "1"
+    },
+    {
+      "title": "Git",
+      "count": "1"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "1",
+    "receivedCount": "1",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/eneiasbrumjr/",
+        "text": "Bruno é extremamente competente e esforçado, sempre buscando conhecimento acerca da sua especialidade, também é um bom acadêmico, possuí expertise tanto no meio industrial quanto acadêmico."
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/eneiasbrumjr/",
+        "text": "Enéias é um professional sério em constante busca por crescimento."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "1",
+      "items": [
+        "Accenture"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/charlesluxinger/",
+      "text": "Java Developer at PicPay and Cyber Security Enthusiast"
+    },
+    {
+      "user": "https://www.linkedin.com/in/vanessa-formigoni-59260213b/",
+      "text": "Backend Java | PicPay"
+    },
+    {
+      "user": "https://www.linkedin.com/in/maurides-carlos-oliveira-j%C3%BAnior-3b8aab156/",
+      "text": "Estagiário na Vale"
+    },
+    {
+      "user": "https://www.linkedin.com/in/james-alves-bab7b930/",
+      "text": "MSc Student | BSc Computer Science | BI Analyst"
+    },
+    {
+      "user": "https://www.linkedin.com/in/willian-tomezaki-889795166/",
+      "text": "Javascript Developer at SAP"
+    },
+    {
+      "user": "https://www.linkedin.com/in/leaf-pjunior/",
+      "text": "Owner Leaf Consultoria"
+    },
+    {
+      "user": "https://www.linkedin.com/in/darciost/",
+      "text": "CoFounder e Chief People Officer na PicPay"
+    },
+    {
+      "user": "https://www.linkedin.com/in/juliana-guimar%C3%A3es-2314b348/",
+      "text": "Analista Funcional"
+    },
+    {
+      "user": "https://www.linkedin.com/in/eliomar-dourado-vieira-203958192/",
+      "text": "Cursando Análise e Desenvolvimento de Sistemas"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tiago-henrique-queiroz-315aba187/",
+      "text": "Programador web na Quality Automação"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Bruno Carneiro",
+    "headline": "Senior Java Backend developer | OCP Java SE 8 Programmer",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQHZtPKzVC2AhQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=GpPYaCVfPAz2V7WYU2Fay5EG3_9LNwPt0EZKemhkfR4",
+    "location": "Cariacica, Espírito Santo, Brazil",
+    "connections": "500+",
+    "summary": "I’m interested in potentially transitioning to remote programming work. Let me know if you have an offer.\n\nProgramming since 2001. Currently studying for a master's degree in computer science while works as a Java and JavaScript developer at Accenture. Very interested in Functional Reactive Programming and natural language processing."
+  }
+}

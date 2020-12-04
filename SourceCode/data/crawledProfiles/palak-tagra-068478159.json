@@ -1,0 +1,162 @@
+{
+  "profileAlternative": {
+    "name": "Palak Tagra",
+    "headline": "Full Stack Python Developer",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQEVsri1E4zEsg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=XcCbj_C2Ztj7__CCj8kNohkQmUoNz9cargC8noWl-d8",
+    "location": "New York, New York",
+    "connections": "500+",
+    "summary": "• Over 6+ years of IT experience in analysis, design, development, implementation and testing of various stand-alone and client-server architecture based enterprise application software in Python on various domains.\n• Experience with container-based deployments using Docker, working with Docker images, Docker Hub and Docker registries and Kubernetes.\n• Handy Experience in developing web applications implementing Model View Control architecture using Django, Flask, and Spring web application framework Experience in working on Google App Engine and its configurations.\n• Good experience in developing web applications and implementing Model View Control (MVC) architecture using server-side applications like Django, Flask and Pyramid.\n• Good Experience in working with Python ORM Libraries including Django ORM, SQLAlchemy.\n• Strong Java database CRUD operations on MySQL, MS SQL Server\n• Strong expertise in development of web based applications using Python, Java, HTML, XML, KML, HTML 5, CSS, DHTML, JavaScript, Mongo DB, HighCharts, JSON and jQuery. Good knowledge over Core Java and Object-Oriented Programming using concepts like Multi-Threading, Exception Handling and Collections.\n• Proficient using Python packages such as Numpy, SciPy, Requests, matPlotLib, Pickle, Pandas, PySide, WxPython, QT, Tkinter, PyQt, PyTables and Scikit-learn.\n• Good Experience on front end frameworks like AngularJs Experience in developing web-based applications using Python 2.7/2.6/3, Django 1.4/1.3.\n• Skilled experience in Python with using new tools and technical developments (libraries used: libraries-Beautiful Soup, Numpy, SciPy, matPlotLib, Pickle, PySide, Pandas data frame, networkx, urllib2, PyCharts, HighCharts) to drive improvements throughout entire SDLC.\n• Handy experience in working with various Python Integrated Development Environments like NetBeans, PyCharm, PyScripter, PyDev for Eclipse."
+  },
+  "aboutAlternative": {
+    "text": "• Over 6+ years of IT experience in analysis, design, development, implementation and testing of various stand-alone and client-server architecture based enterprise application software in Python on various domains.\n• Experience with container-based deployments using Docker, working with Docker images, Docker Hub and Docker registries and Kubernetes.\n• Handy Experience in developing web applications implementing Model View Control architecture using Django, Flask, and Spring web application framework Experience in working on Google App Engine and its configurations.\n• Good experience in developing web applications and implementing Model View Control (MVC) architecture using server-side applications like Django, Flask and Pyramid.\n• Good Experience in working with Python ORM Libraries including Django ORM, SQLAlchemy.\n• Strong Java database CRUD operations on MySQL, MS SQL Server\n• Strong expertise in development of web based applications using Python, Java, HTML, XML, KML, HTML 5, CSS, DHTML, JavaScript, Mongo DB, HighCharts, JSON and jQuery. Good knowledge over Core Java and Object-Oriented Programming using concepts like Multi-Threading, Exception Handling and Collections.\n• Proficient using Python packages such as Numpy, SciPy, Requests, matPlotLib, Pickle, Pandas, PySide, WxPython, QT, Tkinter, PyQt, PyTables and Scikit-learn.\n• Good Experience on front end frameworks like AngularJs Experience in developing web-based applications using Python 2.7/2.6/3, Django 1.4/1.3.\n• Skilled experience in Python with using new tools and technical developments (libraries used: libraries-Beautiful Soup, Numpy, SciPy, matPlotLib, Pickle, PySide, Pandas data frame, networkx, urllib2, PyCharts, HighCharts) to drive improvements throughout entire SDLC.\n• Handy experience in working with various Python Integrated Development Environments like NetBeans, PyCharm, PyScripter, PyDev for Eclipse."
+  },
+  "positions": [
+    {
+      "title": "Full Stack Python Developer",
+      "companyName": "Bloomberg LP",
+      "location": "NYC,NY",
+      "description": "• Performed data migration and developed Python / Django based web application, Postgre SQLDB, and integrations with 3rd party email, messaging, storage services.\n• Python Object Oriented Design code for manufacturing quality, monitoring, logging, and debugging code optimization.\n• Validated huge data and worked on python backend scripting\n• A Django dashboard with custom look and feel for end user has been created after a careful study of the Django admin site and dashboard.\n• Emphasis on using MVC frameworks, building full CRUD apps and RESTful APIs.\n• Used Django configuration to manage URLs and application parameters.\n• Worked on Python Open stack API's.\n• Used Python scripts to update content in the database and manipulate files.\n• Generated Python Django Forms to record data of online users.\n• Used Python and Django creating graphics, XML processing, data exchange and business logic implementation.\n• Involved in back end development using Python with framework Flask\n• Used Pandas API to put the data as time series and tabular format for east timestamp data manipulation and retrieval.\n• Added support for Amazon AWS S3 and RDS to host static/media files and the database into Amazon Cloud.\n• Developed tools using Python, Shell scripting, XML to automate some of the menial tasks. Interfacing with supervisors, artists, systems administrators and production to ensure production deadlines are met.\n• Having experienced in Agile Methodologies, Scrum stories and sprints experience in a Python based environment, along with data analytics, data wrangling and Excel data extracts.\n• Experience in using various version control systems like CVS, Git, GitHub and deployment using Amazon EC2.\n…\nsee more",
+      "date1": "Mar 2017 – Present",
+      "date2": "2 yrs 9 mos"
+    },
+    {
+      "title": "Full Stack Python Developer.",
+      "companyName": "Southern Company",
+      "location": "Greater Atlanta Area",
+      "description": "• Develop, test, deploy and maintain the application.\n• Developed web-based applications using Python 2.7/2.6, Django 1.4/1.3, PHP, Flask, Webapp2, Angular.js, VB, C++, XML, CSS, HTML, DHTML, JavaScript and jQuery.\n• Worked with UI team to maintain and monitor the application using JAVA and Python.\n• Tested entire frontend and backend modules using Python on Django Web Framework.\n• Rewrite existing Java application in Python module to deliver certain format of data.\n• Wrote Python scripts to parse csv files and load the data in database.\n• Generated property list for every application dynamically using Python.\n• Designed test cases and test plans, and developed an embedded software data driven test automation framework in Linux/Python.\n• Worked on resulting reports of the application and Tableau reports.\n• Worked on HTML5, CSS3, JavaScript, Git, REST API, Mongo DB, intelliJ IDEA.\n• Developed automated testing framework for command-line based tests on Linux using Objected Oriented Perl and for selenium-based tests using Python.\n• Creating unit test/regression test framework for working/new code.\n• Using Subversion version control tool to coordinate team-development.\n• AGILE development process has been followed. Experienced with stand-up, Retrospective, Demo, Planning and Code Review meetings.\n\n…\nsee more",
+      "date1": "Mar 2015 – Feb 2017",
+      "date2": "2 yrs"
+    },
+    {
+      "title": "PYTHON DEVELOPER",
+      "companyName": "PNC",
+      "location": "Cleveland/Akron, Ohio Area",
+      "description": "• Generated Python Django Forms to record data of online users.\n• Created PHP/MySQL back-end for data entry from Flash.\n• Developed monitoring and notification tools using Python.\n• Created Data tables utilizing PyQt to display patient and policy information and add, delete, update patient records.\n• Wrote Python routines to log into the websites and fetch data for selected options.\n• Performed testing using Django's Test Module. Involved in Unit testing and Integration testing.\n• Designed Cassandra schema for the APIs.\n• Handled all the client-side validation using JavaScript.\n• Good experience with Oops concepts.\n• Designed and created backend data access modules using PL/SQL stored procedures and Oracle.\n• Good experience in writing SQL Queries and implementing stored procedures, functions, packages, tables, views, Cursors, triggers.\n• Experience in using collections in Oracle for manipulating and looping through different user defined objects.\n• Developed Python/Django application for Google Analytics aggregation and reporting.\n• Developed and executed User Acceptance Testing portion of test plan.\n• Generated Python Django forms to record data of online users and used PyTest for writing test cases.\n• Involved in capturing the requirements for serial functional interface and other software requirements specification document.\n• Responsible for generating and delivering the complete test status reports of each patient.\n\n…\nsee more",
+      "date1": "Jul 2013 – Feb 2015",
+      "date2": "1 yr 8 mos"
+    },
+    {
+      "title": "PYTHON DEVELOPER",
+      "companyName": "Bancorp Bank South",
+      "location": "Garrison, TX.",
+      "description": "• Participated in the complete SDLC process and used PHP to develop website functionality.\n• Designed and developed the UI of the website using HTML, XHTML, AJAX, CSS and JavaScript.\n• Developed entire frontend and backend modules using Python on Django Web Framework.\n• Designed and developed Use-Case, Class and Object Diagrams using UML Rational Rose for Object Oriented Analysis Object Oriented Design techniques.\n• Designed and developed data management system using MySQL. Built application logic using Python 2.7.\n• Used Django APIs for database access.\n• Provided GUI utilizing PyQt for the end user to create, modify and view reports based on client data.\n• Angular.js is used to build efficient backend for client web application.\n• Used Python to extract information from XML files.\n• Participated in requirement gathering and worked closely with the architect in designing and modeling.\n• Experience in writing Sub Queries, Stored Procedures, Triggers, Cursors, and Functions on MySQL, MS SQL, Oracle and MongoDB database.\n• Worked on development of SQL and stored procedures on MYSQL.\n• Developed shopping cart for Library and integrated web services to access the payment (E-commerce).\n• Designed and developed a horizontally scalable APIs using Python Flask\n• Designed Cassandra schema for the APIs.\n• Implemented monitoring and established best practices around using elastic search.\n• Responsible for setting up Angular JS framework for UI development. Developed html views with HTML, CSS, JSON and Angular JS, Adobe flash.\n• Effectively communicated with the external vendors to resolve queries.\n• Used GIT, SVN and CVS for the version control.\n\n…\nsee more",
+      "date1": "May 2012 – Jun 2013",
+      "date2": "1 yr 2 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Kurukshetra University",
+      "degree": "Bachelor's degree",
+      "fieldofstudy": "Computer Science",
+      "date1": "2006",
+      "date2": "2010"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Python",
+      "count": "10"
+    },
+    {
+      "title": "Django",
+      "count": "7"
+    },
+    {
+      "title": "Amazon Web Services (AWS)",
+      "count": "7"
+    },
+    {
+      "title": "MySQL",
+      "count": "2"
+    },
+    {
+      "title": "JavaScript"
+    },
+    {
+      "title": "HTML"
+    },
+    {
+      "title": "SQL"
+    },
+    {
+      "title": "Git"
+    },
+    {
+      "title": "HTML5"
+    },
+    {
+      "title": "Linux"
+    },
+    {
+      "title": "Java"
+    },
+    {
+      "title": "jQuery"
+    },
+    {
+      "title": "AJAX"
+    },
+    {
+      "title": "Cascading Style Sheets (CSS)"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/keitheberle/",
+      "text": "Python Developer at Advance Digital"
+    },
+    {
+      "user": "https://www.linkedin.com/in/victoriagnip/",
+      "text": "Python Full Stack Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/drew-joshu-904597186/",
+      "text": "Python Developer at Deutsche Bank - New York, NY"
+    },
+    {
+      "user": "https://www.linkedin.com/in/vladimirgosha/",
+      "text": "Full-stack Python developer. Looking for opportunities."
+    },
+    {
+      "user": "https://www.linkedin.com/in/tushar-teji-4268b6171/",
+      "text": "Python Developer at Nielson Communications, Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/bharat-c-b27a22171/",
+      "text": "UI Lead/ Python Developer at Capital One"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ekta-chauhan-42a351160/",
+      "text": "Python , Angular and AWS Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/elena-volskaia/",
+      "text": "Software Engineer at American Express"
+    },
+    {
+      "user": "https://www.linkedin.com/in/gusthedev/",
+      "text": "Python Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/vishnu-kochar-4b9bba104/",
+      "text": "Lead Java/Python Developer"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Palak Tagra",
+    "headline": "Full Stack Python Developer",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQEVsri1E4zEsg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=XcCbj_C2Ztj7__CCj8kNohkQmUoNz9cargC8noWl-d8",
+    "location": "New York, New York",
+    "connections": "500+",
+    "summary": "• Over 6+ years of IT experience in analysis, design, development, implementation and testing of various stand-alone and client-server architecture based enterprise application software in Python on various domains.\n• Experience with container-based deployments using Docker, working with Docker images, Docker Hub and Docker registries and Kubernetes.\n• Handy Experience in developing web applications implementing Model View Control architecture using Django, Flask, and Spring web application framework Experience in working on Google App Engine and its configurations.\n• Good experience in developing web applications and implementing Model View Control (MVC) architecture using server-side applications like Django, Flask and Pyramid.\n• Good Experience in working with Python ORM Libraries including Django ORM, SQLAlchemy.\n• Strong Java database CRUD operations on MySQL, MS SQL Server\n• Strong expertise in development of web based applications using Python, Java, HTML, XML, KML, HTML 5, CSS, DHTML, JavaScript, Mongo DB, HighCharts, JSON and jQuery. Good knowledge over Core Java and Object-Oriented Programming using concepts like Multi-Threading, Exception Handling and Collections.\n• Proficient using Python packages such as Numpy, SciPy, Requests, matPlotLib, Pickle, Pandas, PySide, WxPython, QT, Tkinter, PyQt, PyTables and Scikit-learn.\n• Good Experience on front end frameworks like AngularJs Experience in developing web-based applications using Python 2.7/2.6/3, Django 1.4/1.3.\n• Skilled experience in Python with using new tools and technical developments (libraries used: libraries-Beautiful Soup, Numpy, SciPy, matPlotLib, Pickle, PySide, Pandas data frame, networkx, urllib2, PyCharts, HighCharts) to drive improvements throughout entire SDLC.\n• Handy experience in working with various Python Integrated Development Environments like NetBeans, PyCharm, PyScripter, PyDev for Eclipse."
+  }
+}

@@ -1,0 +1,299 @@
+{
+  "profileAlternative": {
+    "name": "Tariq Mahmood",
+    "headline": "Python Developer at Collabera Inc./Bank of America",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQGzHbc-1_2wnw/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=soa5vMZreRTd2zS-HC7FyFM93wHtuTkW4kMFcz6sHj4",
+    "location": "Carrollton, Texas",
+    "connections": "258",
+    "summary": "Passionate and enthusiastic team player who loves to solve interesting problems and transform complication into simplicity. Proficient in Python, C++, data structure & algorithm, deep learning, web-development, and relevant technologies. Skilled engineering professional with a Master's degree focused on Computer Science from the University of Bridgeport."
+  },
+  "aboutAlternative": {
+    "text": "Passionate and enthusiastic team player who loves to solve interesting problems and transform complication into simplicity. Proficient in Python, C++, data structure & algorithm, deep learning, web-development, and relevant technologies. Skilled engineering professional with a Master's degree focused on Computer Science from the University of Bridgeport."
+  },
+  "positions": [
+    {
+      "title": "Python Developer",
+      "companyName": "Collabera Inc./Bank of America",
+      "location": "Addison, Texas",
+      "description": "- Developing the existing application features based on Python Django Framework using MVC design pattern.\n- Improving Views and Templates with Django's view controller and templating language to create a user-friendly website interface.\n- Creating Scripts to migrate data from Proprietary Database to MySQL.\n- Working extensively with Bootstrap, JavaScript and React JS to optimize the user experience.\n- Handling all the Client-Side Validation using JavaScript.\n- Hands-on experience working with Pandas and other python libraries.\n- Experiencing in a Python-based environment, along with Data Analytics, Data Wrangling and Excel Data extracts.\n- Contributing to team discussion to progress project design and implementation.\n- Performing Unit testing, system testing and User Acceptance Test.\n- Creating Test cases & Stories during two-week sprints using Agile Methodology.\n- Working on existing complex solutions with minimal technical debt. Developing solutions that are easy to deploy, maintain and are bug-free.\n- Working directly with Product Owners, Stakeholders, developers to plan and identify the project’s requirements in order to fulfill bank & customers demand.\n- Strictly following and improving established processes for Software Development Life Cycle (SDLC) with an Agile approach to deliver software before the due date.\n- Performing on data Retrieval and data Manipulation at large scale.\n- Creating re-usable patterns, frameworks, and components for scalable Enterprise quality solutions.\n- Implementing proof of concept, Prototypes and Production-grade software.\n- Have good experience of working with version controls like git.\n- Using Jira and confluence to assign, track, report and audit the issues in the application.\n…\nsee more",
+      "date1": "May 2019 – Present",
+      "date2": "7 mos"
+    },
+    {
+      "title": "Back End Developer",
+      "companyName": "Cabiy",
+      "location": "Greater New York City Area",
+      "description": "- Working in a team environment with CTO & senior developers and product team.\n- Developing the existing application features based on Python Django Framework using MVC design pattern.\n- Integrate third-party API and develop REST API using Django Rest Framework.\n- Proficient in writing SQL Queries, stored procedures, functions, packages, tables, views, triggers using relational databases like PostgreSQL, MySQL.\n- Manage, develop, and design a Dashboard control panel for Customers and Administrators using Django, HTML, Bootstrap, and REST API.\n- Use JWT, Django security, and, OAuth2 to ensure REST endpoints are secure.\n- Implement Aspect Oriented Programming for solving cross-cutting concerns such as logging, transactions and security improvement.\n- Work with team members in establishing, designing and development techniques of the ETL process.\n- Expertise in Infrastructure Development and Operations involving AWS Cloud platforms.\n- Using SSH for authentication and managing systems administrative task remotely.\n- Strongly follow TDD and write test code before adding new functionality.\n- Extensively involve in functionality testing to resolve data integrity related issues and system enhancements.\n- Optimize the interaction between application and database using ORMs/DOMs.\n- Scripting for backup jobs and other SQL administered tasks.\n- Working on a complete Software Development Life Cycle (SDLC) environment, such as requirements gathering, analysis, design, implementation, testing, integration, deployment, and maintenance.\n- Use Postman to test the rest endpoints in the development phase.\n- Follow Agile principle to implement the projects using two-weeks sprints, planning, meeting, daily standups, grooming, estimation, and retrospectives.\n- Use Jira and confluence to assign, track, report and audit the issues in the application.\n\n…\nsee more",
+      "date1": "Feb 2018 – Apr 2019",
+      "date2": "1 yr 3 mos"
+    },
+    {
+      "title": "Software developer",
+      "companyName": "ReformedTech",
+      "location": "Bangladesh",
+      "description": "- Worked on various projects from medium to large as a team.\n- Created application based on service-oriented architecture and used Python 2.7, 3 & Django 1.1, 1.5.\n- Designed and maintained databases using Python and developed Python-based API (Restful Web Service) using Flask, SQL Alchemy, and PostgreSQL.\n- Developed and consumed RESTful web services using Django MVC.\n- Used version control and added support for Amazon AWS S3 and RDS to host static/media files and the database into Amazon cloud.\n- Computed the user and client-side validations using Django forms and, JavaScript.\n- Involved in requirement-gathering, analysis, design, development, testing, and maintenance with TDD approach.\n- Developed custom Object-Oriented Python code to drive dynamic parts of web applications.\n- Maintained and Deployed web apps in Amazon Web Services.\n- Built architecting and modeling solutions with tech team as part of SOA.\n- Provided deployment support and production support.\n- Used GitHub for version-control, Jenkins for CI&CD.\n- Worked extensively with Bootstrap, JavaScript, and JQuery to optimize user experience.\n- Carried out various mathematical operations, graphical reports, visualization using Python packages like numpy,\nmatplotlib, pandas, etc.\n- Involved in the code review team to optimize application performance and efficiency.\n- Used Agile methodology and participated in Scrum meetings.\n- Troubleshooted and debugged existing applications and various issues.\n\n…\nsee more",
+      "date1": "Sep 2014 – Nov 2016",
+      "date2": "2 yrs 3 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "University of Bridgeport",
+      "degree": "Master's degree",
+      "fieldofstudy": "Computer Science",
+      "date1": "2017",
+      "date2": "2018"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Data Structures",
+      "count": "7"
+    },
+    {
+      "title": "Algorithms",
+      "count": "6"
+    },
+    {
+      "title": "Big Data",
+      "count": "7"
+    },
+    {
+      "title": "Web Development",
+      "count": "8"
+    },
+    {
+      "title": "Cloud Computing",
+      "count": "5"
+    },
+    {
+      "title": "Object-Oriented Programming (OOP)",
+      "count": "7"
+    },
+    {
+      "title": "Network Security",
+      "count": "1"
+    },
+    {
+      "title": "Project Engineering",
+      "count": "1"
+    },
+    {
+      "title": "Packaging Design",
+      "count": "2"
+    },
+    {
+      "title": "Front-end Development"
+    },
+    {
+      "title": "Troubleshooting"
+    },
+    {
+      "title": "Extract, Transform, Load (ETL)"
+    },
+    {
+      "title": "Agile Methodologies"
+    },
+    {
+      "title": "Scrum"
+    },
+    {
+      "title": "Scripting"
+    },
+    {
+      "title": "Software Development Life Cycle (SDLC)"
+    },
+    {
+      "title": "Web Applications"
+    },
+    {
+      "title": "Python",
+      "count": "6"
+    },
+    {
+      "title": "C++",
+      "count": "3"
+    },
+    {
+      "title": "MySQL",
+      "count": "5"
+    },
+    {
+      "title": "Git",
+      "count": "7"
+    },
+    {
+      "title": "CSS",
+      "count": "2"
+    },
+    {
+      "title": "Java",
+      "count": "1"
+    },
+    {
+      "title": "Eclipse"
+    },
+    {
+      "title": "Linux",
+      "count": "2"
+    },
+    {
+      "title": "Django",
+      "count": "3"
+    },
+    {
+      "title": "JavaScript"
+    },
+    {
+      "title": "HTML"
+    },
+    {
+      "title": "C (Programming Language)"
+    },
+    {
+      "title": "SQL",
+      "count": "2"
+    },
+    {
+      "title": "JIRA"
+    },
+    {
+      "title": "MongoDB"
+    },
+    {
+      "title": "Amazon Web Services (AWS)"
+    },
+    {
+      "title": "Representational State Transfer (REST)"
+    },
+    {
+      "title": "HTML5"
+    },
+    {
+      "title": "PostgreSQL"
+    },
+    {
+      "title": "Flask"
+    },
+    {
+      "title": "REST API"
+    },
+    {
+      "title": "Analysis of Algorithms",
+      "count": "3"
+    },
+    {
+      "title": "Deep Learning",
+      "count": "2"
+    },
+    {
+      "title": "Data Communication"
+    },
+    {
+      "title": "Advanced Database",
+      "count": "2"
+    },
+    {
+      "title": "Middleware"
+    },
+    {
+      "title": "Software Architecture"
+    },
+    {
+      "title": "API Development"
+    },
+    {
+      "title": "Agile Environment"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "10",
+      "items": [
+        "Advanced Database",
+        "Analysis of Algorithms",
+        "Big Data Analysis",
+        "CCNA",
+        "Cloud Computing",
+        "Data & Computer Communication",
+        "Deep Learning",
+        "Network Security",
+        "Object Oriented Programming with Design Pattern",
+        "Operating System"
+      ]
+    },
+    {
+      "count": "5",
+      "items": [
+        "Automated file backup & synchronization between cloud (AWS) S3 and end devices.",
+        "Fully Functional stock market website.",
+        "An extensive data analysis on yelp dataset for business purpose.",
+        "UB library room reservation system using RDBMS (MySQL) and WSGI server using Flask Framework for Python with html and JavaScript Client.",
+        "Created a portable file system (PFS) using linked allocation method."
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "English"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/mindy-mcginn-cfp%C2%AE-3371542/",
+      "text": "First Vice President-Wealth Management, Financial Advisor at Morgan Stanley"
+    },
+    {
+      "user": "https://www.linkedin.com/in/faraz-malik-184694167/",
+      "text": "Senior Python Developer at Halliburton"
+    },
+    {
+      "user": "https://www.linkedin.com/in/spring21/",
+      "text": "Sr Java Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/anoop-sama-153811147/",
+      "text": "Senior Python Developer at Cox Automotive Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/pamela-gaines-937687/",
+      "text": "Software Delivery Manager at Southwest Airlines"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sai-allala/",
+      "text": "Full Stack Web Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/pathakprachi/",
+      "text": "Software development lifecycle experience, including designing, developing and implementing test processes."
+    },
+    {
+      "user": "https://www.linkedin.com/in/adelina-kainer-bb9a271/",
+      "text": "Account Executive, Principal at Apex Systems"
+    },
+    {
+      "user": "https://www.linkedin.com/in/anoosha-d-2a8a54172/",
+      "text": "Python Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ross-pecson/",
+      "text": "\"Strive not to be a success, but rather to be of value.\" -Albert Einstein"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Tariq Mahmood",
+    "headline": "Python Developer at Collabera Inc./Bank of America",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQGzHbc-1_2wnw/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=soa5vMZreRTd2zS-HC7FyFM93wHtuTkW4kMFcz6sHj4",
+    "location": "Carrollton, Texas",
+    "connections": "258",
+    "summary": "Passionate and enthusiastic team player who loves to solve interesting problems and transform complication into simplicity. Proficient in Python, C++, data structure & algorithm, deep learning, web-development, and relevant technologies. Skilled engineering professional with a Master's degree focused on Computer Science from the University of Bridgeport."
+  }
+}

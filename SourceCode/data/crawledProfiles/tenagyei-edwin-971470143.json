@@ -1,0 +1,120 @@
+{
+  "profileAlternative": {
+    "name": "Tenagyei Edwin",
+    "headline": "Student at University of Electronic Science and Technology",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQE_MsYM_eO69g/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=4IcNWdkSSNh5OgH5gV4mYMiEVhN0nCjYqyS4HgzfOyw",
+    "location": "Chengdu City, Sichuan, China",
+    "connections": "126"
+  },
+  "aboutAlternative": {},
+  "positions": [
+    {
+      "title": "Java and JavaScript Programmer",
+      "companyName": "Coding First",
+      "date1": "Apr 2018 – Present",
+      "date2": "1 yr 8 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "University of Electronic Science and Technology of China",
+      "degree": "Master's degree",
+      "fieldofstudy": "Software Engineering",
+      "date1": "2019",
+      "date2": "2021"
+    },
+    {
+      "title": "University of Electronic Science and Technology",
+      "date1": "2015",
+      "date2": "2019"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Research"
+    },
+    {
+      "title": "Programming"
+    },
+    {
+      "title": "Teamwork"
+    },
+    {
+      "title": "Object-Oriented Programming (OOP)"
+    },
+    {
+      "title": "Machine Learning"
+    },
+    {
+      "title": "Python (Programming Language)"
+    },
+    {
+      "title": "User Interface Prototyping"
+    },
+    {
+      "title": "Deep Learning"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "1",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/sergehovnanian/",
+        "text": "Having Edwin do his internship with us was very helpful, fun and rewarding to our company. Not only did he teach students but he also did assist our teachers deliver courses. Edwin also helped us through his expertise in Java and JavaScript develop some solid curriculum that became an integral part of our course. Edwin mainly focused his internship on Virtual Reality game development using JavaScript and also on developing a Java curriculum for our training school. Edwin can be a very valuable team member and asset for any specialized programming company.\n…\nSee more"
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/robert-nana-katakyie-appiah-kubi-0a22b2159/",
+      "text": "Founder and CEO at Godstar Company Limited"
+    },
+    {
+      "user": "https://www.linkedin.com/in/%E9%9B%AA%E6%99%B4-%E7%8E%8B-91b618168/",
+      "text": "中国科学技术大学学生"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jacob-palmer-9b335716b/",
+      "text": "Student at University of Guelph"
+    },
+    {
+      "user": "https://www.linkedin.com/in/anthonyfekete/",
+      "text": "Software Engineering Student"
+    },
+    {
+      "user": "https://www.linkedin.com/in/anisshv/",
+      "text": "Looking for Winter '20 Data Science Internships"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mohamed-mohyeldin-266135105/",
+      "text": "Student at University of Guelph"
+    },
+    {
+      "user": "https://www.linkedin.com/in/david-amankona-b-ed-msc-7293a0ba/",
+      "text": "student : university of electronic science and technology of china"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jan-dohring/",
+      "text": "Honours Computer Science at UWaterloo"
+    },
+    {
+      "user": "https://www.linkedin.com/in/charmi-patel-7a321015a/",
+      "text": "Billing Clerk at TOMATO KING 2010 INC"
+    },
+    {
+      "user": "https://www.linkedin.com/in/anastasia-micic-a697a9149/",
+      "text": "Student at University of Guelph"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Tenagyei Edwin",
+    "headline": "Student at University of Electronic Science and Technology",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQE_MsYM_eO69g/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=4IcNWdkSSNh5OgH5gV4mYMiEVhN0nCjYqyS4HgzfOyw",
+    "location": "Chengdu City, Sichuan, China",
+    "connections": "126"
+  }
+}

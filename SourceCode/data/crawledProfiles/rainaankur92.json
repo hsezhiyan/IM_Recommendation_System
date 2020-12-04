@@ -1,0 +1,393 @@
+{
+  "profileAlternative": {
+    "name": "Ankur Raina",
+    "headline": "Works @ mongoDB (Company) on mongoDB (Product & Ecosystem) for mongoDB (Customers & Community) :)",
+    "imageurl": "https://media.licdn.com/dms/image/C5103AQEmkRK185L4eg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=01eDjFy4JoiDE-xXJY2ghhDFuN5k6bFavQvL2jVtsk4",
+    "location": "Gurgaon, Haryana, India",
+    "connections": "500+",
+    "summary": "I do pseudorandom things at random times and \"all things MongoDB\". I love databases in general.\n\nSoftware engineer & consultant with special focus on understanding & working of applications with scalable and high performance databases. My interests & work represent an excellent mix of cloud first technology, business & customer relationship.\n\nI have talked about databases & tech in general at MongoDB World 2019 in New York, MongoDB .Local 2018 & 19 in Bengaluru, and several colleges and universities in India. I also spearheaded the restart and growth of MongoDB User Group meetups in India. As part of this initiative, I talked about MongoDB ecosystem in several meetups organised at MongoDB offices or user companies like Adobe, Orange, Expedia, UrbanClap, To The New, Darwinbox etc.\n\n\"Open for non-profit technology talks, conferences and seminars. Drop a message.\""
+  },
+  "aboutAlternative": {
+    "text": "I do pseudorandom things at random times and \"all things MongoDB\". I love databases in general.\n\nSoftware engineer & consultant with special focus on understanding & working of applications with scalable and high performance databases. My interests & work represent an excellent mix of cloud first technology, business & customer relationship.\n\nI have talked about databases & tech in general at MongoDB World 2019 in New York, MongoDB .Local 2018 & 19 in Bengaluru, and several colleges and universities in India. I also spearheaded the restart and growth of MongoDB User Group meetups in India. As part of this initiative, I talked about MongoDB ecosystem in several meetups organised at MongoDB offices or user companies like Adobe, Orange, Expedia, UrbanClap, To The New, Darwinbox etc.\n\n\"Open for non-profit technology talks, conferences and seminars. Drop a message.\""
+  },
+  "positions": [
+    {
+      "title": "MongoDB",
+      "location": "Gurgaon, Haryana, India",
+      "description": "I work with customers to solve their challenging technical problems in and around MongoDB ecosystem. I enjoy (and am responsible) for advising customers on best practices for architecting, developing and deploying their MongoDB applications.\n\nI also interface with the MongoDB product management and development teams on the behalf of our customers to improve the overall quality of MongoDB ecosystem. I'm a regular speaker and organiser at MongoDB User Group in India.\n\nMy focus areas are:\n- MongoDB Database Server (Part of the Storage Engine Experts team)\n- MongoDB Core Features (Replication, Sharding, MongoDB Query Language & Aggregation Framework)\n- MongoDB Drivers (Go and Python)\n- MongoDB Atlas (Database-as-a-Service)\n- MongoDB Stitch (Backend-as-a-Service)\n…\nsee more",
+      "date1": "Nov 2018 – Present",
+      "date2": "1 yr 1 mo",
+      "roles": [
+        {
+          "title": "Senior Technical Services Engineer",
+          "date1": "Nov 2018 – Present",
+          "date2": "1 yr 1 mo",
+          "location": "Gurgaon, Haryana, India"
+        },
+        {
+          "title": "Technical Services Engineer",
+          "date1": "Feb 2017 – Oct 2018",
+          "date2": "1 yr 9 mos",
+          "location": "Gurgaon, Haryana, India"
+        },
+        {
+          "title": "Associate Technical Services Engineer",
+          "date1": "Feb 2016 – Jan 2017",
+          "date2": "1 yr",
+          "location": "Gurgaon, India"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSenior Technical Services Engineer",
+      "location": "Gurgaon, Haryana, India",
+      "description": "I work with customers to solve their challenging technical problems in and around MongoDB ecosystem. I enjoy (and am responsible) for advising customers on best practices for architecting, developing and deploying their MongoDB applications.\n\nI also interface with the MongoDB product management and development teams on the behalf of our customers to improve the overall quality of MongoDB ecosystem. I'm a regular speaker and organiser at MongoDB User Group in India.\n\nMy focus areas are:\n- MongoDB Database Server (Part of the Storage Engine Experts team)\n- MongoDB Core Features (Replication, Sharding, MongoDB Query Language & Aggregation Framework)\n- MongoDB Drivers (Go and Python)\n- MongoDB Atlas (Database-as-a-Service)\n- MongoDB Stitch (Backend-as-a-Service)\n…\nsee more",
+      "date1": "Nov 2018 – Present",
+      "date2": "1 yr 1 mo",
+      "roles": [
+        {
+          "title": "Senior Technical Services Engineer",
+          "date1": "Nov 2018 – Present",
+          "date2": "1 yr 1 mo",
+          "location": "Gurgaon, Haryana, India"
+        }
+      ]
+    },
+    {
+      "title": "Title\nTechnical Services Engineer",
+      "location": "Gurgaon, Haryana, India",
+      "date1": "Feb 2017 – Oct 2018",
+      "date2": "1 yr 9 mos",
+      "roles": [
+        {
+          "title": "Technical Services Engineer",
+          "date1": "Feb 2017 – Oct 2018",
+          "date2": "1 yr 9 mos",
+          "location": "Gurgaon, Haryana, India"
+        }
+      ]
+    },
+    {
+      "title": "Title\nAssociate Technical Services Engineer",
+      "location": "Gurgaon, India",
+      "date1": "Feb 2016 – Jan 2017",
+      "date2": "1 yr",
+      "roles": [
+        {
+          "title": "Associate Technical Services Engineer",
+          "date1": "Feb 2016 – Jan 2017",
+          "date2": "1 yr",
+          "location": "Gurgaon, India"
+        }
+      ]
+    },
+    {
+      "title": "TriCore Solutions",
+      "location": "Cyber City Gurgaon",
+      "description": "(TriCore Solutions was acquired by Rackspace in 2017)\n- Helped maintain mission critical databases & applications of Manufacturing, Pharmaceutical, Healthcare & Insurance customers including a Fortune 500 company.\n- Databases and Applications environment included Oracle E-Business Suite 11i/R12 (R12.1 and R12.2), Oracle Database (10g/11g/12c), Oracle Dataguard, Oracle RAC, Oracle Enterprise Manager (10g/11g/12c) on Linux, Windows, Solaris, AIX, HP-UX and Oracle Exadata machines.\n-> Also worked closely with marketing for content creation for Tricore Solutions blog.\n…\nsee more",
+      "date1": "Oct 2015 – Feb 2016",
+      "date2": "5 mos",
+      "roles": [
+        {
+          "title": "Consultant - Oracle DBA",
+          "date1": "Oct 2015 – Feb 2016",
+          "date2": "5 mos",
+          "location": "Cyber City Gurgaon"
+        },
+        {
+          "title": "Associate Consultant - Oracle DBA",
+          "date1": "Oct 2014 – Sep 2015",
+          "date2": "1 yr",
+          "location": "Cyber City Gurgaon"
+        },
+        {
+          "title": "Trainee-Oracle DBA",
+          "date1": "Oct 2013 – Sep 2014",
+          "date2": "1 yr",
+          "location": "Cyber City Gurgaon"
+        }
+      ]
+    },
+    {
+      "title": "Title\nConsultant - Oracle DBA",
+      "location": "Cyber City Gurgaon",
+      "description": "(TriCore Solutions was acquired by Rackspace in 2017)\n- Helped maintain mission critical databases & applications of Manufacturing, Pharmaceutical, Healthcare & Insurance customers including a Fortune 500 company.\n- Databases and Applications environment included Oracle E-Business Suite 11i/R12 (R12.1 and R12.2), Oracle Database (10g/11g/12c), Oracle Dataguard, Oracle RAC, Oracle Enterprise Manager (10g/11g/12c) on Linux, Windows, Solaris, AIX, HP-UX and Oracle Exadata machines.\n-> Also worked closely with marketing for content creation for Tricore Solutions blog.\n…\nsee more",
+      "date1": "Oct 2015 – Feb 2016",
+      "date2": "5 mos",
+      "roles": [
+        {
+          "title": "Consultant - Oracle DBA",
+          "date1": "Oct 2015 – Feb 2016",
+          "date2": "5 mos",
+          "location": "Cyber City Gurgaon"
+        }
+      ]
+    },
+    {
+      "title": "Title\nAssociate Consultant - Oracle DBA",
+      "location": "Cyber City Gurgaon",
+      "date1": "Oct 2014 – Sep 2015",
+      "date2": "1 yr",
+      "roles": [
+        {
+          "title": "Associate Consultant - Oracle DBA",
+          "date1": "Oct 2014 – Sep 2015",
+          "date2": "1 yr",
+          "location": "Cyber City Gurgaon"
+        }
+      ]
+    },
+    {
+      "title": "Title\nTrainee-Oracle DBA",
+      "location": "Cyber City Gurgaon",
+      "date1": "Oct 2013 – Sep 2014",
+      "date2": "1 yr",
+      "roles": [
+        {
+          "title": "Trainee-Oracle DBA",
+          "date1": "Oct 2013 – Sep 2014",
+          "date2": "1 yr",
+          "location": "Cyber City Gurgaon"
+        }
+      ]
+    },
+    {
+      "title": "SQL Star International",
+      "location": "Pitampura, Delhi",
+      "description": "- Oracle DBA and Developer Trainings to professionals and newbies.\n- Received excellent feedback from students, and was promoted to Consultant in less than 2 months of joining as Associate.",
+      "date1": "Aug 2013 – Sep 2013",
+      "date2": "2 mos",
+      "roles": [
+        {
+          "title": "Consultant",
+          "date1": "Aug 2013 – Sep 2013",
+          "date2": "2 mos",
+          "location": "Pitampura, Delhi"
+        },
+        {
+          "title": "Associate Consultant",
+          "date1": "Jun 2013 – Jul 2013",
+          "date2": "2 mos",
+          "location": "Delhi"
+        }
+      ]
+    },
+    {
+      "title": "Title\nConsultant",
+      "location": "Pitampura, Delhi",
+      "description": "- Oracle DBA and Developer Trainings to professionals and newbies.\n- Received excellent feedback from students, and was promoted to Consultant in less than 2 months of joining as Associate.",
+      "date1": "Aug 2013 – Sep 2013",
+      "date2": "2 mos",
+      "roles": [
+        {
+          "title": "Consultant",
+          "date1": "Aug 2013 – Sep 2013",
+          "date2": "2 mos",
+          "location": "Pitampura, Delhi"
+        }
+      ]
+    },
+    {
+      "title": "Title\nAssociate Consultant",
+      "location": "Delhi",
+      "date1": "Jun 2013 – Jul 2013",
+      "date2": "2 mos",
+      "roles": [
+        {
+          "title": "Associate Consultant",
+          "date1": "Jun 2013 – Jul 2013",
+          "date2": "2 mos",
+          "location": "Delhi"
+        }
+      ]
+    },
+    {
+      "title": "Software Trainee",
+      "companyName": "eNest Technologies",
+      "description": "Worked with HTML, CSS & jQuery",
+      "date1": "Jan 2013 – Feb 2013",
+      "date2": "2 mos"
+    },
+    {
+      "title": "Oracle Trainer",
+      "companyName": "BRCM College of Engineering & Technology, Bahal-Bhiwani,Haryana",
+      "location": "Bhiwani, Haryana",
+      "description": "Taught SQL & PL/SQL to juniors & fellow B.Tech students.",
+      "date1": "Aug 2012 – Oct 2012",
+      "date2": "3 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Maharshi Dayanand University",
+      "degree": "B.Tech",
+      "fieldofstudy": "Information Technology",
+      "date1": "2009",
+      "date2": "2013"
+    },
+    {
+      "title": "Happy Model Hr. Sec. School",
+      "degree": "10+2",
+      "fieldofstudy": "Non-Medical",
+      "date1": "2002",
+      "date2": "2009"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Databases",
+      "count": "35"
+    },
+    {
+      "title": "MongoDB",
+      "count": "26"
+    },
+    {
+      "title": "Go",
+      "count": "4"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "1",
+    "receivedCount": "4",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/dbadarsh/",
+        "text": "Ankur can eat, breathe & live MongoDB. His interest and knowledge on MongoDB wonders me every time, He is expert in performance tuning, storage engine , replication, sharding whatever else MongoDB ecosystem has, he knows it very well. Very patient attitude, and open to learn and teach always."
+      },
+      {
+        "user": "https://www.linkedin.com/in/pankaj-bhandari-a6361715/",
+        "text": "Ankur is one of the great team player and very good in all aspects at DBA side. He is talented and straightforward personality which make him exceptional among the team members. Personally, he is very helpful in nature and very sincere person. -Regards Pankaj Bhandari"
+      },
+      {
+        "user": "https://www.linkedin.com/in/himanshu-bansal-0b343b71/",
+        "text": "Hello Ankur, You are creative and hard working human being. Not only the day to day work but apart from that, you keep on seeking new advises and keep on giving new suggestions to team mates and other and this is the thing that i like the most about you. Also, your blogs always makes you standout in a bunch of people around u . Just keep working hard and never let this get into ur head.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/ashokinder/",
+        "text": "Ankur is a talented thinker and writer in the space of the future of database. His views on database are unique, realistic to consider, and the starting points of useful execution. Ankur is a well-spoken, quality writer with a great mind for analogy, and a voice that assures while gently moving you from your comfort zone into the space where he feels you'll find value. Not shy, Ankur is the type of worker who voices his mind, and who makes sure you know his perspective, especially should not knowing it be potentially damaging for you. I recommend his work.\n…\nSee more"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/himank-muktawat-925b655b/",
+        "text": "During my time at Tricore, Himank was a good colleague and mentor. He explores the technical stuff deeply, and is open to ideas and discussions on team culture and process improvements. With his experience in databases, enterprise applications & modern DevOps, he is definitely a good fit for any tech savvy company."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "12",
+      "items": [
+        "MongoDB: The Latest Features-Replication",
+        "MongoDB: The Latest Features",
+        "Relational to NoSQL: A terminological comparison of Oracle and MongoDB",
+        "A Day with a DBA",
+        "Oracle 12c for Pro Newbies Plug and Play (Part 3): DMU",
+        "Oracle 12c for Pro Newbies: Plug and Play (Part 2)",
+        "Oracle 12c for Pro Newbies: Plug and Play (Part 1)",
+        "Oracle Database 12c - Pluggable Database Architecture",
+        "Oracle Database 12c - The Installation",
+        "Worldly Things",
+        "Around The World",
+        "My Other Compositions"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "English",
+        "Hindi",
+        "Kashmiri"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "TaskBud",
+        "BringMyShop",
+        "Motley Data Institute Management System"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "Amazon Web Services (AWS) Fundamentals for System Administrators",
+        "Oracle E-Business Suite R12.1 DBA"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "Stanley Skunk Winner 2019",
+        "Technical Services Q2 Outstanding Contributor Award"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/vivek-singh-8b186110/",
+      "text": "Sr. Solution Architect ( India & SE Asia) at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/muskan-sharma-2316b0121/",
+      "text": "CSE at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kartik-prabhakar-03a31214/",
+      "text": "Regional Manager, Corporate Sales, APAC at MongoDB - I'm Hiring !!!!"
+    },
+    {
+      "user": "https://www.linkedin.com/in/samyukta-agarwal-65bb374a/",
+      "text": "Manager at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sanjuchauhan/",
+      "text": "MongoDB Technical Consultant at confidential"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nikita-parasher-5b53b29b/",
+      "text": "Recruitment Coordinator at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/chetna-bhatla-5a18b851/",
+      "text": "Analyst at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/aditi-sood-18b86896/",
+      "text": "APAC Benefits | MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/gauravsoin/",
+      "text": "MongoDB India - Database Service on Cloud"
+    },
+    {
+      "user": "https://www.linkedin.com/in/suvig-sharma-638563/",
+      "text": "Senior Director - APAC at MongoDB"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Volunteer Speaker & Organiser",
+      "experience": "NoobsMeet",
+      "description": "Education",
+      "date1": "May 2016",
+      "date2": "1 mo"
+    },
+    {
+      "title": "Speaker and Co-Organiser",
+      "experience": "MongoDB Users Group",
+      "description": "Science and Technology",
+      "date1": "Feb 2016 – Present",
+      "date2": "3 yrs 10 mos"
+    }
+  ],
+  "profile": {
+    "name": "Ankur Raina",
+    "headline": "Works @ mongoDB (Company) on mongoDB (Product & Ecosystem) for mongoDB (Customers & Community) :)",
+    "imageurl": "https://media.licdn.com/dms/image/C5103AQEmkRK185L4eg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=01eDjFy4JoiDE-xXJY2ghhDFuN5k6bFavQvL2jVtsk4",
+    "location": "Gurgaon, Haryana, India",
+    "connections": "500+",
+    "summary": "I do pseudorandom things at random times and \"all things MongoDB\". I love databases in general.\n\nSoftware engineer & consultant with special focus on understanding & working of applications with scalable and high performance databases. My interests & work represent an excellent mix of cloud first technology, business & customer relationship.\n\nI have talked about databases & tech in general at MongoDB World 2019 in New York, MongoDB .Local 2018 & 19 in Bengaluru, and several colleges and universities in India. I also spearheaded the restart and growth of MongoDB User Group meetups in India. As part of this initiative, I talked about MongoDB ecosystem in several meetups organised at MongoDB offices or user companies like Adobe, Orange, Expedia, UrbanClap, To The New, Darwinbox etc.\n\n\"Open for non-profit technology talks, conferences and seminars. Drop a message.\""
+  }
+}

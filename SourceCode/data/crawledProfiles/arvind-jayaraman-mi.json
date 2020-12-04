@@ -1,0 +1,223 @@
+{
+  "profileAlternative": {
+    "name": "Arvind Jayaraman",
+    "headline": "Senior Machine Learning Research Scientist at KLA",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQF6TNUNBZWqSw/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=ApaEkwBhxn78d6vSYSqoC6Yr2XTf40iENgwMhInigAc",
+    "location": "Ann Arbor, Michigan",
+    "connections": "500+",
+    "summary": "Experienced Software Engineer with a demonstrated history of working in the automotive software industry. Strong engineering professional skilled in Deep Learning, AI, GPU computing, MATLAB and Embedded systems."
+  },
+  "aboutAlternative": {
+    "text": "Experienced Software Engineer with a demonstrated history of working in the automotive software industry. Strong engineering professional skilled in Deep Learning, AI, GPU computing, MATLAB and Embedded systems."
+  },
+  "positions": [
+    {
+      "title": "Senior Algorithms Engineer",
+      "companyName": "KLA",
+      "location": "Ann Arbor, MI",
+      "date1": "Jul 2019 – Present",
+      "date2": "5 mos"
+    },
+    {
+      "title": "The MathWorks",
+      "location": "Greater Detroit Area",
+      "description": "I am a Senior Product Specialist Application Engineer at MathWorks. My primary area of focus is deep learning for automated driving. I have worked on a wide range of pilot projects with customers ranging from sensor modeling in 3D Virtual Environments to computer vision using deep learning for object detection and semantic segmentation. I have also contributed features to MATLAB including a support package to import popular deep learning networks from Caffe into MATLAB and features for the video ground-truth-labeling app for Automated Driving System Toolbox. I specialize in large-scale deployment of Automatic C/CUDA Code generation from Simulink and MATLAB for embedded software applications.\n…\nsee more",
+      "date1": "May 2015 – Present",
+      "date2": "4 yrs 7 mos",
+      "roles": [
+        {
+          "title": "Senior Product Specialist for Deep Learning and Automated Driving",
+          "date1": "May 2015 – Present",
+          "date2": "4 yrs 7 mos",
+          "location": "Greater Detroit Area"
+        },
+        {
+          "title": "Product Specialist Production Code Generation",
+          "date1": "Feb 2008 – Present",
+          "date2": "11 yrs 10 mos",
+          "location": "Greater Detroit Area"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSenior Product Specialist for Deep Learning and Automated Driving",
+      "location": "Greater Detroit Area",
+      "description": "I am a Senior Product Specialist Application Engineer at MathWorks. My primary area of focus is deep learning for automated driving. I have worked on a wide range of pilot projects with customers ranging from sensor modeling in 3D Virtual Environments to computer vision using deep learning for object detection and semantic segmentation. I have also contributed features to MATLAB including a support package to import popular deep learning networks from Caffe into MATLAB and features for the video ground-truth-labeling app for Automated Driving System Toolbox. I specialize in large-scale deployment of Automatic C/CUDA Code generation from Simulink and MATLAB for embedded software applications.\n…\nsee more",
+      "date1": "May 2015 – Present",
+      "date2": "4 yrs 7 mos",
+      "roles": [
+        {
+          "title": "Senior Product Specialist for Deep Learning and Automated Driving",
+          "date1": "May 2015 – Present",
+          "date2": "4 yrs 7 mos",
+          "location": "Greater Detroit Area"
+        }
+      ]
+    },
+    {
+      "title": "Title\nProduct Specialist Production Code Generation",
+      "location": "Greater Detroit Area",
+      "description": "I specialize in Model Based Design and Automatic Code Generation for Embedded Software Systems. I work with customers to ensure that their Simulink and MATLAB algorithms can generate high quality production C Code. I work with companies to guide them on their design choice for models and tailor the generated code to meet their performance and readability needs.",
+      "date1": "Feb 2008 – Present",
+      "date2": "11 yrs 10 mos",
+      "roles": [
+        {
+          "title": "Product Specialist Production Code Generation",
+          "date1": "Feb 2008 – Present",
+          "date2": "11 yrs 10 mos",
+          "location": "Greater Detroit Area"
+        }
+      ]
+    },
+    {
+      "title": "Graduate Student Instructor",
+      "companyName": "University of Michigan",
+      "location": "Ann Arbor, MI",
+      "description": "Graduate Student Instructor for EECS 461 Embedded Control Systems",
+      "date1": "2007 – 2008",
+      "date2": "1 yr"
+    }
+  ],
+  "educations": [
+    {
+      "title": "University of Michigan",
+      "degree": "MSEE",
+      "fieldofstudy": "Engineering",
+      "date1": "2006",
+      "date2": "2007"
+    },
+    {
+      "title": "Delhi College of Engineering",
+      "degree": "BE",
+      "fieldofstudy": "Electronics",
+      "date1": "2002",
+      "date2": "2006"
+    },
+    {
+      "title": "Springdales School Pusa Road",
+      "date1": "1998",
+      "date2": "2002"
+    },
+    {
+      "title": "Springdales School Pusa Road",
+      "degree": "Computer Science",
+      "fieldofstudy": "Computer Science",
+      "date1": "1998",
+      "date2": "2002"
+    },
+    {
+      "title": "University of Michigan College of Engineering",
+      "degree": "Master of Science - MS",
+      "fieldofstudy": "Electrical and Electronics Engineering"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Matlab",
+      "count": "19"
+    },
+    {
+      "title": "Embedded Systems",
+      "count": "9"
+    },
+    {
+      "title": "C++",
+      "count": "8"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "4",
+      "items": [
+        "English",
+        "German",
+        "Hindi",
+        "Tamil"
+      ]
+    },
+    {
+      "count": "4",
+      "items": [
+        "Speeding Up Semantic Segmentation Using MATLAB Container from NVIDIA NGC",
+        "Automated LiDAR Point Cloud Aannotation for Sensor Verification",
+        "Deep Learning for Automated Driving With MATLAB",
+        "Creating 3D Virtual Driving Environments for Simulation-Aided Development of Autonomous Driving and Active Safety"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Machine Learning"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "SAE"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Systems and methods for generating synthetic sensor data"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/mahesh-ravishankar-167576b/",
+      "text": "Senior Software Engineer at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/deepthimylavarapu/",
+      "text": "UI Software Engineer at KLA"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sang-ik-lee-08091614/",
+      "text": "Deep Learning, Compiler, Static/Runtime Analysis"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jane-sun-0b4684106/",
+      "text": "Senior Software Engineer at The MathWorks"
+    },
+    {
+      "user": "https://www.linkedin.com/in/lilian-chu-4534ab33/",
+      "text": "HR Shared Services Manager at KLA"
+    },
+    {
+      "user": "https://www.linkedin.com/in/xiaohan-li-2892a117a/",
+      "text": "Research Scientist at KLA"
+    },
+    {
+      "user": "https://www.linkedin.com/in/cher-shiau-8a6769/",
+      "text": "Senior Manager, Global HR System Operations at KLA Corporation"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sriraman-tallam-6862a32/",
+      "text": "Staff Software Engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/troy-johnson-122180124/",
+      "text": "Compiler Engineer at Cray looking to hire"
+    },
+    {
+      "user": "https://www.linkedin.com/in/anchit-dhar-b8879813/",
+      "text": "Image Processing, Computer Vision and Machine Learning Engineer"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Arvind Jayaraman",
+    "headline": "Senior Machine Learning Research Scientist at KLA",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQF6TNUNBZWqSw/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=ApaEkwBhxn78d6vSYSqoC6Yr2XTf40iENgwMhInigAc",
+    "location": "Ann Arbor, Michigan",
+    "connections": "500+",
+    "summary": "Experienced Software Engineer with a demonstrated history of working in the automotive software industry. Strong engineering professional skilled in Deep Learning, AI, GPU computing, MATLAB and Embedded systems."
+  }
+}

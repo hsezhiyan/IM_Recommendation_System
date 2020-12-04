@@ -1,0 +1,241 @@
+{
+  "profileAlternative": {
+    "name": "Tim Ellison",
+    "headline": "Senior Technical Staff Member at IBM",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQEFEDawch-3OQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=8I-Yk4eaBXe3O-HaUknunwUSCnlNsqF5mi63zN7AkcQ",
+    "location": "Southampton, United Kingdom",
+    "connections": "500+",
+    "summary": "Tim Ellison is currently a Senior Technical Staff Member in the Runtime Technology group at IBM Hursley Park. He has worldwide responsibility for innovation in the managed runtimes underpinning a broad selection of IBM's flagship products.\n\nPrior to his current position, Tim held leadership positions within IBM Canada, Object Technology International, The Continuum Company, and others. He has contributed to the implementation of Smalltalk and Java for over 20 years. Tim was part of the original Eclipse development team, and has been a Vice President of the Apache Software Foundation and chair of the Apache Harmony Project Management Committee. He is currently a member of the JSR376 expert group designing a Java SE platform modularity system.\n\nTim holds a BSc in Computer Science from Hull University, and an MSc in Computer System Design from the University of Manchester. He has a broad knowledge of high performance runtimes, open source methodologies, and runtime technology; and he speaks at conferences worldwide on topics as diverse as secure engineering practices, GPU programming, and big data analytics. Tim is particularly interested in new ways of applying runtime technology to difficult problems."
+  },
+  "aboutAlternative": {
+    "text": "Tim Ellison is currently a Senior Technical Staff Member in the Runtime Technology group at IBM Hursley Park. He has worldwide responsibility for innovation in the managed runtimes underpinning a broad selection of IBM's flagship products.\n\nPrior to his current position, Tim held leadership positions within IBM Canada, Object Technology International, The Continuum Company, and others. He has contributed to the implementation of Smalltalk and Java for over 20 years. Tim was part of the original Eclipse development team, and has been a Vice President of the Apache Software Foundation and chair of the Apache Harmony Project Management Committee. He is currently a member of the JSR376 expert group designing a Java SE platform modularity system.\n\nTim holds a BSc in Computer Science from Hull University, and an MSc in Computer System Design from the University of Manchester. He has a broad knowledge of high performance runtimes, open source methodologies, and runtime technology; and he speaks at conferences worldwide on topics as diverse as secure engineering practices, GPU programming, and big data analytics. Tim is particularly interested in new ways of applying runtime technology to difficult problems."
+  },
+  "positions": [
+    {
+      "title": "IBM",
+      "location": "Hursley, United Kingdom",
+      "date1": "Sep 2018 – Present",
+      "date2": "1 yr 3 mos",
+      "roles": [
+        {
+          "title": "Java CTO",
+          "date1": "Sep 2018 – Present",
+          "date2": "1 yr 3 mos"
+        },
+        {
+          "title": "Senior Technical Staff Member",
+          "date1": "Jul 2000 – Present",
+          "date2": "19 yrs 5 mos",
+          "location": "Hursley, United Kingdom"
+        }
+      ]
+    },
+    {
+      "title": "Title\nJava CTO",
+      "date1": "Sep 2018 – Present",
+      "date2": "1 yr 3 mos",
+      "roles": [
+        {
+          "title": "Java CTO",
+          "date1": "Sep 2018 – Present",
+          "date2": "1 yr 3 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSenior Technical Staff Member",
+      "location": "Hursley, United Kingdom",
+      "date1": "Jul 2000 – Present",
+      "date2": "19 yrs 5 mos",
+      "roles": [
+        {
+          "title": "Senior Technical Staff Member",
+          "date1": "Jul 2000 – Present",
+          "date2": "19 yrs 5 mos",
+          "location": "Hursley, United Kingdom"
+        }
+      ]
+    },
+    {
+      "title": "PPMC Member, Mentor, Committer",
+      "companyName": "The Apache Software Foundation",
+      "description": "Apache Pirk is a framework for scalable Private Information Retrieval (PIR) currently in incubation at the Apache Software Foundation https://pirk.incubator.apache.org/",
+      "date1": "Aug 2016 – Present",
+      "date2": "3 yrs 4 mos"
+    },
+    {
+      "title": "V.P. Apache Harmony",
+      "companyName": "The Apache Software Foundation",
+      "location": "apache.org",
+      "description": "Project Management Committee chair for Apache Harmony, building a full implementation of the Java SE specification. Currently a Member of the Apache Software Foundation involved with a wide variety of projects.",
+      "date1": "Jul 2007 – Nov 2011",
+      "date2": "4 yrs 5 mos"
+    },
+    {
+      "title": "Team Leader",
+      "companyName": "Object Technology International",
+      "location": "Ottawa, Canada",
+      "description": "Development of ENVY/Developer team programming system for Smalltalk, including packaging, team repository technology, and secure distributed systems. Later working as team leader for distributed repository implementation in Eclipse integrated development environment.",
+      "date1": "Mar 1994 – Jul 2000",
+      "date2": "6 yrs 5 mos"
+    },
+    {
+      "title": "Senior Programmer",
+      "companyName": "Continuum Company, Inc.",
+      "location": "Austin, Texas, USA",
+      "description": "Design and delivery of three-tier client server architectures in the insurance industry. Numerous on-site consultancy and development roles in the USA, England, Scotland, and Germany.",
+      "date1": "Sep 1992 – Mar 1994",
+      "date2": "1 yr 7 mos"
+    },
+    {
+      "title": "Consultant",
+      "companyName": "Objective Computer Systems Ltd",
+      "description": "Development of cartographic information systems and the visual display of quantitative information in the natural resources industry.",
+      "date1": "Mar 1991 – Sep 1992",
+      "date2": "1 yr 7 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "The University of Manchester",
+      "degree": "Postgrad research",
+      "fieldofstudy": "Medical Biophysics",
+      "date1": "1988",
+      "date2": "1991"
+    },
+    {
+      "title": "The University of Manchester",
+      "degree": "MSc",
+      "fieldofstudy": "Computer Science",
+      "date1": "1987",
+      "date2": "1988"
+    },
+    {
+      "title": "The University of Hull",
+      "degree": "BSc",
+      "fieldofstudy": "Computer Science",
+      "date1": "1984",
+      "date2": "1987"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Java",
+      "count": "21"
+    },
+    {
+      "title": "Software Engineering",
+      "count": "20"
+    },
+    {
+      "title": "Distributed Systems",
+      "count": "19"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "18",
+      "items": [
+        "Modules All The Way Down",
+        "Five Cool Ways the JVM Can Run Apache Spark Faster",
+        "Java on zSystems zOS",
+        "Vitualization Aware JVM",
+        "What's New in Java 8 SE?",
+        "The Next Wave of Enterprise Performance with Java, POWER Systems and NVIDIA GPUs",
+        "Using GPUs to Handle Big Data with Java",
+        "Transparent network acceleration for Java-based workloads in the cloud",
+        "Secure Engineering Practices for Java",
+        "Securing Java in the Server Room",
+        "Java and Real-World Compatibility",
+        "The OpenJDK Penrose project",
+        "The Future of Java (Interview)",
+        "Inside IBM Java 7",
+        "Apache Harmony : An Open Innovation",
+        "The Java Async IO Package",
+        "Calculating the surface topography of integrated-circuit wafers from SEM images",
+        "Automated detection of abnormalities on screening mammograms"
+      ]
+    },
+    {
+      "count": "7",
+      "items": [
+        "Java Community Process - JSR 379: Java SE 9 Release Contents",
+        "Java Community Process - JSR 376: Java Platform Module System",
+        "Java Community Process - JSR 337: Java SE 8 Release Contents",
+        "Apache Software Foundation",
+        "Java Community Process - JSR 147: Workspace Versioning and Configuration Management",
+        "Eclipse Foundation",
+        "Internet Engineering Task Force - WebDAV DeltaV Working Group"
+      ]
+    },
+    {
+      "count": "7",
+      "items": [
+        "Dynamic Reduction of Stack-Overflow Errors in a Recursive Data-Serialization Algorithm",
+        "Managing Network Sockets",
+        "Launcher for Software Applications",
+        "Methods and systems for improving hash table performance",
+        "Method for replacing code in a running object oriented program",
+        "Managing Software Component Version Identifications in a Componentised Software System",
+        "Executing a native software routine in a virtual machine"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/patrick-keyes-20786410/",
+      "text": "Senior Global Programme Manager, IBM Global Technology Services, Storage Service Line Engineering"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kjturneruk/",
+      "text": "Program Director, Innovation Strategy at IBM United Kingdom Ltd"
+    },
+    {
+      "user": "https://www.linkedin.com/in/scott-couper-3760312/",
+      "text": "BSc PMP MIEE IBM Hursley Laboratory and Location Manager"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kevinbowkett/",
+      "text": "Hyper Protect Containers Development Manager at IBM"
+    },
+    {
+      "user": "https://www.linkedin.com/in/adrian-kyte-31276a132/",
+      "text": "Project Manager at IBM"
+    },
+    {
+      "user": "https://www.linkedin.com/in/brian-cope-6b557a28/",
+      "text": "Data Scientist"
+    },
+    {
+      "user": "https://www.linkedin.com/in/barbara-bishop-89ba3095/",
+      "text": "Supplier Manager at IBM United Kingdom Ltd"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kate-bittles-303a9a3/",
+      "text": "Manager at IBM"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mike-brannigan-676b291/",
+      "text": "Build and Automation Engineer at NewVoiceMedia (a Vonage Company)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/dai-middleton-19494484/",
+      "text": "Programmer (retired)"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Tim Ellison",
+    "headline": "Senior Technical Staff Member at IBM",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQEFEDawch-3OQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=8I-Yk4eaBXe3O-HaUknunwUSCnlNsqF5mi63zN7AkcQ",
+    "location": "Southampton, United Kingdom",
+    "connections": "500+",
+    "summary": "Tim Ellison is currently a Senior Technical Staff Member in the Runtime Technology group at IBM Hursley Park. He has worldwide responsibility for innovation in the managed runtimes underpinning a broad selection of IBM's flagship products.\n\nPrior to his current position, Tim held leadership positions within IBM Canada, Object Technology International, The Continuum Company, and others. He has contributed to the implementation of Smalltalk and Java for over 20 years. Tim was part of the original Eclipse development team, and has been a Vice President of the Apache Software Foundation and chair of the Apache Harmony Project Management Committee. He is currently a member of the JSR376 expert group designing a Java SE platform modularity system.\n\nTim holds a BSc in Computer Science from Hull University, and an MSc in Computer System Design from the University of Manchester. He has a broad knowledge of high performance runtimes, open source methodologies, and runtime technology; and he speaks at conferences worldwide on topics as diverse as secure engineering practices, GPU programming, and big data analytics. Tim is particularly interested in new ways of applying runtime technology to difficult problems."
+  }
+}

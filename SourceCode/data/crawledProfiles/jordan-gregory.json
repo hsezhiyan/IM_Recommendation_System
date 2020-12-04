@@ -1,0 +1,307 @@
+{
+  "profileAlternative": {
+    "name": "Jordan Gregory",
+    "headline": "Helping companies realize their strategic initiatives in order to create a competitive advantage.",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQERMTRS6DLwAg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=9FhD_mAOEiH7Ox2EoVCO1_g0IxxO0__uA5u7bhXePv0",
+    "location": "Austin, Texas",
+    "connections": "500+",
+    "summary": "I'm an energetic, goal-oriented individual who thrives under pressure. I lead by example and have consistently advanced my career through a relentless work ethic, evidenced by multiple promotions at both Enterprise and MongoDB. Outside of work, I'm a native Texan driven by music, travel, family, friends, and Dad jokes. I gravitate towards competition and sports (playing and watching) are largely how I spend my free time."
+  },
+  "aboutAlternative": {
+    "text": "I'm an energetic, goal-oriented individual who thrives under pressure. I lead by example and have consistently advanced my career through a relentless work ethic, evidenced by multiple promotions at both Enterprise and MongoDB. Outside of work, I'm a native Texan driven by music, travel, family, friends, and Dad jokes. I gravitate towards competition and sports (playing and watching) are largely how I spend my free time."
+  },
+  "positions": [
+    {
+      "title": "MongoDB",
+      "location": "Austin, Texas Area",
+      "description": "Focused on helping our users solve problems and differentiate themselves from the competition.",
+      "date1": "Apr 2019 – Present",
+      "date2": "8 mos",
+      "roles": [
+        {
+          "title": "Cloud Account Executive",
+          "date1": "Apr 2019 – Present",
+          "date2": "8 mos",
+          "location": "Austin, Texas Area"
+        },
+        {
+          "title": "Senior Sales Development Representative",
+          "date1": "Jun 2018 – Mar 2019",
+          "date2": "10 mos",
+          "location": "Austin, Texas Area"
+        },
+        {
+          "title": "Lead Development Representative",
+          "date1": "Sep 2017 – May 2018",
+          "date2": "9 mos",
+          "location": "Austin, Texas"
+        }
+      ]
+    },
+    {
+      "title": "Title\nCloud Account Executive",
+      "location": "Austin, Texas Area",
+      "description": "Focused on helping our users solve problems and differentiate themselves from the competition.",
+      "date1": "Apr 2019 – Present",
+      "date2": "8 mos",
+      "roles": [
+        {
+          "title": "Cloud Account Executive",
+          "date1": "Apr 2019 – Present",
+          "date2": "8 mos",
+          "location": "Austin, Texas Area"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSenior Sales Development Representative",
+      "location": "Austin, Texas Area",
+      "date1": "Jun 2018 – Mar 2019",
+      "date2": "10 mos",
+      "roles": [
+        {
+          "title": "Senior Sales Development Representative",
+          "date1": "Jun 2018 – Mar 2019",
+          "date2": "10 mos",
+          "location": "Austin, Texas Area"
+        }
+      ]
+    },
+    {
+      "title": "Title\nLead Development Representative",
+      "location": "Austin, Texas",
+      "date1": "Sep 2017 – May 2018",
+      "date2": "9 mos",
+      "roles": [
+        {
+          "title": "Lead Development Representative",
+          "date1": "Sep 2017 – May 2018",
+          "date2": "9 mos",
+          "location": "Austin, Texas"
+        }
+      ]
+    },
+    {
+      "title": "Branch Manager",
+      "companyName": "Enterprise Holdings",
+      "location": "Barton Springs/S Lamar",
+      "date1": "Aug 2017",
+      "date2": "1 mo"
+    },
+    {
+      "title": "Branch Manager",
+      "companyName": "Enterprise Rent-A-Car",
+      "location": "Dripping Springs, Texas",
+      "date1": "Jan 2017 – Aug 2017",
+      "date2": "8 mos"
+    },
+    {
+      "title": "Assistant Manager",
+      "companyName": "National Car Rental",
+      "location": "Austin, Texas Area",
+      "description": "Assistant Manager over National and Alamo brands at the Austin Bergstrom International Airport",
+      "date1": "Jul 2016 – Dec 2016",
+      "date2": "6 mos"
+    },
+    {
+      "title": "Enterprise Rent-A-Car",
+      "location": "Round Rock, Texas",
+      "date1": "Apr 2016 – Jun 2016",
+      "date2": "3 mos",
+      "roles": [
+        {
+          "title": "Assistant Manager",
+          "date1": "Apr 2016 – Jun 2016",
+          "date2": "3 mos",
+          "location": "Round Rock, Texas"
+        },
+        {
+          "title": "Assistant Manager",
+          "date1": "Sep 2015 – Apr 2016",
+          "date2": "8 mos",
+          "location": "College Station, Texas"
+        },
+        {
+          "title": "Management Assistant",
+          "date1": "Apr 2015 – Aug 2015",
+          "date2": "5 mos",
+          "location": "Austin, Texas"
+        },
+        {
+          "title": "Management Trainee",
+          "date1": "May 2014 – Apr 2015",
+          "date2": "1 yr"
+        }
+      ]
+    },
+    {
+      "title": "Title\nAssistant Manager",
+      "location": "Round Rock, Texas",
+      "date1": "Apr 2016 – Jun 2016",
+      "date2": "3 mos",
+      "roles": [
+        {
+          "title": "Assistant Manager",
+          "date1": "Apr 2016 – Jun 2016",
+          "date2": "3 mos",
+          "location": "Round Rock, Texas"
+        }
+      ]
+    },
+    {
+      "title": "Title\nAssistant Manager",
+      "location": "College Station, Texas",
+      "date1": "Sep 2015 – Apr 2016",
+      "date2": "8 mos",
+      "roles": [
+        {
+          "title": "Assistant Manager",
+          "date1": "Sep 2015 – Apr 2016",
+          "date2": "8 mos",
+          "location": "College Station, Texas"
+        }
+      ]
+    },
+    {
+      "title": "Title\nManagement Assistant",
+      "location": "Austin, Texas",
+      "date1": "Apr 2015 – Aug 2015",
+      "date2": "5 mos",
+      "roles": [
+        {
+          "title": "Management Assistant",
+          "date1": "Apr 2015 – Aug 2015",
+          "date2": "5 mos",
+          "location": "Austin, Texas"
+        }
+      ]
+    },
+    {
+      "title": "Title\nManagement Trainee",
+      "date1": "May 2014 – Apr 2015",
+      "date2": "1 yr",
+      "roles": [
+        {
+          "title": "Management Trainee",
+          "date1": "May 2014 – Apr 2015",
+          "date2": "1 yr"
+        }
+      ]
+    },
+    {
+      "title": "Server/Bartender",
+      "companyName": "Gaylord Texan Resort",
+      "description": "Be an expert on our food and beverage menu\nResponsible for opening and closing the park\nHandling customer relations with up to 40 open checks at a time\nSupporting other servers and bartenders with their duties",
+      "date1": "May 2013 – Aug 2013",
+      "date2": "4 mos"
+    },
+    {
+      "title": "Server",
+      "companyName": "Buffalo Wild Wings",
+      "description": "Take care of guests and make sure they feel welcomed\nExhibit responsible alcohol service\nBus/clean tables and section\nTake care of side work during and after shift",
+      "date1": "Jan 2013 – May 2013",
+      "date2": "5 mos"
+    },
+    {
+      "title": "Manager",
+      "companyName": "Roanoke Community Pool",
+      "description": "Supervised all daily aspects of running the pool\nImplemented training of over 25 employees\nConstructed biweekly schedules\nMaintained proper chemical balance in the pool as well as proper water level\nResponsible for opening and closing the pool\nOverlooked timesheets/employee hours\nTaught swim lessons\n…\nsee more",
+      "date1": "May 2007 – Aug 2012",
+      "date2": "5 yrs 4 mos"
+    },
+    {
+      "title": "Front Desk Assistant",
+      "companyName": "Roanoke Recreation Center",
+      "description": "Responsible for opening and closing the recreation center\nRepresented the face of the Roanoke Recreation Center by handling public relations\nHandled office tasks such as printing, copying, stapling, and making reservations",
+      "date1": "Sep 2009 – May 2010",
+      "date2": "9 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Texas A&M University",
+      "degree": "Bachelor of Science",
+      "fieldofstudy": "Agribusiness",
+      "date1": "2010",
+      "date2": "2014"
+    },
+    {
+      "title": "Northwest High School - Justin, TX",
+      "degree": "HS Diploma",
+      "date1": "2007",
+      "date2": "2010"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Customer Service",
+      "count": "10"
+    },
+    {
+      "title": "Microsoft Office",
+      "count": "8"
+    },
+    {
+      "title": "Time Management",
+      "count": "8"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/gracie-harris-405981108/",
+      "text": "Account Manager at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/daniel-reyna-56134071/",
+      "text": "Account Executive @ MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/carolinerobertskurth/",
+      "text": "Accounting Operations Manager at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/megangino/",
+      "text": "Sr. Account Based Marketing Manager, NA at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jessyscarlett/",
+      "text": "Business Development at Abrigo"
+    },
+    {
+      "user": "https://www.linkedin.com/in/bengoldberg14/",
+      "text": "Software Engineer at Green Check, Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/karan-duncan-cplp-b698206/",
+      "text": "Transformation Catalyst"
+    },
+    {
+      "user": "https://www.linkedin.com/in/david-barnes-05561a6b/",
+      "text": "Director, Bookstore Operations at Columbia Southern University"
+    },
+    {
+      "user": "https://www.linkedin.com/in/coleestrate/",
+      "text": "Sr. Account Executive, Cloud at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/al3ssandra/",
+      "text": "Cloud Account Executive Brazil at MongoDB"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Jordan Gregory",
+    "headline": "Helping companies realize their strategic initiatives in order to create a competitive advantage.",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQERMTRS6DLwAg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=9FhD_mAOEiH7Ox2EoVCO1_g0IxxO0__uA5u7bhXePv0",
+    "location": "Austin, Texas",
+    "connections": "500+",
+    "summary": "I'm an energetic, goal-oriented individual who thrives under pressure. I lead by example and have consistently advanced my career through a relentless work ethic, evidenced by multiple promotions at both Enterprise and MongoDB. Outside of work, I'm a native Texan driven by music, travel, family, friends, and Dad jokes. I gravitate towards competition and sports (playing and watching) are largely how I spend my free time."
+  }
+}

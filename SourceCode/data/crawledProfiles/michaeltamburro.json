@@ -1,0 +1,203 @@
+{
+  "profileAlternative": {
+    "name": "Michael Tamburro, MCSA",
+    "headline": "Sr. SQL Server DBA at PJM Interconnection",
+    "location": "Greater Philadelphia Area",
+    "connections": "369",
+    "summary": "I am an experienced technologist, adept at applying database technology to solve business problems. Since 2002, I have specialized in SQL Server database development and administration.\n\nSpecialties: Database Programming and Administration:\n\n• SQL Server versions 7.0 thru SQL Server 2017\n• PostgreSQL\n• MySQL"
+  },
+  "aboutAlternative": {
+    "text": "I am an experienced technologist, adept at applying database technology to solve business problems. Since 2002, I have specialized in SQL Server database development and administration.\n\nSpecialties: Database Programming and Administration:\n\n• SQL Server versions 7.0 thru SQL Server 2017\n• PostgreSQL\n• MySQL"
+  },
+  "positions": [
+    {
+      "title": "Senior Sql Server Database Administrator",
+      "companyName": "PJM Interconnection",
+      "description": "• Daily production DBA tasks, including monitoring SQL Server logs, SQL Agent job execution, transaction log file sizes, backup/restore, and performance tuning.\n• Install and configure SQL Server instances, including SSRS, SSIS, and SSAS for new database servers.\n• Use the Quest Spotlight tool for enhanced database server monitoring, alerts, and issue troubleshooting.\n• Performance tuning of long running queries and stored procedures, using SQL Profiler, server side traces, Database Tuning Advisor, and query execution plans.\n• Provide support for and resolution of production data issues.\n• Contribute to implementation of HA/DR solutions for database servers, including Failover Clusters, and AlwaysOn Availability Groups.\n• Developed standardized SQL Server installation and configuration for all SQL database servers.\n• Work directly with application teams to prepare an application for its eventual release to the\nproduction environment.\n• Recommend and define performance optimizations for databases, stored procedures, SQL Statements and views.\n…\nsee more",
+      "date1": "Mar 2017 – Present",
+      "date2": "2 yrs 9 mos"
+    },
+    {
+      "title": "SQL Server Database Developer/DBA",
+      "companyName": "Project Management Institute",
+      "location": "Newtown Square, PA",
+      "description": "• Daily production DBA tasks, including monitoring SQL Server logs, SQL Agent job execution, transaction log file sizes, backup/restore, and performance tuning.\n• Installed and configured SQL Server instances, including SSRS, SSIS, and SSAS for new database servers.\n• Used the Spotlight tool for enhanced database server monitoring, alerts, and issue troubleshooting.\n• Provided support for and resolution of production data issues.\n• Contributed to implementation of HA/DR solutions for database servers, including Failover Clusters, and AlwaysOn Availability Groups.\n• Developed standardized SQL Server installation and configuration for all database servers.\n• Participated on software development teams, writing T-SQL triggers, stored procedures, and functions, and creating new database structures.\n• Performed code reviews of T-SQL scripts written by Data Developers and .NET Developers, to ensure all code conformed to industry best practices as well as PMI coding standards.\n• Helped document T-SQL industry best practices and PMI coding standards.\n• Performance tuning of long running queries and stored procedures, using SQL Profiler, server side traces, Database Tuning Advisor, and query execution plans.\n• Authored and enhanced existing, ETL processes using SSIS. These processes loaded data into production databases, reporting databases, and the Data Warehouse. Data sources included Excel files, ASCII flat files, and XML files, retrieved via FTP downloads or API calls.\n• Modified the Month End process to use command line utilities SQLCMD and BCP to pull data from one database server to another, to improve performance.\n…\nsee more",
+      "date1": "Feb 2012 – Mar 2017",
+      "date2": "5 yrs 2 mos"
+    },
+    {
+      "title": "SQL Server Database Developer/DBA",
+      "companyName": "Synectics Group, Inc.",
+      "location": "Allentown, PA",
+      "description": "• Performed ETL of client data, using SSIS and SQL Server 2008.\n• Designed and developed SSIS packages both to import client ERP master and transactional files into the Trade Promotion database, and export data back to client ERP systems, to support data integration between systems.\n• Designed and developed SSIS packages which run server and database diagnostic queries for all databases on multiple servers. These packages record the results in formatted Excel spreadsheets for reporting to management and developers.\n• Developed T-SQL stored procedures in support of the ETL and other client data processing.\n• Performed daily database administration tasks, including monitoring SQL Server logs, SQL Agent job execution, transaction log file sizes, and performance tuning.\n• Modified SQL Server options to increase security and performance, and implemented the FULL recovery model for production databases, to support point in time disaster recovery.\n• Responsible for the migration of client databases from FoxPro to SQL Server 2008.\n• Responsible for the implementation of SQL Server 2008 databases for new clients.\n…\nsee more",
+      "date1": "Jan 2011 – Jan 2012",
+      "date2": "1 yr 1 mo"
+    },
+    {
+      "title": "SQL Server Database Developer",
+      "companyName": "Fisher Clinical Services",
+      "location": "Allentown, PA",
+      "description": "• Worked with SQL Server 2008, on a team of 25+ developers for an in-house packaging/production management system.\n• Created logical table designs using Microsoft Visio 2003.\n• Developed T-SQL stored procedures, triggers, scalar functions, table-valued functions, etc, using both SSMS 2008 and Visual Studio 2008.\n• Used SQL Profiler to create traces and capture stored procedure calls, for testing and debugging.\n• Was instrumental in the adoption of table-valued parameters (TVP’s) for stored procedures, as well as the corresponding required user defined table types.\n• Was instrumental in the adoption of the MERGE statement for updating sets of rows, rather than separate INSERT, UPDATE, and/or DELETE statements.\n• Was responsible for bi-weekly deployment of database scripts to the User Acceptance Testing (UAT) environment.\n…\nsee more",
+      "date1": "Mar 2010 – Dec 2010",
+      "date2": "10 mos"
+    },
+    {
+      "title": "SQL Server Database Developer/DBA",
+      "companyName": "Academic Data Intelligence, Inc",
+      "location": "Pottstown, PA",
+      "description": "• Worked with SQL Server 2008 and SQL Server 2005.\n• Designed and created the SQL Server database for a commercial software product.\n• Developed various T-SQL scripts for the deployment at new customer installations of the database, initial data, and database objects, including tables, indexes, stored procedures, triggers, functions.\n• Developed a T-SQL script which reads SQL Server meta data and automatically creates CRUD (Create, Read, Update, Delete) stored procedures for every table in the database, as well as foreign key constraints and foreign key indexes.\n• Developed all other stored procedures, triggers, and functions using the T-SQL scripting language.\n• Upgraded from SQL Server 2005 to SQL Server 2008.\n• Supported clients in the installation and configuration of SQL Server, including the creation of overnight jobs and maintenance plans to correctly backup database and log files using SQL Server Management Studio.\n• Assumed programming of the ASP.NET/C# web interface.\n…\nsee more",
+      "date1": "Nov 2008 – Mar 2010",
+      "date2": "1 yr 5 mos"
+    },
+    {
+      "title": "Senior Developer",
+      "companyName": "Deacom, Inc.",
+      "location": "Wayne, PA",
+      "description": "Worked with SQL Server 2005 and SQL Server 2000.\n• Improved the performance of slow queries by using SQL Server Profiler to run server side traces and identify slow queries, followed by analyzing the execution plan in SQL Server Query Analyzer.\n• Made corrections to queries which were returning incorrect data.\n• Supported clients in the installation and configuration of SQL Server, including the creation of overnight jobs and maintenance plans to correctly backup database and log files, using both SQL Server Management Studio and Enterprise Manager (depending on the version of SQL Server).\n• Assumed responsibility for maintenance and enhancements to existing Visual FoxPro/SQL Server client/server system. Wrote custom EDI interfaces for clients. Assisted in data migrations for new customers.\n…\nsee more",
+      "date1": "Mar 2008 – May 2009",
+      "date2": "1 yr 3 mos"
+    },
+    {
+      "title": "SQL Server Database Developer/DBA",
+      "companyName": "MOTOR Information Systems",
+      "location": "Malvern, PA",
+      "description": "• Worked with SQL Server 2000.\n• Wrote stored procedures using T-SQL.\n• Improved the performance of slow queries by using SQL Server Profiler to run server side traces and identify slow queries, followed by analyzing the execution plan in SQL Server Query Analyzer.\n• Enhanced Technologue’s internal data entry system to accommodate medium duty vehicles. Created several new SQL Server stored procedures, and modified or enhanced several others.\n• Completed Technologue’s data mapping tool for delivery of data to WORLDPAC in the new ACES industry standard format. Also made several enhancements to the tool, which is a standalone program written in Visual FoxPro 8.\n…\nsee more",
+      "date1": "Jan 2007 – Nov 2007",
+      "date2": "11 mos"
+    },
+    {
+      "title": "Senior Technologist",
+      "companyName": "Mentis Solutions, Inc.",
+      "location": "Berwyn, PA",
+      "description": "Performed project management and conducted various client interactions, acting both as an advocate for the client and as a representative of Mentis Solutions.\nAirgas, Radnor, PA\n• Conducted client interviews to gather requirements for a new Airgas Inventory Management (AIM) system.\n• Wrote and presented to Airgas a roughly 800 page software requirements specification document.\nSynectics Group, Allentown, PA\n• Responsible for daily project management and communications during development and testing phases of a new version of their Account Review software product.\n• Repaired the relationship between Synectics Group and Mentis Solutions by reorganizing the project management, conducting weekly status meetings, writing weekly status reports for all team members, and communicating frequently and promptly to deal with issues.\n…\nsee more",
+      "date1": "Dec 2005 – Sep 2006",
+      "date2": "10 mos"
+    },
+    {
+      "title": "Manager of Information Technology/SQL Server DBA",
+      "companyName": "Technologue, Inc.",
+      "location": "West Chester, PA",
+      "description": "• Worked with SQL Server 2000 and SQL Server 7.\n• Designed and created multiple SQL Server databases.\n• Performed installation and configuration of SQL Server on multiple servers.\n• Performed all database administration (DBA) tasks, using Enterprise Manager, Profiler, Query Analyzer, etc.\n• Used Enterprise Manager to create and manage many overnight database processing jobs, as well as database maintenance plans for backing up database and log files.\n• Used Data Transformation Services (DTS) to move data into and out of databases.\n• Improved the performance of slow queries by using SQL Server Profiler to run server side traces and identify slow queries, followed by analyzing the execution plan in SQL Server Query Analyzer.\n• Upgraded from SQL Server 7 to SQL Server 2000.\n• Developed all stored procedures, triggers, and functions for the company using the T-SQL scripting language.\n• Configured replication from an internal server to an external server to provide web access to the data.\n• Converted original Visual FoxPro database to SQL Server.\n• Lead Visual FoxPro and SQL Server programmer, and Database Administrator, for the two client/server systems utilizing those technologies.\n• Directed all information technology activities for an automotive OEM research company, including internet/LAN security and infrastructure, hardware/software procurement, outsourcing, company web site, email, DMZ and LAN servers, and three client/server database systems, two of which utilize the internet and the third for internal use only.\n• Managed a staff of two programmers, one network administrator, one student intern and consultants.\n• Also responsible for the design, administration and hosting of the Automotive Aftermarket Industry Association (AAIA) vehicle standards database and web site, which utilized Linux, PostgreSQL, PHP, JavaScript and HTML.\n…\nsee more",
+      "date1": "Mar 2002 – Dec 2005",
+      "date2": "3 yrs 10 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Cabrini University",
+      "degree": "B.S.",
+      "fieldofstudy": "Mathematics, Computer Science",
+      "date1": "1982",
+      "date2": "1986"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Databases",
+      "count": "40"
+    },
+    {
+      "title": "Microsoft SQL Server",
+      "count": "39"
+    },
+    {
+      "title": "T-SQL",
+      "count": "31"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "7",
+    "receivedCount": "10",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/andrea-lannigan-pmi-pba%C2%AE-3809304/",
+        "text": "I have worked with Mike over the last 4 years as part of several organization-wide initiatives and projects. Mike is extremely talented and such a pleasure to work with. I have gone as far as requesting him as our data resource on several projects. Not only is he diligent in coming back to you with several options to accomplish a task or overcome a challenge, he is always smiling and is just a great personality - one of those resources you hope to never lose. Working with Mike is a genuine experience!\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/jeannebroadwell/",
+        "text": "As supervisor of Data Services at PMI, I managed Mike directly. The Data Services team is focused on SQL Server and provides production and lower environment database administrator support, as well as data development and architecture expertise in support of projects. Mike has senior-level expertise across these areas and has been a very effective and valued player on the team. In 2014, PMI implemented a new CRM product that required significant data architecture and development work. Mike's contributions during development and deployment were an important part of the project's success from the data standpoint. In addition to Mike's significant technical skills, he is professional, helpful, and downright kind. I have received consistent positive feedback from colleagues and management on Mike's skills and professionalism. Mike is an asset to any IT team.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/mudasirahmedonline/",
+        "text": "Was fortunate to work with Mike on various assignments. Highly skilled providing quick n precise database solutions. Always approachable and ready to assist resolving complex sql/data requests. Its fun to work with Mike."
+      },
+      {
+        "user": "https://www.linkedin.com/in/maggiecarroll/",
+        "text": "Mike is a dedicated database developer and is known as a reliable resource for solving even the more difficult issues. Mike is willing to jump in and help coworkers with issues outside of his area of responsibility as well, especially when impacting a release. Mike has done some dba work here as well. I've worked with Mike for 2 1/2 years at PMI, and have found him to be consistently one of the more valuable problem solvers under pressure and in a team setting. He brings a pleasant calming energy, always focusing on the solution and helping to keep team morale positive. I can recommend Mike with full confidence that he will be an asset to every team he works with.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/dibenp/",
+        "text": "Michael reported to me for his day-to-day work. He proved his competency quickly and his ability to see and understand the bigger picture while focusing on his tasks. Mike is a creative hard worker who does not shy away from difficult problems. He is confident without being arrogant, humble without being self-effacing. I welcome the opportunity to collabrate together on future projects.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/mariamatos/",
+        "text": "This is a letter of recommendation for Michael Tamburro. Michael and I worked together on the GPM inhouse system for Ficher Clinical Services (FCS). Michael is an extremely professional, knowledgeable and a competent asset to any team. He works very well with internal and external colleagues and providers and is a great team member. He is knowlegeble and excels in the effort to execute and ensure results.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/ray-osborn-1b13785/",
+        "text": "I first worked with Mike when he served as Project Manager for Mentis on the large development project which we subcontracted to them. While Mike came into that difficult project late in the game, he did a great job managing the issues that arose between the two companies. Based on that experience I was anxious to have Mike as join our organization and I was very happy when he accepted our offer. Mike has done an excellent job analyzing and diagnosing various issues with our production SQL environment, making optimization recommendations, and creating processes required for our operations.\n…\nSee more"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/vijendra-vj-subbarao-1a180024/",
+        "text": "It was my pleasure to work with VJ for the better part of a year. He was a very fast learner, quickly absorbing the complexity of our environment and various processes in only a couple months. He made an impact right away by recommending various best practices and improvements that could be made for our database servers. VJ also showed a high level of skill in the diagnosis and resolution of various production issues, including performance, security, and server configurations. Best of all, he was a very pleasant co-worker who got along well with everyone, both in IT and in the business. I highly recommend VJ for any DBA role and would welcome another opportunity to work with him in the future."
+      },
+      {
+        "user": "https://www.linkedin.com/in/jeannebroadwell/",
+        "text": "I have reported directly to Jeanne for the past 4 years, and have very much enjoyed working with her and for her. \r\n\r\nShe is an excellent communicator, which helps her to keep a team of widely varied personalities working efficiently and in harmony. She is very kind and supportive, which is great for the morale of the team, but also tough when she needs to be, to ensure a high quality of work from the team. \r\n\r\nOutside the team, Jeanne is also very good at setting and managing expectations of project managers, as well as IT and business managers. This helps reduce the stress level of all concerned.\r\n\r\nAlthough there are continuous daily operational issues and requests, Jeanne always manages to keep her eye on the larger strategic vision of the IT department and the company as a whole. This helps the team stay focused on the priorities which are important to IT management and business units.\r\n\r\nI highly recommend Jeanne as a manager of database projects and daily operations, and am grateful for the opportunity I have to work for her. She effectively works with and understands data architects, database administrators, and database developers."
+      }
+    ]
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/lana-meres-5898731/",
+      "text": "Senior Database Administrator at PJM"
+    },
+    {
+      "user": "https://www.linkedin.com/in/alyssa-patt-5a13b7151/",
+      "text": "Assistant Director at Magic Memories Child Development Center"
+    },
+    {
+      "user": "https://www.linkedin.com/in/erkan-tuna-58ab9258/",
+      "text": "Engineer at PJM Interconnection"
+    },
+    {
+      "user": "https://www.linkedin.com/in/srijith-sudhakaran-69815215/",
+      "text": "Database Administrator at Simon Property Group"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shashikant-digambar-a0b91223/",
+      "text": "DBA at Consultant"
+    },
+    {
+      "user": "https://www.linkedin.com/in/patriciabradford1/",
+      "text": "Sitecore Certified Front-End Web Developer II at Project Management Institute"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kalpana-sharma-40814233/",
+      "text": "Operations Manager"
+    },
+    {
+      "user": "https://www.linkedin.com/in/markvosteen/",
+      "text": "Systems Administrator with 30+ years of IT infrastructure management experience in various sector"
+    },
+    {
+      "user": "https://www.linkedin.com/in/edward-hadnagy-a6b79a5/",
+      "text": "Independent IT Consultant - Data Analysis Space"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kurtpodlogar/",
+      "text": "Organization Transformation, Sr Project Manager, Project Management Institute"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Michael Tamburro, MCSA",
+    "headline": "Sr. SQL Server DBA at PJM Interconnection",
+    "location": "Greater Philadelphia Area",
+    "connections": "369",
+    "summary": "I am an experienced technologist, adept at applying database technology to solve business problems. Since 2002, I have specialized in SQL Server database development and administration.\n\nSpecialties: Database Programming and Administration:\n\n• SQL Server versions 7.0 thru SQL Server 2017\n• PostgreSQL\n• MySQL"
+  }
+}

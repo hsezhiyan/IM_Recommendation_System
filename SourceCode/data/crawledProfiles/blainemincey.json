@@ -1,0 +1,315 @@
+{
+  "profileAlternative": {
+    "name": "Blaine Mincey",
+    "headline": "Principal Solutions Architect at MongoDB",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQFBp-rP8T0QLQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=d2I6xadsMujmtmnH85te_lZ5JiazRBurhRebkeLymFQ",
+    "location": "Greater Atlanta Area",
+    "connections": "500+",
+    "summary": "An enthusiastic and dedicated technology evangelist/sales engineer, software architect/middleware architect, and lead engineer. Outstanding communication and presentation skills coupled with technical aptitude and business acumen.\n\nEnjoy challenges and being pushed to the limit. Very dedicated, ambitious, motivated, and incredibly driven. Have the ability to maintain a positive attitude in stressful situations.\n\nAlways looking for a good laugh, having fun, learning new things, and anything related to soccer.\n\nSpecialties:\n- Java, JEE, Linux, Python, Node.js\n- Open-Source technologies including JBoss, Apache Camel, Spring Framework, Spring Boot, MongoDB, etc.\n- Expert in MongoDB Atlas (cloud-based DBaaS) utilizing AWS, Azure, and GCP\n- Skilled in the MEAN and MERN stacks.\n- Preference to Linux-based platforms (RHEL, Fedora, etc.)\n- Experience with Red Hat Openshift Container Platform (OCP)\n\nRecent achievements:\n- MongoDB FY19 - 100%+ of quota\n- MongoDB FY19 Excellence Club\n- MongoDB FY19 SA Major Contributor\n\nMongoDB Certifications:\n- Certified Developer\n- Certified DBA"
+  },
+  "aboutAlternative": {
+    "text": "An enthusiastic and dedicated technology evangelist/sales engineer, software architect/middleware architect, and lead engineer. Outstanding communication and presentation skills coupled with technical aptitude and business acumen.\n\nEnjoy challenges and being pushed to the limit. Very dedicated, ambitious, motivated, and incredibly driven. Have the ability to maintain a positive attitude in stressful situations.\n\nAlways looking for a good laugh, having fun, learning new things, and anything related to soccer.\n\nSpecialties:\n- Java, JEE, Linux, Python, Node.js\n- Open-Source technologies including JBoss, Apache Camel, Spring Framework, Spring Boot, MongoDB, etc.\n- Expert in MongoDB Atlas (cloud-based DBaaS) utilizing AWS, Azure, and GCP\n- Skilled in the MEAN and MERN stacks.\n- Preference to Linux-based platforms (RHEL, Fedora, etc.)\n- Experience with Red Hat Openshift Container Platform (OCP)\n\nRecent achievements:\n- MongoDB FY19 - 100%+ of quota\n- MongoDB FY19 Excellence Club\n- MongoDB FY19 SA Major Contributor\n\nMongoDB Certifications:\n- Certified Developer\n- Certified DBA"
+  },
+  "positions": [
+    {
+      "title": "MongoDB",
+      "location": "Greater Atlanta Area",
+      "description": "I am responsible for guiding MongoDB prospects/customers/users to design and build reliable, scalable systems using MongoDB. It is my direct responsibility to ensure customer success with the MongoDB suite of products. This includes but is not limited to software design, deployment patterns, and operational best practices. I work hand-in-hand with my sales team to develop strategy as well as play a key role in winning deals and driving business forward with the successful implementation/deployment of MongoDB.\n\nSpecifically, I assist in the design of systems, applications, and infrastructure to help drive some of the world's largest software development projects leveraging MongoDB. I advise customers on architectures, patterns, and strategies for making the best use of MongoDB. As a trusted partner, I work with the sales team to help ensure success in accounts ranging from small startups to large enterprises. I lead and deliver proof of concept (POC) implementations from concept through execution. As MongoDB is a highly technical product, I am required to translate technical concepts and patterns into business benefits for upper-level management and CxOs.\n\nI am currently a Technical Advisor for organizations participating in the MongoDB Startup Accelerator Program.\n\nFY19 Successes:\n- Teamed with Marcelo Rocha to win the SE MongoDB SA Hackathon\n- Achieved 100%+ of quota\n- MongoDB FY19 Excellence Club\n\n…\nsee more",
+      "date1": "Nov 2019 – Present",
+      "date2": "1 mo",
+      "roles": [
+        {
+          "title": "Principal Solutions Architect",
+          "date1": "Nov 2019 – Present",
+          "date2": "1 mo"
+        },
+        {
+          "title": "Sr. Solutions Architect",
+          "date1": "Nov 2016 – Oct 2019",
+          "date2": "3 yrs",
+          "location": "Greater Atlanta Area"
+        }
+      ]
+    },
+    {
+      "title": "Title\nPrincipal Solutions Architect",
+      "date1": "Nov 2019 – Present",
+      "date2": "1 mo",
+      "roles": [
+        {
+          "title": "Principal Solutions Architect",
+          "date1": "Nov 2019 – Present",
+          "date2": "1 mo"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSr. Solutions Architect",
+      "location": "Greater Atlanta Area",
+      "description": "I am responsible for guiding MongoDB prospects/customers/users to design and build reliable, scalable systems using MongoDB. It is my direct responsibility to ensure customer success with the MongoDB suite of products. This includes but is not limited to software design, deployment patterns, and operational best practices. I work hand-in-hand with my sales team to develop strategy as well as play a key role in winning deals and driving business forward with the successful implementation/deployment of MongoDB.\n\nSpecifically, I assist in the design of systems, applications, and infrastructure to help drive some of the world's largest software development projects leveraging MongoDB. I advise customers on architectures, patterns, and strategies for making the best use of MongoDB. As a trusted partner, I work with the sales team to help ensure success in accounts ranging from small startups to large enterprises. I lead and deliver proof of concept (POC) implementations from concept through execution. As MongoDB is a highly technical product, I am required to translate technical concepts and patterns into business benefits for upper-level management and CxOs.\n\nI am currently a Technical Advisor for organizations participating in the MongoDB Startup Accelerator Program.\n\nFY19 Successes:\n- Teamed with Marcelo Rocha to win the SE MongoDB SA Hackathon\n- Achieved 100%+ of quota\n- MongoDB FY19 Excellence Club\n\n…\nsee more",
+      "date1": "Nov 2016 – Oct 2019",
+      "date2": "3 yrs",
+      "roles": [
+        {
+          "title": "Sr. Solutions Architect",
+          "date1": "Nov 2016 – Oct 2019",
+          "date2": "3 yrs",
+          "location": "Greater Atlanta Area"
+        }
+      ]
+    },
+    {
+      "title": "Red Hat",
+      "description": "Responsible for Platform, Middleware, and Cloud technologies at Red Hat.",
+      "date1": "Mar 2015 – Nov 2016",
+      "date2": "1 yr 9 mos",
+      "roles": [
+        {
+          "title": "Sr. Solutions Architect",
+          "date1": "Mar 2015 – Nov 2016",
+          "date2": "1 yr 9 mos"
+        },
+        {
+          "title": "Sr. Middleware Solutions Architect",
+          "date1": "May 2011 – Feb 2015",
+          "date2": "3 yrs 10 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSr. Solutions Architect",
+      "description": "Responsible for Platform, Middleware, and Cloud technologies at Red Hat.",
+      "date1": "Mar 2015 – Nov 2016",
+      "date2": "1 yr 9 mos",
+      "roles": [
+        {
+          "title": "Sr. Solutions Architect",
+          "date1": "Mar 2015 – Nov 2016",
+          "date2": "1 yr 9 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSr. Middleware Solutions Architect",
+      "date1": "May 2011 – Feb 2015",
+      "date2": "3 yrs 10 mos",
+      "roles": [
+        {
+          "title": "Sr. Middleware Solutions Architect",
+          "date1": "May 2011 – Feb 2015",
+          "date2": "3 yrs 10 mos"
+        }
+      ]
+    },
+    {
+      "title": "Senior Systems Engineer",
+      "companyName": "Sonatype",
+      "description": "First pre-sales engineer at Sonatype. Technical arm of the global sales team.",
+      "date1": "Jun 2010 – Apr 2011",
+      "date2": "11 mos"
+    },
+    {
+      "title": "Senior Middleware Solutions Architect",
+      "companyName": "JBoss, a division of Red Hat",
+      "description": "Provided technical credibility to JBoss sales team.\n\nAnswered technical questions given to sales team by prospective customers in the form of RFPs or RFIs.\n\nDeveloped and conducted live demonstrations of JBoss products.\n\nEducated prospects on the capabilities of JBoss software products.\n\nIdentified the appropriate technologies to solve client problems.\n\nCollected and provided boiler plate responses to competitive FUD.\n\nFormed relationships with clients technical staff to identify new opportunities.\n\nProvided feedback to Product Management on product direction and feature usefulness (customer applicability).\n\nConducted technical screens of potential candidates.\n\nTrained new members of the team on the JBoss product line.\n\nPresented at various technology and Java User Groups.\n\nData Services Platform SME Team lead.\n…\nsee more",
+      "date1": "Apr 2008 – May 2010",
+      "date2": "2 yrs 2 mos"
+    },
+    {
+      "title": "Software Developer",
+      "companyName": "Integrated Broadband Services, LLC",
+      "description": "Designed, developed, and implemented SNMP diagnostic tool for use with primary application, Broadband Explorer.\n\nDesigned, developed, and implemented a JSR-181 Web Service to provide an external interface for a large cable provider.\n\nDeveloped data collection routines for the purpose of adding additional customer/subscribers to reduce manual intervention.\n…\nsee more",
+      "date1": "Jan 2008 – Apr 2008",
+      "date2": "4 mos"
+    },
+    {
+      "title": "Senior Software Engineer",
+      "companyName": "Omnilink Systems, Inc.",
+      "description": "Assisted in the re-architecture of the primary software application, Focal Point Location Server. Implemented the Spring Framework and Hibernate Annotations to promote code reuse and code testabililty.\n\nDesigned, developed, and implemented RF monitoring software.\n\nResponsible for the coordination of production deployments.\n…\nsee more",
+      "date1": "Apr 2007 – Jan 2008",
+      "date2": "10 mos"
+    },
+    {
+      "title": "Contractor (Computer Scientist)",
+      "companyName": "Computer Sciences Corporation",
+      "description": "Provided IT consulting services through CSC for the Centers for Disease Control in Atlanta. Developed and architected solutions for Division of Healthcare and Quality Promotion (DHQP), Division of Global Migration and Quarantine (DGMQ), and the National Center for Infectious Diseases (NCID).",
+      "date1": "May 2001 – Apr 2007",
+      "date2": "6 yrs"
+    },
+    {
+      "title": "2LT",
+      "companyName": "U.S. Army Reserve",
+      "description": "U.S. Army Adjutant General Officer Basic Course, Ft. Benjamin Harrison, IN\nSeptember - December 1993. Responsible for supply operations for more than 50 officers and non-commissioned officers.\n\nU.S. Army Infantry School, Airborne Course, Ft. Benning, GA, June - July 1991.\n…\nsee more",
+      "date1": "Jun 1993 – Oct 2001",
+      "date2": "8 yrs 5 mos"
+    },
+    {
+      "title": "Chief Systems Engineer",
+      "companyName": "Home Depot",
+      "description": "Inaugural member of development team responsible for online sales.",
+      "date1": "Aug 1999 – May 2001",
+      "date2": "1 yr 10 mos"
+    },
+    {
+      "title": "Staff Consultant",
+      "companyName": "Greenbrier & Russel, Inc.",
+      "description": "Software development services provided for Aaron Rents, Southwire, and MCI.",
+      "date1": "Nov 1997 – Jul 1999",
+      "date2": "1 yr 9 mos"
+    },
+    {
+      "title": "Developer",
+      "companyName": "Norfolk Southern Corporation",
+      "description": "Provided software development services for Revenue Accounting division",
+      "date1": "May 1996 – Nov 1997",
+      "date2": "1 yr 7 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Kennesaw State University",
+      "degree": "MS",
+      "fieldofstudy": "Applied Computer Science",
+      "date1": "2007",
+      "date2": "2012"
+    },
+    {
+      "title": "Shorter University",
+      "degree": "MBA",
+      "fieldofstudy": "Business Administration",
+      "date1": "2006",
+      "date2": "2007"
+    },
+    {
+      "title": "Southern Polytechnic State University",
+      "degree": "Gen Chem/Organic Chem/Biology/Physics",
+      "fieldofstudy": "Gen Chem/Organic Chem/Biology/Physics",
+      "date1": "2002",
+      "date2": "2005"
+    },
+    {
+      "title": "Mercer University",
+      "degree": "BA",
+      "fieldofstudy": "Political Science",
+      "date1": "1989",
+      "date2": "1993"
+    },
+    {
+      "title": "Douglas County High School",
+      "date1": "1986",
+      "date2": "1989"
+    }
+  ],
+  "skills": [
+    {
+      "title": "JBoss Application Server",
+      "count": "53"
+    },
+    {
+      "title": "Linux",
+      "count": "47"
+    },
+    {
+      "title": "Web Services",
+      "count": "41"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "5",
+    "receivedCount": "2",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/ralphnguyen/",
+        "text": "Blaine and I worked closely together at Sonatype as my pre-sales engineer. He has a high level of energy, a willingness to put in long hours, and a keen eye for detail. He was able to perform and thrive under pressure and was comfortable interacting with customers, providing demonstrations for Sonatype's webcasts, giving technical presentations, and thinking on his feet in answering questions from our customers. I would welcome the opportunity to work with Blaine again!\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/monica-shepard-680106/",
+        "text": "Dependable, Efficient, Go getter are all terms I'd use to describe Blaine. He knew our systems inside & out or knew how to find the answers. He was always there willing & ready to do what our team needed. He was great to work with."
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/ralphnguyen/",
+        "text": "Ralph is one of the best sales representatives I have ever had the pleasure of working with.  He is incredibly focused on the details that contribute to the success of his customers.  He possesses a very consultative approach to the sales process.  Rather than focus on the sale, Ralph is focused on the needs of the customer which results in outstanding results.  I would highly recommend Ralph to any sales organization and would welcome the opportunity to work with him again in the future."
+      },
+      {
+        "user": "https://www.linkedin.com/in/mike-hendrix-b3aa1b3/",
+        "text": "Mike is an extremely hard-working and detail-oriented sales representative.  He possesses incredible drive and motivation that would be valuable to any sales organization.  Mike was always trying to understand the technology as deeply as possible in order to uncover additional sales opportunities.  I would welcome the opportunity to work with Mike again in the future.  Any organization would be extremely lucky to have Mike be a part of their team."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "3",
+      "items": [
+        "Sr. Solutions Architect",
+        "Sr. Solutions Architect",
+        "Sr. Software Engineer"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/dgraz/",
+      "text": "Consulting Engineer at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/adkomyagin/",
+      "text": "Consulting Principal at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/brenttholden/",
+      "text": "Global Field CTO at HashiCorp"
+    },
+    {
+      "user": "https://www.linkedin.com/in/theckang/",
+      "text": "Solutions Engineer at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/matt-simontacchi-6863482/",
+      "text": "Head of Americas at Anaplan, Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/mkim01/",
+      "text": "Android Developer at It Works! Global"
+    },
+    {
+      "user": "https://www.linkedin.com/in/p-alexander-schofield-97b8b740/",
+      "text": "Big Data Engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/demarcodonna/",
+      "text": "Emerging Technology Regional Sales Manager Financial Services at Red Hat"
+    },
+    {
+      "user": "https://www.linkedin.com/in/naina-chaudhary-83a725153/",
+      "text": "Global Talent Acquisition Specialist at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/dustin-brockert-238a5119/",
+      "text": "Engagement Manager at MongoDB"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Volunteer Soccer Coach",
+      "experience": "i9 Sports",
+      "date1": "Aug 2016 – May 2019",
+      "date2": "2 yrs 10 mos"
+    },
+    {
+      "title": "Coach",
+      "experience": "NASA Tophat Soccer Association",
+      "date1": "Aug 2019 – Present",
+      "date2": "4 mos"
+    }
+  ],
+  "profile": {
+    "name": "Blaine Mincey",
+    "headline": "Principal Solutions Architect at MongoDB",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQFBp-rP8T0QLQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=d2I6xadsMujmtmnH85te_lZ5JiazRBurhRebkeLymFQ",
+    "location": "Greater Atlanta Area",
+    "connections": "500+",
+    "summary": "An enthusiastic and dedicated technology evangelist/sales engineer, software architect/middleware architect, and lead engineer. Outstanding communication and presentation skills coupled with technical aptitude and business acumen.\n\nEnjoy challenges and being pushed to the limit. Very dedicated, ambitious, motivated, and incredibly driven. Have the ability to maintain a positive attitude in stressful situations.\n\nAlways looking for a good laugh, having fun, learning new things, and anything related to soccer.\n\nSpecialties:\n- Java, JEE, Linux, Python, Node.js\n- Open-Source technologies including JBoss, Apache Camel, Spring Framework, Spring Boot, MongoDB, etc.\n- Expert in MongoDB Atlas (cloud-based DBaaS) utilizing AWS, Azure, and GCP\n- Skilled in the MEAN and MERN stacks.\n- Preference to Linux-based platforms (RHEL, Fedora, etc.)\n- Experience with Red Hat Openshift Container Platform (OCP)\n\nRecent achievements:\n- MongoDB FY19 - 100%+ of quota\n- MongoDB FY19 Excellence Club\n- MongoDB FY19 SA Major Contributor\n\nMongoDB Certifications:\n- Certified Developer\n- Certified DBA"
+  }
+}

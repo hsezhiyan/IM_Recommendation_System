@@ -1,0 +1,310 @@
+{
+  "profileAlternative": {
+    "name": "Michele Costabile",
+    "headline": "C++ and Java programmer presso Michele Costabile",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQGXhGNibETOPA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=DIkXPEYzqgGwBS080S6pM_MvViWxh4zenMhzqttIKJc",
+    "location": "Milan Area, Italy",
+    "connections": "500+",
+    "summary": "I started as a C programmer, Unix kernel developer and project leader for a COBOL compiler. Later, embraced the web in 1989 when it was just a research project unknown to the public.\nIn 1996 I loved Java, after reading James Gosling's white paper in the comp.lang newsgroup and started a monthly column still going on today, on the top selling monthly computer magazine in Italy.\nLately, I am involved in app creation and am exploring the maker world.\nI have a degree in Physics with a thesis on nuclear reactors, and a degree in jazz music. I love teaching and watching people grow.\n\nKeywords: Group motivation and education, technical writing, programming languages, Software engineering, Design patterns, Best practices\n\nPlays: bass guitar, guitar, flute."
+  },
+  "aboutAlternative": {
+    "text": "I started as a C programmer, Unix kernel developer and project leader for a COBOL compiler. Later, embraced the web in 1989 when it was just a research project unknown to the public.\nIn 1996 I loved Java, after reading James Gosling's white paper in the comp.lang newsgroup and started a monthly column still going on today, on the top selling monthly computer magazine in Italy.\nLately, I am involved in app creation and am exploring the maker world.\nI have a degree in Physics with a thesis on nuclear reactors, and a degree in jazz music. I love teaching and watching people grow.\n\nKeywords: Group motivation and education, technical writing, programming languages, Software engineering, Design patterns, Best practices\n\nPlays: bass guitar, guitar, flute."
+  },
+  "positions": [
+    {
+      "title": "C++ and Java programmer",
+      "companyName": "Rivoluzione Digitale srl",
+      "location": "Milano",
+      "description": "I am working on a message exchange for bank payments, with a special focus on the a PKI infrastructure, serving a network of secure servers, involved in a money transfer application with a very heavy anticipated load and stringent response times.\nMy contribution goes from the design level to actual coding in Java and C++.",
+      "date1": "Jun 2016 – Present",
+      "date2": "3 yrs 6 mos"
+    },
+    {
+      "title": "Michele Costabile",
+      "location": "Milano",
+      "description": "I am developing a museum application which renders users inside vintage pictures and videos, using a Kinect game sensor to track body movement. The application counts 8.000 lines of C++ code.",
+      "date1": "Jan 2017 – Present",
+      "date2": "2 yrs 11 mos",
+      "roles": [
+        {
+          "title": "Kinect programmer",
+          "date1": "Jan 2017 – Present",
+          "date2": "2 yrs 11 mos",
+          "location": "Milano"
+        },
+        {
+          "title": "Free lance mobile developer",
+          "date1": "2013 – Present",
+          "date2": "6 yrs",
+          "location": "Milano"
+        },
+        {
+          "title": "Sviluppatore open source",
+          "date1": "Jan 2015 – Dec 2016",
+          "date2": "2 yrs",
+          "location": "Milano"
+        }
+      ]
+    },
+    {
+      "title": "Title\nKinect programmer",
+      "location": "Milano",
+      "description": "I am developing a museum application which renders users inside vintage pictures and videos, using a Kinect game sensor to track body movement. The application counts 8.000 lines of C++ code.",
+      "date1": "Jan 2017 – Present",
+      "date2": "2 yrs 11 mos",
+      "roles": [
+        {
+          "title": "Kinect programmer",
+          "date1": "Jan 2017 – Present",
+          "date2": "2 yrs 11 mos",
+          "location": "Milano"
+        }
+      ]
+    },
+    {
+      "title": "Title\nFree lance mobile developer",
+      "location": "Milano",
+      "description": "I have developed a few applications, available on the Apple AppStore and on the Google Play store, using web techniques, the Cordova platform and an open source JavaScript framework I wrote (http://michelecos.github.io/aerogel/).",
+      "date1": "2013 – Present",
+      "date2": "6 yrs",
+      "roles": [
+        {
+          "title": "Free lance mobile developer",
+          "date1": "2013 – Present",
+          "date2": "6 yrs",
+          "location": "Milano"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSviluppatore open source",
+      "location": "Milano",
+      "description": "I have developed a minimalistic JavaScript framework for applications, based on standard EcmaScript 2015 and Webpack. The sources are on Github (http://michelecos.github.io)",
+      "date1": "Jan 2015 – Dec 2016",
+      "date2": "2 yrs",
+      "roles": [
+        {
+          "title": "Sviluppatore open source",
+          "date1": "Jan 2015 – Dec 2016",
+          "date2": "2 yrs",
+          "location": "Milano"
+        }
+      ]
+    },
+    {
+      "title": "Owner",
+      "companyName": "Frooga",
+      "location": "Milano",
+      "description": "Frooga is a startup working on a web crawling project. The end product is a crawling engine able to seek very specific results on the web, for example indexing e-commerce sites to collect prices or indexing band sites to gather concert dates. Frooga uses big data techniques, like Hadoop, Cascading and Bixo. The project will run in the Amazon cloud.",
+      "date1": "2012 – Present",
+      "date2": "7 yrs"
+    },
+    {
+      "title": "Contributing Editor",
+      "companyName": "Visibilia Group - Bioera Holding spa",
+      "description": "Published a monthly Java column since Java started, reviewing developer tools and creating tutorials on new languages, technologies and techniques. My online contributions may be found here (in Italian) http://bit.ly/mXUZGg. Published a book on the Java language, that has sold thousands of copies in newsstands. Recently have started creating books for the Amazon Kindle.",
+      "date1": "1996 – Present",
+      "date2": "23 yrs"
+    },
+    {
+      "title": "Musician",
+      "companyName": "Free lance",
+      "description": "Free lance bass player",
+      "date1": "Jan 2012 – Present",
+      "date2": "7 yrs 11 mos"
+    },
+    {
+      "title": "Application architect",
+      "companyName": "Crea",
+      "description": "Helped Crea update its image providing the framework for a complete redesign of their ticketing self service application. The new User Interface has been based on Silverlight to allow for maximum visual impact and extreme customization opportunities. The end result has been installed in hundreds of cinemas in Italy.",
+      "date1": "Jan 2010 – Dec 2010",
+      "date2": "12 mos"
+    },
+    {
+      "title": "Application architect",
+      "companyName": "7pixel",
+      "description": "As s Chief Architect i created a heavily dynamic web application for flight booking. The project ended with a massive 10.000 lines of JavaScript code in the User Interface, but managed to get extreme interactivity without losing speed. The end result can be seen at welekeo.it.\nThis project has also served as a testbed for Extreme Programming and other Agile methodologies, with interesting results.\n…\nsee more",
+      "date1": "2009 – 2010",
+      "date2": "1 yr"
+    },
+    {
+      "title": "Software Architect",
+      "companyName": "Soluta.net",
+      "location": "Treviso",
+      "description": "I contributed a few key ideas in the areas of identification and definition of roles and communities to a European Project Persist (www.ict-persist.eu), aiming to envision and design requisites and architecture for an Internet of things.\nThe ideas I moved forward where necessary to shape communication chaos into useful notification streams and to provide security.\n…\nsee more",
+      "date1": "2008 – Jan 2009",
+      "date2": "1 yr"
+    },
+    {
+      "title": "Chief Technology Officer",
+      "companyName": "Zucchetti",
+      "location": "Lodi",
+      "description": "I have been CTO in a division of Zucchetti creating software for ERP solutions for Governement agencies. I architected a platform of web applications, based on Java, using Business Process Engineering and workflow concepts.\nI also designed and coded a Document Management System based on open standards and Open Source Software.\nMy final assignement was the creation of a fast and powerful web and mobile phone web UI.\n…\nsee more",
+      "date1": "Jun 2003 – Apr 2007",
+      "date2": "3 yrs 11 mos"
+    },
+    {
+      "title": "Software Architect",
+      "companyName": "Zucchetti.com",
+      "location": "Lodi, Italy",
+      "description": "I designed the solutions needed to create a server farm containing hundreds of servers. I chose software platforms, specified hardware and architected the structure of services running in the server farm.",
+      "date1": "Nov 2000 – Jul 2003",
+      "date2": "2 yrs 9 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Civici Corsi di Jazz",
+      "degree": "Bass Player",
+      "fieldofstudy": "Music Theory and Composition",
+      "date1": "2009",
+      "date2": "2012"
+    },
+    {
+      "title": "University of Pavia",
+      "degree": "dottore",
+      "fieldofstudy": "Fisica",
+      "date1": "2009",
+      "date2": "2011"
+    }
+  ],
+  "skills": [
+    {
+      "title": "JavaScript",
+      "count": "47"
+    },
+    {
+      "title": "Web Applications",
+      "count": "35"
+    },
+    {
+      "title": "Java",
+      "count": "30"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "8",
+    "receivedCount": "14",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/aldopomponi/",
+        "text": "Michele è una persona speciale. Consulente, Giornalista, Innovatore, Papà. Combina la passione per la tecnologia e il rispetto per l'umanità. Se un giorno dovessimo perdere tutto il software Michele potrebbe ricominciare a scrivere un sistema operativo e tutto il resto che serve . Oggi Michele può aiutare tutti noi fornendo un punto di vista su tecnologia, società, informazione e gestione della conoscenza piuttosto unico. Se devi impostare un nuovo progetto che coniughi tecnologia, innovazione e funzionalità innovative Michele è il Consulente ideale.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/mora07/",
+        "text": "Michele e' un uomo su cui contare se si vuole innovare veramente o riprogettare un software!"
+      },
+      {
+        "user": "https://www.linkedin.com/in/fabiomalagnini/",
+        "text": "MIchele wrote one of first and most popular Italian guide to Java for my publishing company, he is great expert and a smart communicator of tecnical subjects. With a very personal touch that matters final result."
+      },
+      {
+        "user": "https://www.linkedin.com/in/andrea-broglia-0836b2/",
+        "text": "Michele has a deep knowledge of computer programming and software architecture. He is always up to date with programming languages and new technologies in general. While working for 7Pixel he has brought his wide experience to build an highly efficient software made by a solid server and a fast and highly interactive web user interface. He was also constantly focused on web usability. I've learned something new every day by working with Michele.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/pferronato/",
+        "text": "Michele is a key expert providing remarkable value added. You can trust him"
+      },
+      {
+        "user": "https://www.linkedin.com/in/federico-del-freo-82871a25/",
+        "text": "Michele è un solution maker nell tecnologie avanzate, ha piena padronanza di linguaggi, database, tecnologie e logiche applicative nei campi più svariati: dal web 2.0, ai sistemi di certificazione, al pagamento on line."
+      },
+      {
+        "user": "https://www.linkedin.com/in/francesco-lacapra-b6a57/",
+        "text": "I have had the pleasure to work with Michele Costabile when he was a member of my development team in Olivetti. At the time, I was the Director in charge of the development of Unix Systems for the Olivetti Minicomputer Division. Michele is technically very skilled and very well versed in a number of different areas, such as: Operating Systems, programming languages, GUI tools and especially web-related technologies. He has a very acute interest in developing innovative ways to solve problems, generally based on state of the art technologies. He is always up-to-speed on the best technologies to be used to solve certain classes of problems. His knowledge, which he keeps updating, by gaining access to the best available resources also allows him to successfully mentor younger engineers. He is a good and clear communicator, is extremely personable and well versed in many other disciplines, well beyond his work-related interests. Thanks to his wide experience and training, in my opinion, he is the ideal member of any team that needs somebody able to design complex systems, avoiding any pitfalls and mistakes less experienced and more simple-minded developers might fall into. Without any doubt I would rehire him immediately.\n…\nSee more"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/paola-terenzio-1a725765/",
+        "text": "Paola è una grande insegnante, paziente e attenta al percorso degli allievi. Il suo suono potente e duttile è una costante fonte di ispirazione per gli allievi.\r\n\r\nPaola is a sharp teacher, patient and focused on the progress of her students. Her sound, so powerful and ductile is a constant source of inspiration for her students."
+      },
+      {
+        "user": "https://www.linkedin.com/in/mora07/",
+        "text": "Francesco è stato scrupoloso e disponibile nel suo lavoro e un ottimo membro del gruppo. Lavora con passione e si tiene aggiornato.\r\nIn definitiva è un eccellente team player."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "3",
+      "items": [
+        "Java Security",
+        "The Java Language",
+        "PC Professionale"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "Fisica",
+        "Jazz Music"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "Inglese",
+        "Ita"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "An airline reservation system (welekeo.it)"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/guglielmo-mengora-2a03141/",
+      "text": "Founder and CEO at Netcore s.r.l. (VaiSulWeb)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/alberto-ponti-36732a7/",
+      "text": "Senior Partner at F2i SGR Head of Strategy & Business Development"
+    },
+    {
+      "user": "https://www.linkedin.com/in/giuseppe-carbone-a122a4102/",
+      "text": "Tecnico Service impianti di Cogenerazione"
+    },
+    {
+      "user": "https://www.linkedin.com/in/luca-valle-3613848/",
+      "text": "Responsabile Business Solutions Lab"
+    },
+    {
+      "user": "https://www.linkedin.com/in/paolo-gorni-80169746/",
+      "text": "Wholesale Key Account presso Nove25"
+    },
+    {
+      "user": "https://www.linkedin.com/in/giuseppe-meazza-38154/",
+      "text": "responsabile sistemi windows at universita' degli studi di milano - bicocca"
+    },
+    {
+      "user": "https://www.linkedin.com/in/alessandro-cillari-3010a9b3/",
+      "text": "Sviluppo di programmi"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sandra-piperno-01b44928/",
+      "text": "Psicoterapeuta psicoanalitica presso studio privato"
+    },
+    {
+      "user": "https://www.linkedin.com/in/fabiola-russo-6a9aa9190/",
+      "text": "Booking-Agent"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tommaso-binda-02aa84151/",
+      "text": "Studente laureato presso Università degli Studi di Milano"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Michele Costabile",
+    "headline": "C++ and Java programmer presso Michele Costabile",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQGXhGNibETOPA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=DIkXPEYzqgGwBS080S6pM_MvViWxh4zenMhzqttIKJc",
+    "location": "Milan Area, Italy",
+    "connections": "500+",
+    "summary": "I started as a C programmer, Unix kernel developer and project leader for a COBOL compiler. Later, embraced the web in 1989 when it was just a research project unknown to the public.\nIn 1996 I loved Java, after reading James Gosling's white paper in the comp.lang newsgroup and started a monthly column still going on today, on the top selling monthly computer magazine in Italy.\nLately, I am involved in app creation and am exploring the maker world.\nI have a degree in Physics with a thesis on nuclear reactors, and a degree in jazz music. I love teaching and watching people grow.\n\nKeywords: Group motivation and education, technical writing, programming languages, Software engineering, Design patterns, Best practices\n\nPlays: bass guitar, guitar, flute."
+  }
+}

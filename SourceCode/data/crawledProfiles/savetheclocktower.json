@@ -1,0 +1,133 @@
+{
+  "profileAlternative": {
+    "name": "Andrew Dupont",
+    "headline": "UI Developer and JavaScript Mercenary",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQGMHyummq96Jg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=Egv-Bm3nn9PwsVlMiQaaaB2-F6Pc836jx9cNy3pMOik",
+    "location": "Austin, Texas Area",
+    "connections": "92",
+    "summary": "I'm a web developer and designer with an interest in usability, user interfaces, and information architecture.\n\nI’m the co-maintainer of Prototype, the popular JavaScript toolkit. I’m also the author of Practical Prototype &amp; script.aculo.us, a book published by Apress about Prototype and its sister effects/UI controls library.\n\nI’ve given presentations about Prototype and JavaScript in general at SXSW Interactive (2007, 2008) and The Ajax Experience (2008).\n\nhttp://www.speakerrate.com/speakers/6617-andrew-dupont\n\nI’ve done a lot of ugly, real-world problem-solving to get JavaScript to behave the same way in all major browsers. This has given me a mixture of satisfaction and nausea.\n\nSpecialties: JavaScript, front-end web development, UI development, UI design, web design, HTML, CSS"
+  },
+  "aboutAlternative": {
+    "text": "I'm a web developer and designer with an interest in usability, user interfaces, and information architecture.\n\nI’m the co-maintainer of Prototype, the popular JavaScript toolkit. I’m also the author of Practical Prototype &amp; script.aculo.us, a book published by Apress about Prototype and its sister effects/UI controls library.\n\nI’ve given presentations about Prototype and JavaScript in general at SXSW Interactive (2007, 2008) and The Ajax Experience (2008).\n\nhttp://www.speakerrate.com/speakers/6617-andrew-dupont\n\nI’ve done a lot of ugly, real-world problem-solving to get JavaScript to behave the same way in all major browsers. This has given me a mixture of satisfaction and nausea.\n\nSpecialties: JavaScript, front-end web development, UI development, UI design, web design, HTML, CSS"
+  },
+  "positions": [
+    {
+      "title": "Core Committer",
+      "companyName": "The Prototype JavaScript Framework",
+      "description": "I have been involved with the development of Prototype (http://prototypejs.org) since mid-2006 — first as a hobbyist patch-writer, then as a member of the core development team.\n\nRecently, Tobie Langel and I were named co-maintainers of the project. I’m now responsible for planning a roadmap, prioritizing features, designing the API, and writing a great deal of JavaScript code for a library that is used by some of the most popular sites on the Web.",
+      "date1": "Jan 2007 – Present",
+      "date2": "12 yrs 11 mos"
+    },
+    {
+      "title": "Developer",
+      "companyName": "Gowalla Incorporated",
+      "description": "Owned the front-end architecture for gowalla.com (both desktop and mobile web) and m.gowalla.com (the mobile web version of our phone client). Wrote nearly all the JavaScript at Gowalla. Owned (and implemented all aspects of) several key features, front-end and back-end. Did a bunch of refactoring of JavaScript files and Rails models/controllers. Collaborated on interaction design with Gowalla's visual designers.\n…\nsee more",
+      "date1": "Apr 2009 – Dec 2011",
+      "date2": "2 yrs 9 mos"
+    },
+    {
+      "title": "Technologist",
+      "companyName": "frog design",
+      "description": "Implemented user interfaces for sundry client projects on various platforms. Learned Google Android on the job.\n\nGave “mercenary” JavaScript support to several teams to help them meet deadlines. Made myself available as a JavaScript guru for questions and problem-solving.\n…\nsee more",
+      "date1": "Oct 2007 – Jan 2009",
+      "date2": "1 yr 4 mos"
+    },
+    {
+      "title": "UI Developer",
+      "companyName": "Spiceworks",
+      "description": "Worked on the front-end of a network monitoring app for small businesses.\n\nWrote large amounts of JavaScript, CSS, HTML; worked with Ruby on Rails.\n\nPart of a small UI team. The company itself was obsessed with look and feel, so we were expected to contribute to the UI deliberations and deliver rapid prototypes.\n\nWas the primary developer on a very large feature of the Spiceworks 1.6 release.\n…\nsee more",
+      "date1": "Mar 2007 – Jul 2007",
+      "date2": "5 mos"
+    },
+    {
+      "title": "UI Developer",
+      "companyName": "BMC Software",
+      "description": "Was the sole developer on BMC’s usability team (10-12 people).\n\nWrote the HTML, CSS, and JavaScript for a common user interface for all of BMC’s browser-based applications, then helped teams integrate it into their own apps.\n\nGained a lot of experience converting designs into code. Worked closely with a visual designer to produce UIs that were both beautiful and practical.\n\nSupported a handful of product teams. Juggled projects in an environment where deadlines often clashed.\n\nEvangelized web standards, usability, and accessibility to skeptics.\n…\nsee more",
+      "date1": "Oct 2005 – Feb 2007",
+      "date2": "1 yr 5 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "The University of Texas at Austin",
+      "degree": "B. Journalism",
+      "fieldofstudy": "Multimedia Journalism",
+      "date1": "2000",
+      "date2": "2004"
+    }
+  ],
+  "skills": [
+    {
+      "title": "CSS",
+      "count": "6"
+    },
+    {
+      "title": "User Interface Design",
+      "count": "5"
+    },
+    {
+      "title": "JavaScript",
+      "count": "4"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "4",
+    "receivedCount": "3",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/ashtonpeters/",
+        "text": "Andrew's knowledge of technology is exceptional and proves to be a definite asset to his teams. He works well with designers of all backgrounds and communicates complex information effectively. Andrew is an all around nice person to the core and incredibly funny, which is why I would work with him on any project, ever. He's great."
+      },
+      {
+        "user": "https://www.linkedin.com/in/sandiboudreau/",
+        "text": "Andrew is a talented, unique and extraordinarily intelligent night owl with wicked-quick wit. I enjoy being on his team and watching him readily welcome any challenge and creatively respond to each hurdle that comes his way."
+      },
+      {
+        "user": "https://www.linkedin.com/in/christopheporteneuve/",
+        "text": "I've been working with Andrew on Prototype for about 2 years now, and he continually amazes me with his commitment, his steadfastness, and strokes of sheer brilliance. Andrew is dedicated to moving things forward, but not in a reckless way that would be detrimental to quality or robustness. He feels like a force of progress. Work with him, I can't imagine you'd end up anything less than glad you did.\n…\nSee more"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/ashtonpeters/",
+        "text": "Ashton is smart as hell, communicates well, and cares about the stuff she's working on. Or, put more simply: Ashton was most excellent to work with."
+      },
+      {
+        "user": "https://www.linkedin.com/in/lordkev/",
+        "text": "Kevin has the second-weirdest sense of humor of anyone I worked with at Gowalla. He was brought on as a sysadmin, but soon revealed a talent for iOS development. Without his help in that area, I doubt we'd have been able to release the next version of our iPhone client on schedule."
+      }
+    ]
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/gregory-brewer-939b0360/",
+      "text": "Vice President-Managing Counsel at Fidelity National Financial"
+    },
+    {
+      "user": "https://www.linkedin.com/in/john-carter-a3949b89/",
+      "text": "Branch Manager at TD Ameritrade"
+    },
+    {
+      "user": "https://www.linkedin.com/in/norm-peters-m-a-6aabbb29/",
+      "text": "Lead Farmhand of CV Vineyard Operations at Trinchero Family Estates"
+    },
+    {
+      "user": "https://www.linkedin.com/in/aaronwalther/",
+      "text": "PullRequest | Code Review as a Service | Director of Sales"
+    },
+    {
+      "user": "https://www.linkedin.com/in/j-d-nichols-95231a194/",
+      "text": "Student at University of North Carolina at Chapel Hill"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Andrew Dupont",
+    "headline": "UI Developer and JavaScript Mercenary",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQGMHyummq96Jg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=Egv-Bm3nn9PwsVlMiQaaaB2-F6Pc836jx9cNy3pMOik",
+    "location": "Austin, Texas Area",
+    "connections": "92",
+    "summary": "I'm a web developer and designer with an interest in usability, user interfaces, and information architecture.\n\nI’m the co-maintainer of Prototype, the popular JavaScript toolkit. I’m also the author of Practical Prototype &amp; script.aculo.us, a book published by Apress about Prototype and its sister effects/UI controls library.\n\nI’ve given presentations about Prototype and JavaScript in general at SXSW Interactive (2007, 2008) and The Ajax Experience (2008).\n\nhttp://www.speakerrate.com/speakers/6617-andrew-dupont\n\nI’ve done a lot of ugly, real-world problem-solving to get JavaScript to behave the same way in all major browsers. This has given me a mixture of satisfaction and nausea.\n\nSpecialties: JavaScript, front-end web development, UI development, UI design, web design, HTML, CSS"
+  }
+}

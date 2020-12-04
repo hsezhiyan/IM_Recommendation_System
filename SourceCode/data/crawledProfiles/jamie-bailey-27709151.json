@@ -1,0 +1,394 @@
+{
+  "profileAlternative": {
+    "name": "Jamie Bailey",
+    "headline": "Group Manager - CPG Marketing & Business Development at The Haskell Company",
+    "imageurl": "https://media.licdn.com/dms/image/C5103AQGRxkMSlgCVOg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=hgh3XgcUC9-iVA8u-v6oi-Zk47rsmjY62PMKePOwFyA",
+    "location": "Jacksonville, Florida",
+    "connections": "500+",
+    "summary": "The Haskell Company delivers Architecture, Engineering, Construction (AEC) and Consulting solutions to assure certainty of outcome for complex capital projects worldwide. We are a global, fully integrated, single source design-build and EPC firm that has 1,300 highly specialized, in-house design, construction and administrative professionals across industrial and commercial market sectors. Our solutions are centered around: Facility Design & Construction Management , Packaging Design & Layout, Process Design & Layout, Packaging Automation, CIP/SIP Implementation, Material Handling, System Analytics."
+  },
+  "aboutAlternative": {
+    "text": "The Haskell Company delivers Architecture, Engineering, Construction (AEC) and Consulting solutions to assure certainty of outcome for complex capital projects worldwide. We are a global, fully integrated, single source design-build and EPC firm that has 1,300 highly specialized, in-house design, construction and administrative professionals across industrial and commercial market sectors. Our solutions are centered around: Facility Design & Construction Management , Packaging Design & Layout, Process Design & Layout, Packaging Automation, CIP/SIP Implementation, Material Handling, System Analytics."
+  },
+  "positions": [
+    {
+      "title": "The Haskell Company",
+      "location": "Jacksonville, Florida Area",
+      "description": "Responsible for global growth across platforms including food and beverage, consumer products, beer, wine & spirits, and industrial manufacturing.\n\nHaskell, a trusted partner for global, regional and local clients, is a fully integrated, single source design-build and EPC firm delivering Architecture, Engineering, Construction (AEC) and Consulting solutions to assure certainty of outcome for complex capital projects worldwide.",
+      "date1": "Mar 2019 – Present",
+      "date2": "9 mos",
+      "roles": [
+        {
+          "title": "Group Manager - CPG Marketing & Business Development",
+          "date1": "Mar 2019 – Present",
+          "date2": "9 mos",
+          "location": "Jacksonville, Florida Area"
+        },
+        {
+          "title": "Lead Manager, Business Development - Consumer Packaged Goods",
+          "date1": "Dec 2017 – Mar 2019",
+          "date2": "1 yr 4 mos",
+          "location": "Jacksonville, Florida"
+        },
+        {
+          "title": "Business Development Manager - Consumer Packaged Goods",
+          "date1": "Dec 2009 – Nov 2017",
+          "date2": "8 yrs",
+          "location": "Jacksonville, Florida Area"
+        }
+      ]
+    },
+    {
+      "title": "Title\nGroup Manager - CPG Marketing & Business Development",
+      "location": "Jacksonville, Florida Area",
+      "description": "Responsible for global growth across platforms including food and beverage, consumer products, beer, wine & spirits, and industrial manufacturing.\n\nHaskell, a trusted partner for global, regional and local clients, is a fully integrated, single source design-build and EPC firm delivering Architecture, Engineering, Construction (AEC) and Consulting solutions to assure certainty of outcome for complex capital projects worldwide.",
+      "date1": "Mar 2019 – Present",
+      "date2": "9 mos",
+      "roles": [
+        {
+          "title": "Group Manager - CPG Marketing & Business Development",
+          "date1": "Mar 2019 – Present",
+          "date2": "9 mos",
+          "location": "Jacksonville, Florida Area"
+        }
+      ]
+    },
+    {
+      "title": "Title\nLead Manager, Business Development - Consumer Packaged Goods",
+      "location": "Jacksonville, Florida",
+      "description": "Lead Manager, Business Development at Haskell overseeing client relationship management for the company’s largest practice, the Consumer & Packaged Goods (CPG) industrial delivery group.",
+      "date1": "Dec 2017 – Mar 2019",
+      "date2": "1 yr 4 mos",
+      "roles": [
+        {
+          "title": "Lead Manager, Business Development - Consumer Packaged Goods",
+          "date1": "Dec 2017 – Mar 2019",
+          "date2": "1 yr 4 mos",
+          "location": "Jacksonville, Florida"
+        }
+      ]
+    },
+    {
+      "title": "Title\nBusiness Development Manager - Consumer Packaged Goods",
+      "location": "Jacksonville, Florida Area",
+      "date1": "Dec 2009 – Nov 2017",
+      "date2": "8 yrs",
+      "roles": [
+        {
+          "title": "Business Development Manager - Consumer Packaged Goods",
+          "date1": "Dec 2009 – Nov 2017",
+          "date2": "8 yrs",
+          "location": "Jacksonville, Florida Area"
+        }
+      ]
+    }
+  ],
+  "educations": [
+    {
+      "title": "Columbia Southern University",
+      "degree": "Bachelor of Science in Business Administration - Marketing"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Project Control",
+      "count": "61"
+    },
+    {
+      "title": "Earned Value Management",
+      "count": "52"
+    },
+    {
+      "title": "Construction",
+      "count": "45"
+    },
+    {
+      "title": "Project Planning",
+      "count": "38"
+    },
+    {
+      "title": "Risk Management",
+      "count": "34"
+    },
+    {
+      "title": "Procurement",
+      "count": "34"
+    },
+    {
+      "title": "Contract Management",
+      "count": "27"
+    },
+    {
+      "title": "Project Management",
+      "count": "27"
+    },
+    {
+      "title": "Cost Control",
+      "count": "19"
+    },
+    {
+      "title": "Project Estimation",
+      "count": "14"
+    },
+    {
+      "title": "Analysis",
+      "count": "13"
+    },
+    {
+      "title": "PMP",
+      "count": "12"
+    },
+    {
+      "title": "Program Management",
+      "count": "11"
+    },
+    {
+      "title": "Resource Management",
+      "count": "10"
+    },
+    {
+      "title": "Project Coordination",
+      "count": "9"
+    },
+    {
+      "title": "Budgets",
+      "count": "8"
+    },
+    {
+      "title": "Cost Engineering",
+      "count": "7"
+    },
+    {
+      "title": "PMO",
+      "count": "7"
+    },
+    {
+      "title": "Cost Management",
+      "count": "6"
+    },
+    {
+      "title": "Insurance",
+      "count": "6"
+    },
+    {
+      "title": "Risk Analysis",
+      "count": "5"
+    },
+    {
+      "title": "Human Resources",
+      "count": "5"
+    },
+    {
+      "title": "Business Development",
+      "count": "4"
+    },
+    {
+      "title": "Executive Search",
+      "count": "2"
+    },
+    {
+      "title": "Engineering",
+      "count": "2"
+    },
+    {
+      "title": "Budgeting",
+      "count": "2"
+    },
+    {
+      "title": "Manufacturing",
+      "count": "2"
+    },
+    {
+      "title": "Construction Management",
+      "count": "1"
+    },
+    {
+      "title": "Business Process Improvement",
+      "count": "1"
+    },
+    {
+      "title": "Strategic Planning"
+    },
+    {
+      "title": "Sales"
+    },
+    {
+      "title": "Energy"
+    },
+    {
+      "title": "Operations Management"
+    },
+    {
+      "title": "Account Management"
+    },
+    {
+      "title": "Primavera P6",
+      "count": "14"
+    },
+    {
+      "title": "MS Project",
+      "count": "9"
+    },
+    {
+      "title": "Microsoft Project",
+      "count": "9"
+    },
+    {
+      "title": "Access",
+      "count": "4"
+    },
+    {
+      "title": "Microsoft Office",
+      "count": "1"
+    },
+    {
+      "title": "Microsoft Excel"
+    },
+    {
+      "title": "Management",
+      "count": "32"
+    },
+    {
+      "title": "Contract Negotiation",
+      "count": "9"
+    },
+    {
+      "title": "Leadership",
+      "count": "9"
+    },
+    {
+      "title": "Customer Service",
+      "count": "6"
+    },
+    {
+      "title": "Negotiation",
+      "count": "1"
+    },
+    {
+      "title": "Team Building"
+    },
+    {
+      "title": "Cross-functional Team Leadership"
+    },
+    {
+      "title": "WBS",
+      "count": "8"
+    },
+    {
+      "title": "Cost Benefit",
+      "count": "4"
+    },
+    {
+      "title": "Talent Acquisition",
+      "count": "3"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "2",
+    "receivedCount": "5",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/daveauchter/",
+        "text": "Jamie is equally a tremendous asset to Haskell and Haskell clients. He deeply understands and appreciates our service offerings and capabilities; the highly educated and experienced experts who are the core of our success; and the Haskell culture that doesn't simply encourage, but rather, demands integrity, excellence and trust."
+      },
+      {
+        "user": "https://www.linkedin.com/in/dave-balz-38804151/",
+        "text": "Business Development - great launch"
+      },
+      {
+        "user": "https://www.linkedin.com/in/dennis-nihiser-13b4242/",
+        "text": "Jamie has a very strong work ethic, great communication skills and is a very strong project team player. In addition to supporting the project controls manager directly, Jamie worked closely with the NASA Control Account Managers, subcontractors, vendors, construction supervision personnel and had an excellent working relationship with everyone. Jamie is a quick study and learned EVM techniques in a very high stress environment. We daily relied on Jamie to assist the PC Team and the field staff in all aspects of EVM and project controls support. I highly recommend Jamie\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/jamesabaker1/",
+        "text": "Jamie is very intuitive with the work that he provides to his clients while being extremely personable and detailed. He is great with follow-ups and ensures that his clients are taken care of on the highest level"
+      },
+      {
+        "user": "https://www.linkedin.com/in/roy-wright-6298ba51/",
+        "text": "I worked with Jamie on a very large NASA project that required detailed EVMS. This project was a very high profile project that was always on the cutting edge of technology. Jamie had to oversee several aspects of this project and was always on top of his game. He was responsible for 32 sub contractors and making sure they invoiced the proper amounts each and ever month for over 2 1/2 years. If that wasn't enough he took care of all the procurement responsiblities and made sure all charges to the project hit the correct task each month. The level of detail that Jamie provide to this project was outstanding and I was very proud to work with such a deddicated person. If I ever have a project like this one in the furture Jamie would be the first person I would call.\n…\nSee more"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/terenceaholt/",
+        "text": "Terry is an extremely knowledgeable person who is consistently driven and wonderful to work with.  Not only is Mr. Holt knowledgeable within the Accounting field but is always willing to pass on his knowledge to coworkers/employees which always results in a bettering of his department. He is very precise and wonderful with time management giving him a reputation of being \"on top of things\". His best skill I would say is his ability to recognize business solutions and take the initiative to implement them successfully. Terry supported a 4 project Design/Build Construction Program totaling well above $300+ Million in revenue, mostly by himself.  In short, I would say that Mr. Holt is an Accounting professional that any company would be fortunate to have on staff."
+      },
+      {
+        "user": "https://www.linkedin.com/in/roy-wright-6298ba51/",
+        "text": "Roy is one of those great senior level managers who also naturally serves as an inspiring mentor for a whole group. Roy exhibits strong interpersonal skills and a unique capacity for empathy. These qualities most notably translate in his ability to motivate a team to care about its project and be invested in the project’s success.  I had the pleasure of working with him at SAIC. Having such a great mentor in EVMS and Project Controls was something I was lucky to have. I highly recommend Roy!"
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "2",
+      "items": [
+        "Project Controller of the Quarter",
+        "Q1 Quarterly Employee Recognition Runner Up Award"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "English",
+        "Spanish"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/john-paul-saenz-b4267011/",
+      "text": "Chief Operating Officer at Haskell"
+    },
+    {
+      "user": "https://www.linkedin.com/in/michael-woods-ab22a8100/",
+      "text": "President, Consumer & Packaged Goods Group at The Haskell Company"
+    },
+    {
+      "user": "https://www.linkedin.com/in/corey-brown-ba6288a/",
+      "text": "Project Manager II at The Haskell Company"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sara-hart-554b416b/",
+      "text": "Project Coordinator at The Haskell Company"
+    },
+    {
+      "user": "https://www.linkedin.com/in/dave-balz-38804151/",
+      "text": "Vice President - Workforce Development at The Haskell Company"
+    },
+    {
+      "user": "https://www.linkedin.com/in/daveauchter/",
+      "text": "Vice President at The Haskell Company"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ryan-camer-231178b/",
+      "text": "Director of Virtual Construction at The Haskell Company"
+    },
+    {
+      "user": "https://www.linkedin.com/in/deidre-brearley-phr-1ba4709/",
+      "text": "HR Business Partner / Engagement Strategist at HASKELL (The Haskell Company)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/travis-taylor-a8535537/",
+      "text": "Director of Construction at The Haskell Company"
+    },
+    {
+      "user": "https://www.linkedin.com/in/richard-capasse-85546b94/",
+      "text": "Business Development Manager at The Haskell Company"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Runner in OKC Marathon",
+      "experience": "Oklahoma City National Memorial & Museum"
+    }
+  ],
+  "profile": {
+    "name": "Jamie Bailey",
+    "headline": "Group Manager - CPG Marketing & Business Development at The Haskell Company",
+    "imageurl": "https://media.licdn.com/dms/image/C5103AQGRxkMSlgCVOg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=hgh3XgcUC9-iVA8u-v6oi-Zk47rsmjY62PMKePOwFyA",
+    "location": "Jacksonville, Florida",
+    "connections": "500+",
+    "summary": "The Haskell Company delivers Architecture, Engineering, Construction (AEC) and Consulting solutions to assure certainty of outcome for complex capital projects worldwide. We are a global, fully integrated, single source design-build and EPC firm that has 1,300 highly specialized, in-house design, construction and administrative professionals across industrial and commercial market sectors. Our solutions are centered around: Facility Design & Construction Management , Packaging Design & Layout, Process Design & Layout, Packaging Automation, CIP/SIP Implementation, Material Handling, System Analytics."
+  }
+}

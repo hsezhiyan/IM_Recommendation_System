@@ -1,0 +1,222 @@
+{
+  "profileAlternative": {
+    "name": "Kunal Mehta",
+    "headline": "Senior Database Administrator at OpenLink Financial",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQFEJf08sM8A3w/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=VP-odxTvMHhxBidX54IwqO6D-J6TjM-xaD2VUPXgnu8",
+    "location": "Uniondale, New York",
+    "connections": "500+",
+    "summary": "Experienced Senior Database Administrator with a demonstrated history of working in the information technology and services industry. Strong information technology professional skilled in Oracle and MSSQL Database, Domain Name System (DNS), Databases, and Servers."
+  },
+  "aboutAlternative": {
+    "text": "Experienced Senior Database Administrator with a demonstrated history of working in the information technology and services industry. Strong information technology professional skilled in Oracle and MSSQL Database, Domain Name System (DNS), Databases, and Servers."
+  },
+  "positions": [
+    {
+      "title": "Senior Oracle and SQL Database Administrator",
+      "companyName": "OpenLink Financial",
+      "description": "• Review and tune SQL queries, stored procedures, views, triggers\n• Implementation/Maintenance/Upgrade of Delphix Software for Oracle/SQL\n• Loading and upgrading database on the Oracle and SQL Servers and loading updates from tickets\n• Cloning SQL Databases on NetApp using Snapshot technology to save disk space\n• Perform database migration from one server to another, SQL Server to Oracle Server and Vice-Versa\n• Help in-house Developers improve performance of our applications.\n• Performance Tuning of Oracle and SQL Databases\n• Collaborate with Clients to resolve database related issue they are facing\n• Opening tickets with Oracle and Microsoft Support for different bugs and applying patches to fix it\n• Maintain backup, modify and schedule jobs to run various SQL Server Jobs.\n• Maintaining the SharePoint 2010 Database on SQL Server 2008\n• Maintain the access and privileges of users and Developers to different tables and schemas on SQL Databases\n• Perform Data Extraction, Transformation and Loading (ETL) processes ( SSIS)\n• Load client SQL Database on our internal SQL 2005/2008 for the Developers\n• Perform Hot/Cold Backup, Recovery and Cloning of databases using RMAN.\n…\nsee more",
+      "date1": "Jun 2010 – Present",
+      "date2": "9 yrs 6 mos"
+    },
+    {
+      "title": "DBA",
+      "companyName": "YOU Telecom, Mumbai, Indi",
+      "description": "• SQL*Plus, SQL and PL/SQL programming and development.\n• Review and tune SQL queries, stored procedures, views, triggers",
+      "date1": "Jan 2007 – Jul 2007",
+      "date2": "7 mos"
+    },
+    {
+      "title": "Database Intern",
+      "companyName": "Tejas Computers",
+      "description": "Perform Data Extraction, Transformation and Loading (ETL) processes\nMaking Batch and Perl Script to automate the ETL Process\nWriting queries to update tables in SQL and ORACLE databases.\nACADEMIC PROJECTS:\nCOFDM MODEM Apr 2008\nReal-Time Implementation of a COFDM Modem for Data Transmission over HF Channels\nWith the TMS320C33 DSP\nDesigned modem to transmit data segments to reduce noise encountered in HF transmission\nMobile Application Prototype\nDeveloped a social networking application using Android SDK, PHP and MySQL for Android OS\nMusic Mantra\nMade E-commerce Web-site using PHP and MySql for Music shopping online Nov 2009\nHusky Data Base\nMade a data base for a vehicle insurance company using SQL with its frontend in PHP Nov 2009\nACADEMIC PRESENTATIONS AND ACHIEVEMENTS:\nWritten a Technical Paper on QOS in VOIP Nov 2008\nWritten a technical paper on Fast Flux attack on DNS and solutions for this attack Feb 2010\n…\nsee more",
+      "date1": "Jun 2004 – May 2005",
+      "date2": "1 yr"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Northeastern University",
+      "degree": "Master's degree",
+      "fieldofstudy": "Computer Systems Networking and Telecommunications",
+      "date1": "2008",
+      "date2": "2010"
+    },
+    {
+      "title": "Mumbai University",
+      "degree": "Bachelor of Engineering",
+      "fieldofstudy": "Electronics and Telecommunication",
+      "date1": "2004",
+      "date2": "2008"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Databases",
+      "count": "28"
+    },
+    {
+      "title": "Microsoft SQL Server",
+      "count": "24"
+    },
+    {
+      "title": "SQL",
+      "count": "24"
+    },
+    {
+      "title": "Performance Tuning",
+      "count": "12"
+    },
+    {
+      "title": "ETL",
+      "count": "7"
+    },
+    {
+      "title": "Domain Name System (DNS)",
+      "count": "4"
+    },
+    {
+      "title": "DNS",
+      "count": "1"
+    },
+    {
+      "title": "Programming",
+      "count": "1"
+    },
+    {
+      "title": "Data Migration",
+      "count": "1"
+    },
+    {
+      "title": "Oracle",
+      "count": "15"
+    },
+    {
+      "title": "PL/SQL",
+      "count": "12"
+    },
+    {
+      "title": "SharePoint",
+      "count": "7"
+    },
+    {
+      "title": "MySQL",
+      "count": "6"
+    },
+    {
+      "title": "Unix",
+      "count": "6"
+    },
+    {
+      "title": "SSIS",
+      "count": "6"
+    },
+    {
+      "title": "IIS",
+      "count": "6"
+    },
+    {
+      "title": "Servers",
+      "count": "3"
+    },
+    {
+      "title": "PHP",
+      "count": "2"
+    },
+    {
+      "title": "Oracle Database",
+      "count": "2"
+    },
+    {
+      "title": "Android",
+      "count": "1"
+    },
+    {
+      "title": "Sybase",
+      "count": "1"
+    },
+    {
+      "title": "Access",
+      "count": "1"
+    },
+    {
+      "title": "SQL Server Integration Services (SSIS)",
+      "count": "1"
+    },
+    {
+      "title": "delphix"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "1",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/kprasai/",
+        "text": "For those familiar with the database world, Technical Competence and Accountability are extremely important; throughout my stay at Openlink I found Kunal to carry both of these qualities 'en quantité'. We were responsible for terabytes of sensitive financial information and an \"Oops\" moment was simply disastrous for the DBA team. Kunal made all efforts on his part to make sure that things function smoothly. When they did not, he was quick to address the issues so that the the ripples were absorbed as quickly as possible. Anything from scripting daily DBA tasks, to working with other teams to create documentations and facilitate training, Kunal was willing and able to help. He trained and managed the offshore database team almost single-handedly when we were short staffed at several key time periods. His skills as a DBA are extremely valuable, his will to grow, and the ability to stay level headed during times of stress will be an asset to any organization. A 5 star DBA with a sense of humor! Highly recommended.\n…\nSee more"
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "4",
+      "items": [
+        "English",
+        "Gujarati",
+        "Hindi",
+        "Marathi"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/sural-labha/",
+      "text": "Project Engineer at Intertek | CCNA | AWS - Solutions Architect"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jordan-haralampopoulos-a9895194/",
+      "text": "Vice President, Information Technology at Bernard Hodes Group, Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/william-o-toole-7b649914/",
+      "text": "CEO and Founder at JobBoardHQ"
+    },
+    {
+      "user": "https://www.linkedin.com/in/vinay-k-singh-37048412/",
+      "text": "Telecommunications Engineer at SpiderCloud Wireless (Corning)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/max-gonzalez-742572a7/",
+      "text": "PDRI"
+    },
+    {
+      "user": "https://www.linkedin.com/in/gabriela-navarro-75849567/",
+      "text": "Community Outreach Coordinator"
+    },
+    {
+      "user": "https://www.linkedin.com/in/josies1/",
+      "text": "Professional"
+    },
+    {
+      "user": "https://www.linkedin.com/in/suryaprakashtatavarthi/",
+      "text": "Sr.Network Engineer at MARTA Through Numbers Only Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/abhas-thapa-19a47626/",
+      "text": "Senior Telecom Engineer at Samsung Telecommunications America"
+    },
+    {
+      "user": "https://www.linkedin.com/in/aangikkundu/",
+      "text": "Senior Consultant at Deloitte Consulting"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Kunal Mehta",
+    "headline": "Senior Database Administrator at OpenLink Financial",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQFEJf08sM8A3w/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=VP-odxTvMHhxBidX54IwqO6D-J6TjM-xaD2VUPXgnu8",
+    "location": "Uniondale, New York",
+    "connections": "500+",
+    "summary": "Experienced Senior Database Administrator with a demonstrated history of working in the information technology and services industry. Strong information technology professional skilled in Oracle and MSSQL Database, Domain Name System (DNS), Databases, and Servers."
+  }
+}

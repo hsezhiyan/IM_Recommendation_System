@@ -1,0 +1,223 @@
+{
+  "profileAlternative": {
+    "name": "MONIL SHAH",
+    "headline": "Database Administrator and SQL Developer at HealthTronics, Inc.",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQHAP_j9Prb9cQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=FCGtQGqLu94yHxjIl31JBNUQ6GeygMwL_ExJqYfjoyQ",
+    "location": "Livingston, New Jersey",
+    "connections": "469",
+    "summary": "- 6 years of experience as Database Administrator (DBA) and Database Developer\n- MCTS Certified (70-432) Implementation and Maintenance of Microsoft SQL Server 2008\n- Proficient in MS SQL Server 2000/ 2005/ 2008R2/ 2012, IIS 6.0 and Windows Server 2003/ 2008R2\n- In depth understanding of Backup, Recovery and Disaster Procedures, Data Conversion, Replication, Indexes, Tuning and Optimization of Databases, Data Modeling, Migration of SQL Server, T-SQL, Log Shipping, BCP, DTS and Toad Data Modeler\n- Hands on experience in database tools like SQL Server Management Studio (SSMS), Business Intelligence Development Studio (BIDS), SQL Server Profiler, Database Engine Tuning Advisor, SQL Server Configuration Manager and Red Gate Tools\n- Excellent communication, presentation, analytical and interpersonal skill\n\nSpecialties: - Database Backup Strategy\n- Data Modeling\n- Data Conversion\n- Tuning & Optimization of Databases\n- Indexes\n- Transact – SQL\n- TOAD Data Modeler\n- Red Gate Tools"
+  },
+  "aboutAlternative": {
+    "text": "- 6 years of experience as Database Administrator (DBA) and Database Developer\n- MCTS Certified (70-432) Implementation and Maintenance of Microsoft SQL Server 2008\n- Proficient in MS SQL Server 2000/ 2005/ 2008R2/ 2012, IIS 6.0 and Windows Server 2003/ 2008R2\n- In depth understanding of Backup, Recovery and Disaster Procedures, Data Conversion, Replication, Indexes, Tuning and Optimization of Databases, Data Modeling, Migration of SQL Server, T-SQL, Log Shipping, BCP, DTS and Toad Data Modeler\n- Hands on experience in database tools like SQL Server Management Studio (SSMS), Business Intelligence Development Studio (BIDS), SQL Server Profiler, Database Engine Tuning Advisor, SQL Server Configuration Manager and Red Gate Tools\n- Excellent communication, presentation, analytical and interpersonal skill\n\nSpecialties: - Database Backup Strategy\n- Data Modeling\n- Data Conversion\n- Tuning & Optimization of Databases\n- Indexes\n- Transact – SQL\n- TOAD Data Modeler\n- Red Gate Tools"
+  },
+  "positions": [
+    {
+      "title": "Database Administrator and SQL Developer",
+      "companyName": "HealthTronics, Inc.",
+      "date1": "Jul 2012 – Present",
+      "date2": "7 yrs 5 mos"
+    },
+    {
+      "title": "Database Administrator/ Developer",
+      "companyName": "NextGen Management LLC",
+      "description": "- Responsible for 24 x 7 support for critical situations in production support environment\n- Backed up of Database and Restored them from Disaster Recovery using Maintenance Plan\n- Define logical attributes and data inter-relationships and designs data structures to accommodate database implementation, storage, maintenance and accessibility to enhance performance using TOAD Data Modeler, MS Visio, Data Dictionary and several SQL Server Tools like SQL Server Profiler and Database Engine Tuning Advisor\n- Maintaining SQL Logins, Roles and Authentication Modes as a part of Security Policies for various categories of users\n- Analyzed, reviewed and altered the program to increase operational efficiency by creating and maintaining Indexes, Performance Tuning and Optimization of Databases and SQL Server Profiler\n- Coordinates with application developers regarding database development, migration, revision and update, procedure development, troubleshooting, system configuration, and account setup\n- Analyzing, evaluating, configuring and maintaining the database objects like stored procedures, tables and views to accommodate the client requirements in the system\n- Developing different types of Tabular Reports and Matrix Reports report in multiple formats using SQL Server Reporting Services (SSRS) in Business intelligence development studio (BIDS)\n- Data conversions and data loads from various databases and file structures using SQL Server Integration Services (SSIS )\n- Assists project managers in the development of project plans including detailed project estimates and tasks required for database activities. Provide regular daily updates to ensure deadlines were met. Also worked and co-ordinated with 3 team members off-shore and other team members in-house\n…\nsee more",
+      "date1": "Dec 2009 – Jun 2012",
+      "date2": "2 yrs 7 mos"
+    },
+    {
+      "title": "Database Administrator/ Developer Intern",
+      "companyName": "Shital Corporation",
+      "description": "- Implemented and configured SQL Server 2005 (including DBMS, SQL Reporting Services, SQL Server Analysis Services, SQL Server Integration Services)\n- Implemented and configured DB appropriate to business requirements (OLTP, decision support)\n- Provided assistance to end users and programmers regarding database related problems and issue\n- Monitored, investigated and resolved SQL Server performance, network issues and technical database issue\n…\nsee more",
+      "date1": "Jan 2006 – Dec 2006",
+      "date2": "12 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Northeastern University",
+      "degree": "Master of Science",
+      "fieldofstudy": "Telecommunication System Management",
+      "date1": "2007",
+      "date2": "2009"
+    },
+    {
+      "title": "University of Mumbai",
+      "degree": "Bachelor",
+      "fieldofstudy": "Electronic and Telecommunication",
+      "date1": "2004",
+      "date2": "2007"
+    },
+    {
+      "title": "University of Mumbai",
+      "degree": "Diploma",
+      "fieldofstudy": "Electronics and Communication",
+      "date1": "2001",
+      "date2": "2004"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Databases",
+      "count": "18"
+    },
+    {
+      "title": "SSIS",
+      "count": "16"
+    },
+    {
+      "title": "Microsoft SQL Server",
+      "count": "15"
+    },
+    {
+      "title": "Performance Tuning",
+      "count": "2"
+    },
+    {
+      "title": "Disaster Recovery",
+      "count": "2"
+    },
+    {
+      "title": "ETL",
+      "count": "1"
+    },
+    {
+      "title": "Data Migration",
+      "count": "1"
+    },
+    {
+      "title": "Data Modeling"
+    },
+    {
+      "title": "Optimization"
+    },
+    {
+      "title": "Database Design"
+    },
+    {
+      "title": "Database Administration"
+    },
+    {
+      "title": "Data Management"
+    },
+    {
+      "title": "SSRS",
+      "count": "11"
+    },
+    {
+      "title": "T-SQL",
+      "count": "10"
+    },
+    {
+      "title": "SQL",
+      "count": "7"
+    },
+    {
+      "title": "PL/SQL",
+      "count": "1"
+    },
+    {
+      "title": "Operating Systems",
+      "count": "1"
+    },
+    {
+      "title": "Transact-SQL (T-SQL)",
+      "count": "1"
+    },
+    {
+      "title": "SQL Server"
+    },
+    {
+      "title": "Crystal Reports"
+    },
+    {
+      "title": "IIS"
+    },
+    {
+      "title": "Visio"
+    },
+    {
+      "title": "Microsoft SQL Server 2012"
+    },
+    {
+      "title": "Indexing",
+      "count": "1"
+    },
+    {
+      "title": "Stored Procedures",
+      "count": "1"
+    },
+    {
+      "title": "Data Conversion"
+    },
+    {
+      "title": "OLTP"
+    },
+    {
+      "title": "Database Management System (DBMS)"
+    },
+    {
+      "title": "Troubleshoot Queries"
+    },
+    {
+      "title": "Microsoft SQL Server 2014"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/kanaparthi/",
+      "text": "Do you want to build world class web services? Drop me a line."
+    },
+    {
+      "user": "https://www.linkedin.com/in/shilpa-sanganalmath-ms-mba-80a2b368/",
+      "text": "SQL Server Database Developer/Administrator"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mitesh-patel-28905332/",
+      "text": "SQL Developer at Invsita"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kanan-patel-699182a5/",
+      "text": "SQL Database Administrator at Samsung SDS"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sahitya-j-87539798/",
+      "text": "Sql Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sandy-shan-lan-2779156/",
+      "text": "Database DBA/Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sheena-us-a16133140/",
+      "text": "Database Administrator|DatabaseArchitect|PL/SQL Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kirankpasikanti/",
+      "text": "Senior SQL Server Database Administrator\\Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/vigneswari-m-aa1856116/",
+      "text": "Sr MS SQL Server Database / ETL Developer at NYC Department of Education"
+    },
+    {
+      "user": "https://www.linkedin.com/in/manu-k-44a523144/",
+      "text": "SQL/BI Developer at Bed Bath & Beyond"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "MONIL SHAH",
+    "headline": "Database Administrator and SQL Developer at HealthTronics, Inc.",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQHAP_j9Prb9cQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=FCGtQGqLu94yHxjIl31JBNUQ6GeygMwL_ExJqYfjoyQ",
+    "location": "Livingston, New Jersey",
+    "connections": "469",
+    "summary": "- 6 years of experience as Database Administrator (DBA) and Database Developer\n- MCTS Certified (70-432) Implementation and Maintenance of Microsoft SQL Server 2008\n- Proficient in MS SQL Server 2000/ 2005/ 2008R2/ 2012, IIS 6.0 and Windows Server 2003/ 2008R2\n- In depth understanding of Backup, Recovery and Disaster Procedures, Data Conversion, Replication, Indexes, Tuning and Optimization of Databases, Data Modeling, Migration of SQL Server, T-SQL, Log Shipping, BCP, DTS and Toad Data Modeler\n- Hands on experience in database tools like SQL Server Management Studio (SSMS), Business Intelligence Development Studio (BIDS), SQL Server Profiler, Database Engine Tuning Advisor, SQL Server Configuration Manager and Red Gate Tools\n- Excellent communication, presentation, analytical and interpersonal skill\n\nSpecialties: - Database Backup Strategy\n- Data Modeling\n- Data Conversion\n- Tuning & Optimization of Databases\n- Indexes\n- Transact – SQL\n- TOAD Data Modeler\n- Red Gate Tools"
+  }
+}

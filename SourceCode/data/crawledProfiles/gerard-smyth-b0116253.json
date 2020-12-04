@@ -1,0 +1,222 @@
+{
+  "profileAlternative": {
+    "name": "Gerard Smyth",
+    "headline": "IT Systems Analyst and SQL Developer at Iceland Foods",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQG_A-FF5lvs_g/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=msaLy0WUg4lVVxklANHzDhfkmcr5SoqZSCvC-YdvQC4",
+    "location": "Chester, United Kingdom",
+    "connections": "172",
+    "summary": "I have over 4 years experience as an IT/Ecommerce Systems analyst and I have learned a lot of new skills such as;\n\n- SQL Server\n- SQL Development\n- RabbitMQ\n- WebDAV (Integration)\n- Hybris Platform\n- Analytics (google/adobe)\n\n\nI have been apart of a fast paced ecommerce department and have contributed to the growth of not only the online platform, but the business as a whole.\n\nIn my spare time, I write, produce, film, and promote my own comedy youtube videos. I have been doing this now for three years and I have gained a wealth of skills and experience in video editing and marketing."
+  },
+  "aboutAlternative": {
+    "text": "I have over 4 years experience as an IT/Ecommerce Systems analyst and I have learned a lot of new skills such as;\n\n- SQL Server\n- SQL Development\n- RabbitMQ\n- WebDAV (Integration)\n- Hybris Platform\n- Analytics (google/adobe)\n\n\nI have been apart of a fast paced ecommerce department and have contributed to the growth of not only the online platform, but the business as a whole.\n\nIn my spare time, I write, produce, film, and promote my own comedy youtube videos. I have been doing this now for three years and I have gained a wealth of skills and experience in video editing and marketing."
+  },
+  "positions": [
+    {
+      "title": "Iceland Foods",
+      "location": "United Kingdom",
+      "description": "I Troubleshoot website and database (intergration) issues. I work on a multitude of software platforms.\nMy work day to day can range from troubleshooting known website and data issues to developing and improving our back-end systems and processes.\n\nI use my skills and knowledge of SQL, XML, Hybris, WebDAV, Excel, Databases, AS400, RabbitMQ, Web Services, JSON",
+      "date1": "Nov 2016 – Present",
+      "date2": "3 yrs 1 mo",
+      "roles": [
+        {
+          "title": "IT Systems Analyst and SQL Developer",
+          "date1": "Nov 2016 – Present",
+          "date2": "3 yrs 1 mo",
+          "location": "United Kingdom"
+        },
+        {
+          "title": "Ecommerce Systems Analyst",
+          "date1": "Mar 2014 – Nov 2016",
+          "date2": "2 yrs 9 mos",
+          "location": "Deeside"
+        }
+      ]
+    },
+    {
+      "title": "Title\nIT Systems Analyst and SQL Developer",
+      "location": "United Kingdom",
+      "description": "I Troubleshoot website and database (intergration) issues. I work on a multitude of software platforms.\nMy work day to day can range from troubleshooting known website and data issues to developing and improving our back-end systems and processes.\n\nI use my skills and knowledge of SQL, XML, Hybris, WebDAV, Excel, Databases, AS400, RabbitMQ, Web Services, JSON",
+      "date1": "Nov 2016 – Present",
+      "date2": "3 yrs 1 mo",
+      "roles": [
+        {
+          "title": "IT Systems Analyst and SQL Developer",
+          "date1": "Nov 2016 – Present",
+          "date2": "3 yrs 1 mo",
+          "location": "United Kingdom"
+        }
+      ]
+    },
+    {
+      "title": "Title\nEcommerce Systems Analyst",
+      "location": "Deeside",
+      "description": "My responsibilities were to look after the backend processes of the online platform, both data and infrastructure. I would provide support to the wider business to fix data and software issues and provide supports to senior members of the business.\n\nI would my skills and knowledge of SQL, XML. Hybris, WebDAV, Excel, Databases, AS400\n…\nsee more",
+      "date1": "Mar 2014 – Nov 2016",
+      "date2": "2 yrs 9 mos",
+      "roles": [
+        {
+          "title": "Ecommerce Systems Analyst",
+          "date1": "Mar 2014 – Nov 2016",
+          "date2": "2 yrs 9 mos",
+          "location": "Deeside"
+        }
+      ]
+    },
+    {
+      "title": "Comedy Youtuber",
+      "companyName": "youtuber",
+      "description": "In my spare time, I write, produce, film, and promote my own comedy youtube videos. I have been doing this now for three years and I have gained a wealth of skills and experience in video editing and marketing.",
+      "date1": "Aug 2015 – Present",
+      "date2": "4 yrs 4 mos"
+    },
+    {
+      "title": "Sales Assistant",
+      "companyName": "Nike",
+      "location": "Cheshire Oaks",
+      "description": "At Nike I was a footwear specialist and would advise customers what shoe to wear depending on what activity they are doing and how they run/move",
+      "date1": "Jan 2013 – Mar 2014",
+      "date2": "1 yr 3 mos"
+    },
+    {
+      "title": "Team Member",
+      "companyName": "Pizza Hut",
+      "location": "Cheshire Oaks",
+      "description": "In this role I have trained staff whilst performing other key roles within the company.",
+      "date1": "Jun 2012 – Jan 2013",
+      "date2": "8 mos"
+    },
+    {
+      "title": "Technical Adviser",
+      "companyName": "Digital UK",
+      "description": "My job role at Digital UK was to take calls from customers that were having problems in receiving a television signal. This job improved my problem solving skills and gave me the confidence to get my point across to a customer clearer and more concise.",
+      "date1": "Jul 2011 – Apr 2012",
+      "date2": "10 mos"
+    },
+    {
+      "title": "Junior Programmer",
+      "companyName": "rECOrd",
+      "description": "During my time at rECOrd my responsibilities were to create a new animal mapping system which is based upon coordinates and known whereabouts of animals. I achieved this by working in a small team to program a new system which generates a map and locations of animals based on a postcode entered in by the user.",
+      "date1": "May 2011 – Jul 2011",
+      "date2": "3 mos"
+    },
+    {
+      "title": "Kitchen Staff",
+      "companyName": "Pizza Hut",
+      "description": "Worked in a production line to provide an excellent standard of customer service",
+      "date1": "Oct 2007 – Apr 2008",
+      "date2": "7 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "University of Chester",
+      "degree": "Computer Science WITH Criminology",
+      "date1": "2009",
+      "date2": "2012"
+    },
+    {
+      "title": "Ellesmere Port Catholic High School (Sixth Form)",
+      "date1": "2007",
+      "date2": "2009"
+    },
+    {
+      "title": "Ellesmere Port Catholic High School",
+      "date1": "2002",
+      "date2": "2007"
+    }
+  ],
+  "skills": [
+    {
+      "title": "SQL",
+      "count": "3"
+    },
+    {
+      "title": "Microsoft SQL Server",
+      "count": "3"
+    },
+    {
+      "title": "XML",
+      "count": "2"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "16",
+      "items": [
+        "Data Warehousing and ETL Process",
+        "Database Management",
+        "English Language",
+        "English Literature",
+        "French",
+        "French (A-Level)",
+        "Geography",
+        "Information Technology",
+        "Information Technology (A-Level)",
+        "Java Programming",
+        "Maths",
+        "Philosophy and Ethics (A-Level)",
+        "Psychology (A-Level)",
+        "Religious Education",
+        "Science (Double Award)",
+        "Systems Analysis and Design"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/kellybeazley/",
+      "text": "Infrastructure and Cloud Engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ross-mcdonald-94111261/",
+      "text": "Development Manager at Iceland Foods"
+    },
+    {
+      "user": "https://www.linkedin.com/in/steve-harding-208878a/",
+      "text": "Head of IT Operations/IT Director/CIO/CTO"
+    },
+    {
+      "user": "https://www.linkedin.com/in/claire-bentley-304b27124/",
+      "text": "IT Director at Cartus"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tara-walker-38511194/",
+      "text": "IT Director"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sarah-baxendale-572a6a11/",
+      "text": "IT Project Manager at Iceland Foods"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tomgprice/",
+      "text": "Insight Analyst"
+    },
+    {
+      "user": "https://www.linkedin.com/in/beth-rogers-1a1b32109/",
+      "text": "IT Agile Business Analyst at Missguided"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ffion-perrin-4102b913b/",
+      "text": "IT Project Manager at Iceland Foods"
+    },
+    {
+      "user": "https://www.linkedin.com/in/graham-cathrall-3a02ab31/",
+      "text": "HR Advisor at Iceland Foods"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Gerard Smyth",
+    "headline": "IT Systems Analyst and SQL Developer at Iceland Foods",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQG_A-FF5lvs_g/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=msaLy0WUg4lVVxklANHzDhfkmcr5SoqZSCvC-YdvQC4",
+    "location": "Chester, United Kingdom",
+    "connections": "172",
+    "summary": "I have over 4 years experience as an IT/Ecommerce Systems analyst and I have learned a lot of new skills such as;\n\n- SQL Server\n- SQL Development\n- RabbitMQ\n- WebDAV (Integration)\n- Hybris Platform\n- Analytics (google/adobe)\n\n\nI have been apart of a fast paced ecommerce department and have contributed to the growth of not only the online platform, but the business as a whole.\n\nIn my spare time, I write, produce, film, and promote my own comedy youtube videos. I have been doing this now for three years and I have gained a wealth of skills and experience in video editing and marketing."
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "profileAlternative": {
+    "name": "Elder Moraes",
+    "headline": "Developer Advocate at Oracle | Book Author | TDC Rockstar",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQH76nOkd7kJBA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=KgIGfxErca8e-MEFsZIBYEdYDU29VBJp4VnfS9PNpYg",
+    "location": "São Paulo, São Paulo, Brazil",
+    "connections": "500+",
+    "summary": "I help backend developers to build and deliver secure, available and fast server side applications, so they can work on great projects.\n\nPassionate about cloud, Java and system architecture, I share my experience through online content and international events.\n\nRegarding to international events I can mention JavaOne, Oracle Code, TDC, Campus Party, Code One and Devnexus.\n\nMy personal blog (eldermoraes.com) is where I share a lot of content about Java EE, Docker, cloud computing and career. I also write some third party articles (see eldermoraes.com/articles).\n\nI'm a board member at SouJava, where I lead some initiatives like \"Java EE 8 - The Next Frontier\" and \"Java@Cloud Age\".\n\nI have been working as software developer since 1999 and worked for a variety types of industries, from legal to logistics, from finance to call centers."
+  },
+  "aboutAlternative": {
+    "text": "I help backend developers to build and deliver secure, available and fast server side applications, so they can work on great projects.\n\nPassionate about cloud, Java and system architecture, I share my experience through online content and international events.\n\nRegarding to international events I can mention JavaOne, Oracle Code, TDC, Campus Party, Code One and Devnexus.\n\nMy personal blog (eldermoraes.com) is where I share a lot of content about Java EE, Docker, cloud computing and career. I also write some third party articles (see eldermoraes.com/articles).\n\nI'm a board member at SouJava, where I lead some initiatives like \"Java EE 8 - The Next Frontier\" and \"Java@Cloud Age\".\n\nI have been working as software developer since 1999 and worked for a variety types of industries, from legal to logistics, from finance to call centers."
+  },
+  "positions": [
+    {
+      "title": "Developer Advocate",
+      "companyName": "Oracle",
+      "location": "São Paulo e Região, Brasil",
+      "description": "Helping to create awareness about Oracle tools and technologies for cloud\ncomputing and the Java ecosystem. Inspiring developers to solve problems. Leading developers initiatives strategies across multiple teams inside Oracle.\n\nResponsibilities:\n\n• Creating technical content\n• Speaking at technical conferences\n• Engaging with developers through local meetups\n• Connecting with Oracle customers to help them to be more successful in\ntheir projects\n…\nsee more",
+      "date1": "Sep 2017 – Present",
+      "date2": "2 yrs 3 mos"
+    },
+    {
+      "title": "Member of the Board",
+      "companyName": "SouJava",
+      "location": "Brazil",
+      "description": "Leader of the \"Java EE 8 - The Next Frontier\" project, a initiative with the purpose of sharing key information about Java EE 8.\n\nWhat are the coolest features? What to expect in terms of migration from version 7 or even 6? Are this version suitable for microservices and/or containers? Will this version bring any career opportunities? What about the classic story \"Java EE x Spring\"?\n\nFor answering these and other questions we interviewed several of the top Java EE experts in the world. Spec leads, evangelists, JUG leaders and developers that live for Java EE and from Java EE.\n…\nsee more",
+      "date1": "May 2017 – Present",
+      "date2": "2 yrs 7 mos"
+    },
+    {
+      "title": "Senior Consultant",
+      "companyName": "Summa Technologies do Brasil",
+      "location": "São Paulo Area, Brazil",
+      "description": "Working as ALM Consultant, helping one of our clients to automate several systems (> 50) from a varied kind of technologies (Java, .Net, Android, iOS, IBM Broker, Worklight, etc).\n\nTo meet our client needs we use a platform called Toolscloud, that runs several open source tools using Docker. Some of these tools are GitBlit, Nexus, Jenkins, Redmine, Testlink and Dashbuilder.\n…\nsee more",
+      "date1": "Nov 2016 – Sep 2017",
+      "date2": "11 mos"
+    },
+    {
+      "title": "Senior Architect",
+      "companyName": "TalentTech",
+      "location": "Brazil",
+      "description": "Since 1999 we are working in a variety of projects for financial, legal, call center, human resources and logistics industries.\n\nOur mainly activities are related to systems development, consulting and architecture. We can provide solutions based on Java SE and Java EE.\n…\nsee more",
+      "date1": "Jun 1999 – Sep 2017",
+      "date2": "18 yrs 4 mos"
+    },
+    {
+      "title": "Java Developer and Team Leader",
+      "companyName": "LegalManager Consultoria em Informática",
+      "location": "São Paulo Area, Brazil",
+      "description": "Working as the team leader of development and support areas, with focus on main company product: a software for law offices management. This product is developed with Java and PostgreSQL, runs on Tomcat and has a iOS version.\n\nAll developments are done with Java and Objective-C.\n…\nsee more",
+      "date1": "Nov 2011 – Apr 2016",
+      "date2": "4 yrs 6 mos"
+    },
+    {
+      "title": "Mobile Developer",
+      "companyName": "TechTeam Consultoria",
+      "location": "São Paulo Area, Brazil",
+      "description": "Mobile development for iOS and Android platforms, have worked mainly on business apps.",
+      "date1": "Nov 2011 – Apr 2016",
+      "date2": "4 yrs 6 mos"
+    },
+    {
+      "title": "Systems Analyst, Java Developer",
+      "companyName": "CSU CardSystem",
+      "location": "São Paulo Area, Brazil",
+      "description": "Projects management, working in all stages of the development life cycle, from the initial analysis and including architecture definition, monitoring suppliers, deployment and post-deployment activities.\n\nAnalysis of all projects under design patterns and best practices.\n\nLeading activities related to development methodology for credit card and payment systems (mainframe environment), coaching a team with 20 people.\n\nAlso developed a tool to support the projects activities, which works with Function Point Analysis, manages documents, gives projects statistics and registers the time sheet.\n…\nsee more",
+      "date1": "Apr 2002 – Sep 2011",
+      "date2": "9 yrs 6 mos"
+    },
+    {
+      "title": "Systems Analyst",
+      "companyName": "Sysworks",
+      "description": "Responsible for modeling and development of IT solutions using MS Visual Basic, Oracle Stored Procedures and PL/SQL, MS SQL Server, as well as web solutions.",
+      "date1": "Jul 1999 – Apr 2002",
+      "date2": "2 yrs 10 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Universidade Metodista de São Paulo",
+      "degree": "Bachelor's degree",
+      "fieldofstudy": "Computer Science",
+      "date1": "1999",
+      "date2": "2002"
+    },
+    {
+      "title": "EEPG Flamínio"
+    },
+    {
+      "title": "SENAI Mário Amato"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Java",
+      "count": "33"
+    },
+    {
+      "title": "Microsoft SQL Server",
+      "count": "37"
+    },
+    {
+      "title": "Oracle",
+      "count": "34"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "3",
+      "items": [
+        "English",
+        "Portuguese",
+        "Spanish"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "TDC Rockstar",
+        "Oracle Developer Champion"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Java EE 8 - The Next Frontier"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Java EE 8 Cookbook"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/viniciussenger/",
+      "text": "Senior Technical Evangelist @ AWS - Developer - Inventor - IoT - Cloud - Architecture"
+    },
+    {
+      "user": "https://www.linkedin.com/in/gabsferreira/",
+      "text": "Developer, instructor and content creator at Caelum"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yarasenger/",
+      "text": "Founder at The Developer's Conference"
+    },
+    {
+      "user": "https://www.linkedin.com/in/pliniosergiodecerqueiraleite/",
+      "text": "Owner, CL Executive Search & Interim Management"
+    },
+    {
+      "user": "https://www.linkedin.com/in/marcossungaila/",
+      "text": "Master Principal Sales Consultant at Oracle"
+    },
+    {
+      "user": "https://www.linkedin.com/in/flaap/",
+      "text": "Arquiteto de Soluções na Sensedia 😎"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ariane-izac-b9a6531b/",
+      "text": "Apaixonada por Testes e Qualidade de Software"
+    },
+    {
+      "user": "https://www.linkedin.com/in/professor-isidro-phd-8a85a979/",
+      "text": "Professor"
+    },
+    {
+      "user": "https://www.linkedin.com/in/rprudenciato/",
+      "text": "Instrutor e Especialista em Linux | Certificações e Uso Profissional do Linux"
+    },
+    {
+      "user": "https://www.linkedin.com/in/brjavaman/",
+      "text": "Helping developers design their careers through the Code4.Life initiative."
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Elder Moraes",
+    "headline": "Developer Advocate at Oracle | Book Author | TDC Rockstar",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQH76nOkd7kJBA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=KgIGfxErca8e-MEFsZIBYEdYDU29VBJp4VnfS9PNpYg",
+    "location": "São Paulo, São Paulo, Brazil",
+    "connections": "500+",
+    "summary": "I help backend developers to build and deliver secure, available and fast server side applications, so they can work on great projects.\n\nPassionate about cloud, Java and system architecture, I share my experience through online content and international events.\n\nRegarding to international events I can mention JavaOne, Oracle Code, TDC, Campus Party, Code One and Devnexus.\n\nMy personal blog (eldermoraes.com) is where I share a lot of content about Java EE, Docker, cloud computing and career. I also write some third party articles (see eldermoraes.com/articles).\n\nI'm a board member at SouJava, where I lead some initiatives like \"Java EE 8 - The Next Frontier\" and \"Java@Cloud Age\".\n\nI have been working as software developer since 1999 and worked for a variety types of industries, from legal to logistics, from finance to call centers."
+  }
+}

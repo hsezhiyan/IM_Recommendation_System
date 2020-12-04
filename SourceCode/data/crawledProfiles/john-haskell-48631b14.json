@@ -1,0 +1,112 @@
+{
+  "profileAlternative": {
+    "name": "John Haskell",
+    "headline": "Learning to fly",
+    "location": "Greater Chicago Area",
+    "connections": "500+"
+  },
+  "aboutAlternative": {},
+  "positions": [
+    {
+      "title": "Co-Founder",
+      "companyName": "Triggr Health",
+      "description": "www.triggrhealth.com",
+      "date1": "Apr 2014 – Present",
+      "date2": "5 yrs 8 mos"
+    },
+    {
+      "title": "Have Fun",
+      "companyName": "GiveForward",
+      "date1": "Jul 2013 – Jun 2014",
+      "date2": "1 yr"
+    },
+    {
+      "title": "Fellow/Consultant",
+      "companyName": "Education Trust",
+      "date1": "Jun 2012 – Jun 2013",
+      "date2": "1 yr 1 mo"
+    },
+    {
+      "title": "Founder",
+      "companyName": "The New Electorate",
+      "date1": "Jun 2010 – Nov 2012",
+      "date2": "2 yrs 6 mos"
+    },
+    {
+      "title": "Co-Founder",
+      "companyName": "DISRPT",
+      "description": "Venture-backed, seed funded platform that leveraged the facebook api to produce sophisticated lead generation for top e-commerce companies in the world.",
+      "date1": "Feb 2011 – Nov 2011",
+      "date2": "10 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Stanford University",
+      "date1": "2008",
+      "date2": "2012"
+    }
+  ],
+  "skills": [],
+  "recommendations": {
+    "givenCount": "1",
+    "receivedCount": "0",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/joshgachnang/",
+        "text": "Josh is an amazing person and engineer to work with. In addition to being a great engineer, he cares deeply about the products he builds. Takes the time to truly understand the end users, what parts of the product are most important, and how to account for all use cases. Goes above and beyond in everything he builds!"
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/erica-emanuel/",
+      "text": "Lead Guide and Head of Training at Triggr Health"
+    },
+    {
+      "user": "https://www.linkedin.com/in/chapela/",
+      "text": "Co-founder & CEO at Suggestic"
+    },
+    {
+      "user": "https://www.linkedin.com/in/michael-p-mcnelis/",
+      "text": "VP of Growth at Triggr Health"
+    },
+    {
+      "user": "https://www.linkedin.com/in/laura-coulter-jones-68321b32/",
+      "text": "--"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jennifer-mccloud-0ab18b17/",
+      "text": "Business Owner"
+    },
+    {
+      "user": "https://www.linkedin.com/in/scott-snodgress-a0960a47/",
+      "text": "External Rep at Pando Pooling"
+    },
+    {
+      "user": "https://www.linkedin.com/in/chris-horwood-8bb969b/",
+      "text": "Retired"
+    },
+    {
+      "user": "https://www.linkedin.com/in/brian-lai-1218b626/",
+      "text": "Co-Founder at Triggr Health"
+    },
+    {
+      "user": "https://www.linkedin.com/in/gray-thomas-b34b2433/",
+      "text": "Growth at Triggr Health"
+    },
+    {
+      "user": "https://www.linkedin.com/in/elliottrothberg/",
+      "text": "Experienced Medical Device Executive and Consultant, Design Controls Subject Matter Expert, Program Manager"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "John Haskell",
+    "headline": "Learning to fly",
+    "location": "Greater Chicago Area",
+    "connections": "500+"
+  }
+}

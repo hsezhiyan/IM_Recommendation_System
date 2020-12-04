@@ -1,0 +1,181 @@
+{
+  "profileAlternative": {
+    "name": "Joe Lemmer",
+    "headline": "Contract Salesforce and JavaScript Developer at Condé Nast International",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQHpWSQIqRO0-A/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=ZgFTY2UNj6lhiZVkcvF3I2a0fCtfjHDKQfbNNjAJv1g",
+    "location": "Edinburgh, United Kingdom",
+    "connections": "286",
+    "summary": "Contract Fullstack JavaScript Developer\n\nEducation and Certifications:\n\nComputer Science BSc Hons, University of Bristol\n1 x AWS Professional Certification (DevOps Engineer)\n3 x AWS Associate Certifications (Solutions Architect, Developer and SysOps Administrator)\nStrongloop Certified NodeJS Developer\nOracle Certified Professional Java 6 Programmer\n\nJavaScript\n\nStrong client-side JavaScript - Angular 2/4, AngularJS, TypeScript, RxJS\nNodeJS (Strongloop Certified Node Developer), Express.\nHTML5, CSS3, SASS, Bootstrap, Bulma.\nBuild tools – Angular CLI, Webpack, Gulp, Grunt\nTDD development – Mocha, Chai, Jasmine, Sinon, Karma.\nE2E tests with Protractor, TestCafe\n\nOther Skills\n\nSalesforce (including Apex, VisualForce, Integration, etc)\nGIT version control.\nMongoDB\nPostgreSQL"
+  },
+  "aboutAlternative": {
+    "text": "Contract Fullstack JavaScript Developer\n\nEducation and Certifications:\n\nComputer Science BSc Hons, University of Bristol\n1 x AWS Professional Certification (DevOps Engineer)\n3 x AWS Associate Certifications (Solutions Architect, Developer and SysOps Administrator)\nStrongloop Certified NodeJS Developer\nOracle Certified Professional Java 6 Programmer\n\nJavaScript\n\nStrong client-side JavaScript - Angular 2/4, AngularJS, TypeScript, RxJS\nNodeJS (Strongloop Certified Node Developer), Express.\nHTML5, CSS3, SASS, Bootstrap, Bulma.\nBuild tools – Angular CLI, Webpack, Gulp, Grunt\nTDD development – Mocha, Chai, Jasmine, Sinon, Karma.\nE2E tests with Protractor, TestCafe\n\nOther Skills\n\nSalesforce (including Apex, VisualForce, Integration, etc)\nGIT version control.\nMongoDB\nPostgreSQL"
+  },
+  "positions": [
+    {
+      "title": "Contract Salesforce and JavaScript Developer",
+      "companyName": "Condé Nast International",
+      "location": "Remote",
+      "date1": "Mar 2019 – Present",
+      "date2": "9 mos"
+    },
+    {
+      "title": "Contract Fullstack JavaScript Developer",
+      "companyName": "Wipro Digital",
+      "location": "Edinburgh, United Kingdom",
+      "date1": "Oct 2018 – Mar 2019",
+      "date2": "6 mos"
+    },
+    {
+      "title": "Contract JavaScript Developer",
+      "companyName": "Thomson Reuters",
+      "location": "London, United Kingdom",
+      "date1": "Jun 2017 – Jun 2018",
+      "date2": "1 yr 1 mo"
+    },
+    {
+      "title": "Contract JavaScript Developer",
+      "companyName": "Ministry of Justice UK",
+      "location": "Croydon, United Kingdom",
+      "date1": "Jun 2016 – Apr 2017",
+      "date2": "11 mos"
+    },
+    {
+      "title": "Contract JavaScript Developer",
+      "companyName": "BAE Systems Applied Intelligence",
+      "date1": "Feb 2016 – May 2016",
+      "date2": "4 mos"
+    },
+    {
+      "title": "Senior JavaScript and Salesforce Developer (Contract)",
+      "companyName": "Vanquish Group",
+      "location": "Remote",
+      "date1": "Dec 2015 – Jan 2016",
+      "date2": "2 mos"
+    },
+    {
+      "title": "Senior AngularJS and Salesforce Developer (Contract)",
+      "companyName": "Condé Nast Publications",
+      "location": "London",
+      "description": "Built and tested an AngularJS application on the Force.com platform.",
+      "date1": "May 2015 – Nov 2015",
+      "date2": "7 mos"
+    },
+    {
+      "title": "Senior JavaScript and Salesforce Developer (Contract)",
+      "companyName": "Comol Business Services Ltd",
+      "location": "London",
+      "date1": "Mar 2015 – May 2015",
+      "date2": "3 mos"
+    },
+    {
+      "title": "Senior Salesforce Developer (Contract)",
+      "companyName": "Cloud Sherpas",
+      "location": "Canary Wharf, London",
+      "date1": "Oct 2014 – Feb 2015",
+      "date2": "5 mos"
+    },
+    {
+      "title": "Senior AngularJS and Salesforce Developer (Contract)",
+      "companyName": "FusionExperience Ltd",
+      "date1": "May 2014 – Aug 2014",
+      "date2": "4 mos"
+    },
+    {
+      "title": "Senior JavaScript and Salesforce Developer",
+      "companyName": "Vanquish Group",
+      "date1": "Jul 2013 – May 2014",
+      "date2": "11 mos"
+    },
+    {
+      "title": "JavaScript, Salesforce and Java Developer",
+      "companyName": "Trader Media Group",
+      "location": "Newton-le-Willows (nr. Warrington, uk)",
+      "date1": "Jul 2012 – Jul 2013",
+      "date2": "1 yr 1 mo"
+    }
+  ],
+  "educations": [
+    {
+      "title": "University of Bristol",
+      "degree": "BSc (Hons)",
+      "fieldofstudy": "Computer Science"
+    }
+  ],
+  "skills": [
+    {
+      "title": "JavaScript",
+      "count": "14"
+    },
+    {
+      "title": "Angular 2/4",
+      "count": "1"
+    },
+    {
+      "title": "TypeScript",
+      "count": "1"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "1",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/antonia-lowther/",
+        "text": "I have recently had the pleasure of working with Joe. His Salesforce development skills are outstanding, as is his attitude and diligence. I was particularly impressed with his quality of work, ability to prioritise everything thrown at him and communication with end clients and third parties. I will not hesitate to use Joe as a Salesforce contractor again.\n…\nSee more"
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/lilycooksley/",
+      "text": "Software Engineering Intern at J.P. Morgan"
+    },
+    {
+      "user": "https://www.linkedin.com/in/edwardjinks/",
+      "text": "Taking a gap year. Working as a web developer."
+    },
+    {
+      "user": "https://www.linkedin.com/in/neilglover1/",
+      "text": "Head of Accountant Partnerships"
+    },
+    {
+      "user": "https://www.linkedin.com/in/andrew-moss/",
+      "text": "Chief Technology Officer (CTO) at Code Kingdoms"
+    },
+    {
+      "user": "https://www.linkedin.com/in/callum-macmillan-4b7480145/",
+      "text": "Software Development Engineer at Amazon"
+    },
+    {
+      "user": "https://www.linkedin.com/in/phil-dadd-a8999/",
+      "text": "Technical Cyber Specialist and Authority"
+    },
+    {
+      "user": "https://www.linkedin.com/in/rupert-bedford-29277796/",
+      "text": "Software Engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/softwaremanager/",
+      "text": "✸ Software Manager ✸ Technical Consultant ✸ SQL Developer ✸ BI Developer ✸ Available Late 2019"
+    },
+    {
+      "user": "https://www.linkedin.com/in/roberto-lau-soto/",
+      "text": "Computer Science student at the University of Bristol"
+    },
+    {
+      "user": "https://www.linkedin.com/in/luke-murray-48309830/",
+      "text": "Software Developer at Zeetta Networks"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Joe Lemmer",
+    "headline": "Contract Salesforce and JavaScript Developer at Condé Nast International",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQHpWSQIqRO0-A/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=ZgFTY2UNj6lhiZVkcvF3I2a0fCtfjHDKQfbNNjAJv1g",
+    "location": "Edinburgh, United Kingdom",
+    "connections": "286",
+    "summary": "Contract Fullstack JavaScript Developer\n\nEducation and Certifications:\n\nComputer Science BSc Hons, University of Bristol\n1 x AWS Professional Certification (DevOps Engineer)\n3 x AWS Associate Certifications (Solutions Architect, Developer and SysOps Administrator)\nStrongloop Certified NodeJS Developer\nOracle Certified Professional Java 6 Programmer\n\nJavaScript\n\nStrong client-side JavaScript - Angular 2/4, AngularJS, TypeScript, RxJS\nNodeJS (Strongloop Certified Node Developer), Express.\nHTML5, CSS3, SASS, Bootstrap, Bulma.\nBuild tools – Angular CLI, Webpack, Gulp, Grunt\nTDD development – Mocha, Chai, Jasmine, Sinon, Karma.\nE2E tests with Protractor, TestCafe\n\nOther Skills\n\nSalesforce (including Apex, VisualForce, Integration, etc)\nGIT version control.\nMongoDB\nPostgreSQL"
+  }
+}

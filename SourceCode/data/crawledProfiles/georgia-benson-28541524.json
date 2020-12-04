@@ -1,0 +1,76 @@
+{
+  "profileAlternative": {
+    "name": "Georgia Benson",
+    "headline": "Mineral Royalties, Oil & Gas",
+    "location": "Haskell, Oklahoma",
+    "connections": "28"
+  },
+  "aboutAlternative": {},
+  "positions": [
+    {
+      "title": "Muskogee, Oklahoma",
+      "date1": "1979 – 2001",
+      "date2": "22 yrs",
+      "roles": [
+        {
+          "title": "Muskogee County Courthouse",
+          "date1": "1979 – 2001",
+          "date2": "22 yrs"
+        },
+        {
+          "title": "Most Worshiful Prince Hall Grand Lodge",
+          "date1": "1989 – 1995",
+          "date2": "6 yrs"
+        }
+      ]
+    },
+    {
+      "title": "Title\nMuskogee County Courthouse",
+      "date1": "1979 – 2001",
+      "date2": "22 yrs",
+      "roles": [
+        {
+          "title": "Muskogee County Courthouse",
+          "date1": "1979 – 2001",
+          "date2": "22 yrs"
+        }
+      ]
+    },
+    {
+      "title": "Title\nMost Worshiful Prince Hall Grand Lodge",
+      "date1": "1989 – 1995",
+      "date2": "6 yrs",
+      "roles": [
+        {
+          "title": "Most Worshiful Prince Hall Grand Lodge",
+          "date1": "1989 – 1995",
+          "date2": "6 yrs"
+        }
+      ]
+    }
+  ],
+  "educations": [
+    {
+      "title": "Booker T. Washington and Haskell High School - Haskell, Oklahoma"
+    },
+    {
+      "title": "Northeastern State University- Tahlequah, Oklahoma"
+    }
+  ],
+  "skills": [],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Georgia Benson",
+    "headline": "Mineral Royalties, Oil & Gas",
+    "location": "Haskell, Oklahoma",
+    "connections": "28"
+  }
+}

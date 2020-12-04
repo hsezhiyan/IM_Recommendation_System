@@ -1,0 +1,259 @@
+{
+  "profileAlternative": {
+    "name": "Peter Lawrey",
+    "headline": "Low latency Java specialist and CEO for Chronicle Software",
+    "imageurl": "https://media.licdn.com/dms/image/C5103AQFvwKC3KPWh4A/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=fRjwZmcBC4qax0snIePQHTRsH-AjCcRBVT3kS1u1Dgc",
+    "location": "Woking, Surrey, United Kingdom",
+    "connections": "500+",
+    "summary": "Peter Lawrey likes to inspire developers to improve the craftmanship of their solutions, engineer their systems for simplicity and performance, and enjoy their work more by being creative and innovative.\n\nHe has the most answers for Java and JVM on StackOverflow.com and has a popular blog “Vanilla Java” has had over 4 million views and is the architect of Chronicle Software which includes support for off heap memory, thread pinning and low latency persistence and IPC (as low as 100 nano-seconds)."
+  },
+  "aboutAlternative": {
+    "text": "Peter Lawrey likes to inspire developers to improve the craftmanship of their solutions, engineer their systems for simplicity and performance, and enjoy their work more by being creative and innovative.\n\nHe has the most answers for Java and JVM on StackOverflow.com and has a popular blog “Vanilla Java” has had over 4 million views and is the architect of Chronicle Software which includes support for off heap memory, thread pinning and low latency persistence and IPC (as low as 100 nano-seconds)."
+  },
+  "positions": [
+    {
+      "title": "CEO",
+      "companyName": "Chronicle Software",
+      "location": "London, United Kingdom",
+      "description": "Company specialises in Consulting, Training and Development of low latency, high throughput applications in Java. The company has grown to a team of ten and we are looking to take on larger projects this year.\n\nWe have a suite of open source, high performance libraries (OpenHFT), and will be offering commercialised enterprise editions this year.",
+      "date1": "Feb 2013 – Present",
+      "date2": "6 yrs 10 mos"
+    },
+    {
+      "title": "Researcher/Developer",
+      "companyName": "Millennium Capital Partners",
+      "description": "Researcher for new signal generation, trading and execution strategies. (70%)\n\nDevelopment for these strategies and integration with existing systems. (30%)",
+      "date1": "Mar 2012 – Feb 2013",
+      "date2": "1 yr"
+    },
+    {
+      "title": "Application Architect / Senior Developer",
+      "companyName": "Plus Markets Group",
+      "description": "Design and Development of custom Exchanges. The sub-microsecond Matching Engine is designed for flexibility to suit different customer requirements and scalability to handle billions of orders per day.",
+      "date1": "Sep 2011 – Mar 2012",
+      "date2": "7 mos"
+    },
+    {
+      "title": "Head of Trading Technology",
+      "companyName": "Edge CI",
+      "description": "Development and support of a high frequency Spot FX prop trading system.",
+      "date1": "Sep 2009 – Aug 2011",
+      "date2": "2 yrs"
+    },
+    {
+      "title": "Trading Performance Engineer",
+      "companyName": "Barclays Capital",
+      "description": "I am responsible for performance of a high frequency FX algo-trading system. RMI/pricing distribution with sub 100 micro-second latency.\nThe focus of my role is to identify and reduce sources of latency over a milli-second.",
+      "date1": "Aug 2008 – Sep 2009",
+      "date2": "1 yr 2 mos"
+    },
+    {
+      "title": "Electronic Trading Developer",
+      "companyName": "UBS Investment Bank",
+      "description": "Designing and implementing a platform framework in Java. Emphasis is on simplicity, testability and supportability.\nThe framework contains a Data Model driven generation of data value and messaging objects. A spring like component framework which supports threading model for components, use of constructors to build objects (rather than rely on setters) and rule based properties (so a single set of rules can describe all possible deployments)\nThere is a single build which can be applied to dev, uat, demo or prod.\nThe framework is designed to support a web based trading platform with a clear layer seperation between infrastructure, application and business logic.\n…\nsee more",
+      "date1": "May 2006 – Aug 2008",
+      "date2": "2 yrs 4 mos"
+    },
+    {
+      "title": "Build Manager",
+      "companyName": "Royal Bank of Scotland",
+      "description": "Build Manager for teams totalling 15 developers.\nRe-engineered the build to be automatic from checkout to deployment to multiple servers. Builds/Deploys 1,000,000 line application consisting of 285 services to 50+ servers in UAT in around 30 minutes. (Across three countries)\nJava Development to add global bond management.\n…\nsee more",
+      "date1": "Nov 2005 – May 2006",
+      "date2": "7 mos"
+    },
+    {
+      "title": "Technical Architect",
+      "companyName": "Cantor Index (eSpeed)",
+      "description": "Technical Architect for a leading edge online trading system\nSee http://www.ladbrokes.co.uk/ and select the \"Financial\" tab",
+      "date1": "Mar 2003 – Oct 2005",
+      "date2": "2 yrs 8 mos"
+    },
+    {
+      "title": "Software Support Consultant",
+      "companyName": "Reuters",
+      "description": "Support for Developers using Reuters Developer Connect",
+      "date1": "Sep 2002 – Mar 2003",
+      "date2": "7 mos"
+    },
+    {
+      "title": "Technical Java Consultant",
+      "companyName": "Sun Microsystems",
+      "description": "Java and Sun Products Consultant.\nTechnical Account Manager for Telstra (One of Sun's top 10 customers)",
+      "date1": "Sep 2000 – Apr 2002",
+      "date2": "1 yr 8 mos"
+    },
+    {
+      "title": "Technical Team Manager",
+      "companyName": "Cambridge Technology Partners",
+      "description": "Successfully deployed Yellow Pages on-line for Telstra in Australia. This was 95% completed by previous Technical Leads. I just did the last 5% to ensure it was performant and stable in production.",
+      "date1": "Apr 2000 – Sep 2000",
+      "date2": "6 mos"
+    },
+    {
+      "title": "Senior UNIX Technologist",
+      "companyName": "BHP Billiton",
+      "description": "Supported a wide range of 32-bit and 64-bit Solaris, Linux (and seven other flavours of Unix) for clients in many government and public industries with systems distributed around Australia.",
+      "date1": "1995 – 2000",
+      "date2": "5 yrs"
+    },
+    {
+      "title": "Support/Developer",
+      "companyName": "De Beers",
+      "date1": "1993 – 1995",
+      "date2": "2 yrs"
+    }
+  ],
+  "educations": [
+    {
+      "title": "University of Melbourne",
+      "degree": "Honours",
+      "fieldofstudy": "Electrical and Electronic Engineering",
+      "date1": "1989",
+      "date2": "1993"
+    },
+    {
+      "title": "University of Melbourne",
+      "degree": "Degree",
+      "fieldofstudy": "Computer Science",
+      "date1": "1989",
+      "date2": "1993"
+    },
+    {
+      "title": "Ivanhoe Grammar School",
+      "date1": "1982",
+      "date2": "1988"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Java",
+      "count": "99+"
+    },
+    {
+      "title": "Low Latency",
+      "count": "99+"
+    },
+    {
+      "title": "Electronic Trading",
+      "count": "99+"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "13",
+    "receivedCount": "9",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/roaustin/",
+        "text": "Peter is an experienced Java developer, in fact the best I have ever worked with. He is adaptable and able to deal with any problem thrown at him."
+      },
+      {
+        "user": "https://www.linkedin.com/in/bernard-yue-042a012/",
+        "text": "We have been knowing each other for over 20 years through our studies at Ivanhoe Grammar School and the University of Melbourne. A great friend of mine who is more than intellectually stimulating, but also a supportive one through tough times. Wish Peter, Vanessa and their family a wonderful life in the UK. Thanks for the visit in 2007 and hope to meet up again!\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/usman-khan-b786511/",
+        "text": "Peter Lawrey is a very experienced and highly skilled practitioner of Software Engineering in the professional and industrial sense. His advanced level of expertise was responsible for building our teams highly valued infrastructure, which consisted of high performance clustering and dynamic object relational management. Peter is a great person to work with and I have personally benefited from his perspective on Software practices, design and implementation detail. Usman Khan\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/armandoferreira/",
+        "text": "Peter is one of the best developers I have ever worked with. His work is of top quality and he is also extremely productive and adaptable. Highly recommended."
+      },
+      {
+        "user": "https://www.linkedin.com/in/iancackett/",
+        "text": "Peter was pivotal in the development of the infrastructure upon which our business-facing applications were built. He was a well-respected authority on all things Java-related, and delivered some key functionality in a very fast-paced and challenging banking environment."
+      },
+      {
+        "user": "https://www.linkedin.com/in/pgaliana/",
+        "text": "Peter is a highly skilled server-side java developer, with an impressive in-depth knowledge of the language and the JVM. Yet his programming methods and ideas remain very simple and pragmatic. He proved an extremely valuable member of the ICC team, and greatly simplified and improved our software framework. He is very friendly and always ready to help his colleagues. I would not hesitate to recommend Peter, or work again with him.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/andy-bryant-030a33/",
+        "text": "Peter is an exceptionally talented developer who has made a number of significant contributions to the UBS ICC software stack. For such a senior member of the team, he is very approachable and spends considerable time helping others come up to speed with the platform. I would not hesitate to recommend Peter and would gladly work with him again in the future.\n…\nSee more"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/paulhienkens/",
+        "text": "Paul is an excellent negotiator who improved the process and outcomes of our contract negotiation.  He produces quality marketing content to a high standard. His review of our legal contracts and documents saw significant improvements and reduced risk for our company. \nPaul's technical knowledge is valuable in finding new opportunities for our business."
+      },
+      {
+        "user": "https://www.linkedin.com/in/tomshercliff/",
+        "text": "Tom is an excellent skilled personable Java developer of quality solutions who i look forward to an opportunity to work with again."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "1",
+      "items": [
+        "Chronicle Software (open source)"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/pradips/",
+      "text": "HFT Low Latency eTrading System Consultant"
+    },
+    {
+      "user": "https://www.linkedin.com/in/daniel-shaya-9b0aa4/",
+      "text": "Low Latency Java Developer at Citi"
+    },
+    {
+      "user": "https://www.linkedin.com/in/martinjthompson/",
+      "text": "High-Performance & Low-Latency Computing Specialist"
+    },
+    {
+      "user": "https://www.linkedin.com/in/neil-ingledew-231a6b9/",
+      "text": "Low Latency Expert"
+    },
+    {
+      "user": "https://www.linkedin.com/in/roaustin/",
+      "text": "Development Manager at Chronicle Software"
+    },
+    {
+      "user": "https://www.linkedin.com/in/josegonzalez1/",
+      "text": "Technical Project Lead at Chronicle Software"
+    },
+    {
+      "user": "https://www.linkedin.com/in/alunticehurst/",
+      "text": "Program Delivery Manager at SAS"
+    },
+    {
+      "user": "https://www.linkedin.com/in/robhunt2/",
+      "text": "Business Development at Chronicle Software"
+    },
+    {
+      "user": "https://www.linkedin.com/in/brunobonacci/",
+      "text": "Applied Machine Learning Engineer at Apple"
+    },
+    {
+      "user": "https://www.linkedin.com/in/grant-wallace-27530421/",
+      "text": "Freelance Java Developer (available immediately) specialising in low-latency, high-throughput micro-services."
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Most ansers for Java & JVM",
+      "experience": "Stack Exchange",
+      "description": "Education",
+      "date1": "Jan 2009",
+      "date2": "1 mo"
+    },
+    {
+      "title": "Sometime Expert Speaker",
+      "experience": "London Java Community",
+      "description": "Education",
+      "date1": "Dec 2011",
+      "date2": "1 mo"
+    }
+  ],
+  "profile": {
+    "name": "Peter Lawrey",
+    "headline": "Low latency Java specialist and CEO for Chronicle Software",
+    "imageurl": "https://media.licdn.com/dms/image/C5103AQFvwKC3KPWh4A/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=fRjwZmcBC4qax0snIePQHTRsH-AjCcRBVT3kS1u1Dgc",
+    "location": "Woking, Surrey, United Kingdom",
+    "connections": "500+",
+    "summary": "Peter Lawrey likes to inspire developers to improve the craftmanship of their solutions, engineer their systems for simplicity and performance, and enjoy their work more by being creative and innovative.\n\nHe has the most answers for Java and JVM on StackOverflow.com and has a popular blog “Vanilla Java” has had over 4 million views and is the architect of Chronicle Software which includes support for off heap memory, thread pinning and low latency persistence and IPC (as low as 100 nano-seconds)."
+  }
+}

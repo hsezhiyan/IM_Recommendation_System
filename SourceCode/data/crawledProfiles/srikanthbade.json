@@ -1,0 +1,150 @@
+{
+  "profileAlternative": {
+    "name": "Srikanth Bade",
+    "headline": "DevOps Engineer || Oracle & MongoDB Administrator",
+    "location": "Schaumburg, Illinois",
+    "connections": "208",
+    "summary": "12 years of experience in IT Services and Operations and handling Infrastructure Management Services. Experience in DevOps roles and conceptual knowledge of the entire DevOps stack. Also working as Administrator handling SQL and NOSQL databases."
+  },
+  "aboutAlternative": {
+    "text": "12 years of experience in IT Services and Operations and handling Infrastructure Management Services. Experience in DevOps roles and conceptual knowledge of the entire DevOps stack. Also working as Administrator handling SQL and NOSQL databases."
+  },
+  "positions": [
+    {
+      "title": "Cognizant",
+      "location": "Greater Chicago Area",
+      "description": "Maintain and monitor the automated build and continuous integration process to ensure efficient build execution, and facilitate resolution of build/release failures.\nMonitor and manage all server environments, ensure that each are healthy and have the latest patches and security components installed.\nProvide system documentation as needed, including architectural diagrams, process flowcharts, and data flowcharts.\nWork with developers to execute software releases, configuration updates, and other release requirements.\nTroubleshooting, diagnosing, and fixing software and infrastructure issues.Design and implement DevOps best practices, establish standards and policies for managing source code and continuous integration/delivery.\nContribute to security automation through the development of compliance and audit tests as code (InSpec), integrated into the CI/CD pipeline.\nGood working knowledge in Ansible tower and experience in automating configuration tasks and deployment.\nExperience in managing SCM tools like GIT and possess good experience in creating Jenkins .Used Spinnaker for application deployments for end-to-end, experience in setting up and configuring pipelines in Spinnaker\nDeveloped CI/CD system with Jenkins on Kubernetes container environment, utilizing Kubernetes and Docker for the CI/CD system to build, test, and deploy.\nExperience in ticketing tools like Atlassian JIRA, BMC Remedy.Involved in end - to - end deployment of micro services applications using Jenkins, Spinnaker, Kubernetes and Docker.\nFamiliarity with Agile development practices.Proficiency with source-control tools (GitHub, Bit bucket, etc.) .Manage a portfolio of cloud-based web applications (Azure), cloud infrastructure and services.\nSecurity practices related to encryption, certificates, and patch management.Generate Adhoc Reports from Hive and send to clients.Monitor the Spark jobs and troubleshoot Issues. disaster recovery solutions.AWS Knowledge and Experience.\n…\nsee more",
+      "date1": "Nov 2018 – Present",
+      "date2": "1 yr 1 mo",
+      "roles": [
+        {
+          "title": "DevOps Engineer",
+          "date1": "Nov 2018 – Present",
+          "date2": "1 yr 1 mo",
+          "location": "Greater Chicago Area"
+        },
+        {
+          "title": "DevOps Engineer | SQL & NOSQL Admin",
+          "date1": "Nov 2012 – Nov 2018",
+          "date2": "6 yrs 1 mo",
+          "location": "Greater Chicago Area"
+        },
+        {
+          "title": "Oracle Database Administrator",
+          "date1": "Nov 2007 – Nov 2012",
+          "date2": "5 yrs 1 mo",
+          "location": "Chennai Area, India"
+        }
+      ]
+    },
+    {
+      "title": "Title\nDevOps Engineer",
+      "location": "Greater Chicago Area",
+      "description": "Maintain and monitor the automated build and continuous integration process to ensure efficient build execution, and facilitate resolution of build/release failures.\nMonitor and manage all server environments, ensure that each are healthy and have the latest patches and security components installed.\nProvide system documentation as needed, including architectural diagrams, process flowcharts, and data flowcharts.\nWork with developers to execute software releases, configuration updates, and other release requirements.\nTroubleshooting, diagnosing, and fixing software and infrastructure issues.Design and implement DevOps best practices, establish standards and policies for managing source code and continuous integration/delivery.\nContribute to security automation through the development of compliance and audit tests as code (InSpec), integrated into the CI/CD pipeline.\nGood working knowledge in Ansible tower and experience in automating configuration tasks and deployment.\nExperience in managing SCM tools like GIT and possess good experience in creating Jenkins .Used Spinnaker for application deployments for end-to-end, experience in setting up and configuring pipelines in Spinnaker\nDeveloped CI/CD system with Jenkins on Kubernetes container environment, utilizing Kubernetes and Docker for the CI/CD system to build, test, and deploy.\nExperience in ticketing tools like Atlassian JIRA, BMC Remedy.Involved in end - to - end deployment of micro services applications using Jenkins, Spinnaker, Kubernetes and Docker.\nFamiliarity with Agile development practices.Proficiency with source-control tools (GitHub, Bit bucket, etc.) .Manage a portfolio of cloud-based web applications (Azure), cloud infrastructure and services.\nSecurity practices related to encryption, certificates, and patch management.Generate Adhoc Reports from Hive and send to clients.Monitor the Spark jobs and troubleshoot Issues. disaster recovery solutions.AWS Knowledge and Experience.\n…\nsee more",
+      "date1": "Nov 2018 – Present",
+      "date2": "1 yr 1 mo",
+      "roles": [
+        {
+          "title": "DevOps Engineer",
+          "date1": "Nov 2018 – Present",
+          "date2": "1 yr 1 mo",
+          "location": "Greater Chicago Area"
+        }
+      ]
+    },
+    {
+      "title": "Title\nDevOps Engineer | SQL & NOSQL Admin",
+      "location": "Greater Chicago Area",
+      "description": "Project 1#\nArchitect, implement, and continuously improve CI/CD strategy that includes source code control, build pipelines, test automation, deployments, and the management of our documentation and process assets.\nUsing tools like Azure DevOps, validate requirements, deploy, and troubleshoot deployments of code and technologies in stage and production environments;\nExperience with modern CI/CD tools (Jenkins).\nUnderstanding of micro services architecture and experience in Kubernetes and Docker.\nUsed source-control tool Bit Bucket.\nBuilding automated tools via Shell Scripting and Python.\nWorking experiences in interfacing with SOAP/REST APIs/ Web services.\nNetworking concepts (routes, subnets, ports, firewalls, etc.) and tools.\nSecurity concepts and tools.\nPerformance monitoring and log management systems (Dynatrace, Prometheus, Grafana, ELK stack, etc.).Istio Implementation.\nProject 2#\nAdministration of MongoDB databases throughout the development and production lifecycles.\nDesigning, Building, and automating the MongoDB Architecture.\nOpsManager Setup and upgrade, monitor health via OpsManager.\nInstall, configure, and administer all Oracle databases (RAC) required for development, testing, Staging & Production.\nPerforms Capacity planning, Performance Tuning of Oracle databases.\nDevelop and implement backup and recovery policies and processes. Ensure the integrity of backups and perform testing of necessary recovery operations.\nDevelop and implement database security policies, procedures and processes including access, logging and monitoring.Oracle & MongoDB Performance Tuning.\nInstall Golden Gate Veridata and set up environments for monitoring.\nSetup Uni or Bi-Directional Golden Gate and develop the mapping as per the requirement.\nSetup cross table mappings as per business requirements using Golden Gate.\nUsed Advanced Golden Gate skills for cross mapping between the tables.\nInvolved in outages and Provide 24 X 7 support for MongoDB and Oracle databases.\n…\nsee more",
+      "date1": "Nov 2012 – Nov 2018",
+      "date2": "6 yrs 1 mo",
+      "roles": [
+        {
+          "title": "DevOps Engineer | SQL & NOSQL Admin",
+          "date1": "Nov 2012 – Nov 2018",
+          "date2": "6 yrs 1 mo",
+          "location": "Greater Chicago Area"
+        }
+      ]
+    },
+    {
+      "title": "Title\nOracle Database Administrator",
+      "location": "Chennai Area, India",
+      "description": "• Maintaining Production, Development & Test databases.\n• Supported the 2- node, 3-node, 4-node and multi-node RAC environment.\n• Monitored the Applications and Database using OEM as well as command prompt.\n• Support Monthly and Quarterly releases.\n• Constantly monitor the performance of the Databases and viewing Alert log files & Trace files.\n• Query optimization and tuning using tools like TOAD and SQL Loader.\n• Good Knowledge of Oracle SQL & PL/SQL.\n• Performance tuning of Oracle Database, applications and queries.\n• Creating Application Users, Profiles, Responsibilities, Functions for the user.\n• Strong understanding and Expertise in administration of UNIX Systems and File System.\n• Knowledge of Installation and configuration of RAC\n\n…\nsee more",
+      "date1": "Nov 2007 – Nov 2012",
+      "date2": "5 yrs 1 mo",
+      "roles": [
+        {
+          "title": "Oracle Database Administrator",
+          "date1": "Nov 2007 – Nov 2012",
+          "date2": "5 yrs 1 mo",
+          "location": "Chennai Area, India"
+        }
+      ]
+    }
+  ],
+  "educations": [
+    {
+      "title": "JNT University",
+      "degree": "BTech",
+      "fieldofstudy": "Mechanical Engineering",
+      "date1": "2003",
+      "date2": "2007"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Oracle Database Administration",
+      "count": "2"
+    },
+    {
+      "title": "GoldenGate",
+      "count": "2"
+    },
+    {
+      "title": "MongoDB Administrator",
+      "count": "2"
+    },
+    {
+      "title": "Cloud Computing"
+    },
+    {
+      "title": "Unix"
+    },
+    {
+      "title": "PLSQL",
+      "count": "1"
+    },
+    {
+      "title": "Azure DevOps"
+    },
+    {
+      "title": "Microsoft Azure"
+    },
+    {
+      "title": "Docker Products"
+    },
+    {
+      "title": "DevOps"
+    },
+    {
+      "title": "Kubernetes"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Srikanth Bade",
+    "headline": "DevOps Engineer || Oracle & MongoDB Administrator",
+    "location": "Schaumburg, Illinois",
+    "connections": "208",
+    "summary": "12 years of experience in IT Services and Operations and handling Infrastructure Management Services. Experience in DevOps roles and conceptual knowledge of the entire DevOps stack. Also working as Administrator handling SQL and NOSQL databases."
+  }
+}

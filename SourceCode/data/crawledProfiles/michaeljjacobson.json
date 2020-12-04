@@ -1,0 +1,321 @@
+{
+  "profileAlternative": {
+    "name": "Mike Jacobson",
+    "headline": "Senior JavaScript Engineer at Transcend Insights",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQFj6MtV3sN8lw/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=muomBD0WQzPpqltqsbZhSRLDma5wJ95aPxBrdrtT6QY",
+    "location": "Greater San Diego Area",
+    "connections": "154",
+    "summary": "- 20+ years of professional software development experience\n\n- 15+ years of Web development\n\n- 2+ years of Angular 4+ development with TypeScript, RxJS, and Node.js\n\n- 5 years of AngularJS (1.x) development, including 3 years using TypeScript and Node.js\n\n- Particularly strong with JavaScript, Angular, and front-end development\n\n- Diverse experience working with many different technologies for a variety of companies, large and small\n\n- Proven history of being a top performer in all environments and situations, whether working as part of a team or as the sole developer on a project\n\n- Strong drive to complete tasks, and a passion--bordering on obsession--for getting the UI and UX details just right\n\n- Passion for writing clean, efficient code that is understandable, testable, and maintainable\n\n* Active on GitHub: https://github.com/mikejacobson\n- Created and maintain several open-source AngularJS and jQuery projects\n\n* Active on StackOverflow: http://stackoverflow.com/users/4192097/mikej\n- Answer AngularJS, jQuery, and JavaScript questions"
+  },
+  "aboutAlternative": {
+    "text": "- 20+ years of professional software development experience\n\n- 15+ years of Web development\n\n- 2+ years of Angular 4+ development with TypeScript, RxJS, and Node.js\n\n- 5 years of AngularJS (1.x) development, including 3 years using TypeScript and Node.js\n\n- Particularly strong with JavaScript, Angular, and front-end development\n\n- Diverse experience working with many different technologies for a variety of companies, large and small\n\n- Proven history of being a top performer in all environments and situations, whether working as part of a team or as the sole developer on a project\n\n- Strong drive to complete tasks, and a passion--bordering on obsession--for getting the UI and UX details just right\n\n- Passion for writing clean, efficient code that is understandable, testable, and maintainable\n\n* Active on GitHub: https://github.com/mikejacobson\n- Created and maintain several open-source AngularJS and jQuery projects\n\n* Active on StackOverflow: http://stackoverflow.com/users/4192097/mikej\n- Answer AngularJS, jQuery, and JavaScript questions"
+  },
+  "positions": [
+    {
+      "title": "Senior JavaScript Engineer",
+      "companyName": "Humana",
+      "location": "Greater San Diego Area",
+      "description": "Building Angular 4+/TypeScript/Node.js Web applications for the healthcare industry using a Linux/MacOS technology stack with Git/GitHub for source control and Jenkins for continuous integration (CI) in an Agile/Scrum environment.\n\nI live in the front end and the Node.js middle tier, which we use to call RESTful backend microservices.\n\nStrong emphasis on unit testing for the Angular and Node code using Jasmine, Karma, Mocha, and Chai, and on functional testing using Protractor.\n\nHeavy use of Lodash and ES6/ES2015 features.\n\n…\nsee more",
+      "date1": "Oct 2016 – Present",
+      "date2": "3 yrs 2 mos"
+    },
+    {
+      "title": "Lead Software Engineer",
+      "companyName": "Genoptix, A Novartis Company",
+      "location": "Carlsbad, CA",
+      "description": "Built Web apps in C# .NET environment to support internal and external business needs of medical lab utilizing latest Web development technologies, including JavaScript, AngularJS, jQuery, Bootstrap, SASS, Gulp, AJAX, and ASP.NET Web API.\n\nDaily activities included:\n\n• Writing lots of terrific code using best practices for making it efficient, maintainable, and extensible.\n• Working closely with Marketing on the design of new apps and features.\n• Researching, testing, and selecting new technologies to use on projects.\n• Enforcing best practices through code reviews and open communication with other developers.\n• Mentoring others and sharing knowledge to improve our skills and the quality of all products.\n\nSignificant accomplishments included:\n\n• Being primary developer on two new client-facing Web apps that use AngularJS, Bootstrap, and .NET Web API. Both were required to have a modern, elegant UI and be simple and intuitive even for non-tech-savvy users. They were also required to work well in IE8, a business requirement that sometimes proved challenging but was achieved.\n\nWhat I did that was so great:\n- Contributed substantially to the UI design, working closely with Marketing\n- Began developing prototypes early to make the design discussions as fruitful as possible\n- Drove highly collaborative design process by quickly refining prototypes based on stakeholder feedback\n- Developed app architectures using Angular best practices\n- Released products on schedule to great Sales exuberance, one of the apps allowing them to penetrate a new market\n- Created some of the end-user help content to guide users through the many features available in the apps\n- Created detailed internal developer documentation describing the apps’ architectures along with debugging tips\n\n• Being promoted from Sr. Software Engineer to Lead Software Engineer in just over two years after demonstrating the skills, knowledge, initiative, work ethic, and passion for quality expected of a Lead.\n…\nsee more",
+      "date1": "Oct 2011 – Oct 2016",
+      "date2": "5 yrs 1 mo"
+    },
+    {
+      "title": "Software Engineer",
+      "companyName": "DefenseWeb Technologies, Inc.",
+      "description": "• Maintained and enhanced ArmyOneSource.com, a news and information portal for military service members and their families\n\n• Worked primarily on the front end using jQuery and jQuery UI to:\n- Build and enhance the various page components—menus, tabs, accordions, rotators, etc.\n- Build and enhance jQuery-based wizards used by content management specialists to define and build the portal pages, allowing them to add components, specify the component contents, etc.\n\nThe portal was a .NET Web app utilizing C# .NET, jQuery, jQuery UI, AJAX with JSON, .NET Web Services, WCF, multiple SQL Server 2005/2008 databases, and a Vignette Content Management System.\n…\nsee more",
+      "date1": "Sep 2010 – Oct 2011",
+      "date2": "1 yr 2 mos"
+    },
+    {
+      "title": "Software Engineer",
+      "companyName": "Permission Interactive",
+      "description": "• Designed, developed, tested, and deployed two Web apps as part of 5-person team using C# .NET with a SQL Server 2005 database in an n-tier architecture that comprised a system for quickly and efficiently creating e-commerce websites, primarily direct marketing sites for As-Seen-On-TV-type products\n\n- One app was a rich, user-friendly back-end interface for designing and creating the e-commerce sites, allowing internal marketing-type users to specify the content for the sites--text, images, purchasing options, prices, navigation through upsells, etc.\n\n- The other app was the system’s front end that generated and rendered the customer-facing sites. 700-800 sites had been built in the system.\n\n• Maintained and continually enhanced both systems to meet ever-evolving business requirements, with extreme attention to detail and consideration of all implications of any change across the system since all customer-facing sites were impacted by code changes\n…\nsee more",
+      "date1": "Sep 2008 – Aug 2010",
+      "date2": "2 yrs"
+    },
+    {
+      "title": "Software Engineer",
+      "companyName": "PLATO Learning",
+      "description": "• Maintained and enhanced Web-based educational software system, using Perl with a MySQL Database in a Linux environment\n\n• Before moving to Web development in 2004, developed and released 23 educational video games for Sony Playstation and PC using in-house game scripting language rooted in C\n…\nsee more",
+      "date1": "May 1996 – Sep 2008",
+      "date2": "12 yrs 5 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Villanova University",
+      "degree": "Bachelor of Electrical Engineering, cum laude",
+      "fieldofstudy": "Electrical Engineering"
+    },
+    {
+      "title": "Duke University",
+      "degree": "Electrical Engineering",
+      "fieldofstudy": "Electrical Engineering"
+    }
+  ],
+  "skills": [
+    {
+      "title": "JavaScript",
+      "count": "11"
+    },
+    {
+      "title": "Angular"
+    },
+    {
+      "title": "AngularJS",
+      "count": "2"
+    },
+    {
+      "title": "Web Development",
+      "count": "4"
+    },
+    {
+      "title": "Web Applications",
+      "count": "11"
+    },
+    {
+      "title": "Software Development",
+      "count": "12"
+    },
+    {
+      "title": "Agile Methodologies"
+    },
+    {
+      "title": "Scrum"
+    },
+    {
+      "title": "Mobile Applications",
+      "count": "1"
+    },
+    {
+      "title": "Unit Testing"
+    },
+    {
+      "title": "Functional Testing"
+    },
+    {
+      "title": "Continuous Integration"
+    },
+    {
+      "title": "ES6"
+    },
+    {
+      "title": "nodejs"
+    },
+    {
+      "title": "lodash"
+    },
+    {
+      "title": "CSS",
+      "count": "3"
+    },
+    {
+      "title": "SASS"
+    },
+    {
+      "title": "Git"
+    },
+    {
+      "title": "Github"
+    },
+    {
+      "title": "Visual Studio Code"
+    },
+    {
+      "title": "jQuery",
+      "count": "7"
+    },
+    {
+      "title": "Jenkins"
+    },
+    {
+      "title": "JIRA"
+    },
+    {
+      "title": "AJAX",
+      "count": "10"
+    },
+    {
+      "title": "HTML",
+      "count": "1"
+    },
+    {
+      "title": "C#",
+      "count": "10"
+    },
+    {
+      "title": ".NET",
+      "count": "5"
+    },
+    {
+      "title": "SQL",
+      "count": "1"
+    },
+    {
+      "title": "ES2015"
+    },
+    {
+      "title": "LESS"
+    },
+    {
+      "title": "chai"
+    },
+    {
+      "title": "IntelliJ IDEA"
+    },
+    {
+      "title": "RxJS"
+    },
+    {
+      "title": "Microsoft Visual Studio Code"
+    },
+    {
+      "title": "Node.js"
+    },
+    {
+      "title": "TypeScript"
+    },
+    {
+      "title": "jasmine"
+    },
+    {
+      "title": "Karma"
+    },
+    {
+      "title": "Protractor"
+    },
+    {
+      "title": "Mocha"
+    },
+    {
+      "title": "Open Source Development"
+    },
+    {
+      "title": "Gulp.js"
+    },
+    {
+      "title": "npm"
+    },
+    {
+      "title": "Bower"
+    },
+    {
+      "title": "mac os"
+    },
+    {
+      "title": "Atom"
+    },
+    {
+      "title": "Confluence"
+    },
+    {
+      "title": "CoffeeScript"
+    },
+    {
+      "title": "Code Review"
+    },
+    {
+      "title": "Express.js"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "7",
+    "receivedCount": "6",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/robertrasmussen/",
+        "text": "It has been my pleasure to work with Mike and to recommend him. Mike is a skilled developer with a very positive outlook and work ethic. In addition he is a very pleasant colleague and gets along very well with everyone. I would certainly advise any potential employer to consider him for their team."
+      },
+      {
+        "user": "https://www.linkedin.com/in/psciuto/",
+        "text": "Working with Mike is a real pleasure - he brings a great skillset and fantastic attitude to the office ever day, and he is both a strong team member and a reliable independent worker. The kind of developer that will always find a successful solution to the business problem at hand, he is equally capable in a conference room working directly with customers. I would leap at the opportunity to work with Mike in the future.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/jhshua/",
+        "text": "I had the very distinct pleasure of working with Mike Jacobson while at Permission Interactive and can attest to his extensive knowledge of .NET web application development. Mike is an exceptional software developer and professional who brings determination and enthusiasm to every endeavor he undertakes. Mike’s understanding of .NET/C# development from system level details to high-level architecture made him a key resource to our Information Technology team. His work directly contributed to the completion of numerous cost saving improvements to our projects. Mike's command of details and subject matter in addition to his team driven work ethic make him a tremendous asset to any software development project. I highly recommend him.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/nga-tina-phan-3297a58/",
+        "text": "It’s been a wonderful experience for me working with Mike in the last 6 years in different projects. Mike is a great software developer with skills in Perl, MySQL, Linux, .NET, C#, SQL Server and etc. Mike shows an ownership for everything he implemented which all have zero to minimum issues. Besides that, Mike is a great team member with great desire to share his knowledge and help out other team members in any area. I strongly believe Mike will be a great asset to any organization and wish to have the opportunity working with him again in the future.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/markmeenahan/",
+        "text": "I've worked with Mike Jacobson for over 7 years and can't wait to work with him again. For the last two years, Mike and I worked together on a small team which built an engine to display custom, data-driven e-commerce sites and an accompanying back office system which allowed for easy setup of distinct shopping sites. Mike is a very knowledgeable and efficient software engineer. He is skilled at .NET development using n-tier architecture and SQL Server 2005. Along with his programming skills Mike also has a great knack for troubleshooting and debugging issues and implementing effective solutions. I highly recommend Mike Jacobson and know he will bring success to any organization.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/nlockheimers/",
+        "text": "Mike is an outstanding programmer and all-around problem solver. His calm and collected personality really keeps things moving smoothly. He is awesome at meeting deadline (often times, insanely tight ones), and always happy to contribute to the team. Great guy and very talented at what he does!"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/umadice/",
+        "text": "I had the pleasure of working with Uma for five years at Genoptix and can attest to her skills as a Software QA Engineer as well as a great colleague and teammate. Her attention to detail, strong work ethic, and positive attitude were invaluable to the success of our projects together.\r\n\r\nShe is very easy to work with and collaborates well with developers to demonstrate issues she has found and to get them resolved and verified. When she was the QA Engineer on the project, it always gave me great confidence that the software had been thoroughly tested and was production ready."
+      },
+      {
+        "user": "https://www.linkedin.com/in/reshmasingh4/",
+        "text": "It's been a sincere pleasure working with Reshma for the past year. Her extensive knowledge of and proficiency with our systems and technology, in addition to her dedication and hard-working nature, make her an invaluable employee. You can always turn to her when there are strange issues with the system, and know that she'll be able to quickly track them down and fix them. And her positive, generous, supportive attitude and friendly demeanor make her a joy to be around. Truly a top-notch engineer and an all-around classy person."
+      }
+    ]
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/caleb89taylor/",
+      "text": "Software Engineer Team Lead at Nike"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nathanbekker/",
+      "text": "Sr. Software Engineer with over 15 years of experience."
+    },
+    {
+      "user": "https://www.linkedin.com/in/spencermefford/",
+      "text": "Senior JavaScript Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ken-tolcou-17b425/",
+      "text": "Proven Sr. Software Management / DevOps Engineer | Helping Companies Translate Their Business Goals to Reality."
+    },
+    {
+      "user": "https://www.linkedin.com/in/karladenise-abano-8b63a011a/",
+      "text": "Aviation Electrician Supervisor"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ssundahl/",
+      "text": "Senior Software Engineer at The Trade Desk, Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/thomasduranpmp/",
+      "text": "Senior Leader in Program Management and Agile Software Development"
+    },
+    {
+      "user": "https://www.linkedin.com/in/michael-limber-6b792958/",
+      "text": "Senior Business Engineer at Genoptix, Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/jonathan-greenemeier-2102446b/",
+      "text": "Senior JavaScript Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/xavier-deanda/",
+      "text": "Senior Technology Management and Innovation Leader"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Mike Jacobson",
+    "headline": "Senior JavaScript Engineer at Transcend Insights",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQFj6MtV3sN8lw/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=muomBD0WQzPpqltqsbZhSRLDma5wJ95aPxBrdrtT6QY",
+    "location": "Greater San Diego Area",
+    "connections": "154",
+    "summary": "- 20+ years of professional software development experience\n\n- 15+ years of Web development\n\n- 2+ years of Angular 4+ development with TypeScript, RxJS, and Node.js\n\n- 5 years of AngularJS (1.x) development, including 3 years using TypeScript and Node.js\n\n- Particularly strong with JavaScript, Angular, and front-end development\n\n- Diverse experience working with many different technologies for a variety of companies, large and small\n\n- Proven history of being a top performer in all environments and situations, whether working as part of a team or as the sole developer on a project\n\n- Strong drive to complete tasks, and a passion--bordering on obsession--for getting the UI and UX details just right\n\n- Passion for writing clean, efficient code that is understandable, testable, and maintainable\n\n* Active on GitHub: https://github.com/mikejacobson\n- Created and maintain several open-source AngularJS and jQuery projects\n\n* Active on StackOverflow: http://stackoverflow.com/users/4192097/mikej\n- Answer AngularJS, jQuery, and JavaScript questions"
+  }
+}

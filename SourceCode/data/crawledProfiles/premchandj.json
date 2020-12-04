@@ -1,0 +1,170 @@
+{
+  "profileAlternative": {
+    "name": "Premchand Jayamohan",
+    "headline": "Senior Software Engineer at Argo AI",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQFVxrLb_Yb_WA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=EiCoZW44s_dpmW7htBvvku2eWEgENP6WLYXDm2FoIHM",
+    "location": "Sunnyvale, California",
+    "connections": "500+",
+    "summary": "• Extensive experience in object-oriented design & development\n• Have good experience leading development teams\n• Has lots of energy, a clear sense of urgency and direction\n• Highly focused on doing everything simpler and faster\n• Pursue stretch goals to drive aggressive growth\n• Demands aggressive personal growth and sets challenging performance standards\n• A result oriented team player\n\nSpecialties:\n• Operating Systems: Linux, FreeBSD, Windows NT/2000/XP\n• Programming: C, C++, Java, STL, Assembler, Perl, PHP, SQL, HTML, XML, JSON, SNMP, Javascript, PIG\n• Tools: Visual C++, GNU tools, CVS, SVN, Bugzilla, Rational Rose, Doxygen\n• Software: MySQL, Oracle, Access, Apache, Hadoop\n• Networking: TCP/IP, UDP, DNS, Ethernet, ATM, xDSL"
+  },
+  "aboutAlternative": {
+    "text": "• Extensive experience in object-oriented design & development\n• Have good experience leading development teams\n• Has lots of energy, a clear sense of urgency and direction\n• Highly focused on doing everything simpler and faster\n• Pursue stretch goals to drive aggressive growth\n• Demands aggressive personal growth and sets challenging performance standards\n• A result oriented team player\n\nSpecialties:\n• Operating Systems: Linux, FreeBSD, Windows NT/2000/XP\n• Programming: C, C++, Java, STL, Assembler, Perl, PHP, SQL, HTML, XML, JSON, SNMP, Javascript, PIG\n• Tools: Visual C++, GNU tools, CVS, SVN, Bugzilla, Rational Rose, Doxygen\n• Software: MySQL, Oracle, Access, Apache, Hadoop\n• Networking: TCP/IP, UDP, DNS, Ethernet, ATM, xDSL"
+  },
+  "positions": [
+    {
+      "title": "Senior Software Engineer",
+      "companyName": "Argo AI",
+      "location": "Palo Alto, California",
+      "date1": "Mar 2019 – Present",
+      "date2": "9 mos"
+    },
+    {
+      "title": "Senior Software Engineer",
+      "companyName": "Netflix",
+      "location": "San Francisco Bay Area",
+      "description": "• Key member of the Membership engineering team. Worked in building and operating a scalable membership platform to enable the 137M+ members to provide customers control over their Netflix membership, across platforms from Mobile to TV.\n\n• Worked on extending the membership platform to create partner integration solutions that are easy to use, robust and scalable.\n\n• Provided cross-functional engineering leadership in close partnership with product, business and customer experience teams to build a great experience for customers.\n\n• Technologies: RESTful services, Java, Cassandra, MemCached, Grpc, Jersey, Spring, Guice, Tomcat, SQS, Kafka, S3, Spark, Hive, Elasticsearch, AWS Cloud.\n\n…\nsee more",
+      "date1": "Oct 2016 – Feb 2019",
+      "date2": "2 yrs 5 mos"
+    },
+    {
+      "title": "Staff Software Engineer",
+      "companyName": "LinkedIn",
+      "location": "San Francisco Bay Area",
+      "description": "• Lead developer in the LinkedIn Compliance product, designing and developing compliance services for LinkedIn that helps its customers meet their regulatory needs.\n\n• The Compliance product helps LinkedIn customers in financial & banking sectors, to comply with their regulatory needs (mandated by SEC & FINRA). It allows banks to register employees for monitoring and be able to retrieve member activity reports thru REST based APIs.\n\n• Worked on the development of the final product, together with a team of three developers, which included hands-on development of a highly scalable and distributed backend server to process and store member activities in a NoSQL DB. Also worked on developing offline components, and leveraging the data using Hadoop flows to ensure full coverage of member activity data.\n\n• Owned the design of the product, that included interfacing with partner and engineering teams, helping define the product requirements, evaluating various design options and owning the final design. Worked with design review committees and getting buy-in and commitments from various internal teams.\n\n• Prior to Compliance work, I led the backend development for the LinkedIn Lookup product, which enables employees to find, learn about, and contact anyone at their company. Responsible for architecture, implementation, and guiding small team of developers through the development process.\n\n…\nsee more",
+      "date1": "Feb 2015 – Oct 2016",
+      "date2": "1 yr 9 mos"
+    },
+    {
+      "title": "Software Development Engineer III",
+      "companyName": "Amazon.com",
+      "description": "• Development lead in the External Payments Services (EPS) team, designing and developing checkout and payment services for Amazon third-party sellers. Led developmental activities spanning across multiple engineering teams to improve Buyer Experience for the Amazon Payments Advanced (APA) product.\n\n• Lead across entire product lifecycle, ramping up and trained new staff, reviewing and providing positive contributions and adjustments to product specification definition, design and large-scale architectural upgrades and signoff, implementation, QA and defect fixes, and phased launch.\n\n• Led the initiative to identify the next generation software platform for the APA product to cater to our future needs. I was involved in investigating various technologies, narrowing down to a selected few technologies, leading multiple teams on a prototyping effort, coming up with metrics for comparing the competing technologies and the prototypes, coming up with the final proposal, and getting the final approval\n\n• Member of the Samurai team that provides technical leadership within the organization and drive organization-wide initiatives to raise the bar on Amazon engineering.\n\n• Collaborated with principals, engineers, and senior managers to define, design and deliver product platform.\n\n• Was responsible for security within the EPS organization. As a certified security reviewer, I oversaw the security aspects of org wide initiatives, and was actively involved in reviewing and certifying the various projects within and across teams.\n\n• Was closely involved in expanding the buyer experience team in California. Was involved in hiring events and served as the technical mentor for incoming development engineers, and getting them up to speed on the development process at Amazon\n…\nsee more",
+      "date1": "Jul 2012 – Jan 2015",
+      "date2": "2 yrs 7 mos"
+    },
+    {
+      "title": "Technical Lead",
+      "companyName": "Yahoo! Inc",
+      "location": "Sunnyvale, CA",
+      "description": "• Lead developer in the Yahoo! Display Advertising & Targeting team, designing and building Real-time systems for Display Advertising and Behavioral Targeting systems.\n\n• Worked on the Right Media Exchange(RMX) forecasting product, building large scale systems to help clients better plan and budget their Ad Campaigns. This involved doing lot of data crunching on hadoop clusters using map-reduce programs to generate models, that were used in real-time systems.\n\n• Worked on the Right Media Exchange (RMX) Ad server, where online ads are traded in an open marketplace. I was a key member of the post-acquisition team, focusing on integrating RMX code into the Yahoo APT framework, new features implementation, server performance, optimizations and product support.\n\n• Oversaw the AdServer site-up & deployment operations, by being the dev POC, for ongoing releases.\n\n• Worked in various other teams within Yahoo!, including Alerts, Avatars, Videos, Webby award winning Y! Podcasts, Email marketing & Data infrastructure teams.\n\n• Built highly scalable backend systems to store and share large volumes of data generated on the Yahoo! Properties, including performance, stress testing & hardware planning.\n\n• Led development teams, and coordinated dev activities with local and remote teams to work towards common release schedules.\n…\nsee more",
+      "date1": "Sep 2003 – Jun 2012",
+      "date2": "8 yrs 10 mos"
+    },
+    {
+      "title": "Senior Software Engineer",
+      "companyName": "Union Switch & Signal",
+      "location": "Pittsburgh, PA",
+      "description": "• Involved in research and development of the Optimized Traffic Planner (OTP), to optimize real-time train traffic inside extensive railroad networks.\n\n• Lead a team of four developers in implementing the dispatcher module . This was part of the effort to re-architect the OTP product, to make it more stable, and commercially viable, after the prototype functionality was proved.\n\n• Developed the OTP test framework\n\n• Was actively involved in requirements gathering for OTP. It involved creation of scope documents, prioritizing requirements, peer reviews, coming up with software requirements specifications & requirement validation.\n\n• Researched improvements for the OTP agent and dispatcher components\n\n• Analyzed OTP code and designed the transformation from static to dynamic and real-time planning\n…\nsee more",
+      "date1": "Jan 2002 – Jun 2003",
+      "date2": "1 yr 6 mos"
+    },
+    {
+      "title": "Software Development Engineer",
+      "companyName": "CoManage Corp",
+      "location": "Wexford, PA",
+      "description": "• Implemented Network Device Support in the ISM product for Cisco 7200 VXR and Lucent PSAX 2300 switches. Added support for multiple device communication protocols, along with other improvements to the product to make it faster and easier to implement device support in the product.\n\n• Responsible for all aspects of 'Network Device support' development including the subsystem architecture, coordinating interactions with other development teams and oversight and participation in requirements, design, and code reviews.\n\n• Worked with vendors and partners to gain a deeper understanding of their networking equipment and the network management marketplace overall.\n\n• Developed and executed end-to-end testing procedures for ISM\n\n• Made various improvements to the core of the ISM product\n\n• Served as the technical mentor for incoming development engineers\n…\nsee more",
+      "date1": "May 2000 – Dec 2001",
+      "date2": "1 yr 8 mos"
+    },
+    {
+      "title": "Software Architect",
+      "companyName": "Team Systems",
+      "location": "Pittsburgh, PA",
+      "description": "• Designed and implemented 95/NT-based suite of equity modeling and research tools\n\n• Researched and implemented an in-house B-Tree based database, which overcame data size limitations of other databases and had significant performance advantages over other commercially available databases. This served as the core database on which the entire software was based.\n\n• Utilized advanced Win32 techniques , including security, threads and synchronization, and IPC (shared memory, named pipes, sockets)\n\n• Implemented both standalone as well as client-server versions in a single code base\n\n• Developed an OO library employed by all of the firm's applications, resulting in nearly 80% LOC reuse\n\n• Managed technical staff, including recruiting, defining tasks, scheduling, and motivating team members\n\n• Trained new employees, customers, and sales staff in the design, use and benefits of the product\n\n• Collaborated with marketing on product management, including market analysis, feature set, look and feel.\n…\nsee more",
+      "date1": "Jun 1997 – May 2000",
+      "date2": "3 yrs"
+    },
+    {
+      "title": "Software Developer",
+      "companyName": "CAISE, Clarkson University",
+      "location": "Potsdam, NY",
+      "description": "• Designed and developed a suite of tools for the interactive simulation and analysis of various engineering problems used to aid students in undergraduate courses\n\n• Developed a tool for computational simulation( numeric & symbolic) activities involved in the stress analysis of beams.\n\n• Developed a graphical tool for the solving linear electrical circuits.\n\n• Lead a team of six programmers thru the entire software development cycle\n…\nsee more",
+      "date1": "May 1996 – May 1997",
+      "date2": "1 yr 1 mo"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Clarkson University",
+      "degree": "M.S",
+      "fieldofstudy": "Electrical Engineering",
+      "date1": "1995",
+      "date2": "1997"
+    },
+    {
+      "title": "PSG College of Technology",
+      "degree": "B.E",
+      "fieldofstudy": "Electrical & Electronics Engineering",
+      "date1": "1991",
+      "date2": "1995"
+    },
+    {
+      "title": "Madras christian college higher secondary school",
+      "date1": "1984",
+      "date2": "1991"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Perl",
+      "count": "99+"
+    },
+    {
+      "title": "Linux",
+      "count": "55"
+    },
+    {
+      "title": "Scalability",
+      "count": "49"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "2",
+    "receivedCount": "4",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/srirampanyam/",
+        "text": "Prem has demonstrated great experience in getting projects off the ground and getting actively involved in their design and architecture as well implementation in a timely manner (despite often aggressive deadlines). He has a strong understanding of the systems he is creating as well as the systems he has to work with and (often) around. As well as being a results oriented engineer, he knows how to handle and balance the priorities from various (often competing) stakeholders in a project. An example of this was his driving of a recent endeavor to test, assess and select among candidate technologies for assisting engineers in our organization to increase productivity over the existing (outdated) stack. He successfully led teams to handle these tasks in parallel and in healthy competition to obtain the best results from all. After this he was able to effectively synthesize this information for higher management. All this in addition to his daily SDE duties and project schedules. Prem is a great team player and a very generous mentor. He has never turned down a team member in need of help and advice in both technical areas as well as in matters of professional and career growth. He is a great asset to any team. Great to have worked with him.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/milan-chutake-4770407/",
+        "text": "I managed Prem for roughly ~8 months while I headed the Real Time Scoring Targeting Team and Audience Centric Targeting (ACT) Team at Yahoo! Prem was part of the ACTS team. Prem is a committed and hard working engineer to have on the team. All his deliverable were delivered on time with good quality. Prem is a good team player and works well with the rest of the team. It was a pleasure working with him and he would be a a good asset to any engineering team.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/shaileshbhat/",
+        "text": "Prem was the engineering point of contact on a project that I worked on with him at Yahoo! He led a team of 4 developers in delivering the product within very aggressive timelines. His responsibilities included planning & managing the day-to-day development efforts, and technical leadership. He also interfaced with the product management, UED and engineering teams to deliver the project in the desired timeline. Prem is an extremely hard worker, at the same time he is very easy to work with. I have seen him seek out challenging projects and deliver to them. Always an asset to any team.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/natemcnamara/",
+        "text": "When I interviewed Prem, he stood out among the applicants for the position because of his extraordinary intelligence, enthusiasm, commitment, and excellent communication skills. Once he came on board, he exceeded my expectations by displaying those qualities consistently and completing a string of successful projects. I would be delighted to hire him again.\n…\nSee more"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/minoo-parivash-b183b24/",
+        "text": "I have worked closely with Minoo in the Display Ads team at Yahoo! Minoo worked with me as a QA liaison to test the Right Media Exchange(RMX) Ad server product. Minoo was very thorough in all the work that she did, and in-spite of the rigorous schedules she was able to get the QA certification done in a timely and thorough manner. She was able to write many useful scripts that helped her achieve this . These scripts were eventually used by other team members who were doing similar work, and her efforts were much appreciated. I highly recommend Minoo, and i believe that she would be a valuable asset to any organization."
+      },
+      {
+        "user": "https://www.linkedin.com/in/srirampanyam/",
+        "text": "I have worked closely with Sriram in the External Payments team at Amazon. He is one of the best programmers and technologists I have worked with in my career. What I most appreciate is that he is a true craftsman, who delivers a product that not only works as it is supposed to, but, when you look under the covers, is also well-crafted, logical, and self-documenting.\r\n\r\nNot only is he is able to make good design and coding choices, but he is also an effective communicator. He has extensive industry experience, and has a good knowledge of industry standards, best practices and coding standards. He is able to share them with the team, and is able to get buy in from other team members on making the right choice for development.\r\n\r\nSriram is willing to take on tough challenges, and has a great attitude in learning new technologies and overcoming them. An example was when we as a team were looking to make the right platform choice for our product, and Sriram was given the task of implementing a quick prototype in a technology which was very new to him. At the end of 2 weeks, he not only was able to successfully deliver on the prototype, but also had made significant strides in learning the new technology, and share the information with the other team members, and help in the decision making. I was impressed with the initiative he showed in overcoming any setbacks he faced along the way. \r\n\r\nI'm confident that Sriram could rise to almost any challenge that the software industry would care to throw at him, and if I ever had an opportunity to work with Sriram again, I'd be delighted."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "1",
+      "items": [
+        "LinkedIn Lookup"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Premchand Jayamohan",
+    "headline": "Senior Software Engineer at Argo AI",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQFVxrLb_Yb_WA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=EiCoZW44s_dpmW7htBvvku2eWEgENP6WLYXDm2FoIHM",
+    "location": "Sunnyvale, California",
+    "connections": "500+",
+    "summary": "• Extensive experience in object-oriented design & development\n• Have good experience leading development teams\n• Has lots of energy, a clear sense of urgency and direction\n• Highly focused on doing everything simpler and faster\n• Pursue stretch goals to drive aggressive growth\n• Demands aggressive personal growth and sets challenging performance standards\n• A result oriented team player\n\nSpecialties:\n• Operating Systems: Linux, FreeBSD, Windows NT/2000/XP\n• Programming: C, C++, Java, STL, Assembler, Perl, PHP, SQL, HTML, XML, JSON, SNMP, Javascript, PIG\n• Tools: Visual C++, GNU tools, CVS, SVN, Bugzilla, Rational Rose, Doxygen\n• Software: MySQL, Oracle, Access, Apache, Hadoop\n• Networking: TCP/IP, UDP, DNS, Ethernet, ATM, xDSL"
+  }
+}

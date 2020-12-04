@@ -1,0 +1,334 @@
+{
+  "profileAlternative": {
+    "name": "Providing Software Development services\n\nMobile Application Development, Application Development, Web Development, and Custom Software Development\n\nSee all details",
+    "headline": "Senior Software Engineer at Skyward, A Verizon company and LinkedIn Learning Technical Author",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQHjyOGS6Mf-yw/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=dcLPTgib4P8kNu4PMPM04nkCa5CnlmVQVnwKklpCY2E",
+    "summary": "I am a veteran software engineer with over 12 years of experience designing and implementing scalable, distributed systems while working in an Scrum environment.\n\nI specialize in containerized, cloud-native, reactive backend services deployed via a automated CI/CD pipeline.\n\nI have a passion for mentoring, teaching and collaboration.\n\nI give back to the technical community by creating courses on LinkedIn Learning and through Open Source contributions. I enjoy online learning through MOOCs and other online platforms and networking and attending meetups within the local tech community.\n\nLife-long Learner.\n\nTop 5% on Stackoverflow.\n\nOver 150k learners have viewed my courses on LinkedIn Learning.\n\nSpecialities: Java, Spring, Cloud(AWS), Microservice Architecture, Devops\nOther skills: Front-end(Typescript, Angular)\n\nSkills I'm working on: Machine Learning, Data Science, Design, UI/UX, Blockchain"
+  },
+  "aboutAlternative": {
+    "text": "I am a veteran software engineer with over 12 years of experience designing and implementing scalable, distributed systems while working in an Scrum environment.\n\nI specialize in containerized, cloud-native, reactive backend services deployed via a automated CI/CD pipeline.\n\nI have a passion for mentoring, teaching and collaboration.\n\nI give back to the technical community by creating courses on LinkedIn Learning and through Open Source contributions. I enjoy online learning through MOOCs and other online platforms and networking and attending meetups within the local tech community.\n\nLife-long Learner.\n\nTop 5% on Stackoverflow.\n\nOver 150k learners have viewed my courses on LinkedIn Learning.\n\nSpecialities: Java, Spring, Cloud(AWS), Microservice Architecture, Devops\nOther skills: Front-end(Typescript, Angular)\n\nSkills I'm working on: Machine Learning, Data Science, Design, UI/UX, Blockchain"
+  },
+  "positions": [
+    {
+      "title": "Senior Software Engineer",
+      "companyName": "Skyward, A Verizon company",
+      "location": "Portland, Oregon",
+      "description": "Building the future of drones",
+      "date1": "Jun 2019 – Present",
+      "date2": "6 mos"
+    },
+    {
+      "title": "LinkedIn Learning Content Author - Tech",
+      "companyName": "LinkedIn",
+      "location": "Remote/Carpenteria, CA",
+      "description": "- Design and author content for video-based e-learning focusing on technologies in the Java ecosystem for LinkedIn Learning and Lynda.com\n- Write scripts, visuals, diagrams and code that appear in videos\n- Travel on-site to record and refine content",
+      "date1": "Dec 2016 – Present",
+      "date2": "3 yrs"
+    },
+    {
+      "title": "Senior Software Engineer",
+      "companyName": "OpenGov Inc.",
+      "location": "Portland, Oregon",
+      "description": "- Design and development of reactive, cloud-native containerized micro-services built with Java, Spring and Vert.x deployed via a Kubernetes CI/CD pipeline.\n- Development of core platform libraries such as structured logging, health checks, automatic documentation generation and more.\n- Worked in a DevOps capacity with build automation systems, Helm charts for Kubernetes and Docker.\n…\nsee more",
+      "date1": "Jul 2017 – Apr 2019",
+      "date2": "1 yr 10 mos"
+    },
+    {
+      "title": "Senior Software Engineer",
+      "companyName": "Nike",
+      "location": "Portland, Oregon",
+      "description": "- Full-time Employee of Softsource Consulting(Working on-site @ Nike)\n- Development of REST APIs using Java and Spring\n- Participation in Scrum/Agile teams\n- AWS Cloud deployments and Microservice architecture",
+      "date1": "May 2016 – Jul 2017",
+      "date2": "1 yr 3 mos"
+    },
+    {
+      "title": "Software Engineer",
+      "companyName": "Ippon Technologies USA",
+      "location": "Richmond, VA",
+      "description": "- Development of full-stack apps using Java and Spring, AngularJS, REST APIs, CSS3 and HTML5.\n- Social media, blogging and technical networking/meetups.\n- Participation in Scrum/Agile teams\n- Cloud deployments leveraging AWS, Docker and other DevOps tools.",
+      "date1": "Jun 2014 – May 2016",
+      "date2": "2 yrs"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Virginia Commonwealth University",
+      "degree": "BS",
+      "fieldofstudy": "Computer Science"
+    },
+    {}
+  ],
+  "skills": [
+    {
+      "title": "Java",
+      "count": "39"
+    },
+    {
+      "title": "Spring",
+      "count": "22"
+    },
+    {
+      "title": "JavaScript",
+      "count": "17"
+    },
+    {
+      "title": "Cloud Computing",
+      "count": "1"
+    },
+    {
+      "title": "Agile Methodologies",
+      "count": "19"
+    },
+    {
+      "title": "Scrum",
+      "count": "7"
+    },
+    {
+      "title": "Web Applications",
+      "count": "27"
+    },
+    {
+      "title": "Web Development"
+    },
+    {
+      "title": "Spring Framework",
+      "count": "15"
+    },
+    {
+      "title": "Amazon Web Services (AWS)",
+      "count": "3"
+    },
+    {
+      "title": "Docker",
+      "count": "1"
+    },
+    {
+      "title": "Hibernate",
+      "count": "22"
+    },
+    {
+      "title": "AJAX",
+      "count": "15"
+    },
+    {
+      "title": "AngularJS",
+      "count": "2"
+    },
+    {
+      "title": "MySQL",
+      "count": "15"
+    },
+    {
+      "title": "Linux",
+      "count": "10"
+    },
+    {
+      "title": "CSS",
+      "count": "6"
+    },
+    {
+      "title": "jQuery",
+      "count": "7"
+    },
+    {
+      "title": "Microsoft SQL Server",
+      "count": "4"
+    },
+    {
+      "title": "JUnit",
+      "count": "1"
+    },
+    {
+      "title": "Git",
+      "count": "2"
+    },
+    {
+      "title": "Maven"
+    },
+    {
+      "title": "RESTful WebServices",
+      "count": "2"
+    },
+    {
+      "title": "Vert.x",
+      "count": "1"
+    },
+    {
+      "title": "XML",
+      "count": "26"
+    },
+    {
+      "title": "Representational State Transfer (REST)"
+    },
+    {
+      "title": "Spring Boot"
+    },
+    {
+      "title": "Microservices",
+      "count": "3"
+    },
+    {
+      "title": "DevOps",
+      "count": "1"
+    },
+    {
+      "title": "Kubernetes",
+      "count": "1"
+    },
+    {
+      "title": "Groovy",
+      "count": "3"
+    },
+    {
+      "title": "Gradle"
+    },
+    {
+      "title": "Amazon Dynamodb",
+      "count": "1"
+    },
+    {
+      "title": "Back-End Web Development",
+      "count": "1"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "16",
+    "receivedCount": "15",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/andrew-reder-b8159b62/",
+        "text": "Chris is a passionate advocate for developer experience. He has a passion for ongoing education, improving training processes and creating sustainable documentation practices to improve developer satisfaction and productivity."
+      },
+      {
+        "user": "https://www.linkedin.com/in/jayson-barley-869882/",
+        "text": "I rarely have the pleasure of working with someone as dedicated to learning and teaching other as Chris. I worked with Chris at OpenGov, where his constant drive to help others around him get better was always evident. Chris was always willing to learn and improve his abilities no matter how difficult the topic was. Chris is a valuable team member for any organization that cares about learning and wants to see their employees get better.\n…\nSee more"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/noel-parisi/",
+        "text": "Noel is a unicorn in the technical world.  She is very talented technically, has an exceptional understanding of interpersonal interactions, has a sense for design and product and is just a bundle of joy and enthusiasm.\n\nShe is a whirlwind of gentle intelligence with a kind heart and a thirst for knowledge and excellence."
+      },
+      {
+        "user": "https://www.linkedin.com/in/gary-schulte-87896454/",
+        "text": "Gary is a bar-raising, highly skilled engineer that possesses an uncanny and profoundly gifted ability to untangle extremely complicated technical problems.  \n\nHe has a dedication to engineering excellence and a laser focus on solving the most important and demanding technical challenges with robust, elegant solutions.\n\nHe's also a great guy and an amazing teammate."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "8",
+      "items": [
+        "Building a Reactive App with Angular and SpringBoot 2",
+        "Reactive Spring",
+        "Reactive Programming with Java 8",
+        "JHipster: Build and Deploy Spring Boot Microservices",
+        "Building a Full-Stack App with Angular 2+ and Spring Boot",
+        "DynamoDB in a Spring Boot Application Using Spring Data",
+        "Integrate Wiremock into Spring Boot Java Web Application for Mocking External Dependencies",
+        "Suppress FindBugs Warnings in a Java and Spring Boot Web Application using Gradle"
+      ]
+    },
+    {
+      "count": "6",
+      "items": [
+        "Pricing Platform - Nike",
+        "Card Servicing Platform at Capital One",
+        "Allianz Travel Insurance Platform",
+        "Interaction Management System",
+        "Lifestyle Tracker",
+        "Patient and Provider Portal"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "Pluralsight Core Spring Skill IQ Assessment",
+        "Pluralsight Java Skill IQ Assessment"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "English"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Theta Delta Chi International"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/mfjbrugger/",
+      "text": "Sr. Backend Engineer at Skyward, A Verizon company"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jeff-mayeur-2252411/",
+      "text": "Director Of Engineering at Nike"
+    },
+    {
+      "user": "https://www.linkedin.com/in/amiekuttruff/",
+      "text": "Senior Front End Software Engineer at Skyward IO"
+    },
+    {
+      "user": "https://www.linkedin.com/in/dylan-camus-355499117/",
+      "text": "Software Engineer at Nike"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yvonne-hayes/",
+      "text": "Software Engineer at Nike"
+    },
+    {
+      "user": "https://www.linkedin.com/in/dansullivanpdx/",
+      "text": "Principal Engineer & Author"
+    },
+    {
+      "user": "https://www.linkedin.com/in/renee-kim-2ba478180/",
+      "text": "Software Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/alyce-bofferding-1441864b/",
+      "text": "Director of Customer Success at Skyward, A Verizon company"
+    },
+    {
+      "user": "https://www.linkedin.com/in/erinjanesbrooks/",
+      "text": "Digital Product Engineer / Design Thinker / Solution Design Leader"
+    },
+    {
+      "user": "https://www.linkedin.com/in/anthonyglatt/",
+      "text": "QA Automation Engineer at Skyward, A Verizon company"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Volunteer",
+      "experience": "Ronald McDonald House Charities of Richmond",
+      "description": "Children",
+      "date1": "Apr 2003 – May 2008",
+      "date2": "5 yrs 2 mos"
+    },
+    {
+      "title": "Volunteer",
+      "experience": "Autism Speaks",
+      "description": "Health",
+      "date1": "Apr 2015 – Present",
+      "date2": "4 yrs 8 mos"
+    },
+    {
+      "title": "Volunteer",
+      "experience": "VCU Massey Cancer Center",
+      "description": "Health",
+      "date1": "Jan 2014 – Apr 2016",
+      "date2": "2 yrs 4 mos"
+    }
+  ],
+  "profile": {
+    "name": "Providing Software Development services\n\nMobile Application Development, Application Development, Web Development, and Custom Software Development\n\nSee all details",
+    "headline": "Senior Software Engineer at Skyward, A Verizon company and LinkedIn Learning Technical Author",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQHjyOGS6Mf-yw/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=dcLPTgib4P8kNu4PMPM04nkCa5CnlmVQVnwKklpCY2E",
+    "summary": "I am a veteran software engineer with over 12 years of experience designing and implementing scalable, distributed systems while working in an Scrum environment.\n\nI specialize in containerized, cloud-native, reactive backend services deployed via a automated CI/CD pipeline.\n\nI have a passion for mentoring, teaching and collaboration.\n\nI give back to the technical community by creating courses on LinkedIn Learning and through Open Source contributions. I enjoy online learning through MOOCs and other online platforms and networking and attending meetups within the local tech community.\n\nLife-long Learner.\n\nTop 5% on Stackoverflow.\n\nOver 150k learners have viewed my courses on LinkedIn Learning.\n\nSpecialities: Java, Spring, Cloud(AWS), Microservice Architecture, Devops\nOther skills: Front-end(Typescript, Angular)\n\nSkills I'm working on: Machine Learning, Data Science, Design, UI/UX, Blockchain"
+  }
+}

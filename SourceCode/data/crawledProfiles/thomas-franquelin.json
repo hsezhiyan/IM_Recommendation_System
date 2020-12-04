@@ -1,0 +1,303 @@
+{
+  "profileAlternative": {
+    "name": "Thomas Franquelin",
+    "headline": "CTO at AdAlong",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQFyCRf59z9OPA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=TtU7B9HiEoDfsJe7xPNeU5bcDlH0ZEnAvSYwvaBerB0",
+    "location": "Paris Area, France",
+    "connections": "500+",
+    "summary": "I have been working in the software industry for around 10 years, in a variety of roles and technologies, for companies big and small, including my own. Always interested in technical challenges, and how they can push the business forward."
+  },
+  "aboutAlternative": {
+    "text": "I have been working in the software industry for around 10 years, in a variety of roles and technologies, for companies big and small, including my own. Always interested in technical challenges, and how they can push the business forward."
+  },
+  "positions": [
+    {
+      "title": "CTO",
+      "companyName": "AdAlong",
+      "location": "Paris Area, France",
+      "date1": "Jul 2019 – Present",
+      "date2": "5 mos"
+    },
+    {
+      "title": "Staff Software Engineer",
+      "companyName": "ContentSquare",
+      "location": "Paris Area, France",
+      "description": "Technical supervision of the Data Engineering team (10-15 engineers). Technologies used: Scala, Spark, Elasticsearch, ClickHouse, and many more.",
+      "date1": "Aug 2017 – Present",
+      "date2": "2 yrs 4 mos"
+    },
+    {
+      "title": "Cofounder",
+      "companyName": "City Context",
+      "location": "London, United Kingdom",
+      "description": "In collaboration with Andrea Fiore, creation of www.citycontext.com, an API that provided a curated access to local Open Data.",
+      "date1": "Aug 2015 – Aug 2017",
+      "date2": "2 yrs 1 mo"
+    },
+    {
+      "title": "Time Out Group",
+      "location": "London, United Kingdom",
+      "description": "- Responsible for the design and implementation of our data integration layer, in Scala\n- Line-manage a team of 5-10 engineers\n- Acts as the team's Scrum Master and prioritise tickets\n- Reports on team's progression",
+      "date1": "Apr 2016 – Jul 2017",
+      "date2": "1 yr 4 mos",
+      "roles": [
+        {
+          "title": "Tech Lead",
+          "date1": "Apr 2016 – Jul 2017",
+          "date2": "1 yr 4 mos",
+          "location": "London, United Kingdom"
+        },
+        {
+          "title": "Contract Scala Software Engineer",
+          "date1": "Mar 2016 – Apr 2016",
+          "date2": "2 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nTech Lead",
+      "location": "London, United Kingdom",
+      "description": "- Responsible for the design and implementation of our data integration layer, in Scala\n- Line-manage a team of 5-10 engineers\n- Acts as the team's Scrum Master and prioritise tickets\n- Reports on team's progression",
+      "date1": "Apr 2016 – Jul 2017",
+      "date2": "1 yr 4 mos",
+      "roles": [
+        {
+          "title": "Tech Lead",
+          "date1": "Apr 2016 – Jul 2017",
+          "date2": "1 yr 4 mos",
+          "location": "London, United Kingdom"
+        }
+      ]
+    },
+    {
+      "title": "Title\nContract Scala Software Engineer",
+      "description": "- Helped recreating the Scala Team almost from scratch. Together with the other Scala tech lead, we hired 6 Scala developers and 2 Scala contractors\n- Transfered the knowledge from the previous team to the new one.",
+      "date1": "Mar 2016 – Apr 2016",
+      "date2": "2 mos",
+      "roles": [
+        {
+          "title": "Contract Scala Software Engineer",
+          "date1": "Mar 2016 – Apr 2016",
+          "date2": "2 mos"
+        }
+      ]
+    },
+    {
+      "title": "Cofounder",
+      "companyName": "explore.properties",
+      "description": "In collaboration with Andrea Fiore and Emmanuelle Poirier, creation of a property website that goes beyond the classified approach. It uses a variety of public data to feed a matching algorithm for property rental. It is implemented in Scala, and backed by Postgres/PostGIS.",
+      "date1": "Aug 2014 – Mar 2016",
+      "date2": "1 yr 8 mos"
+    },
+    {
+      "title": "Contract Scala Software Engineer",
+      "companyName": "Guardian News & Media",
+      "description": "Work on the subscribe.theguardian.com and membership.theguardian.com platforms, using AWS and Scala.",
+      "date1": "Aug 2015 – Jan 2016",
+      "date2": "6 mos"
+    },
+    {
+      "title": "Cofounder",
+      "companyName": "Composable LLP",
+      "description": "Contracting partnership that worked with several clients, including The Ministry of Justice, The App Business, Appear Here, Pan Studio, Farmdrop and Optinomics. We specialized in Ruby and Haskell.",
+      "date1": "Feb 2014 – Jan 2015",
+      "date2": "1 yr"
+    },
+    {
+      "title": "Contract Ruby Software Engineer",
+      "companyName": "The App Business",
+      "description": "Refactoring of a data integration platform on a mobile sport application for a major news company",
+      "date1": "Apr 2014 – Aug 2014",
+      "date2": "5 mos"
+    },
+    {
+      "title": "Contract Ruby Software Engineer",
+      "companyName": "PAN studio",
+      "description": "Bootstrap an exchange platform website for a charity using Ruby On Rails",
+      "date1": "Feb 2014 – Apr 2014",
+      "date2": "3 mos"
+    },
+    {
+      "title": "Contract Ruby Software Engineer",
+      "companyName": "Appear Here",
+      "location": "Lonfon",
+      "description": "Development on the Ruby on Rails platform to make it transactional.",
+      "date1": "Feb 2014 – Apr 2014",
+      "date2": "3 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Ecole centrale de Paris",
+      "degree": "Master of Science (MSc)",
+      "fieldofstudy": "General Engineering",
+      "date1": "2004",
+      "date2": "2008"
+    },
+    {
+      "title": "Louis-le-Grand",
+      "degree": "MP*",
+      "fieldofstudy": "Mathematics, Physics",
+      "date1": "2001",
+      "date2": "2004"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Ruby",
+      "count": "11"
+    },
+    {
+      "title": "JavaScript",
+      "count": "10"
+    },
+    {
+      "title": "Software Development",
+      "count": "8"
+    },
+    {
+      "title": "Web Development",
+      "count": "7"
+    },
+    {
+      "title": "Design Patterns",
+      "count": "2"
+    },
+    {
+      "title": "Test Driven Development",
+      "count": "2"
+    },
+    {
+      "title": "Agile Methodologies",
+      "count": "1"
+    },
+    {
+      "title": "Software Design",
+      "count": "1"
+    },
+    {
+      "title": "TDD"
+    },
+    {
+      "title": "Business Analysis"
+    },
+    {
+      "title": "Ruby on Rails",
+      "count": "7"
+    },
+    {
+      "title": "Java",
+      "count": "4"
+    },
+    {
+      "title": "Open Source",
+      "count": "3"
+    },
+    {
+      "title": "Git",
+      "count": "3"
+    },
+    {
+      "title": "Unix",
+      "count": "2"
+    },
+    {
+      "title": "UML",
+      "count": "1"
+    },
+    {
+      "title": "Scala",
+      "count": "1"
+    },
+    {
+      "title": "Haskell",
+      "count": "4"
+    },
+    {
+      "title": "bdd"
+    },
+    {
+      "title": "Start-up Environment"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "1",
+    "receivedCount": "2",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/jean-pierre-belanger-84b19515/",
+        "text": "Thomas est une des personnes avec laquelle je partage le plus ma vision du monde informatique en ce qui concerne les orientations, la réutilisation, les méthodologies, le hype vs ce qui est vraiment utile. Thomas est également conscient des désillusions ou réalités des contextes réels d'interventions qui parfois nous font dévier, à tord ou à raison, de nos idéaux d'informaticiens. Thomas est un visionnaire, un entrepreneur et un théoricien en une seule personne; il sait ce qu'il faudrait faire de mieux; il sait ce qui ne fonctionnera pas et il prend l'initiative pour faire ce qu'il faut dans les circonstances et ça marche très bien.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/cedricpoire/",
+        "text": "Thomas is a talented developer who looks at providing solutions to the business' problems. He's focused on delivering quality work with an attention on maintainability and reuse."
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/cedricpoire/",
+        "text": "Cédric is a multi-faceted war-time team leader. He is able to understand what goes in his troops' head, while always keeping an eye on the bottom line. He showed us multiple times that he was able to get down to the fine-grained understanding of a technical matter when need be, but always  keeping in mind his company's interests."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "2",
+      "items": [
+        "English",
+        "French"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/alifirat-kilic-2a532775/",
+      "text": "Data Engineer chez ContentSquare"
+    },
+    {
+      "user": "https://www.linkedin.com/in/eliotandres/",
+      "text": "Computer Vision @ BG / Artizans"
+    },
+    {
+      "user": "https://www.linkedin.com/in/clemencedemerliac/",
+      "text": "Founder Adalong"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mathiasleveque/",
+      "text": "CTO"
+    },
+    {
+      "user": "https://www.linkedin.com/in/antoine-matton-36784110/",
+      "text": "Director at 3i Group plc"
+    },
+    {
+      "user": "https://www.linkedin.com/in/alain-dalmau-b16a4a50/",
+      "text": "Regional Sales Manager S-EMEA at Trifacta"
+    },
+    {
+      "user": "https://www.linkedin.com/in/valerie-rambourg-39b19149/",
+      "text": "Maketing Manager chez IBM"
+    },
+    {
+      "user": "https://www.linkedin.com/in/gilles-mercier-7001735/",
+      "text": "Chief Transformation Officer and Executive Assistant to EVP Engineering & Maintenance chez Air France"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sye-boddeus-27b86b51/",
+      "text": "Senior Mobile Engineer at ContentSquare"
+    },
+    {
+      "user": "https://www.linkedin.com/in/cyrilbalit/",
+      "text": "Directeur SFEIR Paris"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Thomas Franquelin",
+    "headline": "CTO at AdAlong",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQFyCRf59z9OPA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=TtU7B9HiEoDfsJe7xPNeU5bcDlH0ZEnAvSYwvaBerB0",
+    "location": "Paris Area, France",
+    "connections": "500+",
+    "summary": "I have been working in the software industry for around 10 years, in a variety of roles and technologies, for companies big and small, including my own. Always interested in technical challenges, and how they can push the business forward."
+  }
+}

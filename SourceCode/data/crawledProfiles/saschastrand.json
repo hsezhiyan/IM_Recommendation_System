@@ -1,0 +1,255 @@
+{
+  "profileAlternative": {
+    "name": "Sascha Strand",
+    "headline": "Software Engineer at CommonBond.co",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQHoavN3wAmKBQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=v7-07WFkV6dpduh0NPI15Sm0z2LAN6oedTTQ65APKwU",
+    "location": "New York, New York",
+    "connections": "363",
+    "summary": "I’ve been a software engineer for five years, and I’ve just completed my MS in computer science, focusing in language design, operating systems, and parallelism. I am pursuing back-end development roles in the New York City area."
+  },
+  "aboutAlternative": {
+    "text": "I’ve been a software engineer for five years, and I’ve just completed my MS in computer science, focusing in language design, operating systems, and parallelism. I am pursuing back-end development roles in the New York City area."
+  },
+  "positions": [
+    {
+      "title": "Software Engineer",
+      "companyName": "CommonBond.co",
+      "location": "New York, New York",
+      "date1": "Jun 2019 – Present",
+      "date2": "6 mos"
+    },
+    {
+      "title": "Portland State University",
+      "description": "• Teach a 300 level operating systems course\n• Develop and teach a functional programming lab in Haskell\n• Write assignments and exams and lecture 4-8 hours per week",
+      "date1": "Dec 2018 – Apr 2019",
+      "date2": "5 mos",
+      "roles": [
+        {
+          "title": "Graduate Student Instructor",
+          "date1": "Dec 2018 – Apr 2019",
+          "date2": "5 mos"
+        },
+        {
+          "title": "Graduate Teaching Assistant",
+          "date1": "Jan 2018 – Dec 2018",
+          "date2": "12 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nGraduate Student Instructor",
+      "description": "• Teach a 300 level operating systems course\n• Develop and teach a functional programming lab in Haskell\n• Write assignments and exams and lecture 4-8 hours per week",
+      "date1": "Dec 2018 – Apr 2019",
+      "date2": "5 mos",
+      "roles": [
+        {
+          "title": "Graduate Student Instructor",
+          "date1": "Dec 2018 – Apr 2019",
+          "date2": "5 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nGraduate Teaching Assistant",
+      "description": "• Developed and taught a comparative programming language course in Python, C, and Haskell\n• Led recitations on topics from algorithms and complexity to systems programming",
+      "date1": "Jan 2018 – Dec 2018",
+      "date2": "12 mos",
+      "roles": [
+        {
+          "title": "Graduate Teaching Assistant",
+          "date1": "Jan 2018 – Dec 2018",
+          "date2": "12 mos"
+        }
+      ]
+    },
+    {
+      "title": "Software Development Intern, Team Lead",
+      "companyName": "CDK Global",
+      "location": "Portland, Oregon",
+      "description": "• Led a team of interns developing a full-stack media storage and player application\n• Multithreaded processes for media management throughout this application's backend\n• Contributed to an MVC app's front end development in React\n• Expanded HATEOAS API endpoints in an existing Java Spring server",
+      "date1": "Jun 2018 – Aug 2018",
+      "date2": "3 mos"
+    },
+    {
+      "title": "Software Development Intern",
+      "companyName": "Janrain, Inc.",
+      "location": "Portland, Oregon",
+      "description": "• Built a stand-alone service in Go to process and store log data in production\n• Developed AWS lambdas and Athena tables to process data for BI tools\n• Added RESTful endpoints to deployed services\n• Auto-provisioned virtual machines for local testing with ansible and vagrant",
+      "date1": "Jul 2017 – Dec 2017",
+      "date2": "6 mos"
+    },
+    {
+      "title": "ETL Developer, Data Manager",
+      "companyName": "City of Portland",
+      "location": "Portland, Oregon",
+      "description": "• Developed an application to provide real-time sampling permit compliance feedback\n• Scripted the ETL of numerous data sources using R\n• Wrote custom parsers for malformatted JSON and XML",
+      "date1": "Nov 2014 – Aug 2015",
+      "date2": "10 mos"
+    },
+    {
+      "title": "Bookkeeper",
+      "companyName": "QDoc Film Festival",
+      "description": "• Generated reports for operations and payroll\n• Ensured payment from clients and to vendors\n• Managed a youth outreach program with local schools and non-profits",
+      "date1": "Mar 2013 – Dec 2014",
+      "date2": "1 yr 10 mos"
+    },
+    {
+      "title": "Chemistry Lab Tech",
+      "companyName": "Tufts University",
+      "location": "Tufts University",
+      "description": "• Repaired and maintained lab equipment\n• Managed hazardous materials\n• Prepared experimental demonstrations",
+      "date1": "May 2011 – Aug 2012",
+      "date2": "1 yr 4 mos"
+    },
+    {
+      "title": "Electrical Technician",
+      "companyName": "Sustainable Solutions Partners",
+      "description": "During summers:\n• Installed solar arrays and inversion systems\n• Worked with customers to prevent and troubleshoot outages\n• Coordinated supply chain logistics",
+      "date1": "Jun 2009 – Aug 2012",
+      "date2": "3 yrs 3 mos"
+    },
+    {
+      "title": "Research Assistant",
+      "companyName": "Massachusetts Institute of Technology",
+      "location": "Cambridge, Massachusetts",
+      "description": "• Assistant to Dr. Sharon Staton Russell, Immigration Policy Researcher\n• Provided technical support for research operations\n• Managed Dr. Russell's contacts and communications",
+      "date1": "Sep 2010 – May 2012",
+      "date2": "1 yr 9 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Portland State University",
+      "degree": "Master of Science (M.S.)",
+      "fieldofstudy": "Computer Science",
+      "date1": "2017",
+      "date2": "2019"
+    },
+    {
+      "title": "Tufts University",
+      "degree": "Bachelor of Arts",
+      "date1": "2010",
+      "date2": "2013"
+    },
+    {
+      "title": "Phillips Academy",
+      "degree": "High School Diploma",
+      "date1": "2008",
+      "date2": "2010"
+    },
+    {
+      "title": "Portland State University",
+      "degree": "Post-Baccalaureate Computer Science",
+      "fieldofstudy": "Post-Baccalaureate Computer Science",
+      "date1": "2016",
+      "date2": "2017"
+    }
+  ],
+  "skills": [
+    {
+      "title": "C/C++ Programming",
+      "count": "4"
+    },
+    {
+      "title": "Python",
+      "count": "2"
+    },
+    {
+      "title": "R",
+      "count": "2"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "2",
+      "items": [
+        "Value Statement Award",
+        "Shelby Davis Scholarship"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Calculus-Based Statistics"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Spanish"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/kewinli/",
+      "text": "Software Engineer at CommonBond.co"
+    },
+    {
+      "user": "https://www.linkedin.com/in/karvin-ma-3a9386155/",
+      "text": "Software Engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/daniel-paez-90054316/",
+      "text": "Underwriter Manager at CommonBond.co"
+    },
+    {
+      "user": "https://www.linkedin.com/in/michael-dore-36364016/",
+      "text": "Senior Software Engineer at Spruce"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mike-lendaris/",
+      "text": "OEM/SaaS Account Executive at OpenText"
+    },
+    {
+      "user": "https://www.linkedin.com/in/alexispeschiera/",
+      "text": "Head Of Marketing at Umbrella"
+    },
+    {
+      "user": "https://www.linkedin.com/in/andrew-gramigna-50ab8316a/",
+      "text": "Risk Analyst at CommonBond"
+    },
+    {
+      "user": "https://www.linkedin.com/in/john-scherer-3176024a/",
+      "text": "Software Engineer at Commonbond"
+    },
+    {
+      "user": "https://www.linkedin.com/in/thomasjblair/",
+      "text": "Software Engineer at Symbiont"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jie-qian-chen-b3649332/",
+      "text": "Product Designer at BARK"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Overnight Shelter Host",
+      "experience": "Multnomah County",
+      "description": "Civil Rights and Social Action",
+      "date1": "Jan 2012 – Mar 2015",
+      "date2": "3 yrs 3 mos"
+    },
+    {
+      "title": "Program Development & Tech Support",
+      "experience": "Cascade AIDS Project",
+      "description": "Civil Rights and Social Action",
+      "date1": "Mar 2013 – Mar 2014",
+      "date2": "1 yr 1 mo"
+    }
+  ],
+  "profile": {
+    "name": "Sascha Strand",
+    "headline": "Software Engineer at CommonBond.co",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQHoavN3wAmKBQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=v7-07WFkV6dpduh0NPI15Sm0z2LAN6oedTTQ65APKwU",
+    "location": "New York, New York",
+    "connections": "363",
+    "summary": "I’ve been a software engineer for five years, and I’ve just completed my MS in computer science, focusing in language design, operating systems, and parallelism. I am pursuing back-end development roles in the New York City area."
+  }
+}

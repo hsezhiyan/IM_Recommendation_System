@@ -1,0 +1,192 @@
+{
+  "profileAlternative": {
+    "name": "Bill Gray",
+    "headline": "Staff Software Engineer at MongoDB",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQEHSGvkP9wsxg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=vfLx_-xc5WGcJB-RMFi2kiWUhV_FIiOoTRygoCfA0CQ",
+    "location": "San Francisco, California",
+    "connections": "500+",
+    "summary": "Experienced Senior Software Engineer with a demonstrated history of working in Distributed Systems, Security, IoT, Sensing and Controls. Skilled in Linux, ARM, Stm32, ZeroMQ, Restful APIs, protobuf, C, C++, Python, BigQuery, ADCs, AVR, Magnetics, and Assembly Language. Strong engineering professional with a Bachelor's Degree from Harvard University. Looking for opportunities to build terrific new things."
+  },
+  "aboutAlternative": {
+    "text": "Experienced Senior Software Engineer with a demonstrated history of working in Distributed Systems, Security, IoT, Sensing and Controls. Skilled in Linux, ARM, Stm32, ZeroMQ, Restful APIs, protobuf, C, C++, Python, BigQuery, ADCs, AVR, Magnetics, and Assembly Language. Strong engineering professional with a Bachelor's Degree from Harvard University. Looking for opportunities to build terrific new things."
+  },
+  "positions": [
+    {
+      "title": "Staff Software Engineer",
+      "companyName": "MongoDB",
+      "location": "San Francisco Bay Area",
+      "date1": "Nov 2018 – Present",
+      "date2": "1 yr 1 mo"
+    },
+    {
+      "title": "Senior Software Engineer",
+      "companyName": "mLab",
+      "location": "San Francisco",
+      "description": "mLab was acquired by MongoDB Nov 2018.\n\nDeveloped an open source cloud orchestration tool extending Kubernetes.",
+      "date1": "Sep 2018 – Nov 2018",
+      "date2": "3 mos"
+    },
+    {
+      "title": "Senior Software Engineer",
+      "companyName": "Tanium",
+      "location": "Emeryville, CA",
+      "description": "Member of the Platform Team developing new features and improving legacy components running at every Tanium customer. Tanium builds highly distributed cybersecurity and IT software that protects and manages over 16 million computers world wide. 15 second observability and control for networks of 1 million endpoints. Clients include Amazon, Nasdaq, 12 of the top 15 U.S. banks and all four branches of the U.S. Armed Forces. C++, Python.\n…\nsee more",
+      "date1": "Sep 2017 – Aug 2018",
+      "date2": "1 yr"
+    },
+    {
+      "title": "Resident",
+      "companyName": "Manylabs",
+      "location": "San Francisco Bay Area",
+      "description": "Leading project to develop a fully automated low cost Ion Exchange Chromatography apparatus for high resolution measurement of water quality. Designed to operate autonomously in remote locations to provide continuous data to networked devices. Enable high resolution study of aquatic ecologies as well as automated management of microcosms and mesocosms.",
+      "date1": "Oct 2016 – Oct 2017",
+      "date2": "1 yr 1 mo"
+    },
+    {
+      "title": "Embedded Software Engineer",
+      "companyName": "Aclima, Inc.",
+      "location": "San Francisco Bay Area",
+      "description": "Led intra-departmental effort to design and implement Aclima’s next generation ubiquitous environmental sensing platform using Embedded Linux, ARM, Stm32, ZeroMQ, Restful APIs, protobuf, C, C++, Python, BigQuery.\nDelivered incremental updates to enable real-time control, improved diagnostic messaging, edge-computing, automated failure recovery, and efficient communications across diverse networks.\nLed development of automated Test & Build systems to support logarithmic scaling of Aclima’s deployments and development team.\n…\nsee more",
+      "date1": "Oct 2016 – Sep 2017",
+      "date2": "1 yr"
+    },
+    {
+      "title": "Founder & CTO",
+      "companyName": "Velkess Inc.",
+      "location": "San Francisco",
+      "description": "• Led the development of a novel energy storage technology able to reduce energy storage costs by 10x from current market pricing.\n• Designed and led implementation of distributed micro-grid platform with C/C++ and a SMPS magnetics design to enable ad-hoc scaling to 1000+ nodes resulting in a 100X improvement over current state-of-the-art architectures.\n• Developed custom laser sensor array which achieved 15mbps collection rate. Software/hardware interface and drivers constructed using analog signaling, C++, Assembly, Multiprocessor Embedded Linux, ARM, SPI, and ADC.\n• Developed active stabilization system for high energy rotor to pass 100% of simulated earthquake tests by calculating and injecting stabilizing waveforms in real-time with C++, PWM, PCB, and SMD.\n• Produced 99% efficient 3kW regenerative SMPS Electronic Speed Controller programmed with C++ on an AVR for a custom BLDC motor capable of operating in both sensored and unsensored modes.\n• Constructed UI and backend server utilizing JavaScript, HTML5, and CSS3, running on an embedded Linux Apache server to provide users with performance monitoring and configuration options for micro-grid system.\n…\nsee more",
+      "date1": "2010 – 2016",
+      "date2": "6 yrs"
+    },
+    {
+      "title": "Energy Systems Architect",
+      "companyName": "SunEdison",
+      "location": "San Francisco Bay Area, Chennai India",
+      "description": "• Architected platform which provided basic electrical service to 100,000+ people in India and Africa through Sun Edison's Energy Access/Rural Electrification program that installed distributed solar PV micro-grids.\n• Delivered optimizing recommendations to C-level executives on SunEdison’s global digital infrastructure to improve rapid scaling, detailed production tracking, and reliability monitoring.\n…\nsee more",
+      "date1": "2010 – 2011",
+      "date2": "1 yr"
+    },
+    {
+      "title": "Embedded Software Engineer, Consultant",
+      "companyName": "EcoTech Consulting",
+      "location": "Greater New York City Area, San Francisco Bay Area",
+      "description": "• Created 15,000 volt 10kHz PWM switch and electronic controller for capacitive electric motor capable of 99.3% efficiency utilizing C, AVR, transformers and SPMS.\n• Designed ReadySolar’s flagship “Solar in a Box” product line which was acquired by SunEdison in 2010.",
+      "date1": "2006 – 2010",
+      "date2": "4 yrs"
+    },
+    {
+      "title": "Founder & CEO",
+      "companyName": "HereThere Designs LLC",
+      "location": "Brooklyn New York",
+      "description": "• Developed numerous novel technologies for ecological manufacturing of consumer products.\n• Designed, manufactured and marketed a line of lamps and lighting fixtures to high end ecologically concerned customers via interior designers and architects.\n• Editorial features in numerous magazines including Metropolis, Nylon, Dwell, Architectural Lighting, Florida International, New York Spaces, and Residential Lighting.\n• Business sold privately in 2006.\n…\nsee more",
+      "date1": "2001 – 2006",
+      "date2": "5 yrs"
+    },
+    {
+      "title": "Associate",
+      "companyName": "Signal Equity Partners",
+      "description": "• Sourced and executed $3M to $25M venture investments in growth stage information technology companies under direction of the fund’s Managing Directors.\n• Authored the business plan and road show presentation for Nasdaq IPO of TeleCommunications Systems Inc (TSYS.)",
+      "date1": "1998 – 2001",
+      "date2": "3 yrs"
+    },
+    {
+      "title": "Senior Project Manager",
+      "companyName": "Organic",
+      "location": "Greater New York City Area",
+      "description": "• Led engineering teams to plan, sell, and deliver large scale web projects for startup and established companies.\n• Worked closely with clients and creatives to establish vision, budgets, and delivery schedules.",
+      "date1": "1998 – 1999",
+      "date2": "1 yr"
+    },
+    {
+      "title": "Software Engineer",
+      "companyName": "Starpoint Solutions",
+      "description": "• Software engineer on team that built National Discount Brokers stock trading web site which became the world's most popular stock trading website from 1997-2000.\n• Developer for several generations of Starpoint’s core middleware product “Duo” which was used extensively in the financial industry to create secure high throughput dynamic web systems.",
+      "date1": "1996 – 1998",
+      "date2": "2 yrs"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Harvard University",
+      "degree": "Bachelor's Degree",
+      "fieldofstudy": "Economics"
+    }
+  ],
+  "skills": [
+    {
+      "title": "C",
+      "count": "4"
+    },
+    {
+      "title": "C++",
+      "count": "8"
+    },
+    {
+      "title": "Embedded Software",
+      "count": "3"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "1",
+    "receivedCount": "0",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/joshuaenc/",
+        "text": "Joshua is an insightful teacher, powerful speaker, and genuinely great guy. He demonstrates his \"Believe in people\" philosophy with every action. Infectiously energetic, matter of fact, and to the point. Joshua is both a great natural talent and a disciplined student of the world. It has been a great pleasure working with Joshua."
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/peter-dunn-179a8234/",
+      "text": "Partner at Capital Pacific"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mark-baker-3a269a165/",
+      "text": "Senior Software Engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/brian-chin-8944284/",
+      "text": "Senior Manager at Apple"
+    },
+    {
+      "user": "https://www.linkedin.com/in/philip-e-johnson-8b782210/",
+      "text": "Manager at The Boeing Company"
+    },
+    {
+      "user": "https://www.linkedin.com/in/scottmorrissettmacc/",
+      "text": "Trusted financial advisor with a consistent consultancy mindset, advancing accounting solutions for financial services."
+    },
+    {
+      "user": "https://www.linkedin.com/in/paula-lausa-6b2923108/",
+      "text": "--"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kenneth-margala-40ba959/",
+      "text": "West Coast Originations at IH Capital / BONY Mellon"
+    },
+    {
+      "user": "https://www.linkedin.com/in/john-drivas-50304480/",
+      "text": "--"
+    },
+    {
+      "user": "https://www.linkedin.com/in/lee-newell-98b49ab0/",
+      "text": "--"
+    },
+    {
+      "user": "https://www.linkedin.com/in/steve-grum-50646016a/",
+      "text": "--"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Bill Gray",
+    "headline": "Staff Software Engineer at MongoDB",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQEHSGvkP9wsxg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=vfLx_-xc5WGcJB-RMFi2kiWUhV_FIiOoTRygoCfA0CQ",
+    "location": "San Francisco, California",
+    "connections": "500+",
+    "summary": "Experienced Senior Software Engineer with a demonstrated history of working in Distributed Systems, Security, IoT, Sensing and Controls. Skilled in Linux, ARM, Stm32, ZeroMQ, Restful APIs, protobuf, C, C++, Python, BigQuery, ADCs, AVR, Magnetics, and Assembly Language. Strong engineering professional with a Bachelor's Degree from Harvard University. Looking for opportunities to build terrific new things."
+  }
+}

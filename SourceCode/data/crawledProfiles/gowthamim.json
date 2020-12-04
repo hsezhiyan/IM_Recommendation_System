@@ -1,0 +1,243 @@
+{
+  "profileAlternative": {
+    "name": "Gowthami M",
+    "headline": "HTML Rockstar at GrabOn",
+    "location": "Hyderabad, Telangana, India",
+    "connections": "289",
+    "summary": "Summary"
+  },
+  "aboutAlternative": {
+    "text": "Summary"
+  },
+  "positions": [
+    {
+      "title": "HTML Rockstar",
+      "companyName": "GrabOn",
+      "location": "Hyderabad, Telangana, India",
+      "date1": "Jan 2019 – Present",
+      "date2": "11 mos"
+    },
+    {
+      "title": "Front end developer",
+      "companyName": "Think Design",
+      "location": "Bengaluru Area, India",
+      "date1": "Oct 2015 – Jan 2019",
+      "date2": "3 yrs 4 mos"
+    },
+    {
+      "title": "Web Developer",
+      "companyName": "Internet Business Japan",
+      "description": "- Developed Websites using HTML,CSS,Javascript and PHP\n- Responsive web designing was included\n- converting a PSD file to a visual Websit",
+      "date1": "Dec 2014 – Aug 2015",
+      "date2": "9 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Jb Institutions Of Engg & Tech",
+      "degree": "B.Tech",
+      "fieldofstudy": "IT",
+      "date1": "2008",
+      "date2": "2012"
+    },
+    {
+      "title": "Vivekananda Junior College",
+      "degree": "Board Of Intermediate",
+      "fieldofstudy": "Maths, Physics, Chemistry",
+      "date1": "2006",
+      "date2": "2008"
+    },
+    {
+      "title": "Fatima Convent High School",
+      "degree": "Secondary School Of Education",
+      "date1": "1994",
+      "date2": "2006"
+    }
+  ],
+  "skills": [
+    {
+      "title": "HTML5",
+      "count": "13"
+    },
+    {
+      "title": "CSS3",
+      "count": "5"
+    },
+    {
+      "title": "JavaScript",
+      "count": "11"
+    },
+    {
+      "title": "Responsive Web Design",
+      "count": "4"
+    },
+    {
+      "title": "Front-end Development",
+      "count": "3"
+    },
+    {
+      "title": "Web Applications"
+    },
+    {
+      "title": "Mobile Applications"
+    },
+    {
+      "title": "Web Development",
+      "count": "1"
+    },
+    {
+      "title": "Bootstrap",
+      "count": "3"
+    },
+    {
+      "title": "Photoshop",
+      "count": "2"
+    },
+    {
+      "title": "Illustrator",
+      "count": "2"
+    },
+    {
+      "title": "WordPress",
+      "count": "1"
+    },
+    {
+      "title": "jQuery",
+      "count": "2"
+    },
+    {
+      "title": "jQuery UI"
+    },
+    {
+      "title": "GruntJS"
+    },
+    {
+      "title": "AngularJS",
+      "count": "2"
+    },
+    {
+      "title": "Material Design",
+      "count": "1"
+    },
+    {
+      "title": "SASS",
+      "count": "3"
+    },
+    {
+      "title": "Vue.js"
+    },
+    {
+      "title": "Ionic Framework"
+    },
+    {
+      "title": "REST API"
+    },
+    {
+      "title": "Front-end",
+      "count": "2"
+    },
+    {
+      "title": "Foundation for Apps",
+      "count": "1"
+    },
+    {
+      "title": "Gulp.js",
+      "count": "1"
+    },
+    {
+      "title": "MailChimp"
+    },
+    {
+      "title": "Jade"
+    },
+    {
+      "title": "Haml"
+    },
+    {
+      "title": "angular 2, angular 4"
+    },
+    {
+      "title": "Cross-browser Compatibility"
+    },
+    {
+      "title": "OOCSS"
+    },
+    {
+      "title": "Application Programming Interfaces"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "4",
+      "items": [
+        "English",
+        "Hindi",
+        "Tamil",
+        "Telugu"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "Responsive Web Designing",
+        "Web desiging and development"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/shivani-chinnamaraju-50a822174/",
+      "text": "HR Intern at GrabOn"
+    },
+    {
+      "user": "https://www.linkedin.com/in/allankisrinivas/",
+      "text": "UX Engineer & Specialize in Optimization & Create reusable and future-proof UI components."
+    },
+    {
+      "user": "https://www.linkedin.com/in/tejav2s/",
+      "text": "Experience Designer | HFI Certified Usability Analyst (CUA)™ | CX Strategist"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shakeel-basha-18180165/",
+      "text": "Devloper at LandmarkIT"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sourav-kumar-0b977a13b/",
+      "text": "Senior Data Analyst at Synchrony International Services Pvt Ltd"
+    },
+    {
+      "user": "https://www.linkedin.com/in/amarnadhgedela/",
+      "text": "UX/UI Designer @ Itelligence"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sai-krupa-s-11091992/",
+      "text": "UI/UX Designer in AR VR dept. at Cyient Insights"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yash-tripathi-416835126/",
+      "text": "Student at National Institute of Technology Rourkela"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shikha-oram-11790264/",
+      "text": "Student at National Institute of Technology Rourkela"
+    },
+    {
+      "user": "https://www.linkedin.com/in/srikanta-jena-1275a8168/",
+      "text": "Sales Executive at Reliance Jio Infocomm Limited"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Gowthami M",
+    "headline": "HTML Rockstar at GrabOn",
+    "location": "Hyderabad, Telangana, India",
+    "connections": "289",
+    "summary": "Summary"
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "profileAlternative": {
+    "name": "Xor Solutions",
+    "headline": "Web Development & Designing",
+    "location": "Chandigarh Area, India",
+    "connections": "Contact info"
+  },
+  "aboutAlternative": {},
+  "positions": [
+    {
+      "title": "Web Development And HTML Designing",
+      "companyName": "XOR Solutions"
+    },
+    {
+      "title": "Web Developer",
+      "companyName": "XOR Solutions"
+    }
+  ],
+  "educations": [],
+  "skills": [
+    {
+      "title": "Web Design"
+    },
+    {
+      "title": "Web Development"
+    },
+    {
+      "title": "Search Engine Ranking"
+    },
+    {
+      "title": "Web Services"
+    },
+    {
+      "title": "Web Applications"
+    },
+    {
+      "title": "PHP"
+    },
+    {
+      "title": "HTML"
+    },
+    {
+      "title": "HTML5"
+    },
+    {
+      "title": "Search Engine Submission"
+    },
+    {
+      "title": "PHP Frameworks"
+    },
+    {
+      "title": "PHP Applications"
+    },
+    {
+      "title": "HTML Scripting"
+    },
+    {
+      "title": "Website Promotion"
+    },
+    {
+      "title": "Website Building"
+    },
+    {
+      "title": "Website Updating"
+    },
+    {
+      "title": "Basic HTML"
+    },
+    {
+      "title": "Website Development"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "1",
+      "items": [
+        "English"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Xor Solutions",
+    "headline": "Web Development & Designing",
+    "location": "Chandigarh Area, India",
+    "connections": "Contact info"
+  }
+}

@@ -1,0 +1,382 @@
+{
+  "profileAlternative": {
+    "name": "Addy Osmani",
+    "headline": "Engineering Manager at Google",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQF86FQ1OKZznA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=QBN2SG9hHyzOWBKJU230AuVGRozMBTNDP11jwC2s13s",
+    "location": "Sunnyvale, California",
+    "connections": "500+",
+    "summary": "Addy Osmani is an Engineering Manager working on Google Chrome. He leads up a Speed team focused on making the web fast. His team work on web standards, tooling (Lighthouse, Workbox), libraries and best practices for improving user experiences."
+  },
+  "aboutAlternative": {
+    "text": "Addy Osmani is an Engineering Manager working on Google Chrome. He leads up a Speed team focused on making the web fast. His team work on web standards, tooling (Lighthouse, Workbox), libraries and best practices for improving user experiences."
+  },
+  "positions": [
+    {
+      "title": "Google",
+      "location": "London, United Kingdom",
+      "description": "Engineering manager for working on Chrome & Web at Google. I am the Technical Lead for Speed and manage our teams working on open-source libraries, tooling and framework outreach. My work involves helping improve how quickly Chrome loads pages, shaping APIs, and defining best practices to help large sites deliver great user experiences.",
+      "date1": "Sep 2016 – Present",
+      "date2": "3 yrs 3 mos",
+      "roles": [
+        {
+          "title": "Senior Staff Software Engineer (Manager)",
+          "date1": "Sep 2016 – Present",
+          "date2": "3 yrs 3 mos"
+        },
+        {
+          "title": "Staff Developer Programs Engineer",
+          "date1": "May 2012 – Sep 2016",
+          "date2": "4 yrs 5 mos",
+          "location": "London, United Kingdom"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSenior Staff Software Engineer (Manager)",
+      "description": "Engineering manager for working on Chrome & Web at Google. I am the Technical Lead for Speed and manage our teams working on open-source libraries, tooling and framework outreach. My work involves helping improve how quickly Chrome loads pages, shaping APIs, and defining best practices to help large sites deliver great user experiences.",
+      "date1": "Sep 2016 – Present",
+      "date2": "3 yrs 3 mos",
+      "roles": [
+        {
+          "title": "Senior Staff Software Engineer (Manager)",
+          "date1": "Sep 2016 – Present",
+          "date2": "3 yrs 3 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nStaff Developer Programs Engineer",
+      "location": "London, United Kingdom",
+      "description": "Technical Lead and manager for a team in Chrome focused on improving speed and user-experience on the web. Our teams focus on a combination of standards, tooling and library projects for reducing the friction for building success on the web.",
+      "date1": "May 2012 – Sep 2016",
+      "date2": "4 yrs 5 mos",
+      "roles": [
+        {
+          "title": "Staff Developer Programs Engineer",
+          "date1": "May 2012 – Sep 2016",
+          "date2": "4 yrs 5 mos",
+          "location": "London, United Kingdom"
+        }
+      ]
+    },
+    {
+      "title": "Owner and Author",
+      "companyName": "AddyOsmani.com",
+      "description": "Between my Medium channel and personal site, the canonical technical articles I author have been viewed more than 8M times in the last few years. I focus on taking complex topics related to Web Performance or the Web Platform and try to distill them down to the core piece of insight that might help others.",
+      "date1": "Jan 2005 – Present",
+      "date2": "14 yrs 11 mos"
+    },
+    {
+      "title": "jQuery Bug Triage Team & API Docs Team Member",
+      "companyName": "jQuery Project",
+      "date1": "Aug 2010 – Feb 2013",
+      "date2": "2 yrs 7 mos"
+    },
+    {
+      "title": "Software Engineer (User Interface Developer/JavaScript)",
+      "companyName": "AOL",
+      "date1": "Mar 2011 – Apr 2012",
+      "date2": "1 yr 2 mos"
+    },
+    {
+      "title": "Senior Project Manager & Senior Web Developer",
+      "companyName": "ShortSaleology",
+      "date1": "Mar 2009 – Mar 2011",
+      "date2": "2 yrs 1 mo"
+    },
+    {
+      "title": "Senior Web Developer (JavaScript)",
+      "companyName": "Pixsta",
+      "description": "Senior Web Developer, primarily responsible for the development of Flash and JavaScript based Product Browsing and Visualization Solutions. Responsibilities also included creating PHP based server-side solutions, graphic design and SEO implementation.",
+      "date1": "Mar 2008 – Apr 2009",
+      "date2": "1 yr 2 mos"
+    },
+    {
+      "title": "Senior Software and Web Engineer",
+      "companyName": "Consultancy and in-house lead roles",
+      "description": "This section will detail my previous experience once I get some more free time to update. Covers consultancy across large-scale developers projects requiring JavaScript, jQuery, PHP and other front and back-end technologies. For complete details, please request a copy of my resume.",
+      "date1": "Jan 2001 – Feb 2008",
+      "date2": "7 yrs 2 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "University of Warwick",
+      "degree": "Masters",
+      "fieldofstudy": "Computer Science by Research",
+      "date1": "2007",
+      "date2": "2009"
+    },
+    {
+      "title": "University of Oxford",
+      "degree": "Continued Education",
+      "fieldofstudy": "Design for Security",
+      "date1": "2005",
+      "date2": "2005"
+    },
+    {
+      "title": "University of Oxford",
+      "degree": "Continued Education",
+      "fieldofstudy": "Platform and Application Security",
+      "date1": "2005",
+      "date2": "2005"
+    },
+    {
+      "title": "The University of Sheffield",
+      "degree": "Software Engineering / Computer Systems Engineering",
+      "fieldofstudy": "Software Engineering / Computer Systems Engineering",
+      "date1": "2002",
+      "date2": "2005"
+    },
+    {
+      "title": "Sheffield Hallam University",
+      "degree": "BSc",
+      "fieldofstudy": "Applied Computing & Software Engineering"
+    }
+  ],
+  "skills": [
+    {
+      "title": "JavaScript",
+      "count": "79"
+    },
+    {
+      "title": "Design Patterns",
+      "count": "39"
+    },
+    {
+      "title": "Web Platform",
+      "count": "9"
+    },
+    {
+      "title": "Web Applications",
+      "count": "30"
+    },
+    {
+      "title": "Agile Methodologies",
+      "count": "20"
+    },
+    {
+      "title": "Web Development",
+      "count": "13"
+    },
+    {
+      "title": "Object Oriented Design",
+      "count": "3"
+    },
+    {
+      "title": "User Interface",
+      "count": "3"
+    },
+    {
+      "title": "User Interface Design",
+      "count": "4"
+    },
+    {
+      "title": "Backbone.js",
+      "count": "30"
+    },
+    {
+      "title": "jQuery",
+      "count": "43"
+    },
+    {
+      "title": "JSON",
+      "count": "16"
+    },
+    {
+      "title": "PHP",
+      "count": "23"
+    },
+    {
+      "title": "XML",
+      "count": "11"
+    },
+    {
+      "title": "HTML5",
+      "count": "10"
+    },
+    {
+      "title": "HTML",
+      "count": "7"
+    },
+    {
+      "title": "SQL",
+      "count": "7"
+    },
+    {
+      "title": "CSS",
+      "count": "6"
+    },
+    {
+      "title": "HTML 5",
+      "count": "4"
+    },
+    {
+      "title": "C#",
+      "count": "4"
+    },
+    {
+      "title": "MySQL",
+      "count": "4"
+    },
+    {
+      "title": "Node.js",
+      "count": "5"
+    },
+    {
+      "title": "UML",
+      "count": "1"
+    },
+    {
+      "title": "JSP",
+      "count": "1"
+    },
+    {
+      "title": "Django",
+      "count": "1"
+    },
+    {
+      "title": "C++",
+      "count": "2"
+    },
+    {
+      "title": "React.js",
+      "count": "2"
+    },
+    {
+      "title": "Vue.js"
+    },
+    {
+      "title": "AngularJS",
+      "count": "3"
+    },
+    {
+      "title": "Cascading Style Sheets (CSS)",
+      "count": "4"
+    },
+    {
+      "title": "Java",
+      "count": "8"
+    },
+    {
+      "title": "Performance Improvement",
+      "count": "11"
+    },
+    {
+      "title": "MVC",
+      "count": "43"
+    },
+    {
+      "title": "JavaScript Libraries",
+      "count": "25"
+    },
+    {
+      "title": "Large Scale Systems",
+      "count": "19"
+    },
+    {
+      "title": "Developer Tools",
+      "count": "10"
+    },
+    {
+      "title": "Preact.js",
+      "count": "1"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "1",
+    "receivedCount": "1",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/schelfhoutbart/",
+        "text": "Addy is a extremely skilled interface developer who knows everything there is to know about javaScript. He still possesses the ability to combine 1,000 tasks and other projects and still manages to complete everything within schedule! Besides an incredible hard worker (when does he sleep ?!), Addy is also a friendly and outgoing guy who likes to socialise and is always prepared to lend a hand when asked. He is the guy businesses would kill to hire!\n…\nSee more"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/schelfhoutbart/",
+        "text": "Bart is a highly skilled software engineer with one of the best work ethics I've ever seem in a team member. Self-driven, always willing to put in the effort needed to get a project online and out the door and never hesitating to take the time out to assist other members of his team. With a solid knowledge in many important areas I think any company would be lucky to have him."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "3",
+      "items": [
+        "English",
+        "French",
+        "German"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "Backbone Fundamentals",
+        "Learning JavaScript Design Patterns"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Web Platform Award Winner"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "WebComponents.org"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/sangshu/",
+      "text": "Engineering Manager at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/elliehoshizaki/",
+      "text": "UX Engineer & Web Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/natasha-black-357750122/",
+      "text": "Software Engineer at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ritika-pathak-88ab34a8/",
+      "text": "Engineering Manager at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/n23sharm/",
+      "text": "Engineering Manager at Slack"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ericbidelman/",
+      "text": "Senior Frontend Software Engineer, Lyft. xGoogler."
+    },
+    {
+      "user": "https://www.linkedin.com/in/serrypark/",
+      "text": "We're hiring!"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sarahdrasner/",
+      "text": "Head of Developer Experience at Netlify"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sophie-alpert-1056a59/",
+      "text": "engineering manager at Humu, former manager of React core team"
+    },
+    {
+      "user": "https://www.linkedin.com/in/elnara-kozlitina-a1289174/",
+      "text": "Front End Software Engineer at Facebook"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Addy Osmani",
+    "headline": "Engineering Manager at Google",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQF86FQ1OKZznA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=QBN2SG9hHyzOWBKJU230AuVGRozMBTNDP11jwC2s13s",
+    "location": "Sunnyvale, California",
+    "connections": "500+",
+    "summary": "Addy Osmani is an Engineering Manager working on Google Chrome. He leads up a Speed team focused on making the web fast. His team work on web standards, tooling (Lighthouse, Workbox), libraries and best practices for improving user experiences."
+  }
+}

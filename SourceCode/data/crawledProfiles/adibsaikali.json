@@ -1,0 +1,286 @@
+{
+  "profileAlternative": {
+    "name": "Adib Saikali",
+    "headline": "Principal Platform Architect at Pivotal Software, Inc.",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQGz7fRjOMbZCg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=YbdecfHy8ETkVCq67i-6D_DGzNcCAG80wbTYg_YIo0E",
+    "location": "Toronto, Ontario, Canada",
+    "connections": "500+",
+    "summary": "Guiding customers on their cloud native journey to harness the power of cloud native platforms and agile methodologies to build amazing products and services.\n\nSpecialties: Software Development, Training, Mentoring, Modernizing Old Codebases"
+  },
+  "aboutAlternative": {
+    "text": "Guiding customers on their cloud native journey to harness the power of cloud native platforms and agile methodologies to build amazing products and services.\n\nSpecialties: Software Development, Training, Mentoring, Modernizing Old Codebases"
+  },
+  "positions": [
+    {
+      "title": "Pivotal Software, Inc.",
+      "location": "Toronto, Canada Area",
+      "description": "Helping customers harness the power of Pivotal CloudFoundry and agile methodologies to build amazing products and services.",
+      "date1": "Mar 2019 – Present",
+      "date2": "9 mos",
+      "roles": [
+        {
+          "title": "Principal Platform Architect",
+          "date1": "Mar 2019 – Present",
+          "date2": "9 mos",
+          "location": "Toronto, Canada Area"
+        },
+        {
+          "title": "Advisory Platform Architect",
+          "date1": "Jan 2016 – Feb 2019",
+          "date2": "3 yrs 2 mos",
+          "location": "Toronto"
+        },
+        {
+          "title": "Sr. Platform Architect",
+          "date1": "Jun 2014 – Dec 2015",
+          "date2": "1 yr 7 mos",
+          "location": "Toronto, Canada Area"
+        }
+      ]
+    },
+    {
+      "title": "Title\nPrincipal Platform Architect",
+      "location": "Toronto, Canada Area",
+      "description": "Helping customers harness the power of Pivotal CloudFoundry and agile methodologies to build amazing products and services.",
+      "date1": "Mar 2019 – Present",
+      "date2": "9 mos",
+      "roles": [
+        {
+          "title": "Principal Platform Architect",
+          "date1": "Mar 2019 – Present",
+          "date2": "9 mos",
+          "location": "Toronto, Canada Area"
+        }
+      ]
+    },
+    {
+      "title": "Title\nAdvisory Platform Architect",
+      "location": "Toronto",
+      "date1": "Jan 2016 – Feb 2019",
+      "date2": "3 yrs 2 mos",
+      "roles": [
+        {
+          "title": "Advisory Platform Architect",
+          "date1": "Jan 2016 – Feb 2019",
+          "date2": "3 yrs 2 mos",
+          "location": "Toronto"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSr. Platform Architect",
+      "location": "Toronto, Canada Area",
+      "date1": "Jun 2014 – Dec 2015",
+      "date2": "1 yr 7 mos",
+      "roles": [
+        {
+          "title": "Sr. Platform Architect",
+          "date1": "Jun 2014 – Dec 2015",
+          "date2": "1 yr 7 mos",
+          "location": "Toronto, Canada Area"
+        }
+      ]
+    },
+    {
+      "title": "CTO",
+      "companyName": "EVCtools / VentureLynx.com",
+      "location": "Toronto, Canada",
+      "description": "A platform for early stage entrepreneurs to manage their businesses and communicate with stakeholders ... and for investors to track their portfolio of unlisted investments.",
+      "date1": "2011 – Jun 2014",
+      "date2": "3 yrs"
+    },
+    {
+      "title": "Owner",
+      "companyName": "Programming Mastery Inc.",
+      "description": "We do custom software development. We also develop and deliver custom training and mentoring program to suite your needs.",
+      "date1": "Jan 2001 – Jan 2012",
+      "date2": "11 yrs 1 mo"
+    },
+    {
+      "title": "Consultant",
+      "companyName": "HSBC",
+      "date1": "2006 – 2007",
+      "date2": "1 yr"
+    },
+    {
+      "title": "Senior Software Developer",
+      "companyName": "OctaneWave",
+      "description": "Member of the Octanewave core platform team responsible for the design and implementation of various parts of the Octanewave wireless applications platform, which runs on Desktop, Web, Pocket PC, Win CE, RIM, Midp and other devices. All development work done with Java, and J2EE, with heavy usage of messaging.",
+      "date1": "Jul 2002 – Jul 2004",
+      "date2": "2 yrs 1 mo"
+    },
+    {
+      "title": "Software Developer / J2EE Instructor",
+      "companyName": "The Middleware Company",
+      "description": "Developing new features for TheSereverSide.com, and acting as the site editor. Developed JEE training materials and taught courses for The Middleware Company.",
+      "date1": "Feb 2001 – Mar 2002",
+      "date2": "1 yr 2 mos"
+    },
+    {
+      "title": "Software Developer",
+      "companyName": "Research In Motion",
+      "description": " Lead developer for the synchronization component of the RIM Desktop Software\n\n The synchronization component is responsible for keeping the RIM contacts, calendar memo RIM apps synchronized with popular PIMs such as outlook, ACT, Goldmine, Lotus Notes ... etc\n\n Development was done on windows using C++ and ATL/COM\n…\nsee more",
+      "date1": "Feb 2000 – Feb 2001",
+      "date2": "1 yr 1 mo"
+    },
+    {
+      "title": "Software Design Engineer (Co-op Workterm)",
+      "companyName": "SoftImage",
+      "description": " Worked with the Sumatra SDK team to put the final touches on the Sumatra scripting support during the beta release cycles 1, 2 and 3\n Sumatra is the next Generation 3D product from Softimage Inc. (The world leader in 3D Computer Graphics Software)\n All work was done in C++ with Microsoft Visual Studio 6.0\n Added The following features to the Sumatra Script Editor: Printing, Context sensitive help, Search and Find and Replace, Auto indenting\n Fixed a lot of bugs and addressed several usability issues with the Sumatra Scripting user interface mainly the script editor and other GUI elements such as toolbars and dialog boxes.\n…\nsee more",
+      "date1": "Sep 1999 – Dec 1999",
+      "date2": "4 mos"
+    },
+    {
+      "title": "Software Developer (Co-op Workterm)",
+      "companyName": "Inscriber Technology Corp",
+      "description": " Designed a build system/procedures for use by the Inscriber development team\n Implemented the build system using Visual Basic and Visual SourceSafe\n Researched the details of writing a full blown ActiveX container in raw C++\n Wrote a couple of simple experimental ActiveX containers\n Developed ActiveX controls from existing Inscriber Windows custom controls\n Researched and evaluated a variety of automatic documentation tools for C/C++ for use by the Inscriber development team\n Developed a couple of plugIns for Visual C++ 6.0\n…\nsee more",
+      "date1": "Jan 1999 – Apr 1999",
+      "date2": "4 mos"
+    },
+    {
+      "title": "Software Developer (Co-op Workterm)",
+      "companyName": "Inscriber Technology Corp",
+      "description": " Designed a digital media processing library for handling video, sound, and still images for use in Inscriber's world famous broadcast video solutions (Character Generators, Digital Still Stores, and other tools)\n Designed the library using component software principles\n Implemented the library as a collection of COM objects in ATL 2.0\n Reorganized the Inscriber source tree in Visual SourceSafe dramatically improving its structure\n…\nsee more",
+      "date1": "Jan 1998 – Aug 1998",
+      "date2": "8 mos"
+    },
+    {
+      "title": "Graphics Programmer (Co-op Workterm)",
+      "companyName": "TrueSpectra Inc.",
+      "description": " Designed a platform independent bitmap graphics file formats import/export subsystem capable of importing/exporting JPEG, TIFF, PNG, PSD, BMP, PCX, GIF, TGA, and PNM in most known variations.\n Led the team of two programmers that implemented the subsystem\n Integrated the subsystem into TrueSpectra's Flagship Product Photo>Graphics\n Subsystem was implemented in ANSI-C under WIN95 using WATCOM C/C++ 10.5\n The subsystem has been tested under OS/2, MAC OS, LINUX, and the SGI IRIX\n…\nsee more",
+      "date1": "Sep 1996 – Apr 1997",
+      "date2": "8 mos"
+    },
+    {
+      "title": "Graphics Programmer (Co-op WorkTerm)",
+      "companyName": "TrueSpectra Inc",
+      "description": " Designed and implemented a prototype CGM (Computer Graphics Metafile, an ISO/IEC International Standard) interpreter\n Interpreter was implemented in ANSI-C under OS/2 Warp",
+      "date1": "May 1996 – Aug 1996",
+      "date2": "4 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "University of Waterloo",
+      "degree": "BMath Co-op",
+      "fieldofstudy": "Mathematics",
+      "date1": "1995",
+      "date2": "2000"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Software Development",
+      "count": "60"
+    },
+    {
+      "title": "Java",
+      "count": "49"
+    },
+    {
+      "title": "Agile Methodologies",
+      "count": "39"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "7",
+    "receivedCount": "5",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/laurie-varga-87b98a/",
+        "text": "Adib is an honest and inspiring trainer and business adviser. He has a remarkable ability to learn new information in a short period of time and transmit this knowledge in radical new ways to other people. He is focused, dedicated and innovative. When I have a sticky problem that I cannot see my way out of Adib is always ready with a valuable new insight to guide me toward success.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/michaelaharris/",
+        "text": "Adib is one of the most intelligent, likeable, and productive person that I've ever met. His wealth of knowledge and effectiveness at transferring it makes him a tremendous value."
+      },
+      {
+        "user": "https://www.linkedin.com/in/mwhite/",
+        "text": "Adib's work on the TSS project, particularly in its preliminary stages, was vital to its overall success. Whether bulilding courseware or leading the class, Adib expertly tackled each task with confidence and tenacity."
+      },
+      {
+        "user": "https://www.linkedin.com/in/zoran-ivanovic-6a2a37/",
+        "text": "Adib  he is very dedicated, hard working, bright, looking for new challenges but never hid from less glamorous tasks. He is sincerely interested in all aspects of Software Science, especially in regards to our cognitive capabilities and methods of learning. Highly recommended for helping you and your company to develop better software!\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/laurie-varga-87b98a/",
+        "text": "Adib is one of the most intelligent and energetic people I have ever worked with. He has exceptional talent for generating new ideas in any discipline and is always open to experimentation."
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/johnxf/",
+        "text": "John is one of the best people I know to talk to about complex IT decisions to get new insights into key factors for making the right call. He's able to go beyond the technical aspects of the decision and consider the economic and human factors that will lead to the best outcomes for clients. Moreover, John is also able to work with all the stakeholders impacted and involved and can consistently produce excellent results."
+      },
+      {
+        "user": "https://www.linkedin.com/in/sraeburn/",
+        "text": "Steve knows how to get stuff done and make things happen. He cares deeply about addressing the root cause of problems rather than just the symptoms. I very much enjoyed working with Steve."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "7",
+      "items": [
+        "Next Generation Session Management with Spring Session",
+        "Spring Framework 4 and Java 8",
+        "Spring Boot Micro Services",
+        "Java 8 Lambdas and Streams",
+        "Three Tricks to Make Your Application More Reliable",
+        "Teach Your Tomcat Embedding Tricks",
+        "Data Migration Frameworks"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/danbuchko/",
+      "text": "Platform Architect at Pivotal Software, Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/stuart-charlton-b6a5a2/",
+      "text": "Platform Architecture at Pivotal Software, Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/dwayne-forde-54367014/",
+      "text": "Sr. Director of Engineering at Pivotal Software, Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/fivetenwill/",
+      "text": "\"Enterprise YAML Architect\""
+    },
+    {
+      "user": "https://www.linkedin.com/in/luke-shannon-a41283/",
+      "text": "Founder at Phlyt"
+    },
+    {
+      "user": "https://www.linkedin.com/in/adfournier/",
+      "text": "Area Director Canada and Latin America, Platform Architects at Pivotal"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nancy-p-9a068555/",
+      "text": "Senior Strategic Content Manager: Writer and Editor"
+    },
+    {
+      "user": "https://www.linkedin.com/in/pat-heard-3023422/",
+      "text": "Developer by day, Designer by night"
+    },
+    {
+      "user": "https://www.linkedin.com/in/elvinliang/",
+      "text": "Sr. Data Centre Advisor"
+    },
+    {
+      "user": "https://www.linkedin.com/in/francis-kung-4903b511/",
+      "text": "Web Developer and Online Engagement Specialist"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Adib Saikali",
+    "headline": "Principal Platform Architect at Pivotal Software, Inc.",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQGz7fRjOMbZCg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=YbdecfHy8ETkVCq67i-6D_DGzNcCAG80wbTYg_YIo0E",
+    "location": "Toronto, Ontario, Canada",
+    "connections": "500+",
+    "summary": "Guiding customers on their cloud native journey to harness the power of cloud native platforms and agile methodologies to build amazing products and services.\n\nSpecialties: Software Development, Training, Mentoring, Modernizing Old Codebases"
+  }
+}

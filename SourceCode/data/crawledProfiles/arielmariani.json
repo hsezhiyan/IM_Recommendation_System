@@ -1,0 +1,188 @@
+{
+  "profileAlternative": {
+    "name": "Ariel Mariani",
+    "headline": "Interactive- Multimedia Designer",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQFni7V0Gro42Q/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=KM-xiCKaIJnDIx3fsM6zK52QOBmsj7tR4to-ul1ud2o",
+    "location": "Argentina",
+    "connections": "500+",
+    "summary": "I am an Interactive Designer (aka Multimedia Designer), passionate and focused on web development with extensive knowledge in the FrontEnd field. Curious about the new trends and tools that allow me to do my job in the most efficient, fast and scalable way. The background I have in design allows me to be attentive to the details related to the User Experience, and thus be able to generate better content with which the users will interact.\nI had the great opportunity to work developing web applications in Melbourne, Australia, that helped me a lot to improve not only my developing skills but also my English communication. I strive to share my knowledge daily through articles in blogs, forums and video tutorials, which provides me a constant contact with the world of programming and design."
+  },
+  "aboutAlternative": {
+    "text": "I am an Interactive Designer (aka Multimedia Designer), passionate and focused on web development with extensive knowledge in the FrontEnd field. Curious about the new trends and tools that allow me to do my job in the most efficient, fast and scalable way. The background I have in design allows me to be attentive to the details related to the User Experience, and thus be able to generate better content with which the users will interact.\nI had the great opportunity to work developing web applications in Melbourne, Australia, that helped me a lot to improve not only my developing skills but also my English communication. I strive to share my knowledge daily through articles in blogs, forums and video tutorials, which provides me a constant contact with the world of programming and design."
+  },
+  "positions": [
+    {
+      "title": "HTML, CSS and Javascript mentor",
+      "companyName": "Desafio Latam",
+      "location": "Argentina",
+      "date1": "Aug 2019 – Present",
+      "date2": "4 mos"
+    },
+    {
+      "title": "Web Developer",
+      "companyName": "Freelance",
+      "description": "Knowledge/Tools:\n\n● React\n● Redux\n● Javascript\n● API Development\n● Laravel (PHP Framework)\n● jQuery\n● PSD to HTML/CSS Conversion\n● HTML5/CSS3\n● PHP POO\n● Adobe Photoshop\n● Adobe Illustrator\n…\nsee more",
+      "date1": "Jan 2010 – Present",
+      "date2": "9 yrs 11 mos"
+    },
+    {
+      "title": "Ssr Front-end Developer",
+      "companyName": "Mercadolibre.com",
+      "location": "Córdoba, Argentina",
+      "date1": "May 2016 – Apr 2019",
+      "date2": "3 yrs"
+    },
+    {
+      "title": "Ssr Web Developer",
+      "companyName": "Globant",
+      "location": "Córdoba",
+      "description": "Front-end development using JavaScript, mainly the AngularJS framework for creating and maintaining the Disney Cruise Line SPA, and using different tools like task runners (Grunt), package/dependencies manager (npm) and Karma for test runners.",
+      "date1": "Oct 2014 – May 2016",
+      "date2": "1 yr 8 mos"
+    },
+    {
+      "title": "UX Front-End and Back-End Developer",
+      "companyName": "Smartface",
+      "location": "Melbourne, Australia",
+      "description": "Web development using mainly Laravel 4 for the needed APIs while using Javascript for the frontend.",
+      "date1": "Jan 2014 – Jul 2014",
+      "date2": "7 mos"
+    },
+    {
+      "title": "Computer Technician",
+      "companyName": "Meroli Hogar",
+      "description": "Management and repair of computers and devices of the eight branches of the company.\nTechnical Service for customers.",
+      "date1": "Feb 2007 – Aug 2013",
+      "date2": "6 yrs 7 mos"
+    },
+    {
+      "title": "Web Developer, Graphic and Web Designer",
+      "companyName": "Meroli Hogar S.A.",
+      "description": "Web design and development. Creating intranets systems to solve issues within the company.",
+      "date1": "Feb 2007 – Aug 2013",
+      "date2": "6 yrs 7 mos"
+    },
+    {
+      "title": "Customer Service Representative",
+      "companyName": "Apex America",
+      "description": "Customer Service Representative",
+      "date1": "Nov 2004 – Feb 2007",
+      "date2": "2 yrs 4 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "La Metro",
+      "degree": "Técnico superior en Diseño Interactivo",
+      "fieldofstudy": "Diseño multimedia",
+      "date1": "2007",
+      "date2": "2011"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Javascript"
+    },
+    {
+      "title": "React.js"
+    },
+    {
+      "title": "Node.js"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "4",
+      "items": [
+        "English Certificate Customer Representative",
+        "IELTS (International English Language Test System)",
+        "Inicial Programming, with Java and Oracle",
+        "Paradigm Object Oriented Programming (OOP)"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "IACC - Footbal Club",
+        "Geopointer - Tesis",
+        "Arome"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "Español",
+        "Inglés"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Winner of first OpenApp project"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "IELTS"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/monica-bistoletti-a3011643/",
+      "text": "--"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ruben-toneatto-3261b269/",
+      "text": "Analista de Compras en Converflex Argentina"
+    },
+    {
+      "user": "https://www.linkedin.com/in/silviazec/",
+      "text": "en"
+    },
+    {
+      "user": "https://www.linkedin.com/in/cristian-mischis-5147859/",
+      "text": "Wintel System Administrator, Storage Administrator and Dispatcher Associate in IT area"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ariel-enrique-diaz-10101a44/",
+      "text": "Titular en Estudio Diaz"
+    },
+    {
+      "user": "https://www.linkedin.com/in/fabio-ariel-martini-4684a889/",
+      "text": "Cajero en Obra Social APM de Cordoba"
+    },
+    {
+      "user": "https://www.linkedin.com/in/julian-g-52650648/",
+      "text": "Vendedor en MAS Accesorios"
+    },
+    {
+      "user": "https://www.linkedin.com/in/lucas-romagnoli-a52974101/",
+      "text": "CEO and Big Thinker • Co-Founder en The Fuzzy Fish"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nair-serrone-053bb5154/",
+      "text": "Estudiante en Universidad Siglo 21"
+    },
+    {
+      "user": "https://www.linkedin.com/in/alan-gonzalez-890637173/",
+      "text": "Estudiante en Centro de e-Learning UTN FRBA"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Ariel Mariani",
+    "headline": "Interactive- Multimedia Designer",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQFni7V0Gro42Q/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=KM-xiCKaIJnDIx3fsM6zK52QOBmsj7tR4to-ul1ud2o",
+    "location": "Argentina",
+    "connections": "500+",
+    "summary": "I am an Interactive Designer (aka Multimedia Designer), passionate and focused on web development with extensive knowledge in the FrontEnd field. Curious about the new trends and tools that allow me to do my job in the most efficient, fast and scalable way. The background I have in design allows me to be attentive to the details related to the User Experience, and thus be able to generate better content with which the users will interact.\nI had the great opportunity to work developing web applications in Melbourne, Australia, that helped me a lot to improve not only my developing skills but also my English communication. I strive to share my knowledge daily through articles in blogs, forums and video tutorials, which provides me a constant contact with the world of programming and design."
+  }
+}

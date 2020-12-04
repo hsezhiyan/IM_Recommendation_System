@@ -1,0 +1,143 @@
+{
+  "profileAlternative": {
+    "name": "Greta cole",
+    "headline": "HTML Developer at Mphasis",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQHQu6aCd2PoZw/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=Uvd6d4xjHeDw5SIRDvBWgC1WzJ_BK3i9o4ACuL7WZMA",
+    "location": "Kanpur Nagar, Uttar Pradesh, India",
+    "connections": "154"
+  },
+  "aboutAlternative": {},
+  "positions": [
+    {
+      "title": "HTML Developer",
+      "companyName": "Mphasis",
+      "date1": "Aug 2014 – Present",
+      "date2": "5 yrs 4 mos"
+    },
+    {
+      "title": "HTML Developer",
+      "companyName": "Infinite Computer Solutions",
+      "date1": "May 2013 – Jul 2014",
+      "date2": "1 yr 3 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "KGEC",
+      "degree": "Master of Computer Applications (MCA)",
+      "fieldofstudy": "Computer Science",
+      "date1": "2012",
+      "date2": "2013"
+    }
+  ],
+  "skills": [
+    {
+      "title": "HTML",
+      "count": "5"
+    },
+    {
+      "title": "JavaScript",
+      "count": "5"
+    },
+    {
+      "title": "SQL",
+      "count": "3"
+    },
+    {
+      "title": "Web Design",
+      "count": "1"
+    },
+    {
+      "title": "Web Development",
+      "count": "1"
+    },
+    {
+      "title": "Web Applications"
+    },
+    {
+      "title": "MySQL",
+      "count": "3"
+    },
+    {
+      "title": "HTML 5"
+    },
+    {
+      "title": "Android"
+    },
+    {
+      "title": "iOS"
+    },
+    {
+      "title": "Oracle SQL Developer"
+    },
+    {
+      "title": "Java"
+    },
+    {
+      "title": "HTML Scripting"
+    },
+    {
+      "title": "MySQL Cluster"
+    },
+    {
+      "title": "MySQLi"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/anuradha-sharma-4955438b/",
+      "text": "Full Stack Developer at CSS Corp"
+    },
+    {
+      "user": "https://www.linkedin.com/in/aman-gupta-27b71195/",
+      "text": "Sr. iOS Developer at VVDN Technologies"
+    },
+    {
+      "user": "https://www.linkedin.com/in/anushka-tripathi-4902996b/",
+      "text": "iOS Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/rajesh-chaudhary-91387097/",
+      "text": "Html Developer at eNyota Learning Pvt. Ltd."
+    },
+    {
+      "user": "https://www.linkedin.com/in/navanita-samanta-a4619444/",
+      "text": "Trainee at MphasiS"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ganeshayyar/",
+      "text": "EVP and President Digital Operations at Cognizant"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mayank-tripathi-372aa3b5/",
+      "text": "Founder & iOS Developer at Developer Brothers"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shalaka-yadav-98444924/",
+      "text": "Mphasis ITO"
+    },
+    {
+      "user": "https://www.linkedin.com/in/anita-pathak-b20482163/",
+      "text": "Project Manager at Infosys"
+    },
+    {
+      "user": "https://www.linkedin.com/in/anand-swaminathan-601b615/",
+      "text": "Digital Technology Transformation | Global Delivery Management | IT Practice Start-up and Scale-up | People Management"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Greta cole",
+    "headline": "HTML Developer at Mphasis",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQHQu6aCd2PoZw/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=Uvd6d4xjHeDw5SIRDvBWgC1WzJ_BK3i9o4ACuL7WZMA",
+    "location": "Kanpur Nagar, Uttar Pradesh, India",
+    "connections": "154"
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "profileAlternative": {
+    "name": "Conal Elliott",
+    "headline": "Distinguished Scientist at Target",
+    "imageurl": "https://media.licdn.com/dms/image/C5103AQGJhZoP49KbuA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=hzJ3V9ZHhF6ZsolEDjeWvyxrmkXA0wdZK8arVd-GcxM",
+    "location": "San Andreas, California",
+    "connections": "443",
+    "summary": "I love applications of powerful & elegant theory to practical problems, with each informing the other. I've worked since the early '90s on purely functional graphics, animation, and interaction, and for longer on systematic program definition/transformation. I invented the paradigm now known as \"functional reactive programming\" and have pioneered optimizing compilation domain-specific languages (DSLs) via partial evaluation, including for (insanely fast) execution on graphics processors (GPUs). More recently, I've been applying elegant generative principles for efficient, hardware-friendly, parallel algorithms, as well as developing a more rigorous, elegant, and efficient basis for machine learning. My main work & research language is Haskell. See my home page, blog & publications for more info.\n\nSpecialties: Creativity, clarity, rigor, simplicity, functional programming, Haskell."
+  },
+  "aboutAlternative": {
+    "text": "I love applications of powerful & elegant theory to practical problems, with each informing the other. I've worked since the early '90s on purely functional graphics, animation, and interaction, and for longer on systematic program definition/transformation. I invented the paradigm now known as \"functional reactive programming\" and have pioneered optimizing compilation domain-specific languages (DSLs) via partial evaluation, including for (insanely fast) execution on graphics processors (GPUs). More recently, I've been applying elegant generative principles for efficient, hardware-friendly, parallel algorithms, as well as developing a more rigorous, elegant, and efficient basis for machine learning. My main work & research language is Haskell. See my home page, blog & publications for more info.\n\nSpecialties: Creativity, clarity, rigor, simplicity, functional programming, Haskell."
+  },
+  "positions": [
+    {
+      "title": "Distinguished Scientist",
+      "companyName": "Target",
+      "location": "Silicon Valley",
+      "description": "I'm working on several problems related to data science, optimization, and machine learning, continuing to explore elegant and principled techniques from math and programming language theory for building software that is fast, correct, and beautiful. My main working language is Haskell, as it has been since 1995.",
+      "date1": "Jun 2016 – Present",
+      "date2": "3 yrs 6 mos"
+    },
+    {
+      "title": "Member",
+      "companyName": "IFIP Working Group 2.8",
+      "date1": "1999 – Present",
+      "date2": "20 yrs"
+    },
+    {
+      "title": "Tabula",
+      "location": "Santa Clara, CA",
+      "description": "Tabula develops the *Spacetime* 3D programmable logic device (3PLD), which is a significant advancement over mainstream FPGA technology.\n\nI've had three main activities at Tabula:\n• Taught classes on functional programming in Haskell, emphasizing elegance, re-use, and correctness.\n• Helped extend and redesign the in-house system for chip specification.\n• Developed a prototype optimizing compiler from Haskell to hardware and several modest applications. The compiler converts functional programs into an algebraic/categorical form, which is then interpreted as hybrid parallel/sequential circuits.\n\nSadly, Tabula closed down in March 2015.\n…\nsee more",
+      "date1": "Jan 2012 – Mar 2015",
+      "date2": "3 yrs 3 mos",
+      "roles": [
+        {
+          "title": "Principal Engineer",
+          "date1": "Jan 2012 – Mar 2015",
+          "date2": "3 yrs 3 mos",
+          "location": "Santa Clara, CA"
+        },
+        {
+          "title": "Architecture Consultant",
+          "date1": "Sep 2011 – Dec 2011",
+          "date2": "4 mos",
+          "location": "Santa Clara,CA"
+        }
+      ]
+    },
+    {
+      "title": "Title\nPrincipal Engineer",
+      "location": "Santa Clara, CA",
+      "description": "Tabula develops the *Spacetime* 3D programmable logic device (3PLD), which is a significant advancement over mainstream FPGA technology.\n\nI've had three main activities at Tabula:\n• Taught classes on functional programming in Haskell, emphasizing elegance, re-use, and correctness.\n• Helped extend and redesign the in-house system for chip specification.\n• Developed a prototype optimizing compiler from Haskell to hardware and several modest applications. The compiler converts functional programs into an algebraic/categorical form, which is then interpreted as hybrid parallel/sequential circuits.\n\nSadly, Tabula closed down in March 2015.\n…\nsee more",
+      "date1": "Jan 2012 – Mar 2015",
+      "date2": "3 yrs 3 mos",
+      "roles": [
+        {
+          "title": "Principal Engineer",
+          "date1": "Jan 2012 – Mar 2015",
+          "date2": "3 yrs 3 mos",
+          "location": "Santa Clara, CA"
+        }
+      ]
+    },
+    {
+      "title": "Title\nArchitecture Consultant",
+      "location": "Santa Clara,CA",
+      "date1": "Sep 2011 – Dec 2011",
+      "date2": "4 mos",
+      "roles": [
+        {
+          "title": "Architecture Consultant",
+          "date1": "Sep 2011 – Dec 2011",
+          "date2": "4 mos",
+          "location": "Santa Clara,CA"
+        }
+      ]
+    },
+    {
+      "title": "Owner",
+      "companyName": "LambdaPix",
+      "description": "Consulting with companies in the application of functional programming, and Haskell in particular. I teach and mentor in mastery of functional programming techniques, Haskell, elegant & rigorous design & implementation, denotational thinking/design.\n\nDesign, development & distribution of Haskell-based software, designed for simplicity, generality, correctness, and performance.\n…\nsee more",
+      "date1": "2005 – 2012",
+      "date2": "7 yrs"
+    },
+    {
+      "title": "Partner",
+      "companyName": "Awakening Compassion",
+      "description": "We help people live happier lives, particularly in relationship with others (personal & professional). Create awareness of life-long self-defeating habits of thought and speech, including judgment, criticism, blame, and assumption. Cultivate alternative perspective and focus that inspires goodwill and enables mutually beneficial collaboration / connection.\n\nMuch of our approach is influenced by Marshall Rosenberg's principles and practices, in which we were trained and have taught for several years. However, we now focus on inner transformation, leaving communication to follow naturally and honestly.\n\nWe coach individuals, couples, and small groups; and we teach larger groups in workshop style, and we offer ongoing phone-based support.\n…\nsee more",
+      "date1": "2004 – 2011",
+      "date2": "7 yrs"
+    },
+    {
+      "title": "Mentor",
+      "companyName": "Tsuru Capital LLC",
+      "description": "Mentor & coach in mastery of functional programming techniques, Haskell, elegant & rigorous design & implementation, denotational thinking/design.",
+      "date1": "Aug 2010",
+      "date2": "1 mo"
+    },
+    {
+      "title": "Architect",
+      "companyName": "Anygma",
+      "description": "Software architecture and design of artist-friendly but very expressive authoring tools for interactive 3D graphics, written in Haskell. Mentored group members and taught them \"denotational design\" which is a mathematically elegant, robustly composable, and rigorous methodology for software design.",
+      "date1": "2008",
+      "date2": "less than a year"
+    },
+    {
+      "title": "Researcher",
+      "companyName": "Microsoft Research",
+      "description": "Most of my work at Microsoft Research was in design and implementation of languages and systems to make graphics programming simpler and more powerful. Some highlights:\n\n* Original architect for the DirectAnimation product. Conceived and refined the original design for this powerful media library that integrated audio, video, 2D and 3D graphics and animation. DirectAnimation (originally called \"ActiveVRML\") was the first incarnation of the paradigm that has come to be known as \"functional reactive programming\".\n\n* Fran (http://conal.net/fran), a research system for improving on the ideas explored in DirectAnimation. It introduced and explored declarative specification of interactive animation over a variety of types (2D images, 3D models, sound, and all attributes of these types) in a unified model of continuous-time behaviors and events. Fran has been used in many college courses and has served as the basis of a commercial product, at least four Ph.D. theses, and many follow-up papers. The fundamental ideas have been further applied to robotics, vision, user interfaces and stage lighting control.\n\n* Pan (http://conal.net/Pan), a high-level language and optimizing compiler for image synthesis and manipulation. Worked with three product groups toward integration with their products.\n\n* Vertigo (http://conal.net/Vertigo), a language and compiler for computations on graphics processors. It generates C$\\sharp$ and vertex shader assembly code. Supports procedural geometry and textures and programmable shaders, all in a simple and consistent framework, based on first-class functions.\n\n* Mentored several interns successfully.\n\n…\nsee more",
+      "date1": "Aug 1994 – Sep 2002",
+      "date2": "8 yrs 2 mos"
+    },
+    {
+      "title": "Sun Microsystems",
+      "description": "Dec 93--Aug 94:\nArchitect for the MediaFlow product, integrating *distributed* traditional multimedia (audio/video) with other media: graphics, synthetic sound, gesture, etc. Worked with associates from IBM and HP, in an effort to win support for industry standardization.\n\nSep 90--Nov 93:\nArchitect/technical lead for the TBAG project (http://conal.net/tbag), a paradigm and toolkit for rapid prototyping of interactive, animated 3D graphics programs. The paradigm has its roots in declarative (constraint and functional) programming, emphasizing immutable values, first class functions, and relations, applying these concepts to a broad range of types, including points, vectors, planes, colors, transforms, geometry, and sound. The narrow role of modifiable state in this paradigm allows applications to be run in a collaborative setting (multi-user and multi-computer) without modification.\n\nApr 90--Sep 90:\nPorted sample implementation of multi-buffering X11 extension to Sun's X11/NeWS server.\n\n…\nsee more",
+      "date1": "Sep 1990 – Aug 1994",
+      "date2": "4 yrs",
+      "roles": [
+        {
+          "title": "Architect/technical lead",
+          "date1": "Sep 1990 – Aug 1994",
+          "date2": "4 yrs"
+        },
+        {
+          "title": "Member of technical staff",
+          "date1": "Apr 1990 – Sep 1990",
+          "date2": "6 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nArchitect/technical lead",
+      "description": "Dec 93--Aug 94:\nArchitect for the MediaFlow product, integrating *distributed* traditional multimedia (audio/video) with other media: graphics, synthetic sound, gesture, etc. Worked with associates from IBM and HP, in an effort to win support for industry standardization.\n\nSep 90--Nov 93:\nArchitect/technical lead for the TBAG project (http://conal.net/tbag), a paradigm and toolkit for rapid prototyping of interactive, animated 3D graphics programs. The paradigm has its roots in declarative (constraint and functional) programming, emphasizing immutable values, first class functions, and relations, applying these concepts to a broad range of types, including points, vectors, planes, colors, transforms, geometry, and sound. The narrow role of modifiable state in this paradigm allows applications to be run in a collaborative setting (multi-user and multi-computer) without modification.\n\nApr 90--Sep 90:\nPorted sample implementation of multi-buffering X11 extension to Sun's X11/NeWS server.\n\n…\nsee more",
+      "date1": "Sep 1990 – Aug 1994",
+      "date2": "4 yrs",
+      "roles": [
+        {
+          "title": "Architect/technical lead",
+          "date1": "Sep 1990 – Aug 1994",
+          "date2": "4 yrs"
+        }
+      ]
+    },
+    {
+      "title": "Title\nMember of technical staff",
+      "date1": "Apr 1990 – Sep 1990",
+      "date2": "6 mos",
+      "roles": [
+        {
+          "title": "Member of technical staff",
+          "date1": "Apr 1990 – Sep 1990",
+          "date2": "6 mos"
+        }
+      ]
+    }
+  ],
+  "educations": [
+    {
+      "title": "Carnegie Mellon University",
+      "degree": "PhD",
+      "fieldofstudy": "Computer Science",
+      "date1": "1983",
+      "date2": "1990"
+    },
+    {
+      "title": "U.C. Santa Barbara, College of Creative Studies",
+      "degree": "BA",
+      "fieldofstudy": "Math",
+      "date1": "1978",
+      "date2": "1982"
+    },
+    {
+      "title": "UC Santa Barbara",
+      "degree": "Bachelor of Arts (B.A.)",
+      "fieldofstudy": "Mathematics",
+      "date1": "1978",
+      "date2": "1982"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Haskell",
+      "count": "70"
+    },
+    {
+      "title": "Programming",
+      "count": "43"
+    },
+    {
+      "title": "Algorithms",
+      "count": "41"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/jwiegley/",
+      "text": "Senior Research and Engineer at DFINITY"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ashwin2rao/",
+      "text": "VP of AI at Target & Adjunct Faculty at Stanford"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tikhon-jelvis/",
+      "text": "Principal AI Scientist at Target"
+    },
+    {
+      "user": "https://www.linkedin.com/in/megyesi/",
+      "text": "Program Director at Governance Alive"
+    },
+    {
+      "user": "https://www.linkedin.com/in/julie-ericksen-542a9664/",
+      "text": "Communication Consultant"
+    },
+    {
+      "user": "https://www.linkedin.com/in/bonnie-fraser-5032912a/",
+      "text": "Writer - NVC book on conflict management"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ekmett/",
+      "text": "Research Engineer at Machine Intelligence Research Institute"
+    },
+    {
+      "user": "https://www.linkedin.com/in/susanna-warren-96b3a441/",
+      "text": "Compassionate Communication Center - Director/Certified trainer for the Center for Nonviolent Communication"
+    },
+    {
+      "user": "https://www.linkedin.com/in/levindonna/",
+      "text": "Executive Director, Innovation & Entrepreneurship at Worcester Polytechnic Institute, Senior Lecturer @ MIT"
+    },
+    {
+      "user": "https://www.linkedin.com/in/llewellyn-bezanson-phd-6a2a651/",
+      "text": "Distinquished Data Scientist in Supply Chain at Target"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Conal Elliott",
+    "headline": "Distinguished Scientist at Target",
+    "imageurl": "https://media.licdn.com/dms/image/C5103AQGJhZoP49KbuA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=hzJ3V9ZHhF6ZsolEDjeWvyxrmkXA0wdZK8arVd-GcxM",
+    "location": "San Andreas, California",
+    "connections": "443",
+    "summary": "I love applications of powerful & elegant theory to practical problems, with each informing the other. I've worked since the early '90s on purely functional graphics, animation, and interaction, and for longer on systematic program definition/transformation. I invented the paradigm now known as \"functional reactive programming\" and have pioneered optimizing compilation domain-specific languages (DSLs) via partial evaluation, including for (insanely fast) execution on graphics processors (GPUs). More recently, I've been applying elegant generative principles for efficient, hardware-friendly, parallel algorithms, as well as developing a more rigorous, elegant, and efficient basis for machine learning. My main work & research language is Haskell. See my home page, blog & publications for more info.\n\nSpecialties: Creativity, clarity, rigor, simplicity, functional programming, Haskell."
+  }
+}

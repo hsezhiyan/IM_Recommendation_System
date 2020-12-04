@@ -1,0 +1,158 @@
+{
+  "profileAlternative": {
+    "name": "Keykhosravy masoud",
+    "headline": "Expert in .net and sql-server at semi -centrelazi-systems",
+    "location": "Iran",
+    "connections": "25"
+  },
+  "aboutAlternative": {},
+  "positions": [
+    {
+      "title": "Expert in .net and sql-server",
+      "companyName": "semi -centrelazied-systems",
+      "date1": "Jan 2014 – Present",
+      "date2": "5 yrs 11 mos"
+    },
+    {
+      "title": "System analyst and system deisgner",
+      "companyName": "nigc",
+      "location": "Iran",
+      "date1": "Mar 2001 – Present",
+      "date2": "18 yrs 9 mos"
+    },
+    {
+      "title": "Head of computerize finance system in N.I.G.C",
+      "companyName": "NIGERIAN COMMUNICATIONS SATELLITE LIMITED (NIGCOMSAT)",
+      "location": "nigc.Iran",
+      "date1": "Nov 1988 – Present",
+      "date2": "31 yrs 1 mo"
+    },
+    {
+      "title": "EXPERT IN COBOL/CICS/vsam/DB2/FOXPRO",
+      "companyName": "DPI/NIGC ICT",
+      "location": "iran",
+      "date1": "Nov 1988 – Present",
+      "date2": "31 yrs 1 mo"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Industrial and Mining University",
+      "degree": "Master of Business Administration (M.B.A.)",
+      "fieldofstudy": "Project Management",
+      "date1": "2013",
+      "date2": "2014"
+    },
+    {
+      "title": "Payame Noor University (Distance Education)",
+      "degree": "Master's Degree",
+      "fieldofstudy": "Computer Software Engineering",
+      "date1": "2011",
+      "date2": "2014"
+    },
+    {
+      "title": "University of Tehran",
+      "degree": "mini MBA",
+      "fieldofstudy": "mini MBA",
+      "date1": "2011",
+      "date2": "2012"
+    },
+    {
+      "title": "Kharazmi University",
+      "degree": "Bachelor's Degree",
+      "fieldofstudy": "Mathematics",
+      "date1": "1982",
+      "date2": "1985"
+    },
+    {
+      "title": "Islamic Azad University of Mashhad",
+      "degree": "Doctor of Philosophy - PhD",
+      "fieldofstudy": "Computer Software Engineering",
+      "date1": "2019"
+    },
+    {
+      "title": "industrial & mining university",
+      "degree": "DBA",
+      "fieldofstudy": "strategic managment",
+      "date1": "2014"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Management",
+      "count": "3"
+    },
+    {
+      "title": "Team Leadership",
+      "count": "3"
+    },
+    {
+      "title": "Microsoft Office",
+      "count": "2"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "2",
+      "items": [
+        "English",
+        "spanish"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/karshenas-sahraei-82282388/",
+      "text": "engineer at nigc"
+    },
+    {
+      "user": "https://www.linkedin.com/in/amir-sarebanzade-552aaa14b/",
+      "text": "Instrument Engineer at NIGC"
+    },
+    {
+      "user": "https://www.linkedin.com/in/abbas-aghaee-aghaee-069a33159/",
+      "text": "Project Engineer at nigc"
+    },
+    {
+      "user": "https://www.linkedin.com/in/seyed-kazem-rasouli-429637b1/",
+      "text": "maintenance expert at nigc"
+    },
+    {
+      "user": "https://www.linkedin.com/in/%D8%B9-%D8%B1%D8%B6%D8%A7-%D8%AC%D8%B9%D9%81%D8%B1-114738b4/",
+      "text": "Senior Mechanical Technician at NIGC"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mansour-jafari-323a448b/",
+      "text": "instrument and control eng. at NIGC"
+    },
+    {
+      "user": "https://www.linkedin.com/in/reza-jaafari-00b40686/",
+      "text": "communication engineer at nigc"
+    },
+    {
+      "user": "https://www.linkedin.com/in/%D9%85%D8%AD%D9%85%D8%AF-%D8%B3%D9%84%D8%B7%D8%A7%D9%86%D9%8A-765818114/",
+      "text": "Programmer at ita"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ahmad-nematollahi-a8717644/",
+      "text": "Planning and maintenance manager at NIGC"
+    },
+    {
+      "user": "https://www.linkedin.com/in/hamid-torkaman-14b34a123/",
+      "text": "Senior Programmer at petroleum ministry"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Keykhosravy masoud",
+    "headline": "Expert in .net and sql-server at semi -centrelazi-systems",
+    "location": "Iran",
+    "connections": "25"
+  }
+}

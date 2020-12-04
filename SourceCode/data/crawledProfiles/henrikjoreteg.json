@@ -1,0 +1,176 @@
+{
+  "profileAlternative": {
+    "name": "Henrik Joreteg",
+    "headline": "Independent JavaScript Consultant, Writer, Speaker, Trainer",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQHZLFQErg69ag/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=3uwOpsRlmklSY6LxHMP1uQra2c327GnXPDn73Iys3Fs",
+    "location": "Spokane, Washington",
+    "connections": "450",
+    "summary": "Henrik Joreteg is a JavaScript developer, consultant, author, speaker, and educator.\n\nHe does independent contracting heavily focused on building Progressive Web Apps with tools like Redux and React/Preact. Currently he's working with Starbucks; before that Groove, Microsoft, and others.\n\nHenrik is a huge proponent of the web as a mobile app platform and wants to help developers push it to the next level. To that end, you may have seen his blog posts on topics such as abandoning iOS for the sake of the web or installng web apps or seen some of his talks, such as this one on pocket-sized JavaScript. He has also taught workshops for Frontend Masters and O'Reilly, co-developed the Ampersand.js framework, authored Human JavaScript, created Talky.io, and has open sourced libraries such as SimpleWebRTC, hjs-webpack, and many others.\n\nYou can follow him on Twitter at @HenrikJoreteg or keep an eye out for his posts at joreteg.com."
+  },
+  "aboutAlternative": {
+    "text": "Henrik Joreteg is a JavaScript developer, consultant, author, speaker, and educator.\n\nHe does independent contracting heavily focused on building Progressive Web Apps with tools like Redux and React/Preact. Currently he's working with Starbucks; before that Groove, Microsoft, and others.\n\nHenrik is a huge proponent of the web as a mobile app platform and wants to help developers push it to the next level. To that end, you may have seen his blog posts on topics such as abandoning iOS for the sake of the web or installng web apps or seen some of his talks, such as this one on pocket-sized JavaScript. He has also taught workshops for Frontend Masters and O'Reilly, co-developed the Ampersand.js framework, authored Human JavaScript, created Talky.io, and has open sourced libraries such as SimpleWebRTC, hjs-webpack, and many others.\n\nYou can follow him on Twitter at @HenrikJoreteg or keep an eye out for his posts at joreteg.com."
+  },
+  "positions": [
+    {
+      "title": "Co-founder",
+      "companyName": "IV Enterprises LLC",
+      "location": "Spokane, Washington Area",
+      "description": "https://anesthesiacharting.com",
+      "date1": "Jul 2018 – Present",
+      "date2": "1 yr 5 mos"
+    },
+    {
+      "title": "Independent JavaScript Consultant / Trainer",
+      "companyName": "Human Media, LLC",
+      "location": "Spokane, Washington Area",
+      "description": "I've been building ambitious front-end, single-page style applications for the last 7 years with all manner of tools. I spoke at the very first Node conference on building realtime web apps with Backbone.js, Socket.io, and Node.js in 2011 and have stayed heavily involved this space since.\n\nI also frequently speak, lead workshops, and blog about building modern web applications.\n\nI’m open to anything interesting and challenging in front-end, node.js, or mobile web. Hit me with your hard problems, I love a challenge.\n\nGet in touch if you've got any interesting projects: henrik@joreteg.com\n…\nsee more",
+      "date1": "Aug 2015 – Present",
+      "date2": "4 yrs 4 mos"
+    },
+    {
+      "title": "President and JavaScript Developer",
+      "companyName": "&yet",
+      "description": "We build interesting web applications — some are for clients, some are products we sell. It's my job to help figure out which of projects we should tackle and in the case of products, work with potential customers to figure out what features we should build.\n\nOnce we've got a game plan, I usually end up writing a lot of JavaScript for these apps.\n…\nsee more",
+      "date1": "Feb 2010 – Aug 2015",
+      "date2": "5 yrs 7 mos"
+    },
+    {
+      "title": "Web Application Developer",
+      "companyName": "ESRI",
+      "date1": "Aug 2008 – Feb 2010",
+      "date2": "1 yr 7 mos"
+    },
+    {
+      "title": "Founder/CEO",
+      "companyName": "HouseFLIX.com",
+      "description": "Strategy, marketing, web development",
+      "date1": "Jun 2005 – Jun 2008",
+      "date2": "3 yrs 1 mo"
+    },
+    {
+      "title": "Intern",
+      "companyName": "Congressman Jerry Lewis' Office",
+      "description": "I took this job in order to learn about government and to make valuable contacts. As the summer intern I answered phones and did office tasks. Although the work itself was rather simplistic, the internship gave me a close-up view of government involvement at the local level.",
+      "date1": "Jun 2005 – Aug 2005",
+      "date2": "3 mos"
+    },
+    {
+      "title": "Sales Associate/Office Assistant",
+      "companyName": "Guild Mortgage",
+      "description": "This job was helpful because I was able to gain experience in real estate finance. I advised and informed clients about personal finance decisions. It was a small office, hence I worked closely with the branch manager. I resigned when I felt I was no longer learning, to focus on school.",
+      "date1": "Jun 2004 – Dec 2004",
+      "date2": "7 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "California State University-San Bernardino - College of Business and Public Administration",
+      "degree": "B.A.Finance",
+      "fieldofstudy": "Finance, Entrepreneurship",
+      "date1": "2001",
+      "date2": "2005"
+    },
+    {
+      "title": "Mesa Grande Academy",
+      "date1": "1997",
+      "date2": "2001"
+    }
+  ],
+  "skills": [
+    {
+      "title": "JavaScript",
+      "count": "40"
+    },
+    {
+      "title": "Web Development",
+      "count": "32"
+    },
+    {
+      "title": "Web Applications",
+      "count": "30"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "2",
+    "receivedCount": "2",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/natevw/",
+        "text": "Henrik has a natural inclination towards learning and continuous improvement, tempered with a strong \"common sense\" practicality. His business knack, tendency towards making software be FUN, and addiction to continually forging cutting-edge technology are rare enough; but rather than take the credit for his many accomplishments, Henrik gives away high-fives like they're going out of style.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/isaackim/",
+        "text": "I hired houseflix.com to create a video for my condo. Henrik was quick to answer questions and provide suggestions on how I could be utilize the houseflix service. His understanding of the local market was valuable and the product his company delivered was ahead of schedule."
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/isaackim/",
+        "text": "I've known Isaac personally and in his professional life for many years. He's one of the most genuine people I know. He works hard, keeps his word, and cares for others. He's not scared to set a lofty vision and organize and inspire people to chase it with him. More times than not his team will reach those lofty goals, and have fun in the process. I'm honored to consider Isaac to be a close friend. I have no doubts that he will do great things in his life time."
+      },
+      {
+        "user": "https://www.linkedin.com/in/joshhighlandgiese/",
+        "text": "Josh is both talented and innovative. He's got his fingers on the pulse of the Internet and really understands the web culture, because he lives it. He's been a great teacher as I'm learning the ropes here at ESRI. I've also gotten to see some of his personal projects...very impressive. \r\n\r\nI'd recommend his work to anybody."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "1",
+      "items": [
+        "Swedish"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/boris-grinberg-579a1454/",
+      "text": "Experienced Software Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mark-powell-51657a2b/",
+      "text": "IT Operating System Consultant"
+    },
+    {
+      "user": "https://www.linkedin.com/in/marquinn-thomas-8728ba112/",
+      "text": "Certified Pedorthist"
+    },
+    {
+      "user": "https://www.linkedin.com/in/everardo-c-395b6893/",
+      "text": "Director at New Opportunities Organization/ Los Angeles County Sheriff's Department Education"
+    },
+    {
+      "user": "https://www.linkedin.com/in/terry-lidar-4b443b78/",
+      "text": "retired at rcrmc"
+    },
+    {
+      "user": "https://www.linkedin.com/in/chcschoolpsychologist/",
+      "text": "School Psychologist at Granite School District"
+    },
+    {
+      "user": "https://www.linkedin.com/in/melinda-castillo-ab989515b/",
+      "text": "Rn at JFK Memorial Hospital, Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/cheryl-steffen-60852464/",
+      "text": "Licensed Clinical Social Worker at San Gorgonio Memorial Hospital"
+    },
+    {
+      "user": "https://www.linkedin.com/in/vijay-kante/",
+      "text": "Principle software Engineer at WDC"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kelley-blanton/",
+      "text": "Practice Coordinator at St. Luke's Health System"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Henrik Joreteg",
+    "headline": "Independent JavaScript Consultant, Writer, Speaker, Trainer",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQHZLFQErg69ag/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=3uwOpsRlmklSY6LxHMP1uQra2c327GnXPDn73Iys3Fs",
+    "location": "Spokane, Washington",
+    "connections": "450",
+    "summary": "Henrik Joreteg is a JavaScript developer, consultant, author, speaker, and educator.\n\nHe does independent contracting heavily focused on building Progressive Web Apps with tools like Redux and React/Preact. Currently he's working with Starbucks; before that Groove, Microsoft, and others.\n\nHenrik is a huge proponent of the web as a mobile app platform and wants to help developers push it to the next level. To that end, you may have seen his blog posts on topics such as abandoning iOS for the sake of the web or installng web apps or seen some of his talks, such as this one on pocket-sized JavaScript. He has also taught workshops for Frontend Masters and O'Reilly, co-developed the Ampersand.js framework, authored Human JavaScript, created Talky.io, and has open sourced libraries such as SimpleWebRTC, hjs-webpack, and many others.\n\nYou can follow him on Twitter at @HenrikJoreteg or keep an eye out for his posts at joreteg.com."
+  }
+}

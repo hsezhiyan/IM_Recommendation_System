@@ -1,0 +1,158 @@
+{
+  "profileAlternative": {
+    "name": "Ilya Khilkevich",
+    "headline": "SQL Server Database Administrator at Century 21 Department Stores",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQFpUsgRYPyDqA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=sRj3ZYT2c42iBTXvsYw_DJWNt69maeMf4csHgJFgaBk",
+    "location": "Matawan, New Jersey",
+    "connections": "190",
+    "summary": "Hands-on SQL Server Database Administrator with over 10 years of extensive experience in developing database design, performance optimization, development, and administration under MS Windows platform for Retail, Merchant Services, Real Estate, Travel, Health Care, and Publishing Industries. Developed a broadly evolved skill set and could be an asset to every project assignment.\n\nMicrosoft Certified IT Professional: Database Administrator 2008.\nMy blog: https://sqldbacuriosity.wordpress.com/\n\nPROFESSIONAL EXPERIENCE:\n• Extensive experience in installation, configuration and administration of SQL Server 2016/2014/2012/2008R2/2008/2005/2000.\n• Extensive experience in installing, configuration and administration of MS clustering.\n• Experienced in T-SQL Programming and performance tuning, optimization\n• Extensive experience in SQL Server configuration, importing/exporting, applying new patches, capacity planning, backup and recovery of mission critical databases\n• Implement and maintain database security, replication, SQL Clustering, Always On Availability Group, SSIS, SSRS, Log shipping\n• Responsible for establishing best practices, standards\n• Excellent analytical, communication skills, work ethics and ability to work in a team environment with strong determination and commitment to the deliverables\n\nSKILLS:\nOperating Systems: Windows (2010/2008/2003/7/XP)\nTechnologies: SQL, TSQL, PL/SQL, XML, HTML, VB.NET\nDatabases: MS SQL Server 2016/2014/2012/2008/2005/2000,\nORACLE 11g/10g/9i, MySQL, MS Access\n\nTools $ Application Servers: DTS, SSIS, SSAS, SSRS, BCP, ER-Studio, DBArtisan, Rapid SQL, SQL*Plus, SQL*Loader, RMAN, Jira, Data Domain Boost, IBM - InfoSphere Change Data Capture, Idera SQL Diagnostic Manager, Idera SQL Doctor, Idera Compliance Manager, MS-Visio, MS Project, ER-Win, MS Source Safe, SVN, VNC"
+  },
+  "aboutAlternative": {
+    "text": "Hands-on SQL Server Database Administrator with over 10 years of extensive experience in developing database design, performance optimization, development, and administration under MS Windows platform for Retail, Merchant Services, Real Estate, Travel, Health Care, and Publishing Industries. Developed a broadly evolved skill set and could be an asset to every project assignment.\n\nMicrosoft Certified IT Professional: Database Administrator 2008.\nMy blog: https://sqldbacuriosity.wordpress.com/\n\nPROFESSIONAL EXPERIENCE:\n• Extensive experience in installation, configuration and administration of SQL Server 2016/2014/2012/2008R2/2008/2005/2000.\n• Extensive experience in installing, configuration and administration of MS clustering.\n• Experienced in T-SQL Programming and performance tuning, optimization\n• Extensive experience in SQL Server configuration, importing/exporting, applying new patches, capacity planning, backup and recovery of mission critical databases\n• Implement and maintain database security, replication, SQL Clustering, Always On Availability Group, SSIS, SSRS, Log shipping\n• Responsible for establishing best practices, standards\n• Excellent analytical, communication skills, work ethics and ability to work in a team environment with strong determination and commitment to the deliverables\n\nSKILLS:\nOperating Systems: Windows (2010/2008/2003/7/XP)\nTechnologies: SQL, TSQL, PL/SQL, XML, HTML, VB.NET\nDatabases: MS SQL Server 2016/2014/2012/2008/2005/2000,\nORACLE 11g/10g/9i, MySQL, MS Access\n\nTools $ Application Servers: DTS, SSIS, SSAS, SSRS, BCP, ER-Studio, DBArtisan, Rapid SQL, SQL*Plus, SQL*Loader, RMAN, Jira, Data Domain Boost, IBM - InfoSphere Change Data Capture, Idera SQL Diagnostic Manager, Idera SQL Doctor, Idera Compliance Manager, MS-Visio, MS Project, ER-Win, MS Source Safe, SVN, VNC"
+  },
+  "positions": [
+    {
+      "title": "Sql Server Database Administrator",
+      "companyName": "Department of health and medical hygine",
+      "date1": "Aug 2018 – Present",
+      "date2": "1 yr 4 mos"
+    },
+    {
+      "title": "SQL Server Database Administrator",
+      "companyName": "Century 21 Department Stores",
+      "location": "Secaucus, NJ",
+      "description": "• Manage and maintain data in all production and developer databases.\n• Develop Backup/Recovery strategy for databases with different activities and sizes.\n• Install, configure, administer and secure SQL Server 2008/2008R2/2012/2014/2016 on Server and\nClients.\n• Analyze, tune, and optimize numerous of ad-hoc queries and stored procedures.\n• Manage all levels of database security and integrity, transaction activity and utilization.\n• To enhance security create procedure for replacing xp_cmdshell usage with SQL\nServer CLR functions.\n• Set up and maintain failover cluster between 3 nodes. (Active-Active-Passive for SQL\nServer 2014).\n• Set up and maintain AlwaysOn Availability Groups as High Availability and\nDisaster Recovery solution on SQL Server 2014 (1 primary and 2 active secondary\nreplicas).\n• Create, deploy, and optimize complex ETL SSIS packages.\n• Implement table partitioning to improve performance of large tables, reduces\ncontention and increases availability of data.\n• Develop and implement strategy to defragment indexes for databases over 1TB.\n• Troubleshoot MS SQL Server and application’s issues using profiler, extended events, DMVs,\nand Idera SQL Diagnostic Manager and SQL Doctor.\n• Set up and maintain data replication using IBM InfoSphere Change Data Capture from Oracle to\nSQL Server.\n\n…\nsee more",
+      "date1": "Nov 2014 – Present",
+      "date2": "5 yrs 1 mo"
+    },
+    {
+      "title": "SQL Server Database Administrator",
+      "companyName": "EVO Merchant Services",
+      "location": "NY",
+      "description": "• Manage all levels of database security and integrity, transaction activity and utilization.\n• Manage and maintain data in all production and developer databases and replication servers.\n• Develop Backup/Recovery strategy for databases with different activities.\n• Perform upgrades from SQL Server 2000 to SQL Server 2005, from SQL Server 2005 to SQL Server 2008.\n• Develop scripts and stored procedures for rebuilding and reorganizing indexes.\n• Implement SQL Server Mirroring and log shipping.\n• Optimize T-SQL queries/indexes to enhance database performance.\n• Set up and maintain failover cluster between 2 nodes. (SQL Server 2000/2005/2008).\n• Create stored procedures for monitoring disk space usage.\n• Manage SQL Server Workload and System Resource Consumption utilizing Resource Governor.\n• Optimize SQL performance, partitioning, indexing, stored procedures and DTS/SSIS packages.\n• Create complex reports for senior management and customers.\n• Design and implement redundant systems, policies, and procedures for disaster recovery and data archiving to ensure effective protection and integrity of data assets.\n• Collect and publish ongoing status reports (SSRS )on production bottlenecks and issues.\n…\nsee more",
+      "date1": "Sep 2012 – Nov 2014",
+      "date2": "2 yrs 3 mos"
+    },
+    {
+      "title": "Database Developer/Database Administrator",
+      "companyName": "Mondrus CCS Inc Middle Village, NY",
+      "location": "Middle Village, New York",
+      "description": "• Perform data migration from MySQL to SQL Server 2005 Database, develop and maintain numerous stored procedures and functions for a healthcare project.\n• Make different types of replications (Snapshot, Transactional, Merge) on SQl Server 2005, 2008 R2.\n• Design, create, maintain, and administer Oracle database for client’s new suite of products. (Oracle 11g).\n• Support daily operations in a production environment by proactively managing the performance, integrity, and security of business applications' databases and database servers\n• Perform Oracle Server upgrade from 9i to 10g and 11g. Conduct database migration from Oracle 9i to Oracle 10g and later to Oracle 11g, and from SQL Server 2005 to SQL Server 2008.\n• Automate sales data loading processes (VB.NET, SQL*Loader, Oracle 10g, SQL Server 2005/2008, bcp), create numerous back-end utilities for process automation (VB.NET, Oracle 10g, SQL Server 2005).\n• Upgrade SQL Server 2005 database to SQL Server 2008, develop and maintain numerous stored procedures for a large Real Estate company.\n• Re-design Oracle 10g database. Create numerous packages, procedures, functions, and triggers for a state college. Other responsibilities include development, backup/recovery (RMAN), integration with external 3rd party packaged solution, performance tuning.\n• Involved in importing the production data to lower environments for testing purpose.\n• Design a database (SQL Server 2005), consolidate product related data, and develop a set of stored procedures to support automated data loading and publishing processes for a travel agency.\n• Establish and maintain daily database backup procedures (Oracle 11g, SQL Server 2008).\n• Install, configure, and upgrade Oracle and MS SQL server and client software (Oracle 10g).\n…\nsee more",
+      "date1": "Jan 2008 – Sep 2012",
+      "date2": "4 yrs 9 mos"
+    },
+    {
+      "title": "Business Analyst/Junior Database developer",
+      "companyName": "Borisovskiye Manufactury Moscow, Russia",
+      "date1": "Jul 2005 – Dec 2007",
+      "date2": "2 yrs 6 mos"
+    },
+    {
+      "title": "Business Analyst",
+      "companyName": "New and Used Cars Magazine Moscow, Russia",
+      "description": "• Interacted with various internal officials and gathered detailed information about\nbusiness functionality and procedures.\n• Analyzed collected and sorted data utilizing different tools and prepared various\nreports.\n• Developed project plans for client business requirement.\n• Developed functional provision and system design specifications for clients.\n• Conducted meetings with senior managers, directors and other top management\nofficials for explaining to them the analysis results.\n• Studied the ongoing processes using operations research methods and techniques, and\nthen suggested changes for making the process more cost-effective\n• Maintained consistent collaboration with the sales and marketing departments as well\nas private ad agencies while designing new projects\n…\nsee more",
+      "date1": "May 1995 – Jun 2005",
+      "date2": "10 yrs 2 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Moscow International Higher Business School (MIRBIS)",
+      "degree": "MBA in Strategic Management and Entrepreneurship",
+      "date1": "2006",
+      "date2": "2008"
+    },
+    {
+      "title": "Moscow Auto-Mechanical Institute, Moscow, Russia",
+      "degree": "BS in Engineering",
+      "fieldofstudy": "Electromechanical",
+      "date1": "1983",
+      "date2": "1990"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Microsoft SQL Server",
+      "count": "7"
+    },
+    {
+      "title": "Databases",
+      "count": "6"
+    },
+    {
+      "title": "SQL",
+      "count": "6"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "1",
+    "receivedCount": "0",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/lubov-korshunova-b837aa15/",
+        "text": "I had a session of Business English with Lubov Korshunova. As an established professional from Russia who had just come to the country, I needed a qualified instructor with knowledge of both Russian and American cultures for me to pick up some vocabulary and improve my conversation skills in certain topic such as job interview, business meetings, etc. After the evaluation test, both oral and written, we worked out a curriculum for our session. I enjoyed our lessons and learned a lot as well. Lubov is an experienced language instructor who can easily adjust the lesson according to the student’s needs and learning pace. Expect some homework, too but in reasonable quantities and it’s the stuff you really need… I would highly recommend Lubov!\n…\nSee more"
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "2",
+      "items": [
+        "English",
+        "Russian"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/moses-kota-60166150/",
+      "text": "SQL SERVER Database Administrator"
+    },
+    {
+      "user": "https://www.linkedin.com/in/anedui-perez/",
+      "text": "Database Administrator (SQL Server)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/julia-kholodovsky-0704871b/",
+      "text": "SQL Server Database Administrator"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jatinder-singh-067525145/",
+      "text": "Sql Server Database Administrator"
+    },
+    {
+      "user": "https://www.linkedin.com/in/maulee-patni-b2440192/",
+      "text": "Software Engineer at Accenture"
+    },
+    {
+      "user": "https://www.linkedin.com/in/steve-martin-a3118a53/",
+      "text": "SQL Server DBA at CSC"
+    },
+    {
+      "user": "https://www.linkedin.com/in/licha-paramo-95174777/",
+      "text": "Senior Claims Examiner at Tokio Marine Management, Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/jing-gu-53753556/",
+      "text": "SQL Server DBA at SRA International"
+    },
+    {
+      "user": "https://www.linkedin.com/in/elina-fassil-1a0a28170/",
+      "text": "Sql Server Database Administrator"
+    },
+    {
+      "user": "https://www.linkedin.com/in/vasudev-p-92ab5511a/",
+      "text": "Sr.SQL Server Database Administrator"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Ilya Khilkevich",
+    "headline": "SQL Server Database Administrator at Century 21 Department Stores",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQFpUsgRYPyDqA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=sRj3ZYT2c42iBTXvsYw_DJWNt69maeMf4csHgJFgaBk",
+    "location": "Matawan, New Jersey",
+    "connections": "190",
+    "summary": "Hands-on SQL Server Database Administrator with over 10 years of extensive experience in developing database design, performance optimization, development, and administration under MS Windows platform for Retail, Merchant Services, Real Estate, Travel, Health Care, and Publishing Industries. Developed a broadly evolved skill set and could be an asset to every project assignment.\n\nMicrosoft Certified IT Professional: Database Administrator 2008.\nMy blog: https://sqldbacuriosity.wordpress.com/\n\nPROFESSIONAL EXPERIENCE:\n• Extensive experience in installation, configuration and administration of SQL Server 2016/2014/2012/2008R2/2008/2005/2000.\n• Extensive experience in installing, configuration and administration of MS clustering.\n• Experienced in T-SQL Programming and performance tuning, optimization\n• Extensive experience in SQL Server configuration, importing/exporting, applying new patches, capacity planning, backup and recovery of mission critical databases\n• Implement and maintain database security, replication, SQL Clustering, Always On Availability Group, SSIS, SSRS, Log shipping\n• Responsible for establishing best practices, standards\n• Excellent analytical, communication skills, work ethics and ability to work in a team environment with strong determination and commitment to the deliverables\n\nSKILLS:\nOperating Systems: Windows (2010/2008/2003/7/XP)\nTechnologies: SQL, TSQL, PL/SQL, XML, HTML, VB.NET\nDatabases: MS SQL Server 2016/2014/2012/2008/2005/2000,\nORACLE 11g/10g/9i, MySQL, MS Access\n\nTools $ Application Servers: DTS, SSIS, SSAS, SSRS, BCP, ER-Studio, DBArtisan, Rapid SQL, SQL*Plus, SQL*Loader, RMAN, Jira, Data Domain Boost, IBM - InfoSphere Change Data Capture, Idera SQL Diagnostic Manager, Idera SQL Doctor, Idera Compliance Manager, MS-Visio, MS Project, ER-Win, MS Source Safe, SVN, VNC"
+  }
+}

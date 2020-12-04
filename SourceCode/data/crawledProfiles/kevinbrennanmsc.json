@@ -1,0 +1,85 @@
+{
+  "profileAlternative": {
+    "name": "Kevin Brennan",
+    "headline": "Director and SQL Server / Azure Consultant. at Avitek Ltd",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQG7z9YhMfvVcA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=uANfBcVT1AwPj4R2duPa_52v_7PDzr9_4hPtENhH_Ts",
+    "location": "London, Greater London, United Kingdom",
+    "connections": "500+",
+    "summary": "I have worked as a freelance consultant for the last fourteen years with specialist skills in Azure and all things SQL Server, in and around the London area. I have experience across a variety of business sectors. Along with a Master of Science degree I hold the following certifications Microsoft certified IT professional (MCITP), DBA (MCDBA), developer (MCTS), extensive knowledge of monitoring tools, best practices, tuning, TSQL, migrations, upgrades and security, Power Bi , power shell, Snowflake (Alterix for ELT and power bi ) and much much more."
+  },
+  "aboutAlternative": {
+    "text": "I have worked as a freelance consultant for the last fourteen years with specialist skills in Azure and all things SQL Server, in and around the London area. I have experience across a variety of business sectors. Along with a Master of Science degree I hold the following certifications Microsoft certified IT professional (MCITP), DBA (MCDBA), developer (MCTS), extensive knowledge of monitoring tools, best practices, tuning, TSQL, migrations, upgrades and security, Power Bi , power shell, Snowflake (Alterix for ELT and power bi ) and much much more."
+  },
+  "positions": [
+    {
+      "title": "Director and SQL Server / Azure Consultant.",
+      "companyName": "Avitek Ltd",
+      "location": "London, United Kingdom",
+      "description": "I work as a freelance consultant and developer with specialist skills in Azure and all things SQL Server, in and around the London area. I have experience across a variety of business sectors.\n\nSpecialities: SQL SERVER (All Versions from 7.0 onwards). MIS, SSIS, SSAS, SSRS, PowerBi Database and Data Warehouse installation, configuration, upgrades, administration, security, Design,Development and Tuning, TSQL. ETL, Sharepoint, QlikView, VM, SQL Server and Data Warehouse on Azure (Administration and Migrations). Hadoop,Python, Windocks ,Delphix. Database administration and security. Snowflake (Alterix for ELT plus power Bi)",
+      "date1": "Jan 2005 – Present",
+      "date2": "14 yrs 11 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "University of Sussex",
+      "degree": "Master of Science",
+      "fieldofstudy": "Computer Technology",
+      "date1": "1994",
+      "date2": "1995"
+    },
+    {
+      "title": "University of Sussex",
+      "degree": "BEng (Hons)",
+      "fieldofstudy": "Computer Systems Engineering",
+      "date1": "1989",
+      "date2": "1994"
+    }
+  ],
+  "skills": [
+    {
+      "title": "SSIS",
+      "count": "3"
+    },
+    {
+      "title": "SSRS",
+      "count": "3"
+    },
+    {
+      "title": "SSAS",
+      "count": "3"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "3",
+      "items": [
+        "Delphix",
+        "Expert Performance Tuning for SQL Server 2016 + 2017 - Brent Ozar",
+        "Hadoop"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "The Testing Of Thin Films"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Kevin Brennan",
+    "headline": "Director and SQL Server / Azure Consultant. at Avitek Ltd",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQG7z9YhMfvVcA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=uANfBcVT1AwPj4R2duPa_52v_7PDzr9_4hPtENhH_Ts",
+    "location": "London, Greater London, United Kingdom",
+    "connections": "500+",
+    "summary": "I have worked as a freelance consultant for the last fourteen years with specialist skills in Azure and all things SQL Server, in and around the London area. I have experience across a variety of business sectors. Along with a Master of Science degree I hold the following certifications Microsoft certified IT professional (MCITP), DBA (MCDBA), developer (MCTS), extensive knowledge of monitoring tools, best practices, tuning, TSQL, migrations, upgrades and security, Power Bi , power shell, Snowflake (Alterix for ELT and power bi ) and much much more."
+  }
+}

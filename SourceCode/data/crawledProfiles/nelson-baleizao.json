@@ -1,0 +1,185 @@
+{
+  "profileAlternative": {
+    "name": "Nelson Baleizão",
+    "headline": "Application Support Specialist (.Net/SQL and Java) at Panalpina",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQEQpac4qjZq-g/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=ttvdkSSVbKlPV44_AYTgxvIhxCCQNvu_oisYXs9G6II",
+    "location": "Alverca do Ribatejo, Lisbon, Portugal",
+    "connections": "101",
+    "summary": "I have 18 years of experience in enterprise software development with Microsoft .Net technologies\n(VB.Net, C# and ASP.net), Microsoft SQL Server Databases and Java programming.\n\n▪ Creation, development and support of Windows Forms applications using .Net technology\n▪ Creation, development and support of web based applications with client-side, server-side and\ndatabase technologies - ASP.net + SQL databases and Java + DB2 databases\n▪ Good knowledge of cross-browser web implementations\n▪ Development of websites with the MVC architecture model\n▪ Responsive websites development\n▪ Domain of current web technologies (HTML5, CSS3, jQuery, jSON, JavaScript, XML, Web\nServices, Web APIs and JavaScript Frameworks)\n▪ Good knowledge about configuring Web Servers (Microsoft IIS Server, Apache Tomcat and IBM\nWebSphere Application Server)\n▪ Advanced knowledge of using source control tools like Microsoft Team Foundation Studio and\nBitbucket/Git\n▪ Good knowledge of using Jira and Confluence\n▪ Analysis, design and implementation of relational databases (SQL, mySQL and DB2)\n▪ Advanced knowledge in Reporting tools (Crystal Reports and SQL Server Reporting Services)\n▪ Advanced knowledge in Business Intelligence tools (Oracle Hyperion and Microsoft Power BI)\n▪ Advanced knowledge in the administration and development of Web Parts in SharePoint 2010 and\n2013\n▪ Advanced user of Microsoft Office software (Word, Excel, PowerPoint, Visio, Access and OneNote)"
+  },
+  "aboutAlternative": {
+    "text": "I have 18 years of experience in enterprise software development with Microsoft .Net technologies\n(VB.Net, C# and ASP.net), Microsoft SQL Server Databases and Java programming.\n\n▪ Creation, development and support of Windows Forms applications using .Net technology\n▪ Creation, development and support of web based applications with client-side, server-side and\ndatabase technologies - ASP.net + SQL databases and Java + DB2 databases\n▪ Good knowledge of cross-browser web implementations\n▪ Development of websites with the MVC architecture model\n▪ Responsive websites development\n▪ Domain of current web technologies (HTML5, CSS3, jQuery, jSON, JavaScript, XML, Web\nServices, Web APIs and JavaScript Frameworks)\n▪ Good knowledge about configuring Web Servers (Microsoft IIS Server, Apache Tomcat and IBM\nWebSphere Application Server)\n▪ Advanced knowledge of using source control tools like Microsoft Team Foundation Studio and\nBitbucket/Git\n▪ Good knowledge of using Jira and Confluence\n▪ Analysis, design and implementation of relational databases (SQL, mySQL and DB2)\n▪ Advanced knowledge in Reporting tools (Crystal Reports and SQL Server Reporting Services)\n▪ Advanced knowledge in Business Intelligence tools (Oracle Hyperion and Microsoft Power BI)\n▪ Advanced knowledge in the administration and development of Web Parts in SharePoint 2010 and\n2013\n▪ Advanced user of Microsoft Office software (Word, Excel, PowerPoint, Visio, Access and OneNote)"
+  },
+  "positions": [
+    {
+      "title": "Application Support Specialist (.Net/SQL and Java)",
+      "companyName": "Panalpina",
+      "location": "Lisbon Area, Portugal",
+      "description": "▪ I integrate a global support Organisation using following-the-sun approach.\nI'm providing level 2 support of critical Customer & Forwarding applications with on-call support.\nI always do my best to deliver a result to customers in the first iteration.\nI mainly focus on the quality of my service by monitoring the supported applications/components and taking quick actions when a problem come up. I'm able to perform deep analyses of complex issues by digging in to the source code and/or database data.\nSeveral enhancements/improvements have been suggested by me during my daily activities which led the applications to increase their performance and stability.\nI have set up an automated monitoring of theses applications/components using Zabbix (FTP inbound/outbound files, Data-flows, Windows Services, CPU, Disk Space, Memory, etc.)\nTools used: Microsoft Visual Studio 2015/2019 / IIS Server (HTTP and FTP) / SQL Server Reporting Services / SQL Server Management Studio / Zabbix.\n\n▪ Release On-Demand of Java Web Applications using IBM WebSphere application server.\n\n▪ Currently allocated to the Customer Portal project providing level 2 support and acting as DevOps.\nTools used: MobaXterm, DBeaver, Jira, Confluence, Bitbucket, Jenkins and Monitoring tools (TestCafé and JMeter)\n…\nsee more",
+      "date1": "Oct 2017 – Present",
+      "date2": "2 yrs 2 mos"
+    },
+    {
+      "title": "Somague",
+      "location": "Sintra, Portugal",
+      "description": "▪ My main tasks were design, develop and support Windows/Web-based applications written in\n.Net . These applications had connectivities with Core Systems through DB Linked Servers, Web\nServices calls, Web APIs, SAP RFC connectors and external providers.\n\n▪ Corporate Intranet developed with Sharepoint 2010 using custom web-parts.\n▪ Risk Analysis and Management Portal.\n▪ Employee Portal: Designed and developed in full by me. Linked to HR database. In this portal, the\nemployee has the possibility to check the employee data card, schedule vacations, justify\nabsences and add skills.\n▪ Developed a Windows Forms application for Somague Human Resources (Travel module, Fleet\nmanagement module, Salary module, Training module, etc.)\n\nTools used: Microsoft Visual Studio 2003-2005-2010, IIS Server, SQL Server Tools, SQL Server Integration Services, SQL Server Reporting Services, SAP .Net Connector, Crystal Reports\n…\nsee more",
+      "date1": "Dec 2004 – Sep 2017",
+      "date2": "12 yrs 10 mos",
+      "roles": [
+        {
+          "title": "Senior Software Developer",
+          "date1": "Dec 2004 – Sep 2017",
+          "date2": "12 yrs 10 mos",
+          "location": "Sintra, Portugal"
+        },
+        {
+          "title": "Junior Software Developer",
+          "date1": "Dec 2001 – Nov 2004",
+          "date2": "3 yrs",
+          "location": "Sintra, Portugal"
+        },
+        {
+          "title": "Internship as Software Developer",
+          "date1": "Aug 2001 – Nov 2001",
+          "date2": "4 mos",
+          "location": "Sintra, Portugal"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSenior Software Developer",
+      "location": "Sintra, Portugal",
+      "description": "▪ My main tasks were design, develop and support Windows/Web-based applications written in\n.Net . These applications had connectivities with Core Systems through DB Linked Servers, Web\nServices calls, Web APIs, SAP RFC connectors and external providers.\n\n▪ Corporate Intranet developed with Sharepoint 2010 using custom web-parts.\n▪ Risk Analysis and Management Portal.\n▪ Employee Portal: Designed and developed in full by me. Linked to HR database. In this portal, the\nemployee has the possibility to check the employee data card, schedule vacations, justify\nabsences and add skills.\n▪ Developed a Windows Forms application for Somague Human Resources (Travel module, Fleet\nmanagement module, Salary module, Training module, etc.)\n\nTools used: Microsoft Visual Studio 2003-2005-2010, IIS Server, SQL Server Tools, SQL Server Integration Services, SQL Server Reporting Services, SAP .Net Connector, Crystal Reports\n…\nsee more",
+      "date1": "Dec 2004 – Sep 2017",
+      "date2": "12 yrs 10 mos",
+      "roles": [
+        {
+          "title": "Senior Software Developer",
+          "date1": "Dec 2004 – Sep 2017",
+          "date2": "12 yrs 10 mos",
+          "location": "Sintra, Portugal"
+        }
+      ]
+    },
+    {
+      "title": "Title\nJunior Software Developer",
+      "location": "Sintra, Portugal",
+      "description": "▪ I was responsible for the development of a Corporate Ticketing tool\n▪ In 2003-2004, my main task was to migrate the Corporate Intranet website from old ASP / COM+ to Microsoft .Net technology. \n\nSoftware used: Microsoft Visual Studio 2003, IIS Server and SQL Server Tools\n…\nsee more",
+      "date1": "Dec 2001 – Nov 2004",
+      "date2": "3 yrs",
+      "roles": [
+        {
+          "title": "Junior Software Developer",
+          "date1": "Dec 2001 – Nov 2004",
+          "date2": "3 yrs",
+          "location": "Sintra, Portugal"
+        }
+      ]
+    },
+    {
+      "title": "Title\nInternship as Software Developer",
+      "location": "Sintra, Portugal",
+      "description": "▪ During this internship I had the opportunity to create/improve the functionalities of the Corporate Intranet website\nI essentially worked with Microsoft technologies: ASP, COM+, IIS Server and SQL Server 2000 DB",
+      "date1": "Aug 2001 – Nov 2001",
+      "date2": "4 mos",
+      "roles": [
+        {
+          "title": "Internship as Software Developer",
+          "date1": "Aug 2001 – Nov 2001",
+          "date2": "4 mos",
+          "location": "Sintra, Portugal"
+        }
+      ]
+    }
+  ],
+  "educations": [
+    {
+      "title": "ESIDP",
+      "degree": "Computer Technology Course with professional internship",
+      "fieldofstudy": "Computer Technology Course with professional internship",
+      "date1": "1998",
+      "date2": "2001"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Visual Studio",
+      "count": "5"
+    },
+    {
+      "title": ".NET Framework",
+      "count": "4"
+    },
+    {
+      "title": "Web Development",
+      "count": "5"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "3",
+      "items": [
+        "English",
+        "Portuguese",
+        "Spanish"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/afrsantos/",
+      "text": "Corporate Application Support Engineer na Panalpina"
+    },
+    {
+      "user": "https://www.linkedin.com/in/cor%C3%A1lia-barbosa-0803531a/",
+      "text": "Corporate IT HR SuccessFactors Consultant na Panalpina"
+    },
+    {
+      "user": "https://www.linkedin.com/in/bruno-s-caldeira/",
+      "text": "Specialist Consultant at Mind Source"
+    },
+    {
+      "user": "https://www.linkedin.com/in/andr%C3%A9-carvalho-61b15610/",
+      "text": "Corporate IT SharePoint Architect"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jorge-alcobia-1b5aaa9/",
+      "text": "BANCO SANTANDER TOTTA"
+    },
+    {
+      "user": "https://www.linkedin.com/in/paulo-neves-078809b/",
+      "text": "Docente EST-IPCB, promotor estilo vida ativo e saudável"
+    },
+    {
+      "user": "https://www.linkedin.com/in/rpborralho/",
+      "text": "Project Manager"
+    },
+    {
+      "user": "https://www.linkedin.com/in/fernandofernandes/",
+      "text": "Senior SuccessFactors / SAP HCM Consultant"
+    },
+    {
+      "user": "https://www.linkedin.com/in/heramos/",
+      "text": "Account Executive na One Creative Agency, pt"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ant%C3%B3nio-jos%C3%A9-rodrigues-3697675/",
+      "text": "Consultor | SIBS"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Nelson Baleizão",
+    "headline": "Application Support Specialist (.Net/SQL and Java) at Panalpina",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQEQpac4qjZq-g/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=ttvdkSSVbKlPV44_AYTgxvIhxCCQNvu_oisYXs9G6II",
+    "location": "Alverca do Ribatejo, Lisbon, Portugal",
+    "connections": "101",
+    "summary": "I have 18 years of experience in enterprise software development with Microsoft .Net technologies\n(VB.Net, C# and ASP.net), Microsoft SQL Server Databases and Java programming.\n\n▪ Creation, development and support of Windows Forms applications using .Net technology\n▪ Creation, development and support of web based applications with client-side, server-side and\ndatabase technologies - ASP.net + SQL databases and Java + DB2 databases\n▪ Good knowledge of cross-browser web implementations\n▪ Development of websites with the MVC architecture model\n▪ Responsive websites development\n▪ Domain of current web technologies (HTML5, CSS3, jQuery, jSON, JavaScript, XML, Web\nServices, Web APIs and JavaScript Frameworks)\n▪ Good knowledge about configuring Web Servers (Microsoft IIS Server, Apache Tomcat and IBM\nWebSphere Application Server)\n▪ Advanced knowledge of using source control tools like Microsoft Team Foundation Studio and\nBitbucket/Git\n▪ Good knowledge of using Jira and Confluence\n▪ Analysis, design and implementation of relational databases (SQL, mySQL and DB2)\n▪ Advanced knowledge in Reporting tools (Crystal Reports and SQL Server Reporting Services)\n▪ Advanced knowledge in Business Intelligence tools (Oracle Hyperion and Microsoft Power BI)\n▪ Advanced knowledge in the administration and development of Web Parts in SharePoint 2010 and\n2013\n▪ Advanced user of Microsoft Office software (Word, Excel, PowerPoint, Visio, Access and OneNote)"
+  }
+}

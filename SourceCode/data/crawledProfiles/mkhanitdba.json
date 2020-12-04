@@ -1,0 +1,165 @@
+{
+  "profileAlternative": {
+    "name": "Muhammad Khan",
+    "headline": "SQL Server Database Administrator at W.W Grainger Corporate",
+    "location": "Lake Forest, Illinois",
+    "connections": "441",
+    "summary": "• A dynamic professional with rich experience in Database Administration and analysis.\n• Experience in MS SQL Server installation, configuration, performance tuning, client/server connectivity, query optimization, back-up/recovery, running Database Consistency Checks using DBCC.\n• Managing of Databases Backup, Restoration and Recovery and proactive administration by configuring Alerts and Event\n• Expert in reporting skills using SQL Queries and Excel understanding translation business requirements.\n• Good experience with SQL (Store Procedures, Sub Queries, Functions, etc.)\n• Thorough knowledge of data warehousing concepts.\n• Extensive experience optimizing DB performance and server resources.\n• Good exposure to development, testing, debugging, implementation, documentation, user training and production support.\n• Quick learner and able to work well in a high-pressure environment.\n• Excellent communication, report creation, presentation, organizational, trouble-shooting and interpersonal skills.\n• Proficient in database administration involving configuration, tuning & migration of databases.\n• Specialized in designing and implementing different types of Replication Models like Snapshot, Merge and Transactional.\n• Possess experience in High availability features – Cluster and Replication and SQL Server 2008 SSIS, SSRS & possess knowledge in Database mirroring, and Log shipping.\n• Maintaining Configuration, System Log, Design, Operational Maintenance Plan documentation for all databases and rendering On Call DBA Support."
+  },
+  "aboutAlternative": {
+    "text": "• A dynamic professional with rich experience in Database Administration and analysis.\n• Experience in MS SQL Server installation, configuration, performance tuning, client/server connectivity, query optimization, back-up/recovery, running Database Consistency Checks using DBCC.\n• Managing of Databases Backup, Restoration and Recovery and proactive administration by configuring Alerts and Event\n• Expert in reporting skills using SQL Queries and Excel understanding translation business requirements.\n• Good experience with SQL (Store Procedures, Sub Queries, Functions, etc.)\n• Thorough knowledge of data warehousing concepts.\n• Extensive experience optimizing DB performance and server resources.\n• Good exposure to development, testing, debugging, implementation, documentation, user training and production support.\n• Quick learner and able to work well in a high-pressure environment.\n• Excellent communication, report creation, presentation, organizational, trouble-shooting and interpersonal skills.\n• Proficient in database administration involving configuration, tuning & migration of databases.\n• Specialized in designing and implementing different types of Replication Models like Snapshot, Merge and Transactional.\n• Possess experience in High availability features – Cluster and Replication and SQL Server 2008 SSIS, SSRS & possess knowledge in Database mirroring, and Log shipping.\n• Maintaining Configuration, System Log, Design, Operational Maintenance Plan documentation for all databases and rendering On Call DBA Support."
+  },
+  "positions": [
+    {
+      "title": "SQL Server Database Administrator",
+      "companyName": "Grainger",
+      "location": "Lake Forest, IL",
+      "description": " Experience managing SQL Server environment with close to three hundred servers.\n Experience with SQL Server versions 2005 through 2014.\n SQL Server 2012 Instances installation and configuration for new Server build.\n Configured/setup Always On four node clusters following the industry best practices.\n Successfully migrated SQL Server 2008 to SQL Server 2012 Always On cluster.\n Implemented SQL Server best practices throughout the SQL environment.\n Configured Avamar Client backup solution on Always On cluster.\n Perform backups, restores, set up different recovery models and configured backups using EMC Avamar.\n Implemented proper drive configurations for SQL Server environment.\n Implemented Change Data capture for Auditing purposes.\n Setup/troubleshooting issues with SQL Server Mirroring.\n Troubleshooting issues with SQL Server installation.\n Provide on Call support for SQL Server environment\n Managed user requests for task, troubleshooting, and new development.\n Setup SQL Mail and configured SQL agent alerts.\n Setup Transnational Replication from scratch.\n Performance Tuned Queries for performance issues.\n\n…\nsee more",
+      "date1": "Aug 2016 – Present",
+      "date2": "3 yrs 4 mos"
+    },
+    {
+      "title": "SQL Server Database Administrator",
+      "companyName": "Komatsu America Corp.",
+      "location": "Rolling Meadows, IL",
+      "description": "• Experience with SQL Server 2005, 2008, 2008R2, 2012 and 2014.\n• SQL Server 2012/2014 Instances installation and configuration for new Server build.\n• SQL Server Cluster installed on Windows 2012.\n• Implemented standard server built checklist to meet best practices and improve performance.\n• Perform backups, restores, set up different recovery models and configured backups using EMC Avamar.\n• Monitored Replication, Mirroring as well as Availability Groups in SQL Server.\n• Set up Always on Availability Clusters in production and test environments.\n• Implemented SQL Sentry Performance Advisor (Monitoring Tool) in the production environment, configured all the alerts for the tool to fit the environment.\n• SSIS development and troubleshooting.\n• Created Server Dashboard, gathering SQL Server metrics using DMV’s and displaying the information in Power BI Dashboard.\n• Performance tuned using native and 3rd party monitoring and troubleshooting tools.\n• Created SSRS reports for SQL Server Inventory.\n• Managed user requests for task, troubleshooting, and new development.\n• Helping, working with teams with different platforms (SAP, Mainframe) to troubleshoot the issues.\n\n…\nsee more",
+      "date1": "Oct 2015 – Aug 2016",
+      "date2": "11 mos"
+    },
+    {
+      "title": "SQL Server Database Administrator",
+      "companyName": "Insurance Auto Auctions",
+      "location": "WestChester, IL",
+      "description": "• On Call 24 hour support, weekly rotation.\n• Experience with SQL server 2005, 2008 and 2012\n• Installed SQL server 2008/2012 named instance, installed service packs (SP1, SP2).\n• SQL Server Cluster installed on Windows 2012\n• Installed and Configured SSRS, moving report server databases from one server to another with proper configuration. Backup and restore encryption keys between servers for SSRS.\n• Importing, exporting and deploying SSIS packages.\n• Migrating windows operating system from Windows Server 2008 to Windows Server 2012.\n• Migrating/Upgrading servers from SQL Server 2008 to SQL Server 2012.\n• Experience with Team Foundation Server, creating user stories, Task etc.\n• Experience with SharePoint Server, database’s, roles, permissions.\n• Experience with Extended events, creating, starting, stopping, aggregating the data.\n• Set up database replication, adding articles to replication, dropping articles, setting up CDC.\n• Experience with database corruption issues\n• Involved in capacity planning, sizing and database growth projections for production servers.\n• Experience with different semi prod environment, Dev, QA, UAT, Staging, production support.\n• Experience with over 35 production servers in infrastructure environment.\n• Experience with database mirroring.\n• Experience with performance tuning, stored procedures, query segments.\n• Assisted with Backup Audits, Disaster Recovery Audits, Security Audits on a quarterly basis to insure proper plans are in place.\n• Installation, Administration and Maintenance of SQL Server Instances. Setup Test, Dev, Staging and Production Environments\n• Create Users and assign permissions based on the level of database access the user would need.\n• Create Linked Servers to SQL Servers and other databases, Access, Informix etc.\n• Design database Backup and Restoration Strategy. Experience with Commvault backup solution\n• Apply Service Packs.\n…\nsee more",
+      "date1": "Sep 2013 – Oct 2015",
+      "date2": "2 yrs 2 mos"
+    },
+    {
+      "title": "SQL Server Database Administrator",
+      "companyName": "MSL",
+      "location": "Chicago, IL",
+      "description": "• Experience with SQL Server 2005 as well as SQL Server 2008.\n• Installed SQL Server and service packs registered SQL Server instances and configured, stopped, and started services.\n• Setup SQL Server database clusters.\n• Ensuring availability/performance of the database.\n• Developed Database Backup scripts and automated this process.\n• Tuned the SQL queries using SQL profiler. Involved in tuning the database.\n• Updating with latest service packs and security patches.\n• Involved in developing stored procedures, triggers for the application.\n• Worked with developers to tune the SQL queries using SQL profiler.\n• Create, modified, scheduled, and troubleshot SQL Server Database Maintenance plans including data backups, integrity check, Optimizations, and Transaction Log backup jobs.\n• Data modeling and design including knowledge of T-SQL.\n• Data backup/ recovery rollback planning and implementation.\n• SQL server 2005 optimization, fine-tuning, and scalability techniques.\n• Experience of T-SQL, and DTS stored procedures.\n• Setup SQL Mail and SQL Agent Mail\n• Ensuring all changes are first tested on acceptance test servers and then applied on Production Servers. Keeping the production and acceptance environments synchronized. Ensuring that all databases are secured with well defined permissions and roles.\n• Creating monitoring and suggestion of Query, triggers, procedure, views, Cursors in Production environment.\n• Database Administration of MS SQL databases for various SQL versions such as 2000 and 2005. Performance tuning and monitoring of databases for optimal performance.\n• Providing systems administration and support services including installation, upgrading, resource allocation, backup, recovery & troubleshooting of systems related problems and maintain availability, performance, integrity and security of systems at PROJECT sites.\n…\nsee more",
+      "date1": "Aug 2012 – Sep 2013",
+      "date2": "1 yr 2 mos"
+    },
+    {
+      "title": "SQL Server DBA",
+      "companyName": "Aon Hewitt",
+      "location": "Lincolnshire, IL",
+      "description": "Field incoming help requests from end users via both telephone and work\norders in a courteous manner.\n• Document all pertinent end user identification information, including name,\ndepartment, contact information, and nature of problem or issue.\n• Build rapport and elicit problem details from help desk customers.\n• Prioritize and schedule problems. Escalate problems (when required) to the\nappropriately experienced technician.\n• Record, track, and document the help desk request problem-solving process,\nincluding all successful and unsuccessful decisions made, and actions taken,\nthrough to the final resolution.\n• Apply diagnostic utilities to aid in troubleshooting.\n• Access software updates, drivers, knowledge bases, and frequently asked\nquestions resources on the Internet to aid in problem resolution.\n• Identify and learn appropriate software and hardware used and supported by\nthe organization.\n• Perform hands-on fixes at the desktop level, including installing and upgrading\nsoftware, implementing file backups, and configuring systems and\napplications.\n• Test fixes to ensure problem has been adequately resolved.\n• Perform post-resolution follow-ups to help requests.\n• Develop help sheets and knowledge base articles for end users.\n• Perform related duties consistent with the scope and intent of the position.\n• Extensive application support experience.\n• Working knowledge of a range of diagnostic utilities.\n• Exceptional written and oral communication skills.\n• Exceptional interpersonal skills, with a focus on rapport-building, listening,\nand questioning skills.\n• Ability to conduct research into a wide range of computing issues as required.\n• Ability to absorb and retain information quickly.\n• Ability to present ideas in user-friendly language.\n• Highly self motivated and directed.\n• Keen attention to detail.\n• Proven analytical and problem-solving abilities.\n• Ability to effectively prioritize and execute tasks in a high-pressure\nenvironment.\n…\nsee more",
+      "date1": "Jul 2009 – Aug 2012",
+      "date2": "3 yrs 2 mos"
+    },
+    {
+      "title": "Support",
+      "companyName": "SPHERION",
+      "location": "Lincolnshire, IL",
+      "description": "• Provide technical assistance for hardware and software operations.\n• Provide technical information and assistance for computer application operations.\n• Perform data entry and information processing operations.\n• Install and maintain data communication hardware and software and support users.\n• Interact with computer hardware and software suppliers to acquire product and pricing information for computers, applications and peripheral equipment.\n…\nsee more",
+      "date1": "Sep 2008 – Jun 2009",
+      "date2": "10 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "University of Karachi",
+      "degree": "Bachelor's of Science",
+      "fieldofstudy": "Computer Science",
+      "date1": "2005",
+      "date2": "2008"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Microsoft SQL Server",
+      "count": "15"
+    },
+    {
+      "title": "Databases",
+      "count": "14"
+    },
+    {
+      "title": "SQL",
+      "count": "13"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "3",
+      "items": [
+        "Hindi",
+        "Panjabi",
+        "Urdu"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "Always On Cluster Build",
+        "SQL Server Migration",
+        "SQL Server Upgrade"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Microsoft SQL Server High Availability"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/bilal-jalali-6116412/",
+      "text": "Infrastructure Engineer at W.W. Grainger, Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/mffarouqi/",
+      "text": "SQL Server DBA"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mukkram-mohammed-70a0a797/",
+      "text": "Sr SQL Server DBA at Aon Corporation (Chicago,IL)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ruthber-peraza-6b93986/",
+      "text": "SQL Server DBA at GE Healthcare"
+    },
+    {
+      "user": "https://www.linkedin.com/in/russ-kinnard-25403a6/",
+      "text": "Data Base Administrator at W.W.Grainger"
+    },
+    {
+      "user": "https://www.linkedin.com/in/lauren-ning-a402a2a/",
+      "text": "Oracle DBA at W.W. Grainger"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sundar-muthuvelu-39a7271/",
+      "text": "Database Manager at Grainger"
+    },
+    {
+      "user": "https://www.linkedin.com/in/adam-dubois-629098b6/",
+      "text": "Director of Customer Experience Strategy at Grainger"
+    },
+    {
+      "user": "https://www.linkedin.com/in/stephanie-wildman-pmp-csm-7a70535/",
+      "text": "IT Project Manager at Insurance Auto Auctions"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ashishbuddha/",
+      "text": "Technology leader"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Muhammad Khan",
+    "headline": "SQL Server Database Administrator at W.W Grainger Corporate",
+    "location": "Lake Forest, Illinois",
+    "connections": "441",
+    "summary": "• A dynamic professional with rich experience in Database Administration and analysis.\n• Experience in MS SQL Server installation, configuration, performance tuning, client/server connectivity, query optimization, back-up/recovery, running Database Consistency Checks using DBCC.\n• Managing of Databases Backup, Restoration and Recovery and proactive administration by configuring Alerts and Event\n• Expert in reporting skills using SQL Queries and Excel understanding translation business requirements.\n• Good experience with SQL (Store Procedures, Sub Queries, Functions, etc.)\n• Thorough knowledge of data warehousing concepts.\n• Extensive experience optimizing DB performance and server resources.\n• Good exposure to development, testing, debugging, implementation, documentation, user training and production support.\n• Quick learner and able to work well in a high-pressure environment.\n• Excellent communication, report creation, presentation, organizational, trouble-shooting and interpersonal skills.\n• Proficient in database administration involving configuration, tuning & migration of databases.\n• Specialized in designing and implementing different types of Replication Models like Snapshot, Merge and Transactional.\n• Possess experience in High availability features – Cluster and Replication and SQL Server 2008 SSIS, SSRS & possess knowledge in Database mirroring, and Log shipping.\n• Maintaining Configuration, System Log, Design, Operational Maintenance Plan documentation for all databases and rendering On Call DBA Support."
+  }
+}

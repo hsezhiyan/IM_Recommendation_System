@@ -1,0 +1,391 @@
+{
+  "profileAlternative": {
+    "name": "Elizeu Ferreira",
+    "headline": "Oracle and SQL Server DBA at ERP Connex",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQETHdXaV4QjKg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=EHvFI6jUtCbONjm_VCan3hRVwvklm9FuuAkZKxddcrA",
+    "location": "Montreal, Canada Area",
+    "connections": "500+",
+    "summary": "Oracle Database Administrator with over twelve years of experience, all of them managing Oracle databases in critical environments. Expertise in Oracle database management in all UNIX flavors as well as Windows versions. Excellent skills on all Oracle database's tools: RMAN, ASM, Oracle RAC, Oracle Enterprise Manager 11g GRID Control, Oracle Enterprise Manager 12c Cloud Control, Oracle Standby Database, Oracle E-Business Suit, etc. Oracle Database Certified Professional 10g, 11g and 12c; Oracle Certified Expert RAC 11gR2 specialist and ITIL Foundation certified. Spoken language: English, French, and Portuguese.\n\nSpecialties: Oracle database 8i, 9i, 10g, 11g, and 12c, Oracle RAC 9i, 10g, 11g, and 12c, SQL Server 2008, 2012, 2014, and Oracle E-Business Suite installation, management and troubleshooting"
+  },
+  "aboutAlternative": {
+    "text": "Oracle Database Administrator with over twelve years of experience, all of them managing Oracle databases in critical environments. Expertise in Oracle database management in all UNIX flavors as well as Windows versions. Excellent skills on all Oracle database's tools: RMAN, ASM, Oracle RAC, Oracle Enterprise Manager 11g GRID Control, Oracle Enterprise Manager 12c Cloud Control, Oracle Standby Database, Oracle E-Business Suit, etc. Oracle Database Certified Professional 10g, 11g and 12c; Oracle Certified Expert RAC 11gR2 specialist and ITIL Foundation certified. Spoken language: English, French, and Portuguese.\n\nSpecialties: Oracle database 8i, 9i, 10g, 11g, and 12c, Oracle RAC 9i, 10g, 11g, and 12c, SQL Server 2008, 2012, 2014, and Oracle E-Business Suite installation, management and troubleshooting"
+  },
+  "positions": [
+    {
+      "title": "Oracle and SQL Server DBA",
+      "companyName": "Erp Connex",
+      "location": "Laval Area, Montreal",
+      "description": "At ERP Connex, I am responsible for managing all Oracle and SQL Server databases and providing support for the teams that work with Oracle PeopleSoft and UNIT4 Business World ERPs. As a Senior DBA, I am responsible for performing all activities related with all Oracle and SQL Server databases to guarantee the availability and evolution of the applications utilized by our customers.\n\nResponsibilities:\n\n• Data migration using SSIS packages (file to database and database to file)\n• Report development with SSRS\n• Oracle database 8i migration to SQL Server 2014 using SSIS packages (ETL)\n• Oracle database 11g and 12c installation and management on Linux and Solaris\n• SQL Server 2012, 2014, and 2016 management and installation\n• UNIT 4 Business World refresh (database and application)\n• Oracle RAC 11gR2 management and patching\n• Write technical documents\n• Oracle PeopleSoft conversion to Unicode using Data Mover and Datapump\n• Oracle and SQL Server database cloning using RMAN, Datapump, and SSMS (GUI and T-SQL)\n• Database backup and recover implementation and management\n• Performance troubleshooting using OEM and the performance reports (AWR, ADDM, ASH, etc.)\n• Oracle database upgrade from 11g to 12c and conversion from non-CDB to PDB (Oracle Multitenant)\n• Maintenance task automation using OEM 12c jobs\n…\nsee more",
+      "date1": "Aug 2016 – Present",
+      "date2": "3 yrs 4 mos"
+    },
+    {
+      "title": "Senior Oracle DBA",
+      "companyName": "Desjardins",
+      "location": "Montreal, Canada Area",
+      "description": "At Desjardins, I worked in the production team. Our goal was to provide support to the application teams and implement all modification that could keep the databases available. Our team provided 24/7 on call support to more than 1000 Oracle databases and was responsible for working with the other teams in the implementation of application and infrastructure changes. Desjardins has a unique environment which requires a high problem-solving skill level and a great capability to work under pressure. In exchange, it offers a variety of interesting projects which allows all employees to keep improving their skill and responsibilities.\n\nResponsibilities:\n\n• Oracle RAC 11gR2 and 12c installation, management, patching, and upgrade\n• Performance troubleshooting using advisors, performance reports (AWR, ADDM, ASH, etc.), and OEM Cloud Control\n• Database and cluster patching (PSU, CPU, BUG Fix, etc.)\n• Provide first and second level support to SQL Server databases\n• Database backup and recovery using RMAN\n• Configure the Oracle Data Guard 10g, 11g, and 12c\n• Oracle database 10g, 11g, and 12c installation, management, migration, and upgrade\n• Create and manage Oracle databases running on the Cloud (Oracle Multitenant)\n• Write technical documents used by the DBA team\n• Implement and manage database features like Partitioning, FGA, ILM, etc.\n…\nsee more",
+      "date1": "Aug 2016 – Aug 2017",
+      "date2": "1 yr 1 mo"
+    },
+    {
+      "title": "Senior Oracle DBA",
+      "companyName": "Scotiabank",
+      "location": "Toronto, Canada Area",
+      "description": "At Scotiabank, I was a member of the team responsible for providing 24/7 support to more than 1700 Oracle databases. Our team had the goal of guaranteeing the availability, security, and integrity of all information that our customers need to be able to perform their bank transactions. In order to keep offering a great service, the bank invests heavily in technology which creates a great environment with lots of challenges and good opportunities to learn about new products and features available.\n\nResponsibilities:\n\n• Oracle 12c POC documentation and implementation for Oracle database, Oracle cluster (RAC), and Oracle Data Guard technologies\n• Upgrade of 11gR2 databases to 12cR1 version on Linux and Solaris\n• Oracle Physical Standby database 12cR1 configuration with Oracle Data Guard Broker\n• Oracle RAC upgrade from 11gR2 to 12cR1 on Linux and Solaris\n• Databases and cluster patching (PSU, CPU, etc.)\n• Oracle database administration and performance tuning troubleshooting and resolution\n• Oracle database backup, recover, and refresh using RMAN\n• Oracle database and Oracle RAC deployment and administration using OEM 11g and 12c\n…\nsee more",
+      "date1": "Jan 2015 – Aug 2016",
+      "date2": "1 yr 8 mos"
+    },
+    {
+      "title": "Oracle Applications DBA",
+      "companyName": "Fujitsu Canada",
+      "description": "At Fujitsu, I worked as an Oracle DBA for the gouvernement of Québec and there, I was member of the team that was responsible for supporting more than 200 environnements. Our team offered a 24X7 support to all environments and we were also responsible for providing administration and cloning services to more than 150 Oracle E-Business Suite and Oracle Universal Content Management environments.\n\nResponsibilities:\n\n• Oracle database 10g and 11g installation and management, including Oracle RAC11gR2 and Oracle Data Guard\n• Oracle database backup and recovery using Recovery Manager (RMAN) and Oracle Flashback technologies\n• Oracle Real Application Cluster 11gR2 installation and migration on Linux and Solaris\n• Oracle Data Guard 10g and 11g configuration and administration on AIX, Solaris, Linux, and Microsoft Windows\n• Oracle database performance tuning troubleshooting (AWR, ADDM, SQL Plan Management, SQL Tuning Advisor, SQL Access Advisor, etc.)\n…\nsee more",
+      "date1": "Sep 2012 – Jan 2015",
+      "date2": "2 yrs 5 mos"
+    },
+    {
+      "title": "Senior Oracle DBA",
+      "companyName": "UOLDIVEO",
+      "description": "At UOLDIVEO I was part of the team responsible for providing Oracle support, implementation and backup/recovery to many customers in Brazil, including Ambev, DANONE, PEPSICO, and Carrefour. Working as a Senior Oracle DBA, I had the opportunity of working on many projects in cooperation with our customers and sharing the skills acquired with our internal team.\n\nResponsibilities:\n\n• Administration of critical databases (Single instance, Oracle RAC 10g and 11gR2, Data Guard, Oracle ASM, etc.)\n• Oracle database 9i migration to 10g and 11g versions on Linux, Solaris, and AIX\n• Performance tuning troubleshooting and correction\n• Oracle Data Guard 11g with Phisycal Standby database configuration and management\n• Oracle RAC 10g and Oracle RAC 11gR2 installation and management on Windows, Solaris and Linux\n• Backup and recovery of Oracle databases using RMAN\n…\nsee more",
+      "date1": "Jun 2011 – Aug 2012",
+      "date2": "1 yr 3 mos"
+    },
+    {
+      "title": "Senior Database Analyst",
+      "companyName": "Vivo",
+      "description": "At VIVO, I was part of the team that was responsible for providing support to the databases in the production, test and development environments. Our team was responsible for guaranteeing the availability and functioning of more than 3000 environments. We were also responsible for applying all the changes needed to follow the applications' evolution and availability (database installation, upgrade, backup/recovery, object creation/modification, etc). VIVO has one of the Brazil's most diversified IT environments and it has many critical environments which are supported by Oracle, SQL Server, DB2 and Teradata databases.\n\nResponsibilities:\n\n• Administration of critical databases (Oracle RAC 10g and 11gR2, Data Guard, Oracle ASM, etc.)\n• Oracle RAC 10g and 11gR2 installation, upgrade and management\n• Provide support to the development team\n• Oracle database backup and recovery using RMAN, NetBackup, and Flashbackup Technologies\n• Microsoft SQL Server, and MySQL database administration\n• Database and cluster patching (CPU, PSU, etc.)\n…\nsee more",
+      "date1": "Jun 2010 – Apr 2011",
+      "date2": "11 mos"
+    },
+    {
+      "title": "Oracle DBA",
+      "companyName": "Stefanini IT Solutions",
+      "description": "At Stefanini I was part of the team responsible for providing support for the Telefonica's customers. Our team was responsible for solving many different problem and assuring the availability of more than 900 databases wich belong to various customers including Editora Abril, McDonald's, Telefonica, and others.\n\nResponsibilities:\n\n• Oracle database 8i, 9i, 10g and 11g design, installation, and management\n• Microsoft SQL Server, IBM DB2, and MySQL database administration\n• Oracle RAC 11gR2 installation, upgrade and management on Windows, Solaris and Linux\n• Database and query performance tuning\n• Oracle database backup and recovery using RMAN and NetBackup\n• Database and cluster patching (CPU, PSU, etc.)\n…\nsee more",
+      "date1": "Aug 2008 – Aug 2010",
+      "date2": "2 yrs 1 mo"
+    },
+    {
+      "title": "Oracle DBA",
+      "companyName": "Vivo",
+      "description": "At VIVO, I was part of the team responsible for managing and providing the availability of more than 1500 databases. VIVO has one of the Brazil's most diversified IT environments and that offers a big variety of challenges and possibilities for those who want to work with the latest technologies available in the market.\n\nResponsibilities:\n\n• Oracle database 8i, 9i, 10g and 11g management\n• Database and query performance tuning\n• Oracle database backup and recovery using RMAN, NetBackup, and Storage copy\n• Oracle RAC 11gR2 installation, upgrade and management on Solaris and Linux\n• Troubleshooting of database related problems\n• 24x7 support to the databases\n• Offer support the development team\n…\nsee more",
+      "date1": "Aug 2007 – Aug 2008",
+      "date2": "1 yr 1 mo"
+    },
+    {
+      "title": "Oracle DBA",
+      "companyName": "G&P - TOK&STOK",
+      "description": "I worked for G&P as an Oracle DBA at the TOK&STOK customer. TOK&STOK has a very diversified environment. Therefore, it's possible to live interesting experiences and learn a lot about problem analysis and resolution. At TOK&STOK, I was responsible for managing, installing and migrating Oracle databases in Linux, Windows and AIX operating systems, including an Oracle RAC running on a Windows platform with ASM and Oracle Data Guard.\n\nResponsibilities:\n\n• Oracle database backup and recovery using Recover Manager (RMAN)\n• Database cloning using RMAN and Data Pump\n• Oracle database 9i and 10g design, installation and management\n• Provide support to the development team\n• Oracle RAC 10g migration and management\n• Analyze and run scripts in the test and production environments\n• Database user and privilege management\n…\nsee more",
+      "date1": "Jan 2006 – Jul 2007",
+      "date2": "1 yr 7 mos"
+    },
+    {
+      "title": "IT Analyst",
+      "companyName": "CADPlus Informatica",
+      "description": "As an IT Analyst at CADPlus I was responsible for installing, migrating and recovering Windows and Novel Netware servers, implementing network infrastructure and providing on-site and remote support to customers.\n\nResponsibilities:\n\n• Windows Server and Novell NetWare migration and management\n• User privilege administration using Microsoft Active Directory\n• Linux server installation and management\n• Provide support to computers and printers\n• Network project and implementation (routers, switch, cabling, etc.)\n…\nsee more",
+      "date1": "Jan 2005 – Dec 2005",
+      "date2": "12 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Centro Universitário FIEO",
+      "degree": "Computer Engineering",
+      "fieldofstudy": "Computing",
+      "date1": "2003",
+      "date2": "2007"
+    },
+    {
+      "title": "2007 UNIFIEO - Centro Universitário FIEO, Osasco",
+      "degree": "Bachelor's Degree",
+      "fieldofstudy": "Computer Engineering",
+      "date1": "2003",
+      "date2": "2007"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Oracle",
+      "count": "65"
+    },
+    {
+      "title": "Oracle RAC",
+      "count": "54"
+    },
+    {
+      "title": "ITIL",
+      "count": "46"
+    },
+    {
+      "title": "Performance Tuning",
+      "count": "17"
+    },
+    {
+      "title": "Cluster",
+      "count": "11"
+    },
+    {
+      "title": "Shell Scripting",
+      "count": "9"
+    },
+    {
+      "title": "Database Administration",
+      "count": "8"
+    },
+    {
+      "title": "High Availability",
+      "count": "7"
+    },
+    {
+      "title": "Data Migration",
+      "count": "7"
+    },
+    {
+      "title": "Disaster Recovery",
+      "count": "5"
+    },
+    {
+      "title": "SOA",
+      "count": "4"
+    },
+    {
+      "title": "IT Management",
+      "count": "3"
+    },
+    {
+      "title": "Storage",
+      "count": "2"
+    },
+    {
+      "title": "ETL",
+      "count": "2"
+    },
+    {
+      "title": "Data Modeling",
+      "count": "2"
+    },
+    {
+      "title": "Data Warehousing",
+      "count": "1"
+    },
+    {
+      "title": "Solution Architecture",
+      "count": "1"
+    },
+    {
+      "title": "SAN",
+      "count": "1"
+    },
+    {
+      "title": "Database Design",
+      "count": "1"
+    },
+    {
+      "title": "Solaris",
+      "count": "34"
+    },
+    {
+      "title": "Unix",
+      "count": "34"
+    },
+    {
+      "title": "Databases",
+      "count": "30"
+    },
+    {
+      "title": "Linux",
+      "count": "26"
+    },
+    {
+      "title": "Operating Systems",
+      "count": "25"
+    },
+    {
+      "title": "AIX",
+      "count": "18"
+    },
+    {
+      "title": "SQL",
+      "count": "14"
+    },
+    {
+      "title": "Windows Server",
+      "count": "10"
+    },
+    {
+      "title": "Microsoft SQL Server",
+      "count": "10"
+    },
+    {
+      "title": "Oracle E-Business Suite",
+      "count": "10"
+    },
+    {
+      "title": "PL/SQL",
+      "count": "9"
+    },
+    {
+      "title": "Red Hat Linux",
+      "count": "8"
+    },
+    {
+      "title": "Oracle Applications",
+      "count": "6"
+    },
+    {
+      "title": "DB2",
+      "count": "5"
+    },
+    {
+      "title": "Oracle SQL",
+      "count": "4"
+    },
+    {
+      "title": "Windows",
+      "count": "4"
+    },
+    {
+      "title": "IIS",
+      "count": "4"
+    },
+    {
+      "title": "Weblogic",
+      "count": "2"
+    },
+    {
+      "title": "SQL Server",
+      "count": "1"
+    },
+    {
+      "title": "RMAN",
+      "count": "38"
+    },
+    {
+      "title": "SQL Tuning",
+      "count": "21"
+    },
+    {
+      "title": "Data Guard",
+      "count": "15"
+    },
+    {
+      "title": "HP-UX",
+      "count": "11"
+    },
+    {
+      "title": "Oracle ASM",
+      "count": "11"
+    },
+    {
+      "title": "Oracle Enterprise Manager",
+      "count": "10"
+    },
+    {
+      "title": "Oracle Application Server",
+      "count": "4"
+    },
+    {
+      "title": "ASM",
+      "count": "3"
+    },
+    {
+      "title": "OCP",
+      "count": "3"
+    },
+    {
+      "title": "Oracle Administration",
+      "count": "2"
+    },
+    {
+      "title": "Netbackup",
+      "count": "2"
+    },
+    {
+      "title": "Unix Shell Scripting",
+      "count": "3"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "15",
+    "receivedCount": "7",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/davidsonalvesti/",
+        "text": "Elizeu é um profissional extremamente competente, com sólidos conhecimentos técnicos, possui maturidade na gestão de processos ITIL, apresenta soluções definitivas ao cliente, tem habilidade no relacionamento interpessoal, é um profissional no qual todos querem ter ao seu lado, compartilha conhecimento e busca constante crescimento em sua carreira, recomendo este profissional.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/teixeiraalex/",
+        "text": "Eliseu, É uma otima pessoa, muito bem relacionado, profissional altamente competente, responsável e de fácil acesso. Alex"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/filipeuehara/",
+        "text": "Filipe is one of the best professionals with whom I had the pleasure of working with. He is always available to support his team and he always finds a smooth way to overcome the problems and challenges that are presented to him."
+      },
+      {
+        "user": "https://www.linkedin.com/in/edsonbrferreira/",
+        "text": "Edson is a client oriented professional who always delivers a high quality job. He has very gook skills on team and conflict management what make him a key resource when dealing with daily problems. I do recomend him."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "3",
+      "items": [
+        "English",
+        "French",
+        "Portuguese"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/hank-du-7a92626/",
+      "text": "Manager DBA at Scotia Bank"
+    },
+    {
+      "user": "https://www.linkedin.com/in/melinda-lee-aa015585/",
+      "text": "Manager, Oracle Database Administration, Scotiabank of Canada"
+    },
+    {
+      "user": "https://www.linkedin.com/in/isabelle-thibeault-088183b3/",
+      "text": "Administrateur de base de données (DBA)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/octavian-dumitriu-7998754/",
+      "text": "Architecte organique / Développeur senior - spécialisé dans les technologies Java, Php, Oracle ... et plus encore"
+    },
+    {
+      "user": "https://www.linkedin.com/in/hong-guo-75ba208/",
+      "text": "Scotiabank - Senior Database Administrator"
+    },
+    {
+      "user": "https://www.linkedin.com/in/daviddg86/",
+      "text": "Technicien support niveau 2-3 at E-SPACE - Plateforme d'affaires infonuagique"
+    },
+    {
+      "user": "https://www.linkedin.com/in/vincent-tortajada-910b738b/",
+      "text": "Software Architect chez TEKsystems"
+    },
+    {
+      "user": "https://www.linkedin.com/in/vincent-de-grandpre/",
+      "text": "Concepteur, développeur, instructeur et expert informaticien"
+    },
+    {
+      "user": "https://www.linkedin.com/in/martin-langlois-08148716/",
+      "text": "DBA Oracle E-Business 12.2.6 chez PRODBA Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/fabio-kimura-10125840/",
+      "text": "Analista de sistemas da empresa Itaú Unibanco"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Elizeu Ferreira",
+    "headline": "Oracle and SQL Server DBA at ERP Connex",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQETHdXaV4QjKg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=EHvFI6jUtCbONjm_VCan3hRVwvklm9FuuAkZKxddcrA",
+    "location": "Montreal, Canada Area",
+    "connections": "500+",
+    "summary": "Oracle Database Administrator with over twelve years of experience, all of them managing Oracle databases in critical environments. Expertise in Oracle database management in all UNIX flavors as well as Windows versions. Excellent skills on all Oracle database's tools: RMAN, ASM, Oracle RAC, Oracle Enterprise Manager 11g GRID Control, Oracle Enterprise Manager 12c Cloud Control, Oracle Standby Database, Oracle E-Business Suit, etc. Oracle Database Certified Professional 10g, 11g and 12c; Oracle Certified Expert RAC 11gR2 specialist and ITIL Foundation certified. Spoken language: English, French, and Portuguese.\n\nSpecialties: Oracle database 8i, 9i, 10g, 11g, and 12c, Oracle RAC 9i, 10g, 11g, and 12c, SQL Server 2008, 2012, 2014, and Oracle E-Business Suite installation, management and troubleshooting"
+  }
+}

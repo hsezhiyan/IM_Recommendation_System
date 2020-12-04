@@ -1,0 +1,264 @@
+{
+  "profileAlternative": {
+    "name": "Edson Yanaga",
+    "headline": "Java Champion, Microsoft MVP, TDC Rockstar, Developer, Professor, and Enabler",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQF16092Thi-7Q/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=luBWo8hswjy1niNnAnomweWycTQ2icK1beYzuvnZneY",
+    "location": "Raleigh-Durham, North Carolina Area",
+    "connections": "500+",
+    "summary": "Java Champion & Microsoft MVP. Software Craftsman. Empowering developers all around the world with Red Hat tools & expertise to allow better software delivered faster and safely."
+  },
+  "aboutAlternative": {
+    "text": "Java Champion & Microsoft MVP. Software Craftsman. Empowering developers all around the world with Red Hat tools & expertise to allow better software delivered faster and safely."
+  },
+  "positions": [
+    {
+      "title": "Director of Developer Experience",
+      "companyName": "Red Hat",
+      "location": "Raleigh-Durham, North Carolina Area",
+      "description": "Helping create the vision for Red Hat's tools and technology and inspiring professional software and systems engineers to solve problems. Leading Developer Experience strategies across multiple product teams.\n\nResponsibilities:\n• Creating technical content\n• Speaking at conferences\n• Empowering engineers by delivering hands-on workshops\n• Building partnerships with individuals, companies, and organizations\n• Connecting with other engineers to identify how Red Hat might help them to be even more successful\n• Gathering product feedback that will inform engineering decision-making\n• Supporting engineers on forums, social media, meet-ups and other places\n…\nsee more",
+      "date1": "Feb 2016 – Present",
+      "date2": "3 yrs 10 mos"
+    },
+    {
+      "title": "Principal Consultant",
+      "companyName": "Ínsula Tecnologia",
+      "description": "Software consultant with a particular taste for difficult projects.\n• Helped teams to craft software architectures for highly scalable systems on the cloud\n• Implemented and empowered teams with fully automated software deployment pipelines for Continuous Delivery/Continuous Deployment scenarios.",
+      "date1": "Mar 2004 – Jan 2016",
+      "date2": "11 yrs 11 mos"
+    },
+    {
+      "title": "Technical Lead",
+      "companyName": "Produtec",
+      "description": "Developing new applications targeting large-scale cloud computing environments.",
+      "date1": "Oct 2012 – Dec 2015",
+      "date2": "3 yrs 3 mos"
+    },
+    {
+      "title": "Unicesumar",
+      "description": "Graduate Coordinator and Professor of OO and Java technologies course.",
+      "date1": "Mar 2004 – Nov 2014",
+      "date2": "10 yrs 9 mos",
+      "roles": [
+        {
+          "title": "Graduate Professor",
+          "date1": "Mar 2004 – Nov 2014",
+          "date2": "10 yrs 9 mos"
+        },
+        {
+          "title": "Undergraduate Professor",
+          "date1": "Jul 2002 – Dec 2009",
+          "date2": "7 yrs 6 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nGraduate Professor",
+      "description": "Graduate Coordinator and Professor of OO and Java technologies course.",
+      "date1": "Mar 2004 – Nov 2014",
+      "date2": "10 yrs 9 mos",
+      "roles": [
+        {
+          "title": "Graduate Professor",
+          "date1": "Mar 2004 – Nov 2014",
+          "date2": "10 yrs 9 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nUndergraduate Professor",
+      "description": "Professor of Computer Networks and Network Management",
+      "date1": "Jul 2002 – Dec 2009",
+      "date2": "7 yrs 6 mos",
+      "roles": [
+        {
+          "title": "Undergraduate Professor",
+          "date1": "Jul 2002 – Dec 2009",
+          "date2": "7 yrs 6 mos"
+        }
+      ]
+    },
+    {
+      "title": "GlobalCode Instructor",
+      "companyName": "YMDA | Yamada Inovação",
+      "description": "Instructor of Academia do Programador, Academia Java and Academia Web courses.",
+      "date1": "Sep 2012 – Dec 2013",
+      "date2": "1 yr 4 mos"
+    },
+    {
+      "title": "Undergraduate Professor",
+      "companyName": "Faculdade de Apucarana",
+      "description": "Professor of Computer Networks and Computer Architectures",
+      "date1": "Jul 2002 – Feb 2005",
+      "date2": "2 yrs 8 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Federal University of Technology - Parana",
+      "degree": "Master’s Degree",
+      "fieldofstudy": "Eletrical Engineering and Industrial Informatics",
+      "date1": "2000",
+      "date2": "2002"
+    },
+    {
+      "title": "Universidade Estadual de Maringá",
+      "degree": "Bachelor’s Degree",
+      "fieldofstudy": "Computer Science",
+      "date1": "1996",
+      "date2": "1999"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Java",
+      "count": "65"
+    },
+    {
+      "title": "Linux",
+      "count": "63"
+    },
+    {
+      "title": "Software Development",
+      "count": "56"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "11",
+    "receivedCount": "7",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/leandro-jacomete-a1110828/",
+        "text": ""
+      },
+      {
+        "user": "https://www.linkedin.com/in/lucasmogari/",
+        "text": "Edson is an excellent professional and professor! He has great experience at software development and network administration. He is always updated with the latest technologies and prepared to work with any kind of project. One of the best person I've worked with."
+      },
+      {
+        "user": "https://www.linkedin.com/in/marcos-oracle/",
+        "text": "Edson é um profissional competente, tem boa visão de negócios, preza pela ética, esta sempre atualizado com as tendências de mercado. Especialista em soluções Web, Java. Como consultor de TI, esteve sempre disponível nos auxiliando no suporte a incidentes em sistemas online de grande demanda e criticidade. Tem colaborado enormemente no fomento e disseminação de conhecimentos na comunidade tecnológica de Maringá e Região.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/eduardo-rebola-danielli-2b6a718/",
+        "text": "Edson is one of the most brilliant developers I've ever worked with. Never afraid to try new technologies, he's always reading and experimenting upfront to tell you what is worth or not. An active blogger, never leaves a jug question without answer."
+      },
+      {
+        "user": "https://www.linkedin.com/in/wanderleyribeiro/",
+        "text": "I met Edson Yanaga on the first year of my high school degree. He made the difference through the way that teachers normally do in there. Always requesting more than we where expected to give. He demanded us to grow and start researching more. A person with great teaching capabilities and nice humor sense. Of course today when I´m teaching I always use some of his tips.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/sergioyamada/",
+        "text": "Profissional de primeira grandeza. Competente e responsável. Uma sumidade quando o assunto é JAVA e uma segurança muito grande quando comprometido com um projeto sob a sua responsabilidade. Comprometido com o cliente e com as entregas dos projetos. Recomendo!!!"
+      },
+      {
+        "user": "https://www.linkedin.com/in/gyowanny/",
+        "text": "Edson is a committed IT professional with solid knowledge in java and other technologies. IT is his life and everybody that work with him feel the passion he brings to all the projects that he works."
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/findjuliana/",
+        "text": "I had the pleasure of working with Juliana when I visited Singapore for Voxxed Singapore 2017. She surprised me with her organization and initiative, by doing not only what was asked from her, but by assembling an awesome experience for Red Hat at the event. It's not an overstatement to say that this was probably one of the best organized events I've ever spoke at. I definitely hope to be able to work with her again in other opportunities."
+      },
+      {
+        "user": "https://www.linkedin.com/in/paulocrestani/",
+        "text": "Paulo foi meu colega de graduação, e desde essa época já reconhecia nele uma pessoa séria, dedicada e competente. Infelizmente por esses grupinhos que se formam nas turmas da universidade nunca fomos tão próximos quanto gostaria - um leve arrependimento que sou obrigado a carregar.\r\n\r\nNum encontro em Maringá proporcionado pelo acaso conversamos um pouco, e como a turma de pós-graduação em Desenvolvimento Orientado a Objetos em Java do CESUMAR estava desfalcada de um professor de JavaEE não tive dúvida em convidá-lo para ministrar esta disciplina.\r\n\r\nEmbora tenhamos nos afastado durante muito tempo após a formatura, o feedback proporcionado pelas redes sociais corrobora a reputação de excelente profissional que o Paulo se tornou. Como professor da disciplina de pós-graduação não foi diferente, e o tenho em alta estima também como professor pelo ótimo trabalho desenvolvido como docente. Espero que em outras oportunidades possamos voltar a trabalhar juntos, quem sabe da próxima vez de modo ainda mais próximo."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "6",
+      "items": [
+        "Migrating to Microservice Databases",
+        "More Ideas to Boost Your Developer Career",
+        "More Ideas to Boost Your Developer Career",
+        "Three Steps to Improve Your Career",
+        "7 Open Source Tools for Java Deployment",
+        "Banco de Dados"
+      ]
+    },
+    {
+      "count": "5",
+      "items": [
+        "English",
+        "French",
+        "Japanese",
+        "Portuguese",
+        "Spanish"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "TDC Rockstar",
+        "Microsoft MVP",
+        "Java Champion"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "SouJava",
+        "Redfoot JUG"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Especificação e implantação de Sistema de Liberações Médicas online via internet"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/jamesgosling/",
+      "text": "Software Engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/martin-fowler-aa14307/",
+      "text": "Principal Software Engineer at Bongo"
+    },
+    {
+      "user": "https://www.linkedin.com/in/linustorvalds/",
+      "text": "Fellow at Linux Foundation"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ederign/",
+      "text": "Java Champion, Tech Lead at Red Hat and QConSP Conference Chair"
+    },
+    {
+      "user": "https://www.linkedin.com/in/loiane/",
+      "text": "Software Developer• Published Author •Speaker • Google Developer Expert • Microsoft MVP •Oracle Groundbreaker Ambassador"
+    },
+    {
+      "user": "https://www.linkedin.com/in/javareza/",
+      "text": "Senior Java Technologist, Author, Speaker"
+    },
+    {
+      "user": "https://www.linkedin.com/in/martin-fowler-9a2a6413/",
+      "text": "Developer at Learn on Demand Systems"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mraible/",
+      "text": "Web Developer, Java Champion, and Developer Advocate at Okta"
+    },
+    {
+      "user": "https://www.linkedin.com/in/burrsutter/",
+      "text": "Director, Developer Experience at Red Hat"
+    },
+    {
+      "user": "https://www.linkedin.com/in/andrea-carmona-24a10036/",
+      "text": "Project Coordinator- Technical at Red Hat"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Edson Yanaga",
+    "headline": "Java Champion, Microsoft MVP, TDC Rockstar, Developer, Professor, and Enabler",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQF16092Thi-7Q/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=luBWo8hswjy1niNnAnomweWycTQ2icK1beYzuvnZneY",
+    "location": "Raleigh-Durham, North Carolina Area",
+    "connections": "500+",
+    "summary": "Java Champion & Microsoft MVP. Software Craftsman. Empowering developers all around the world with Red Hat tools & expertise to allow better software delivered faster and safely."
+  }
+}

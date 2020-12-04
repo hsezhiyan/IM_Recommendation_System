@@ -1,0 +1,68 @@
+
+{
+    "_id" : "5e0f68e0259b930bda622e34",
+    "ideaId" : 4,
+    "problemId" : "5df7a10d02156c2d46402f62",
+    "programId" : "5df401b402156c2d46402b79",
+    "status" : "5df401b402156c2d46402c36",
+    "owner" : "5df7e52ae8287f467d809d7c",
+    "body" : {
+        "lastModified" : "04-Jan-2020 12:16 AM",
+        "createdAt" : "04-Jan-2020 12:16 AM",
+        "clientTimeZone" : "480",
+        "LinkedproblemId" : "5df7a10d02156c2d46402f62",
+        "problemId" : "",
+        "Challenge" : "Electric Cars/Impact on Convenience Stores",
+        "Title" : "Crowdsourcing product ideas to be manufactured",
+        "Description" : "Quirky members have a wide range of special skills, so you can collaborate with those that complement your expertise. Thus, the ready product is developed by the community.\r\n\r\nThe best products on the platform are chosen by Quirky for manufacturing and sold at the Quirky store. The process at this point is financed by Quirky, so having your own company and resources isn’t crucial for your product’s success.\r\n\r\nBut why would people share their expertise and develop ideas that are then manufactured and sold by Quirky?\r\n\r\nYou can get your product idea out there with much less effort. If you  want to make your idea a reality, Quirky offers a simple way to do so.\r\n\r\nYou can learn and get to use your talent to acquire more experience to put to your CV, and perhaps be one step closer to your dream job.\r\n\r\nIf the product ends up being a success you can earn money from being part of developing it. If the idea is originally yours, you may get royalties depending upon its success. This is what makes Quirky an active platform with an active community.\r\n\r\nPractical takeaways \r\nThe practical teaching from the Quirky example is that there is a way to get people ideating for you even for free.\r\n\r\nBy assessing problems that many have to deal with or by creating challenging tasks, people get motivated to collaborate with you. To cultivate this collaboration and create an active community, an appealing online presence will go a long way to make sure people find you.\r\n\r\nEven though you might recognize Samsung from several plagiarism case convictions, Samsung has also been qualified as one of the most innovative big companies today. Of course, Samsung has a major internal R&D unit, but the company is also a proud open innovation advocate and does open innovation collaboration especially with startups.\r\n\r\nThe distinctive part of Samsung’s open innovation collaboration is that Samsung divides it to 4 categories.\r\n\r\nThe four categories are even described as being the \"four legs of the open innovation activities\" at Samsung.\r\n\r\nThe 4 categories of collaboration:\r\n\r\nPartnerships\r\nVentures\r\nAccelerators\r\nAcquisitions\r\nPartnerships are essentially collaboration between companies, such as startups in Silicon Valley. Typically partnerships aim for new features or integrations within Samsung’s existing products. \r\n\r\nVentures can be described as investments into early stage startups. These investments can bring revenue in case of exits, but also provide access to new technologies that Samsung can learn and benefit from. For example, Samsung has invested in Mobeam, a mobile payment company.\r\n\r\nAccelerators provide startups with an innovative and empowering environment to create new things. Samsung offers these startups an initial investment, facilities to work in, as well as some resources from their vast pool. The idea is that the products stemming from the internal startups could become a part of Samsung’s product portfolio over time or just serve as learning experiences for the company.\r\n\r\nAcquisitions aim to bring in startups working on innovations that are at the core of Samsung's strategic areas of the future. These acquisitions often remain independent units and can even join the Accelerator program.\r\n\r\n\r\nCollaboration with Startups\r\n\r\nAs an example of Samsung’s collaboration with startups, Samsung has acquired an IoT company called SmartThings to gain an IoT platform without having to spend the money, and time on R&D.\r\n\r\nSamsung sees potential in the IoT industry and views it as a strategically important part of their future business and thus an area where they want to be forerunner.\r\n\r\nSmartThings still continues to operate as an independent startup fueled with the resources of a big company. With the investment, potential and home electronics of Samsung, SmartThings can really be developed into an integral part of Samsung products, by creating new IoT possibilities for homes.",
+        "problemStatement" : "You might have heard about Quirky, a community-led invention platform. The concept behind Quirky is that you can put your product idea up on Quirky and others within the Quirky community can comment and contribute to your idea.\r\n\r\nIf the idea is good and gains traction, it can be developed further by people on Quirky. ",
+        "_csrf" : "lI2ErqNy-20-Wnu6ZiGnc2IKHA8Whm3uUbow",
+        "skills" : "Help Desk",
+        "teamMembers" : "Sample1 Data",
+        "tags" : "Health",
+        "category" : "Marketplace"
+    },
+    "lastModified" : "2020-01-03T19:00:51.628Z",
+    "overallImpactScore" : 0,
+    "overallEffectiveScore" : 23,
+    "sixthonscore" : [ 
+        {
+            "totalEffectiveScore" : 23,
+            "scoreowner" : "5df7e52ae8287f467d809d7c",
+            "scores" : {
+                "Score0" : 41,
+                "EffectiveScore0" : 8,
+                "Score1" : 55,
+                "EffectiveScore1" : 6,
+                "Score2" : 93,
+                "EffectiveScore2" : 9
+            },
+            "_id" : "5e0f9c39259b930bda622f87"
+        }
+    ],
+    "impact_score" : 0,
+    "effort_score" : 0,
+    "workFlowLogs" : [ 
+        "5e0f8c36259b930bda622f7f", 
+        "5e0f8c38259b930bda622f80", 
+        "5e0f8f63259b930bda622f83"
+    ],
+    "teamMembersId" : [ 
+        "5df53fd502156c2d46402ce9"
+    ],
+    "displayOrder" : 0,
+    "voteScore" : 0,
+    "createdAt" : "2020-01-03T16:16:32.035Z",
+    "noViews" : [ 
+        "", 
+        "debbie@innovationminds.com"
+    ],
+    "noDislikes" : 0,
+    "noLikes" : 0,
+    "likes" : [],
+    "subscribers" : [ 
+        "5e0f68e0259b930bda622e36"
+    ],
+    "comments" : [],
+    "__v" : 5
+}

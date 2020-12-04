@@ -1,0 +1,313 @@
+{
+  "profileAlternative": {
+    "name": "Dekun Pei",
+    "headline": "Experienced in application development using C++, MATLAB, and Java.",
+    "imageurl": "https://media.licdn.com/dms/image/C5103AQHnPeBnzdxjaw/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=QletqjpaBc950rrpw8dU5bP6y8UnZ8FMvOixBZSlBEw",
+    "location": "Marlborough, Massachusetts",
+    "connections": "354",
+    "summary": "I used C++, MATLAB, and Java to develop features for Simulink and Stateflow, with a focus on simulation through code generation technologies and external code integration into Simulink environment.\n\nI have a strong desire to learn new skills and adapt to new responsibilities. Prior to becoming a software engineer at the MathWorks, I completed a Master of Science in Mechanical Engineer and leveraged my knowledge in MATLAB and Smulink to provide application support to MathWorks’s users for a year and a half."
+  },
+  "aboutAlternative": {
+    "text": "I used C++, MATLAB, and Java to develop features for Simulink and Stateflow, with a focus on simulation through code generation technologies and external code integration into Simulink environment.\n\nI have a strong desire to learn new skills and adapt to new responsibilities. Prior to becoming a software engineer at the MathWorks, I completed a Master of Science in Mechanical Engineer and leveraged my knowledge in MATLAB and Smulink to provide application support to MathWorks’s users for a year and a half."
+  },
+  "positions": [
+    {
+      "title": "The MathWorks",
+      "description": "• Revamped external C/C++ code integration for Stateflow code-generation-based simulation by introducing external C/C++ symbols type information into the code generation intermediate representation\n• Develop simulation infrastructure used chiefly by Stateflow, MATLAB Function blocks, and MATLAB System blocks\n• Implemented conditional breakpoints for MATLAB Function block in a code base that uses Java, C/C++, and MATLAB\n• Enhanced Simulink MATLAB Function block to simulate 25% faster than baseline by implementing an asynchronous termination request detection\n…\nsee more",
+      "date1": "May 2018 – Sep 2018",
+      "date2": "5 mos",
+      "roles": [
+        {
+          "title": "Senior Software Engineer",
+          "date1": "May 2018 – Sep 2018",
+          "date2": "5 mos"
+        },
+        {
+          "title": "Software Engineer",
+          "date1": "Sep 2014 – May 2018",
+          "date2": "3 yrs 9 mos"
+        },
+        {
+          "title": "Application Support Engineer",
+          "date1": "Feb 2013 – Sep 2014",
+          "date2": "1 yr 8 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSenior Software Engineer",
+      "date1": "May 2018 – Sep 2018",
+      "date2": "5 mos",
+      "roles": [
+        {
+          "title": "Senior Software Engineer",
+          "date1": "May 2018 – Sep 2018",
+          "date2": "5 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSoftware Engineer",
+      "description": "• Revamped external C/C++ code integration for Stateflow code-generation-based simulation by introducing external C/C++ symbols type information into the code generation intermediate representation\n• Develop simulation infrastructure used chiefly by Stateflow, MATLAB Function blocks, and MATLAB System blocks\n• Implemented conditional breakpoints for MATLAB Function block in a code base that uses Java, C/C++, and MATLAB\n• Enhanced Simulink MATLAB Function block to simulate 25% faster than baseline by implementing an asynchronous termination request detection\n…\nsee more",
+      "date1": "Sep 2014 – May 2018",
+      "date2": "3 yrs 9 mos",
+      "roles": [
+        {
+          "title": "Software Engineer",
+          "date1": "Sep 2014 – May 2018",
+          "date2": "3 yrs 9 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nApplication Support Engineer",
+      "description": "• Provided technical support to one million MathWorks product users\n• Specialized in Deployment, Test and Measurement, and API areas\n• Served as a Group Leader for technical support activities",
+      "date1": "Feb 2013 – Sep 2014",
+      "date2": "1 yr 8 mos",
+      "roles": [
+        {
+          "title": "Application Support Engineer",
+          "date1": "Feb 2013 – Sep 2014",
+          "date2": "1 yr 8 mos"
+        }
+      ]
+    },
+    {
+      "title": "Georgia Institute of Technology",
+      "description": "• Researched optimal control strategies for hybrid vehicles\n• Modeled various hybrid vehicle architectures using MATLAB and Simulink\n• Mentored undergraduate students on a hydraulic hybrid school bus project\n• Developed, maintained and tested a hydraulic hybrid prototype school bus\n• Received Final Four honors in the ACC Clean Energy Challenge for the hydraulic hybrid school bus business plan\n• Completed graduate courses in control theory, dynamics and simulations\n…\nsee more",
+      "date1": "Aug 2011 – Dec 2012",
+      "date2": "1 yr 5 mos",
+      "roles": [
+        {
+          "title": "Graduate Research Assistant",
+          "date1": "Aug 2011 – Dec 2012",
+          "date2": "1 yr 5 mos"
+        },
+        {
+          "title": "Undergraduate Research Assistant, Teaching Assistant, and Tutor",
+          "date1": "Jan 2009 – Dec 2011",
+          "date2": "3 yrs"
+        }
+      ]
+    },
+    {
+      "title": "Title\nGraduate Research Assistant",
+      "description": "• Researched optimal control strategies for hybrid vehicles\n• Modeled various hybrid vehicle architectures using MATLAB and Simulink\n• Mentored undergraduate students on a hydraulic hybrid school bus project\n• Developed, maintained and tested a hydraulic hybrid prototype school bus\n• Received Final Four honors in the ACC Clean Energy Challenge for the hydraulic hybrid school bus business plan\n• Completed graduate courses in control theory, dynamics and simulations\n…\nsee more",
+      "date1": "Aug 2011 – Dec 2012",
+      "date2": "1 yr 5 mos",
+      "roles": [
+        {
+          "title": "Graduate Research Assistant",
+          "date1": "Aug 2011 – Dec 2012",
+          "date2": "1 yr 5 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nUndergraduate Research Assistant, Teaching Assistant, and Tutor",
+      "description": "• Researched the effects of precursor temperature on electron beam induced deposition of carbon\n• Provided course assistance to students and graded homework and exams\n• Provided tutoring for math and science courses to students in freshmen dormitories",
+      "date1": "Jan 2009 – Dec 2011",
+      "date2": "3 yrs",
+      "roles": [
+        {
+          "title": "Undergraduate Research Assistant, Teaching Assistant, and Tutor",
+          "date1": "Jan 2009 – Dec 2011",
+          "date2": "3 yrs"
+        }
+      ]
+    },
+    {
+      "title": "Mechanical Engineering Co-op",
+      "companyName": "Electrolux",
+      "location": "Anderson, SC",
+      "description": "• Planned and coordinated new product pre-launch testing; specifically conducted reliability tests on the new fresh food ice maker, improved user experience with the refrigerator doors, evaluated competition products, and prepared documentation for marketing claims\n• Provided engineering support; revised drawings, updated bills of materials, and coordinated engineering changes\n…\nsee more",
+      "date1": "Aug 2008 – May 2010",
+      "date2": "1 yr 10 mos"
+    },
+    {
+      "title": "Clerk and Assistant Manager",
+      "companyName": "Subway",
+      "description": "• Managed store operation, served food, operated cash register, and provided customer service",
+      "date1": "Jul 2007 – Aug 2007",
+      "date2": "2 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Georgia Institute of Technology",
+      "degree": "Master of Science (M.S.)",
+      "fieldofstudy": "Mechanical Engineering",
+      "date1": "2011",
+      "date2": "2012"
+    },
+    {
+      "title": "Georgia Institute of Technology",
+      "degree": "Bachelor of Science (B.S.)",
+      "fieldofstudy": "Mechanical Engineering",
+      "date1": "2007",
+      "date2": "2011"
+    },
+    {
+      "title": "Centennial High School",
+      "date1": "2005",
+      "date2": "2007"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Matlab",
+      "count": "13"
+    },
+    {
+      "title": "Simulink",
+      "count": "10"
+    },
+    {
+      "title": "C++",
+      "count": "5"
+    },
+    {
+      "title": "Simulations",
+      "count": "6"
+    },
+    {
+      "title": "Fluid Mechanics",
+      "count": "1"
+    },
+    {
+      "title": "Control Systems Design"
+    },
+    {
+      "title": "Computer Repair"
+    },
+    {
+      "title": "Java",
+      "count": "2"
+    },
+    {
+      "title": "Microsoft Office",
+      "count": "3"
+    },
+    {
+      "title": "Solid Edge"
+    },
+    {
+      "title": "Solidworks",
+      "count": "4"
+    },
+    {
+      "title": "NX"
+    },
+    {
+      "title": "AutoCAD",
+      "count": "1"
+    },
+    {
+      "title": "HTML",
+      "count": "1"
+    },
+    {
+      "title": "Tutoring"
+    },
+    {
+      "title": "Hybrid Vehicle Control"
+    },
+    {
+      "title": "Hybrid Powertrain Modeling"
+    },
+    {
+      "title": "Optimal Control"
+    },
+    {
+      "title": "Dynamic Programming"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "1",
+    "receivedCount": "0",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/keongyong/",
+        "text": "I worked with Keong Yong to compete in the inaugural ACC Clean Energy Challenge in spring 2012. He was the strongest asset to the team and he has showcased his excellent project management skills and leadership during the project. Even though he had limited business knowledge in the beginning, Keong bravely volunteered to take lead to write the business proposal for the project. One could only imagine the countless hours he spent on improving his knowledge and polishing the business plan. Keong’s effort was indispensable in our success in the Clean Energy Challenge. Even well after the conclusion of the competition, Keong was did pro bono work to create a website for the project, further raising awareness of it. This once again shows his versatility and his commitment to whatever he works on. If I am given the chance again, I will definitely choose to work with Keong.\n…\nSee more"
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "5",
+      "items": [
+        "Dynamics of Mechanical Systems",
+        "Linear Control Systems",
+        "Machine Vision",
+        "Nonlinear Control Systems",
+        "Simulation of Hybrid Vehicles"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "Cantonese",
+        "Chinese"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "Forward-Looking Simulation of the GM Front-Wheel Drive Two-Mode Power-Split HEV Using a Dynamic Programming-Informed Equivalent Cost Minimization Strategy",
+        "Dynamic Programming-Informed Equivalent Cost Minimization Control Strategies for Hybrid-Electric Vehicles"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/anuroop-g-rao/",
+      "text": "Graduate student actively seeking Full-time opportunities starting May 2018"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shashankkalmane/",
+      "text": "Senior Software Engineer at The MathWorks"
+    },
+    {
+      "user": "https://www.linkedin.com/in/rich-caputo-864394ab/",
+      "text": "Master of Finance Candidate at MIT Sloan"
+    },
+    {
+      "user": "https://www.linkedin.com/in/thomas-macrae-780b473a/",
+      "text": "Looking for new opportunities"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jpohlkamphartt/",
+      "text": "Hockey Statistician in Boston"
+    },
+    {
+      "user": "https://www.linkedin.com/in/dean-ljubicic-69a15024/",
+      "text": "Postdoctoral Startup Position at MIT"
+    },
+    {
+      "user": "https://www.linkedin.com/in/akshay-dave-688ab939/",
+      "text": "Recently Graduated Electrical Engineer looking for a Entry Level Position"
+    },
+    {
+      "user": "https://www.linkedin.com/in/fcismondi/",
+      "text": "Document Collaboration Expert"
+    },
+    {
+      "user": "https://www.linkedin.com/in/william-vo-11490681/",
+      "text": "Looking for entry level software engineer."
+    },
+    {
+      "user": "https://www.linkedin.com/in/preethipuducherisundar/",
+      "text": "Software Engineer"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Dekun Pei",
+    "headline": "Experienced in application development using C++, MATLAB, and Java.",
+    "imageurl": "https://media.licdn.com/dms/image/C5103AQHnPeBnzdxjaw/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=QletqjpaBc950rrpw8dU5bP6y8UnZ8FMvOixBZSlBEw",
+    "location": "Marlborough, Massachusetts",
+    "connections": "354",
+    "summary": "I used C++, MATLAB, and Java to develop features for Simulink and Stateflow, with a focus on simulation through code generation technologies and external code integration into Simulink environment.\n\nI have a strong desire to learn new skills and adapt to new responsibilities. Prior to becoming a software engineer at the MathWorks, I completed a Master of Science in Mechanical Engineer and leveraged my knowledge in MATLAB and Smulink to provide application support to MathWorks’s users for a year and a half."
+  }
+}

@@ -1,0 +1,300 @@
+{
+  "profileAlternative": {
+    "name": "Gilad Dayagi",
+    "headline": "Head of Frontend and Javascript at CodeSparks",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQEJpLZK8nphwQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=b2XGXlnc7UVk54w_d36C0jfln4lP2CBObuGfgrsnebs",
+    "location": "Israel",
+    "connections": "500+",
+    "summary": "Highly experienced hands-on consultant and architect, helping companies deliver better, more performant software faster.\nExpert in modern web development, specializing in performance, React, Node, GraphQL.\nTech public speaker and teacher.\nEntrepreneur.\n\nhttp://gilad.dayagi.com"
+  },
+  "aboutAlternative": {
+    "text": "Highly experienced hands-on consultant and architect, helping companies deliver better, more performant software faster.\nExpert in modern web development, specializing in performance, React, Node, GraphQL.\nTech public speaker and teacher.\nEntrepreneur.\n\nhttp://gilad.dayagi.com"
+  },
+  "positions": [
+    {
+      "title": "Head of Frontend and Javascript",
+      "companyName": "AgileSparks",
+      "description": "- Innovation to streamline talent recruitment processes\n- Lead initiatives to create new talent sources\n- Hands-on consulting\n- Technical training\n- Public speaking",
+      "date1": "Oct 2018 – Present",
+      "date2": "1 yr 2 mos"
+    },
+    {
+      "title": "Independent",
+      "description": "- Test ideas using the lean startup approach\n- Go from POCs to MVPs to products with paying customers\n- Relevant technological sectors: e-commerce, gaming, VR, video sharing, blockchain & crypto-currencies, chatbots, and others.",
+      "date1": "Mar 2016 – Oct 2018",
+      "date2": "2 yrs 8 mos",
+      "roles": [
+        {
+          "title": "Entrepreneur",
+          "date1": "Mar 2016 – Oct 2018",
+          "date2": "2 yrs 8 mos"
+        },
+        {
+          "title": "Consultant",
+          "date1": "Mar 2017 – Sep 2018",
+          "date2": "1 yr 7 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nEntrepreneur",
+      "description": "- Test ideas using the lean startup approach\n- Go from POCs to MVPs to products with paying customers\n- Relevant technological sectors: e-commerce, gaming, VR, video sharing, blockchain & crypto-currencies, chatbots, and others.",
+      "date1": "Mar 2016 – Oct 2018",
+      "date2": "2 yrs 8 mos",
+      "roles": [
+        {
+          "title": "Entrepreneur",
+          "date1": "Mar 2016 – Oct 2018",
+          "date2": "2 yrs 8 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nConsultant",
+      "description": "Hands-on senior technical consultant for multiple companies from various sectors: fintech, cyber and security, ad-tech, e-commerce and more:\n- Web applications architecture and development\n- Performance optimizations\n- Training and mentoring engineers\n- Use modern web technologies (React, Angular, Node and cloud services)\n\nI put strong emphasis on clean code and using best-practices to allow more efficient software development.\nI also focus on performance as they have direct effect on user engagement.\n…\nsee more",
+      "date1": "Mar 2017 – Sep 2018",
+      "date2": "1 yr 7 mos",
+      "roles": [
+        {
+          "title": "Consultant",
+          "date1": "Mar 2017 – Sep 2018",
+          "date2": "1 yr 7 mos"
+        }
+      ]
+    },
+    {
+      "title": "R&D Lead",
+      "companyName": "OMG Studios",
+      "location": "Tel Aviv",
+      "description": "Hands-on, end-to-end responsibility for all technological aspects of the company's activities\n- Implement revenue optimization systems\n- Architect high scale, cost effective content delivery system\n- Implement data collection, processing and distribution systems\n- Create custom ad server to meet the business needs\n- Recruit and train engineers\n…\nsee more",
+      "date1": "Feb 2015 – Feb 2016",
+      "date2": "1 yr 1 mo"
+    },
+    {
+      "title": "R&D Lead",
+      "companyName": "Goldbar Ventures",
+      "description": "- Recruit and train all engineers\n- Define workflows and methodologies\n- Manage the development of multiple software products from concept to production (for web, desktop and mobile)",
+      "date1": "Oct 2012 – Feb 2015",
+      "date2": "2 yrs 5 mos"
+    },
+    {
+      "title": "Founder",
+      "companyName": "GambaLabs",
+      "description": "Custom, personalized accessories and jewelry using 3D printing.",
+      "date1": "Nov 2013 – Jan 2015",
+      "date2": "1 yr 3 mos"
+    },
+    {
+      "title": "High Gear Media",
+      "description": "- Responsible for all aspects of HighGearMedia’s R&D\n- Manage the engineering teams in the US and Israel\n- Initiatives for improving user engagement and workflows efficiency\n- Lead the development of new projects and new features",
+      "date1": "May 2011 – May 2012",
+      "date2": "1 yr 1 mo",
+      "roles": [
+        {
+          "title": "VP of Engineering",
+          "date1": "May 2011 – May 2012",
+          "date2": "1 yr 1 mo"
+        },
+        {
+          "title": "Lead Software Engineer",
+          "date1": "Feb 2008 – Apr 2011",
+          "date2": "3 yrs 3 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nVP of Engineering",
+      "description": "- Responsible for all aspects of HighGearMedia’s R&D\n- Manage the engineering teams in the US and Israel\n- Initiatives for improving user engagement and workflows efficiency\n- Lead the development of new projects and new features",
+      "date1": "May 2011 – May 2012",
+      "date2": "1 yr 1 mo",
+      "roles": [
+        {
+          "title": "VP of Engineering",
+          "date1": "May 2011 – May 2012",
+          "date2": "1 yr 1 mo"
+        }
+      ]
+    },
+    {
+      "title": "Title\nLead Software Engineer",
+      "description": "- Lead a team of fullstack developers in Israel and the US, developing HighGearMedia's content platform and other systems\n- System architecture",
+      "date1": "Feb 2008 – Apr 2011",
+      "date2": "3 yrs 3 mos",
+      "roles": [
+        {
+          "title": "Lead Software Engineer",
+          "date1": "Feb 2008 – Apr 2011",
+          "date2": "3 yrs 3 mos"
+        }
+      ]
+    },
+    {
+      "title": "Software Engineer",
+      "companyName": "DocMovies",
+      "description": "- End to end R&D of a dynamic content site for the documentary movies industry\n- Develop a micro-payments solution to enable monetizing the product",
+      "date1": "Sep 2007 – Aug 2008",
+      "date2": "1 yr"
+    },
+    {
+      "title": "Senior Developer",
+      "companyName": "HBR Labs Inc.",
+      "description": "A start-up dealing with remote video conference based learning.\nR&D of special features of the product in a fast, cost effective manner.",
+      "date1": "Jun 2006 – Dec 2007",
+      "date2": "1 yr 7 mos"
+    },
+    {
+      "title": "Software Engineer",
+      "companyName": "Israel Defense Forces",
+      "description": "- Took part in the development of a large-scale mission-critical system\n- Design and develop related sub-systems\n- Lead implementation of knowledge-management system",
+      "date1": "Aug 2000 – Oct 2005",
+      "date2": "5 yrs 3 mos"
+    },
+    {
+      "title": "Software Engineer",
+      "companyName": "Be-Connected",
+      "description": "- Implementation of UI layer for a network management system\n- Initialized the standardization of UI components",
+      "date1": "Jul 1998 – Jun 2000",
+      "date2": "2 yrs"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Tel Aviv University",
+      "degree": "BSc",
+      "fieldofstudy": "Computer Science, Statistics",
+      "date1": "1997",
+      "date2": "2001"
+    },
+    {
+      "title": "Mor High School",
+      "degree": "Bagrut certificate",
+      "fieldofstudy": "Computer science and Physics",
+      "date1": "1994",
+      "date2": "1997"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Web Applications",
+      "count": "18"
+    },
+    {
+      "title": "JavaScript",
+      "count": "18"
+    },
+    {
+      "title": "Software Development",
+      "count": "16"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "3",
+    "receivedCount": "2",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/itaykasre/",
+        "text": "Gilad is a code poet, technology swiss army knife, crypto expert and my go-to consultant. I had the fortune to work with Gilad on several complex projects and every time, Gilad shined. His dedication, creativity, backlog slaying skills and vast knowledge in software architecture & design helped me reach my project goals and deliver on time. I HIGHLY recommend Gilad to anyone looking for the very best.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/roheim/",
+        "text": "Gilad is one of those guys you love to work with and miss when you do not. He has a very strong technical foundation together with a relaxed but very focused style to lead a project to its goal. I would recommend Gilad to anyone that is looking for quality."
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/itaykasre/",
+        "text": "Itay is one of a kind. A multitasker that can make ends meet with the best possible results and under tight schedules. Itay is also very hands-on and can get into new technologies quickly and deliver - both in building new products and in teaching others. I was lucky to work with him and with people he taught and I can say with certainty that Itay will be super valuable to any project."
+      },
+      {
+        "user": "https://www.linkedin.com/in/roheim/",
+        "text": "David is a true geek: he loves Linux in all its flavors and is always looking for new technologies to learn and use. \r\nHe is quick to learn and is not afraid of hard work.\r\nAlso, he's a really nice guy!"
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "6",
+      "items": [
+        "Mine the Card",
+        "Soltell",
+        "Lithofun",
+        "High Gear Media Platform",
+        "Motor Authority",
+        "The Car Connection"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "English",
+        "Hebrew"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/natasha-tarnopolsky-ba1a8289/",
+      "text": "Full Stack Developer at Houzz"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shairippel/",
+      "text": "Full Stack Engineer at Stampli"
+    },
+    {
+      "user": "https://www.linkedin.com/in/keren-massad-9a155112/",
+      "text": "VP HR at JFrog - We are Hiring!"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jonathan-aharonovitch-2bba72138/",
+      "text": "-"
+    },
+    {
+      "user": "https://www.linkedin.com/in/noamikar/",
+      "text": "Head of R&D at Elbit Cyber Intelligence"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tom-shachar-024469101/",
+      "text": "PPC Campaign Manager at K Logic Future Marketing"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nadav-fischer/",
+      "text": "Senior Software Engineer at Trigo Vision"
+    },
+    {
+      "user": "https://www.linkedin.com/in/moshe-menkin-2035ba152/",
+      "text": "a free man at drops of hopw"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ori-lahav-a7220687/",
+      "text": "Innovatively getting things done."
+    },
+    {
+      "user": "https://www.linkedin.com/in/rafiton/",
+      "text": "CEO at NUVIAD"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Mentor",
+      "experience": "Israel Tech Challenge",
+      "description": "Education",
+      "date1": "Nov 2016",
+      "date2": "1 mo"
+    },
+    {
+      "title": "Mentor",
+      "experience": "Google Launchpad",
+      "description": "Science and Technology",
+      "date1": "Mar 2017 – Present",
+      "date2": "2 yrs 9 mos"
+    }
+  ],
+  "profile": {
+    "name": "Gilad Dayagi",
+    "headline": "Head of Frontend and Javascript at CodeSparks",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQEJpLZK8nphwQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=b2XGXlnc7UVk54w_d36C0jfln4lP2CBObuGfgrsnebs",
+    "location": "Israel",
+    "connections": "500+",
+    "summary": "Highly experienced hands-on consultant and architect, helping companies deliver better, more performant software faster.\nExpert in modern web development, specializing in performance, React, Node, GraphQL.\nTech public speaker and teacher.\nEntrepreneur.\n\nhttp://gilad.dayagi.com"
+  }
+}

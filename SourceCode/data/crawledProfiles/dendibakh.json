@@ -1,0 +1,240 @@
+{
+  "profileAlternative": {
+    "name": "Denis Bakhvalov",
+    "headline": "C++ Compiler Developer @Intel",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQH4d1J5dcPhow/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=nuJIDdFBTcW3-pQxRsMsUXffAvATtpQpftJ6YErnMrQ",
+    "location": "Santa Clara, California",
+    "connections": "500+",
+    "summary": "I am C++ compiler developer.\n\nMy blog: easyperf.net"
+  },
+  "aboutAlternative": {
+    "text": "I am C++ compiler developer.\n\nMy blog: easyperf.net"
+  },
+  "positions": [
+    {
+      "title": "Intel Corporation",
+      "location": "San Francisco Bay Area",
+      "date1": "Oct 2018 – Present",
+      "date2": "1 yr 2 mos",
+      "roles": [
+        {
+          "title": "Software Engineer - C++ Compiler Dev team",
+          "date1": "Oct 2018 – Present",
+          "date2": "1 yr 2 mos",
+          "location": "San Francisco Bay Area"
+        },
+        {
+          "title": "Software Engineer - C++ Compiler Dev team",
+          "date1": "Jul 2017 – Oct 2018",
+          "date2": "1 yr 4 mos",
+          "location": "Gdansk, Pomeranian District, Poland"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSoftware Engineer - C++ Compiler Dev team",
+      "location": "San Francisco Bay Area",
+      "date1": "Oct 2018 – Present",
+      "date2": "1 yr 2 mos",
+      "roles": [
+        {
+          "title": "Software Engineer - C++ Compiler Dev team",
+          "date1": "Oct 2018 – Present",
+          "date2": "1 yr 2 mos",
+          "location": "San Francisco Bay Area"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSoftware Engineer - C++ Compiler Dev team",
+      "location": "Gdansk, Pomeranian District, Poland",
+      "date1": "Jul 2017 – Oct 2018",
+      "date2": "1 yr 4 mos",
+      "roles": [
+        {
+          "title": "Software Engineer - C++ Compiler Dev team",
+          "date1": "Jul 2017 – Oct 2018",
+          "date2": "1 yr 4 mos",
+          "location": "Gdansk, Pomeranian District, Poland"
+        }
+      ]
+    },
+    {
+      "title": "Embedded C++ Software Engineer",
+      "companyName": "Nokia Networks",
+      "location": "Wroclaw, Lower Silesian District, Poland",
+      "description": "Developing SW for Radio Frequency modules.",
+      "date1": "Dec 2014 – May 2017",
+      "date2": "2 yrs 6 mos"
+    },
+    {
+      "title": "C++ Developer",
+      "companyName": "R-Style Softlab",
+      "location": "Vologda Region, Russian Federation",
+      "description": "Development SW for banks.",
+      "date1": "Nov 2008 – Nov 2014",
+      "date2": "6 yrs 1 mo"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Vologda State Technical University",
+      "degree": "Engineer's degree",
+      "fieldofstudy": "Software engineer",
+      "date1": "2005",
+      "date2": "2010"
+    }
+  ],
+  "skills": [
+    {
+      "title": "С++",
+      "count": "30"
+    },
+    {
+      "title": "Boost C++",
+      "count": "23"
+    },
+    {
+      "title": "STL",
+      "count": "22"
+    },
+    {
+      "title": "Algorithms",
+      "count": "20"
+    },
+    {
+      "title": "Multithreading",
+      "count": "11"
+    },
+    {
+      "title": "Software Development",
+      "count": "19"
+    },
+    {
+      "title": "Agile Methodologies",
+      "count": "10"
+    },
+    {
+      "title": "Programming",
+      "count": "12"
+    },
+    {
+      "title": "Git",
+      "count": "14"
+    },
+    {
+      "title": "Linux",
+      "count": "16"
+    },
+    {
+      "title": "Compilers",
+      "count": "1"
+    },
+    {
+      "title": "LLVM",
+      "count": "1"
+    },
+    {
+      "title": "Compiler Optimization",
+      "count": "1"
+    },
+    {
+      "title": "Automated Software Testing",
+      "count": "13"
+    },
+    {
+      "title": "Profiling Tools",
+      "count": "8"
+    },
+    {
+      "title": "CMake",
+      "count": "9"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "1",
+    "receivedCount": "1",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/michalsopniewski/",
+        "text": "Denis is one of most talented software engineers I worked with. Reviewing his work was really nice thing, his code is always designed, readable and perfectly tested. Denis always solves his tasks in a complete way, there are no gaps, no unaddressed cases. Denis is also good code reviewer as well, always can find weak points and suggest how to fix them.\n…\nSee more"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/michalsopniewski/",
+        "text": "I worked with Michal in the same team, while he was a software architect, for about a year. Michal has solid knowledge in different computer science areas as well as engineering areas, that makes him in a good position for taking right decisions. Also Michal is very detail-focused and never trading-off the quality of the software. Michal always concentrates on the team, it makes him a great value for the company. Finally, Michal is a great buddy, (he was my buddy) willing to spent his time on teaching others."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "4",
+      "items": [
+        "Algorithms (Princeton University)",
+        "Computer Architecture by Princeton University",
+        "Heterogeneous Parallel Programming (University of Illinois at Urbana-Champaign)",
+        "Operating Systems by hexlet.io"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "English",
+        "Polish",
+        "Russian"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/annabublyk/",
+      "text": "C/C++ Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/farhana-aleen-04619610/",
+      "text": "Compiler Engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/rachna-bafna-56930532/",
+      "text": "Sr. Performance Engineer at MobileIron"
+    },
+    {
+      "user": "https://www.linkedin.com/in/rdurga/",
+      "text": "Data Engineering Manager @ Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ravi-pathuri-90631312b/",
+      "text": "Systems Engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shwetha-kashyap/",
+      "text": "Engineer at VMware"
+    },
+    {
+      "user": "https://www.linkedin.com/in/amybcheng/",
+      "text": "Algorithmic Trading C++ Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nikhitha-durvasula/",
+      "text": "Open for challenging Software Development Engineer opportunities."
+    },
+    {
+      "user": "https://www.linkedin.com/in/elisabeth-caan/",
+      "text": "Recruitment Consultant at Huxley- FPGA and Embedded Hardware Engineering"
+    },
+    {
+      "user": "https://www.linkedin.com/in/paul-lewandowski-4515269/",
+      "text": "Performance Diagnostic Engineer at Accenture"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Denis Bakhvalov",
+    "headline": "C++ Compiler Developer @Intel",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQH4d1J5dcPhow/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=nuJIDdFBTcW3-pQxRsMsUXffAvATtpQpftJ6YErnMrQ",
+    "location": "Santa Clara, California",
+    "connections": "500+",
+    "summary": "I am C++ compiler developer.\n\nMy blog: easyperf.net"
+  }
+}

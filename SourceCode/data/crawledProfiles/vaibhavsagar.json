@@ -1,0 +1,287 @@
+{
+  "profileAlternative": {
+    "name": "Vaibhav Sagar",
+    "headline": "Software Developer at Obsidian Systems LLC",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQGetEVDB1ZOBw/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=Pxg01Gvc1Xt5LPlPh0E8LQQyJ8IT12--NKVc01OhxCQ",
+    "location": "Brooklyn, New York",
+    "connections": "500+",
+    "summary": "I used to write web applications for a living. I still do, but I used to, too. Enthusiastic about writing better software with fewer bugs through functional programming and formal methods."
+  },
+  "aboutAlternative": {
+    "text": "I used to write web applications for a living. I still do, but I used to, too. Enthusiastic about writing better software with fewer bugs through functional programming and formal methods."
+  },
+  "positions": [
+    {
+      "title": "Software Developer",
+      "companyName": "Obsidian Systems LLC",
+      "location": "Greater New York City Area",
+      "description": "Software development and consulting with Haskell and Nix, specialising in the Reflex FRP framework.",
+      "date1": "Aug 2018 – Present",
+      "date2": "1 yr 4 mos"
+    },
+    {
+      "title": "Software Engineer - DevOps",
+      "companyName": "ZALORA Group",
+      "location": "Singapore",
+      "description": "Realising the promise of functional DevOps across six countries and hundreds of servers with Nix.",
+      "date1": "Apr 2017 – Jul 2018",
+      "date2": "1 yr 4 mos"
+    },
+    {
+      "title": "Participant",
+      "companyName": "Recurse Center",
+      "location": "New York",
+      "description": "Participated in a full-time, self-directed programming retreat. Focused on becoming better at functional programming and diving deep into my tools by implementing a subset of git in Haskell and using it to make a git internals workshop and a web server that serves git objects as JSON.",
+      "date1": "Aug 2016 – Nov 2016",
+      "date2": "4 mos"
+    },
+    {
+      "title": "Software Engineer",
+      "companyName": "Agileware Pty Ltd",
+      "description": "Developing and supporting Drupal, CiviCRM, and Wordpress websites.",
+      "date1": "Jan 2015 – Mar 2016",
+      "date2": "1 yr 3 mos"
+    },
+    {
+      "title": "Junior Software Developer",
+      "companyName": "Agile Digital Engineering",
+      "description": "Developed a web application for finding affordable housing and the front end of a native iOS application for user generated films.",
+      "date1": "Apr 2014 – Sep 2014",
+      "date2": "6 mos"
+    },
+    {
+      "title": "Tutor",
+      "companyName": "Australian National University",
+      "description": "Ran tutorials using Haskell to teach computer science concepts with an emphasis on functional programming.",
+      "date1": "Feb 2014 – Jun 2014",
+      "date2": "5 mos"
+    },
+    {
+      "title": "CSIRO",
+      "description": "Building on my work as a vacation scholar.",
+      "date1": "Feb 2014 – Jun 2014",
+      "date2": "5 mos",
+      "roles": [
+        {
+          "title": "Volunteer Fellow",
+          "date1": "Feb 2014 – Jun 2014",
+          "date2": "5 mos"
+        },
+        {
+          "title": "Vacation Scholar",
+          "date1": "Nov 2013 – Feb 2014",
+          "date2": "4 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nVolunteer Fellow",
+      "description": "Building on my work as a vacation scholar.",
+      "date1": "Feb 2014 – Jun 2014",
+      "date2": "5 mos",
+      "roles": [
+        {
+          "title": "Volunteer Fellow",
+          "date1": "Feb 2014 – Jun 2014",
+          "date2": "5 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nVacation Scholar",
+      "description": "Developed a prototype workflow engine for RESTful web services using a continuation passing style built on Semantic Web technologies.",
+      "date1": "Nov 2013 – Feb 2014",
+      "date2": "4 mos",
+      "roles": [
+        {
+          "title": "Vacation Scholar",
+          "date1": "Nov 2013 – Feb 2014",
+          "date2": "4 mos"
+        }
+      ]
+    },
+    {
+      "title": "Student Ambassador",
+      "companyName": "Australian National University",
+      "location": "College of Engineering and Computer Science",
+      "description": "Represented the College for various recruitment events and activities and spoke to prospective students about living in Canberra and studying at the ANU. Ran labs in Processing for high schoolers as an introduction to programming.",
+      "date1": "Mar 2013 – Nov 2013",
+      "date2": "9 mos"
+    },
+    {
+      "title": "Senior IT Consultant",
+      "companyName": "John XXIII College ANU",
+      "description": "Kept the College network, printers and residents' computers running smoothly.",
+      "date1": "Feb 2013 – Nov 2013",
+      "date2": "10 mos"
+    },
+    {
+      "title": "IT Administrator",
+      "companyName": "John XXIII College ANU",
+      "description": "Led the IT Team for maintenance of systems at College and technical support for residents and assisted with the transition to an external technical support provider.",
+      "date1": "Feb 2012 – Nov 2012",
+      "date2": "10 mos"
+    },
+    {
+      "title": "College of Engineering and Computer Science Faculty Representative",
+      "companyName": "Australian National University Student's Association",
+      "description": "ANUSA Faculty Rep for CECS.",
+      "date1": "Dec 2011 – Nov 2012",
+      "date2": "1 yr"
+    },
+    {
+      "title": "Tutor",
+      "companyName": "Australian National University",
+      "description": "COMP1100 Introduction to Programming and Algorithms.",
+      "date1": "Jan 2012 – May 2012",
+      "date2": "5 mos"
+    },
+    {
+      "title": "IT Consultant",
+      "companyName": "John XXIII College ANU",
+      "description": "Fixed computer and network issues for residents.",
+      "date1": "Feb 2011 – Nov 2011",
+      "date2": "10 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "The Australian National University",
+      "degree": "BEcon/BInfoTech",
+      "fieldofstudy": "Software Development",
+      "date1": "2010",
+      "date2": "2013"
+    },
+    {
+      "title": "Gandhi Memorial International School",
+      "date1": "1997",
+      "date2": "2009"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Programming",
+      "count": "17"
+    },
+    {
+      "title": "Web Development",
+      "count": "16"
+    },
+    {
+      "title": "Python",
+      "count": "17"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "1",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/emmadavidsonau/",
+        "text": "Vaibhav is a great team member. He is generous in sharing what he knows with others, and always looking to improve his own skills. He is a good communicator, and has the ability to write good code and to explain to non-technical people how a system works."
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "31",
+      "items": [
+        "Advanced Databases and Data Mining",
+        "Algorithms",
+        "Behavioural Economics: Psychology and Economics",
+        "Business Information Systems",
+        "Concurrent and Distributed Systems",
+        "Discrete Mathematical Models",
+        "Econometrics I: Econometric Methods",
+        "Formal Methods in Software Engineering",
+        "Foundations of Economic and Financial Models",
+        "Foundations of Finance",
+        "History of Economic Thought(P)",
+        "Introduction to Computer Systems",
+        "Introduction to Programming and Algorithms",
+        "Introduction to Software Systems",
+        "Macroeconomics 1",
+        "Macroeconomics 2(P)",
+        "Macroeconomics 3",
+        "Managerial Economics",
+        "Managing Software Development",
+        "Microeconomics 1"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "English",
+        "Hindi",
+        "Indonesian"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/dan-haraj-3b8554155/",
+      "text": "Senior Developer at Obsidian Systems LLC"
+    },
+    {
+      "user": "https://www.linkedin.com/in/aliabrar/",
+      "text": "Partner at Obsidian Systems"
+    },
+    {
+      "user": "https://www.linkedin.com/in/vineetbaldwa/",
+      "text": "Software Engineer at Thumbtack"
+    },
+    {
+      "user": "https://www.linkedin.com/in/matthewjustinbauer/",
+      "text": "Software Engineer at Obsidian Systems LLC"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ryantrinkle/",
+      "text": "Partner at Obsidian Systems"
+    },
+    {
+      "user": "https://www.linkedin.com/in/marianne-nelson-17385973/",
+      "text": "Correctional Officer at Wyoming State Penitentiary"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ryan-bromfield-92711310a/",
+      "text": "Owner/Agent at Bromfield Agency"
+    },
+    {
+      "user": "https://www.linkedin.com/in/alan-c-82495547/",
+      "text": "Attorney"
+    },
+    {
+      "user": "https://www.linkedin.com/in/crystal-cundall-9151a511a/",
+      "text": "Reception and Housing/Accommodations Coordinator"
+    },
+    {
+      "user": "https://www.linkedin.com/in/stephanie-dunn-77a66050/",
+      "text": "Manager, Business Operations and Strategy at Wolters Kluwer"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Volunteer",
+      "experience": "Ubud Writers & Readers Festival",
+      "description": "Arts and Culture",
+      "date1": "Oct 2009",
+      "date2": "1 mo"
+    },
+    {
+      "title": "Volunteer",
+      "experience": "National Multicultural Festival",
+      "description": "Arts and Culture",
+      "date1": "Feb 2013",
+      "date2": "1 mo"
+    }
+  ],
+  "profile": {
+    "name": "Vaibhav Sagar",
+    "headline": "Software Developer at Obsidian Systems LLC",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQGetEVDB1ZOBw/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=Pxg01Gvc1Xt5LPlPh0E8LQQyJ8IT12--NKVc01OhxCQ",
+    "location": "Brooklyn, New York",
+    "connections": "500+",
+    "summary": "I used to write web applications for a living. I still do, but I used to, too. Enthusiastic about writing better software with fewer bugs through functional programming and formal methods."
+  }
+}

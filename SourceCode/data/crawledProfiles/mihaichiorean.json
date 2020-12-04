@@ -1,0 +1,183 @@
+{
+  "profileAlternative": {
+    "name": "Mihai Chiorean",
+    "headline": "Senior Software Engineer, Invision",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQG7hvUEMvMVSQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=-vQgfewWgRQOZYn_oR7OAIZGoeC8wVd31Zf5lppjoMU",
+    "location": "San Francisco, California",
+    "connections": "500+",
+    "summary": "Experienced Software Engineer with a demonstrated history of working in the internet industry. Strong engineering professional skilled in Node, Go"
+  },
+  "aboutAlternative": {
+    "text": "Experienced Software Engineer with a demonstrated history of working in the internet industry. Strong engineering professional skilled in Node, Go"
+  },
+  "positions": [
+    {
+      "title": "Senior Software Engineer",
+      "companyName": "InVision",
+      "location": "San Francisco Bay Area",
+      "date1": "Dec 2018 – Present",
+      "date2": "1 yr"
+    },
+    {
+      "title": "Software Engineer",
+      "companyName": "Uber",
+      "location": "San Francisco Bay Area",
+      "date1": "Mar 2016 – Nov 2018",
+      "date2": "2 yrs 9 mos"
+    },
+    {
+      "title": "Software Engineer",
+      "companyName": "Knotch",
+      "description": "Full stack developer responsible for building REST APIs and web services with mainly NodeJS and MongoDB as a main data store, build internal tools, automate deployments on AWS with SaltStack.\nSome iOS development involved too.",
+      "date1": "Sep 2012 – Mar 2016",
+      "date2": "3 yrs 7 mos"
+    },
+    {
+      "title": "Software Engineer",
+      "companyName": "Garmin",
+      "location": "Cluj-Napoca",
+      "date1": "May 2012 – Aug 2012",
+      "date2": "4 mos"
+    },
+    {
+      "title": "C++ Developer",
+      "companyName": "CoSoSys",
+      "location": "Cluj-Napoca",
+      "date1": "May 2011 – Apr 2012",
+      "date2": "1 yr"
+    },
+    {
+      "title": "SW Developer",
+      "companyName": "Neusoft",
+      "description": "Design, development, maintenance Symbian S60 applications. Technologies and tools used: C++, Qt, Carbide, Qt Creator.",
+      "date1": "Feb 2009 – Apr 2011",
+      "date2": "2 yrs 3 mos"
+    },
+    {
+      "title": "Web developer",
+      "companyName": "Nordlogic Software",
+      "description": "During my employment here I've worked on developing new applications using mostly PHP and MySQL together with JavaScript (JQuery). Also maintenance work for some older projects was among my tasks.",
+      "date1": "May 2008 – Feb 2009",
+      "date2": "10 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Babes Bolyai University",
+      "degree": "Bachelor of Science (BS)",
+      "fieldofstudy": "Computer Science",
+      "date1": "2006",
+      "date2": "2008"
+    },
+    {
+      "title": "Universitatea „Babeș-Bolyai” din Cluj-Napoca",
+      "degree": "B.Sc.",
+      "fieldofstudy": "Computer Science",
+      "date1": "2006",
+      "date2": "2009"
+    },
+    {
+      "title": "Colegiul National Emil Racovita"
+    },
+    {
+      "title": "Liceul de Informatica Tiberiu Popovici"
+    }
+  ],
+  "skills": [
+    {
+      "title": "C++",
+      "count": "29"
+    },
+    {
+      "title": "Qt",
+      "count": "19"
+    },
+    {
+      "title": "MySQL",
+      "count": "7"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "1",
+    "receivedCount": "1",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/adam-bartha-81b4a113/",
+        "text": "Mihai has great programming skills, fast learning ability and he's a good teamplayer!"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/adam-bartha-81b4a113/",
+        "text": "We have worked together on the same project and I can say that Adam is a developer you can count on in terms of coding skills, software architecture and team support. He has done great work here."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "3",
+      "items": [
+        "Agile / Scrum training",
+        "Machine Learning - online course from Stanford Engineering",
+        "Qt training"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "TOEFL iBT™"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/shobha-rao-2182761/",
+      "text": "Scrum Master, Senior Software Development Engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/alekseysmolenchuk/",
+      "text": "Senior Software Engineer II at Uber"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sebastianenderlein/",
+      "text": "Vice President Of Engineering at Personio"
+    },
+    {
+      "user": "https://www.linkedin.com/in/adamrogal/",
+      "text": "Developer Platform @ Uber. Hiring for all roles!"
+    },
+    {
+      "user": "https://www.linkedin.com/in/simona-moldoveanu-16322a45/",
+      "text": "Sr. Quality Engineer at Servatron"
+    },
+    {
+      "user": "https://www.linkedin.com/in/adam-gluck-24b65935/",
+      "text": "Senior Software Engineer at Uber"
+    },
+    {
+      "user": "https://www.linkedin.com/in/alexandraklun/",
+      "text": "Head of Marketing & Platform at Sierra Ventures"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mihaela-suteu-796961b8/",
+      "text": "Senior Software Engineer at Ingenuity Systems"
+    },
+    {
+      "user": "https://www.linkedin.com/in/catlinux/",
+      "text": "Senior Consultant at Endava"
+    },
+    {
+      "user": "https://www.linkedin.com/in/alexandru-tata-a824bba5/",
+      "text": "Senior Software Engineer Team Lead la Evolving Systems"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Mihai Chiorean",
+    "headline": "Senior Software Engineer, Invision",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQG7hvUEMvMVSQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=-vQgfewWgRQOZYn_oR7OAIZGoeC8wVd31Zf5lppjoMU",
+    "location": "San Francisco, California",
+    "connections": "500+",
+    "summary": "Experienced Software Engineer with a demonstrated history of working in the internet industry. Strong engineering professional skilled in Node, Go"
+  }
+}

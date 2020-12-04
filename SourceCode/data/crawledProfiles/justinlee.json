@@ -1,0 +1,216 @@
+{
+  "profileAlternative": {
+    "name": "Justin Lee",
+    "headline": "Java Champion and Principal Software Engineer at Red Hat",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQHH6PBbL5sdbQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=FC6s8rPR9vQsaVFHnYAtMwJi5aWyHnl9Vyb2dGOrRSU",
+    "location": "Greater New York City Area",
+    "connections": "500+",
+    "summary": "I have experience building web-based applications with involvement ranging from design to implementation and occasional Swing development. I'm a contributor to several open source projects and am interested in solving complex problems. Learning is a key goal for me so I'm not afraid to tackle new projects in unfamiliar spaces.\n\nSpecialties: Java, Hibernate, SQL, WebSockets, Spring, Kotlin, MongoDB"
+  },
+  "aboutAlternative": {
+    "text": "I have experience building web-based applications with involvement ranging from design to implementation and occasional Swing development. I'm a contributor to several open source projects and am interested in solving complex problems. Learning is a key goal for me so I'm not afraid to tackle new projects in unfamiliar spaces.\n\nSpecialties: Java, Hibernate, SQL, WebSockets, Spring, Kotlin, MongoDB"
+  },
+  "positions": [
+    {
+      "title": "Principal Software Engineer",
+      "companyName": "Red Hat",
+      "location": "Greater New York City Area",
+      "description": "Working with the openwhisk serverless framework and related technologies.",
+      "date1": "Mar 2018 – Present",
+      "date2": "1 yr 9 mos"
+    },
+    {
+      "title": "JSR 356: JavaTM API for WebSocket Expert Group",
+      "companyName": "JSR 356 Websocket",
+      "description": "Member of the expert group standardizing a websocket API for Java EE 7.",
+      "date1": "Mar 2012 – Present",
+      "date2": "7 yrs 9 mos"
+    },
+    {
+      "title": "Prinicipal Engineer",
+      "companyName": "Meltwater",
+      "location": "Stockholm, Sweden",
+      "date1": "Feb 2017 – Mar 2018",
+      "date2": "1 yr 2 mos"
+    },
+    {
+      "title": "Member of Technical Staff",
+      "companyName": "MongoDB, Inc.",
+      "description": "* Member of the JVM drivers team\n* Maintainer of the Morphia ODM for MongoDB (https://github.com/mongodb/morphia)\n* Helped develop and maintain the MongoDB Connector for BI which allows SQL-based business intelligence tools to connect to MongoDB and build visualizations as if the data were in a relational database.\n* Helped develop and maintain the mongo-hadoop connector which allows Hadoop-based applications run directly against MongoDB\n…\nsee more",
+      "date1": "Jun 2013 – Feb 2017",
+      "date2": "3 yrs 9 mos"
+    },
+    {
+      "title": "Senior Software Engineer",
+      "companyName": "Squarespace",
+      "description": "* Implemented the websockets wire protocol on top of the grizzly\n* Helped develop and maintain various protocol level features as needed by the Glassfish application server\n* Maintained the configuration system exposed by grizzly and used by Glassfish",
+      "date1": "Oct 2011 – Jun 2013",
+      "date2": "1 yr 9 mos"
+    },
+    {
+      "title": "Principal Member of Technical Staff",
+      "companyName": "Oracle",
+      "description": "* Worked on various backend components\n* Implemented functions to import user content from third party sites\n* Helped maintain social network broadcast features\n* Helped rewrite site traffic analysis and statistics",
+      "date1": "Jan 2010 – Oct 2011",
+      "date2": "1 yr 10 mos"
+    },
+    {
+      "title": "Staff Engineer",
+      "companyName": "Sun Microsystems",
+      "description": "* Implemented the websockets wire protocol on top of the grizzly\n* Helped develop and maintain various protocol level features as needed by the Glassfish application server\n* Maintained the configuration system exposed by grizzly and used by Glassfish",
+      "date1": "Sep 2008 – Feb 2010",
+      "date2": "1 yr 6 mos"
+    },
+    {
+      "title": "Senior Developer",
+      "companyName": "Knoa Software",
+      "description": "Senior developer building enterprise software monitoring and end-user experience management software. Technogies in use include Wicket, Spring, and Hibernate.",
+      "date1": "Feb 2007 – Sep 2008",
+      "date2": "1 yr 8 mos"
+    },
+    {
+      "title": "Owner and CEO",
+      "companyName": "Antwerkz, Inc.",
+      "description": "Contracted with a variety of clients building systems as needs dictated.",
+      "date1": "May 2004 – Feb 2007",
+      "date2": "2 yrs 10 mos"
+    },
+    {
+      "title": "Sr. Software Architect",
+      "companyName": "Harland Financial Solutions",
+      "description": "* Helped develop and maintain the Communication Engine which was the point of contact between our system and the various back end systems used by various banks.\n* Led the refactoring of the Communication Engine to increase the stability and extendability of the system to address new integrations with different bank mainframe systems.\n* Maintained the system used to generate our model code based on the Rational model built by the domain experts\n…\nsee more",
+      "date1": "Feb 2000 – May 2004",
+      "date2": "4 yrs 4 mos"
+    },
+    {
+      "title": "Software Developer",
+      "companyName": "Intelis",
+      "date1": "Aug 1997 – Jan 2000",
+      "date2": "2 yrs 6 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "University of Denver",
+      "degree": "M.C.I.S.",
+      "fieldofstudy": "Computer Information Systems",
+      "date1": "2001",
+      "date2": "2003"
+    },
+    {
+      "title": "University of Oklahoma",
+      "degree": "B.S.",
+      "fieldofstudy": "Computer Science",
+      "date1": "1993",
+      "date2": "1998"
+    },
+    {
+      "title": "OSSM",
+      "date1": "1991",
+      "date2": "1993"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Java",
+      "count": "33"
+    },
+    {
+      "title": "Spring",
+      "count": "24"
+    },
+    {
+      "title": "Hibernate",
+      "count": "20"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "11",
+      "items": [
+        "Kotlin: Why Bother?",
+        "Kotlin in Action at JFokus 2016",
+        "Kotlin in Anger at JavaOne 2015",
+        "MongoDB Persistence with Java and Morphia",
+        "Mongo for Hibernate/JPA Developers",
+        "WebSocket and Java EE: A State of the Union",
+        "WebSocket and Java EE: A State of the Union",
+        "The Not-Java That's Not Scala: Alternatives for Java EE Development",
+        "Comparing Asynchronous Web Techniques",
+        "Building Websocket Based Applications on GlassFish/Grizzly",
+        "Building Websocket Based Applications on GlassFish/Grizzly"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "Morphia",
+        "Ophelia",
+        "Grizzly"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Basement Coders"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/david-unger-a32a5116/",
+      "text": "Program Manager (Developer Advocacy, Google Developer Studio) at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/srfeinstein/",
+      "text": "Signal Processing Software Engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/victorgrazi/",
+      "text": "US infrastructure dev lead at Nomura Securities, Oracle Java Champion, Pluralsight author Twitter @vgrazi"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yanaga/",
+      "text": "Java Champion, Microsoft MVP, TDC Rockstar, Developer, Professor, and Enabler"
+    },
+    {
+      "user": "https://www.linkedin.com/in/neilgriffin95/",
+      "text": "Java Champion | Software Architect at Liferay, Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/chris-stivers-86387a1/",
+      "text": "Principal Engineer at Atlassian"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mac-case-7115293/",
+      "text": "Senior Software Engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/richardhoop/",
+      "text": "Founding Partner at SPRY"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mckamey/",
+      "text": "Kirkland Googler"
+    },
+    {
+      "user": "https://www.linkedin.com/in/diogenesbrito/",
+      "text": "“Your friend in the design business.”"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Justin Lee",
+    "headline": "Java Champion and Principal Software Engineer at Red Hat",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQHH6PBbL5sdbQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=FC6s8rPR9vQsaVFHnYAtMwJi5aWyHnl9Vyb2dGOrRSU",
+    "location": "Greater New York City Area",
+    "connections": "500+",
+    "summary": "I have experience building web-based applications with involvement ranging from design to implementation and occasional Swing development. I'm a contributor to several open source projects and am interested in solving complex problems. Learning is a key goal for me so I'm not afraid to tackle new projects in unfamiliar spaces.\n\nSpecialties: Java, Hibernate, SQL, WebSockets, Spring, Kotlin, MongoDB"
+  }
+}

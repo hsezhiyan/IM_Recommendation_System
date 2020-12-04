@@ -1,0 +1,191 @@
+{
+  "profileAlternative": {
+    "name": "Will McCarthy",
+    "headline": "Adjunct Professor of Computer Science at California State University, Fullerton",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQF7qm6SMvMUKg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=aS3pHNLv9YBcAYtbe9yXpsM_peOhab0cD22PHpCNkU8",
+    "location": "Los Angeles, California",
+    "connections": "28"
+  },
+  "aboutAlternative": {},
+  "positions": [
+    {
+      "title": "Adjunc Professor of Computer Science",
+      "companyName": "California State University, Fullerton",
+      "location": "Fullerton, CA, USA",
+      "date1": "Jan 2016 – Present",
+      "date2": "3 yrs 11 mos"
+    },
+    {
+      "title": "Sr. Software Developer (C++/Python/JavaScript)",
+      "companyName": "Apex Systems (for Medtronic)",
+      "location": "Northridge, CA",
+      "description": "Ported to Mac OS X and Visual Studio 2015 existing C++ and C, and customized Google's v8 C++/JS shell code. Ported to Mac OS X and Windows (using NodeJS) existing JS code using custom thread library and C++11/14's asynchronous libraries. node-gyp tool was used to generate dynamic library NodeJS add-ons for OS X and for Windows. Ported existing Python code to JavaScript and to C++.",
+      "date1": "Feb 2016 – Present",
+      "date2": "3 yrs 10 mos"
+    },
+    {
+      "title": "Independent Python/C++/Java developer",
+      "companyName": "Open Source Applications Foundation",
+      "description": "Develop applications for Human Natural Language processing",
+      "date1": "2003 – Present",
+      "date2": "16 yrs"
+    },
+    {
+      "title": "Sr. Software Engineer",
+      "companyName": "Apex Systems",
+      "date1": "2016",
+      "date2": "less than a year"
+    },
+    {
+      "title": "Sr. Software Engineer",
+      "companyName": "Medtronic",
+      "date1": "2016",
+      "date2": "less than a year"
+    },
+    {
+      "title": "C++/Python Instructor",
+      "companyName": "nTier Training",
+      "location": "training at major telecommunications corp. (San Fran, RTP, DC, Dallas, Atlanta)",
+      "description": "Teaching professional programming teams cross-platform development skills in C++/11 and Python (3.5/2.7) throughout the United States at major telecommunication corporations in San Francisco, San Jose, Research Triangle Park (NC), Dallas, Atlanta, Cleveland, ...)\nPython training emphasizes use of major Python frameworks (Django, SqlAlchemy, Flask, BeautifulSoup, PyQt)...\n\n…\nsee more",
+      "date1": "May 2015 – Dec 2015",
+      "date2": "8 mos"
+    },
+    {
+      "title": "C++ Instructor",
+      "companyName": "California State University, Fullerton",
+      "location": "Fullerton, CA",
+      "description": "Teaching C++ and OODA/OOP through writing applications using C++14/C++11, the STL, Design Patterns, Algorithms, and Data structures -- using C++ class libraries including 3d/2d graphics and animations using the Qt libraries.",
+      "date1": "Aug 2013 – Jan 2015",
+      "date2": "1 yr 6 mos"
+    },
+    {
+      "title": "Sr. SW Developer (C++)",
+      "companyName": "About Learning",
+      "description": "Develop Mac OS application educational application in C++",
+      "date1": "1998 – 2002",
+      "date2": "4 yrs"
+    },
+    {
+      "title": "Sr. Software Developer",
+      "companyName": "SPSS",
+      "description": "Team leader to translate SPSS's legacy FORTRAN code to C++",
+      "date1": "1997 – 1998",
+      "date2": "1 yr"
+    },
+    {
+      "title": "Sr. Software Developer",
+      "companyName": "Abbott Laboratories",
+      "description": "Project leader to create a Scientific database for the Analytical Chemistry dept.",
+      "date1": "1995 – 1997",
+      "date2": "2 yrs"
+    },
+    {
+      "title": "Software Manager / Sr. SW developer",
+      "companyName": "Axon Instruments",
+      "description": "Develop real-time analysis/acquisition tools for Windows in C++. Project management of all ongoing Windows and Mac OS scientific acquisition/analysis products for scientists.",
+      "date1": "May 1989 – Aug 1995",
+      "date2": "6 yrs 4 mos"
+    },
+    {
+      "title": "Post-doctoral researcher",
+      "companyName": "Univ. of Colorado Health Sciences Ctr",
+      "description": "Electrophysiological and genetics research on the mechanism of action of Na channels. Development of acquisition and analysis software in C++ on the Windows platform.",
+      "date1": "1987 – 1989",
+      "date2": "2 yrs"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Northwestern University",
+      "degree": "PhD",
+      "fieldofstudy": "Neuroscience",
+      "date1": "1981",
+      "date2": "1987"
+    },
+    {
+      "title": "University of Illinois at Urbana-Champaign",
+      "degree": "MS",
+      "fieldofstudy": "Metallurgical Engineering",
+      "date1": "1979",
+      "date2": "1980"
+    },
+    {
+      "title": "Carleton College",
+      "degree": "BA",
+      "fieldofstudy": "Physics",
+      "date1": "1974",
+      "date2": "1978"
+    }
+  ],
+  "skills": [
+    {
+      "title": "C++",
+      "count": "4"
+    },
+    {
+      "title": "Python",
+      "count": "1"
+    },
+    {
+      "title": "Java",
+      "count": "1"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/brad-anderson-2092a52/",
+      "text": "Advisor at AdvisoryCloud available to assist based on over 30 years with Nestle and currently at CSUF."
+    },
+    {
+      "user": "https://www.linkedin.com/in/dcoleman34/",
+      "text": "Professional Support Engineer with extensive experience solving customer issues."
+    },
+    {
+      "user": "https://www.linkedin.com/in/elaheh-behrazfar-2319067/",
+      "text": "Computer Software Professional"
+    },
+    {
+      "user": "https://www.linkedin.com/in/brian-graves-504bb7126/",
+      "text": "Principal Software Engineer at Unisys"
+    },
+    {
+      "user": "https://www.linkedin.com/in/barbara-christensen-a6b5218/",
+      "text": "IT Professional at MN.IT Services"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jeff-chung-0b070228/",
+      "text": "Senior Software Engineer at Obsidian Entertainment"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kevin-clayton-b072356/",
+      "text": "Senior Software Engineer at Unisys"
+    },
+    {
+      "user": "https://www.linkedin.com/in/alexandria-berks-69bb326/",
+      "text": "Senior Technical Writer/Asst. Vice President at Wells Fargo Dealer Services"
+    },
+    {
+      "user": "https://www.linkedin.com/in/brittany-parker-7a2193137/",
+      "text": "Software Engineer at Unisys"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ken-miura-4592206/",
+      "text": "Retired Hardware Engineer"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Will McCarthy",
+    "headline": "Adjunct Professor of Computer Science at California State University, Fullerton",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQF7qm6SMvMUKg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=aS3pHNLv9YBcAYtbe9yXpsM_peOhab0cD22PHpCNkU8",
+    "location": "Los Angeles, California",
+    "connections": "28"
+  }
+}

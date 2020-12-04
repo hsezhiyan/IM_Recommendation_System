@@ -1,0 +1,212 @@
+{
+  "profileAlternative": {
+    "name": "Nagabhushanam Obul",
+    "headline": "SQL Product support analyst at Boston Scientific",
+    "location": "Greater Minneapolis-St. Paul Area",
+    "connections": "150",
+    "summary": "I am working as a SQL Database Administrator with a high transaction, high availability systems dealing with Transportation,e-Commerce,Software and medical device industry since 2005. I am responsible for creating and maintaining Stored Procedures, functions, tables, views, indexes, as well as backups/restores, performance tuning, and overall system health in a replicated clustered environments. I was also responsible for importing customer data in SQL using SSIS. I've worked on SQL Server 2000, 2005,2008 R2,2012 and 2014.I also worked on migration/Upgrade projects.\n\nSpecialties: T-SQL, Stored Procedures, Performance Tuning, Administration, Design, Development, Architecture."
+  },
+  "aboutAlternative": {
+    "text": "I am working as a SQL Database Administrator with a high transaction, high availability systems dealing with Transportation,e-Commerce,Software and medical device industry since 2005. I am responsible for creating and maintaining Stored Procedures, functions, tables, views, indexes, as well as backups/restores, performance tuning, and overall system health in a replicated clustered environments. I was also responsible for importing customer data in SQL using SSIS. I've worked on SQL Server 2000, 2005,2008 R2,2012 and 2014.I also worked on migration/Upgrade projects.\n\nSpecialties: T-SQL, Stored Procedures, Performance Tuning, Administration, Design, Development, Architecture."
+  },
+  "positions": [
+    {
+      "title": "SQL Product support analyst",
+      "companyName": "Boston Scientific",
+      "location": "Greater Minneapolis-St. Paul Area",
+      "description": "Responsible for leading the Offshore\\onshore group and supervise the Operational team, technically supervise a team work in all aspects.\nWork on Cut-over activity on Prod and stage environments.\nProvided 24 x 7 and on-call Production support for the databases and application issues.\nWorking on Performance tuning for Sales application using DPA, DMV's.\nWorking with Business analysts and Design/develop the tables,Stored procedures and Views.\nMonitor and trouble shoot the SQL Issues through BMC Remedy.\nCreated SSIS packages for the extracting, transforming and loading the data from SAP systems into SQL Server 2008R2.\n…\nsee more",
+      "date1": "Apr 2016 – Present",
+      "date2": "3 yrs 8 mos"
+    },
+    {
+      "title": "Sr. SQL Server DBA",
+      "companyName": "Minnesota Judicial Branch",
+      "description": "-Working on Performance tuning on SQL server Environment for MNCIS Application.\n-Working on SQL Server Migration from SQL server 2008R2 to SQL server 2012.\n-Monitoring and resolving the Blocking /Deadlock issues using SQL Profiler and Extended Events.",
+      "date1": "Dec 2015 – Mar 2016",
+      "date2": "4 mos"
+    },
+    {
+      "title": "Sr.SQLServer DBA",
+      "companyName": "Boston Scientific",
+      "description": "-Working as Projects/operation SQL DBA,Worked on SQL server Migration from SQL server 2005 to 2008R2 and 20082 to 2012\n- Work with Application teams, taking in requirements and architect a SQL Server to meet their application needs, then working with Server team to get either physical or Virtual server setup and SQL Server installed and configured\n-Worked and implemented the DR solution.\n-Installed, configured and upgraded MS SQL Server 2005/2008R2/2012/2014\n-Build and Configured the Stage/Test and Dev environment based on customer requirements.\n-Monitoring and resolving Space issues, Jobs, Blockings and SQL related Virtual tickets.\n\n…\nsee more",
+      "date1": "Jun 2013 – Dec 2015",
+      "date2": "2 yrs 7 mos"
+    },
+    {
+      "title": "Sr.Software Engineer",
+      "companyName": "Accenture in India",
+      "description": "-Worked as Level 2 analyst and troubleshooting the incidents from the operations perspective.\n-Provided 24 x 7 Production support for the database and application issues.\n-Developed SQL scripts for maintaining administration tasks.\n-Implemented disaster recovery solution at the remote site for the production databases using Log Shipping.\n-Used SSIS to create ETL packages to validate, extract, transform and load data to data warehouse and data marts.\n-Worked on SQL server Migration from SQL server 2005 to 2008R2.\n-Worked on moving and restoring the database backups from Prod to Test/Dev/Stage environments for testing activities.\n-Installed SQL Server2005/2008R2 on Windows 2003/2008R2 Server.\n-Scheduling and applying monthly security patches on Production and Non-Production environments.\n-Tuned the SQL queries using SQL profiler. Involved in tuning the database\n…\nsee more",
+      "date1": "Jun 2008 – Mar 2013",
+      "date2": "4 yrs 10 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Anna University",
+      "degree": "Bachelor's degree",
+      "fieldofstudy": "Electrical, Electronics and Communications Engineering",
+      "date1": "2001",
+      "date2": "2005"
+    }
+  ],
+  "skills": [
+    {
+      "title": "SQL",
+      "count": "7"
+    },
+    {
+      "title": "Microsoft SQL Server",
+      "count": "5"
+    },
+    {
+      "title": "SDLC",
+      "count": "5"
+    },
+    {
+      "title": "Performance Tuning",
+      "count": "4"
+    },
+    {
+      "title": "Database Administration",
+      "count": "4"
+    },
+    {
+      "title": "Disaster Recovery",
+      "count": "3"
+    },
+    {
+      "title": "Requirements Analysis",
+      "count": "2"
+    },
+    {
+      "title": "High Availability"
+    },
+    {
+      "title": "Extract, Transform, Load (ETL)"
+    },
+    {
+      "title": "Data Migration"
+    },
+    {
+      "title": "Troubleshooting"
+    },
+    {
+      "title": "SSIS",
+      "count": "4"
+    },
+    {
+      "title": "Oracle",
+      "count": "2"
+    },
+    {
+      "title": "XML",
+      "count": "2"
+    },
+    {
+      "title": "T-SQL",
+      "count": "2"
+    },
+    {
+      "title": "SQL Server Integration Services (SSIS)",
+      "count": "2"
+    },
+    {
+      "title": "BMC Remedy"
+    },
+    {
+      "title": "Stored Procedures"
+    },
+    {
+      "title": "windows server 2003/2008R2/2012"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "4",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/suretha-kemp-3b25a53/",
+        "text": "Naga reported to me during his role as a SQL Database Administrator with Boston Scientific. He is very technical, has great communication skills and he was very well liked by his team members and customers. Naga was always striving to improve our internal processes, that would simplify things for his fellow team mates. It was an absolute pleasure to have Naga on my team and I am hoping our paths cross again in the future. All the best for your future!\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/sharmila-shaik-89629317/",
+        "text": "He is very good at analytical and logical thinking. He is smart and hard worker. He is good at technical and functional knowledge too. Very strong in Sql Server and MSBI skills."
+      },
+      {
+        "user": "https://www.linkedin.com/in/eltayebelhasssan/",
+        "text": "Naga joined our DBA team and was immediately effective in finding out where the application's database performance issues coming from. He made recommendations upon which changes to stored procedures were made for better performance. Beside his depth experience and vast knowledge, Naga is a personable person and easy to get along with.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/ericzierdt/",
+        "text": "I had the pleasure of working closely with Naga Obul in my role of Sr. Database Administrator at Boston Scientific. Naga joined our team in a support role and very quickly learned our processes and proved how valuable he was. He was very detail orientated and when presented with problems he was able to think outside the box and come up with solutions to meet the needs of our internal customers. I would highly recommend him to any future employer.\n…\nSee more"
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "3",
+      "items": [
+        "English",
+        "Tamil",
+        "Telugu"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "I.T Software Solutions.Inc"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/coribergeron/",
+      "text": "Director, Travel Network Portfolio Operations Management at Sabre Corporation"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kalebchristenson/",
+      "text": "Support Analyst"
+    },
+    {
+      "user": "https://www.linkedin.com/in/gerald-molina-58a15a147/",
+      "text": "Application Support Specialist at Accenture"
+    },
+    {
+      "user": "https://www.linkedin.com/in/dawn-kenneda-2157b218/",
+      "text": "Application Support Analyst"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sivakumar-dhanapal-13aa2817/",
+      "text": "Lead Software Engineer at Cisco"
+    },
+    {
+      "user": "https://www.linkedin.com/in/khurrummehmood/",
+      "text": "Native Application Architecture, Mobile Architect, Tech Lead"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jacob-thompson-b9659762/",
+      "text": "Support Analyst at TempWorks Staffing Software"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sara-gumke-40119a72/",
+      "text": "Application Support Specialist at Greater Twin Cities United Way"
+    },
+    {
+      "user": "https://www.linkedin.com/in/qasim-haji-653bb497/",
+      "text": "Cyber Security Engineer at Constellation"
+    },
+    {
+      "user": "https://www.linkedin.com/in/vijaykumarthota/",
+      "text": "Architect - Technology at Virtusa"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Nagabhushanam Obul",
+    "headline": "SQL Product support analyst at Boston Scientific",
+    "location": "Greater Minneapolis-St. Paul Area",
+    "connections": "150",
+    "summary": "I am working as a SQL Database Administrator with a high transaction, high availability systems dealing with Transportation,e-Commerce,Software and medical device industry since 2005. I am responsible for creating and maintaining Stored Procedures, functions, tables, views, indexes, as well as backups/restores, performance tuning, and overall system health in a replicated clustered environments. I was also responsible for importing customer data in SQL using SSIS. I've worked on SQL Server 2000, 2005,2008 R2,2012 and 2014.I also worked on migration/Upgrade projects.\n\nSpecialties: T-SQL, Stored Procedures, Performance Tuning, Administration, Design, Development, Architecture."
+  }
+}

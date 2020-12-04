@@ -1,0 +1,230 @@
+{
+  "profileAlternative": {
+    "name": "Harry Wolff",
+    "headline": "Lead Engineer at MongoDB",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQF67C-G63h4ZQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=7_8PSozbJiZiqlbhUu4-CI1TZLFzO0MyFl4DzAt-Zqo",
+    "location": "Greater New York City Area",
+    "connections": "500+",
+    "summary": "You can't escape my laugh."
+  },
+  "aboutAlternative": {
+    "text": "You can't escape my laugh."
+  },
+  "positions": [
+    {
+      "title": "MongoDB",
+      "location": "Greater New York City Area",
+      "date1": "Jun 2017 – Present",
+      "date2": "2 yrs 6 mos",
+      "roles": [
+        {
+          "title": "Lead Engineer",
+          "date1": "Jun 2017 – Present",
+          "date2": "2 yrs 6 mos",
+          "location": "Greater New York City Area"
+        },
+        {
+          "title": "Senior Web Engineer",
+          "date1": "Oct 2016 – Jun 2017",
+          "date2": "9 mos",
+          "location": "NYC"
+        }
+      ]
+    },
+    {
+      "title": "Title\nLead Engineer",
+      "location": "Greater New York City Area",
+      "date1": "Jun 2017 – Present",
+      "date2": "2 yrs 6 mos",
+      "roles": [
+        {
+          "title": "Lead Engineer",
+          "date1": "Jun 2017 – Present",
+          "date2": "2 yrs 6 mos",
+          "location": "Greater New York City Area"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSenior Web Engineer",
+      "location": "NYC",
+      "date1": "Oct 2016 – Jun 2017",
+      "date2": "9 mos",
+      "roles": [
+        {
+          "title": "Senior Web Engineer",
+          "date1": "Oct 2016 – Jun 2017",
+          "date2": "9 mos",
+          "location": "NYC"
+        }
+      ]
+    },
+    {
+      "title": "Lead Web Developer",
+      "companyName": "TodayTix",
+      "date1": "Mar 2016 – Oct 2016",
+      "date2": "8 mos"
+    },
+    {
+      "title": "Chartbeat",
+      "description": "Senior coding on the front-end.",
+      "date1": "May 2015 – Mar 2016",
+      "date2": "11 mos",
+      "roles": [
+        {
+          "title": "Senior Frontend Engineer",
+          "date1": "May 2015 – Mar 2016",
+          "date2": "11 mos"
+        },
+        {
+          "title": "Frontend Engineer",
+          "date1": "May 2013 – Apr 2015",
+          "date2": "2 yrs"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSenior Frontend Engineer",
+      "description": "Senior coding on the front-end.",
+      "date1": "May 2015 – Mar 2016",
+      "date2": "11 mos",
+      "roles": [
+        {
+          "title": "Senior Frontend Engineer",
+          "date1": "May 2015 – Mar 2016",
+          "date2": "11 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nFrontend Engineer",
+      "description": "Coding on the frontend.",
+      "date1": "May 2013 – Apr 2015",
+      "date2": "2 yrs",
+      "roles": [
+        {
+          "title": "Frontend Engineer",
+          "date1": "May 2013 – Apr 2015",
+          "date2": "2 yrs"
+        }
+      ]
+    },
+    {
+      "title": "Web Developer",
+      "companyName": "GetGlue",
+      "description": "GetGlue is a social network for entertainment. Users check-in and share what they are watching, listening to and reading with friends; get fresh recommendations, exclusive stickers, discounts and other rewards from their favorite TV shows and movies.\n\nAs a web developer I participate in development of GetGlue.com and mobile site.\nI discuss design, usability, scalability, security, etc. with the team, collaborate with the backend team on GetGlue Web Service, write new code for weekly iterations, refactor, tune and maintain existing code, write tests and fix bugs.\n…\nsee more",
+      "date1": "May 2011 – May 2013",
+      "date2": "2 yrs 1 mo"
+    },
+    {
+      "title": "Manager",
+      "companyName": "Wolff Technologies LLC",
+      "description": "Website design and development.",
+      "date1": "Oct 2009 – Nov 2011",
+      "date2": "2 yrs 2 mos"
+    },
+    {
+      "title": "Web Producer",
+      "companyName": "dLife",
+      "description": "Works closely with a cross-functional team (Sales, Marketing, Editorial, IT, Web Product Management, and external creative vendors) to implement online solutions.",
+      "date1": "Oct 2010 – May 2011",
+      "date2": "8 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "University of Connecticut",
+      "degree": "Bachelors of General Studies",
+      "fieldofstudy": "Web, programming, design, business, economics,",
+      "date1": "2009",
+      "date2": "2010"
+    },
+    {
+      "title": "Brandeis University",
+      "degree": "Computer Science, Philosophy",
+      "fieldofstudy": "Computer Science, Philosophy",
+      "date1": "2006",
+      "date2": "2009"
+    }
+  ],
+  "skills": [
+    {
+      "title": "CSS",
+      "count": "33"
+    },
+    {
+      "title": "HTML 5",
+      "count": "17"
+    },
+    {
+      "title": "JavaScript",
+      "count": "23"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "2",
+      "items": [
+        "Forgetmenot",
+        "Jot - Fast and Quick Notes iOS App"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/dittycheria/",
+      "text": "President & CEO @ MongoDB. We are hiring everywhere."
+    },
+    {
+      "user": "https://www.linkedin.com/in/dgraz/",
+      "text": "Consulting Engineer at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/michealparks/",
+      "text": "Lead Engineer at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/edward-tuckman-827538102/",
+      "text": "Software Engineer at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/wisdomomuya/",
+      "text": "Engineering Lead at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shreya-seth-16938765/",
+      "text": "Strategic Finance at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sophiestadler/",
+      "text": "Software Engineer at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/xiang-gao-6977b4a/",
+      "text": "Engineering Team Lead at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/rashmi-srinivas-21050/",
+      "text": "Product Designer at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/eliothorowitz/",
+      "text": "CTO and Co-Founder at MongoDB"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Harry Wolff",
+    "headline": "Lead Engineer at MongoDB",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQF67C-G63h4ZQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=7_8PSozbJiZiqlbhUu4-CI1TZLFzO0MyFl4DzAt-Zqo",
+    "location": "Greater New York City Area",
+    "connections": "500+",
+    "summary": "You can't escape my laugh."
+  }
+}

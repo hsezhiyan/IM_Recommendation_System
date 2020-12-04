@@ -1,0 +1,292 @@
+{
+  "profileAlternative": {
+    "name": "Vitali Zaidman",
+    "headline": "Full Stack, React, Next.js Technical Lead",
+    "imageurl": "https://media.licdn.com/dms/image/C5103AQH40SP8czizoA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=Vtre3XhfBc2vcX7D4XVAroKTDEwrdCvapDZGjuV4mQM",
+    "location": "Israel",
+    "connections": "500+",
+    "summary": "I can be hired as part of our companies consulting, mentoring and software development services: https://goo.gl/UUFEF2 , vitalikz@welldone-software.com"
+  },
+  "aboutAlternative": {
+    "text": "I can be hired as part of our companies consulting, mentoring and software development services: https://goo.gl/UUFEF2 , vitalikz@welldone-software.com"
+  },
+  "positions": [
+    {
+      "title": "WellDone Software Solutions Ltd.",
+      "description": "➮ Leading short and long term projects.\n➮ Expert in React Redux Next.JS after researching and working with it for a couple of years.\n➮ Advising and developing advanced web solutions in other projects.\n➮ Writing various technical articles and sharing knowledge inside our company and with our customers.\n\nOur customers I worked with:\n\n◉ 10Bis.co.il ◉\n\n➜ April 2018 - Now\n\nIn charge of the re-built of the 10Bis.co.il web site using Nextjs and many other modern tools.\n\n◉ PowToon ◉\n\n➜ September 2017 - Now\n\nIn charge of development of advanced features and keeping the project up to date with the most cutting edge technology.\n\n➜ March 2016 - September 2017\n\nLeading the migration of PowToon.com from flash to HTML5 using React+Redux.\n\nThis was a very challenging project that was done on time with more features then originally planned.\n\nThe main challenge was to create a relatively big project from scratch- We were developing many\nfeatures in parallel while keeping it the website usable, high performing and cross browser supported, including IE :) , although the project is very UI oriented.\n\n◉ UENI ◉\n\n➜ September 2017 - March 2018\n\nResponsible for the rebuilding of UENI.com from scratch using React+Redux+Next.js.\n\nThe main challenge in this project was SEO optimization- we wanted to make sure the site and it's sub sites are very high in search engines using various advanced techniques like using Next.js to render\nReact Redux website on the server.\n\nAnother challenge was to build it with international and multi-language support.\n…\nsee more",
+      "date1": "Jul 2016 – Present",
+      "date2": "3 yrs 5 mos",
+      "roles": [
+        {
+          "title": "Senior Web architect. React and JavaScript leader at Welldone Software",
+          "date1": "Jul 2016 – Present",
+          "date2": "3 yrs 5 mos"
+        },
+        {
+          "title": "Full Stack Developer",
+          "date1": "Aug 2012 – Jul 2016",
+          "date2": "4 yrs"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSenior Web architect. React and JavaScript leader at Welldone Software",
+      "description": "➮ Leading short and long term projects.\n➮ Expert in React Redux Next.JS after researching and working with it for a couple of years.\n➮ Advising and developing advanced web solutions in other projects.\n➮ Writing various technical articles and sharing knowledge inside our company and with our customers.\n\nOur customers I worked with:\n\n◉ 10Bis.co.il ◉\n\n➜ April 2018 - Now\n\nIn charge of the re-built of the 10Bis.co.il web site using Nextjs and many other modern tools.\n\n◉ PowToon ◉\n\n➜ September 2017 - Now\n\nIn charge of development of advanced features and keeping the project up to date with the most cutting edge technology.\n\n➜ March 2016 - September 2017\n\nLeading the migration of PowToon.com from flash to HTML5 using React+Redux.\n\nThis was a very challenging project that was done on time with more features then originally planned.\n\nThe main challenge was to create a relatively big project from scratch- We were developing many\nfeatures in parallel while keeping it the website usable, high performing and cross browser supported, including IE :) , although the project is very UI oriented.\n\n◉ UENI ◉\n\n➜ September 2017 - March 2018\n\nResponsible for the rebuilding of UENI.com from scratch using React+Redux+Next.js.\n\nThe main challenge in this project was SEO optimization- we wanted to make sure the site and it's sub sites are very high in search engines using various advanced techniques like using Next.js to render\nReact Redux website on the server.\n\nAnother challenge was to build it with international and multi-language support.\n…\nsee more",
+      "date1": "Jul 2016 – Present",
+      "date2": "3 yrs 5 mos",
+      "roles": [
+        {
+          "title": "Senior Web architect. React and JavaScript leader at Welldone Software",
+          "date1": "Jul 2016 – Present",
+          "date2": "3 yrs 5 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nFull Stack Developer",
+      "description": "Worked as a WellDone Software Ninja on various projects. Usually on hard-to-solve issues. Also, started sites and open source libraries from scratch or rewriting existing projects.",
+      "date1": "Aug 2012 – Jul 2016",
+      "date2": "4 yrs",
+      "roles": [
+        {
+          "title": "Full Stack Developer",
+          "date1": "Aug 2012 – Jul 2016",
+          "date2": "4 yrs"
+        }
+      ]
+    },
+    {
+      "title": "Site Developer",
+      "companyName": "dogspoker.net",
+      "date1": "Nov 2011 – Aug 2012",
+      "date2": "10 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "The Open University of Israel",
+      "degree": "B.Sc.",
+      "fieldofstudy": "Computer Science",
+      "date1": "2010",
+      "date2": "2014"
+    }
+  ],
+  "skills": [
+    {
+      "title": "JavaScript"
+    },
+    {
+      "title": "React.js"
+    },
+    {
+      "title": "Node.js"
+    },
+    {
+      "title": "Android Development"
+    },
+    {
+      "title": "iOS Development"
+    },
+    {
+      "title": "Design Patterns"
+    },
+    {
+      "title": "Cloud Computing"
+    },
+    {
+      "title": "Testing"
+    },
+    {
+      "title": "Front End"
+    },
+    {
+      "title": "Software Development"
+    },
+    {
+      "title": "Object-Oriented Programming (OOP)"
+    },
+    {
+      "title": "Web Development"
+    },
+    {
+      "title": "Object Oriented Design"
+    },
+    {
+      "title": "AngularJS"
+    },
+    {
+      "title": "Docker"
+    },
+    {
+      "title": "React Native"
+    },
+    {
+      "title": "Java"
+    },
+    {
+      "title": ".NET Framework"
+    },
+    {
+      "title": "C#"
+    },
+    {
+      "title": "React"
+    },
+    {
+      "title": "Reactjs"
+    },
+    {
+      "title": "Angular"
+    },
+    {
+      "title": "SharePoint"
+    },
+    {
+      "title": "NodeJS"
+    },
+    {
+      "title": "HTML5"
+    },
+    {
+      "title": "SQL"
+    },
+    {
+      "title": "jQuery"
+    },
+    {
+      "title": "Cascading Style Sheets (CSS)"
+    },
+    {
+      "title": "HTML"
+    },
+    {
+      "title": "Webpack"
+    },
+    {
+      "title": "Babel"
+    },
+    {
+      "title": "Babel.js"
+    },
+    {
+      "title": "Software as a Service (SaaS)"
+    },
+    {
+      "title": "Kubernetes"
+    },
+    {
+      "title": "Apache Cordova"
+    },
+    {
+      "title": "Windows Phone"
+    },
+    {
+      "title": "DevOp"
+    },
+    {
+      "title": "Lean Software Development"
+    },
+    {
+      "title": "Lean Startup"
+    },
+    {
+      "title": "E2E"
+    },
+    {
+      "title": "Full Stack"
+    },
+    {
+      "title": "Back End"
+    },
+    {
+      "title": "Storybook"
+    },
+    {
+      "title": "Front-end Engineering"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "12",
+      "items": [
+        "SEO For Developers — A Quick Overview",
+        "An Overview of JavaScript Testing in 2019",
+        "JSJ 331: “An Overview of JavaScript Testing in 2018” with Vitali Zaidman",
+        "מה להוציא לקוד פתוח? (ומה לא)",
+        "The Open Source Community- The Great Spontaneous Distributed Collective Effort",
+        "An Overview of JavaScript Testing in 2018",
+        "redux-toolbelt: Supercharge Your Redux",
+        "An Overview of Developer Tools for Windows",
+        "Clever Library Wrapping",
+        "An Overview of JavaScript Testing in 2017",
+        "How to Get Into the Web Development Field?",
+        "How Can Aspiring Programmers Improve Their Chances to Find a Good Job?"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "English",
+        "Hebrew",
+        "Russian"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/nir-goldman-07051487/",
+      "text": "FullStack/Magento 2 Programmer **Looking for my next OPPORTUNITY**"
+    },
+    {
+      "user": "https://www.linkedin.com/in/david-jinely-953a2569/",
+      "text": "React, React-Native, Angular (Freelancer)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nir-hanan-207877110/",
+      "text": "Full Stack & Mobile Expert at WellDone Software Solutions Ltd."
+    },
+    {
+      "user": "https://www.linkedin.com/in/ofer-musai-760b8489/",
+      "text": "Welldone - Your software development boutique, experts in React, ReactNative, NG2, Node, .Net, Java, Mobile and Cloud"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nir-alal-707733125/",
+      "text": "Full stack web developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yehuda-sabag-a2181925/",
+      "text": "Director of R&D at Oriient | Private consultant for architecture and development processes"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mirit-dahan-9a957a50/",
+      "text": "HR - Headhunting & Recruitment Specialist at Mirit Miryam Dahan"
+    },
+    {
+      "user": "https://www.linkedin.com/in/gal-amitai-3ab466102/",
+      "text": "Full-stack Developer at Elevate Studio Ltd"
+    },
+    {
+      "user": "https://www.linkedin.com/in/slavah79/",
+      "text": "Mobile, python, react native Lead development"
+    },
+    {
+      "user": "https://www.linkedin.com/in/noa-lichtenstein-446267147/",
+      "text": "Global talent acquisition specialist (I'm hiring!)"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Vitali Zaidman",
+    "headline": "Full Stack, React, Next.js Technical Lead",
+    "imageurl": "https://media.licdn.com/dms/image/C5103AQH40SP8czizoA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=Vtre3XhfBc2vcX7D4XVAroKTDEwrdCvapDZGjuV4mQM",
+    "location": "Israel",
+    "connections": "500+",
+    "summary": "I can be hired as part of our companies consulting, mentoring and software development services: https://goo.gl/UUFEF2 , vitalikz@welldone-software.com"
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "profileAlternative": {
+    "name": "Miloš Đurđević",
+    "headline": "PHP and JavaScript Developer",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQFzQbeqXWV3PQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=zLBAxjCsBP0d8x8U2b4OPp3XgS39JL8lhdK9Kpbl97Q",
+    "location": "Serbia",
+    "connections": "35",
+    "summary": "I know I do not have too much experience, but what I have is persistence in learning and huge desire for programming."
+  },
+  "aboutAlternative": {
+    "text": "I know I do not have too much experience, but what I have is persistence in learning and huge desire for programming."
+  },
+  "positions": [
+    {
+      "title": "PHP & JavaScript Developer",
+      "companyName": "Self-employed",
+      "location": "Belgrade/Serbia",
+      "date1": "Sep 2016 – Present",
+      "date2": "3 yrs 3 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "IT Academy",
+      "degree": "One-year course",
+      "fieldofstudy": "PHP WEB Development",
+      "date1": "2016",
+      "date2": "2017"
+    }
+  ],
+  "skills": [
+    {
+      "title": "JavaScript"
+    },
+    {
+      "title": "PHP"
+    },
+    {
+      "title": "Vue js",
+      "count": "1"
+    },
+    {
+      "title": "Object-Oriented Programming (OOP)"
+    },
+    {
+      "title": "jQuery"
+    },
+    {
+      "title": "MySQL"
+    },
+    {
+      "title": "HTML5"
+    },
+    {
+      "title": "Bootstrap"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/jelenamilanovic114/",
+      "text": "Web Developer at EyeSee"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mladen-ilic-8714b3151/",
+      "text": "PHP Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ljubisaivanovic/",
+      "text": "PHP Developer at Car Condor"
+    },
+    {
+      "user": "https://www.linkedin.com/in/milos-djurdjevic-9a5610b4/",
+      "text": "Web Developer at Mozzart"
+    },
+    {
+      "user": "https://www.linkedin.com/in/slobodan-radovanovic-513b17103/",
+      "text": "Web Developer at Energoprojekt Entel"
+    },
+    {
+      "user": "https://www.linkedin.com/in/daniel-danko-webdev/",
+      "text": "Full-Stack Web Developer at HUBX"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ivan-mitic/",
+      "text": "Web Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/stefan-vojki%C4%87/",
+      "text": "Full Stack Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/igorjanosevic/",
+      "text": "PHP Developer at LearnUpon Information Technology Lecturer at LINK Group"
+    },
+    {
+      "user": "https://www.linkedin.com/in/erikmathew/",
+      "text": "CEO @ Software-Nation"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Miloš Đurđević",
+    "headline": "PHP and JavaScript Developer",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQFzQbeqXWV3PQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=zLBAxjCsBP0d8x8U2b4OPp3XgS39JL8lhdK9Kpbl97Q",
+    "location": "Serbia",
+    "connections": "35",
+    "summary": "I know I do not have too much experience, but what I have is persistence in learning and huge desire for programming."
+  }
+}

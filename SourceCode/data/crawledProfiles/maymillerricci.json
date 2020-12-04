@@ -1,0 +1,240 @@
+{
+  "profileAlternative": {
+    "name": "May Miller-Ricci",
+    "headline": "Developer at thoughtbot",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQEtga9nFaTI0Q/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=Lz-4kCKgffN8uFxxKJ5EaAECjVQB28CRIiD1t_QEWU8",
+    "location": "San Francisco Bay Area",
+    "connections": "349"
+  },
+  "aboutAlternative": {},
+  "positions": [
+    {
+      "title": "Senior Developer",
+      "companyName": "thoughtbot",
+      "location": "San Francisco, CA",
+      "date1": "May 2017 – Present",
+      "date2": "2 yrs 7 mos"
+    },
+    {
+      "title": "Web Developer",
+      "companyName": "Treehouse Inc.",
+      "date1": "May 2015 – Apr 2017",
+      "date2": "2 yrs"
+    },
+    {
+      "title": "WestEd",
+      "location": "San Francisco, CA",
+      "date1": "Jan 2014 – May 2015",
+      "date2": "1 yr 5 mos",
+      "roles": [
+        {
+          "title": "Web Applications Developer",
+          "date1": "Jan 2014 – May 2015",
+          "date2": "1 yr 5 mos",
+          "location": "San Francisco, CA"
+        },
+        {
+          "title": "Program Associate, STEM Program",
+          "date1": "Feb 2008 – Sep 2014",
+          "date2": "6 yrs 8 mos",
+          "location": "Redwood City, CA"
+        }
+      ]
+    },
+    {
+      "title": "Title\nWeb Applications Developer",
+      "location": "San Francisco, CA",
+      "date1": "Jan 2014 – May 2015",
+      "date2": "1 yr 5 mos",
+      "roles": [
+        {
+          "title": "Web Applications Developer",
+          "date1": "Jan 2014 – May 2015",
+          "date2": "1 yr 5 mos",
+          "location": "San Francisco, CA"
+        }
+      ]
+    },
+    {
+      "title": "Title\nProgram Associate, STEM Program",
+      "location": "Redwood City, CA",
+      "date1": "Feb 2008 – Sep 2014",
+      "date2": "6 yrs 8 mos",
+      "roles": [
+        {
+          "title": "Program Associate, STEM Program",
+          "date1": "Feb 2008 – Sep 2014",
+          "date2": "6 yrs 8 mos",
+          "location": "Redwood City, CA"
+        }
+      ]
+    },
+    {
+      "title": "Web Developer in Training",
+      "companyName": "Coding Dojo",
+      "location": "Mountain View, CA",
+      "description": "Student at intensive programming \"bootcamp.\" Topics covered include HTML, CSS, jQuery, JavaScript, PHP, MySQL, Ajax, OOP, MVC, CodeIgniter, and Ruby on Rails.\n\nBlog about my experiences learning to code and attending the bootcamp:\nwww.maymillerricci.wordpress.com\n…\nsee more",
+      "date1": "Oct 2013 – Dec 2013",
+      "date2": "3 mos"
+    },
+    {
+      "title": "Assistant Director of Tutoring and Operations",
+      "companyName": "The Princeton Review",
+      "location": "Palo Alto, CA",
+      "date1": "Oct 2007 – Dec 2007",
+      "date2": "3 mos"
+    },
+    {
+      "title": "Corporate Essay Reviewer",
+      "companyName": "College Coach",
+      "date1": "Sep 2007 – Oct 2007",
+      "date2": "2 mos"
+    },
+    {
+      "title": "ESL Teacher",
+      "companyName": "Embassy CES",
+      "location": "Newton, MA",
+      "date1": "Jul 2007 – Aug 2007",
+      "date2": "2 mos"
+    },
+    {
+      "title": "1st and 2nd Grade Teacher",
+      "companyName": "Cloud Forest School",
+      "location": "Monteverde, Costa Rica",
+      "date1": "Jul 2006 – Jun 2007",
+      "date2": "1 yr"
+    },
+    {
+      "title": "English Teacher, Jaluit Elementary School",
+      "companyName": "WorldTeach",
+      "location": "Jaluit, Marshall Islands",
+      "date1": "Jul 2005 – Jun 2006",
+      "date2": "1 yr"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Swarthmore College",
+      "degree": "Bachelor of Arts (B.A.)",
+      "fieldofstudy": "Spanish"
+    }
+  ],
+  "skills": [
+    {
+      "title": "CSS",
+      "count": "12"
+    },
+    {
+      "title": "PHP",
+      "count": "11"
+    },
+    {
+      "title": "HTML",
+      "count": "10"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "1",
+    "receivedCount": "3",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/mattspiel/",
+        "text": "Over the months I was able to be May's manager I was impressed over and over again by her capabilities and consistency as a dev. May thinks about the big picture. She not only executes on her work, but she has a mind for process and is always vocal about when it can be improved. May doesn't just see problems, she helps to fix them. Whether that is through outlining options to address, or simply proactively initiating the fix in the code. May is a team player. She was always quick to extend a hand to other devs when they needed it: pairing, reviewing pull requests, offering a second opinion. One of the larger projects May was tasked with centered around integrating a 3rd party application into Treehouse's codebase. She was thorough and intentional about documenting the integration and her own work. Because of that, she made it easy for other team members to integrate and provide assistance as needed. She regularly met or exceeded her commitments on the project. It was assuring as her manager to know that she would thoughtfully and consistently execute on her work.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/gracestuart/",
+        "text": "I have managed May remotely for the prior 6 months. Throughout our acquaintance, May has demonstrated a high level of accountability by understanding business drivers and our numbers, owning and learning from her mistakes, and owning her inputs and results. She is also a hard worker, honest in her doings, earns and extends trust, and is an overall awesome collaborator. For example, May not only goes into deep level critical thinking type conversations about things, but she reads the room and the personalities of others then makes accommodations in her communication style in effort to collaborate better. May was actively involved in mentoring sessions, and was throughly engaged in increasing her technical skill set. She consistently delivers on time and her deliverables are always accepted upon first delivery. May asks the right questions about her work, and at the most appropriate time. May has a deep need to discuss and analyze new information, but some of her teammates do not. As a result, May reads the room and responds appropriately by going into deep discussion and analysis with others who also want to do this, and limiting her questions and discussion when others don't find this comfortable. May collaborates with the team about problem and solutions both in person and via Slack. She verifies her understanding of deliverables before getting too far into them which would result in rework.   May is a highly accountable, hard working collaborator who has been a pleasure to manage and interact with. I hope to have the opportunity to work with her again in the future.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/barbara-walsh-b2480253/",
+        "text": "May is a self-starter, a dedicated professional with heart and determination."
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/mattspiel/",
+        "text": "Matt was my manager at Treehouse on the engineering marketing team. He was juggling many responsibilities at the time including serving as Director of Design, managing the engineering marketing team and its members, and contributing as a designer. Despite having so many competing responsibilities that pulled him in many different directions, he always seemed totally focused on the task at hand and was able to give each item his whole attention. He managed the team well and worked hard to ensure the developers and designers on the team could focus solely on getting work done. He was always open for feedback and looked for ways to improve our team process. He also found little ways to encourage team bonding and bring the team together, which is so important for a remote team."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "8",
+      "items": [
+        "Code School - Courses in Ruby, JavaScript, HTML/CSS, Git, and Electives paths",
+        "Codecademy - Web Fundamentals (HTML & CSS), jQuery, Ruby, JavaScript, and PHP tracks",
+        "Coursera - Intro to Computer Science",
+        "Michael Hartl Ruby on Rails Tutorial",
+        "Treehouse - Courses in Ruby, Rails, and JavaScript tracks",
+        "Treehouse - Full Stack JavaScript Techdegree (in progress)",
+        "Udacity - Intro to Computer Science (Python)",
+        "Udacity - Web Development"
+      ]
+    },
+    {
+      "count": "4",
+      "items": [
+        "Chinese",
+        "French",
+        "Marshallese",
+        "Spanish"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Math Canvas"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/tyson-gach-ba6653186/",
+      "text": "Design Director at thoughtbot (we’re hiring!)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sviccari/",
+      "text": "Developer at thoughtbot"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jeffrey-arbeit-tax/",
+      "text": "Legislation Counsel at Joint Committee on Taxation"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mikedup/",
+      "text": "Senior Product Designer at MailChimp"
+    },
+    {
+      "user": "https://www.linkedin.com/in/samkap/",
+      "text": "Design Director at thoughtbot"
+    },
+    {
+      "user": "https://www.linkedin.com/in/toddmorningstar/",
+      "text": "Developer at thoughtbot"
+    },
+    {
+      "user": "https://www.linkedin.com/in/paulcsmith0218/",
+      "text": "Senior Software Engineer at Heroku"
+    },
+    {
+      "user": "https://www.linkedin.com/in/chris-toomey-8463b317/",
+      "text": "Development Director at thoughtbot"
+    },
+    {
+      "user": "https://www.linkedin.com/in/hansonsteve/",
+      "text": "Software Developer at thoughtbot"
+    },
+    {
+      "user": "https://www.linkedin.com/in/derrickjcarr/",
+      "text": "Developer at thoughtbot"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "May Miller-Ricci",
+    "headline": "Developer at thoughtbot",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQEtga9nFaTI0Q/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=Lz-4kCKgffN8uFxxKJ5EaAECjVQB28CRIiD1t_QEWU8",
+    "location": "San Francisco Bay Area",
+    "connections": "349"
+  }
+}

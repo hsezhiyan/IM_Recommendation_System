@@ -1,0 +1,211 @@
+{
+  "profileAlternative": {
+    "name": "Anoush Najarian",
+    "headline": "Eng. Manager • Hiring a Deep Learning Perf Engineer • Speaker at GHC19, ODSC, WECode • NeurIPS Meetup Chair • CMG Board",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQHZXcxHRk0szQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=apKW_GYgyOkmpD4nsiyBe3453oZAA3aD5J4jXrCLbm0",
+    "location": "Brookline, Massachusetts",
+    "connections": "500+",
+    "summary": "Passionate about building things, business development, creating amazing software tools with world-class performance and scalability. Love learning new things and growing with my team. Love to play with maker toys: robots, circuits, 3D printing, VR - and with math and languages."
+  },
+  "aboutAlternative": {
+    "text": "Passionate about building things, business development, creating amazing software tools with world-class performance and scalability. Love learning new things and growing with my team. Love to play with maker toys: robots, circuits, 3D printing, VR - and with math and languages."
+  },
+  "positions": [
+    {
+      "title": "Software Engineering Manager, MATLAB Performance Team",
+      "companyName": "MathWorks",
+      "location": "Natick, MA",
+      "description": "Love solving performance puzzles, helping my team grow and achieve professional goals, learning, teaching, and collaborating on amazing software tools for engineers and scientists",
+      "date1": "Mar 2008 – Present",
+      "date2": "11 yrs 9 mos"
+    },
+    {
+      "title": "Vice-Chair of the Board Of Directors",
+      "companyName": "Computer Measurement Group (CMG)",
+      "description": "Vice Chair of the Board of Directors of an international professional organization of Performance and Capacity Planning Engineers, CMG, Computer Measurement Group.",
+      "date1": "Nov 2014 – Present",
+      "date2": "5 yrs 1 mo"
+    },
+    {
+      "title": "Software Architect, Algorithm Authoring",
+      "companyName": "Houghton Mifflin",
+      "description": "Manager of a team of software developers and mathematicians working in a Scrum environment. Product Manager and Architect for Maple Authoring Environment, a Maple, PHP, and Java-based tool for authoring algorithmic questions for HM's online Math courses. Author of software requirements and design specifications. Technical Lead working in collaboration with HM Math Editorial, Media Production, vendors, and freelancers.\n…\nsee more",
+      "date1": "Aug 2004 – Mar 2008",
+      "date2": "3 yrs 8 mos"
+    },
+    {
+      "title": "Software Engineer, Kernel Group; Performance Analyst",
+      "companyName": "Stratus Technologies",
+      "description": "Implemented the RIPv2 network protocol for VOS, Stratus’s proprietary OS. Developed Java Native Interface under VOS. Designed performance tests, measured hardware and software performance.",
+      "date1": "Jul 2001 – Aug 2004",
+      "date2": "3 yrs 2 mos"
+    },
+    {
+      "title": "Volunteer, Founder",
+      "companyName": "SpiTux Project",
+      "location": "Armenia",
+      "description": "Founded a Linux lab for children in a community at the site of the 1988 Armenian Earthquake. Established a peer teaching network, coached a team of instructors. Together, we designed groundbreaking curricula in Computer Animation, Digital Newspaper Publishing, Digital Radio, and Software Development for ages 11-18.",
+      "date1": "Aug 2002 – Jul 2003",
+      "date2": "1 yr"
+    },
+    {
+      "title": "Guest Lecturer in Computer Networks",
+      "companyName": "Yerevan State University",
+      "description": "Delivered a course in Computer Networks to graduating seniors at Armenia’s top Computer Science Department. Pioneered the use of online teaching materials at the Department.",
+      "date1": "Sep 2002 – Jun 2003",
+      "date2": "10 mos"
+    },
+    {
+      "title": "Teaching Assistant and Research Assistant",
+      "companyName": "University of Illinois at Urbana-Champaign",
+      "location": "Urbana-Champaign, Illinois Area",
+      "description": "Taught Mathematics for Educators, Discrete Math, Calculus I, II, III, Calculus and Mathematica, and Harvard Calculus (small-groups course using graphing calculators). Proof-read a monograph on Several Complex Variables. Implemented numerical algorithms using MATLAB.",
+      "date1": "Sep 1995 – Jul 2001",
+      "date2": "5 yrs 11 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "University of Illinois at Urbana-Champaign",
+      "degree": "Master's",
+      "fieldofstudy": "Computer Science"
+    },
+    {
+      "title": "University of Illinois at Urbana-Champaign",
+      "degree": "Master's",
+      "fieldofstudy": "Mathematics"
+    },
+    {
+      "title": "University of Missouri-Columbia",
+      "degree": "Non-degree Graduate Program",
+      "fieldofstudy": "Economics"
+    },
+    {
+      "title": "Yerevan State University",
+      "degree": "Bachelor's Degree with Distinction",
+      "fieldofstudy": "Computational Mathematics and Computer Science"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Software Development",
+      "count": "55"
+    },
+    {
+      "title": "C++",
+      "count": "51"
+    },
+    {
+      "title": "Matlab",
+      "count": "50"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "3",
+    "receivedCount": "0",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/dr-nacer-b-660b4421/",
+        "text": "I know Nacer as an effective communicator, and a creative and tenacious problem-solver. Nacer helped my team work through a tricky customer case on performance. Nacer kept everyone informed, advocated for the customer effectively, and was relentless in investigating the issue: perusing customer artifacts; running a variety of MATLAB code; learning about and using profiling tools; learning how the operating system, drivers, and virtualization impact performance; running interactive sessions to guide the customer through the investigation. What we ultimately discovered was that the virtualized environment the customer was using was misconfigured. We received very enthusiastic feedback from the customer on this case! Nacer's work was instrumental in enlisting the customer as an advocate for our customer service, and our products.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/jamey-frank-csm-sp-0864222/",
+        "text": "When I think about Jamey Frank, what stands out is Jamey's amazing productivity and professionalism. Projects we have worked on together owe their success to Jamey's mastery of Project Management, communication skills, and charisma. Jamey's background in math, graphic design, and technology have been indispensable at every turn.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/williamjosephson/",
+        "text": "William is an earnest and competent professional. His background in software development, radars and in math has proven exceedingly helpful. William has done an excellent job of learning how to use new tools and technologies (Java, Groovy, Perl, Selenium, Nunit, Maple) and software development processes, such as Scrum. I recommend him with confidence.\n…\nSee more"
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "8",
+      "items": [
+        "Armenian",
+        "English",
+        "French",
+        "German",
+        "Hebrew",
+        "Italian",
+        "Persian",
+        "Russian"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "Fun with Arduino",
+        "Fun with Raspberry Pi",
+        "Robot Control with Simulnik"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "GHC17 Grant",
+        "LinuxFund.org prize for the SpiTux Project",
+        "Winner of National Olympiad in Computer Science"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "Computer Measurement Group, CMG",
+        "International Conference on Performance Engineering, ICPE"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/kaustubhareddy/",
+      "text": "Software Engineering Manager at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nazli-ansari/",
+      "text": "Data Scientist | GHC19"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mfreeman3/",
+      "text": "Senior Director of Engineering, Deep Learning & Data Analytics, MATLAB Products at MathWorks"
+    },
+    {
+      "user": "https://www.linkedin.com/in/saumyapriya/",
+      "text": "Software Engineer at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/pennylanderson/",
+      "text": "Director of Software Development at MathWorks"
+    },
+    {
+      "user": "https://www.linkedin.com/in/poonamchawla2010/",
+      "text": "Software Engineer at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/costapaul/",
+      "text": "Engineering Manager at MathWorks"
+    },
+    {
+      "user": "https://www.linkedin.com/in/deeptisukhwani/",
+      "text": "Senior Manager, Developing leaders at MathWorks"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jack-little-6b931/",
+      "text": "President at MathWorks"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jaya-shankar-4251868/",
+      "text": "Software Engineering, Senior Team Lead at MathWorks"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Anoush Najarian",
+    "headline": "Eng. Manager • Hiring a Deep Learning Perf Engineer • Speaker at GHC19, ODSC, WECode • NeurIPS Meetup Chair • CMG Board",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQHZXcxHRk0szQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=apKW_GYgyOkmpD4nsiyBe3453oZAA3aD5J4jXrCLbm0",
+    "location": "Brookline, Massachusetts",
+    "connections": "500+",
+    "summary": "Passionate about building things, business development, creating amazing software tools with world-class performance and scalability. Love learning new things and growing with my team. Love to play with maker toys: robots, circuits, 3D printing, VR - and with math and languages."
+  }
+}

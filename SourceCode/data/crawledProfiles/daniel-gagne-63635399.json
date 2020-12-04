@@ -1,0 +1,85 @@
+{
+  "profileAlternative": {
+    "name": "Daniel Gagne",
+    "headline": "President at Leaf and Java Inc.",
+    "location": "Carmel, New York",
+    "connections": "19"
+  },
+  "aboutAlternative": {},
+  "positions": [
+    {
+      "title": "President",
+      "companyName": "Leaf and Java Inc."
+    },
+    {
+      "title": "President",
+      "companyName": "Leaf and Java Inc."
+    },
+    {
+      "title": "President",
+      "companyName": "Eagle Coffee int/l inc.",
+      "location": "Carmel, NY",
+      "description": "President / CEO\nOverseeing the complete operation of Eagle Coffee and Leaf and Java by forming, staffing, guiding, leading, and managing",
+      "date1": "Jan 1991 – Present",
+      "date2": "28 yrs 11 mos"
+    }
+  ],
+  "educations": [],
+  "skills": [
+    {
+      "title": "Food Service",
+      "count": "2"
+    },
+    {
+      "title": "Food Industry",
+      "count": "1"
+    },
+    {
+      "title": "Marketing Strategy",
+      "count": "1"
+    },
+    {
+      "title": "Food",
+      "count": "1"
+    },
+    {
+      "title": "Retail",
+      "count": "1"
+    },
+    {
+      "title": "Food & Beverage",
+      "count": "1"
+    },
+    {
+      "title": "Key Account Development",
+      "count": "1"
+    },
+    {
+      "title": "Team Building",
+      "count": "1"
+    },
+    {
+      "title": "Management",
+      "count": "1"
+    },
+    {
+      "title": "New Business Development",
+      "count": "1"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Daniel Gagne",
+    "headline": "President at Leaf and Java Inc.",
+    "location": "Carmel, New York",
+    "connections": "19"
+  }
+}

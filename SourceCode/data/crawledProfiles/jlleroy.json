@@ -1,0 +1,376 @@
+{
+  "profileAlternative": {
+    "name": "Jean-Louis Leroy",
+    "headline": "Software Engineer at Bloomberg LP",
+    "imageurl": "https://media.licdn.com/dms/image/C5103AQE7DNszeYCpsg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=IEGI9rc3nnS14N5MadTALTahAevsi9FfA7p8ZZNw33M",
+    "location": "New York, New York",
+    "connections": "500+",
+    "summary": "30 years of experience in software development, mainly as developer and architect, in various sectors (finance, air traffic control, market research...). Specialist in object-oriented technologies, in particular in C++, C# and Perl. Author, conference speaker and instructor. Resourceful, reliable and enthusiastic team player."
+  },
+  "aboutAlternative": {
+    "text": "30 years of experience in software development, mainly as developer and architect, in various sectors (finance, air traffic control, market research...). Specialist in object-oriented technologies, in particular in C++, C# and Perl. Author, conference speaker and instructor. Resourceful, reliable and enthusiastic team player."
+  },
+  "positions": [
+    {
+      "title": "Senior Software Engineer",
+      "companyName": "Bloomberg LP",
+      "description": "Creation of various code analysis tools in Perl and C++.\nDevelopment of the new generation of the Bloomberg terminal, both on server side (Linux) and the client side (Windows).",
+      "date1": "Mar 2013 – Present",
+      "date2": "6 yrs 9 mos"
+    },
+    {
+      "title": "Senior Software Engineer",
+      "companyName": "BNP Paribas",
+      "description": "C++ and C#.NET architect and developer in the Global Market Risk Management service.\n\nTechnical supervisor for the in-house Risk software library.\n\nTraining and coaching of a team of quants, with little or no initial knowledge in C++.\n\nIntegration of proprietary and off-the-shelf C/C++ financial modules in a batch-oriented Sas environment.\n\nImplementation of grid computing for complex financial products (CDOs, exotic options).\n\nMiscellaneous “transversal” tasks: code management and versioning, SQL development, general IT support to the quants...\n…\nsee more",
+      "date1": "Jan 2007 – Dec 2012",
+      "date2": "6 yrs"
+    },
+    {
+      "title": "Software Engineer, Sysadmin, Partner",
+      "companyName": "Sound Object Logic",
+      "location": "Brussels",
+      "description": "Consulting expert at Eurocontrol (Air Traffic Control) in C++ and Perl\n\nArchitect and main developer of Tangram, a generic object manipulation toolkit and a suite of persistence tools in C++, Java and Perl. This project was sponsored and funded by the Brussels Region.\n\nDevelopment of applications for direct clients of my company, e.g.\n• MASH, an embarked web server and content manager for Areva.\n• RSF-RMA, a fault tracking system for RSF (world leader in audio-guides).\n\nInstructor\n• Courses in C++, Perl and Linux system administration.\n• Subcontractor for Orsys France, Orsys Belgique, Siemens, IT-Expert, KeyJob.\n• Internal trainings at Philips Nijmegen and Leuven, the VRT, Bayer CropScience, Tractebel, LMS, etc...\n\nAdministration of my company's computers and web resources\n…\nsee more",
+      "date1": "Oct 2000 – Mar 2007",
+      "date2": "6 yrs 6 mos"
+    },
+    {
+      "title": "Senior Software Engineer, Consultant",
+      "companyName": "Eurocontrol",
+      "description": "Participation in the development of the testing framework.\n\nIntegration of Perl and Perl modules in the build system.\n\nOptimization work on the build system.\nAnalysis and development of a test interpreter.\nDevelopment of an Object Query Language in Java.\n\nDevelopment of two file transfer utilities.\n…\nsee more",
+      "date1": "2001 – 2006",
+      "date2": "5 yrs"
+    },
+    {
+      "title": "Instructor (C++, Perl, Linux)",
+      "companyName": "ORSYS",
+      "description": "Instructor",
+      "date1": "1997 – 2005",
+      "date2": "8 yrs"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Conservatoire National des Arts et Métiers",
+      "degree": "Engineer's Degree",
+      "fieldofstudy": "Computer Science"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Perl",
+      "count": "15"
+    },
+    {
+      "title": "C++",
+      "count": "15"
+    },
+    {
+      "title": "Linux",
+      "count": "12"
+    },
+    {
+      "title": "Software Development",
+      "count": "8"
+    },
+    {
+      "title": "Design Patterns",
+      "count": "4"
+    },
+    {
+      "title": "Integration",
+      "count": "3"
+    },
+    {
+      "title": "Agile Methodologies",
+      "count": "3"
+    },
+    {
+      "title": "Web Services",
+      "count": "2"
+    },
+    {
+      "title": "Test Driven Development",
+      "count": "2"
+    },
+    {
+      "title": "OOP"
+    },
+    {
+      "title": "C#",
+      "count": "11"
+    },
+    {
+      "title": "SQL",
+      "count": "11"
+    },
+    {
+      "title": "Java",
+      "count": "7"
+    },
+    {
+      "title": "Databases",
+      "count": "6"
+    },
+    {
+      "title": "Unix",
+      "count": "5"
+    },
+    {
+      "title": "Visual C++",
+      "count": "4"
+    },
+    {
+      "title": "XML",
+      "count": "4"
+    },
+    {
+      "title": "Visual C#",
+      "count": "3"
+    },
+    {
+      "title": ".NET",
+      "count": "3"
+    },
+    {
+      "title": "JavaScript",
+      "count": "3"
+    },
+    {
+      "title": "Windows",
+      "count": "3"
+    },
+    {
+      "title": "Spring",
+      "count": "2"
+    },
+    {
+      "title": "JUnit",
+      "count": "1"
+    },
+    {
+      "title": "IntelliJ IDEA",
+      "count": "1"
+    },
+    {
+      "title": "Maven",
+      "count": "1"
+    },
+    {
+      "title": "REST",
+      "count": "1"
+    },
+    {
+      "title": "Git",
+      "count": "1"
+    },
+    {
+      "title": "C",
+      "count": "1"
+    },
+    {
+      "title": "HTML"
+    },
+    {
+      "title": "Assembly Language"
+    },
+    {
+      "title": "French",
+      "count": "1"
+    },
+    {
+      "title": "Boost C++",
+      "count": "4"
+    },
+    {
+      "title": "ReSharper",
+      "count": "2"
+    },
+    {
+      "title": "NUnit",
+      "count": "2"
+    },
+    {
+      "title": "WPF Development",
+      "count": "2"
+    },
+    {
+      "title": "MVVM",
+      "count": "2"
+    },
+    {
+      "title": "XAML",
+      "count": "2"
+    },
+    {
+      "title": "NHibernate",
+      "count": "2"
+    },
+    {
+      "title": "TeamCity",
+      "count": "1"
+    },
+    {
+      "title": "Object Oriented Perl",
+      "count": "1"
+    },
+    {
+      "title": "Lisp",
+      "count": "1"
+    },
+    {
+      "title": "Smalltalk",
+      "count": "1"
+    },
+    {
+      "title": "Yacc",
+      "count": "1"
+    },
+    {
+      "title": "Win32 API",
+      "count": "1"
+    },
+    {
+      "title": "Symphony"
+    },
+    {
+      "title": "C/C++ STL",
+      "count": "3"
+    },
+    {
+      "title": "Forth",
+      "count": "1"
+    },
+    {
+      "title": "Subv"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "3",
+    "receivedCount": "6",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/michel-nizette-2b99408/",
+        "text": "My main collaboration with Jean-Louis was on the creation a C++ library of risk models at Fortis Bank. An aspect of the project that was both challenging and delightful is that the boundary between the roles of business (my team) and IT (Jean-Louis's team) was highly blurred, with both teams contributing heavily in terms of design, implementation, and ideas. One of Jean-Louis's responsibilities in the project was to ensure that the library code would remain production-level quality (as required for the production of official risk figures), in spite of a significant part of it being contributed by people with no prior background in C++ or structured development methodologies. Jean-Louis was the right person to take this charge, thanks to his deep knowledge in the field, his passion for sharing it, and his talent for making highly technical matters accessible to laypeople, all this combined with an acute ability to think out of the box. Priorities and projects changed with the merger, but I later had many other opportunities of appreciating, through both professional advices and friendly conversations, Jean-Louis's insightful and opinionated (though never dogmatic) views on various programming topics, as well as on general scientific matters.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/renaud-clokeur-4bba1621/",
+        "text": "Jean-Louis worked with us on several web/e-business projects including a dedicated web-based CRM, acting as database architect, application layer & persistence layer programmer. He delivered an outstanding job in these areas. Furthermore he's a great team driver showing the ability to think out of the box. Definitely a most valuable professionnal.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/gioacchino-galione-0606a412/",
+        "text": "Jean-Louis started working for Fortis Bank in 2007. Until 2010, he was involved as technical expert in a development of an internal risk project by using C and C++. One of his main achievements during that period was the setup of the grid computing (platform symphony). The first six months 2011, he was involved in the migration of a reporting tool wrote in Borland C++ that we received from the business. Technology used for that was: C# / WPF / MS SQL Server. Next, from mid-2011 until now, he helped us to setup the new development framework and started by making bug fixes and small development in the new Risk Application. He was also a key element by teaching the team and giving us his expertise in C# / WPF / MVVM / Test Driven development. By all these work experiences, he showed he was a real team player with a good communication skills and a great commitment to the deadline requirement of the projects.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/allardvincent/",
+        "text": "Jean-Louis is an efficient Software Engineer. He is always open for discussion and has a real talent to transmit his enthusiasm over new technologies and methodologies. He is also a team driver an provide efficient solutions."
+      },
+      {
+        "user": "https://www.linkedin.com/in/patrickmiddag/",
+        "text": "I worked with Jean-Louis on the information management project at the Belgian Federal Department of Justice. He delivered a huge component of our cross-platform C++ framework, the object-relational mapping and persistence layer. Furthermore he acted as our C++ guru and collective conscience as it came to the most optimal way to implement solutions and evolve the framework. Most of all Jean-Louis was a very dependable team-player.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/dobranszky/",
+        "text": "My team was responsible for validating pricing models for which task we developed a pricing library in C++. Later, this library was used also in production for daily risk measurements. Jean-Louis was helping us to maintain this library. He made a vast contribution to the library by redesigning it, optimising it and doing all the low-level programming. Besides that he is a C++ and Perl guru, he had no difficulty with designing and implementing financial tools and models either. He led and participated in several large-scale projects. He was always committed, professional and keen to help and guide his colleagues.\n…\nSee more"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/davidj2/",
+        "text": "I had the chance of working with David for on important project. As a software engineer he is knowledgeable, resourceful and imaginative. As a person he is good natured, accessible, always ready to help his colleagues."
+      },
+      {
+        "user": "https://www.linkedin.com/in/allardvincent/",
+        "text": "I worked with Vincent when I was implementing grid computing for complex financial products. He is the system administrator everybody dreams of: (incredibly) knowledgeable, friendly, constructive and available."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "8",
+      "items": [
+        "Open Methods: From C++ to D",
+        "Open Multi-Methods for C++11, Part 3 - Inside Yomm11: Data Structures and Algorithms",
+        "Open Multi-Methods for C++11, Part 2 - Introduction to Yomm11",
+        "Open Multi-Methods for C++11, Part 1 - The Case for Open Multi-Methods",
+        "A Timely Start",
+        "Pipes, Channels and Perl-Win32",
+        "Mapping SEH Exceptions to Visual C++ Exceptions",
+        "Multiple Inheritance for MFC 4.0"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "openmethods.d",
+        "yomm2",
+        "Tangram"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "English",
+        "French"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/david-sankel-94059841/",
+      "text": "Senior Software Engineer/Team Lead at Bloomberg LP"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shai-yusov-11a4a7134/",
+      "text": "Software Engineer at Bloomberg LP"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sally-sultan-685b3b193/",
+      "text": "Student | Aspiring Digital Artist & 2D Animator"
+    },
+    {
+      "user": "https://www.linkedin.com/in/marquis-pierre-263367183/",
+      "text": "Student | Future Software Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/rashmi-mashettiwar-82433a33/",
+      "text": "Developer at 1199 SEIU"
+    },
+    {
+      "user": "https://www.linkedin.com/in/cornelius-livingston-219313191/",
+      "text": "Aspiring videographers, editor, director and writer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/brittanysinodinos/",
+      "text": "Academic Advisor at Borough of Manhattan Community College"
+    },
+    {
+      "user": "https://www.linkedin.com/in/peter-beberaggi-3921b7153/",
+      "text": "Developing and Aspiring Animator"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mark-ramnathsingh-4623a1149/",
+      "text": "Aspiring 2D Styled Animator and Graphic Artist"
+    },
+    {
+      "user": "https://www.linkedin.com/in/wenbo-li-67a46aa8/",
+      "text": "Freelancer Graphic Designer UX/UI Designer Web Developer"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Chairman",
+      "experience": "Libre Software Meeting",
+      "description": "Science and Technology",
+      "date1": "Aug 2003 – Aug 2005",
+      "date2": "2 yrs 1 mo"
+    }
+  ],
+  "profile": {
+    "name": "Jean-Louis Leroy",
+    "headline": "Software Engineer at Bloomberg LP",
+    "imageurl": "https://media.licdn.com/dms/image/C5103AQE7DNszeYCpsg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=IEGI9rc3nnS14N5MadTALTahAevsi9FfA7p8ZZNw33M",
+    "location": "New York, New York",
+    "connections": "500+",
+    "summary": "30 years of experience in software development, mainly as developer and architect, in various sectors (finance, air traffic control, market research...). Specialist in object-oriented technologies, in particular in C++, C# and Perl. Author, conference speaker and instructor. Resourceful, reliable and enthusiastic team player."
+  }
+}

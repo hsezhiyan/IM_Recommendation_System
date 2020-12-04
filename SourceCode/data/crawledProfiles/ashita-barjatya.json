@@ -1,0 +1,96 @@
+{
+  "profileAlternative": {
+    "name": "Ashita Barjatya",
+    "headline": "Big Data and Java Developer at TIAA GBS",
+    "imageurl": "https://media.licdn.com/dms/image/C5103AQEQVzaalPq6OA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=rbILAVqK3I2TNkzcXBNgV4p-KpwnsrWSn2AVvgl0ezQ",
+    "location": "500+ connections",
+    "connections": "Contact info",
+    "summary": "A dynamic professional with 5 years of experience with design, development, customizations and implementation of software applications in Java Platform, Big data and MDM applications. Hands-on working experience in pipeline development, Data engineering with Big Data technologies like Sqoop, Kafka, Pig, Hive, HBase, Oozie, HDFS, AWS, Zookeeper,Spark, Spark Streaming, NOSQL ; Conversant with Core Java technologies. Worked alongside business teams to understand customer needs and translate them into technical specifications"
+  },
+  "aboutAlternative": {
+    "text": "A dynamic professional with 5 years of experience with design, development, customizations and implementation of software applications in Java Platform, Big data and MDM applications. Hands-on working experience in pipeline development, Data engineering with Big Data technologies like Sqoop, Kafka, Pig, Hive, HBase, Oozie, HDFS, AWS, Zookeeper,Spark, Spark Streaming, NOSQL ; Conversant with Core Java technologies. Worked alongside business teams to understand customer needs and translate them into technical specifications"
+  },
+  "positions": [
+    {
+      "title": "Big Data and Java Developer",
+      "companyName": "TIAA",
+      "location": "Mumbai, Maharashtra, India",
+      "date1": "Mar 2018 – Present",
+      "date2": "1 yr 9 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "National Institute of Technology Tiruchirappalli",
+      "degree": "Master of Computer Applications (MCA)",
+      "date1": "2012",
+      "date2": "2015"
+    },
+    {
+      "title": "Vikram University",
+      "degree": "Computer Applications",
+      "fieldofstudy": "Computer Applications",
+      "date1": "2009",
+      "date2": "2012"
+    }
+  ],
+  "skills": [],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/sonelsharma/",
+      "text": "Big Data Engineer at Exadatum"
+    },
+    {
+      "user": "https://www.linkedin.com/in/amruta-maniyar-80439459/",
+      "text": "Associate at TIAA"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kiran-adhav-04000153/",
+      "text": "Big Data Developer(Spark Developer) at Infosys Ltd"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nurika-roy-mukherjee-28690ba9/",
+      "text": "Associate Manager at TIAA GBS"
+    },
+    {
+      "user": "https://www.linkedin.com/in/swikruti-nayak-388b3b186/",
+      "text": "Hadoop developer at DXC Technology"
+    },
+    {
+      "user": "https://www.linkedin.com/in/supriyasutar/",
+      "text": "Analyst, Software Developer at TIAA-GBS, Pune"
+    },
+    {
+      "user": "https://www.linkedin.com/in/pallavigupta1301/",
+      "text": "Big Data Engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/payal-rawat-9b8491b7/",
+      "text": "Testing Analyst at TIAA"
+    },
+    {
+      "user": "https://www.linkedin.com/in/soundarya-thiagarajan-7a894926/",
+      "text": "Big Data Analytics professional"
+    },
+    {
+      "user": "https://www.linkedin.com/in/rashi-bagga-0856b05a/",
+      "text": "Big Data Developer at Datametica Solutions Private Limited"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Ashita Barjatya",
+    "headline": "Big Data and Java Developer at TIAA GBS",
+    "imageurl": "https://media.licdn.com/dms/image/C5103AQEQVzaalPq6OA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=rbILAVqK3I2TNkzcXBNgV4p-KpwnsrWSn2AVvgl0ezQ",
+    "location": "500+ connections",
+    "connections": "Contact info",
+    "summary": "A dynamic professional with 5 years of experience with design, development, customizations and implementation of software applications in Java Platform, Big data and MDM applications. Hands-on working experience in pipeline development, Data engineering with Big Data technologies like Sqoop, Kafka, Pig, Hive, HBase, Oozie, HDFS, AWS, Zookeeper,Spark, Spark Streaming, NOSQL ; Conversant with Core Java technologies. Worked alongside business teams to understand customer needs and translate them into technical specifications"
+  }
+}

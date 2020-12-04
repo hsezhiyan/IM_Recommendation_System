@@ -1,0 +1,133 @@
+{
+  "profileAlternative": {
+    "name": "Shekhar Anji Reddy",
+    "headline": "Python Developer",
+    "location": "Trenton, New Jersey",
+    "connections": "93",
+    "summary": "7+ years of experience as a Python Developer, proficient coder in multiple languages and environments including Python, REST API, AWS, C, C++, and SQL.\nWorked on several standard python packages like Numpy, matPlotLib, Pickle, PySide, django etc.\nDriven to architect Big Data solutions on multiple platforms using data analytics.\nDevelop ETL packages using SSIS to insert datasets to SQL server and generate project reports using SSRS and SQL.\nSQL Reference Mapper, using Regular Expressions Successfully mapped over a hundred thousand SQL references inside of SQL Object source code, VB code, SSRS reports, and DTS packages.\nWorked on various applications using python integrated IDE Eclipse, PyCharm, NetBeans, Geany.\nGood experience in developing web applications and implementing Model View Control (MVC) architecture using server side applications like Django, Flask, and Pyramid.\nExpertise in working with different databases like Microsoft SQL Server, Oracle, MySQL, PostgreSQL and Good knowledge in using NoSQL databases MongoDB (2.6,2.4)\nProficient in developing complex SQL queries, Stored Procedures, Functions, Packages along with performing DDL and DML operations on the database."
+  },
+  "aboutAlternative": {
+    "text": "7+ years of experience as a Python Developer, proficient coder in multiple languages and environments including Python, REST API, AWS, C, C++, and SQL.\nWorked on several standard python packages like Numpy, matPlotLib, Pickle, PySide, django etc.\nDriven to architect Big Data solutions on multiple platforms using data analytics.\nDevelop ETL packages using SSIS to insert datasets to SQL server and generate project reports using SSRS and SQL.\nSQL Reference Mapper, using Regular Expressions Successfully mapped over a hundred thousand SQL references inside of SQL Object source code, VB code, SSRS reports, and DTS packages.\nWorked on various applications using python integrated IDE Eclipse, PyCharm, NetBeans, Geany.\nGood experience in developing web applications and implementing Model View Control (MVC) architecture using server side applications like Django, Flask, and Pyramid.\nExpertise in working with different databases like Microsoft SQL Server, Oracle, MySQL, PostgreSQL and Good knowledge in using NoSQL databases MongoDB (2.6,2.4)\nProficient in developing complex SQL queries, Stored Procedures, Functions, Packages along with performing DDL and DML operations on the database."
+  },
+  "positions": [
+    {
+      "title": "Python Developer",
+      "companyName": "SiriusXM Canada",
+      "location": "Trenton, NJ",
+      "description": "Prototyped web front-end to MDM\nDesign database using Erwin and Python/Django for DB scheme scripting\nDesign MDM integration facilities (SOA-style)\nDevelop SOAP client for testing MDM to SAP R/3 interoperation\nDevelop scheme- and data-level database testing tool\nDevelop data cleansing, retrieval, migration tools (ETL)\nAnalyzed clients needs and developed software tools to assist dynamic site content creation (Python, wx Python)\nMainframe access profiles, using a series of algorithms created access profiles securing company mainframe system and allowing for auditing purposes and easier acclimation of new hires.\nSQL Workflow System, using Python created an adapter allowing communication between SharePoint lists and SSIS packages. This system provides users the ability to create complex automation workflows\nExcel Batch up loader, software that quickly uploads large batches of Excel Workbooks into our SQL Databases, while providing sanitizing and validation services\nSQL Naming Conventions Enforcement, Using Python; Stored Procedures created a server job that enforces naming conventions for all SQL objects. Creating a more constant SQL environment\nClient Search Engine, Using Python and XLWings package created an excel interface to search for client info through our databases\nIntegrated Opengrok into development environment for making source code visible across the organization.\nUsed Agile Metho\n\n…\nsee more",
+      "date1": "May 2015 – Present",
+      "date2": "4 yrs 7 mos"
+    },
+    {
+      "title": "Python Developer",
+      "companyName": "Bristol-Myers Squibb",
+      "location": "Tampa/St. Petersburg, Florida Area",
+      "description": "Work with a team of developers on python applications for RISK management.\nDesign, develop, test, deploy and maintain the website.\nDesigned and developed the UI of the website using HTML, AJAX, CSS and JavaScript\nDesigned and developed data management system using MySQL.\nRewrite existing Python/Django modules to deliver certain format of data.\nUsed Django Database API's to access database objects.\nWrote python scripts to parse XML documents and load the data in database.\nHandled all the client side validation using JavaScript.\nExpertise in writing Constraints, Indexes, Views, Stored Procedures, Cursors, Triggers and User Defined Function.\nI have also used Selenium Library to write fully functioning test automation process that allowed the simulation of submitting different we requests from multiple browser to web application.\nUsed JQuery for all client side JavaScript manipulation.\nCreated unit test/regression test framework for working/new code\nUsing Subversion control tool to coordinate team-development.\nDeveloped entire frontend and backend modules using Python on Django Web Framework. Responsible for debugging and troubleshooting the web application.\nDeveloped views and templates with Python and Django's view controller and templating language to create a user-friendly website interface.\n…\nsee more",
+      "date1": "Mar 2014 – Apr 2015",
+      "date2": "1 yr 2 mos"
+    },
+    {
+      "title": "Python Developer",
+      "companyName": "Lexmark International, Inc.",
+      "location": "Louisville, Kentucky Area",
+      "description": "Involved in preparing engineering specification with OOA and OOD. Used UML Tools to develop Use Case diagrams, Class diagrams, Collaboration and Sequence Diagrams, State Diagrams and Data Modeling.\nDeveloped application logic using Python, Java script, Java, C++\nUsed JMS for updating Mailing plans and tracking them.\nUsed Java Server Pages for content layout and presentation.\nCreated Data layer in MYSQL.\nExtracted and loaded data using Python scripts and PL/SQL packages\nSupported Java application for Media portal management.\nGenerated SWIG interfaces to co-ordinate between C++, Java and Python. Used JNI for communication between C++ and Java.\nWrote python scripts to parse XML documents and load the data in database.\nGenerated property list for every application dynamically using python.\nCreating unit test/regression test framework for working/new code\nDebugging and testing of the applications & fine tuning performance. Provided maintenance support in production environment.\n…\nsee more",
+      "date1": "Jan 2013 – Feb 2014",
+      "date2": "1 yr 2 mos"
+    },
+    {
+      "title": "Web Developer",
+      "companyName": "Elite Healthcare",
+      "location": "Houston, Texas Area",
+      "description": "Designed the front end of the application using CSS, AJAX, JSON and JQuery.\nWriting backend programming in Java.\nUsed JavaScript and XML to update a portion of a webpage.\nImplemented user interface guidelines and standards throughout the development and maintenance of the website using the HTML, JavaScript.\nExperience with advanced CSS concepts and also building table-free layouts.\nExperience in writing SQL queries for performing various CRUD operations like create, update, read and delete.\nImproved code reuse and performance by making effective use of various design patterns.\nCreated most important Business Rules which are useful for the scope of project and needs of customers.\nCreating database schema for MySQL Database and helped to draw ER-Diagrams using Microsoft Visio.\nDesigned low-level and High-level documentation for entire application, this involves in designing.\nUsed Git and Jira for code submissions and review process.\nManaged code versioning with Github and deployment to staging and production servers.\nExecute Display Controller regression tests with every firmware build release.\nReporting Issues using Excel to senior members in the team.\nWorked in development of applications especially\n\n…\nsee more",
+      "date1": "Jan 2012 – Dec 2012",
+      "date2": "12 mos"
+    }
+  ],
+  "educations": [],
+  "skills": [
+    {
+      "title": "Python"
+    },
+    {
+      "title": "Git"
+    },
+    {
+      "title": "MsSql"
+    },
+    {
+      "title": "Flask"
+    },
+    {
+      "title": "HTML"
+    },
+    {
+      "title": "css"
+    },
+    {
+      "title": "javasc"
+    },
+    {
+      "title": "Djang"
+    },
+    {
+      "title": "jq"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/sai-charan-macha/",
+      "text": "Python Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ekta-chauhan-42a351160/",
+      "text": "Python , Angular and AWS Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/skyler-x-a38a67157/",
+      "text": "Python Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/frank-derango-92ba1012/",
+      "text": "Actively Seeking- Full Stack Python Developer/Data Analyst"
+    },
+    {
+      "user": "https://www.linkedin.com/in/vladimirgosha/",
+      "text": "Full-stack Python developer. Looking for opportunities."
+    },
+    {
+      "user": "https://www.linkedin.com/in/writepython/",
+      "text": "Python Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sbmathema/",
+      "text": "Python Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/alekya-m-528b5a159/",
+      "text": "Python Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/krishna-gollavilli-799bb4149/",
+      "text": "Python Developer at Verizon Wireless"
+    },
+    {
+      "user": "https://www.linkedin.com/in/michael-zabary-98b4a429/",
+      "text": "Python Developer"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Shekhar Anji Reddy",
+    "headline": "Python Developer",
+    "location": "Trenton, New Jersey",
+    "connections": "93",
+    "summary": "7+ years of experience as a Python Developer, proficient coder in multiple languages and environments including Python, REST API, AWS, C, C++, and SQL.\nWorked on several standard python packages like Numpy, matPlotLib, Pickle, PySide, django etc.\nDriven to architect Big Data solutions on multiple platforms using data analytics.\nDevelop ETL packages using SSIS to insert datasets to SQL server and generate project reports using SSRS and SQL.\nSQL Reference Mapper, using Regular Expressions Successfully mapped over a hundred thousand SQL references inside of SQL Object source code, VB code, SSRS reports, and DTS packages.\nWorked on various applications using python integrated IDE Eclipse, PyCharm, NetBeans, Geany.\nGood experience in developing web applications and implementing Model View Control (MVC) architecture using server side applications like Django, Flask, and Pyramid.\nExpertise in working with different databases like Microsoft SQL Server, Oracle, MySQL, PostgreSQL and Good knowledge in using NoSQL databases MongoDB (2.6,2.4)\nProficient in developing complex SQL queries, Stored Procedures, Functions, Packages along with performing DDL and DML operations on the database."
+  }
+}

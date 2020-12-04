@@ -1,0 +1,246 @@
+{
+  "profileAlternative": {
+    "name": "Anjali Ashtekar",
+    "headline": "Front End Engineer / Nodejs Developer",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQH3XKTQiBeByQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=Wi5nScUq76sFYxsL-KdgTBE3elrOAEhdnEs2G2qSSJ4",
+    "location": "San Francisco Bay Area",
+    "connections": "202",
+    "summary": "Technical Skills: JavaScript, jQuery, Node.js, express.js, kraken.js, MongoDB, Mongoose, Monk, mLab, Firebase, Apache Cassandra, AWS-serverless computing (Lambda), AngularJS, Bootstrap, Bootswatch-slate, jade, Dust.js, express handlebars, ejs, Lodash, Git/GitHub, Heroku, HTML5, HTML KickStart, CSS, Zurb Foundation, free-CSS templates, Socket.IO, Drywall User management system\n\nSoftware engineering skills: Agile methodology, scrum, algorithms, data structures, MVC frameworks, Web Application Architecture, big data concepts.\n\nSample work/teaser:\nhttps://github.com/AnjaliCode/ExpenseReport\nhttps://github.com/AnjaliCode/KnowledgeBot\nhttps://github.com/AnjaliCode/MessagingApp\nhttps://github.com/AnjaliCode/GoogleAnalyticsDashboardPrototype"
+  },
+  "aboutAlternative": {
+    "text": "Technical Skills: JavaScript, jQuery, Node.js, express.js, kraken.js, MongoDB, Mongoose, Monk, mLab, Firebase, Apache Cassandra, AWS-serverless computing (Lambda), AngularJS, Bootstrap, Bootswatch-slate, jade, Dust.js, express handlebars, ejs, Lodash, Git/GitHub, Heroku, HTML5, HTML KickStart, CSS, Zurb Foundation, free-CSS templates, Socket.IO, Drywall User management system\n\nSoftware engineering skills: Agile methodology, scrum, algorithms, data structures, MVC frameworks, Web Application Architecture, big data concepts.\n\nSample work/teaser:\nhttps://github.com/AnjaliCode/ExpenseReport\nhttps://github.com/AnjaliCode/KnowledgeBot\nhttps://github.com/AnjaliCode/MessagingApp\nhttps://github.com/AnjaliCode/GoogleAnalyticsDashboardPrototype"
+  },
+  "positions": [
+    {
+      "title": "Independent Contractor",
+      "location": "San Francisco Bay Area",
+      "description": "• Shopping cart for books: Created an e-commerce system with limited commerce features using Paypal APIs for checkout. The system has a few static pages like ‘About page’. Admin option facilitates the books to be added, updated, deleted and of-course displayed. The system uses Kraken-js with dust” templating engine and Zurb foundation for front end CSS styling. ORM used for this system is Mongoose for MongoDB.\n• Portfolio Application: Built a portfolio application, which is a portfolio of various projects. The landing page gives a brief about the engineer in question on the side and in the main section, there is a display of projects. The MVC framework used is express. At the bottom of the page, there is a link to the ‘Amin area’, where individual project to be edited and deleted. Front-end framework is Foundation. The front-end language is express-handlebars.\n• Find a Doctor directory: Created an online directory where doctors can be searched based on state and specialty with 'Browse Doctors' feature. The front end uses express-handlebars with partials. The design is based on ‘free-CSS template’ website for various CSS templates. It uses apache Cassandra NoSQL database and nodejs.\n• Online learning Website: The website uses HTML KickStart, that has HTML5, CSS and JS building blocks that are used for rapid website production. MVC framework used is express and the front-end templating language is express-handlebars, database is MongoDB and ORM is Mongoose. On the home page, there is a partial for login for both students and instructors, and a partial for the list of classes. An instructor can create classes and a student after logging in, can register for those classes.\n…\nsee more",
+      "date1": "Mar 2017 – Present",
+      "date2": "2 yrs 9 mos",
+      "roles": [
+        {
+          "title": "Nodejs and Javascript Developer",
+          "date1": "Mar 2017 – Present",
+          "date2": "2 yrs 9 mos",
+          "location": "San Francisco Bay Area"
+        },
+        {
+          "title": "Nodejs and Javascript Developer",
+          "date1": "Mar 2017 – Present",
+          "date2": "2 yrs 9 mos",
+          "location": "San Francisco Bay Area"
+        },
+        {
+          "title": "Front End Developer",
+          "date1": "Jan 2017 – Apr 2017",
+          "date2": "4 mos",
+          "location": "San Francisco Bay Area"
+        }
+      ]
+    },
+    {
+      "title": "Title\nNodejs and Javascript Developer",
+      "location": "San Francisco Bay Area",
+      "description": "• Shopping cart for books: Created an e-commerce system with limited commerce features using Paypal APIs for checkout. The system has a few static pages like ‘About page’. Admin option facilitates the books to be added, updated, deleted and of-course displayed. The system uses Kraken-js with dust” templating engine and Zurb foundation for front end CSS styling. ORM used for this system is Mongoose for MongoDB.\n• Portfolio Application: Built a portfolio application, which is a portfolio of various projects. The landing page gives a brief about the engineer in question on the side and in the main section, there is a display of projects. The MVC framework used is express. At the bottom of the page, there is a link to the ‘Amin area’, where individual project to be edited and deleted. Front-end framework is Foundation. The front-end language is express-handlebars.\n• Find a Doctor directory: Created an online directory where doctors can be searched based on state and specialty with 'Browse Doctors' feature. The front end uses express-handlebars with partials. The design is based on ‘free-CSS template’ website for various CSS templates. It uses apache Cassandra NoSQL database and nodejs.\n• Online learning Website: The website uses HTML KickStart, that has HTML5, CSS and JS building blocks that are used for rapid website production. MVC framework used is express and the front-end templating language is express-handlebars, database is MongoDB and ORM is Mongoose. On the home page, there is a partial for login for both students and instructors, and a partial for the list of classes. An instructor can create classes and a student after logging in, can register for those classes.\n…\nsee more",
+      "date1": "Mar 2017 – Present",
+      "date2": "2 yrs 9 mos",
+      "roles": [
+        {
+          "title": "Nodejs and Javascript Developer",
+          "date1": "Mar 2017 – Present",
+          "date2": "2 yrs 9 mos",
+          "location": "San Francisco Bay Area"
+        }
+      ]
+    },
+    {
+      "title": "Title\nNodejs and Javascript Developer",
+      "location": "San Francisco Bay Area",
+      "description": "• Chat Application: Created a node.js chat application that uses express, web sockets - Socket.io, where anything loaded on server in realtime is updated on any client for a chat.\n• User Authentication System: Created Registration and Login modules with session manager using MongoDB, Node.js, BCryptjs for password hashing, and Passport module for Login Authentication with Jade as the templating engine.\n• Music album management App: Created an application where individual users can login and create their own music albums list, that can be edited and deleted with Firebase, that also enables authentication of users. Individual users cannot see or edit or delete each other’s albums or genres. The templating engine used is EJS, CSS styling is with Bootswatch - slate theme\n• Online Recipe Management App: Built an application that displays Recipes, with bootstrap modals. In case of adding a new recipe, a modal opens up with a form with recipe name, ingredients and directions. Alongside Express framework, application uses Dust.js templating system with bootstrap in the front end, with Javascript widgets included.\n• Community Events App: Created a Community based events app having registration and login functionality with ‘Drywall’ as the User Management system, where users create public events that can be added, viewed, updated and deleted by the user with mLab as a remote database.\n• Blog System: Built a Blog system with node.js and Express with MongoDB as the database, and Monk as the ORM. The blogs are displayed on the landing page that links to details page with embedded comments, category based search of blogs is possible. There is a full CRUD functionality for blogs and categories the blogs belong.\n…\nsee more",
+      "date1": "Mar 2017 – Present",
+      "date2": "2 yrs 9 mos",
+      "roles": [
+        {
+          "title": "Nodejs and Javascript Developer",
+          "date1": "Mar 2017 – Present",
+          "date2": "2 yrs 9 mos",
+          "location": "San Francisco Bay Area"
+        }
+      ]
+    },
+    {
+      "title": "Title\nFront End Developer",
+      "location": "San Francisco Bay Area",
+      "description": "• Weather App: Created a Weather App that shows current and forecast weather conditions with AJAX\n• Contact List with local-storage: Created a persistent contact list with front-end tools using javascript\n• Calculator App: Created a calculator App with vanilla javascript\n• Student Picker App: Created a web App with jQuery, HTML5, CSS, Bootstrap\n• Bank Transaction App: Created a module that demonstrates the money handling with local-storage\n• Mini Quora App: Created a miniature version of Questions, answers and comments with jQuery and local-storage\n• Task List App: Created a task list with CRUD functionality with jQuery, Bootstrap and local-storage\n…\nsee more",
+      "date1": "Jan 2017 – Apr 2017",
+      "date2": "4 mos",
+      "roles": [
+        {
+          "title": "Front End Developer",
+          "date1": "Jan 2017 – Apr 2017",
+          "date2": "4 mos",
+          "location": "San Francisco Bay Area"
+        }
+      ]
+    },
+    {
+      "title": "Technical Product Management Consultant",
+      "companyName": "Deccan Labs",
+      "location": "San Francisco Bay Area, CA",
+      "description": "Some of the relevant companies:\n\nInfermatic\nFocus on a product that deduces customer info with Facebook to lead targeted coupons\n• Defined product requirements and functional specs to publish personalized rewards, to create loyalty programs with Facebook fan page of a business, and to save coupon to credit card by clipping personalized coupons/rewards.\n- Also contributed substantially to Market sizing, market research, road mapping, market segmentation\n\nRight Angle Labs, a startup that promotes and advertises products with non-competing businesses\n• Created functional specs, UX-mock ups, user stories, use cases for creating coupons/rewards/ads on e-receipts of prior purchases of non-competing merchants that used Machine Learning.\n- Also contributed substantially to Market sizing, market research, road mapping, market segmentation\n\nMacrodatalab, a startup instrumental in creating big data platforms\n• Went through white papers. Contributed in creating marketing collaterals. Segregated the market segments and industries where the product- big objects can be used. Contributed in feedback management. Performed power pointing for merchants and investors.\n\nWisdomTap, a Crowd sourced product recommendations startup\n• Created functional specs, use cases, user stories and designed screen flows for pay-for-performance twitter based ad platform that used Natural Language Processing.\n• Created functional specs for product recommendation tool kit for e-commerce merchants by defining javascript widget.\n…\nsee more",
+      "date1": "Mar 2009 – Dec 2016",
+      "date2": "7 yrs 10 mos"
+    },
+    {
+      "title": "Hacker",
+      "companyName": "AT&T hackathon- 2 day event",
+      "location": "Redwood City, CA",
+      "description": "AT&T Mobile App Hackathon - Bay Area (IoT) : Nov 7th and Nov 8th.",
+      "date1": "Nov 2015",
+      "date2": "1 mo"
+    },
+    {
+      "title": "TiE: The Indus Entrepreneurs",
+      "companyName": "The Indus-Indian Entrepreneurs",
+      "location": "USA",
+      "description": "As a part of the marketing team, I lead ad operations for TiECon. My role included media buying for digital, print and radio.\n\nTo know more http://tiecon.org/volunteer/anjali-ashtekar-0\narchive.tiecon.org/volunteer/anjali-ashtekar-0\n\n\n\n…\nsee more",
+      "date1": "Feb 2014 – Jul 2014",
+      "date2": "6 mos"
+    },
+    {
+      "title": "Technical Product Manager",
+      "companyName": "A Little World",
+      "description": "Mobile Product management for micro finance, online billing and smart card ticketing system:\n• Assisted in business case development, validated business model with finance team and presented product concept\n• Authored product requirement documents including detailed use cases, mock-ups & business requirements for mobile applications, smart card platform, information management of back end server software and banking kiosk software\n• Prioritized feature-sets and developed Product roadmaps\n• Led entire life cycle of products from concept to launch. Worked collaboratively with GTM team to launch micro finance and mobile payments products\n\nTechnologies/tools used: JAVA, eclipse, Apache tomcat, MySQL\nTo know more about company www.alittleworld.com/\n…\nsee more",
+      "date1": "Feb 2004 – Dec 2006",
+      "date2": "2 yrs 11 mos"
+    },
+    {
+      "title": "Associate Technical Product Manager",
+      "companyName": "Xcelvision Technologies",
+      "description": "• Authored product requirements and prioritized feature-sets for School Management System by interacting with global customers\n• Authored product requirements and prioritized feature-sets for BroadSphere, a backbone of 'Enterprise Content Delivery Network'.\n\nTechnologies/tools used: IBM installShield, MySQL, Oracle\n\nTo know more about the company please visit http://corporatedir.com/company/xcelvision-technologies-private-limited.\n…\nsee more",
+      "date1": "Jan 2002 – Dec 2003",
+      "date2": "2 yrs"
+    },
+    {
+      "title": "Software enggineer",
+      "companyName": "VSNL Internet Services Ltd.",
+      "location": "India",
+      "description": "Worked as an research intern and software enggineer for voice recognition system.",
+      "date1": "Jul 1999 – Jun 2000",
+      "date2": "1 yr"
+    }
+  ],
+  "educations": [
+    {
+      "title": "University of Illinois at Urbana-Champaign",
+      "degree": "Master of Science (MS)",
+      "fieldofstudy": "Computer Science, Individual Study: Artificial Intelligence",
+      "date1": "2000",
+      "date2": "2002"
+    },
+    {
+      "title": "University of Mumbai",
+      "degree": "Bachelor of Engineering (BE)",
+      "fieldofstudy": "Electrical Engineering"
+    },
+    {
+      "title": "FDU, New Jersey, USA",
+      "degree": "Master of Business Administration (M.B.A.), New Jersey, USA",
+      "fieldofstudy": "Entrepreneurship/Entrepreneurial Studies",
+      "date1": "2007",
+      "date2": "2008"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Product Management",
+      "count": "3"
+    },
+    {
+      "title": "Mobile Applications",
+      "count": "2"
+    },
+    {
+      "title": "Cloud Computing",
+      "count": "1"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "1",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/vnshukla/",
+        "text": "Anjali is a hard working professional who takes her responsibilities seriously. As a volunteer in the marketing team for our annual conference, TiEcon, Anjali impressed us all with her intelligence, professionalism and ability to master complex tasks with ease. She was responsible for print and online media purchase and for developing the contact database for the organization. She was very effective in accomplishing both tasks well and in time.\n…\nSee more"
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "1",
+      "items": [
+        "English"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/michael-madison-71b356b/",
+      "text": "Oracle Hyperion Planning Lead Consultant at NTT DATA"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yeshvant-sadasivam-pmp-5a8a14a/",
+      "text": "Oracle EBS/Cloud Manager"
+    },
+    {
+      "user": "https://www.linkedin.com/in/myra-rotante-51230a166/",
+      "text": "Seeking new opportunity - Procurement"
+    },
+    {
+      "user": "https://www.linkedin.com/in/santoshi-m-752b57107/",
+      "text": "Available for Sr Oracle Financial Functional Lead positions"
+    },
+    {
+      "user": "https://www.linkedin.com/in/saikotadev/",
+      "text": "Full Stack Developer NodeJS"
+    },
+    {
+      "user": "https://www.linkedin.com/in/srinivasan-k-a678075/",
+      "text": "Manager - Technology at Deloitte Consulting"
+    },
+    {
+      "user": "https://www.linkedin.com/in/rahimmacknojia/",
+      "text": "Hyperion EPM (HFM, DRM) On-Premise, Oracle Financials ERP, and Hyperion EPBCS (Planning and Budgeting) Cloud Expert"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shalley-bharti-8530aa191/",
+      "text": "Self Employed at Sunlight freight Transport"
+    },
+    {
+      "user": "https://www.linkedin.com/in/aman-bansal-7a635910a/",
+      "text": "Technical Recruiter at Next Level Business Services, Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/mjangidi/",
+      "text": "Oracle SOA/Cloud Senior Developer & Lead"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "developer",
+      "experience": "At&T hackathon",
+      "description": "Science and Technology",
+      "date1": "Nov 2015",
+      "date2": "1 mo"
+    }
+  ],
+  "profile": {
+    "name": "Anjali Ashtekar",
+    "headline": "Front End Engineer / Nodejs Developer",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQH3XKTQiBeByQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=Wi5nScUq76sFYxsL-KdgTBE3elrOAEhdnEs2G2qSSJ4",
+    "location": "San Francisco Bay Area",
+    "connections": "202",
+    "summary": "Technical Skills: JavaScript, jQuery, Node.js, express.js, kraken.js, MongoDB, Mongoose, Monk, mLab, Firebase, Apache Cassandra, AWS-serverless computing (Lambda), AngularJS, Bootstrap, Bootswatch-slate, jade, Dust.js, express handlebars, ejs, Lodash, Git/GitHub, Heroku, HTML5, HTML KickStart, CSS, Zurb Foundation, free-CSS templates, Socket.IO, Drywall User management system\n\nSoftware engineering skills: Agile methodology, scrum, algorithms, data structures, MVC frameworks, Web Application Architecture, big data concepts.\n\nSample work/teaser:\nhttps://github.com/AnjaliCode/ExpenseReport\nhttps://github.com/AnjaliCode/KnowledgeBot\nhttps://github.com/AnjaliCode/MessagingApp\nhttps://github.com/AnjaliCode/GoogleAnalyticsDashboardPrototype"
+  }
+}

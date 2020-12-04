@@ -1,0 +1,294 @@
+{
+  "profileAlternative": {
+    "name": "Andrew Morrow",
+    "headline": "Director Platform Engineering at MongoDB, Inc.",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQFl56mP5V3fOg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=ozm_wJ3xVpH5VXQg3rgvRwz79CD8DFIXHguVczYBIrE",
+    "location": "New York, New York",
+    "connections": "500+",
+    "summary": "I lead the server platforms team at MongoDB. I specialize in concurrent server software for UNIX and Linux in C and C++, with particular emphasis on multicore performance and latency minimization. Expertise in large scale software development with C and C++, including object-oriented library design, memory management, event-driven IO multiplexing, and multithreading. Experience with standard APIs (POSIX threads, Boost, sockets, STL, etc.), toolchains including GCC and clang, numerous OSs, and all levels of the network stack. Open source contributor. I also co-organize the NYC C++ Meetup (http://www.meetup.com/nyccpp)."
+  },
+  "aboutAlternative": {
+    "text": "I lead the server platforms team at MongoDB. I specialize in concurrent server software for UNIX and Linux in C and C++, with particular emphasis on multicore performance and latency minimization. Expertise in large scale software development with C and C++, including object-oriented library design, memory management, event-driven IO multiplexing, and multithreading. Experience with standard APIs (POSIX threads, Boost, sockets, STL, etc.), toolchains including GCC and clang, numerous OSs, and all levels of the network stack. Open source contributor. I also co-organize the NYC C++ Meetup (http://www.meetup.com/nyccpp)."
+  },
+  "positions": [
+    {
+      "title": "Director, Platform Engineering",
+      "companyName": "MongoDB",
+      "location": "Greater New York City Area",
+      "description": "I lead the platforms engineering team at MongoDB. I work on the core database server and the C and C++ language drivers, primarily on low level aspects related to library design, async networking, data transformation, software portability, language conformance, toolchain and instrumentation, and the build system.",
+      "date1": "Oct 2012 – Present",
+      "date2": "7 yrs 2 mos"
+    },
+    {
+      "title": "Tech Lead",
+      "companyName": "Athena Capital Research LLC",
+      "description": "Equities HFT platform and strategy development with an emphasis on low latency data acquisition and event-driven server design in C++, Python, and Lua.",
+      "date1": "Jun 2009 – May 2012",
+      "date2": "3 yrs"
+    },
+    {
+      "title": "Software Engineer",
+      "companyName": "Google",
+      "date1": "Apr 2008 – Jul 2009",
+      "date2": "1 yr 4 mos"
+    },
+    {
+      "title": "Co-Founder/Software Engineer",
+      "companyName": "Tazz Networks",
+      "date1": "Dec 2000 – Feb 2008",
+      "date2": "7 yrs 3 mos"
+    },
+    {
+      "title": "Member Technical Staff",
+      "companyName": "Trilogy",
+      "date1": "Feb 2000 – Nov 2000",
+      "date2": "10 mos"
+    },
+    {
+      "title": "Software Engineer",
+      "companyName": "Fraunhofer Center for Research in Computer Graphics",
+      "date1": "May 1999 – Dec 1999",
+      "date2": "8 mos"
+    },
+    {
+      "title": "Programmer",
+      "companyName": "Encore Computer",
+      "date1": "May 1996 – Aug 1997",
+      "date2": "1 yr 4 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Brown University",
+      "degree": "Sc.B.",
+      "fieldofstudy": "Computer Science",
+      "date1": "1994",
+      "date2": "1999"
+    }
+  ],
+  "skills": [
+    {
+      "title": "C++",
+      "count": "14"
+    },
+    {
+      "title": "C++11",
+      "count": "3"
+    },
+    {
+      "title": "Software Engineering",
+      "count": "6"
+    },
+    {
+      "title": "Multithreading",
+      "count": "17"
+    },
+    {
+      "title": "Software Development",
+      "count": "13"
+    },
+    {
+      "title": "Object Oriented Design",
+      "count": "13"
+    },
+    {
+      "title": "Scalability",
+      "count": "7"
+    },
+    {
+      "title": "Algorithms",
+      "count": "4"
+    },
+    {
+      "title": "Debugging",
+      "count": "2"
+    },
+    {
+      "title": "Design Patterns",
+      "count": "1"
+    },
+    {
+      "title": "Performance Tuning",
+      "count": "1"
+    },
+    {
+      "title": "Release Management"
+    },
+    {
+      "title": "Unix",
+      "count": "4"
+    },
+    {
+      "title": "C",
+      "count": "7"
+    },
+    {
+      "title": "Linux",
+      "count": "14"
+    },
+    {
+      "title": "MongoDB",
+      "count": "14"
+    },
+    {
+      "title": "Python",
+      "count": "8"
+    },
+    {
+      "title": "Git",
+      "count": "4"
+    },
+    {
+      "title": "Ruby",
+      "count": "2"
+    },
+    {
+      "title": "Open Source Software",
+      "count": "1"
+    },
+    {
+      "title": "Open Source",
+      "count": "1"
+    },
+    {
+      "title": "Event Driven Programming",
+      "count": "2"
+    },
+    {
+      "title": "Low Latency",
+      "count": "5"
+    },
+    {
+      "title": "Socket Programming",
+      "count": "3"
+    },
+    {
+      "title": "Library Development",
+      "count": "2"
+    },
+    {
+      "title": "STL",
+      "count": "6"
+    },
+    {
+      "title": "Boost",
+      "count": "1"
+    },
+    {
+      "title": "Lua",
+      "count": "1"
+    },
+    {
+      "title": "Hg",
+      "count": "1"
+    },
+    {
+      "title": "Memory Management"
+    },
+    {
+      "title": "GCC"
+    },
+    {
+      "title": "POSIX"
+    },
+    {
+      "title": "Refactoring"
+    },
+    {
+      "title": "Profiling Tools"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "3",
+    "receivedCount": "4",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/colin-kincaid-85a216/",
+        "text": "Drew is a highly skilled engineer who has an exceptional sense of product ownership. His technical depth and commitment to product success make him somebody I would gladly work with again."
+      },
+      {
+        "user": "https://www.linkedin.com/in/jaredrosoff/",
+        "text": "Hands down one of the most talented engineers ever. Nothing else really needs to be said."
+      },
+      {
+        "user": "https://www.linkedin.com/in/richhawkes/",
+        "text": "Drew is a brilliant engineer. Insightful, articulate, focused, he has extensive knowledge of a wide range of software and systems technologies. He can solve the most complex and intricate problems, creating solutions that are elegant, high quality, and high performing."
+      },
+      {
+        "user": "https://www.linkedin.com/in/kevinmichaelfallis/",
+        "text": "Drew is a very thorough and extremely proficient developer. In addition to pioneering a TAZZ flavor of a COM related object management framework, Andrew has been instrumental in providing critical classes used in development such templatized mutexes and signalling solutions, ref counted pointer implementations, and other fairly complex template based developer tools. As a senior software engineer, Andrew can be considered a master of the C++ language and the Unix environment. Additionally, Andrew has well rounded experience in scripting and build environments and should be considered a first choice candidate when deciding on a new member of a team. His dedication to quality, extremely strong work ethic, and vast knowledge of OO concepts sets him apart from the rest of the playing field hands down.\n…\nSee more"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/cindelucas/",
+        "text": "Cinde is largely responsible for the fact that I work for Google now. Her guidance during the sometimes daunting Google hiring process was invaluable. Her efforts to ensure that I was always informed about each step of the process, and of every outcome along the way, eliminated much of the confusion and uncertainty that can so often accompany a hiring process. She takes a genuine and personal interest in the success of the candidates with whom she works."
+      },
+      {
+        "user": "https://www.linkedin.com/in/richhawkes/",
+        "text": "Of the various managers I have reported to while working as an engineer, Rich is by far the best. His ability to understand and manage complex and subtle engineering issues, including extremely low-level technical issues, is unsurpassed. When combined with the excellent organizational and planning skills that he brings to the table, as well as his natural team leadership, Rich is a powerful force for success in any project."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "3",
+      "items": [
+        "Pruning dynamic rebuilds with libabigail",
+        "Farewell, Solaris",
+        "A proposal to add swappability traits to the standard library"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/suganthi-mani-3ba93b55/",
+      "text": "Senior Software Engineer, Distributed Systems at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/louisaberger/",
+      "text": "Lead Engineer at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/iancohanshapiro/",
+      "text": "Product Team Lead at Compass"
+    },
+    {
+      "user": "https://www.linkedin.com/in/danpasette/",
+      "text": "SVP, Core Engineering at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ajitkumar-kathar/",
+      "text": "Sr. Application Integration SME, Unix Engineering at CLS Group - Xoriant"
+    },
+    {
+      "user": "https://www.linkedin.com/in/richardmunde/",
+      "text": "Owner at UpTime Computing"
+    },
+    {
+      "user": "https://www.linkedin.com/in/restlessdesign/",
+      "text": "Engineering Manager at Spotify"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yashashwi-patel-ba2294b4/",
+      "text": "Network Engineer at Pragma Securities LLC"
+    },
+    {
+      "user": "https://www.linkedin.com/in/eric-milkie-8148441/",
+      "text": "Director of Engineering at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/john-morales-3560637/",
+      "text": "Director of Engineering, Cloud Platforms at MongoDB, Inc."
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Andrew Morrow",
+    "headline": "Director Platform Engineering at MongoDB, Inc.",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQFl56mP5V3fOg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=ozm_wJ3xVpH5VXQg3rgvRwz79CD8DFIXHguVczYBIrE",
+    "location": "New York, New York",
+    "connections": "500+",
+    "summary": "I lead the server platforms team at MongoDB. I specialize in concurrent server software for UNIX and Linux in C and C++, with particular emphasis on multicore performance and latency minimization. Expertise in large scale software development with C and C++, including object-oriented library design, memory management, event-driven IO multiplexing, and multithreading. Experience with standard APIs (POSIX threads, Boost, sockets, STL, etc.), toolchains including GCC and clang, numerous OSs, and all levels of the network stack. Open source contributor. I also co-organize the NYC C++ Meetup (http://www.meetup.com/nyccpp)."
+  }
+}

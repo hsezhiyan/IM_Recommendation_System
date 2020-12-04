@@ -1,0 +1,290 @@
+{
+  "profileAlternative": {
+    "name": "Sunil Sandhu",
+    "headline": "Software Engineer",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQFZky1RKJwuFw/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=UTRUvT14z6oHM6YftFwD2OfbTKQUkCc-MLeuv9kiKXk",
+    "location": "United Kingdom",
+    "connections": "500+",
+    "summary": "Software Engineer / Web Developer - with professional experience of utilising the following languages, frameworks, libraries and tools:\n- JavaScript (incl. ES6/ES2015 and up)\n- React (incl. Redux, React Native)\n- Vue (incl. Vuex, Nuxt)\n- Node\n- TDD/BDD (Jest, Cypress, Enzyme, Testing Library)\n- HTML\n- CSS (SCSS, Stylus, BEM, CSS-in-JS, Styled Components, Bootstrap, Material-UI)\n- PHP\n- Laravel\n- SQL/MySQL\n- NoSQL\n- Firebase (Firestore, Real-Time DB, Cloud Functions/Serverless, Cloud Messaging)\n- Git (GitHub, BitBucket)\n- CI/CD (CircleCI)\n- Package Managers (npm, npx, yarn)\n- Build/Automation Tools (Webpack, Parcel, Gulp)\n- Terminal/Command Line\n- Progressive Web Apps/PWAs\n- CMS builds from scratch\n- Headless CMS services (Prismic)\n- Linux environments\n\nLimited experience with:\n- Python\n- Django\n- GraphQL\n- Express\n\nComfortable with Agile methodologies - mainly Kanban - along with agile management software such as Jira and Trello.\n\nEditor of Javascript In Plain English: www.jsipe.com (we were recently ranked in the Top 50 fastest growing Medium publications and currently receive approx. 800,000 views per month).\n\nWriter for Progress, Telerik, LogRocket, and JavaScript In Plain English.\n\nI wrote that React/Vue article - it was the most viewed React article of 2018. the most viewed Vue article of 2018 and currently sits in the Top 100 most applauded Medium articles of all time.\n\nName has been mispronounced many times during recordings of the official Vue.js News podcast."
+  },
+  "aboutAlternative": {
+    "text": "Software Engineer / Web Developer - with professional experience of utilising the following languages, frameworks, libraries and tools:\n- JavaScript (incl. ES6/ES2015 and up)\n- React (incl. Redux, React Native)\n- Vue (incl. Vuex, Nuxt)\n- Node\n- TDD/BDD (Jest, Cypress, Enzyme, Testing Library)\n- HTML\n- CSS (SCSS, Stylus, BEM, CSS-in-JS, Styled Components, Bootstrap, Material-UI)\n- PHP\n- Laravel\n- SQL/MySQL\n- NoSQL\n- Firebase (Firestore, Real-Time DB, Cloud Functions/Serverless, Cloud Messaging)\n- Git (GitHub, BitBucket)\n- CI/CD (CircleCI)\n- Package Managers (npm, npx, yarn)\n- Build/Automation Tools (Webpack, Parcel, Gulp)\n- Terminal/Command Line\n- Progressive Web Apps/PWAs\n- CMS builds from scratch\n- Headless CMS services (Prismic)\n- Linux environments\n\nLimited experience with:\n- Python\n- Django\n- GraphQL\n- Express\n\nComfortable with Agile methodologies - mainly Kanban - along with agile management software such as Jira and Trello.\n\nEditor of Javascript In Plain English: www.jsipe.com (we were recently ranked in the Top 50 fastest growing Medium publications and currently receive approx. 800,000 views per month).\n\nWriter for Progress, Telerik, LogRocket, and JavaScript In Plain English.\n\nI wrote that React/Vue article - it was the most viewed React article of 2018. the most viewed Vue article of 2018 and currently sits in the Top 100 most applauded Medium articles of all time.\n\nName has been mispronounced many times during recordings of the official Vue.js News podcast."
+  },
+  "positions": [
+    {
+      "title": "Founder & Editor",
+      "companyName": "JavaScript in Plain English",
+      "description": "Editor of JavaScript in Plain English (JSIPE), a Medium-partnered publication. We are one of the fastest growing tech publications, receiving over 800,000 hits per month.\n\nResponsibilities involve day-to-day running of the publication, liaising with a worldwide team of over 300 writers, occasional proofreading, general administrative tasks, and other ad-hoc duties.",
+      "date1": "Jun 2018 – Present",
+      "date2": "1 yr 6 mos"
+    },
+    {
+      "title": "Software Engineer",
+      "companyName": "EQL",
+      "location": "London, United Kingdom",
+      "description": "Summary:\n- Contract role: Worked on a library of products geared towards delivering accessible, affordable solutions for patients. This included contributions towards the build of the client-facing product, a backend admin panel, the website, and cloud-functions to connect moving parts together.\n\nLanguages/Frameworks/Libraries/Tools used:\nJavascript\nReact\nRedux\nFlow\nHTML\nMaterial-UI\nCSS\nFirebase\nWebpack\nyarn\nJest\nGit\nGithub\nTerminal/Command Line\nAdobe XD\nCI\nPrismic\nJira\n…\nsee more",
+      "date1": "Jun 2019 – Oct 2019",
+      "date2": "5 mos"
+    },
+    {
+      "title": "Full Stack Web Developer",
+      "companyName": "instinct laboratory",
+      "location": "Nottingham, United Kingdom",
+      "description": "Summary:\n- Mostly worked on a startup within the business geared towards mental health, wellbeing and performance. I was involved in each step of the design and development process as well as having a hand in day-to-day operations. Built the product through numerous iterations, culminating in three versions of the product (two were mobile apps, the other a web app), and a CMS for managing data received from the apps.\n- Aside from this, I also worked on a few smaller projects, including websites, web apps and a mobile app for a conference that the company held.\n\nLanguages/Frameworks/Libraries/Tools used:\nXcode\nAndroid Studio\nJavascript (ES5, ES2015, ES2016, ES2017)\nNode\nReact\nReact Native\nVue\nVuex\nVue Router\nNuxt\nPHP\nLaravel\nHTML\nSCSS\nCSS\nFirebase\nSQL\nMySQL\nParcel\nWebpack\nGulp\nnpm\nJest\nGit\nGithub/Bitbucket\nTrello\nTerminal/Command Line\nSSH\nAdobe XD\nCI (CircleCI)\n…\nsee more",
+      "date1": "Sep 2018 – Jun 2019",
+      "date2": "10 mos"
+    },
+    {
+      "title": "Web Developer",
+      "companyName": "Serosensa Creative",
+      "location": "Nottingham, United Kingdom",
+      "description": "Summary:\n- Built a social network;\n- Built web apps, sites, and microsites;\n- Built a CMS in vanilla PHP;\n- Created numerous dynamic, database-driven websites.\n\nLanguages/Frameworks/Libraries/Tools used:\nJavascript (ES5, ES2015, ES2016)\nVue\nReact\njQuery\nPHP\nLaravel\nHTML\nSCSS/Sass\nCSS\nSQL\nMySQL\nWebpack\nGulp\nnpm\nGit\nGithub/Bitbucket\nTrello\nHarvest\nTerminal/Command Line\nSSH\n…\nsee more",
+      "date1": "Aug 2017 – Sep 2018",
+      "date2": "1 yr 2 mos"
+    },
+    {
+      "title": "Web Developer",
+      "companyName": "Inpala.co",
+      "location": "United Kingdom",
+      "description": "Monetised my studying by building websites for self-sourced clients whilst learning to code.",
+      "date1": "Jul 2016 – Dec 2017",
+      "date2": "1 yr 6 mos"
+    },
+    {
+      "title": "Team Manager",
+      "companyName": "Answer-4u",
+      "location": "Nottingham, United Kingdom",
+      "description": "Directly managed a team of 16 employees whilst maintaining responsibility for supervising 60+ staff.",
+      "date1": "Jan 2012 – Jul 2017",
+      "date2": "5 yrs 7 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Massachusetts Institute of Technology",
+      "degree": "Opencourseware",
+      "fieldofstudy": "Computer Science",
+      "date1": "2019",
+      "date2": "2020"
+    },
+    {
+      "title": "The Interaction Design Foundation",
+      "degree": "User Experience Design",
+      "date1": "2019",
+      "date2": "2020"
+    },
+    {
+      "title": "Kingston University",
+      "degree": "LLB Second Class Honours (Upper)",
+      "fieldofstudy": "Bachelor of Laws"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Front-end Coding",
+      "count": "1"
+    },
+    {
+      "title": "Web Development",
+      "count": "2"
+    },
+    {
+      "title": "JavaScript",
+      "count": "1"
+    },
+    {
+      "title": "Social Media",
+      "count": "4"
+    },
+    {
+      "title": "Web Design",
+      "count": "1"
+    },
+    {
+      "title": "SEO",
+      "count": "1"
+    },
+    {
+      "title": "Copywriting",
+      "count": "5"
+    },
+    {
+      "title": "Editing",
+      "count": "2"
+    },
+    {
+      "title": "Magazines",
+      "count": "2"
+    },
+    {
+      "title": "Marketing",
+      "count": "2"
+    },
+    {
+      "title": "Writing"
+    },
+    {
+      "title": "Sales",
+      "count": "1"
+    },
+    {
+      "title": "Digital Marketing",
+      "count": "2"
+    },
+    {
+      "title": "Digital Strategy"
+    },
+    {
+      "title": "Search Engine Optimization (SEO)"
+    },
+    {
+      "title": "Digital Media",
+      "count": "1"
+    },
+    {
+      "title": "E-commerce"
+    },
+    {
+      "title": "Web Applications"
+    },
+    {
+      "title": "User Experience (UX)"
+    },
+    {
+      "title": "HTML",
+      "count": "1"
+    },
+    {
+      "title": "CSS",
+      "count": "1"
+    },
+    {
+      "title": "WordPress",
+      "count": "2"
+    },
+    {
+      "title": "Microsoft Excel"
+    },
+    {
+      "title": "Twitter"
+    },
+    {
+      "title": "jQuery"
+    },
+    {
+      "title": "HTML5"
+    },
+    {
+      "title": "PHP"
+    },
+    {
+      "title": "MySQL"
+    },
+    {
+      "title": "Git"
+    },
+    {
+      "title": "SQL"
+    },
+    {
+      "title": "MongoDB"
+    },
+    {
+      "title": "SASS"
+    },
+    {
+      "title": "Github"
+    },
+    {
+      "title": "Laravel"
+    },
+    {
+      "title": "NoSQL"
+    },
+    {
+      "title": "React.js"
+    },
+    {
+      "title": "React"
+    },
+    {
+      "title": "Vue"
+    },
+    {
+      "title": "Vue.js"
+    },
+    {
+      "title": "Cascading Style Sheets (CSS)"
+    },
+    {
+      "title": "Bootstrap"
+    },
+    {
+      "title": "Redux"
+    },
+    {
+      "title": "Firebase"
+    },
+    {
+      "title": "Prototyping"
+    },
+    {
+      "title": "Adobe XD"
+    },
+    {
+      "title": "Interviews",
+      "count": "1"
+    },
+    {
+      "title": "Management",
+      "count": "2"
+    },
+    {
+      "title": "Interviewing",
+      "count": "1"
+    },
+    {
+      "title": "Tumblr"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "2",
+    "receivedCount": "0",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/jzelenczuk/",
+        "text": "Very personable approach to recruitment. Always keen to make sure that he finds exactly the right role that a candidate is looking for and settles for nothing less!"
+      },
+      {
+        "user": "https://www.linkedin.com/in/andy-feegan-243466a/",
+        "text": "Andy is an excellent trainer with a range of techniques to get the best out of his trainees. He is adept in his role and works hard to ensure that we develop to our fullest potential. He is always willing and able to help with anything and everything. Given his recruitment background it comes as no surprise that he has learnt the tricks of the trade. On top of that he actively creates new tips, tricks and recruitment methodology and shares it all in his training sessions. Andy is easy to get along with and does everything in his power to ensure that the trainees and existing staff are,not only comfortable in their job, but also that they are happy in their job. In regards to my own experiences with Andy, he has spent a lot of time helping me in particular with objection handling, call preparation and face-to-face candidate interviews. He is an invaluable asset to Salt and it comes as no surprise that he was voted the company 2010 MVP!\n…\nSee more"
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "2",
+      "items": [
+        "English",
+        "Italian"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Google Developer Challenge Scholarship"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Sunil Sandhu",
+    "headline": "Software Engineer",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQFZky1RKJwuFw/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=UTRUvT14z6oHM6YftFwD2OfbTKQUkCc-MLeuv9kiKXk",
+    "location": "United Kingdom",
+    "connections": "500+",
+    "summary": "Software Engineer / Web Developer - with professional experience of utilising the following languages, frameworks, libraries and tools:\n- JavaScript (incl. ES6/ES2015 and up)\n- React (incl. Redux, React Native)\n- Vue (incl. Vuex, Nuxt)\n- Node\n- TDD/BDD (Jest, Cypress, Enzyme, Testing Library)\n- HTML\n- CSS (SCSS, Stylus, BEM, CSS-in-JS, Styled Components, Bootstrap, Material-UI)\n- PHP\n- Laravel\n- SQL/MySQL\n- NoSQL\n- Firebase (Firestore, Real-Time DB, Cloud Functions/Serverless, Cloud Messaging)\n- Git (GitHub, BitBucket)\n- CI/CD (CircleCI)\n- Package Managers (npm, npx, yarn)\n- Build/Automation Tools (Webpack, Parcel, Gulp)\n- Terminal/Command Line\n- Progressive Web Apps/PWAs\n- CMS builds from scratch\n- Headless CMS services (Prismic)\n- Linux environments\n\nLimited experience with:\n- Python\n- Django\n- GraphQL\n- Express\n\nComfortable with Agile methodologies - mainly Kanban - along with agile management software such as Jira and Trello.\n\nEditor of Javascript In Plain English: www.jsipe.com (we were recently ranked in the Top 50 fastest growing Medium publications and currently receive approx. 800,000 views per month).\n\nWriter for Progress, Telerik, LogRocket, and JavaScript In Plain English.\n\nI wrote that React/Vue article - it was the most viewed React article of 2018. the most viewed Vue article of 2018 and currently sits in the Top 100 most applauded Medium articles of all time.\n\nName has been mispronounced many times during recordings of the official Vue.js News podcast."
+  }
+}

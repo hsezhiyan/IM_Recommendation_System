@@ -1,0 +1,204 @@
+{
+  "profileAlternative": {
+    "name": "Aamir Syed",
+    "headline": "Microsoft SQL Server Consultant",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQFZmdJxhVEzwA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=qFzJaLrYGC45n5KTC1ZG95-HNXepdumN4WA3pZkCkbY",
+    "location": "Greater New York City Area",
+    "connections": "439",
+    "summary": "I optimize the speed, efficiency and stability of SQL Server.\n\nwww.sqlevo.com\n\n@sqlevo (twitter)"
+  },
+  "aboutAlternative": {
+    "text": "I optimize the speed, efficiency and stability of SQL Server.\n\nwww.sqlevo.com\n\n@sqlevo (twitter)"
+  },
+  "positions": [
+    {
+      "title": "Sr. SQL Server Consultant",
+      "companyName": "House of Brick Technologies",
+      "description": "Sr. SQL Server consultant providing support and solutions for various clients throughout the country.",
+      "date1": "Feb 2018 – Present",
+      "date2": "1 yr 10 mos"
+    },
+    {
+      "title": "SQL Server Consultant",
+      "companyName": "SQLEvo",
+      "location": "Greater New York City Area",
+      "description": "I optimize the speed, efficiency and stability of SQL Server…\n\n\nWith over fifteen years of experience in the world of IT, I have provided services for many types of organizations including major publishers, major financial firms, hedge funds, insurance companies, marketing companies and global non-profit organizations.\n\n\n\nI can work for or with your Database team to help them find the root cause of your SQL Server problems. A slow database server can have a detrimental effect to your entire company.\n\n\nTo compound my specialty in performance tuning, I’m also well versed in migrations, planning, high-availability and Disaster recovery solutions and much more.\n…\nsee more",
+      "date1": "Apr 2016 – Present",
+      "date2": "3 yrs 8 mos"
+    },
+    {
+      "title": "Contract MS SQL DBA",
+      "companyName": "Grubhub",
+      "location": "Greater New York City Area",
+      "description": "Conduct short- and long-term MSSQL Projects and planning to meet current and expanding business requirements\nRecommend sound actions and control improvements\nPerformance Tuning, Query Optimization, using Performance Monitor, SQL Profiler and other related monitoring and troubleshooting tools\nProvide 24x7 support for critical production systems- rotation deployment at night\nManage SQL Server databases through multiple product lifecycle environments, from development to mission-critical production systems.\nConfigure and maintain database servers and processes, including monitoring of system health and performance, to ensure high levels of performance, availability, and security.\nIndependently analyze, solve, and correct issues in real time, providing problem resolution end-to-end.\nRefine and automate regular processes, track issues, and document changes\nAssist developers with complex query tuning and schema refinement\n…\nsee more",
+      "date1": "Oct 2017 – Feb 2018",
+      "date2": "5 mos"
+    },
+    {
+      "title": "Contract Database Administrator",
+      "companyName": "NYU Langone Health",
+      "location": "Greater New York City Area",
+      "description": "Project Description: Help execute plans for database, data center and storage migrations.\n\nCreated plan for database migration project.\nUtilized powershell to manage database migration.\nUtilized powershell to manage clustered services involved with storage migration.\nImplemented new index maintenance solution for existing SQL Instances.\n\n…\nsee more",
+      "date1": "Jul 2017 – Oct 2017",
+      "date2": "4 mos"
+    },
+    {
+      "title": "MS SQL Database Administrator",
+      "companyName": "Jefferies",
+      "location": "Jersey City, NJ",
+      "description": "Database Administration and Performance Tuning in the Microsoft SQL Server environment. Over 500 total instances.\nSQL Server 2012, SQL Server 2014, and SQL Server 2016\nDeveloped and Deployed HA/DR solution using AlwaysOn Availability Groups.\nData Center Migration\nQuery Tuning\nIndex Tuning\nPartition and Compressing to save space and improve performance.\nAutomate tasks with Powershell.\n…\nsee more",
+      "date1": "Apr 2017 – Jul 2017",
+      "date2": "4 mos"
+    },
+    {
+      "title": "Senior Database Administrator/Developer",
+      "companyName": "IBM",
+      "description": "Database development and Administration for all Microsoft SQL Server instances owned by Ogilvy Commonhealth World Wide.\nDeveloped Stored Procedures on back end databases for major Financial Services project.\nPerformance Tuning of SQL Server.\nQuery Tuning\nAutomation using Red Gate tools and Powershell.\nDeveloped HA/DR solutions using AlwaysOn Availability Groups.\n…\nsee more",
+      "date1": "Mar 2016 – Apr 2017",
+      "date2": "1 yr 2 mos"
+    },
+    {
+      "title": "Database Administrator",
+      "companyName": "Ogilvy CommonHealth Worldwide",
+      "location": "New Jersey",
+      "description": "Perform all database maintenance and administrative duties to support our development, quality assurance and production environments; DB Maintenance, Security, Back Up & Recovery, Performance Tuning, Monitoring, Bug Fixing, Patch and release management and be available for after hours support based on a defined schedule. Work closely with the Systems Engineering, DBA and Application Developers on projects and systems upgrades.\nDeveloped Stored Procedures on back end databases for major Financial Services project.\nPerformance Tuning of SQL Server.\nQuery Tuning\nAutomation using Red Gate tools and Powershell.\nDeveloped HA/DR solutions using AlwaysOn Availability Groups.\n…\nsee more",
+      "date1": "Mar 2013 – Mar 2016",
+      "date2": "3 yrs 1 mo"
+    },
+    {
+      "title": "Systems Engineer",
+      "companyName": "Arch Insurance Group",
+      "location": "Jersey City, NJ",
+      "description": "Part of a team that is responsible for the maintenance, deployment and administration of data for the entire SQL server environment (over 300 instances).\nThis is a heavily virtualized environment where VMWare is used. Citrix is used to publish applications. Other skills include DBA level knowledge of SQL 2K5/2K8, stored procedures, triggers, scripting and change management.\n…\nsee more",
+      "date1": "Jun 2011 – Feb 2013",
+      "date2": "1 yr 9 mos"
+    },
+    {
+      "title": "Database Administrator",
+      "companyName": "The Salvation Army",
+      "location": "West Nyack, NY",
+      "description": "responsible for the maintenance, deployment and administration of data for the entire SQL server environment. This is a heavy virtual environment and qualified candidates need to have exposure to VMWare and Citrix. Other must have skills include DBA level knowledge of SQL 2K5/2K8, stored procedures, triggers, scripting and change management. This is a great opportunity to learn new technologies as the group works very closely with the systems engineering team that works a lot with windows server, citrix and AD support.\n…\nsee more",
+      "date1": "Apr 2007 – Jun 2011",
+      "date2": "4 yrs 3 mos"
+    },
+    {
+      "title": "Network Administrator",
+      "companyName": "PCN Network Consulting",
+      "description": "* Windows Small Business Server 2003, installed, configured, and administered with different roles.\n* Active Directory administration.\n* Exchange 2003 and Exchange Web on Small Business Server, configured and administered.\n* Terminal Services administration.\n* Backup and Restore with Symantec Backup Executive.\n* Sonicwall Firewall, installation, configuration, customization.\n* Setting up VPN access.\n* Cisco IOS upgrades for 2600, and 3600 series routers.\n* Wireless Access point installation\n* Outlook 2003, setup and troubleshooting.\n* Blackberry and Treo handheld Support.\n* Desktop PC rollouts.\n* Login VBS scripts for Active Directory users.\n…\nsee more",
+      "date1": "Apr 2005 – Apr 2007",
+      "date2": "2 yrs 1 mo"
+    },
+    {
+      "title": "Desktop Support Technician",
+      "companyName": "Modis",
+      "description": "Modis IT: Universal Music Group Nov-Dec ’04 New York, NY\n\nDesktop Support Technician\n\n* Responsible for Strategizing and Rolling out new Windows XP PC's.\n…\nsee more",
+      "date1": "Nov 2004 – Dec 2004",
+      "date2": "2 mos"
+    },
+    {
+      "title": "Information Technology Technician",
+      "companyName": "CTI TEKSource",
+      "description": "CTI Teksource: Yamanouchi Pharmaceuticals Sept-Oct ’04 Paramus, NJ; Miami, FL\n\nInformation Technology Technician\n\n* Provided technical support for new Sales Representatives during training.\n* Requested and sent to Miami, FL based on previous work.\n…\nsee more",
+      "date1": "Sep 2004 – Oct 2004",
+      "date2": "2 mos"
+    },
+    {
+      "title": "PC Technician",
+      "companyName": "St. Thomas Aquinas College",
+      "description": "St. Thomas Aquinas College Feb-May ‘04, Fall ‘02-Spring ‘03 Sparkill, NY\n\nPC Technician/Computer Science Tutor/Lab Assistant\n\n* Provided technical support for internal users and labs.\n* Assisted and mentored students with class projects in lab sessions (Java, Visual Basic).\n…\nsee more",
+      "date1": "Sep 2002 – Apr 2004",
+      "date2": "1 yr 8 mos"
+    },
+    {
+      "title": "Information Technology Technician (Intern to Temp)",
+      "companyName": "John Wiley and Sons",
+      "description": "John Wiley &amp; Sons Winter '01; Summer '01, '02 &amp; '03 Hoboken, NJ; NY, NY\n\nInformation Technology Technician\n\n* Desktop Support, began as an intern, and became temp during summers and winters while attending college.\n…\nsee more",
+      "date1": "Jun 2001 – Aug 2003",
+      "date2": "2 yrs 3 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "St. Thomas Aquinas College",
+      "degree": "BS",
+      "fieldofstudy": "Computer and Information Science"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Windows Server",
+      "count": "19"
+    },
+    {
+      "title": "Active Directory",
+      "count": "16"
+    },
+    {
+      "title": "Microsoft SQL Server",
+      "count": "10"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "1",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/derivatives101/",
+        "text": "I had the great pleasure of having Aamir as one of my students in the Computer and Information Science program at St Thomas Aquinas College. Aamir was a very dedicated and responsible student. His participation in class contributed to the learning of his classmates and made classes more interesting and enjoyable for all. Because of his efforts and talent Aamir was in the top 5% of his class. I am very confident that Aamir will be an outstanding employee, coworker and learner in all types of environments. He is a trustworthy individual and someone who works hard to reach his goals and successfully complete any jobs assigned to him.\n…\nSee more"
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/raisam/",
+      "text": "Founder at rella beauty"
+    },
+    {
+      "user": "https://www.linkedin.com/in/manasas-825/",
+      "text": "SQL Server DBA at Fortuitas"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ate-getu-5b4850121/",
+      "text": "Sr. SQL DBA, MCSA"
+    },
+    {
+      "user": "https://www.linkedin.com/in/vijayakumarb1234/",
+      "text": "Sr.SQL DBA /Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/dawoodard/",
+      "text": "Chief Operating Officer at House of Brick Technologies"
+    },
+    {
+      "user": "https://www.linkedin.com/in/philekins/",
+      "text": "Sr Solutions Architect, Microsoft Speciality at Amazon Web Services (AWS)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tracykempkes/",
+      "text": "Technical Account Manager at House of Brick Technologies"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jagrutsap/",
+      "text": "Sr. SAP Consultant at Confidential"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shawnmeyers42/",
+      "text": "Field CTO at Tintri by DDN"
+    },
+    {
+      "user": "https://www.linkedin.com/in/melissa-russell-72b35711/",
+      "text": "Burton Roadhouse"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Aamir Syed",
+    "headline": "Microsoft SQL Server Consultant",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQFZmdJxhVEzwA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=qFzJaLrYGC45n5KTC1ZG95-HNXepdumN4WA3pZkCkbY",
+    "location": "Greater New York City Area",
+    "connections": "439",
+    "summary": "I optimize the speed, efficiency and stability of SQL Server.\n\nwww.sqlevo.com\n\n@sqlevo (twitter)"
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "profileAlternative": {
+    "name": "Dev Ittycheria",
+    "headline": "President & CEO @ MongoDB. We are hiring everywhere.",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQHh4IzAARU3WA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=uzKu2kqOiiB22qfHCF8Utvny-hb1T1ahgJAeFKOO3iM",
+    "location": "Greater New York City Area",
+    "connections": "500+",
+    "summary": "Senior executive with 20+ years of experience as an entrepreneur, operator and investor. Founder of two tech companies, and directly led multiple fast-growing software companies. As an investor made personal and institutional investments in a number of disruptive software companies. Led 5 tech IPOs as CEO (2x), section 16 officer and investor/board member, and helped generate over $20B in value.\n\nCurrently CEO of MongoDB."
+  },
+  "aboutAlternative": {
+    "text": "Senior executive with 20+ years of experience as an entrepreneur, operator and investor. Founder of two tech companies, and directly led multiple fast-growing software companies. As an investor made personal and institutional investments in a number of disruptive software companies. Led 5 tech IPOs as CEO (2x), section 16 officer and investor/board member, and helped generate over $20B in value.\n\nCurrently CEO of MongoDB."
+  },
+  "positions": [
+    {
+      "title": "President & CEO",
+      "companyName": "MongoDB",
+      "location": "NYC",
+      "description": "MongoDB's mission is to unleash the power of software and data for innovators everywhere. The most sophisticated organizations, from the largest global companies to cutting-edge startups, use MongoDB to drive their business. The company is recognized as the world's most popular next-generation database, with massive user adoption, thousands of customers and a large ecosystem of partners all over the world. MongoDB is the first database company to go public in over 26 years.",
+      "date1": "Sep 2014 – Present",
+      "date2": "5 yrs 3 mos"
+    },
+    {
+      "title": "Lead Independent Director",
+      "companyName": "Datadog",
+      "location": "NYC",
+      "description": "Datadog is a monitoring service for IT, Operations and Development teams who write and run applications at scale, and want to turn the massive amounts of data produced by their apps, tools and services into actionable insight.",
+      "date1": "Feb 2014 – Present",
+      "date2": "5 yrs 10 mos"
+    },
+    {
+      "title": "Board Member",
+      "companyName": "athenahealth",
+      "location": "Watertown, MA",
+      "description": "Athenahealth provides a cloud based solution for practice management, medical billing, electronic health records, patient communications and care coordination.",
+      "date1": "Jun 2010 – Feb 2019",
+      "date2": "8 yrs 9 mos"
+    },
+    {
+      "title": "Board Member",
+      "companyName": "AppDynamics",
+      "location": "San Francisco",
+      "description": "AppDynamics provides next-generation application performance management solutions for today's distributed, agile, and highly complex applications. The leading companies use AppDynamics to monitor, troubleshoot, analyze, and automate cloud-based and on-premise applications. Cisco acquired the company for $3.7B in March 2017.",
+      "date1": "Mar 2011 – Mar 2017",
+      "date2": "6 yrs 1 mo"
+    },
+    {
+      "title": "Board Member",
+      "companyName": "Signpost",
+      "location": "NYC",
+      "description": "Signpost offers a cloud-based marketing automation platform that makes digital and mobile marketing simple and effective for SMBs. The company uses data to create tailored campaigns that drive results. Signpost is the most simple, effective and complete solution to get found, get customers and get repeat purchases.",
+      "date1": "Nov 2013 – Sep 2014",
+      "date2": "11 mos"
+    },
+    {
+      "title": "Managing Director",
+      "companyName": "OpenView Venture Partners",
+      "location": "Greater New York City Area",
+      "description": "OpenView focuses on investing in expansion stage enterprise software companies. Recruited as 3rd partner in the firm, led investments in DataDog (infrastructure monitoring), Signpost (marketing automation for SMBs) & Pantheon (drupal hosting), and was directly responsible for managing the investment team.",
+      "date1": "Oct 2013 – Sep 2014",
+      "date2": "1 yr"
+    },
+    {
+      "title": "Board Member",
+      "companyName": "Bazaarvoice",
+      "location": "Austin, Tx",
+      "description": "Bazaarvoice transforms an organization's social data into a powerful decision-making tool that can be integrated across the organization to fuel innovation and drive performance.",
+      "date1": "Jan 2010 – Aug 2014",
+      "date2": "4 yrs 8 mos"
+    },
+    {
+      "title": "Venture Partner",
+      "companyName": "Greylock Partners",
+      "location": "Menlo Park, Ca",
+      "description": "Recruited to be an investing partner at Greylock (www.greylock.com), one of the industry's leading venture capital firms that partners with entrepreneurs to build transformational companies. The Greylock portfolio at the time included such seminal companies such as AppDynamics, Dropbox, Facebook, Linkedin, Pandora, Palo Alto Networks, Pure Storage and Workday.",
+      "date1": "Feb 2012 – Jun 2013",
+      "date2": "1 yr 5 mos"
+    },
+    {
+      "title": "President - Enterprise Service Management",
+      "companyName": "BMC Software",
+      "location": "Houston, TX",
+      "description": "Led the people and teams who developed, marketed, sold, implemented and supported BMC's line of distributed management products and services. Transformed the business, which comprised of 4,000 people, to generate $1.4B in annual revenues along with double digit revenue growth and operating margins. BMC at the time was the 9th largest software company in the world with $1.9B in annual revenues and approximately 6,000 employees.\n…\nsee more",
+      "date1": "Apr 2008 – Feb 2010",
+      "date2": "1 yr 11 mos"
+    },
+    {
+      "title": "Co-Founder, President & CEO",
+      "companyName": "BladeLogic",
+      "location": "Lexington, MA",
+      "description": "Responsible for setting the strategic direction, recruiting the leadership team, and managing the operations of the company. Raised only $29M in total funding pre-IPO. During its time BladeLogic acquired more customers, delivered better operating performance and grew its business faster than any of its competitors. Led one of the most successful tech IPOs (NASDAQ:BLOG) of 2007. A year later BMC Software acquired BladeLogic for approximately $900M.\n…\nsee more",
+      "date1": "Aug 2001 – Apr 2008",
+      "date2": "6 yrs 9 mos"
+    },
+    {
+      "title": "Entrepreneur-In-Residence",
+      "companyName": "Bessemer Venture Partners",
+      "location": "Larchmont, NY",
+      "description": "Worked on the idea of building a next-generation automation platform for the data center. This work resulted in the founding of BladeLogic.",
+      "date1": "May 2001 – Aug 2001",
+      "date2": "4 mos"
+    },
+    {
+      "title": "Senior Vice-President & General Manager",
+      "companyName": "Breakaway Solutions",
+      "location": "Boston, MA",
+      "description": "Merged Applica into Breakaway Solutions to form a fundamentally new company tailored to help companies transform their business via the Internet. Morgan Stanley took the company public in October, 1999. Led the development and management of the application hosting/cloud computing business. This business was sold to Totality/Verizon in 2001.",
+      "date1": "Mar 1999 – May 2001",
+      "date2": "2 yrs 3 mos"
+    },
+    {
+      "title": "Co-Founder, President & CEO",
+      "companyName": "Applica",
+      "location": "NYC",
+      "description": "Launched one of the first venture-backed start-ups to leverage the ubiquity of the Internet to deliver software as a service with a particular focus on e-commerce and CRM solutions.",
+      "date1": "Oct 1998 – Mar 1999",
+      "date2": "6 mos"
+    },
+    {
+      "title": "Director of Product Management",
+      "companyName": "Teleport Communications Group (Acquired by AT&T)",
+      "location": "NYC/NJ",
+      "description": "Led the roll-out of TCG's suite of broadband data solutions including ATM, Frame Relay, transparent LAN, Internet VPN and web hosting services. These services comprised the fastest growing segment within TCG. After AT&T's $11B acquisition of TCG, was lead product director responsible for AT&T's $1B+ Frame Relay business.",
+      "date1": "Jul 1995 – Sep 1998",
+      "date2": "3 yrs 3 mos"
+    },
+    {
+      "title": "Product Management",
+      "companyName": "AT&T",
+      "location": "NJ",
+      "description": "Recruited into a leadership development program and given rotational assignments in sales, product management, marketing and program management. Later joined a core team to develop AT&T's first set of global network and network management outsourcing services.",
+      "date1": "Sep 1989 – Jul 1995",
+      "date2": "5 yrs 11 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Rutgers University",
+      "degree": "BS",
+      "fieldofstudy": "Electrical Engineering"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Enterprise Software",
+      "count": "99+"
+    },
+    {
+      "title": "Cloud Computing",
+      "count": "91"
+    },
+    {
+      "title": "Entrepreneurship",
+      "count": "73"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "2",
+    "receivedCount": "1",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/ronaldrose/",
+        "text": "As the leader of Bladelogic, Dev was able to execute against a great strategic vision and provide tremendous incremental value add to the priceline.com business. His leadership, and his company's responsiveness, demonstrated how great software companies can help their customers in a way that truly accelerates their businesses while helping their customer satisfaction.\n…\nSee more"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/wrightdh/",
+        "text": "As one of the earliest board members, I was fortunate to work with Dan at Appdynamic when he joined the company in 2013 through the IPO process and the sale to Cisco.  Dan was the first full-time attorney and was able to scale the legal team as the business rapidly grew. Dan's impact was clearly seen in fundraising, IP protection, complex business matters, IPO readiness, and negotiating a complex M&A transaction on the heels of a pending IPO.  Through it all Dan never lost his composure or his humility -- he always provided sound strategic and business advice in a timely manner, and he is one of the easiest people to collaborate with. Dan has enormous upside ahead of him. It will be fun to watch where his career takes him. I hope to be lucky enough to have the opportunity to work with Dan again in the not so distant future."
+      },
+      {
+        "user": "https://www.linkedin.com/in/chadpeets/",
+        "text": "While I have worked with many sales recruiters across a variety of companies, I consider Chad to be the best software sales recruiter in the business. He works hard to learn about your business, identify your specific needs, and deliver high quality candidates. He will not waste your time presenting candidates that are a poor fit. When I am looking for outstanding sales people, I call Chad."
+      }
+    ]
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/naina-chaudhary-83a725153/",
+      "text": "Global Talent Acquisition Specialist at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/davidwadhwani/",
+      "text": "CEO, Entrepreneur and Investor"
+    },
+    {
+      "user": "https://www.linkedin.com/in/olivierpomel/",
+      "text": "CEO at Datadog"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tjcooley/",
+      "text": "VP WW Sales - We are hiring!"
+    },
+    {
+      "user": "https://www.linkedin.com/in/cadelatorre/",
+      "text": "CEO at Vera Security"
+    },
+    {
+      "user": "https://www.linkedin.com/in/gary-hoberman-3866882/",
+      "text": "Founder and CEO at Unqork Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/johnmcmahon1/",
+      "text": "Helping Enterprise Software Startup Companies"
+    },
+    {
+      "user": "https://www.linkedin.com/in/bob-muglia-714ba592/",
+      "text": "Manager and Entrepreneur"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kevinryan3/",
+      "text": "Founder & Chairman at AlleyCorp"
+    },
+    {
+      "user": "https://www.linkedin.com/in/thomas-kurian-469b6219/",
+      "text": "CEO at Google Cloud"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Board of Trustees",
+      "experience": "The Pingry School",
+      "description": "Education",
+      "date1": "Sep 2015 – Present",
+      "date2": "4 yrs 3 mos"
+    }
+  ],
+  "profile": {
+    "name": "Dev Ittycheria",
+    "headline": "President & CEO @ MongoDB. We are hiring everywhere.",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQHh4IzAARU3WA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=uzKu2kqOiiB22qfHCF8Utvny-hb1T1ahgJAeFKOO3iM",
+    "location": "Greater New York City Area",
+    "connections": "500+",
+    "summary": "Senior executive with 20+ years of experience as an entrepreneur, operator and investor. Founder of two tech companies, and directly led multiple fast-growing software companies. As an investor made personal and institutional investments in a number of disruptive software companies. Led 5 tech IPOs as CEO (2x), section 16 officer and investor/board member, and helped generate over $20B in value.\n\nCurrently CEO of MongoDB."
+  }
+}

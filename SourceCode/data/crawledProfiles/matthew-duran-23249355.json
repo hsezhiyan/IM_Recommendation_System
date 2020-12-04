@@ -1,0 +1,32 @@
+{
+  "profileAlternative": {
+    "name": "Matthew Duran",
+    "headline": "Director of Public Safety/Works at City of Haskell",
+    "location": "Haskell, Texas",
+    "connections": "Contact info"
+  },
+  "aboutAlternative": {},
+  "positions": [
+    {
+      "title": "Director of Public Safety/Works",
+      "companyName": "City of Haskell"
+    }
+  ],
+  "educations": [],
+  "skills": [],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Matthew Duran",
+    "headline": "Director of Public Safety/Works at City of Haskell",
+    "location": "Haskell, Texas",
+    "connections": "Contact info"
+  }
+}

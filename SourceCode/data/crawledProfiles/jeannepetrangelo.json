@@ -1,0 +1,346 @@
+{
+  "profileAlternative": {
+    "name": "Jeanne Petrangelo",
+    "headline": "SW Eng Manager & Principal Software Engineer at Sterilis Medical",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQGBSC17xtoZ8w/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=kbLDm0HJ9qFRQdddEN0IwTfSahs1hcYGes1ZGO4tLI8",
+    "location": "Shrewsbury, Massachusetts",
+    "connections": "500+",
+    "summary": "Versatile software engineer and hands-on leader with the ability to take a whole project view while also being detail oriented. My technical experience centers around writing software for purpose-built hardware and network appliances, and ranges from writing bare metal C to multi-threaded, multi-process Linux user-space C++. One manager re... see more"
+  },
+  "aboutAlternative": {
+    "text": "Versatile software engineer and hands-on leader with the ability to take a whole project view while also being detail oriented. My technical experience centers around writing software for purpose-built hardware and network appliances, and ranges from writing bare metal C to multi-threaded, multi-process Linux user-space C++. One manager re... see more"
+  },
+  "positions": [
+    {
+      "title": "Principal Software Engineer / Team Lead / Manager",
+      "companyName": "Sterilis Solutions",
+      "location": "Boxborough, Massachusetts",
+      "description": "Sterilis Solutions acquired Sterilis Medical. I was Sterilis' first software hire, tasked with turning a contract-house-provided prototype into a production quality system. The software in the device includes embedded real time C on a microprocessor, a hierarchical FSM written in Python on Linux which controls the micro via serial, interacts with a database, drives a touch screen UI written as a mini-website, and communicates with the cloud. Cloud services are also by my team. I grew the team and eventually became software manager while also maintaining direct significant contributions in the embedded code.\n- Embedded software / firmware architecture and development\n- Project management; process definition and evolution (agile)\n- Work with various stakeholders to define and prioritize requirements\n- Releasing software (writing release notes, etc)\n- Training field service engineers\n- Responding to field issues; help FSE’s diagnose issues in real time, identify resulting improvements to make\n- Leading SQA\n…\nsee more",
+      "date1": "Dec 2014 – Present",
+      "date2": "5 yrs"
+    },
+    {
+      "title": "Principal Software Engineer / Team Lead / Software Manager",
+      "companyName": "Sterilis Medical",
+      "location": "Boxborough, MA",
+      "description": "The assets of Sterilis Medical were bought by Sterilis Solutions in September 2018. Please see that role, above.",
+      "date1": "Dec 2014 – Sep 2018",
+      "date2": "3 yrs 10 mos"
+    },
+    {
+      "title": "Senior Software Engineer",
+      "companyName": "Kidde-Fenwal",
+      "location": "Ashland, MA",
+      "description": "- SW Project Technical Lead and developer creating the next generation of the fire suppression system hand picked by Steve Jobs for the new Apple headquarters. Architecting, designing, and implementing state machine driven software using object oriented C/C++ on an ARM with no operating system, plus Qt on Linux. Created and deployed automated unit and integration testing frameworks (part Google Test, part my own design) using open source tools to make real progress before hardware and to reduce risks when modifying existing software; wrote the makefiles and scripts to tie the frameworks into our build. I wrote over half of the production code yet had only a quarter of the defects.\n- Created multi-threaded simulation for software testing and wrote the tests that use it.\n- Team lead activities: estimating, tracking, and reporting for whole team. Work with product owner in Finland to elucidate requirements. Serve as primary contact with India test team. Defined coding standards, version control usage standards, code review procedure, and release procedure.\n- Software engineering activities: Write production and automated test code, work with product owners to develop and clarify requirements, document everything, knowledge transfer. Code reviews for Qt / C++ application on embedded Linux.\n- Other: Defined site's HPQC workflow and conducted training. Created and delivered training material for software engineers about how it's possible to write automated test code for their embedded software that runs on their PCs prior to checkin, and training for non-software people so they can better understand software issues. Per customer request, travelled to Poland to conduct knowledge transfer and was the last local engineer on the project.\n…\nsee more",
+      "date1": "May 2011 – Dec 2014",
+      "date2": "3 yrs 8 mos"
+    },
+    {
+      "title": "Senior Software Engineer / Team Lead",
+      "companyName": "IBM",
+      "location": "Littleton MA",
+      "description": "I contracted with a global team in Research that created a PCIe protocol stack for a new card using the pre-silicon PowerEN processor. My team wrote code to abuse the fledgling protocol stack, which included Linux device drivers and user space code. Focused on preventing bugs from entering the system in the first place, and then automating measures to catch them if they get through. Established source code control (Mercurial) and set policy for its use plus a code review policy. Introduced developer unit testing and converted manual ad-hoc interpretive integration tests into automated pass/fail tests; both levels of tests are run by developers prior to checkin. Introduced continuous integration (\"CI\") using Hudson/Jenkins, whereby checkins are built and tested immediately, saving developers from having broken sandboxes/clones and isolating sources of bugs. As team lead for the test effort, I then extended CI to automate black and white box functional tests, running on x86_64 host, on simulator, and on real hardware, and converted automated tests into board acceptance tests that run for hours without intervention.\n\nThe program manager said: \"I want to thank you for all the work you have contributed to our organization. It had made a tremendous impact to our throughput and cycle time to achieve many of our deliverables making this system a success!\"\n\nEnvironment: embedded linux on prototype hardware, linux development environment. Technologies used: Linux, C, C++, make, perl, python, bash scripts, minicom.\n…\nsee more",
+      "date1": "Jun 2010 – Apr 2011",
+      "date2": "11 mos"
+    },
+    {
+      "title": "Software Engineer and Team Lead",
+      "companyName": "Whiteboard Programming",
+      "location": "Northborough, MA",
+      "description": "*VOLUNTEER* I started and ran a skills upkeep/development group for unemployed software engineers. It's a great way to focus on the positive; what we can do to take advantage of this time off. It's an anti pity party. We challenged each other with software puzzles, explored corners of C and C++, and started a group project.",
+      "date1": "May 2009 – Jun 2010",
+      "date2": "1 yr 2 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Worcester Polytechnic Institute",
+      "degree": "BS",
+      "fieldofstudy": "EE",
+      "date1": "1990",
+      "date2": "1994"
+    },
+    {
+      "title": "Worcester Polytechnic Institute",
+      "degree": "Bachelor of Science - BS",
+      "fieldofstudy": "Electrical Engineering",
+      "date1": "1990",
+      "date2": "1994"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Software Engineering",
+      "count": "43"
+    },
+    {
+      "title": "Embedded Systems",
+      "count": "42"
+    },
+    {
+      "title": "Embedded Software",
+      "count": "32"
+    },
+    {
+      "title": "Debugging",
+      "count": "20"
+    },
+    {
+      "title": "Software Development",
+      "count": "21"
+    },
+    {
+      "title": "Agile Methodologies",
+      "count": "16"
+    },
+    {
+      "title": "Integration",
+      "count": "9"
+    },
+    {
+      "title": "Object Oriented Design",
+      "count": "8"
+    },
+    {
+      "title": "ARM",
+      "count": "6"
+    },
+    {
+      "title": "Unit Testing",
+      "count": "7"
+    },
+    {
+      "title": "Software Design",
+      "count": "6"
+    },
+    {
+      "title": "Test Driven Development",
+      "count": "4"
+    },
+    {
+      "title": "Shell Scripting",
+      "count": "4"
+    },
+    {
+      "title": "Scripting",
+      "count": "3"
+    },
+    {
+      "title": "Scrum",
+      "count": "3"
+    },
+    {
+      "title": "Agile Testing",
+      "count": "1"
+    },
+    {
+      "title": "Technical Training",
+      "count": "1"
+    },
+    {
+      "title": "SDLC",
+      "count": "1"
+    },
+    {
+      "title": "Multithreading",
+      "count": "2"
+    },
+    {
+      "title": "Agile Project Management",
+      "count": "2"
+    },
+    {
+      "title": "Software Project Management",
+      "count": "2"
+    },
+    {
+      "title": "Agile"
+    },
+    {
+      "title": "TDD"
+    },
+    {
+      "title": "C",
+      "count": "19"
+    },
+    {
+      "title": "C++",
+      "count": "15"
+    },
+    {
+      "title": "Perl",
+      "count": "14"
+    },
+    {
+      "title": "Linux",
+      "count": "14"
+    },
+    {
+      "title": "RTOS",
+      "count": "13"
+    },
+    {
+      "title": "Firmware",
+      "count": "11"
+    },
+    {
+      "title": "Device Drivers",
+      "count": "11"
+    },
+    {
+      "title": "Bash",
+      "count": "8"
+    },
+    {
+      "title": "Python",
+      "count": "7"
+    },
+    {
+      "title": "Embedded Linux",
+      "count": "6"
+    },
+    {
+      "title": "Embedded C",
+      "count": "1"
+    },
+    {
+      "title": "Real-Time Operating Systems (RTOS)",
+      "count": "5"
+    },
+    {
+      "title": "Team Leadership",
+      "count": "3"
+    },
+    {
+      "title": "Life Cycle Assessment"
+    },
+    {
+      "title": "Real-time Software Development",
+      "count": "1"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "14",
+    "receivedCount": "12",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/dongchen-wang/",
+        "text": "Jeanne is one of the few managers/technical leads I met in my professional career. Her elegant leadership style gives everybody in her group the freedom to maximize the capability to contribute in his/her best way while she makes sure all the business goals can be reached. She is not only an excellent manager, she is also the key technical contributor, who plays every possible role in a small company: Group lead, software developer, project manager, field engineer and lab support, near term and long term planner, etc. I feel so lucky to work with Jeanne.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/jwerardi/",
+        "text": "Jeanne's position was not only a great manager for the software team, she was a crucial member to Sterilis' day to day operations in that she was a frontline defense between the business' needs and the engineering team. Often, she would work closely with field service engineers in order to transcribe field issues to the software team in a manner which facilitated our success.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/scott-romanowski-242303/",
+        "text": "Jeanne single-handedly convinced the rest of the team of the need for a continuous integration tool and then implemented it. She provided a wealth of development experience to a research-heavy team. As a developer (temporarily) doing testing, she drew on her experience to make the test process faster and going beyond black-box testing to tell the developers exactly what their problem was when she found a bug. When her contract ended and there wasn't funding to continue it, the team lost something and testing slowed down. Eventually her work was spread out among four other people as they finished the bulk of their development tasks.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/stevelanser/",
+        "text": "Jeanne is a natural leader with excellent engineering and communication skills. I got to know Jeanne at Ciena as a peer in the spring of 2007, where she introduced test driven development practices to a group I had previously worked with, raising the standard for code quality. Immediately upon Ciena's Massachusetts closure, Jeanne instituted and has since been leading a weekly software engineering group for those of us newly unemployed who wanted to keep our skills and minds sharp. Through this group, I have witnessed Jeanne's strong leadership, ability to think critically, outstanding communication and organizational skills, and her dedication and follow-through on projects. Seeing Jeanne's leadership directing this critical volunteer organization leaves no doubt in my mind that she can handle any challenge and deliver a successful outcome.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/primus-mutasingwa-17b4b28/",
+        "text": "\"I had an opportunity to work with Jeanne on various projects at Harris-Intraplex (e.g. CM-10, SEI) - Motivated, Self starter - Always strives for product improvement as evidenced in her contribution in code reviews & Process improvement effort - Showed great command and understanding of CM-10 product - Willing to devote time to help others during crunch time.\"\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/vinaycherian/",
+        "text": "Jeanne was a an individual contributor for a project I managed. She came up to speed quickly and made important contributions during development. During bug fixing Jeanne was flexible and successfully debugged issues in areas not developed by her."
+      },
+      {
+        "user": "https://www.linkedin.com/in/doug-washabaugh-8805361/",
+        "text": "Jeanne demonstrated the ability to move among different areas of technology by quickly coming up to speed on device that was substantially different than previous devices on which she had worked. Jeanne has a substantial understanding of the software process and made important contributions to our software process that improved the productivity of the team. Her contributions also improved the quality of the software developed by our team.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/michael-raisbeck-418484/",
+        "text": "Jeanne is an excellent senior level embedded software engineer with strong attention to detail and a thorough knowledge of software engineering and software process issues. We worked together on several development and build process initiatives, and it was a great pleasure to have her on the team."
+      },
+      {
+        "user": "https://www.linkedin.com/in/gabe-volpicelli-8162303/",
+        "text": "Jeanne led my development of a bugzilla-based bug tracking system for Oasis Semiconductor. She was a pleasure to work with and was excellent at directing the customization through its phases."
+      },
+      {
+        "user": "https://www.linkedin.com/in/anne-kinsella-49b5b4/",
+        "text": "I have had the pleasure of working with Jeanne at SigmaTel. She is a dedicated, hard working Firmware Engineer with a solid work ethic. Jeanne's ability to balance her work while assisting others makes her a tremendous asset to SigmaTel and to her colleagues."
+      },
+      {
+        "user": "https://www.linkedin.com/in/katherine-blitzblau-668266/",
+        "text": "Jeanne is extremely talented and technically skilled. While working with Jeanne, I was continually impressed by her ability to assess a situation and apply robust problem solving techniques while developing innovative, efficient solutions to difficult problems. Our company and our customers benefited from both her superior technical abilities and her noteworthy business acumen.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/bobband/",
+        "text": "Jeanne Petrangelo is exceptionally responsive to user needs and particularly adept at understanding and explaining complex concepts in clear, easy-to-follow language."
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/dongchen-wang/",
+        "text": "I hired Dongchen to take over sole ownership of a complex system from someone who retired. In the brief time Dongchen worked with me, he proved himself to be a strong technical contributor and team member with great ideas. I hope I'm lucky enough to work with Dongchen in the future."
+      },
+      {
+        "user": "https://www.linkedin.com/in/urayoan-irizarry/",
+        "text": "Urayoan was, without a doubt, one of the best hiring decisions our team made. In the first month he completed a task his predecessor couldn't do in a year. Ura is eager to learn, eager to contribute, and constantly monitors the team dynamic to make sure we're in a good place. He's a natural leader and an important part of our positive team culture. I would love the opportunity to work with Ura again."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "2",
+      "items": [
+        "Advanced Embedded Linux",
+        "Embedded Linux"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/john-manno-1b66386/",
+      "text": "IT Manager at Arna Marketing Group, Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/mark-nguyen-11131014/",
+      "text": "Embedded Software/Firmware Engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mariasilva/",
+      "text": "Software Engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/markjohnsonio/",
+      "text": "Full stack web developer with a passion for the web."
+    },
+    {
+      "user": "https://www.linkedin.com/in/hank-zannini/",
+      "text": "Customer Support | System Administrator | Network Engineer | Desktop Support | Business Dev. | Technical Support"
+    },
+    {
+      "user": "https://www.linkedin.com/in/larry-kahhan-54b440/",
+      "text": "Director of Engineering at U4EA Technologies"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mike-killian-314aa022/",
+      "text": "Principal Engineer at Honeywell"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kevin-yochum-9649a552/",
+      "text": "Senior Programmer/Analyst at Infinity Software Development, Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/vangeyte/",
+      "text": "Massachusetts and New Hampshire Real Estate Broker and Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/larry/",
+      "text": "Software Engineer at Dassault Systèmes"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Jeanne Petrangelo",
+    "headline": "SW Eng Manager & Principal Software Engineer at Sterilis Medical",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQGBSC17xtoZ8w/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=kbLDm0HJ9qFRQdddEN0IwTfSahs1hcYGes1ZGO4tLI8",
+    "location": "Shrewsbury, Massachusetts",
+    "connections": "500+",
+    "summary": "Versatile software engineer and hands-on leader with the ability to take a whole project view while also being detail oriented. My technical experience centers around writing software for purpose-built hardware and network appliances, and ranges from writing bare metal C to multi-threaded, multi-process Linux user-space C++. One manager re... see more"
+  }
+}

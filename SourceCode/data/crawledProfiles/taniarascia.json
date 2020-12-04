@@ -1,0 +1,239 @@
+{
+  "profileAlternative": {
+    "name": "Tania Rascia",
+    "headline": "Front End Software Engineer for DAIS Technology",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQGWwYdpnadrDA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=v0FLx22x9aOjDwLJOuiW6dgRYGhXipaya2UD6nuOTe8",
+    "location": "Chicago, Illinois",
+    "connections": "490",
+    "summary": "Tania Rascia is full-stack software developer specializing in modern JavaScript - ES6+, React, Vue, Node.js. https://www.taniarascia.com"
+  },
+  "aboutAlternative": {
+    "text": "Tania Rascia is full-stack software developer specializing in modern JavaScript - ES6+, React, Vue, Node.js. https://www.taniarascia.com"
+  },
+  "positions": [
+    {
+      "title": "Front End Software Engineer",
+      "companyName": "DAIS Technology, Inc.",
+      "location": "Chicago, IL",
+      "date1": "Aug 2018 – Present",
+      "date2": "1 yr 4 mos"
+    },
+    {
+      "title": "Technical Writer - JavaScript",
+      "companyName": "DigitalOcean",
+      "location": "Remote",
+      "date1": "Feb 2017 – Sep 2019",
+      "date2": "2 yrs 8 mos"
+    },
+    {
+      "title": "Web Developer",
+      "companyName": "RateYourSeats.com",
+      "location": "Chicago, IL",
+      "date1": "Feb 2018 – Aug 2018",
+      "date2": "7 mos"
+    },
+    {
+      "title": "Web Developer",
+      "companyName": "Lettuce Entertain You Restaurants",
+      "location": "Chicago, IL",
+      "date1": "Jun 2015 – Jun 2017",
+      "date2": "2 yrs 1 mo"
+    },
+    {
+      "title": "Web Development Intern",
+      "companyName": "Martin Creative",
+      "location": "Greater Chicago Area",
+      "date1": "Mar 2015 – Jun 2015",
+      "date2": "4 mos"
+    },
+    {
+      "title": "Contract Web Developer",
+      "companyName": "Red Axle",
+      "location": "Chicago, IL",
+      "date1": "Aug 2014 – Mar 2015",
+      "date2": "8 mos"
+    },
+    {
+      "title": "Culinary Manager",
+      "companyName": "Ala Carte Entertainment",
+      "location": "Schaumburg, IL",
+      "date1": "May 2010 – Mar 2015",
+      "date2": "4 yrs 11 mos"
+    },
+    {
+      "title": "Culinary Manager",
+      "companyName": "Select Restaurants",
+      "location": "Buffalo Grove",
+      "date1": "Sep 2013 – Aug 2014",
+      "date2": "1 yr"
+    },
+    {
+      "title": "Banquet Chef",
+      "companyName": "Dave & Buster's Inc.",
+      "date1": "Nov 2007 – May 2010",
+      "date2": "2 yrs 7 mos"
+    },
+    {
+      "title": "Line Cook",
+      "companyName": "Compass Group",
+      "location": "Chicago, IL",
+      "date1": "Jan 2009 – Jul 2009",
+      "date2": "7 mos"
+    },
+    {
+      "title": "Webmaster",
+      "companyName": "Robert Morris University",
+      "location": "Chicago, IL",
+      "date1": "2007 – 2008",
+      "date2": "1 yr"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Robert Morris University - Illinois",
+      "degree": "Bachelor of Professional Studies",
+      "date1": "2007",
+      "date2": "2010"
+    }
+  ],
+  "skills": [
+    {
+      "title": "React",
+      "count": "3"
+    },
+    {
+      "title": "JavaScript",
+      "count": "9"
+    },
+    {
+      "title": "Node.js",
+      "count": "3"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "6",
+    "receivedCount": "4",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/craig-lam/",
+        "text": "Tania is a voracious learner and a prolific educator. In the time I've known her, she's been able to achieve competency in anything she's put her mind to. She challenges herself dig into the guts of development. I'm confident that an employer could task her with recreating or meeting the requirements for just about any web development project and she'd deliver work above-and-beyond the original ask. A real asset to have on any team.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/ben-schroeder/",
+        "text": "Tania's approach to web development is one that I wish to see more. Of course, her technical skills are superb; she picks up new concepts quickly and enthusiastically, with a particular talent for design and clean code. I can personally attest to her skills in HTML/CSS, JavaScript/Node.js, PHP, and back-end server configuration. What I find most impressive, however, is the way she contributes to our chaotic and blossoming field. Her personal website contains an overwhelming amount of in-depth articles, all with a focus on empathy and beginner-friendliness that webdev is sorely lacking. She single-handedly empowers aspiring developers to make websites. How cool is that? For Tania, web development is not a hobby, it's an ongoing passion -- and this passion is nothing short of infectious. Our industry is very lucky to have someone like Tania, and I would recommend her for any team wholeheartedly.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/teodor-nikolaev-68102750/",
+        "text": "Tania is an extremely skilled web developer/designer and she is always eager to learn more. Her desire for knowledge and thirst for success allowed her to solve the most challenging problems at Lettuce Entertain You. Tania writes some of the best written and efficient code I have seen. Her organizational skills brought our department to the next level. She is a trend setter when it comes to coding standards and her ability to experiment and test with different tools and techniques greatly helped our team stay on budget and on time. Working with Tania has been nothing but a pleasure.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/jpggvilaca/",
+        "text": "I'd like to recommend Tania because I feel like it was the least I could do. She's is a very fast learner, an experienced coder, and a remarkable writer. Just pick a random tutorial form her page and it will be obvious. Tania is high skilled and very good to work with, one will learn from her on a daily basis without a doubt."
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/martinbrosenberg/",
+        "text": "I had the opportunity to work on an open-source project together with Martin, and he’s everything you could ask for in a teammate. He’s highly competent, detailed, trustworthy, and he cares. Martin succeeded in vastly simplifying the architecture of an existing project, making it easier for newcomers to contribute and reducing busywork and boilerplate. If Martin encounters an issue, he researches diligently to find the best solution, and you can trust that it will be.\n\nAside from that, working with Martin is a lot of fun, so it doesn’t even feel like work in the end."
+      },
+      {
+        "user": "https://www.linkedin.com/in/joecarlyon/",
+        "text": "Joe is one of the most diligent people I’ve ever had the pleasure of working with. He’s always willing to jump right in and help, whether or not it’s in one of his areas of expertise. “That’s not my job,” is something you’ll never hear from him. Front end, back end, automation, DevOps - nothing’s off limits for Joe (not even JavaScript!).\n\nJoe has helped me on numerous occasions, whether I’ve needed to set up something new or debug something old, but he doesn’t just quickly take care of it - he gives you the knowledge and tools necessary to do it yourself next time.\n\nI also had the opportunity to pair with Joe on a hackathon project, which was not only fun and challenging for the team, but ended up creating a product that brought a lot of value to the company itself. I’d highly recommend Joe for any automation or software development position."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "30",
+      "items": [
+        "Understanding Events in JavaScript",
+        "How To Modify Attributes, Classes, and Styles in the DOM",
+        "Understanding Classes in JavaScript",
+        "Understanding Variables, Scope, and Hoisting in JavaScript",
+        "Understanding Prototypes and Inheritance in JavaScript",
+        "How to Make Changes to the DOM",
+        "Walking and Traversing the DOM",
+        "How to Access Elements in the DOM",
+        "How to Upload a File to Object Storage with Node.js",
+        "Understanding the DOM Tree and Nodes",
+        "Introduction to the DOM",
+        "Understanding Date and Time in JavaScript",
+        "How to Define Functions in JavaScript",
+        "How to Construct For Loops in JavaScript",
+        "Constructing While and Do While Loops in JavaScript",
+        "Switch Statements in JavaScript",
+        "Conditional Statements in JavaScript",
+        "Working with Objects in JavaScript",
+        "How to Use Array Methods in JavaScript: Iteration Methods",
+        "How to Use Array Methods in JavaScript: Accessor Methods"
+      ]
+    },
+    {
+      "count": "4",
+      "items": [
+        "JavaScript Chip8 Emulator",
+        "Laconia",
+        "Primitive UI",
+        "New Moon Theme"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "English",
+        "Spanish"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/michaelmeier8/",
+      "text": "Full Stack Engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mike-beauford-619747/",
+      "text": "Partner at SecurityBuilder.io"
+    },
+    {
+      "user": "https://www.linkedin.com/in/danizaghian/",
+      "text": "Software Engineer, Lead Instructor"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jaimeschubert/",
+      "text": "Senior Software Engineer at Albert.io"
+    },
+    {
+      "user": "https://www.linkedin.com/in/paul-krajewski-89baa950/",
+      "text": "Web Developer / API Designer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/csantiago1/",
+      "text": "Front-End Developer at DAIS Technology, Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/joshua-babicz/",
+      "text": "Founder at Digital Upsight"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ramesh-nuvvula-20554b5/",
+      "text": "System Designer at Partners health care"
+    },
+    {
+      "user": "https://www.linkedin.com/in/andreydrozd/",
+      "text": "Frontend Software Engineer at DAIS Technology, Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/micah-turner-62b100119/",
+      "text": "Software Engineer at DAIS Technology, Inc."
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Tania Rascia",
+    "headline": "Front End Software Engineer for DAIS Technology",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQGWwYdpnadrDA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=v0FLx22x9aOjDwLJOuiW6dgRYGhXipaya2UD6nuOTe8",
+    "location": "Chicago, Illinois",
+    "connections": "490",
+    "summary": "Tania Rascia is full-stack software developer specializing in modern JavaScript - ES6+, React, Vue, Node.js. https://www.taniarascia.com"
+  }
+}

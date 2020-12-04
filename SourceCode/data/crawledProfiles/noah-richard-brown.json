@@ -1,0 +1,199 @@
+{
+  "profileAlternative": {
+    "name": "Noah Brown",
+    "headline": "Full Stack Web Developer focused on React and Javascript",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQHE2A6bx36cmQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=jWWrCgKcO6JWR0GRRQiGmsUbhZ3cEa68umrenX59jiQ",
+    "location": "Provo, Utah",
+    "connections": "500+",
+    "summary": "________Web Developer who is excited to learn more about technology and the world around me________\n\n_________________________Check out my github https://github.com/brownrnoah______________________\n___________________________________Link to my portfolio noahrbrown.com_____________________________\n___________________________________________brownrnoah@gmail.com___________________________________\n_________________________________________________801-541-0134_________________________________________"
+  },
+  "aboutAlternative": {
+    "text": "________Web Developer who is excited to learn more about technology and the world around me________\n\n_________________________Check out my github https://github.com/brownrnoah______________________\n___________________________________Link to my portfolio noahrbrown.com_____________________________\n___________________________________________brownrnoah@gmail.com___________________________________\n_________________________________________________801-541-0134_________________________________________"
+  },
+  "positions": [
+    {
+      "title": "DevMountain Student Developers",
+      "location": "Provo, Utah Area",
+      "description": "I got the idea for this eCommerce site, because I saw that a local restaurant currently didn't have a decent website associated with it. The concept was to make it possible for customers to order take out or delivery through the site itself through Stripe. The customer would also be about to view their past orders.\n\nWon runner-up at DevMountain for best business solution.\n\nThis is their current site http://www.saigoncafeprovo.biz/\nTo see my entire website please go to: http://saigoncafe.devmtn-projects.com\n\nTECH USED: React/Redux | HTML | CSS | JavaScript | Node | Express | PostgreSQL\nGITHUB REPO: https://github.com/brownrnoah/Personal-Project\n…\nsee more",
+      "date1": "Jan 2018 – Present",
+      "date2": "1 yr 11 mos",
+      "roles": [
+        {
+          "title": "Web Developer | React/Redux | HTML | CSS | JavaScript | Node | Express | PostgreSQL",
+          "date1": "Jan 2018 – Present",
+          "date2": "1 yr 11 mos",
+          "location": "Provo, Utah Area"
+        },
+        {
+          "title": "Web Developer | React/Redux | HTML | CSS | JavaScript | Node | Express | PostgreSQL",
+          "date1": "Jan 2018 – Jun 2018",
+          "date2": "6 mos",
+          "location": "Provo, Utah Area"
+        }
+      ]
+    },
+    {
+      "title": "Title\nWeb Developer | React/Redux | HTML | CSS | JavaScript | Node | Express | PostgreSQL",
+      "location": "Provo, Utah Area",
+      "description": "I got the idea for this eCommerce site, because I saw that a local restaurant currently didn't have a decent website associated with it. The concept was to make it possible for customers to order take out or delivery through the site itself through Stripe. The customer would also be about to view their past orders.\n\nWon runner-up at DevMountain for best business solution.\n\nThis is their current site http://www.saigoncafeprovo.biz/\nTo see my entire website please go to: http://saigoncafe.devmtn-projects.com\n\nTECH USED: React/Redux | HTML | CSS | JavaScript | Node | Express | PostgreSQL\nGITHUB REPO: https://github.com/brownrnoah/Personal-Project\n…\nsee more",
+      "date1": "Jan 2018 – Present",
+      "date2": "1 yr 11 mos",
+      "roles": [
+        {
+          "title": "Web Developer | React/Redux | HTML | CSS | JavaScript | Node | Express | PostgreSQL",
+          "date1": "Jan 2018 – Present",
+          "date2": "1 yr 11 mos",
+          "location": "Provo, Utah Area"
+        }
+      ]
+    },
+    {
+      "title": "Title\nWeb Developer | React/Redux | HTML | CSS | JavaScript | Node | Express | PostgreSQL",
+      "location": "Provo, Utah Area",
+      "description": "The concept for this site is to connect local food pantries and food banks with local restaurants and stores that have goods that are getting close to expiring or that they no longer need. The business would receive tax refunds for the amount that they donate. It will give small businesses an opportunity to help the local community.\n\nTo see my entire website please go to: http://food-connect.net\n\nTECH USED: React/Redux | HTML | CSS | JavaScript | Node | Express | PostgreSQL\nGITHUB REPO: https://github.com/ScottWorks/Food-Connect\n…\nsee more",
+      "date1": "Jan 2018 – Jun 2018",
+      "date2": "6 mos",
+      "roles": [
+        {
+          "title": "Web Developer | React/Redux | HTML | CSS | JavaScript | Node | Express | PostgreSQL",
+          "date1": "Jan 2018 – Jun 2018",
+          "date2": "6 mos",
+          "location": "Provo, Utah Area"
+        }
+      ]
+    },
+    {
+      "title": "AutoGlass Technician",
+      "companyName": "Safelite AutoGlass",
+      "location": "Provo, Utah Area",
+      "description": "• Scheduling appointments with customers, and planning out the day.\n• Driving out to customer's houses throughout Utah valley.\n• Replacing windshields, back windows, side glass, and mirrors on vehicles.\n• Washing windows, and vacuuming customer's vehicles.\n• Filling out paperwork\n\n…\nsee more",
+      "date1": "Apr 2016 – Jan 2018",
+      "date2": "1 yr 10 mos"
+    },
+    {
+      "title": "Call Center Representative",
+      "companyName": "Convergys",
+      "location": "Orem, Utah",
+      "description": "• Answering phone calls from healthcare professionals.\n• Looking up patients and healthcare facilities.\n• Verifying that a patient is able to have a procedure based off of their insurance coverage.\n• Working with a handful of separate programs to look up patient information, and remembering the passwords associated with them.\n• Working closely with team leads on tasks that require assistance.\n\n…\nsee more",
+      "date1": "Jan 2016 – Apr 2016",
+      "date2": "4 mos"
+    },
+    {
+      "title": "Shop Hand",
+      "companyName": "Burke Electric",
+      "location": "Murphysboro, IL",
+      "description": "• Load and unload trucks.\n• Turn in receipts and money received from deliveries.\n• Maintain cleanliness around the shop.\n• Wash, vacuum, and wax the work trucks.\n• Receive deliveries, sometimes with the use of a forklift.\n• Deliver parts, and supplies needed at job sites around Southern Illinois.\n• Sometimes requiring the need to pick up supplies at a distributor.\n• Maintain the lawn care at the shop.\n\n…\nsee more",
+      "date1": "2012 – 2013",
+      "date2": "1 yr"
+    }
+  ],
+  "educations": [
+    {
+      "title": "DevMountain"
+    },
+    {},
+    {
+      "title": "John A Logan College",
+      "date1": "2013",
+      "date2": "2013"
+    },
+    {
+      "title": "Utah Valley University",
+      "degree": "Computer Science",
+      "fieldofstudy": "Computer Science",
+      "date1": "2016",
+      "date2": "2021"
+    }
+  ],
+  "skills": [
+    {
+      "title": "JavaScript",
+      "count": "3"
+    },
+    {
+      "title": "HTML",
+      "count": "2"
+    },
+    {
+      "title": "React.js",
+      "count": "2"
+    },
+    {
+      "title": "Cascading Style Sheets (CSS)",
+      "count": "1"
+    },
+    {
+      "title": "Node.js",
+      "count": "1"
+    },
+    {
+      "title": "SQL",
+      "count": "1"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "1",
+      "items": [
+        "Portuguese"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/pradeep-sh/",
+      "text": "Full Stack Developer looking for a Job."
+    },
+    {
+      "user": "https://www.linkedin.com/in/dallenhoyal/",
+      "text": "React Developer at Trapeze Labs Management"
+    },
+    {
+      "user": "https://www.linkedin.com/in/k-vergara/",
+      "text": "Full Stack Web Developer focused on front end technologies"
+    },
+    {
+      "user": "https://www.linkedin.com/in/matt-johnston/",
+      "text": "Web Developer - Full Stack Developer | Javascript | React | Node | Angular | Ionic | PostgreSQL"
+    },
+    {
+      "user": "https://www.linkedin.com/in/austin-brake/",
+      "text": "Shield operations at Jet"
+    },
+    {
+      "user": "https://www.linkedin.com/in/alphaborel/",
+      "text": "Technician | Full Stack Web Developer (Node.js)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/randall-farnworth/",
+      "text": "Web Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/aaronjbowers/",
+      "text": "Web Developer at LiveView Technologies"
+    },
+    {
+      "user": "https://www.linkedin.com/in/cody-dillman/",
+      "text": "Junior Software Developer at Mainstream Data"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ian-schoen/",
+      "text": "Web Developer at Everee"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Noah Brown",
+    "headline": "Full Stack Web Developer focused on React and Javascript",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQHE2A6bx36cmQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=jWWrCgKcO6JWR0GRRQiGmsUbhZ3cEa68umrenX59jiQ",
+    "location": "Provo, Utah",
+    "connections": "500+",
+    "summary": "________Web Developer who is excited to learn more about technology and the world around me________\n\n_________________________Check out my github https://github.com/brownrnoah______________________\n___________________________________Link to my portfolio noahrbrown.com_____________________________\n___________________________________________brownrnoah@gmail.com___________________________________\n_________________________________________________801-541-0134_________________________________________"
+  }
+}

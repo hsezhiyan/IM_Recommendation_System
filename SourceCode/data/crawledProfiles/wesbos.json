@@ -1,0 +1,154 @@
+{
+  "profileAlternative": {
+    "name": "Wes (🚫 RECRUITERS 🚫) Bos",
+    "headline": "Full Stack Developer and Professional Explainer",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQFHHqFrEbAJSw/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=z2b-hx7PBtq4c-c-jXGKYwYDcNcvxAdtMhKBz2-xqjI",
+    "location": "Toronto, Ontario, Canada",
+    "connections": "500+",
+    "summary": "Full Stack, independent web developer and designer with a HTML5, Wordpress, CSS and Javascript.\n\nLead instructor at Hacker You and Ladies Learning Code.\n\nAuthor of Sublime Text Power User - http://SublimeTextBook.com\n\nConference Speaker.\n\nIf you are interested in getting in touch, please email wes@wesbos.com - linkedin mail is not checked. I'm not looking for any full time roles but am open to remote contracts."
+  },
+  "aboutAlternative": {
+    "text": "Full Stack, independent web developer and designer with a HTML5, Wordpress, CSS and Javascript.\n\nLead instructor at Hacker You and Ladies Learning Code.\n\nAuthor of Sublime Text Power User - http://SublimeTextBook.com\n\nConference Speaker.\n\nIf you are interested in getting in touch, please email wes@wesbos.com - linkedin mail is not checked. I'm not looking for any full time roles but am open to remote contracts."
+  },
+  "positions": [
+    {
+      "title": "Lead Instructor",
+      "companyName": "HackerYou",
+      "location": "Toronto",
+      "description": "Hands-on, project-based learning from industry-leading professionals.",
+      "date1": "Jun 2012 – Present",
+      "date2": "7 yrs 6 mos"
+    },
+    {
+      "title": "Founder",
+      "companyName": "BosType Inc",
+      "location": "Toronto / Hamilton, Ontario",
+      "date1": "Mar 2005 – Present",
+      "date2": "14 yrs 9 mos"
+    },
+    {
+      "title": "Founder",
+      "companyName": "DealPage",
+      "description": "New startup that aggregates all of the group buying deals in your city. Check it out at http://DealPage.ca",
+      "date1": "Sep 2010 – Jul 2012",
+      "date2": "1 yr 11 mos"
+    },
+    {
+      "title": "Online Business Development",
+      "companyName": "Angle Media Group",
+      "date1": "Jan 2010 – Apr 2010",
+      "date2": "4 mos"
+    },
+    {
+      "title": "Downstream Database & Application Support",
+      "companyName": "ExxonMobil",
+      "date1": "Apr 2009 – Aug 2009",
+      "date2": "5 mos"
+    },
+    {
+      "title": "Capital Markets Application Support",
+      "companyName": "CIBC Mellon",
+      "description": "Supported multiple applications and databases in the fast pace trading environment.",
+      "date1": "Apr 2008 – Apr 2009",
+      "date2": "1 yr 1 mo"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Ryerson University",
+      "degree": "bComm",
+      "fieldofstudy": "Business Technology Management",
+      "date1": "2006",
+      "date2": "2011"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Web Development",
+      "count": "99+"
+    },
+    {
+      "title": "User Experience",
+      "count": "95"
+    },
+    {
+      "title": "JavaScript",
+      "count": "77"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "1",
+    "receivedCount": "1",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/yngdrw/",
+        "text": "Wes is a rare individual who has knowledge of both programming and graphics design. Because of this, he is able to produce highly innovative and functional work. His creativity and his ability to work with others is exceptional."
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/yngdrw/",
+        "text": "Andrew is a down-right whiz at development Never taking shortcuts, ensuring that things are easily adaptable and scalable for the future. He's also an efficient guy, he can see the value in spending a few extra hours on a project in order to save many in the future."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "1",
+      "items": [
+        "JavaScript"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/fanny-lavoie-87a27a138/",
+      "text": "Global Talent Acquisition / HR Recruiter at GoSecure"
+    },
+    {
+      "user": "https://www.linkedin.com/in/melissasariffodeen/",
+      "text": "Co-Founder & CEO at Canada Learning Code"
+    },
+    {
+      "user": "https://www.linkedin.com/in/heatherpayneintoronto/",
+      "text": "CEO of Juno (YC S19): a post-graduate coding school that helps you build a fulfilling career as a web developer, fast."
+    },
+    {
+      "user": "https://www.linkedin.com/in/yngdrw/",
+      "text": "A Web Developer/Data Engineer/Automation Enthusiast"
+    },
+    {
+      "user": "https://www.linkedin.com/in/juliache/",
+      "text": "Entrepreneur & Executive Leader"
+    },
+    {
+      "user": "https://www.linkedin.com/in/purvi-kanal-4a36089a/",
+      "text": "Software Developer at Rangle.io | CTO at Bridge School"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ryanchristiani/",
+      "text": "UX Developer Lead at Shopify"
+    },
+    {
+      "user": "https://www.linkedin.com/in/talia-harrison-marcassa/",
+      "text": "Front End Web Developer at Opencare.com"
+    },
+    {
+      "user": "https://www.linkedin.com/in/melkoumov/",
+      "text": "Co-Founder & CEO at Crowdlinker (We’re Hiring!)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/heather-bryson-14704a65/",
+      "text": "Recruiter Lead at TEKsystems"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Wes (🚫 RECRUITERS 🚫) Bos",
+    "headline": "Full Stack Developer and Professional Explainer",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQFHHqFrEbAJSw/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=z2b-hx7PBtq4c-c-jXGKYwYDcNcvxAdtMhKBz2-xqjI",
+    "location": "Toronto, Ontario, Canada",
+    "connections": "500+",
+    "summary": "Full Stack, independent web developer and designer with a HTML5, Wordpress, CSS and Javascript.\n\nLead instructor at Hacker You and Ladies Learning Code.\n\nAuthor of Sublime Text Power User - http://SublimeTextBook.com\n\nConference Speaker.\n\nIf you are interested in getting in touch, please email wes@wesbos.com - linkedin mail is not checked. I'm not looking for any full time roles but am open to remote contracts."
+  }
+}

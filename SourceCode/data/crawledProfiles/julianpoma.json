@@ -1,0 +1,204 @@
+{
+  "profileAlternative": {
+    "name": "Julian Emanuel P.",
+    "headline": "Software Engineer & Full Stack Node.js Developer en Whyline",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQGeKo1Brd-hTQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=ealiS3uAIXd3LxEEbXQk8atK-K8hqb0Zgh6qZNKLqgg",
+    "location": "Argentina",
+    "connections": "500+",
+    "summary": "Julian is a Software Engineer and Full Stack Web Developer from Rosario, Argentina. He has experience with Node.js, Express, Fastify, Typecript, MongoDB, AWS, Angular 4 and Vue.js. Currently experimenting with React.js, gRPC and Rust.\n\nJulian is a motivated team-player who strives to develop meaningful projects that make a real-world impact. He always enjoys taking on new challenges."
+  },
+  "aboutAlternative": {
+    "text": "Julian is a Software Engineer and Full Stack Web Developer from Rosario, Argentina. He has experience with Node.js, Express, Fastify, Typecript, MongoDB, AWS, Angular 4 and Vue.js. Currently experimenting with React.js, gRPC and Rust.\n\nJulian is a motivated team-player who strives to develop meaningful projects that make a real-world impact. He always enjoys taking on new challenges."
+  },
+  "positions": [
+    {
+      "title": "Full Stack Node.js Developer",
+      "companyName": "Whyline",
+      "location": "Rosario, Argentina",
+      "description": "I am a member of the Scrum App Team, in charge of the research, design and development of new internal features and requirements in the backend servers, used by more than 350.000 active users.\n\nWe work putting a deep focus on speed, performance and reliability, using the latests and cutting-edge Javascript technologies and stacks, such as Node.js, Angular.js, Fastify, MongoDB, AWS and gPRC.",
+      "date1": "Jan 2019 – Present",
+      "date2": "11 mos"
+    },
+    {
+      "title": "Freelance Full Stack Web Developer",
+      "companyName": "Lemon8",
+      "description": "We are a group of 8 close friends and engineers, that work on their free time to create and implement the best solution to problems and issues that people are having. We mostly work with the MEAN Stack (Node.js, Angular.js, MongoDB and Express), Laravel 5 and React Native.",
+      "date1": "Sep 2018 – Present",
+      "date2": "1 yr 3 mos"
+    },
+    {
+      "title": "Laravel 5 and Vue.js Developer",
+      "companyName": "SGC S.A",
+      "location": "Rosario, Argentina",
+      "description": "In charge of the development of a lite-CRM system used to manage 5000 customers and the services offered. Designed and launched an interacting site were potential customers can request the services and send inquiries.",
+      "date1": "Oct 2017 – Jan 2019",
+      "date2": "1 yr 4 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Universidad Tecnológica Nacional",
+      "degree": "Software Engineering",
+      "fieldofstudy": "University",
+      "date1": "2014",
+      "date2": "2018"
+    },
+    {
+      "title": "IATEL",
+      "degree": "Cambridge English: First (B1)",
+      "fieldofstudy": "English",
+      "date1": "2007",
+      "date2": "2013"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Laravel",
+      "count": "5"
+    },
+    {
+      "title": "Vue.js",
+      "count": "4"
+    },
+    {
+      "title": "Node.js",
+      "count": "6"
+    },
+    {
+      "title": "SQL",
+      "count": "8"
+    },
+    {
+      "title": "C#",
+      "count": "7"
+    },
+    {
+      "title": "C++",
+      "count": "5"
+    },
+    {
+      "title": "JavaScript",
+      "count": "7"
+    },
+    {
+      "title": "Visual Studio",
+      "count": "4"
+    },
+    {
+      "title": "GitHub",
+      "count": "9"
+    },
+    {
+      "title": "Adobe Photoshop",
+      "count": "3"
+    },
+    {
+      "title": "Databases",
+      "count": "1"
+    },
+    {
+      "title": "MongoDB"
+    },
+    {
+      "title": "Angular 5",
+      "count": "3"
+    },
+    {
+      "title": "React.js"
+    },
+    {
+      "title": "gRPC"
+    },
+    {
+      "title": "English",
+      "count": "2"
+    },
+    {
+      "title": "Desarrollo de API",
+      "count": "1"
+    },
+    {
+      "title": "TypeScript"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "3",
+      "items": [
+        "Python Blockchain",
+        "Vue Contact Form",
+        "betterReads"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "English",
+        "Español"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Frontend Developer Bootcamp at Globant"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/nahuelfumero/",
+      "text": "Backend Node.js AWS Cloud Developer @ Headway Digital"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ricardopp/",
+      "text": "Desarrollador Node.js, React, Java"
+    },
+    {
+      "user": "https://www.linkedin.com/in/agustincassani/",
+      "text": "Full Stack JavaScript Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nicopereyra215/",
+      "text": "Javascript fullstack developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/juan-bautista-garaventa/",
+      "text": "Systems Engineer - Node.js & Angular Developer en Whyline"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mateo-scarafia-6ba8a9b5/",
+      "text": "Node.js | React.js Developer in Cognizant"
+    },
+    {
+      "user": "https://www.linkedin.com/in/germ%C3%A1n-urrustaraz%C3%BA-67aa648/",
+      "text": "Full-stack Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/wzalazar/",
+      "text": "🚀 Sr. Full stack developer | Javascript | NodeJS | ReactJS | Blockchain"
+    },
+    {
+      "user": "https://www.linkedin.com/in/maurim96/",
+      "text": "Software Engineer - Fullstack Developer (Angular, Ionic & Net Core)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/japsolo/",
+      "text": "Senior Professor at Digital House [JS, Node, React, Mongo, MySQL, PHP, Laravel]"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Julian Emanuel P.",
+    "headline": "Software Engineer & Full Stack Node.js Developer en Whyline",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQGeKo1Brd-hTQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=ealiS3uAIXd3LxEEbXQk8atK-K8hqb0Zgh6qZNKLqgg",
+    "location": "Argentina",
+    "connections": "500+",
+    "summary": "Julian is a Software Engineer and Full Stack Web Developer from Rosario, Argentina. He has experience with Node.js, Express, Fastify, Typecript, MongoDB, AWS, Angular 4 and Vue.js. Currently experimenting with React.js, gRPC and Rust.\n\nJulian is a motivated team-player who strives to develop meaningful projects that make a real-world impact. He always enjoys taking on new challenges."
+  }
+}

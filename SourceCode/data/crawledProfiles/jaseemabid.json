@@ -1,0 +1,171 @@
+{
+  "profileAlternative": {
+    "name": "Jaseem Abid",
+    "headline": "Software Engineer at Monzo Bank",
+    "location": "London, Greater London, United Kingdom",
+    "connections": "460",
+    "summary": "My primary areas of interest are programming languages and distributed systems.\n\nI have 4 years of experience primarily with startups in several domains - including healthcare, video delivery, enterprise automation engines, IoT and payments. I make banking awesome at Monzo right now."
+  },
+  "aboutAlternative": {
+    "text": "My primary areas of interest are programming languages and distributed systems.\n\nI have 4 years of experience primarily with startups in several domains - including healthcare, video delivery, enterprise automation engines, IoT and payments. I make banking awesome at Monzo right now."
+  },
+  "positions": [
+    {
+      "title": "Software Engineer",
+      "companyName": "Monzo Bank",
+      "location": "London, United Kingdom",
+      "date1": "Aug 2018 – Present",
+      "date2": "1 yr 4 mos"
+    },
+    {
+      "title": "Senior Software Engineer",
+      "companyName": "Red Hat",
+      "location": "Bangalore",
+      "description": "A career mistake that shouldn't have happened.",
+      "date1": "Oct 2017 – Jun 2018",
+      "date2": "9 mos"
+    },
+    {
+      "title": "Becoming a better programmer",
+      "companyName": "Recurse Center",
+      "location": "Greater New York City Area",
+      "description": "The Recurse Center is a self-directed, community-driven educational retreat for programmers in New York City and I attended the Summer 1 batch from May 22nd to Aug 10th.\n\nI worked on a lambda calculus compiler, learned x86 assembly and Rust programming language.",
+      "date1": "May 2017 – Aug 2017",
+      "date2": "4 mos"
+    },
+    {
+      "title": "Software Engineer",
+      "companyName": "Instamojo",
+      "location": "Bangalore",
+      "date1": "Dec 2016 – May 2017",
+      "date2": "6 mos"
+    },
+    {
+      "title": "Platform Engineer",
+      "companyName": "Fybr",
+      "description": "I played a key role in a 3 member team architecting and developing a distributed stream processing engine in Erlang akin Apache Kafka to power the core of the IoT platform.",
+      "date1": "Sep 2015 – Sep 2016",
+      "date2": "1 yr 1 mo"
+    },
+    {
+      "title": "Member Technical Staff",
+      "companyName": "Idea Device Technologies",
+      "location": "Bangalore",
+      "description": "Developed a mission critical automation suite used by various large financial institutions. I was part\nof the team that built the run book execution engine, various backend services and user interfaces.",
+      "date1": "Feb 2014 – Sep 2015",
+      "date2": "1 yr 8 mos"
+    },
+    {
+      "title": "Freelance developer",
+      "companyName": "Disruptive Vision (Pty) Ltd",
+      "location": "Bangalore",
+      "description": "Designed and built the front end and an interactive web media player. Spend a lot of time thinking about efficient ways to deliver content, codecs and all things video.",
+      "date1": "2013 – 2014",
+      "date2": "1 yr"
+    },
+    {
+      "title": "Lead front end developer",
+      "companyName": "Healthlucid",
+      "location": "Remote",
+      "description": "Designed and built a fairly complex web application for a nascent health care startup with Ruby on\nRails and Backbone.js.",
+      "date1": "2012 – 2013",
+      "date2": "1 yr"
+    }
+  ],
+  "educations": [
+    {
+      "title": "NIT Calicut",
+      "degree": "Bachelor's degree",
+      "fieldofstudy": "Computer Science",
+      "date1": "2009",
+      "date2": "2013"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Functional Programming",
+      "count": "2"
+    },
+    {
+      "title": "Haskell",
+      "count": "3"
+    },
+    {
+      "title": "Erlang",
+      "count": "1"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "4",
+      "items": [
+        "Functorrent",
+        "Libnodegit, Native git bindings for node.js with libgit2.",
+        "Lisper",
+        "Storm"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "English"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/richardlayte/",
+      "text": "Software Engineer at Monzo Bank"
+    },
+    {
+      "user": "https://www.linkedin.com/in/christineodell/",
+      "text": "Backend Engineer at Monzo Bank"
+    },
+    {
+      "user": "https://www.linkedin.com/in/alessandromencarini/",
+      "text": "Backend Engineer at Monzo Bank"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shubheksha/",
+      "text": "Backend Engineer at Monzo. Interested in all things infrastructure and distributed systems."
+    },
+    {
+      "user": "https://www.linkedin.com/in/jason-dabydoyal/",
+      "text": "Monzo"
+    },
+    {
+      "user": "https://www.linkedin.com/in/robinsonwall/",
+      "text": "Backend Engineer at Monzo Bank"
+    },
+    {
+      "user": "https://www.linkedin.com/in/danwbrown/",
+      "text": "Senior Engineer at Monzo Bank"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jonashuckestein/",
+      "text": "Co-Founder at Monzo"
+    },
+    {
+      "user": "https://www.linkedin.com/in/akin-sowemimo-831383131/",
+      "text": "Software Engineer at Monzo Bank"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jakewrightuk/",
+      "text": "Cambridge Computer Science graduate and experienced full-stack software developer"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Jaseem Abid",
+    "headline": "Software Engineer at Monzo Bank",
+    "location": "London, Greater London, United Kingdom",
+    "connections": "460",
+    "summary": "My primary areas of interest are programming languages and distributed systems.\n\nI have 4 years of experience primarily with startups in several domains - including healthcare, video delivery, enterprise automation engines, IoT and payments. I make banking awesome at Monzo right now."
+  }
+}

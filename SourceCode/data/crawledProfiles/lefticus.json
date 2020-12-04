@@ -1,0 +1,221 @@
+{
+  "profileAlternative": {
+    "name": "Jason Turner",
+    "headline": "C++ Trainer, Speaker, and Developer",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQHwDoi1IP92HA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=qGQT5kbaQ_rl9tVlXWnCqLieAaG4U7JFxxagQC5cntE",
+    "location": "Henderson, Colorado",
+    "connections": "331",
+    "summary": "Jason is an internationally known, award winning, C++ keynote speaker and trainer. He has spoken and provided training across the United States, Poland, Germany, Netherlands, United Kingdom and New Zealand at more than 10 conferences and 15 companies. Jason utilizes his 2 decades of C++ knowledge and unique training style to help organizations write clean, maintainable, and efficient programs.\n\nAside from his speaking and training activities, Jason is an active member of the C++ community as co-host of a C++ podcast, CppCast. He is also host of C++ Weekly, a YouTube channel publishing a new video at least once a week since March, 2016. His YouTube channel has over 20 thousand subscribers and more than 1 million views. In recognition of his contributions to the C++ community he has been awarded as a Microsoft MVP since 2015.\n\nJason is available for training, speaking, code reviews, and contracting services and he currently has 2 O'Reilly published C++ video series available on Safari Online."
+  },
+  "aboutAlternative": {
+    "text": "Jason is an internationally known, award winning, C++ keynote speaker and trainer. He has spoken and provided training across the United States, Poland, Germany, Netherlands, United Kingdom and New Zealand at more than 10 conferences and 15 companies. Jason utilizes his 2 decades of C++ knowledge and unique training style to help organizations write clean, maintainable, and efficient programs.\n\nAside from his speaking and training activities, Jason is an active member of the C++ community as co-host of a C++ podcast, CppCast. He is also host of C++ Weekly, a YouTube channel publishing a new video at least once a week since March, 2016. His YouTube channel has over 20 thousand subscribers and more than 1 million views. In recognition of his contributions to the C++ community he has been awarded as a Microsoft MVP since 2015.\n\nJason is available for training, speaking, code reviews, and contracting services and he currently has 2 O'Reilly published C++ video series available on Safari Online."
+  },
+  "positions": [
+    {
+      "title": "Independent Business Owner",
+      "companyName": "EmptyCrate",
+      "description": "I provide C++ related consulting services; including training, speaking and code reviews to organizations around the world.",
+      "date1": "Jul 2005 – Present",
+      "date2": "14 yrs 5 mos"
+    },
+    {
+      "title": "Podcast Host",
+      "companyName": "CppCast",
+      "location": "http://www.cppcast.com",
+      "description": "Co-host of CppCast, a podcast for C++ developers, by C++ developers.",
+      "date1": "May 2015 – Present",
+      "date2": "4 yrs 7 mos"
+    },
+    {
+      "title": "Staff Writer",
+      "companyName": "Adventure Gamers",
+      "description": "Reviewed adventure games with a focus on freeware adventure games.",
+      "date1": "Jan 2009 – Mar 2011",
+      "date2": "2 yrs 3 mos"
+    },
+    {
+      "title": "Security Engineer",
+      "companyName": "Level 3 Communications",
+      "description": "Developed a massively parallel distributed system used for network inventory collection and command and control facilities.",
+      "date1": "Nov 2006 – Mar 2010",
+      "date2": "3 yrs 5 mos"
+    },
+    {
+      "title": "Engineer",
+      "companyName": "Colorado vNet",
+      "description": "Built a distributed IP based audio system as part of a small team. Learned the principles and practicalities of distributed computing.\n\nDesigned and implemented a system for passing of live streaming infrared remote control signals over ethernet. Responsible for hardware specification and implementation of software both at the Linux operating system level and the microcontroller level, for the real time processing that needed to occur.\n…\nsee more",
+      "date1": "Nov 2003 – Nov 2006",
+      "date2": "3 yrs 1 mo"
+    },
+    {
+      "title": "Senior Programmer",
+      "companyName": "Accenture",
+      "description": "Participated in reimplementation of the Colorado Department of Labor's unemployment insurance system which was being developed in VisualBasic.NET.",
+      "date1": "Jul 2003 – Oct 2003",
+      "date2": "4 mos"
+    },
+    {
+      "title": "Programmer",
+      "companyName": "Community Health Plan of the Rockies",
+      "description": "Developed in-house imaging and workflow system used for the processing of medical claims.",
+      "date1": "Jun 2001 – Dec 2002",
+      "date2": "1 yr 7 mos"
+    },
+    {
+      "title": "Developer",
+      "companyName": "Virpack",
+      "description": "Integrated and developed secure commercial document delivery solutions using a wide variety of technologies.",
+      "date1": "May 1999 – May 2001",
+      "date2": "2 yrs 1 mo"
+    },
+    {
+      "title": "Software Developer",
+      "companyName": "Perspex Imageworks, Inc.",
+      "description": "Worked as a summer intern as part of a small team developing a Java based order entry system.",
+      "date1": "May 1997 – Aug 1997",
+      "date2": "4 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Virginia Tech",
+      "degree": "BS",
+      "fieldofstudy": "Computer Science",
+      "date1": "1996",
+      "date2": "2000"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Linux",
+      "count": "17"
+    },
+    {
+      "title": "C++",
+      "count": "17"
+    },
+    {
+      "title": "Software Engineering",
+      "count": "12"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "5",
+    "receivedCount": "4",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/moosedesign/",
+        "text": "Working in fast paced, potentially high stress design and production environment it was a joy to work with Jason. He provided consistent, level headed critique and feedback, and helped me understand the relevant (and often complicated) technical details associated with the projects that we collaborated on, all of which inevitably resulted in on-time, accurate and successful deliverables... And always in a manner that was fun and encouraging! Great collaborator, great attitude...\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/mark-gookin-1a0956a/",
+        "text": "Jason is one of the brightest and most talented engineers I have had the opportunity to work with. Jason is an expert in his domain, very dedicated and very focused. Truly a valued and contributing member of any team he is on. I look forward to the opportunity to work with him again."
+      },
+      {
+        "user": "https://www.linkedin.com/in/john-lencioni-1878b9/",
+        "text": "During my time working with Jason, he was a hard working and dedicated employee, who always went the extra mile. He had an amazing problem solving ability to get to the root cause of an issue and resolve it. It would be a pleasure to work along side him again."
+      },
+      {
+        "user": "https://www.linkedin.com/in/jimknepley/",
+        "text": "In all of my years as a technology professional, I've never known anyone with the passion and aptitude for programming that Jason has. He has the capacity to understand complex problems and implement code to solve them in a way that only the most skilled programmers I know can."
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/jimknepley/",
+        "text": "Jim is the creative thinker you can always count on to bounce ideas off of and to give you feedback as to which direction you should examine or pursue next in your project."
+      },
+      {
+        "user": "https://www.linkedin.com/in/moosedesign/",
+        "text": "Richard quickly picked up on and addressed the needs that we, the software engineers, had when creating the graphics for an embedded touch screen device.\r\n\r\nHis creativity and attention to detail is unparalleled and made the products we built truly shine."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "10",
+      "items": [
+        "C++ Weekly",
+        "C++ Best Practices Document",
+        "CppCast Co-host",
+        "OpenStudio",
+        "ChaiScript Embedded Scripting Language for C++",
+        "The Retro Programmer",
+        "Inventory Tool",
+        "Infrared Control for Vibe Audio",
+        "Touchscreen Interface for Vibe Audio System",
+        "Claim Management Workflow"
+      ]
+    },
+    {
+      "count": "7",
+      "items": [
+        "Microsoft MVP For Visual C++ - 2018",
+        "Microsoft MVP For Visual C++ - 2017",
+        "Best Presentation - constexpr ALL The Things",
+        "Microsoft MVP for Visual C++ - 2016",
+        "Best Tutorial: Practical Performance Practices",
+        "Most Useful Presentation: Practical Performance Practices",
+        "Microsoft MVP for Visual C++ - 2015"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "Inheritance and Polymorphism with C++",
+        "Learning C++ Best Practices"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/bita-hasheminezhad/",
+      "text": "PhD student, DeepLearning with High-Performance-Computing systems"
+    },
+    {
+      "user": "https://www.linkedin.com/in/bob-steagall-9649612a/",
+      "text": "Principal Engineer, C++ Advocate"
+    },
+    {
+      "user": "https://www.linkedin.com/in/bjarnestroustrup/",
+      "text": "Technical Fellow and Managing Director at Morgan Stanley"
+    },
+    {
+      "user": "https://www.linkedin.com/in/dansaks/",
+      "text": "President of Saks & Associates"
+    },
+    {
+      "user": "https://www.linkedin.com/in/linustorvalds/",
+      "text": "Fellow at Linux Foundation"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tituswinters/",
+      "text": "Senior Staff Software Engineer at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sujatha-narayanan-2472a41/",
+      "text": "Principal Software Engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jamesgosling/",
+      "text": "Software Engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/herb-sutter-826b436/",
+      "text": "SA at Microsoft"
+    },
+    {
+      "user": "https://www.linkedin.com/in/daveabrahams/",
+      "text": "Swift Library Designer at Apple"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Jason Turner",
+    "headline": "C++ Trainer, Speaker, and Developer",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQHwDoi1IP92HA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=qGQT5kbaQ_rl9tVlXWnCqLieAaG4U7JFxxagQC5cntE",
+    "location": "Henderson, Colorado",
+    "connections": "331",
+    "summary": "Jason is an internationally known, award winning, C++ keynote speaker and trainer. He has spoken and provided training across the United States, Poland, Germany, Netherlands, United Kingdom and New Zealand at more than 10 conferences and 15 companies. Jason utilizes his 2 decades of C++ knowledge and unique training style to help organizations write clean, maintainable, and efficient programs.\n\nAside from his speaking and training activities, Jason is an active member of the C++ community as co-host of a C++ podcast, CppCast. He is also host of C++ Weekly, a YouTube channel publishing a new video at least once a week since March, 2016. His YouTube channel has over 20 thousand subscribers and more than 1 million views. In recognition of his contributions to the C++ community he has been awarded as a Microsoft MVP since 2015.\n\nJason is available for training, speaking, code reviews, and contracting services and he currently has 2 O'Reilly published C++ video series available on Safari Online."
+  }
+}

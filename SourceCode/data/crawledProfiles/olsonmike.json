@@ -1,0 +1,175 @@
+{
+  "profileAlternative": {
+    "name": "Michael Olson",
+    "headline": "An dynamic Technical Expert with notable experience developing intricate database infrastructures to support operations.",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQES8uODAdXntQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=_R5kspSBlSDpY5XMU_HmmLbNF31RYb9l6HdmaiQbwI4",
+    "location": "Chicago, Illinois",
+    "connections": "280",
+    "summary": "As a dedicated and results-driven Technical Professional, I have built a reputation for my expertise and success in Oracle Database Administration. I am well-versed in developing and deploying scalable database solutions, supporting operations for corporations ranging from start-ups to industry leaders.\nI am highly skilled in analyzing existing environments to identify improvement opportunities, and implementing technical solutions that enhance operational efficiency, while supporting continuous growth and expansion. I am adept in aligning cutting-edge technology and technological advancements with internal policies and procedures, and effectively managing 24/7 operations, to minimize system downtime and ensure around-the-clock support.\nI have been acknowledged as an efficient, and versatile leader and mentor, with extensive knowledge and experience guiding high performing teams and managing complex project engagements. I take pride in my ability to transfer invaluable knowledge, encourage the use and application of industry best practices, and provide ongoing training and development opportunities to ensure teams acquire adequate experience using database tools, and system functionality to increase productivity and team performance metrics."
+  },
+  "aboutAlternative": {
+    "text": "As a dedicated and results-driven Technical Professional, I have built a reputation for my expertise and success in Oracle Database Administration. I am well-versed in developing and deploying scalable database solutions, supporting operations for corporations ranging from start-ups to industry leaders.\nI am highly skilled in analyzing existing environments to identify improvement opportunities, and implementing technical solutions that enhance operational efficiency, while supporting continuous growth and expansion. I am adept in aligning cutting-edge technology and technological advancements with internal policies and procedures, and effectively managing 24/7 operations, to minimize system downtime and ensure around-the-clock support.\nI have been acknowledged as an efficient, and versatile leader and mentor, with extensive knowledge and experience guiding high performing teams and managing complex project engagements. I take pride in my ability to transfer invaluable knowledge, encourage the use and application of industry best practices, and provide ongoing training and development opportunities to ensure teams acquire adequate experience using database tools, and system functionality to increase productivity and team performance metrics."
+  },
+  "positions": [
+    {
+      "title": "Senior DevOps Oracle 12c and MongoDB DBA",
+      "companyName": "1WorldSync",
+      "location": "Greater Chicago Area",
+      "description": "I oversaw and managed a 24/7 production environment supporting Oracle Database operations in the US, Europe, and Asia. I installed, maintained, upgraded, and patched Oracle servers, and managed RMAN backup and restores, and high availability using Data Guard. I monitored server functionality to ensure system health, anticipate issues, and minimize overall downtime due to routine maintenance. Collaborated with Oracle Support teams to troubleshoot and resolve critical issues. I managed application-related security administration, performed capacity monitoring and planning, and managed all project implementations and rollouts, and coordinated efforts with UNIX System Administrator and network personnel to ensure high-level services and system availability. I directed a high-performing team of developers, providing invaluable knowledge on database tools and procedures, as well as upcoming changes or system enhancements.\nSuccessfully automated database administration tasks and development tools using complex SQL scripts; significantly reduced processing time and enhanced operational efficiency.\nDesigned and implemented a NoSQL solution using MongoDB and AWS to incorporate unstructured data sources.\nEffectively migrated all databases to a new SAN while achieving zero system downtime.\nUtilized Oracle Data Guard to set up and test off site disaster recovery functions.\n\n…\nsee more",
+      "date1": "Sep 2012 – Oct 2019",
+      "date2": "7 yrs 2 mos"
+    },
+    {
+      "title": "Sr. Oracle Database Administrator",
+      "companyName": "GS1 US / 1SYNC",
+      "location": "Greater Chicago Area",
+      "description": "I directed daily operations and activities associated with database management and administration including designing database architecture to support application needs, and conducting performance tuning and capacity planning. Established database monitoring and maintenance processes, and provided 24/7 production support for over 100 Oracle instances. I performed DR testing and documentation, while employing SAN Replication and RMAN backup functionality to ensure business continuity. I served as leader and mentor to developers, operating as Subject Matter Expert on database functions, data sources, and associated internal processes. I managed Oracle Stream’s replication, and designed customer rules to send notifications and alerts via Oracle Enterprise Manager.\nSpearheaded and executed initiative to upgrade all internal databases from Oracle 11g to 12c.\n…\nsee more",
+      "date1": "Aug 2005 – Aug 2012",
+      "date2": "7 yrs 1 mo"
+    },
+    {
+      "title": "Oracle Database Administrator",
+      "companyName": "Transora",
+      "location": "Greater Chicago Area",
+      "description": "I designed and released the initial Oracle database infrastructure in a startup company, building Dev, QA, Test, and Production environments to support IT operations. I created databases to support new development projects, ensuring compatibility with existing infrastructure which included databases and data sources. I developed and maintained proper backup and recovery procedures, and governed Schema design and data modeling.\nI transitioned and functioned in a 24/7 database-production support role, to ensure consistent system availability with minimal downtime.\n…\nsee more",
+      "date1": "Mar 2001 – Jul 2005",
+      "date2": "4 yrs 5 mos"
+    },
+    {
+      "title": "Oracle Database Administrator",
+      "companyName": "Metro IS",
+      "location": "Austin, Texas Area",
+      "description": "Primarily responsible for full life cycle database development and physical database administration for the city’s Y2K applications development efforts. Main responsibilities included: logical data modeling, physical database design and implementation, managing database changes, administering the physical database development environment, database performance tuning, and migration of legacy data into Oracle. In addition, I was responsible for database applications development using Oracle Developer 2000 tools. \n…\nsee more",
+      "date1": "1998 – 2001",
+      "date2": "3 yrs"
+    },
+    {
+      "title": "Oracle Database Developer",
+      "companyName": "Interim Technology",
+      "location": "Greater Chicago Area",
+      "description": "For First Chicago NBD Bank, Chicago August 1997 – February 1998\nDeveloped Business Objects Universes and interactive reports for the Global\nOnline Trading System Data Warehouse. Logical and physical database design.\nFor R.R. Donnelley & Sons Company, Chicago, January 1997 – August 1997\nDeveloped complex data analysis queries against Donnelly's Enterprise Information Data Warehouse. Reported to the Vice President of Credit as well as the steering committee for the improvement of Accounts Receivable.\n…\nsee more",
+      "date1": "Jan 1997 – Jan 1998",
+      "date2": "1 yr 1 mo"
+    },
+    {
+      "title": "Oracle Developer",
+      "companyName": "Parian Development Group",
+      "location": "Greater Chicago Area",
+      "description": "For CNA Insurance, Chicago, March 1996 – January 1997\nImplemented the architecture, design, and deployment of a Human Resources\nData Mart and Data Warehouse using Oracle and Business Objects. Constructed the Business Objects Universe for the Data Mart. Developed nightly Data Transformation load into the Data Warehouse.\nFor CNA Insurance, Chicago, February 1995 – March 1996\nWorked as part of a large development team to re-engineer and integrate CNA’s\npayroll, human resources, and benefits systems into the Lawson Payroll System. Responsible for migrating legacy production reports into Oracle using PL/SQL.\n\n…\nsee more",
+      "date1": "Jan 1995 – Jan 1997",
+      "date2": "2 yrs 1 mo"
+    },
+    {
+      "title": "Sybase, X Windows Developer",
+      "companyName": "Tribune",
+      "date1": "Jan 1994 – Jan 1995",
+      "date2": "1 yr 1 mo"
+    },
+    {
+      "title": "Programmer Analyst",
+      "companyName": "Information Resources Inc.",
+      "date1": "Jan 1989 – Jan 1994",
+      "date2": "5 yrs 1 mo"
+    }
+  ],
+  "educations": [
+    {
+      "title": "University of Illinois at Chicago",
+      "degree": "Bachelor of Science - BS",
+      "fieldofstudy": "Math and Computer Science"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Oracle",
+      "count": "29"
+    },
+    {
+      "title": "PL/SQL",
+      "count": "17"
+    },
+    {
+      "title": "Unix",
+      "count": "12"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "5",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/ahmad-ulfat-9425ab36/",
+        "text": "Michael is a great DBA for sql and noSQL databases. I always had great confidence when Michael was involved. He delivered best results working in an enterprise ISO certified environment. His 24x7 dedication and support for team and system was exceptional and a guideline for others. Beyond his operational skills, Michael was an integral part of the development team and a perfect example for modern devOps. I wish Michael all the best for his future career.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/bart-calvin-1b6b5b55/",
+        "text": "Mike has a ton of Oracle and MongoDB experience and is a first rate DBA. Very helpful in solving problems, database related or not. Looking forward to getting the chance to work with Mike again."
+      },
+      {
+        "user": "https://www.linkedin.com/in/zthill/",
+        "text": "Solid all around Oracle DBA and MongoDB administrator with a wealth of IT knowledge and experience. Mike was always willing to go the extra mile to insure high quality deliverables during our time working together."
+      },
+      {
+        "user": "https://www.linkedin.com/in/stefanschweikart/",
+        "text": "Michael is a very experienced senior administrator for Oracle as well as NoSQL database systems. As DBA, he administered all major Oracle data systems for a global mission-critical large-scale data transaction service. He is familiar with working under ISO 27k governance. All the best to you, Michael, and your professional career in IT.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/robert-reinhold-19ab12/",
+        "text": "Michael brings years of Oracle expertise to his role as Senior DBA in our group. I worked closely with Michael through the deployment of several large-scale production applications, and could always count on his experience and professionalism to see us through."
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/aakashpandhi/",
+      "text": "Cassandra,MongoDB, Oracle DBA and Architect."
+    },
+    {
+      "user": "https://www.linkedin.com/in/rory-mullins-a345a320/",
+      "text": "Senior Database Administrator at 1WorldSync"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ranjeet-kumar-singh-8078b69a/",
+      "text": "Mongodb DBA AMADEUS INC"
+    },
+    {
+      "user": "https://www.linkedin.com/in/bjforster/",
+      "text": "mysql and mongo DBA"
+    },
+    {
+      "user": "https://www.linkedin.com/in/scott-laubhan-8302581/",
+      "text": "Operations Manager 1SYNC"
+    },
+    {
+      "user": "https://www.linkedin.com/in/surbhi-gupta-60740811/",
+      "text": "Sr NOSQL Certified Cassandra Database Administrator"
+    },
+    {
+      "user": "https://www.linkedin.com/in/karabianchi/",
+      "text": "Manager, Product Management"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jeffsherard/",
+      "text": "MongoDB DBA, MySQL DBA, AWS & Devops Engineer at GHX"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jeff-pence/",
+      "text": "COO at Farm Journal"
+    },
+    {
+      "user": "https://www.linkedin.com/in/julio-dalmonte-0b3654/",
+      "text": "Vice President, Global Technology Operations at 1WorldSync"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Michael Olson",
+    "headline": "An dynamic Technical Expert with notable experience developing intricate database infrastructures to support operations.",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQES8uODAdXntQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=_R5kspSBlSDpY5XMU_HmmLbNF31RYb9l6HdmaiQbwI4",
+    "location": "Chicago, Illinois",
+    "connections": "280",
+    "summary": "As a dedicated and results-driven Technical Professional, I have built a reputation for my expertise and success in Oracle Database Administration. I am well-versed in developing and deploying scalable database solutions, supporting operations for corporations ranging from start-ups to industry leaders.\nI am highly skilled in analyzing existing environments to identify improvement opportunities, and implementing technical solutions that enhance operational efficiency, while supporting continuous growth and expansion. I am adept in aligning cutting-edge technology and technological advancements with internal policies and procedures, and effectively managing 24/7 operations, to minimize system downtime and ensure around-the-clock support.\nI have been acknowledged as an efficient, and versatile leader and mentor, with extensive knowledge and experience guiding high performing teams and managing complex project engagements. I take pride in my ability to transfer invaluable knowledge, encourage the use and application of industry best practices, and provide ongoing training and development opportunities to ensure teams acquire adequate experience using database tools, and system functionality to increase productivity and team performance metrics."
+  }
+}

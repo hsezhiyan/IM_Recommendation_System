@@ -1,0 +1,222 @@
+{
+  "profileAlternative": {
+    "name": "Milan Rancic",
+    "headline": "Software QA Engineer and DevOps Specialist at ApexSQL - Killer tools for SQL Server",
+    "location": "Serbia and Montenegro",
+    "connections": "52"
+  },
+  "aboutAlternative": {},
+  "positions": [
+    {
+      "title": "Software QA Engineer and SQL database DevOps Specialist",
+      "companyName": "ApexSQL - Killer tools for SQL Server",
+      "location": "Nis, Serbia",
+      "description": "- Designing CI and CD workflows for SQL database projects (TeamCity, Jenkins, Bamboo, Azure DevOps)\n- QA for proprietary SQL database CI and CD solutions",
+      "date1": "Feb 2018 – Present",
+      "date2": "1 yr 10 mos"
+    },
+    {
+      "title": "Embedded Software Engineer",
+      "companyName": "Cosya Energy",
+      "description": "- Smart heating project owner\n- Engineering solutions designer\n- Embedded solutions developer",
+      "date1": "May 2015 – Present",
+      "date2": "4 yrs 7 mos"
+    },
+    {
+      "title": "Development engineer",
+      "companyName": "Freelancer",
+      "description": "Developing microcontroller software.",
+      "date1": "Mar 2011 – Present",
+      "date2": "8 yrs 9 mos"
+    },
+    {
+      "title": "System Administrator",
+      "companyName": "Farmakop",
+      "location": "Nis, Serbia",
+      "description": "- Hardware, Software and Networking support for a chain of Pharmacies\n- SQL Server maintenance and administration\n- Helpdesk",
+      "date1": "Jan 2017 – Jan 2018",
+      "date2": "1 yr 1 mo"
+    },
+    {
+      "title": "System Administrator",
+      "companyName": "Autokomerc Centar",
+      "location": "Nis, Serbia",
+      "description": "- Hardware, Software and Networking support for a automotive dealership\n- Windows Server Domain and AD maintenance and administration\n- First line of support for automotive diagnostic and business software\n- Helpdesk",
+      "date1": "Feb 2009 – Mar 2011",
+      "date2": "2 yrs 2 mos"
+    },
+    {
+      "title": "IT support and prepress operator",
+      "companyName": "Grafika Galeb",
+      "date1": "Mar 2008 – Mar 2009",
+      "date2": "1 yr 1 mo"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Univerzitet u Nišu",
+      "degree": "Bachelor's degree",
+      "fieldofstudy": "Commucation technologies",
+      "date1": "2010",
+      "date2": "2013"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Embedded Systems",
+      "count": "5"
+    },
+    {
+      "title": "Troubleshooting",
+      "count": "4"
+    },
+    {
+      "title": "Electronics",
+      "count": "3"
+    },
+    {
+      "title": "IP",
+      "count": "3"
+    },
+    {
+      "title": "Testing",
+      "count": "3"
+    },
+    {
+      "title": "TCP/IP",
+      "count": "3"
+    },
+    {
+      "title": "Computer Network Operations",
+      "count": "1"
+    },
+    {
+      "title": "Wireless",
+      "count": "1"
+    },
+    {
+      "title": "Integration",
+      "count": "1"
+    },
+    {
+      "title": "Wireless Networking",
+      "count": "1"
+    },
+    {
+      "title": "VoIP",
+      "count": "1"
+    },
+    {
+      "title": "Ethernet",
+      "count": "1"
+    },
+    {
+      "title": "System Administration",
+      "count": "1"
+    },
+    {
+      "title": "Information Technology",
+      "count": "1"
+    },
+    {
+      "title": "Windows",
+      "count": "3"
+    },
+    {
+      "title": "Operating Systems",
+      "count": "2"
+    },
+    {
+      "title": "Unix",
+      "count": "2"
+    },
+    {
+      "title": "Windows Server",
+      "count": "1"
+    },
+    {
+      "title": "SQL",
+      "count": "1"
+    },
+    {
+      "title": "GSM",
+      "count": "1"
+    },
+    {
+      "title": "C",
+      "count": "1"
+    },
+    {
+      "title": "Linux",
+      "count": "1"
+    },
+    {
+      "title": "Hardware",
+      "count": "2"
+    },
+    {
+      "title": "Networking",
+      "count": "1"
+    },
+    {
+      "title": "CCNA",
+      "count": "1"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/slavoljub-savic-97600764/",
+      "text": "Bussines banking director at Banca Intesa Beograd"
+    },
+    {
+      "user": "https://www.linkedin.com/in/dario-alispahic/",
+      "text": "System Administrator and Web developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/vladimir-pavlovic-99491445/",
+      "text": "Senior DevOps"
+    },
+    {
+      "user": "https://www.linkedin.com/in/maja-%C5%A1u%C5%A1njar-3834b813b/",
+      "text": "Architect at Kompanija KTITOR d.o.o."
+    },
+    {
+      "user": "https://www.linkedin.com/in/mladjan-parking-756122136/",
+      "text": "System Administrator at JP DIREKCIJA ZA IZGRADNJU OPSTINE PARACIN"
+    },
+    {
+      "user": "https://www.linkedin.com/in/milana-tisma-07148740/",
+      "text": "Trade Marketing Officer at Coca-Cola Hellenic Bottling Company"
+    },
+    {
+      "user": "https://www.linkedin.com/in/bojan-brkic-4223a76b/",
+      "text": "Computer system administrator at JKP \"Pijaca\" Kraljevo"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nikola-ivankovic-437614103/",
+      "text": "Support at team4JS"
+    },
+    {
+      "user": "https://www.linkedin.com/in/dragana-stani%C4%87-10174ba3/",
+      "text": "General Manager, Payment System Department"
+    },
+    {
+      "user": "https://www.linkedin.com/in/biljana-dimic-014964ab/",
+      "text": "--"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Milan Rancic",
+    "headline": "Software QA Engineer and DevOps Specialist at ApexSQL - Killer tools for SQL Server",
+    "location": "Serbia and Montenegro",
+    "connections": "52"
+  }
+}

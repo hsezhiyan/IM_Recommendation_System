@@ -1,0 +1,212 @@
+{
+  "profileAlternative": {
+    "name": "Jaya Shankar",
+    "headline": "Software Engineering, Senior Team Lead at MathWorks",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQEmt4ogksHD0A/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=3qdEYD4uj3rGp1V-IqkypjAIfPwIzKA8jTjQBgwYij4",
+    "location": "Natick, Massachusetts",
+    "connections": "408"
+  },
+  "aboutAlternative": {},
+  "positions": [
+    {
+      "title": "MathWorks",
+      "description": "I lead an engineering team developing technologies for automatic code generation and deployment for deep learning networks to GPU and CPU target devices. I, with my team, work on deep learning network optimizations and backend implementations focussing on embedded deployment and workflows.\n\nFocus areas : Code generation, CUDA, C++ programming, GPU, Deep Learning Deployment, Deep Learning Optimizations, Compilers",
+      "date1": "May 2016 – Present",
+      "date2": "3 yrs 7 mos",
+      "roles": [
+        {
+          "title": "Senior Team Lead and Principal Software Engineer - Deep Learning Code Generation",
+          "date1": "May 2016 – Present",
+          "date2": "3 yrs 7 mos"
+        },
+        {
+          "title": "Senior Software Developer - C Code Verification",
+          "date1": "Oct 2010 – Apr 2016",
+          "date2": "5 yrs 7 mos"
+        },
+        {
+          "title": "Application Support Engineer",
+          "date1": "Oct 2007 – Nov 2010",
+          "date2": "3 yrs 2 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSenior Team Lead and Principal Software Engineer - Deep Learning Code Generation",
+      "description": "I lead an engineering team developing technologies for automatic code generation and deployment for deep learning networks to GPU and CPU target devices. I, with my team, work on deep learning network optimizations and backend implementations focussing on embedded deployment and workflows.\n\nFocus areas : Code generation, CUDA, C++ programming, GPU, Deep Learning Deployment, Deep Learning Optimizations, Compilers",
+      "date1": "May 2016 – Present",
+      "date2": "3 yrs 7 mos",
+      "roles": [
+        {
+          "title": "Senior Team Lead and Principal Software Engineer - Deep Learning Code Generation",
+          "date1": "May 2016 – Present",
+          "date2": "3 yrs 7 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSenior Software Developer - C Code Verification",
+      "description": "Software developer for Simulink Code Inspector toolbox - a code verification product that runs static analysis on auto-generated C code using IR techniques. The product is used for verifying correctness of C code auto-generated from Simulink, for safety critical applications in Aerospace. Software development involved programming in C++, MATLAB and Simulink, and knowledge of compiler techniques.\n…\nsee more",
+      "date1": "Oct 2010 – Apr 2016",
+      "date2": "5 yrs 7 mos",
+      "roles": [
+        {
+          "title": "Senior Software Developer - C Code Verification",
+          "date1": "Oct 2010 – Apr 2016",
+          "date2": "5 yrs 7 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nApplication Support Engineer",
+      "description": "Application support for customers in MATLAB and SIMULINK and various controls/signal processing related toolboxes. Delivered several projects for implementing algorithms using MATLAB and Simulink primarily in the image and signal processing areas for Consulting and Development teams. Projects involved application development in MATLAB, Simulink , C and C++.",
+      "date1": "Oct 2007 – Nov 2010",
+      "date2": "3 yrs 2 mos",
+      "roles": [
+        {
+          "title": "Application Support Engineer",
+          "date1": "Oct 2007 – Nov 2010",
+          "date2": "3 yrs 2 mos"
+        }
+      ]
+    },
+    {
+      "title": "Programmer Analyst",
+      "companyName": "Cognizant Technology Solutions",
+      "date1": "Sep 2003 – Jul 2005",
+      "date2": "1 yr 11 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Utah State University",
+      "degree": "M.S",
+      "fieldofstudy": "Electrical Engineering",
+      "date1": "2005",
+      "date2": "2007"
+    },
+    {
+      "title": "Vellore Institute of Technology",
+      "degree": "BE",
+      "fieldofstudy": "Electrical Engineering",
+      "date1": "1999",
+      "date2": "2003"
+    },
+    {
+      "title": "Utah State University",
+      "degree": "Masters",
+      "fieldofstudy": "Electrical Engineering"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Matlab",
+      "count": "19"
+    },
+    {
+      "title": "Simulink",
+      "count": "8"
+    },
+    {
+      "title": "C++",
+      "count": "8"
+    },
+    {
+      "title": "Algorithms",
+      "count": "8"
+    },
+    {
+      "title": "Image Processing",
+      "count": "4"
+    },
+    {
+      "title": "Testing",
+      "count": "4"
+    },
+    {
+      "title": "Signal Processing",
+      "count": "3"
+    },
+    {
+      "title": "Software Development",
+      "count": "3"
+    },
+    {
+      "title": "Sensors",
+      "count": "2"
+    },
+    {
+      "title": "Programming",
+      "count": "2"
+    },
+    {
+      "title": "Software Engineering",
+      "count": "1"
+    },
+    {
+      "title": "C",
+      "count": "3"
+    },
+    {
+      "title": "Linux",
+      "count": "1"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/sreejith-menon/",
+      "text": "Software Development Manager at AMD (We are hiring!)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/brenda-zhuang-073b91/",
+      "text": "Software Development Manager at MathWorks"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kaustubhareddy/",
+      "text": "Software Engineering Manager at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/paulo-j-pacheco-422ab911/",
+      "text": "Engineering Manager at The MathWorks"
+    },
+    {
+      "user": "https://www.linkedin.com/in/beth-cockerham-b80a72/",
+      "text": "Software Engineer at Mathworks"
+    },
+    {
+      "user": "https://www.linkedin.com/in/julie-li-0a32b143/",
+      "text": "Senior Engineering Manager - Software Quality at MathWorks"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ayonbm/",
+      "text": "Architect and Development Manager - MATLAB Language"
+    },
+    {
+      "user": "https://www.linkedin.com/in/joel-feenstra-9b2a5b6/",
+      "text": "Senior Software Engineer at The MathWorks"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nirmal-gunaseelan-73b1898/",
+      "text": "Principal Software Development Engineer at MathWorks"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ram-kokku-7927795/",
+      "text": "Software Development Manager at The MathWorks"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Jaya Shankar",
+    "headline": "Software Engineering, Senior Team Lead at MathWorks",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQEmt4ogksHD0A/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=3qdEYD4uj3rGp1V-IqkypjAIfPwIzKA8jTjQBgwYij4",
+    "location": "Natick, Massachusetts",
+    "connections": "408"
+  }
+}

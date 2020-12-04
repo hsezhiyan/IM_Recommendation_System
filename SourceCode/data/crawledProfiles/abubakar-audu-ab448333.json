@@ -1,0 +1,200 @@
+{
+  "profileAlternative": {
+    "name": "Abubakar Audu",
+    "headline": "Python Developer at Insight Global/Honeywell",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQHupjEfR1TdMA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=D3q0Q1vtAhkDseak2GjB5rA9f6-YRKeHK7k-leyJ_sI",
+    "location": "Raleigh-Durham, North Carolina Area",
+    "connections": "14",
+    "summary": "I have a master’s in Electrical Engineering and a double bachelor’s in Computer Science and Electrical Eng. Tech. with a minor in mathematics.\n\nI worked at Honeywell as a portal developer for almost two years. The portal is a Meter Data Management (MDM) system that is designed using Django. I also worked on a system that is designed in Django with Ext JS (Sencha) front-end, that helps utilities detect power theft.\n\nI previously worked as a sub-system engineer student employee at John Deere where I did both hardware and software testing.\n\nI also worked as a Senior Drupal Developer at the University of Northern Iowa. I built department websites and used PHP to create standardized features and modules in Drupal that are used across campus.\nI have excellent communication and writing skills. I always maintain a professional manner when communicating with people. I’m an excellent team player. My versatility and experience make me an excellent candidate for this position."
+  },
+  "aboutAlternative": {
+    "text": "I have a master’s in Electrical Engineering and a double bachelor’s in Computer Science and Electrical Eng. Tech. with a minor in mathematics.\n\nI worked at Honeywell as a portal developer for almost two years. The portal is a Meter Data Management (MDM) system that is designed using Django. I also worked on a system that is designed in Django with Ext JS (Sencha) front-end, that helps utilities detect power theft.\n\nI previously worked as a sub-system engineer student employee at John Deere where I did both hardware and software testing.\n\nI also worked as a Senior Drupal Developer at the University of Northern Iowa. I built department websites and used PHP to create standardized features and modules in Drupal that are used across campus.\nI have excellent communication and writing skills. I always maintain a professional manner when communicating with people. I’m an excellent team player. My versatility and experience make me an excellent candidate for this position."
+  },
+  "positions": [
+    {
+      "title": "Python Developer",
+      "companyName": "Honeywell",
+      "location": "Raleigh-Durham, North Carolina Area",
+      "description": "Work as core group member in developing and maintaining a system to help utilities detect power theft\n\nTranslated the portal into French and marked it for Spanish and Portuguese using Django Localization (l10n) and Internationalization (i18n) to target the South American market\n\nDeveloped a system that monitors electricity usage and alert users of usage spikes\nIncluded algorithm to analyze register readings delta for users that are not using load profile meters",
+      "date1": "Sep 2016 – Present",
+      "date2": "3 yrs 3 mos"
+    },
+    {
+      "title": "Student Employee --Subsystem Engineer",
+      "companyName": "John Deere",
+      "location": "Waterloo, Iowa Area",
+      "description": "Automated a lot of the Hardware/Software groups’ Excel tedious tasks with excel VBA and non-Excel tasks with Python thereby freeing the test engineers to perform other tasks\n\nWrote programs in the John Deere Common Test Language (JDCTL) to automate testing tractor components such as the Primary Display Unit (PDU), the Hitch and the Infinitely Variable Transmission (IVT)\nWrote Hardware testing procedures based on a standard\n\nChecked tractors status daily, fixed impending issues and update the Hardware/Software engineers so they know when to go out and work on a tractor.\n\nPerformed data analysis on vehicle CANLog weekly and update the engineers from around the world about the status of the tractors\n\n\n…\nsee more",
+      "date1": "Mar 2012 – May 2014",
+      "date2": "2 yrs 3 mos"
+    },
+    {
+      "title": "Senior Drupal Developer",
+      "companyName": "UNI Production House",
+      "location": "Cedar Falls, Iowa",
+      "description": "Contributed in website development for the university Department of Theater, Department of Language and Literature, UNI senate\n\nDeveloped website for Iowa Spacegrant and Iowa Math and Science\n\nContributed in developing standardized features and modules in Drupal to be used across all the university departmental websites\n\n…\nsee more",
+      "date1": "May 2010 – Mar 2012",
+      "date2": "1 yr 11 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "North Carolina State University",
+      "degree": "Master’s Degree",
+      "fieldofstudy": "Electrical and Electronics Engineering",
+      "date1": "2014",
+      "date2": "2016"
+    },
+    {
+      "title": "University of Northern Iowa",
+      "degree": "Bachelor’s Degree",
+      "fieldofstudy": "Computer Science",
+      "date1": "2009",
+      "date2": "2014"
+    },
+    {
+      "title": "University of Northern Iowa",
+      "degree": "Bachelor’s Degree",
+      "fieldofstudy": "Electrical Engineering Technology",
+      "date1": "2009",
+      "date2": "2014"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Photoshop"
+    },
+    {
+      "title": "Microsoft Office"
+    },
+    {
+      "title": "Web Design"
+    },
+    {
+      "title": "Graphic Design"
+    },
+    {
+      "title": "Web Development"
+    },
+    {
+      "title": "Software Development"
+    },
+    {
+      "title": "HTML"
+    },
+    {
+      "title": "CSS"
+    },
+    {
+      "title": "Illustrator"
+    },
+    {
+      "title": "C++"
+    },
+    {
+      "title": "C#"
+    },
+    {
+      "title": ".NET"
+    },
+    {
+      "title": "Python"
+    },
+    {
+      "title": "Java"
+    },
+    {
+      "title": "VBA"
+    },
+    {
+      "title": "JavaScript"
+    },
+    {
+      "title": "MySQL"
+    },
+    {
+      "title": "jQuery"
+    },
+    {
+      "title": "HTML5"
+    },
+    {
+      "title": "Drupal"
+    },
+    {
+      "title": "C"
+    },
+    {
+      "title": "Helm"
+    },
+    {
+      "title": "Docker"
+    },
+    {
+      "title": "Customer Service"
+    },
+    {
+      "title": "Management"
+    },
+    {
+      "title": "Kubernetes"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/rupali-lokhande-1a4985139/",
+      "text": "Actively looking for Python Developer position"
+    },
+    {
+      "user": "https://www.linkedin.com/in/erinwyher/",
+      "text": "Python/Django/Full Stack developer working on a contract basis"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kethan-kumar-435918155/",
+      "text": "Sr. Python Developer at Cisco Systems"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jon-alligood/",
+      "text": "Python Developer at Moffatt & Nichol"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ragini-priya-gummadi-645a2a169/",
+      "text": "Python Developer at PRO Unlimited Onsite at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/john-d-bower/",
+      "text": "Python Automation Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/arielaacohen/",
+      "text": "iOS Swift Developer | Seeking New Opportunities"
+    },
+    {
+      "user": "https://www.linkedin.com/in/daniel-donovan-731a6214/",
+      "text": "Python Developer at DHG ACCOUNTANCY LIMITED"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kk906/",
+      "text": "Sr. Python Developer at Verizon"
+    },
+    {
+      "user": "https://www.linkedin.com/in/andrew-musicant-3b4238127/",
+      "text": "Python Developer"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Abubakar Audu",
+    "headline": "Python Developer at Insight Global/Honeywell",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQHupjEfR1TdMA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=D3q0Q1vtAhkDseak2GjB5rA9f6-YRKeHK7k-leyJ_sI",
+    "location": "Raleigh-Durham, North Carolina Area",
+    "connections": "14",
+    "summary": "I have a master’s in Electrical Engineering and a double bachelor’s in Computer Science and Electrical Eng. Tech. with a minor in mathematics.\n\nI worked at Honeywell as a portal developer for almost two years. The portal is a Meter Data Management (MDM) system that is designed using Django. I also worked on a system that is designed in Django with Ext JS (Sencha) front-end, that helps utilities detect power theft.\n\nI previously worked as a sub-system engineer student employee at John Deere where I did both hardware and software testing.\n\nI also worked as a Senior Drupal Developer at the University of Northern Iowa. I built department websites and used PHP to create standardized features and modules in Drupal that are used across campus.\nI have excellent communication and writing skills. I always maintain a professional manner when communicating with people. I’m an excellent team player. My versatility and experience make me an excellent candidate for this position."
+  }
+}

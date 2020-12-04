@@ -1,0 +1,119 @@
+{
+  "profileAlternative": {
+    "name": "python developer",
+    "headline": "--",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQFglOuzBatwNQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=OndKxlZGrT2-iSAeNudLfjEwl8hU_1qny5DVeWBZLcQ",
+    "location": "Pune, Maharashtra, India",
+    "connections": "12",
+    "summary": "Self employed having 4 years of experience in python developer"
+  },
+  "aboutAlternative": {
+    "text": "Self employed having 4 years of experience in python developer"
+  },
+  "positions": [
+    {
+      "title": "Python Developer",
+      "companyName": "Self-Employed",
+      "location": "Pune Area, India",
+      "description": "I was working as Python developer since August 2013. I have experince in python, Django , HTML, CSS , Javascript. I am working as freelancer.",
+      "date1": "Aug 2013 – Present",
+      "date2": "6 yrs 4 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Gujarat Technological University, Ahmedbabd",
+      "degree": "Master of Computer Applications (MCA)",
+      "fieldofstudy": "Computer Science",
+      "date1": "2009",
+      "date2": "2013"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Python"
+    },
+    {
+      "title": "Django"
+    },
+    {
+      "title": "JavaScript"
+    },
+    {
+      "title": "Software Development"
+    },
+    {
+      "title": "SQL"
+    },
+    {
+      "title": "Cascading Style Sheets (CSS)"
+    },
+    {
+      "title": "MySQL"
+    },
+    {
+      "title": "Linux"
+    },
+    {
+      "title": "jQuery"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/sneha-shinde-95ba6a78/",
+      "text": "Python/Django Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/priya-harkulkar-46a06271/",
+      "text": "Python Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/gautam-gambhir-30625718b/",
+      "text": "Member Of Parliament at Lok Sabha - India"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ektaravikapoor/",
+      "text": "Producer, Philanthropist, Joint Managing director at Balaji Telefilms Ltd."
+    },
+    {
+      "user": "https://www.linkedin.com/in/mr-gauravrai/",
+      "text": "Python Developer at Scroll Media"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ajay-antala-951800a0/",
+      "text": "Er.Ajay Antala"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shreya-shah-6b1785135/",
+      "text": "--"
+    },
+    {
+      "user": "https://www.linkedin.com/in/suhel-patel-08b6b8153/",
+      "text": "Software Engineer at abc"
+    },
+    {
+      "user": "https://www.linkedin.com/in/akanksha-hazari-7835963/",
+      "text": "Founder & CEO, m.Paani (We're hiring!)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/priya-shah-024723144/",
+      "text": "Web Developer at Kiljir Consultancy"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "python developer",
+    "headline": "--",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQFglOuzBatwNQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=OndKxlZGrT2-iSAeNudLfjEwl8hU_1qny5DVeWBZLcQ",
+    "location": "Pune, Maharashtra, India",
+    "connections": "12",
+    "summary": "Self employed having 4 years of experience in python developer"
+  }
+}

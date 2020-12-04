@@ -1,0 +1,151 @@
+{
+  "profileAlternative": {
+    "name": "Priyanka Pandya",
+    "headline": "Python Developer at Appscrip",
+    "imageurl": "https://media.licdn.com/dms/image/C5103AQEuMbHY-YesmA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=wLx8q8MgUPQZh1a-c6UxGCuChqybgxQIhBYQQ084oTE",
+    "location": "Bengaluru, Karnataka, India",
+    "connections": "155",
+    "summary": "Python Developer with a demonstrated history of working in the information technology and services industry. Skilled in Python (Programming Language), SQL, Django, C (Programming Language), and HTML. Strong engineering professional with a Bachelor of Engineering (B.E.) focused in Computer Engineering."
+  },
+  "aboutAlternative": {
+    "text": "Python Developer with a demonstrated history of working in the information technology and services industry. Skilled in Python (Programming Language), SQL, Django, C (Programming Language), and HTML. Strong engineering professional with a Bachelor of Engineering (B.E.) focused in Computer Engineering."
+  },
+  "positions": [
+    {
+      "title": "Python Developer",
+      "companyName": "Appscrip",
+      "location": "Bangalore",
+      "date1": "Aug 2019 – Present",
+      "date2": "4 mos"
+    },
+    {
+      "title": "Python Developer",
+      "companyName": "Virtual Height IT Services Private Limited",
+      "date1": "Jan 2019 – Present",
+      "date2": "11 mos"
+    },
+    {
+      "title": "Technical Tutor",
+      "companyName": "MICROMIND TECHNOLOGIES & EDUCATION PRIVATE LIMITED",
+      "description": "was teaching technical subjects and guiding interns for their project.",
+      "date1": "Jun 2013 – Apr 2017",
+      "date2": "3 yrs 11 mos"
+    },
+    {
+      "title": "Lecturer",
+      "companyName": "SLTIET",
+      "date1": "Jun 2012 – Jun 2013",
+      "date2": "1 yr 1 mo"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Atmiya Institute",
+      "degree": "Bachelor of Engineering (B.E.)",
+      "fieldofstudy": "Computer Engineering",
+      "date1": "2009",
+      "date2": "2012"
+    },
+    {
+      "title": "G.T.Sheth"
+    },
+    {
+      "title": "Gujarat Technological University, Ahmedbabd",
+      "degree": "Bachelor of Engineering - BE",
+      "fieldofstudy": "Computer Engineering"
+    }
+  ],
+  "skills": [
+    {
+      "title": "HTML"
+    },
+    {
+      "title": "C (Programming Language)"
+    },
+    {
+      "title": "Python (Programming Language)"
+    },
+    {
+      "title": "MongoDB"
+    },
+    {
+      "title": "JavaScript"
+    },
+    {
+      "title": "SQL"
+    },
+    {
+      "title": "Django"
+    },
+    {
+      "title": "sqllite3"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "3",
+      "items": [
+        "English",
+        "Gujarati",
+        "Hindi"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/pooja-doshi-967a23144/",
+      "text": "Python Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/venkateshc414/",
+      "text": "Python Developer at Tata Consultancy Services"
+    },
+    {
+      "user": "https://www.linkedin.com/in/vinita-soni-24816336/",
+      "text": "Actively Looking for Python Opportunity"
+    },
+    {
+      "user": "https://www.linkedin.com/in/meghana-thodaskar-737005102/",
+      "text": "Python Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shozab-abbas-a76b81a0/",
+      "text": "Associate Software Engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shibi-thambi-14a5417b/",
+      "text": "Python / Odoo developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/charmila-g-233807a2/",
+      "text": "Python Developer at Factana Computing"
+    },
+    {
+      "user": "https://www.linkedin.com/in/suman-gadhawal-bab941121/",
+      "text": "IITB | Machine Learning | Python"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ranjana-hipparagi-9b809980/",
+      "text": "Python Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/manvithatera/",
+      "text": "Actively looking for opportunity as a Python Developer."
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Priyanka Pandya",
+    "headline": "Python Developer at Appscrip",
+    "imageurl": "https://media.licdn.com/dms/image/C5103AQEuMbHY-YesmA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=wLx8q8MgUPQZh1a-c6UxGCuChqybgxQIhBYQQ084oTE",
+    "location": "Bengaluru, Karnataka, India",
+    "connections": "155",
+    "summary": "Python Developer with a demonstrated history of working in the information technology and services industry. Skilled in Python (Programming Language), SQL, Django, C (Programming Language), and HTML. Strong engineering professional with a Bachelor of Engineering (B.E.) focused in Computer Engineering."
+  }
+}

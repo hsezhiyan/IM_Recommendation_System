@@ -1,0 +1,252 @@
+{
+  "profileAlternative": {
+    "name": "Alex Babkin",
+    "headline": "Senior Software Engineer at Symbiont.io",
+    "imageurl": "https://media.licdn.com/dms/image/C5103AQEwuyT3OFF1-w/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=XMPhStMI9ZBH_OfPq-WxQgQIDAU5i0L4ePxkV-j8zv0",
+    "location": "Brooklyn, New York",
+    "connections": "358",
+    "summary": "Functional programming with Haskell,\nScalable microservice-oriented infrastructures,\nCryptography,\nWeb development,\nTheoretical computer science"
+  },
+  "aboutAlternative": {
+    "text": "Functional programming with Haskell,\nScalable microservice-oriented infrastructures,\nCryptography,\nWeb development,\nTheoretical computer science"
+  },
+  "positions": [
+    {
+      "title": "Senior Software Engineer",
+      "companyName": "Symbiont.io",
+      "location": "Greater New York City Area",
+      "description": "Symbiont has developed the market-leading platform for institutional applications of blockchain technology. Financial institutions and governments are working with Symbiont to develop new business lines, increase transparency, reduce risk, and save costs",
+      "date1": "Jan 2017 – Present",
+      "date2": "2 yrs 11 mos"
+    },
+    {
+      "title": "Lead Engineer",
+      "companyName": "Imagen Technologies",
+      "description": "Worked directly with world-class doctors in order to develop a product that allows doctors and radiologists to annotate x-ray images in order to produce a pathology dataset for supervised machine learning for the in-house computer vision system\nDeveloped and maintained backend infrastructure that ingested raw x-ray images and metadata from hospitals, percolated, normalized and enriched the image data resulting in fully-prepared dataset for a trainer/classifier to consume\nPrepared the products for the FDA approval\nSupported computer vision scientists to productize their prototypes, introduce better engineering practices into their designs\nHelped creating and enforcing SDLC and other processes to ensure necessary compliance for the FDA approval\nActively participated in hiring, doctor training, and promoting the business\n\n…\nsee more",
+      "date1": "Mar 2016 – Dec 2016",
+      "date2": "10 mos"
+    },
+    {
+      "title": "Senior Software Developer",
+      "companyName": "SumAll",
+      "description": "Developing highly scalable micro-service based backend architecture using Haskell functional language, AWS and various modern high-productivity tools.",
+      "date1": "Mar 2015 – Feb 2016",
+      "date2": "1 yr"
+    },
+    {
+      "title": "Software Engineer",
+      "companyName": "Gust",
+      "location": "Greater New York City Area",
+      "description": "Full stack engineer\nTDD oriented Agile pair-programming\nDeveloped and supported the main product (gust.com)\nDeveloped and integrated internal productivity tools using Haskell\nProvided technical mentorship and education for the team\nRan the \"Haskell school\"\n…\nsee more",
+      "date1": "Mar 2013 – Mar 2015",
+      "date2": "2 yrs 1 mo"
+    },
+    {
+      "title": "Senior Web Developer",
+      "companyName": "Medivo, Inc",
+      "description": "Web applications for connecting physicians, patients and pharmaceutical companies\nMedical Data analysis and processing infrastructure\n(used Ruby on Rails and other modern technologies, integrated with various medical related API services)",
+      "date1": "Jan 2012 – Feb 2013",
+      "date2": "1 yr 2 mos"
+    },
+    {
+      "title": "Senior Ruby on Rails Developer",
+      "companyName": "Sling Media",
+      "description": "Software development for TV industry",
+      "date1": "Jan 2011 – Jan 2012",
+      "date2": "1 yr 1 mo"
+    },
+    {
+      "title": "Technical consultant and Senior software developer",
+      "companyName": "Notesolution.com",
+      "description": "Notesolution.com is a course note sharing web application designed for University of Toronto students to share their notes",
+      "date1": "Apr 2010 – Apr 2011",
+      "date2": "1 yr 1 mo"
+    },
+    {
+      "title": "Software Development Contractor",
+      "companyName": "Bloomberg",
+      "description": "Developed a wealth management platform (Ruby on Rails, Javascript, internal bloomberg SOAP services)",
+      "date1": "Aug 2010 – Nov 2010",
+      "date2": "4 mos"
+    },
+    {
+      "title": "Software Development Consultant",
+      "companyName": "500px.com",
+      "description": "500px.com is a social network for photographers",
+      "date1": "Feb 2010 – Jul 2010",
+      "date2": "6 mos"
+    },
+    {
+      "title": "Software Engineer",
+      "companyName": "AMD",
+      "description": "Linux Graphics Driver development and maintenance",
+      "date1": "Oct 2005 – Jan 2009",
+      "date2": "3 yrs 4 mos"
+    },
+    {
+      "title": "Research / Demo Engineer",
+      "companyName": "RapidMind Inc.",
+      "description": "Computational fluid dynamics research\nDemo development for the in-house GPGPU technology (http://libsh.org/)",
+      "date1": "Apr 2005 – Sep 2005",
+      "date2": "6 mos"
+    },
+    {
+      "title": "Co-op Student",
+      "companyName": "ATI",
+      "description": "Porting the standard ATI 3D demo engine (Sushi) onto Linux platform",
+      "date1": "Apr 2004 – Sep 2004",
+      "date2": "6 mos"
+    },
+    {
+      "title": "Co-op student",
+      "companyName": "Autodesk",
+      "description": "Maya real-time rendering code refactoring and maintenance\nRapid prototyping for the research department\nEnhancing the Virtual Car Showroom demo project with shader based 3D graphics",
+      "date1": "Jan 2003 – Sep 2003",
+      "date2": "9 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "University of Waterloo",
+      "degree": "Honours BSC.",
+      "fieldofstudy": "Mathematics, Computer Science, Co-op",
+      "date1": "2000",
+      "date2": "2005"
+    },
+    {
+      "title": "Abelard Centre for Education",
+      "degree": "High School Diploma",
+      "fieldofstudy": "Mathematics, Sciences",
+      "date1": "1997",
+      "date2": "2000"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Haskell",
+      "count": "7"
+    },
+    {
+      "title": "Angular2",
+      "count": "1"
+    },
+    {
+      "title": "Amazon Web Services (AWS)",
+      "count": "1"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "3",
+    "receivedCount": "4",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/toddmohney/",
+        "text": "Alex and I worked together at Gust for about two years. He found an especially helpful niche in identifying and implementing a number of internal development tools which continue to simplify and expedite our daily processes. He also left an indelible mark on a number of his fellow developers by introducing us to functional programming, notably Erlang and Haskell. His insight and excitement around these languages has inspired us to learn and consider implementation techniques from new perspectives which has had a brilliant effect on our programming style. I would happily work with Alex again.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/alexkarasyov/",
+        "text": "We partnered with Alex Babkin to work on the Notesolution website, where he assumed the role of lead developer. Alex made it very clear what the technical limitations are, and created a plan that brought Notesolution to the users fast and with the most important features. I can't wait to work with Alex again."
+      },
+      {
+        "user": "https://www.linkedin.com/in/ninoz/",
+        "text": "Alex is a keen software developer with significant expertise derived from self-driven software and firmware projects as well as extensive work experience."
+      },
+      {
+        "user": "https://www.linkedin.com/in/svengothel/",
+        "text": "Alex is a reliable talented colleague, once committed achieving his goals. Fluent in the embedded, GPU, 3D and system level field, he also succeeded in complex software systems and is self motivated."
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/alexkarasyov/",
+        "text": "Alex has proven to be a reliable startup partner and a bright and respectful coworker, who contributed numerous creative solutions to the company's efforts."
+      },
+      {
+        "user": "https://www.linkedin.com/in/alexkarasyov/",
+        "text": "Alex Karasyov's insight of developing web based applications is what brought us to work together on the Notesolution website. He made sure that the development progress was in tune with business requirements and delivered the project on time and on budget."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "4",
+      "items": [
+        "Calculus 1-4",
+        "Computer Graphics",
+        "Databases",
+        "Operating Systems Design"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Russian"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Serverless web framework for AWS in Haskell"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/evan-wagner-58732997/",
+      "text": "COO at Symbiont.io; Co-founder"
+    },
+    {
+      "user": "https://www.linkedin.com/in/thomasjblair/",
+      "text": "Software Engineer at Symbiont"
+    },
+    {
+      "user": "https://www.linkedin.com/in/c-j-johnson-a2260211/",
+      "text": "Network Engineer at CIGNA"
+    },
+    {
+      "user": "https://www.linkedin.com/in/william-collani-4b37aa30/",
+      "text": "Infrastructure Engineer at Symbiont.io"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mary-christopher-16ba4276/",
+      "text": "SWK Network Engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/anush-vijayaraghavan/",
+      "text": "Director of Product Management at Symbiont.io"
+    },
+    {
+      "user": "https://www.linkedin.com/in/wlamartin/",
+      "text": "Capital Markets / FinTech"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nazimchowdhury/",
+      "text": "Front-end Architect @ Symbiont.io"
+    },
+    {
+      "user": "https://www.linkedin.com/in/robert-glosan-a090ba102/",
+      "text": "Network Engineer at DNV GL"
+    },
+    {
+      "user": "https://www.linkedin.com/in/richarddavisii/",
+      "text": "Network Engineer"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Teaching programming in Haskell",
+      "experience": "Gust",
+      "description": "Education",
+      "date1": "Jun 2013 – Jul 2014",
+      "date2": "1 yr 2 mos"
+    }
+  ],
+  "profile": {
+    "name": "Alex Babkin",
+    "headline": "Senior Software Engineer at Symbiont.io",
+    "imageurl": "https://media.licdn.com/dms/image/C5103AQEwuyT3OFF1-w/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=XMPhStMI9ZBH_OfPq-WxQgQIDAU5i0L4ePxkV-j8zv0",
+    "location": "Brooklyn, New York",
+    "connections": "358",
+    "summary": "Functional programming with Haskell,\nScalable microservice-oriented infrastructures,\nCryptography,\nWeb development,\nTheoretical computer science"
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "profileAlternative": {
+    "name": "Thomas Dietert",
+    "headline": "Compiler Engineer at Groq",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQHd06UE7cCT7A/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=0f1XWq268XfoCyQsL7mN64ovIi-Iq8Abyu3DCIvh7Uk",
+    "location": "Mountain View, California",
+    "connections": "238",
+    "summary": "I am currently interested in Programming Languages and the theory behind building secure and robust software systems. I am a lover of functional programming and feel that declarative programming paradigms will play a crucial role in the next few decades of software development.\n\nIf you are interested in any open source projects I am working on, when I find the time, check out my github profile: https://github.com/tdietert"
+  },
+  "aboutAlternative": {
+    "text": "I am currently interested in Programming Languages and the theory behind building secure and robust software systems. I am a lover of functional programming and feel that declarative programming paradigms will play a crucial role in the next few decades of software development.\n\nIf you are interested in any open source projects I am working on, when I find the time, check out my github profile: https://github.com/tdietert"
+  },
+  "positions": [
+    {
+      "title": "Compiler Engineer",
+      "companyName": "Groq",
+      "location": "Mountain View, CA",
+      "date1": "Jul 2019 – Present",
+      "date2": "5 mos"
+    },
+    {
+      "title": "Software Engineer",
+      "companyName": "Adjoint Inc.",
+      "location": "London, United Kingdom",
+      "description": "Designed and implemented a Distributed Ledge Technology \"Uplink\", along with a smart contract programming language for facilitating complex multi-party work-flows targeting the Uplink data model. Implemented consensus, networking, and cryptographic protocols based on seminal papers in the respective research domains.",
+      "date1": "Mar 2017 – Apr 2019",
+      "date2": "2 yrs 2 mos"
+    },
+    {
+      "title": "Software Engineer",
+      "companyName": "Beautiful Destinations",
+      "location": "London, United Kingdom",
+      "description": "Full stack software development in Haskell. Designed and implemented an image analysis and prediction web application using bespoke, sophisticated ML models with techniques such as Function Reactive Programming (FRP), the GHCJS compiler. Designed Postgres DB schemas and data acquisition layers and web servers delivering data to frontend data analysis tooling.",
+      "date1": "Jan 2016 – Mar 2017",
+      "date2": "1 yr 3 mos"
+    },
+    {
+      "title": "Virtual Platform Engineering Intern",
+      "companyName": "Ericsson",
+      "location": "Tampa, FL",
+      "description": "Worked on a team of interns to develop both the frontend and backend of a virtual network testbed creation automation tool to improve the build time of internal computing resources on the cloud.",
+      "date1": "Nov 2014 – Nov 2015",
+      "date2": "1 yr 1 mo"
+    },
+    {
+      "title": "Computer Vision Research Assistant",
+      "companyName": "University of South Florida",
+      "description": "Helped a PhD candidate in creating ground truths for sophisticated machine learning algorithms using Pattern theory to extract features of video and audio clips to construct meaningful interpretations of the action being performed.",
+      "date1": "Jun 2014 – Dec 2014",
+      "date2": "7 mos"
+    },
+    {
+      "title": "Junior Software Developer",
+      "companyName": "MB2x",
+      "location": "Wesley Chapel, Tampa",
+      "description": "Web Design on the Microsoft Stack, ASP.net.",
+      "date1": "Jan 2014 – Mar 2014",
+      "date2": "3 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "University of South Florida",
+      "degree": "Bachelor's Degree",
+      "fieldofstudy": "Computer Science",
+      "date1": "2011",
+      "date2": "2015"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Computer Science",
+      "count": "16"
+    },
+    {
+      "title": "Programming",
+      "count": "14"
+    },
+    {
+      "title": "Programming Languages",
+      "count": "5"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "7",
+      "items": [
+        "Advanced Programming Languages",
+        "Advanced Python",
+        "Analysis of Algorithms",
+        "Operating Systems",
+        "Parallel and Distributed Processing",
+        "Programming Languages",
+        "Theory of Computation"
+      ]
+    },
+    {
+      "count": "3",
+      "items": [
+        "diML Compiler",
+        "Genetic Algorithm for TSP using CUDA",
+        "Program-A-Bull Web App"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "English"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/andrew-bell-6771004/",
+      "text": "Engineer at Groq"
+    },
+    {
+      "user": "https://www.linkedin.com/in/estelle-hong-86aa8238/",
+      "text": "Chief of Staff to CEO & Head of Strategic Operations"
+    },
+    {
+      "user": "https://www.linkedin.com/in/erin-mcfall/",
+      "text": "Chief Of Staff to CEO"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tomaskom/",
+      "text": "VP of Engineering at Groq"
+    },
+    {
+      "user": "https://www.linkedin.com/in/profsudeepsarkar/",
+      "text": "Professor, Chair, and Associate Vice-President"
+    },
+    {
+      "user": "https://www.linkedin.com/in/adamprocter/",
+      "text": "Deep Learning Compiler Engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jonathan-ross-12a95156/",
+      "text": "CEO, Co-Founder of Groq"
+    },
+    {
+      "user": "https://www.linkedin.com/in/christopher-migut-1b910662/",
+      "text": "Summer Technology Analyst Intern - Application Developer at JPMorgan Chase & Co."
+    },
+    {
+      "user": "https://www.linkedin.com/in/matthew-farkas-dyck-385162183/",
+      "text": "Compiler Engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yupeng1/",
+      "text": "Security Architecture Engineer at Intercontinental Exchange"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Thomas Dietert",
+    "headline": "Compiler Engineer at Groq",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQHd06UE7cCT7A/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=0f1XWq268XfoCyQsL7mN64ovIi-Iq8Abyu3DCIvh7Uk",
+    "location": "Mountain View, California",
+    "connections": "238",
+    "summary": "I am currently interested in Programming Languages and the theory behind building secure and robust software systems. I am a lover of functional programming and feel that declarative programming paradigms will play a crucial role in the next few decades of software development.\n\nIf you are interested in any open source projects I am working on, when I find the time, check out my github profile: https://github.com/tdietert"
+  }
+}

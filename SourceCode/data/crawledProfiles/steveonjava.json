@@ -1,0 +1,271 @@
+{
+  "profileAlternative": {
+    "name": "Stephen Chin",
+    "headline": "Senior Director, Developer Relations at JFrog",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQHrt_XCBaldIQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=BG-V9R1rOuFmThiED8bQUQ4wAqVBsr33H2cT4afnj-4",
+    "location": "Belmont, California",
+    "connections": "500+",
+    "summary": "Stephen Chin is Senior Director of Developer Relations at JFrog, author of Raspberry Pi with Java, The Definitive Guide to Modern Client Development, and Pro JavaFX Platform. He has keynoted numerous Java conferences around the world including Oracle Code One (formerly JavaOne), where he is an 8-time Rock Star Award recipient. Stephen is an avid motorcyclist who has done evangelism tours in Europe, Japan, and Brazil, interviewing hackers in their natural habitat. When he is not traveling, he enjoys teaching kids how to do embedded and robot programming together with his teenage daughter."
+  },
+  "aboutAlternative": {
+    "text": "Stephen Chin is Senior Director of Developer Relations at JFrog, author of Raspberry Pi with Java, The Definitive Guide to Modern Client Development, and Pro JavaFX Platform. He has keynoted numerous Java conferences around the world including Oracle Code One (formerly JavaOne), where he is an 8-time Rock Star Award recipient. Stephen is an avid motorcyclist who has done evangelism tours in Europe, Japan, and Brazil, interviewing hackers in their natural habitat. When he is not traveling, he enjoys teaching kids how to do embedded and robot programming together with his teenage daughter."
+  },
+  "positions": [
+    {
+      "title": "Senior Director, Developer Relations",
+      "companyName": "JFrog",
+      "location": "Sunnyvale, CA, United States",
+      "date1": "Jul 2019 – Present",
+      "date2": "5 mos"
+    },
+    {
+      "title": "Oracle",
+      "description": "Senior Director of the Oracle Groundbreakers Team in charge of developer outreach, advocacy programs, community management, and engagement at corporate and 3rd party events.",
+      "date1": "Oct 2016 – Jul 2019",
+      "date2": "2 yrs 10 mos",
+      "roles": [
+        {
+          "title": "Senior Director, Developer Marketing, Oracle Groundbreakers Team",
+          "date1": "Oct 2016 – Jul 2019",
+          "date2": "2 yrs 10 mos"
+        },
+        {
+          "title": "Lead Java Community Manager",
+          "date1": "Apr 2015 – Oct 2016",
+          "date2": "1 yr 7 mos"
+        },
+        {
+          "title": "Java Technology Evangelist",
+          "date1": "Apr 2012 – Apr 2015",
+          "date2": "3 yrs 1 mo"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSenior Director, Developer Marketing, Oracle Groundbreakers Team",
+      "description": "Senior Director of the Oracle Groundbreakers Team in charge of developer outreach, advocacy programs, community management, and engagement at corporate and 3rd party events.",
+      "date1": "Oct 2016 – Jul 2019",
+      "date2": "2 yrs 10 mos",
+      "roles": [
+        {
+          "title": "Senior Director, Developer Marketing, Oracle Groundbreakers Team",
+          "date1": "Oct 2016 – Jul 2019",
+          "date2": "2 yrs 10 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nLead Java Community Manager",
+      "date1": "Apr 2015 – Oct 2016",
+      "date2": "1 yr 7 mos",
+      "roles": [
+        {
+          "title": "Lead Java Community Manager",
+          "date1": "Apr 2015 – Oct 2016",
+          "date2": "1 yr 7 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nJava Technology Evangelist",
+      "description": "In this role I was focused on driving forward awareness and adoption of Java SE and building developer interest in Java embedded technologies. To achieve this, I did traditional evangelism at in-person events, built the NightHacking video channel to reach a wider online audience, and developed new, original content for demos and presentations, written articles, and online content.",
+      "date1": "Apr 2012 – Apr 2015",
+      "date2": "3 yrs 1 mo",
+      "roles": [
+        {
+          "title": "Java Technology Evangelist",
+          "date1": "Apr 2012 – Apr 2015",
+          "date2": "3 yrs 1 mo"
+        }
+      ]
+    },
+    {
+      "title": "Chief Agile Methodologist",
+      "companyName": "GXS",
+      "description": "Responsible for an multinational rollout of Scrum and Kanban to over 300 employees\nPioneering Agile Release and Portfolio Management techniques for large enterprises\nAuthor and international speaker at prominent technology and agile development conferences",
+      "date1": "Sep 2003 – Mar 2012",
+      "date2": "8 yrs 7 mos"
+    },
+    {
+      "title": "Director, SW Engineering",
+      "companyName": "Inovis",
+      "date1": "Sep 2003 – Jun 2010",
+      "date2": "6 yrs 10 mos"
+    },
+    {
+      "title": "Staff Software Engineer",
+      "companyName": "QRS",
+      "date1": "Sep 2003 – Nov 2004",
+      "date2": "1 yr 3 mos"
+    },
+    {
+      "title": "Engineering Manager",
+      "companyName": "Vitria",
+      "date1": "Mar 2000 – Mar 2003",
+      "date2": "3 yrs 1 mo"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Santa Clara University",
+      "degree": "MBA",
+      "date1": "2002",
+      "date2": "2005"
+    },
+    {
+      "title": "Carnegie Mellon University",
+      "degree": "BS",
+      "fieldofstudy": "Computer Science and Computer Engineering",
+      "date1": "1995",
+      "date2": "1998"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Java",
+      "count": "91"
+    },
+    {
+      "title": "Scrum",
+      "count": "70"
+    },
+    {
+      "title": "Agile Methodologies",
+      "count": "41"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "9",
+    "receivedCount": "7",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/yolandepoirier/",
+        "text": "Stephen is a visionary in developer marketing. Under his leadership, the developer relations team built a modern, cloud, and polyglot community in addition to its traditional product-oriented community. His team has enrolled the top thought leaders in all aspects of cloud development in developer programs and initiatives. Stephen is a well-respected influencer in technical circles. His assertive, empowering, and collaborative leadership style is a great asset in building trust with developer communities and guiding innovation. I have not met anyone who could navigate technical subject matter, marketing and communities with such ease. I have worked with Stephen for the past decade. Stephen knows how to guide and empower his team and others to perform above and beyond expectations. He is excellent at setting the right direction and leads by empowering others to own the implementation of programs and initiatives.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/geraldvenzl/",
+        "text": "Over the last couple of years I had the honor to work with Stephen on various initiatives at Oracle. Stephen is a highly motivated, results-driven and exceptionally professional person. He pursues tasks to their completion, seeks active collaboration with other teams and always puts the company's goals at front. I had the pleasure to work with Stephen on building and driving developer relations, an area where he has proven himself to be an expert. Working with him is fun and enjoyable. He has earned the respect of his peers at Oracle.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/vincentmayers/",
+        "text": "Stephen is a very prominent and well-respected member of the tech community. I had known him for a number of years before I joined his team at Oracle. Stephen was a great boss to have. He did an amazing job of keeping his team from being impacted by the unnecessary complexity that is common in a global enterprise organization; which allowed us to support our global developer community with flexibility and velocity. Stephen’s management style also created an environment of innovation, creativity and personal growth in our team. He would always make sure we had the tools, latitude and most importantly support to accomplish whatever tasks, projects or goals that we had. Stephen was the creative and strategic force behind many of the innovative programs we built to showcase the advantages of our technology stack and drive its adoption; by providing our community advocates with access, support and tools. Subsequently, this helped them to further their own personal and professional goals. I enjoyed working with Stephen. He would lead from the front and by example rather than from behind and by decree. He is a strong leader, patient mentor, and good friend.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/javedmohammed/",
+        "text": "Steve is a natural leader with an uncanny ability to inspire and develop others. I have had the pleasure of working for and with him for the last three and a half years. When I think of describing Steve, these are the words that come to mind, Empathy, Supports his team, Calm under pressure, a Problem Solver, Articulate, Visionary, Goes above the call of duty, Loved and Respected by the Community, and a Wonderful human being It is hard for me to illustrate all of these qualities, but here is an example. We were in Dubai for Oracle Code 2018, an attendee at the conference knocked over a very expensive camera and lens, destroying it. After looking over the damage and in his usual calm demeanor, he laid out a backup plan so we were able to continue with our work without any stoppage. Later at the same conference, a speaker did not show up at a session. When a panicked Program Manager approached Steve, he said \"no problem, I can take it on\". With that he called someone in the Java team in California, got them to send him the presentation deck and in real time, whilst walking to the conference room, browsed the slides, walked in and gave the presentation to a standing ovation. I’m amazed at what Steve is able to accomplish and if he doesn't chose a path in Developer Marketing, he can definitely be an Astronaut. In fact any job that requires, leadership abilities coupled with a deep understanding of technology. Steve was one of the best bosses I've ever had and he is an asset to any organization.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/vasuki-narayana/",
+        "text": "Steve is an wonderful mentor whom I enjoy to learn and work whenever opportunities unfold, refer back problems, as the experience he possess with Agile methodologies is tremendous and the way he mentors, always puts you to think in a pretty focused direction, you cannot go wrong when you are guided by Steve is what I can personally say. The brave individual who is ready to try Spicy Indian Food on his visits to India is an attribute in addition :)\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/nisheetverma/",
+        "text": "Steve is a technology leader extraordinaire and undoubtedly one of the most inspiring engineering managers I have worked with. An innovator and change driver, he introduced and successfully led a number of key initiatives and critical projects at Inovis. He was instrumental in re-architecting the whole Inovis Catalogue that at that time housed approximately 40 million SKUs. An architect, engineer and manager all in one, he leads from the front and can manage a diverse geographically distributed team and code the most complex architecture with seamless ease. An agile evangelist and technical to the core, he possesses excellent people management and team building skills and is an inspiration for his team. I truly enjoyed working with him. He will be a great asset to any organization who is looking for a dynamic engineering leader.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/terrance-david-2441b5/",
+        "text": "Stephen is one of the sharpest people I have had the pleasure to work with. His ability to appreciate all the issues related to product requirements and development is a rare talent."
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/geraldvenzl/",
+        "text": "Gerald has been a great collaborator on developer outreach at Oracle.  We worked together as Oracle Code conference chairs to build a series that focuses on the latest technology trends like Blockchain, Chatbots, Artificial Intelligence, and Cloud-Native development.  This was a big change from the usual product and technology presentations that come out of large corporations, which meant convincing high level executives and stakeholders about the value of developer engagement.  Gerald has the sort of easygoing and confident personality to make convincing arguments to anyone, no matter how expensive their suit is.  At the same time he is not afraid to role up his sleeves and engage with real developers to share his knowledge, which allowed him to become a great international speaker on Database, Containers, and DevOps topics.  It has been a pleasure working with him and I highly recommend having beers with him if you can keep up!"
+      },
+      {
+        "user": "https://www.linkedin.com/in/yolandepoirier/",
+        "text": "Yolande is a hardworking champion for developers who has been behind the success of @Java, one of the largest technology social media handles.  She loves engaging with community members and developers and genuinely cares about helping others and sharing knowledge.  She not only does this on social media, but also has been sharing her experience and passion for social gamification and growth hacking by presenting at conferences and sharing tips and tricks with aspiring community leaders.  I have been helped by and learned a lot from Yolande over the years, first as a community member, later as a peer, and most recently as her boss.  But in all those situations Yolande has been a great friend and helped me and the team to be successful."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "16",
+      "items": [
+        "Devoxx Speaker – 2009, 2010, 2011",
+        "Flash on Devices User Group Leader, Speaker – 2010-2011",
+        "Geecon Speaker – 2011",
+        "JavaOne India Speaker – 2011",
+        "JavaOne Latin America Speaker – 2010",
+        "JavaOne Rockstar Speaker – 2009, 2010, 2011",
+        "Jazoon Speaker – 2010, 2011",
+        "Lean Software and Systems Conference Speaker Speaker – 2010, 2011",
+        "OSCON Java Co-Chair, Speaker – 2011",
+        "Oracle Develop Keynote Speaker – 2010",
+        "SF Android Speaker – 2011",
+        "San Francisco JUG Speaker – 2009",
+        "Silicon Valley Code Camp Speaker – 2009, 2010, 2011",
+        "Silicon Valley JavaFX User Group Leader, Speaker – 2010-2011",
+        "Silicon Valley Web JUG Speaker – 2009",
+        "The Server Side Java Symposium Speaker – 2011"
+      ]
+    },
+    {
+      "count": "4",
+      "items": [
+        "Devoxx4Kids workshop",
+        "ScalaFX",
+        "Visage",
+        "NightHacking"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "Pro Android Flash",
+        "Pro JavaFX 2 - A Definitive Guide to Rich Clients with Java Technology"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/jbaruch/",
+      "text": "Developer Advocacy at JFrog"
+    },
+    {
+      "user": "https://www.linkedin.com/in/saradusenberry/",
+      "text": "Senior Digital Marketing & Social Media Manager at Unity Technologies"
+    },
+    {
+      "user": "https://www.linkedin.com/in/lorilorusso/",
+      "text": "Community Manager at JFrog"
+    },
+    {
+      "user": "https://www.linkedin.com/in/max-street-943bb45/",
+      "text": "Senior Solutions Architect at Voya Financial"
+    },
+    {
+      "user": "https://www.linkedin.com/in/rachel-heredia-a7b83b8/",
+      "text": "Wellness Professional"
+    },
+    {
+      "user": "https://www.linkedin.com/in/aureliogr/",
+      "text": "Senior Director of Product Management at Oracle"
+    },
+    {
+      "user": "https://www.linkedin.com/in/bridget-daly-0741a612a/",
+      "text": "EA/Project Mgmt"
+    },
+    {
+      "user": "https://www.linkedin.com/in/theresanguyen7/",
+      "text": "Sr. Program Manager | Java on Azure Team"
+    },
+    {
+      "user": "https://www.linkedin.com/in/gregdoench/",
+      "text": "Executive Editor, Pearson Technology Group"
+    },
+    {
+      "user": "https://www.linkedin.com/in/syed-safdar-1b585a2/",
+      "text": "Sr. Manager, FA & Engineering Quality at HGST, Inc."
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Stephen Chin",
+    "headline": "Senior Director, Developer Relations at JFrog",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQHrt_XCBaldIQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=BG-V9R1rOuFmThiED8bQUQ4wAqVBsr33H2cT4afnj-4",
+    "location": "Belmont, California",
+    "connections": "500+",
+    "summary": "Stephen Chin is Senior Director of Developer Relations at JFrog, author of Raspberry Pi with Java, The Definitive Guide to Modern Client Development, and Pro JavaFX Platform. He has keynoted numerous Java conferences around the world including Oracle Code One (formerly JavaOne), where he is an 8-time Rock Star Award recipient. Stephen is an avid motorcyclist who has done evangelism tours in Europe, Japan, and Brazil, interviewing hackers in their natural habitat. When he is not traveling, he enjoys teaching kids how to do embedded and robot programming together with his teenage daughter."
+  }
+}

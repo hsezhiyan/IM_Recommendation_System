@@ -1,0 +1,319 @@
+{
+  "profileAlternative": {
+    "name": "Graham Neray",
+    "headline": "Cofounder & CEO at oso",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQGYDX4ZrbK0EQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=zwKcPpfUy28_M0w8sBIUelPEo5bfopMrCsAjaeooqeU",
+    "location": "New York, New York",
+    "connections": "500+"
+  },
+  "aboutAlternative": {},
+  "positions": [
+    {
+      "title": "Cofounder & CEO",
+      "companyName": "oso",
+      "location": "Greater New York City Area",
+      "date1": "Jan 2019 – Present",
+      "date2": "11 mos"
+    },
+    {
+      "title": "Mentor",
+      "companyName": "iMentor",
+      "date1": "Sep 2016 – Present",
+      "date2": "3 yrs 3 mos"
+    },
+    {
+      "title": "Advisor",
+      "companyName": "Amberdata",
+      "location": "Greater New York City Area",
+      "date1": "May 2018 – Present",
+      "date2": "1 yr 7 mos"
+    },
+    {
+      "title": "MongoDB, Inc.",
+      "location": "Greater New York City Area",
+      "date1": "Mar 2016 – Jan 2019",
+      "date2": "2 yrs 11 mos",
+      "roles": [
+        {
+          "title": "Chief of Staff",
+          "date1": "Mar 2016 – Jan 2019",
+          "date2": "2 yrs 11 mos",
+          "location": "Greater New York City Area"
+        },
+        {
+          "title": "Principal Manager, Sales Enablement & Product Marketing",
+          "date1": "Feb 2015 – Mar 2016",
+          "date2": "1 yr 2 mos"
+        },
+        {
+          "title": "Senior Product Marketing Manager",
+          "date1": "Sep 2013 – Feb 2015",
+          "date2": "1 yr 6 mos"
+        },
+        {
+          "title": "Product Marketing Manager",
+          "date1": "Aug 2012 – Sep 2013",
+          "date2": "1 yr 2 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nChief of Staff",
+      "location": "Greater New York City Area",
+      "date1": "Mar 2016 – Jan 2019",
+      "date2": "2 yrs 11 mos",
+      "roles": [
+        {
+          "title": "Chief of Staff",
+          "date1": "Mar 2016 – Jan 2019",
+          "date2": "2 yrs 11 mos",
+          "location": "Greater New York City Area"
+        }
+      ]
+    },
+    {
+      "title": "Title\nPrincipal Manager, Sales Enablement & Product Marketing",
+      "date1": "Feb 2015 – Mar 2016",
+      "date2": "1 yr 2 mos",
+      "roles": [
+        {
+          "title": "Principal Manager, Sales Enablement & Product Marketing",
+          "date1": "Feb 2015 – Mar 2016",
+          "date2": "1 yr 2 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSenior Product Marketing Manager",
+      "date1": "Sep 2013 – Feb 2015",
+      "date2": "1 yr 6 mos",
+      "roles": [
+        {
+          "title": "Senior Product Marketing Manager",
+          "date1": "Sep 2013 – Feb 2015",
+          "date2": "1 yr 6 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nProduct Marketing Manager",
+      "date1": "Aug 2012 – Sep 2013",
+      "date2": "1 yr 2 mos",
+      "roles": [
+        {
+          "title": "Product Marketing Manager",
+          "date1": "Aug 2012 – Sep 2013",
+          "date2": "1 yr 2 mos"
+        }
+      ]
+    },
+    {
+      "title": "Mentor",
+      "companyName": "Techstars",
+      "location": "Greater New York City Area",
+      "description": "Working with the amazing team at Pandium",
+      "date1": "Jul 2018 – Sep 2018",
+      "date2": "3 mos"
+    },
+    {
+      "title": "Cartesian",
+      "description": "Boutique strategic management consulting firm specializing in high tech and telco",
+      "date1": "Jan 2011 – Aug 2012",
+      "date2": "1 yr 8 mos",
+      "roles": [
+        {
+          "title": "Senior Business Analyst",
+          "date1": "Jan 2011 – Aug 2012",
+          "date2": "1 yr 8 mos"
+        },
+        {
+          "title": "Business Analyst",
+          "date1": "Aug 2009 – Dec 2010",
+          "date2": "1 yr 5 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSenior Business Analyst",
+      "description": "Boutique strategic management consulting firm specializing in high tech and telco",
+      "date1": "Jan 2011 – Aug 2012",
+      "date2": "1 yr 8 mos",
+      "roles": [
+        {
+          "title": "Senior Business Analyst",
+          "date1": "Jan 2011 – Aug 2012",
+          "date2": "1 yr 8 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nBusiness Analyst",
+      "date1": "Aug 2009 – Dec 2010",
+      "date2": "1 yr 5 mos",
+      "roles": [
+        {
+          "title": "Business Analyst",
+          "date1": "Aug 2009 – Dec 2010",
+          "date2": "1 yr 5 mos"
+        }
+      ]
+    }
+  ],
+  "educations": [
+    {
+      "title": "Brown University",
+      "degree": "BA",
+      "fieldofstudy": "Political Science (with Honors)",
+      "date1": "2004",
+      "date2": "2009"
+    },
+    {
+      "title": "Newton North High School",
+      "degree": "High School",
+      "date1": "2000",
+      "date2": "2004"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Cloud Computing",
+      "count": "38"
+    },
+    {
+      "title": "Competitive Analysis",
+      "count": "34"
+    },
+    {
+      "title": "Business Strategy",
+      "count": "27"
+    },
+    {
+      "title": "Market Analysis",
+      "count": "7"
+    },
+    {
+      "title": "Telecommunications",
+      "count": "6"
+    },
+    {
+      "title": "Writing",
+      "count": "5"
+    },
+    {
+      "title": "Mobile",
+      "count": "3"
+    },
+    {
+      "title": "Financial Modeling",
+      "count": "2"
+    },
+    {
+      "title": "Statistics",
+      "count": "2"
+    },
+    {
+      "title": "NoSQL",
+      "count": "9"
+    },
+    {
+      "title": "Excel",
+      "count": "1"
+    },
+    {
+      "title": "Positioning",
+      "count": "7"
+    },
+    {
+      "title": "Business Case Development",
+      "count": "1"
+    },
+    {
+      "title": "Polling",
+      "count": "1"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "4",
+    "receivedCount": "0",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/navjyotsingh/",
+        "text": "Nav is hard working and an overall pleasure to work with. Lucky to have him on the team!"
+      },
+      {
+        "user": "https://www.linkedin.com/in/markbloomberg/",
+        "text": "Mark is an outstanding salesperson and partner to his customers. In the 3+ years we worked together, I observed him: - Break into major new accounts - Close small, land-and-expand deals as well as large, multi-year deals to follow - Turn early customers into public champions - Provide useful feedback from the field to product marketing and product management - Work closely and selflessly with different parts of the company Even with all of his success, Mark is warm and humble. It should also be no surprise that I once heard his manager describe him as \"the hardest working man in software.\"\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/thekarankumar/",
+        "text": "Karan had a strong showing when he came through Sales Bootcamp in his early days, showing a great attitude and winning the Top Gun Award."
+      },
+      {
+        "user": "https://www.linkedin.com/in/jeffcramer/",
+        "text": "Jeff is one of those people you want on your team – sharp, helpful, instincts on customer needs, and viewed as a leader. I've learned a ton from him about infrastructure tech and selling open-source. While working on product marketing and sales enablement, Jeff has been one of my go-to confidants to sanity check if what I thought would work in the field. Moreover, he has been incredibly generous with his time and experience, and I am forever indebted to him for his mentorship.\n…\nSee more"
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "4",
+      "items": [
+        "English",
+        "French",
+        "Hebrew",
+        "Spanish"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/stacy-andreotes-92841b19/",
+      "text": "Audit Managing Director at Deloitte"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jpbolen/",
+      "text": "VP Sales, West & Central"
+    },
+    {
+      "user": "https://www.linkedin.com/in/gabej/",
+      "text": "Software Engineer at Oso"
+    },
+    {
+      "user": "https://www.linkedin.com/in/amandatait/",
+      "text": "Software Engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/dittycheria/",
+      "text": "President & CEO @ MongoDB. We are hiring everywhere."
+    },
+    {
+      "user": "https://www.linkedin.com/in/morrisseyjoe/",
+      "text": "Chief Revenue Officer at Segment"
+    },
+    {
+      "user": "https://www.linkedin.com/in/theresa-kimball-543a30192/",
+      "text": "Registered Nurse"
+    },
+    {
+      "user": "https://www.linkedin.com/in/pamela-franklin/",
+      "text": "Power Connector with a passion for hospitality* Director of Emerging Leader Program/Marketing The CFO Leadership Council"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nieleyde/",
+      "text": "Cloud Native and PaaS Architect at Accenture,"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jenniferwasson/",
+      "text": "Chief of Staff at YouTube"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Graham Neray",
+    "headline": "Cofounder & CEO at oso",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQGYDX4ZrbK0EQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=zwKcPpfUy28_M0w8sBIUelPEo5bfopMrCsAjaeooqeU",
+    "location": "New York, New York",
+    "connections": "500+"
+  }
+}

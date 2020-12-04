@@ -1,0 +1,187 @@
+{
+  "profileAlternative": {
+    "name": "Yong Chen",
+    "headline": "SDE at Amazon",
+    "location": "Seattle, Washington",
+    "connections": "171",
+    "summary": "Technically astute, hands-on leader with proven success in internet, wireless communications and automotive industries. Proficient in C++, Java, and Android software development."
+  },
+  "aboutAlternative": {
+    "text": "Technically astute, hands-on leader with proven success in internet, wireless communications and automotive industries. Proficient in C++, Java, and Android software development."
+  },
+  "positions": [
+    {
+      "title": "SDE",
+      "companyName": "Amazon",
+      "location": "Greater Seattle Area",
+      "description": "Alexa Shopping",
+      "date1": "Jan 2019 – Present",
+      "date2": "11 mos"
+    },
+    {
+      "title": "Principal Software Engineer",
+      "companyName": "HARMAN Connected Car",
+      "location": "Greater Chicago Area",
+      "description": "Navigation ADAS software development in C++ and STL",
+      "date1": "Dec 2014 – Jan 2019",
+      "date2": "4 yrs 2 mos"
+    },
+    {
+      "title": "Senior Staff Engineer",
+      "companyName": "Motorola Mobility",
+      "location": "Chicago",
+      "description": "• Android Application (Java)\n• Android Framework and Telephony (Java)\n• Android Multimedia engine, Camera, Audio HAL (C++)\n• Qualcomm modem software integration (C)",
+      "date1": "Sep 2004 – Dec 2014",
+      "date2": "10 yrs 4 mos"
+    },
+    {
+      "title": "Motorola Solutions",
+      "location": "Arlington Heights, IL",
+      "description": "Low latency software in C++",
+      "date1": "May 2003 – Aug 2004",
+      "date2": "1 yr 4 mos",
+      "roles": [
+        {
+          "title": "Senior Software Engineer",
+          "date1": "May 2003 – Aug 2004",
+          "date2": "1 yr 4 mos",
+          "location": "Arlington Heights, IL"
+        },
+        {
+          "title": "Software Engineer",
+          "date1": "Apr 2000 – May 2003",
+          "date2": "3 yrs 2 mos",
+          "location": "Arlington Heights, IL"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSenior Software Engineer",
+      "location": "Arlington Heights, IL",
+      "description": "Low latency software in C++",
+      "date1": "May 2003 – Aug 2004",
+      "date2": "1 yr 4 mos",
+      "roles": [
+        {
+          "title": "Senior Software Engineer",
+          "date1": "May 2003 – Aug 2004",
+          "date2": "1 yr 4 mos",
+          "location": "Arlington Heights, IL"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSoftware Engineer",
+      "location": "Arlington Heights, IL",
+      "description": "Large scale call processing software in C and C++",
+      "date1": "Apr 2000 – May 2003",
+      "date2": "3 yrs 2 mos",
+      "roles": [
+        {
+          "title": "Software Engineer",
+          "date1": "Apr 2000 – May 2003",
+          "date2": "3 yrs 2 mos",
+          "location": "Arlington Heights, IL"
+        }
+      ]
+    },
+    {
+      "title": "Staff Research Member",
+      "companyName": "IBM",
+      "description": "Pervasive computing research",
+      "date1": "May 1999 – Mar 2000",
+      "date2": "11 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Tsinghua University",
+      "degree": "Master of Science (MS)",
+      "fieldofstudy": "Systems Engineering"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Embedded Software",
+      "count": "6"
+    },
+    {
+      "title": "Embedded Systems",
+      "count": "4"
+    },
+    {
+      "title": "LTE",
+      "count": "3"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "1",
+    "receivedCount": "0",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/yi-weng-4a237352/",
+        "text": "I was fortunate to work with Yi for three years in ADAS development for Navigation system. He has helped building and led my China team with five engineers. I am very impressed with his technical skills, overall understanding of system, and wide ranges of problems he has resolved over the years. He is creative and detail-orientated. In addition, Yi is an excellent team-player who can work very well in a team environment and help those who needs it. I am happy to recommend him and I think he will be a great asset to have in a team.\n…\nSee more"
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "2",
+      "items": [
+        "Chinese",
+        "English"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/shakilbarkat/",
+      "text": "Vice President Hardware Engineering at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sriramkaushik/",
+      "text": "Senior Manager, Media Products at Amazon Lab126"
+    },
+    {
+      "user": "https://www.linkedin.com/in/satkulkarni/",
+      "text": "Device Architect for Professional & Commercial Radio at Motorola Solutions."
+    },
+    {
+      "user": "https://www.linkedin.com/in/sunilmunjal/",
+      "text": "Software Application Architect"
+    },
+    {
+      "user": "https://www.linkedin.com/in/haozhou/",
+      "text": "Principal Engineer at HARMAN International"
+    },
+    {
+      "user": "https://www.linkedin.com/in/bin-zhou-61431630/",
+      "text": "advisor software engineer at Motorola Mobility (a Lenovo Company)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jose-ramon-chaidez-capm-7382555/",
+      "text": "Engineering Manager | Product Development, concept to production. FMEA, 8-D, DFM, Lean Six Sigma Green Belt, CAPM (PMI)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/joshua-pilkington-58197236/",
+      "text": "Software Development Engineer at Amazon"
+    },
+    {
+      "user": "https://www.linkedin.com/in/joshuavanheirseele/",
+      "text": "Quality at Milwaukee Tool"
+    },
+    {
+      "user": "https://www.linkedin.com/in/surejaj/",
+      "text": "Senior Software Engineer at Harman International"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Yong Chen",
+    "headline": "SDE at Amazon",
+    "location": "Seattle, Washington",
+    "connections": "171",
+    "summary": "Technically astute, hands-on leader with proven success in internet, wireless communications and automotive industries. Proficient in C++, Java, and Android software development."
+  }
+}

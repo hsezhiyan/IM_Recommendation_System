@@ -1,0 +1,319 @@
+{
+  "profileAlternative": {
+    "name": "Louis Davidson",
+    "headline": "Data Architect Specializing in Relational Database Design with SQL Server",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQHGLNIb8yLmzg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=vNlmv9hXxoB0m5BoCzpKleFiGybt6lsDopGXtNLJNCg",
+    "location": "Cleveland, Tennessee",
+    "connections": "500+",
+    "summary": "Over 15 years in information technology, nearly all of it spent designing, building, implementing, and coding using database technologies, primarily SQL Server. I have written 3 books on the subject of database design, including Pro SQL Server 2005 Database Design and Optimization (http://www.apress.com/book/bookDisplay.html?bID=10005) and am working on the fourth generation of that very same title today.\n\nSpecialties: Data Modeling, Relational Database Programming, SQL, T-SqL, Business Intelligence"
+  },
+  "aboutAlternative": {
+    "text": "Over 15 years in information technology, nearly all of it spent designing, building, implementing, and coding using database technologies, primarily SQL Server. I have written 3 books on the subject of database design, including Pro SQL Server 2005 Database Design and Optimization (http://www.apress.com/book/bookDisplay.html?bID=10005) and am working on the fourth generation of that very same title today.\n\nSpecialties: Data Modeling, Relational Database Programming, SQL, T-SqL, Business Intelligence"
+  },
+  "positions": [
+    {
+      "title": "SQL Server MVP",
+      "companyName": "Microsoft SQL Server MVP",
+      "date1": "Oct 2004 – Present",
+      "date2": "15 yrs 2 mos"
+    },
+    {
+      "title": "Christian Broadcasting Network",
+      "date1": "Sep 2002 – Present",
+      "date2": "17 yrs 3 mos",
+      "roles": [
+        {
+          "title": "Data Architect",
+          "date1": "Sep 2002 – Present",
+          "date2": "17 yrs 3 mos"
+        },
+        {
+          "title": "Data Architect",
+          "date1": "Dec 1999 – Present",
+          "date2": "20 yrs"
+        }
+      ]
+    },
+    {
+      "title": "Title\nData Architect",
+      "date1": "Sep 2002 – Present",
+      "date2": "17 yrs 3 mos",
+      "roles": [
+        {
+          "title": "Data Architect",
+          "date1": "Sep 2002 – Present",
+          "date2": "17 yrs 3 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nData Architect",
+      "date1": "Dec 1999 – Present",
+      "date2": "20 yrs",
+      "roles": [
+        {
+          "title": "Data Architect",
+          "date1": "Dec 1999 – Present",
+          "date2": "20 yrs"
+        }
+      ]
+    },
+    {
+      "title": "Special Interest Groups",
+      "companyName": "The Professional Association for SQL Server",
+      "date1": "2001 – Present",
+      "date2": "18 yrs"
+    },
+    {
+      "title": "Author",
+      "companyName": "Apress",
+      "date1": "2000 – Present",
+      "date2": "19 yrs"
+    },
+    {
+      "title": "Author/Speaker",
+      "companyName": "Self",
+      "description": "Write books, blogs and articles for several outlets about SQL Server and Database Design",
+      "date1": "2000 – Present",
+      "date2": "19 yrs"
+    },
+    {
+      "title": "SQL Server Exam Test Writer/Validator",
+      "companyName": "Microsoft (as consultant)",
+      "description": "Worked on several of the SQL Server Exams from SQL Server 2008, 2008R2, and 2012",
+      "date1": "Jan 2007 – Feb 2014",
+      "date2": "7 yrs 2 mos"
+    },
+    {
+      "title": "Data Architect",
+      "companyName": "Compass Technology Management",
+      "date1": "1999 – 2008",
+      "date2": "9 yrs"
+    }
+  ],
+  "educations": [
+    {
+      "title": "University of Tennessee at Chattanooga",
+      "degree": "BS",
+      "fieldofstudy": "Computer Science",
+      "date1": "1990",
+      "date2": "1992"
+    }
+  ],
+  "skills": [
+    {
+      "title": "T-SQL",
+      "count": "99+"
+    },
+    {
+      "title": "Database Design",
+      "count": "99+"
+    },
+    {
+      "title": "Microsoft SQL Server",
+      "count": "99+"
+    },
+    {
+      "title": "Data Modeling",
+      "count": "89"
+    },
+    {
+      "title": "Data Warehousing",
+      "count": "57"
+    },
+    {
+      "title": "Business Intelligence",
+      "count": "49"
+    },
+    {
+      "title": "ETL",
+      "count": "28"
+    },
+    {
+      "title": "Database Administration",
+      "count": "26"
+    },
+    {
+      "title": "Performance Tuning",
+      "count": "15"
+    },
+    {
+      "title": "Software Development",
+      "count": "14"
+    },
+    {
+      "title": "Enterprise Architecture",
+      "count": "7"
+    },
+    {
+      "title": "Agile Methodologies",
+      "count": "6"
+    },
+    {
+      "title": "Programming",
+      "count": "5"
+    },
+    {
+      "title": "Disaster Recovery",
+      "count": "5"
+    },
+    {
+      "title": "Data Integration",
+      "count": "2"
+    },
+    {
+      "title": "High Availability",
+      "count": "2"
+    },
+    {
+      "title": "SQL",
+      "count": "90"
+    },
+    {
+      "title": "Databases",
+      "count": "82"
+    },
+    {
+      "title": "SSIS",
+      "count": "46"
+    },
+    {
+      "title": "Relational Databases",
+      "count": "39"
+    },
+    {
+      "title": "SSRS",
+      "count": "27"
+    },
+    {
+      "title": "SharePoint",
+      "count": "9"
+    },
+    {
+      "title": ".NET",
+      "count": "7"
+    },
+    {
+      "title": "SQL Server",
+      "count": "4"
+    },
+    {
+      "title": "XML",
+      "count": "4"
+    },
+    {
+      "title": "Visual Studio",
+      "count": "3"
+    },
+    {
+      "title": "Oracle",
+      "count": "3"
+    },
+    {
+      "title": "C#",
+      "count": "3"
+    },
+    {
+      "title": "SQL Tuning",
+      "count": "20"
+    },
+    {
+      "title": "Data Architecture",
+      "count": "10"
+    },
+    {
+      "title": "OLAP",
+      "count": "7"
+    },
+    {
+      "title": "Stored Procedures",
+      "count": "5"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "2",
+    "receivedCount": "2",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/mcoles/",
+        "text": "Louis \"Dr. SQL\" Davidson is a wonderful writer. His book \"Pro SQL Server 2008 Relational Database Design and Implementation\" (http://www.amazon.com/Server-Relational-Database-Design-Implementation/dp/143020866X) holds a special place on my bookshelf. I even got a second copy for my team members at work to use as a reference. I highly recommend Dr. SQL's books!\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/waltercohn/",
+        "text": "Louis is a DBA's DBA, with the MVP and book authorship credentials to prove it. In three years, I have not been able to ask him a question within his specialty that he could not answer to my satisfaction. I found him a superb colleague in our inter-disciplinary teams and I would recommend him without hesitation."
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/mossjessica/",
+        "text": "Jessica was a pleasure to work with implementing our Data Warehouse because she knew what she was doing and was a very hard worker.\r\n\r\nWhen it came to the type of models we needed to implement, I learned as much from her as I did from Kimball's Data Modeling Class. She did a tremendous amount of work in the amount of  time she worked with us, and I would definitely work with her again."
+      },
+      {
+        "user": "https://www.linkedin.com/in/arnie/",
+        "text": "I worked with Arnie on a couple of contracts with Lionbridge and Grand Masters, both with Microsoft Learning.  Arnie is a very professional person and did a great job on the team, both as a contributor and at several times as a natural leader."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "4",
+      "items": [
+        "Pro SQL Server 2012 Database Design and Implementation",
+        "SQL Server MVP Deep Dives Vol. 2",
+        "SQL Server MVP Deep Dives Vol. 2",
+        "Performance Tuning with SQL Server Dynamic Management Views"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/lena-winfree-b2617712/",
+      "text": "Helping Businesses Become Data-Driven! | Data Strategy Design | Data Coaching | Organizational Culture Change"
+    },
+    {
+      "user": "https://www.linkedin.com/in/bradmcgehee/",
+      "text": "SQL Server Database Administrator"
+    },
+    {
+      "user": "https://www.linkedin.com/in/johncwelch/",
+      "text": "Senior Vice President Of Engineering at SentryOne"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kimberlyltripp/",
+      "text": "President/Founder at SQLskills.com"
+    },
+    {
+      "user": "https://www.linkedin.com/in/garethswan/",
+      "text": "Sr. Program Manager at Microsoft"
+    },
+    {
+      "user": "https://www.linkedin.com/in/randyknight/",
+      "text": "SQL Server Consultant, Speaker, Architect"
+    },
+    {
+      "user": "https://www.linkedin.com/in/waynesheffield/",
+      "text": "Principal Consultant / Co-Founder at Database Masters"
+    },
+    {
+      "user": "https://www.linkedin.com/in/benjaminnevarez/",
+      "text": "SQL Server Professional"
+    },
+    {
+      "user": "https://www.linkedin.com/in/timmitchell/",
+      "text": "I design and build solutions that turn your raw data into actionable insights. Let's chat."
+    },
+    {
+      "user": "https://www.linkedin.com/in/sqlwatchmen/",
+      "text": "CEO, SQLWatchmen, Inc."
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Louis Davidson",
+    "headline": "Data Architect Specializing in Relational Database Design with SQL Server",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQHGLNIb8yLmzg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=vNlmv9hXxoB0m5BoCzpKleFiGybt6lsDopGXtNLJNCg",
+    "location": "Cleveland, Tennessee",
+    "connections": "500+",
+    "summary": "Over 15 years in information technology, nearly all of it spent designing, building, implementing, and coding using database technologies, primarily SQL Server. I have written 3 books on the subject of database design, including Pro SQL Server 2005 Database Design and Optimization (http://www.apress.com/book/bookDisplay.html?bID=10005) and am working on the fourth generation of that very same title today.\n\nSpecialties: Data Modeling, Relational Database Programming, SQL, T-SqL, Business Intelligence"
+  }
+}

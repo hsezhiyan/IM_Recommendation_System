@@ -1,0 +1,211 @@
+{
+  "profileAlternative": {
+    "name": "Alexander Vershilov",
+    "headline": "Senior Haskell Engineer; PhD in physics, Saint-Petersburg State University",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQGMbSBQK5y-Dw/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=fZDn_brbkdlD32fMR6VqfoG-56y7qmrjYvKMmSdRUb0",
+    "location": "Leningrad Region, Russian Federation",
+    "connections": "234",
+    "summary": "Experienced Technician with a demonstrated history of working in the computer software industry. Skilled in Haskell, Computational Physics, Computer Science, PHP, and Bash. Strong engineering professional with a Doctor of Philosophy (Ph.D.) focused in Computational Physics from Saint Petersburg State University."
+  },
+  "aboutAlternative": {
+    "text": "Experienced Technician with a demonstrated history of working in the computer software industry. Skilled in Haskell, Computational Physics, Computer Science, PHP, and Bash. Strong engineering professional with a Doctor of Philosophy (Ph.D.) focused in Computational Physics from Saint Petersburg State University."
+  },
+  "positions": [
+    {
+      "title": "Senior Software Developer",
+      "companyName": "Tweag I/O",
+      "location": "Remote",
+      "description": "Work at Tweag I/O includes:\n\n* Architecting cloud-based Excel version that supports different language kernels including R and Python. The solution worked with intermediate size data, few Gb datasets and supported novel technology for translation Excel formulas into SQL expression.\n\n* Implementation network-transport-zeromq abstraction layer that can be used for Cloud Haskell;\n\n* Participated in building HaskellR - interop solution between R and Haskell (see link below);\n\n* Is one of the Cloud Haskell (distributed-haskell) Platform contributors;\n\n* Participated in writing StaticPointers extension for GHC compiler;\n\n* Writing verification models for simple distributed algorithms;\n\n* Implementation of the FRP like event processing engine (not announced yet).\n…\nsee more",
+      "date1": "Nov 2013 – Present",
+      "date2": "6 yrs 1 mo"
+    },
+    {
+      "title": "Distributive maintainer",
+      "companyName": "Gentoo Linux",
+      "location": "Remote - Gatchina, Leningranskaya obl, Russia",
+      "description": "Not very active contributor to Gentoo. My main activity is around Gentoo Haskell project that introduces good support for GHC, haskell programs and relevant technologies (programming languages like agda, cryptol, etc.). Also contributed to support of the random packages and OpenRC.",
+      "date1": "2012 – Nov 2018",
+      "date2": "6 yrs"
+    },
+    {
+      "title": "Haskell developer",
+      "companyName": "LLC HR Scoring",
+      "location": "Remote - Gatchina, Leningradskaya obl, Russia",
+      "description": "Help with project delivery. Worked on code audit, optimization of the codebase and improvements in the architecture of the highly specialized natural language parser. Implemented GC-friendly structures and code architecture, so the project fit all the requirements and became more manageable.\nWorked and successfully delivered the second generation of the project parser.\n…\nsee more",
+      "date1": "2014 – 2015",
+      "date2": "1 yr"
+    },
+    {
+      "title": "Haskell Developer",
+      "companyName": "Parallel Scientific",
+      "location": "Remote",
+      "description": "* Implementation of the EDSL for VHDL code generation\n* Implementaion of mathematical methods written in Haskell",
+      "date1": "May 2013 – Nov 2013",
+      "date2": "7 mos"
+    },
+    {
+      "title": "Haskell Software Developer",
+      "companyName": "ARCCN",
+      "location": "Remote",
+      "description": "Designed and implemented a solution for testing network and software switches controlling the network. The solution was able to control the network systems that run on the read hardware and orchestrating tests.\n\nOptimization of a network protocol and software switches benchmarking tool written in Haskell.\n…\nsee more",
+      "date1": "Oct 2012 – May 2013",
+      "date2": "8 mos"
+    },
+    {
+      "title": "Senior Software Developer",
+      "companyName": "Individual enterpreneur",
+      "location": "Gatchina, Russia",
+      "description": "Implementation of various projects\n\n* Java development for Spicesoft.\nSupport and improvements in discount aggregation system.\n* PHP development for http://www.grandtravelgroup.com/\nSupport and design of the new modules for the GTG business system.\n\n…\nsee more",
+      "date1": "Jun 2012 – Oct 2012",
+      "date2": "5 mos"
+    },
+    {
+      "title": "Senior Software developer",
+      "companyName": "Treeline, Inc.",
+      "location": "Remote",
+      "description": "Implementing various programs using Haskell language.\n\nA small server for updating remove ebmedded devices.\n\nEmbedded system for controlling turnstile in subway, system\nincluded communication with server written in Erlang (using protobuf protocol) and communication with device using GPIO and RFID device.\n\nDesign of the architecture of smarthouse solution.\n…\nsee more",
+      "date1": "Jul 2011 – Sep 2012",
+      "date2": "1 yr 3 mos"
+    },
+    {
+      "title": "Software developer",
+      "companyName": "Notebeat OY",
+      "location": "Finland",
+      "description": "CRM system summport, main technologies are PHP and MySQL.\n\nSupport and improvement of a standalone client for CRM system for managing e-invoices using Java.",
+      "date1": "2008 – 2011",
+      "date2": "3 yrs"
+    },
+    {
+      "title": "Developer",
+      "companyName": "Segmenta Media",
+      "description": "Web site engine development using php, MySQL, Postgres. The main work required creation of in-hourse CMS product and it's support. Various projects were done at the company and I've passed a way from the tester to lead developer.",
+      "date1": "2006 – 2011",
+      "date2": "5 yrs"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Saint Petersburg State University",
+      "degree": "Doctor of Philosophy (Ph.D.)",
+      "fieldofstudy": "Computational Physics",
+      "date1": "2011",
+      "date2": "2015"
+    },
+    {
+      "title": "Saint-Petersburg State University",
+      "degree": "Master’s Degree",
+      "fieldofstudy": "Computational Physics",
+      "date1": "2008",
+      "date2": "2011"
+    },
+    {},
+    {
+      "title": "Saint Petersburg State University",
+      "degree": "Bachelor’s Degree",
+      "fieldofstudy": "Physics",
+      "date1": "2004",
+      "date2": "2008"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Haskell",
+      "count": "27"
+    },
+    {
+      "title": "Linux",
+      "count": "24"
+    },
+    {
+      "title": "Git",
+      "count": "15"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "2",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/sergeymelekhin/",
+        "text": "Alexander proved to be very strong haskell developer, he helped us a lot to improve codebase and architecture of our project. He has shown very deep knowledge of haskell and how it manages memory allocation and garbage collection. I am really pleased with his work, he is a competent and responcible person."
+      },
+      {
+        "user": "https://www.linkedin.com/in/nikolaj-drobachenko-77bab829/",
+        "text": "Alexander has high software engineer skills, he can implement big project completely by himself and has enough responsibility to do it in time schedule."
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "2",
+      "items": [
+        "English",
+        "Russian"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Haskell"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "On the bi-Hamiltonian structure of Bogoyavlensky system on so(4)"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/oleg-arslanov-06360b94/",
+      "text": "Старший консультант SAP HCM - MOLGA Consulting"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nickolay-kudasov/",
+      "text": "CTO & Co-founder at GetShop.TV"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ivan-filimonov-94229214a/",
+      "text": "Fullstack Developer at Dualboot Partners"
+    },
+    {
+      "user": "https://www.linkedin.com/in/%D0%B4%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9-%D1%83%D1%87%D0%B0%D0%B9%D0%BA%D0%B8%D0%BD-62b535175/",
+      "text": "Devops engineer – Ecwid"
+    },
+    {
+      "user": "https://www.linkedin.com/in/alganiev/",
+      "text": "Software Engineer at FourthMedia Ltd"
+    },
+    {
+      "user": "https://www.linkedin.com/in/egor-gavriliuk-700058b2/",
+      "text": "Project Development Manager at Danone"
+    },
+    {
+      "user": "https://www.linkedin.com/in/vladislav-chusov-2b274410a/",
+      "text": "Android Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/olga-ianchenko-13696b73/",
+      "text": "Руководитель направления"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yaroslav-balenko-ab203152/",
+      "text": "Business Development Manager - Yandex (Яндекс.Таланты)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mark-blokh-80aa89158/",
+      "text": "Material Supervisor – SNC-Lavalin"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Alexander Vershilov",
+    "headline": "Senior Haskell Engineer; PhD in physics, Saint-Petersburg State University",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQGMbSBQK5y-Dw/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=fZDn_brbkdlD32fMR6VqfoG-56y7qmrjYvKMmSdRUb0",
+    "location": "Leningrad Region, Russian Federation",
+    "connections": "234",
+    "summary": "Experienced Technician with a demonstrated history of working in the computer software industry. Skilled in Haskell, Computational Physics, Computer Science, PHP, and Bash. Strong engineering professional with a Doctor of Philosophy (Ph.D.) focused in Computational Physics from Saint Petersburg State University."
+  }
+}

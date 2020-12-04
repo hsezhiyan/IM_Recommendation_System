@@ -1,0 +1,69 @@
+{
+  "profileAlternative": {
+    "name": "omnia magd",
+    "headline": "Android and Java Developer في freelancer",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQHhSCzhLb59Uw/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=ef5zgko-KWPq19Na6mBpjMxoiC77Nqy1meqEzCunH6s",
+    "location": "Egypt",
+    "connections": "1 connection"
+  },
+  "aboutAlternative": {},
+  "positions": [
+    {
+      "title": "Android and Java Developer",
+      "companyName": "freelancer",
+      "date1": "Jun 2015 – Present",
+      "date2": "4 yrs 6 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "faculty of computers and information - helwan univarsity",
+      "degree": "Bachelor of Computer Science (BS)",
+      "fieldofstudy": "Computer Science",
+      "date1": "2011",
+      "date2": "2015"
+    }
+  ],
+  "skills": [],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "2",
+      "items": [
+        "English",
+        "العربية"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "OOP"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Next Step"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [],
+  "volunteerExperience": [
+    {
+      "title": "أصدقاء البيئه",
+      "experience": "سويسرا"
+    }
+  ],
+  "profile": {
+    "name": "omnia magd",
+    "headline": "Android and Java Developer في freelancer",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQHhSCzhLb59Uw/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=ef5zgko-KWPq19Na6mBpjMxoiC77Nqy1meqEzCunH6s",
+    "location": "Egypt",
+    "connections": "1 connection"
+  }
+}

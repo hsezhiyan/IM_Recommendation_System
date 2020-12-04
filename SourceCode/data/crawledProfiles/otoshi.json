@@ -1,0 +1,173 @@
+{
+  "profileAlternative": {
+    "name": "Masayuki Otoshi",
+    "headline": "Java and JavaScript Developer at Train Project",
+    "location": "Greater New York City Area",
+    "connections": "Contact info",
+    "summary": "Finding next generations on Java/JavaScript (AJAX) application development.\n\nSpecialties: Requirements Gathering, Software Development (Java, JavaScript, HTML5 Canvas, etc), Image Processing, Machine Learning, Numeric Computing."
+  },
+  "aboutAlternative": {
+    "text": "Finding next generations on Java/JavaScript (AJAX) application development.\n\nSpecialties: Requirements Gathering, Software Development (Java, JavaScript, HTML5 Canvas, etc), Image Processing, Machine Learning, Numeric Computing."
+  },
+  "positions": [
+    {
+      "title": "Java and JavaScript Developer",
+      "companyName": "Train Project",
+      "description": "Developed a prediction engine (self-learning prediction framework) using decision tree algorithm of machine leaning.\n\nSite: http://www5f.biglobe.ne.jp/~webtest/train/",
+      "date1": "Dec 2012 – Present",
+      "date2": "7 yrs"
+    },
+    {
+      "title": "JavaScript Developer",
+      "companyName": "SkyJs Project",
+      "description": "Developed SkyJs (Numerical Computing Expression Language for JavaScript) that makes it possible to easily invoke functions implemented in numerical computing JavaScript Library such as SkyLib, numeric.js.\nSkyJs also provides SkyLib (Numerical Computing Library), SkyPlot (Graphic Library), SkyImg (Image Processing Library).\n\nSite: http://www5f.biglobe.ne.jp/~webtest/skyjs/\n…\nsee more",
+      "date1": "Sep 2012 – Nov 2012",
+      "date2": "3 mos"
+    },
+    {
+      "title": "Java and JavaScript Developer",
+      "companyName": "Resume Classifier Project",
+      "description": "Developed Resume Classifier that supports screening candidates to find for strong Java and JavaScript developers.\nThe classifier classifies candidate's resume into strong, mid-level or poor developer by using Naive Bayes algorithm based on our training data. It also shows what type of developer the candidate is (Web developer, System Analyst, QA Tester and so on).\n\nSite: http://www5f.biglobe.ne.jp/~webtest/resumeclassifier/\n…\nsee more",
+      "date1": "Jun 2012 – Aug 2012",
+      "date2": "3 mos"
+    },
+    {
+      "title": "Java and JavaScript developer",
+      "companyName": "Event Counter Project",
+      "description": "Developed Event Counter application to track JavaScript events such as onclick on links.\n\nSite: http://www5f.biglobe.ne.jp/~webtest/eventcounter/",
+      "date1": "Apr 2012 – May 2012",
+      "date2": "2 mos"
+    },
+    {
+      "title": "JavaScript Developer",
+      "companyName": "Dynamic Image Project",
+      "description": "Developed Dynamic Image JavaScript Library.\n\nSite: http://www5f.biglobe.ne.jp/~webtest/di/",
+      "date1": "Mar 2012",
+      "date2": "1 mo"
+    },
+    {
+      "title": "JavaScript Developer",
+      "companyName": "Canvas Image Processor Project",
+      "description": "Developed Image Processing JavaScript Library using HTML5 Canvas element.\n\nSite: http://www5f.biglobe.ne.jp/~webtest/cip/",
+      "date1": "Jan 2012 – Feb 2012",
+      "date2": "2 mos"
+    },
+    {
+      "title": "JavaScript Developer",
+      "companyName": "Canvas Templates Project",
+      "description": "Developed a template engine for HTML5 Canvas element.\n\nSite: http://www5f.biglobe.ne.jp/~webtest/ctm/",
+      "date1": "Apr 2011 – Dec 2011",
+      "date2": "9 mos"
+    },
+    {
+      "title": "Java and JavaScript Developer",
+      "companyName": "AJT Templates Project",
+      "description": "Developed AJT Templates - Ajax JavaScript Templates (JavaScript Templates and Text Preprocessor for Ajax development).\n\nSite: http://www5f.biglobe.ne.jp/~webtest/ajt/",
+      "date1": "Oct 2010 – Mar 2011",
+      "date2": "6 mos"
+    },
+    {
+      "title": "JavaScript Developer",
+      "companyName": "ezStory Project",
+      "description": "Developed ezStory - Storyboard Editor and consulted system analysts to elicit better requirements from business users.\n\nSite: http://www5f.biglobe.ne.jp/~webtest/ezstory/\n\nArticle: http://www.batimes.com/articles/beyond-use-cases-with-storyboarding.html\n…\nsee more",
+      "date1": "Dec 2009 – Sep 2010",
+      "date2": "10 mos"
+    },
+    {
+      "title": "Java Developer",
+      "companyName": "BatchFriend Project",
+      "description": "Developed BatchFriend test tool for batch applications and consulted developers and project leader to easily create and manage test cases.\n\nSite: http://www5f.biglobe.ne.jp/~webtest/batchfriend/",
+      "date1": "Sep 2009 – Nov 2009",
+      "date2": "3 mos"
+    },
+    {
+      "title": "Java Developer",
+      "companyName": "Stringer Framework Project",
+      "description": "Developed the MVC, DI container and O-R mapping frameworks and implemented Site Search web application for a manufacturing company using the frameworks.\n\nSite: http://www5f.biglobe.ne.jp/~webtest/stringer/",
+      "date1": "Jan 2009 – Apr 2009",
+      "date2": "4 mos"
+    },
+    {
+      "title": "Java Developer",
+      "companyName": "J-CASE Project",
+      "description": "Developed JSP Custom Tags for Interactive Storyboard and consulted system analysts to elicit better requirements from business users.\n\nSite: http://www5f.biglobe.ne.jp/~webtest/jcase/\n\nArticles:\nhttp://java.sys-con.com/node/584092\nhttp://java.sys-con.com/node/914510\n…\nsee more",
+      "date1": "Dec 2007 – Dec 2008",
+      "date2": "1 yr 1 mo"
+    },
+    {
+      "title": "Java and JavaScript Developer",
+      "companyName": "J-SOFA Project",
+      "description": "Developed the Service Orchestration Framework to easily handle invoking service components (Web Services, Java and JavaScript Components).\n\nSite: http://www5f.biglobe.ne.jp/~webtest/jsofa/\n\nArticles:\nhttp://www.javaworld.com/javaworld/jw-04-2006/jw-0417-sofa.html\nhttp://www.javaworld.com/javaworld/jw-12-2006/jw-1217-jsofa.html\n…\nsee more",
+      "date1": "Jan 2006 – Dec 2006",
+      "date2": "12 mos"
+    },
+    {
+      "title": "Researcher",
+      "companyName": "Formal Methods Project",
+      "description": "Researched a way to define specifications using formal methods, and wrote an article about the results.\n\nArticle: Validate Specifications with Formal Methods (using CafeOBJ and JUnit) JavaWorld November 2005 (Japan)\n…\nsee more",
+      "date1": "May 2005 – Sep 2005",
+      "date2": "5 mos"
+    },
+    {
+      "title": "Java Developer",
+      "companyName": "DocumentJ Project",
+      "description": "Developed Requirements Generator (Tool) to create reusable requirements document.\nThe idea of the tool was accepted by IPA (Information Promotion Agency)'s project called Mitou project designed to help produce world class programmers.",
+      "date1": "Jan 2005 – Apr 2005",
+      "date2": "4 mos"
+    }
+  ],
+  "educations": [],
+  "skills": [
+    {
+      "title": "Java"
+    },
+    {
+      "title": "JavaScript"
+    },
+    {
+      "title": "Image Processing"
+    },
+    {
+      "title": "Machine Learning"
+    },
+    {
+      "title": "Numerical Analysis"
+    },
+    {
+      "title": "Requirements Gathering"
+    },
+    {
+      "title": "AJAX"
+    },
+    {
+      "title": "HTML 5"
+    },
+    {
+      "title": "MVC"
+    },
+    {
+      "title": "Canvas"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/amyzhang99/",
+      "text": "Student at UC Berkeley, Haas School of Business"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Masayuki Otoshi",
+    "headline": "Java and JavaScript Developer at Train Project",
+    "location": "Greater New York City Area",
+    "connections": "Contact info",
+    "summary": "Finding next generations on Java/JavaScript (AJAX) application development.\n\nSpecialties: Requirements Gathering, Software Development (Java, JavaScript, HTML5 Canvas, etc), Image Processing, Machine Learning, Numeric Computing."
+  }
+}

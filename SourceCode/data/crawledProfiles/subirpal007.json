@@ -1,0 +1,149 @@
+{
+  "profileAlternative": {
+    "name": "Subir Kumar Pal",
+    "headline": "HTML Developer at Unified Infotech Pvt. Ltd.",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQFBxM5RZwSMgg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=XeoS-Nbhe-GpYsAQ1CXciDeKfUyVPH9t-qFxoM5IQAk",
+    "location": "Kolkata Area, India",
+    "connections": "500+",
+    "summary": "I've been doing front-end development for the past 7 years specializing in HTML5/CSS3/jQuery development and RESPONSIVE design. My aim to write the most beautiful code possible.\n\nMy HTML and CSS are validated, search engine optimized and easily up-datable. My Work is always delivered on-time or ahead of schedule and it's my job to ensure you never have to deal with ugly old code ever again."
+  },
+  "aboutAlternative": {
+    "text": "I've been doing front-end development for the past 7 years specializing in HTML5/CSS3/jQuery development and RESPONSIVE design. My aim to write the most beautiful code possible.\n\nMy HTML and CSS are validated, search engine optimized and easily up-datable. My Work is always delivered on-time or ahead of schedule and it's my job to ensure you never have to deal with ugly old code ever again."
+  },
+  "positions": [
+    {
+      "title": "HTML Developer",
+      "companyName": "Unified Infotech Pvt Ltd",
+      "date1": "Aug 2014 – Present",
+      "date2": "5 yrs 4 mos"
+    },
+    {
+      "title": "HTML Developer",
+      "companyName": "Evika Systems Pvt.",
+      "date1": "Jun 2011 – Aug 2014",
+      "date2": "3 yrs 3 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Sodepur Chandrachur Vidyapith"
+    }
+  ],
+  "skills": [
+    {
+      "title": "HTML5",
+      "count": "5"
+    },
+    {
+      "title": "css3",
+      "count": "2"
+    },
+    {
+      "title": "Bootstrap",
+      "count": "3"
+    },
+    {
+      "title": "Graphic Design",
+      "count": "2"
+    },
+    {
+      "title": "Web Design",
+      "count": "5"
+    },
+    {
+      "title": "Responsive Web Design",
+      "count": "3"
+    },
+    {
+      "title": "jQuery",
+      "count": "6"
+    },
+    {
+      "title": "WordPress",
+      "count": "3"
+    },
+    {
+      "title": "Photoshop",
+      "count": "2"
+    },
+    {
+      "title": "Dreamweaver",
+      "count": "4"
+    },
+    {
+      "title": "jQuery UI",
+      "count": "2"
+    },
+    {
+      "title": "HTML",
+      "count": "2"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "3",
+      "items": [
+        "Bengali",
+        "English",
+        "Hindi"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/suman-rana-5332ab174/",
+      "text": "Junior Application Developer at Unified Infotech"
+    },
+    {
+      "user": "https://www.linkedin.com/in/arpana-mandal-56bb7197/",
+      "text": "Application Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shayani-sanyal-828b5471/",
+      "text": "Application Developer at Unified Infotech"
+    },
+    {
+      "user": "https://www.linkedin.com/in/abhisek-paul-117753156/",
+      "text": "Senior Magento Developer at Unified Infotech Pvt Ltd"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sahil-khan-52164b146/",
+      "text": "Web Designer (HTML Developer)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/dassambaran/",
+      "text": "iOS App Developer at Unified Infotech Pvt. Ltd."
+    },
+    {
+      "user": "https://www.linkedin.com/in/vivek-bhat-45a074a1/",
+      "text": "HTML Developer."
+    },
+    {
+      "user": "https://www.linkedin.com/in/subhankar-ghosh-b86b91124/",
+      "text": "Application Developer at Unified Infotech"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sai-chaitanya-m-aba73a154/",
+      "text": "Web Developer at JD Institute of Fashion Technology, Bengaluru"
+    },
+    {
+      "user": "https://www.linkedin.com/in/prchowley/",
+      "text": "iOS | MacOS | tvOS | watchOS | Swift | Objective C | SwiftUI | Combine | IoT | UIKit"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Subir Kumar Pal",
+    "headline": "HTML Developer at Unified Infotech Pvt. Ltd.",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQFBxM5RZwSMgg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=XeoS-Nbhe-GpYsAQ1CXciDeKfUyVPH9t-qFxoM5IQAk",
+    "location": "Kolkata Area, India",
+    "connections": "500+",
+    "summary": "I've been doing front-end development for the past 7 years specializing in HTML5/CSS3/jQuery development and RESPONSIVE design. My aim to write the most beautiful code possible.\n\nMy HTML and CSS are validated, search engine optimized and easily up-datable. My Work is always delivered on-time or ahead of schedule and it's my job to ensure you never have to deal with ugly old code ever again."
+  }
+}

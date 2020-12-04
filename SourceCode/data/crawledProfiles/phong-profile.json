@@ -1,0 +1,189 @@
+{
+  "profileAlternative": {
+    "name": "Phong Nguyen",
+    "headline": "JAVA, .NET, NODEJS",
+    "imageurl": "https://media.licdn.com/dms/image/C5103AQHuaO881kMC9g/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=pp9XS6dOncii6azQZ66CVWGoSyR2WL1QQ5PfPagHex8",
+    "location": "Vietnam",
+    "connections": "500+",
+    "summary": "I'm Phong, a software developer, with good knowledge of Database Design, Design Pattern, Object-Oriented Programing.\nLearning new languages and technologies is what I am passionate about (I self-taught ASP.NET MVC5 with 3 weeks).\nI am considered a team-player because I like to help other and tend to work well within groups. I can also do some mentoring tasks and do code reviewing for other team members. I like helping other and work well with group. I can also do some mentoring tasks and code reviewing for other members."
+  },
+  "aboutAlternative": {
+    "text": "I'm Phong, a software developer, with good knowledge of Database Design, Design Pattern, Object-Oriented Programing.\nLearning new languages and technologies is what I am passionate about (I self-taught ASP.NET MVC5 with 3 weeks).\nI am considered a team-player because I like to help other and tend to work well within groups. I can also do some mentoring tasks and do code reviewing for other team members. I like helping other and work well with group. I can also do some mentoring tasks and code reviewing for other members."
+  },
+  "positions": [
+    {
+      "title": "NodeJs And Java Software Engineering Collaborator",
+      "companyName": "New Plus Media",
+      "location": "Vietnam",
+      "date1": "Jul 2019 – Present",
+      "date2": "5 mos"
+    },
+    {
+      "title": "Intern",
+      "companyName": "FPT Software",
+      "location": "Vietnam",
+      "description": "Research and development of the recommendation system.",
+      "date1": "Jul 2019 – Present",
+      "date2": "5 mos"
+    },
+    {
+      "title": "Member",
+      "companyName": "UIT Web Club",
+      "location": "Vietnam",
+      "description": "Back-end team member: In this club, I worked as a Web Programmer. My responsibilities were:\n• Developed web application based on frameworks/platforms such:\n> Node Js: Express, Loopback\n> PHP: Laravel Framework.\n• Trained technical for other members.\n…\nsee more",
+      "date1": "Dec 2018 – Jun 2019",
+      "date2": "7 mos"
+    },
+    {
+      "title": "FPT Software",
+      "location": "Vietnam",
+      "description": "My responsibilities at FPT Software Company were:\n• Supported for upgraded Sakai system, an e-Learning system that trains employees of the company.\n• Analyzed and planned to upgrade the Sakai system.\n• Researched Tin Can API and developed functions to track the learning process of learners on the Sakai system with this API.\n• Wrote documentation for my research.\n\n…\nsee more",
+      "date1": "Jul 2018 – Jan 2019",
+      "date2": "7 mos",
+      "roles": [
+        {
+          "title": "JAVA Software Engineering Collaborator",
+          "date1": "Jul 2018 – Jan 2019",
+          "date2": "7 mos",
+          "location": "Vietnam"
+        },
+        {
+          "title": ".NET Software Engineer Intern",
+          "date1": "Mar 2018 – Jun 2018",
+          "date2": "4 mos",
+          "location": "Vietnam"
+        }
+      ]
+    },
+    {
+      "title": "Title\nJAVA Software Engineering Collaborator",
+      "location": "Vietnam",
+      "description": "My responsibilities at FPT Software Company were:\n• Supported for upgraded Sakai system, an e-Learning system that trains employees of the company.\n• Analyzed and planned to upgrade the Sakai system.\n• Researched Tin Can API and developed functions to track the learning process of learners on the Sakai system with this API.\n• Wrote documentation for my research.\n\n…\nsee more",
+      "date1": "Jul 2018 – Jan 2019",
+      "date2": "7 mos",
+      "roles": [
+        {
+          "title": "JAVA Software Engineering Collaborator",
+          "date1": "Jul 2018 – Jan 2019",
+          "date2": "7 mos",
+          "location": "Vietnam"
+        }
+      ]
+    },
+    {
+      "title": "Title\n.NET Software Engineer Intern",
+      "location": "Vietnam",
+      "description": "Responsible for designing and implementing FPT Software Library website with a team of seven at FPT Software. This site includes management functions for: books in stock, borrowed and returned books, automatically send email for borrowers and authentication with the CAS system.\nResponsibility for database design, website design and implemented project with C# ASP.NET MVC5, Entity Framework, Bootstrap 4, MS SQL Server, HTML5, CSS, JavaScript, jQuery, Ajax and other technologies. In this project, I and my team applied three-tier architecture and Single-ton design pattern into project.\n…\nsee more",
+      "date1": "Mar 2018 – Jun 2018",
+      "date2": "4 mos",
+      "roles": [
+        {
+          "title": ".NET Software Engineer Intern",
+          "date1": "Mar 2018 – Jun 2018",
+          "date2": "4 mos",
+          "location": "Vietnam"
+        }
+      ]
+    }
+  ],
+  "educations": [
+    {
+      "title": "University of Information Technology",
+      "degree": "Bachelor",
+      "fieldofstudy": "Information Technology",
+      "date1": "2016",
+      "date2": "2020"
+    }
+  ],
+  "skills": [
+    {
+      "title": "PHP",
+      "count": "1"
+    },
+    {
+      "title": "Java"
+    },
+    {
+      "title": "C#"
+    },
+    {
+      "title": "Microsoft SQL Server"
+    },
+    {
+      "title": ".NET framework"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "2",
+      "items": [
+        "MultiDownLoad",
+        "VNExpress Crawler – JAVA – Android Application"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/tung-ho-530131147/",
+      "text": "Java Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/minh-bui-84b098128/",
+      "text": "Full-Stack Java Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/to%C3%A0n-l%C3%AA-t%E1%BA%A5n-85462017b/",
+      "text": "Java Software Engineer at FPT Software Da Nang"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tran-linh-32647413b/",
+      "text": "Junior Java, Front end"
+    },
+    {
+      "user": "https://www.linkedin.com/in/thuan-mai-67274199/",
+      "text": "Senior Java Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/anh-le-024011129/",
+      "text": "Java Developer at FPT Software"
+    },
+    {
+      "user": "https://www.linkedin.com/in/do-tam-152827169/",
+      "text": "Java Developer at Sutrix Group"
+    },
+    {
+      "user": "https://www.linkedin.com/in/duclvz/",
+      "text": "Nodejs Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/minh-do-674875109/",
+      "text": "Java developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/huannguyen151293/",
+      "text": "Java Developer - Looking for new opportunity"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Communications",
+      "experience": "Spring Volunteer Campaign",
+      "date1": "Jan 2017",
+      "date2": "1 mo"
+    }
+  ],
+  "profile": {
+    "name": "Phong Nguyen",
+    "headline": "JAVA, .NET, NODEJS",
+    "imageurl": "https://media.licdn.com/dms/image/C5103AQHuaO881kMC9g/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=pp9XS6dOncii6azQZ66CVWGoSyR2WL1QQ5PfPagHex8",
+    "location": "Vietnam",
+    "connections": "500+",
+    "summary": "I'm Phong, a software developer, with good knowledge of Database Design, Design Pattern, Object-Oriented Programing.\nLearning new languages and technologies is what I am passionate about (I self-taught ASP.NET MVC5 with 3 weeks).\nI am considered a team-player because I like to help other and tend to work well within groups. I can also do some mentoring tasks and do code reviewing for other team members. I like helping other and work well with group. I can also do some mentoring tasks and code reviewing for other members."
+  }
+}

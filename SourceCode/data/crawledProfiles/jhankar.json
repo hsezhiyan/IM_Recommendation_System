@@ -1,0 +1,304 @@
+{
+  "profileAlternative": {
+    "name": "Jhankar Mahbub",
+    "headline": "Sr. Web Developer || 3 Marathons || 4x Bestselling Author(Bangladesh) || Youtuber (130k+ Subs) || Entreprenuer",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQFnCtX8U_7F_g/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=qqXN_zzZ65Xcy2jfFGGyUdRkj9a3OIKvYZT5x9VKyZA",
+    "location": "San Jose, California",
+    "connections": "500+",
+    "summary": "•Expertise: JavaScript, ES6, React, Redux, Angular6, Bootstrap, Data visualization, Material Design.\n•Comfortable: Angular, Redux-saga, GraphQL, Apollo, Typescript, Node, Express, Android, SCSS, Mocha, chai, etc.\n•Familiar: dc.js, cross-filter js, React native, Chrome extension, Android App, python, SQL, etc.\n¬\n•Tools: Git, Webpack, Chrome Dev Tool, Jasmine, Karma, Istanbul, VS Code, Jenkins, JIRA, Mercurial, Axure, etc.\n•Forgetting: Bower, Grunt, JQuery, JQuery-UI, C#, .Net, LINQ, Log4Net, NUnit, php, lo-dash, etc.\n\nGitHub: https://github.com/khan4019"
+  },
+  "aboutAlternative": {
+    "text": "•Expertise: JavaScript, ES6, React, Redux, Angular6, Bootstrap, Data visualization, Material Design.\n•Comfortable: Angular, Redux-saga, GraphQL, Apollo, Typescript, Node, Express, Android, SCSS, Mocha, chai, etc.\n•Familiar: dc.js, cross-filter js, React native, Chrome extension, Android App, python, SQL, etc.\n¬\n•Tools: Git, Webpack, Chrome Dev Tool, Jasmine, Karma, Istanbul, VS Code, Jenkins, JIRA, Mercurial, Axure, etc.\n•Forgetting: Bower, Grunt, JQuery, JQuery-UI, C#, .Net, LINQ, Log4Net, NUnit, php, lo-dash, etc.\n\nGitHub: https://github.com/khan4019"
+  },
+  "positions": [
+    {
+      "title": "Web Developer and Python Trainer",
+      "companyName": "Codinism Inc.",
+      "description": "1. Organize and teach in a day-long React workshop for absolute beginners where participants learn about React fundamentals through building an e-commerce site\n2. A daylong workshop that covers redux, redux-saga and advanced React concept through building a social media site\n3. Workshops for moder javascript debugging, productivity and ES6 tips and tricks",
+      "date1": "May 2017 – Present",
+      "date2": "2 yrs 7 mos"
+    },
+    {
+      "title": "Best Selling Author in Bangladesh(Programming and Self-help books)",
+      "companyName": "Adarsha Publications",
+      "location": "Bangladesh",
+      "description": "* National Bestseller - \"Peramoy Life er Peracitamol\" a self-help book, February 2019\n* National Bestseller - \"Recharge your Down Battery\" a self-help book, February 2018\n* Best seller- \"Habluder Jonno Programming\" book, February 2016\n* Best seller - \"Programming er Bolod to BOss\" book, February 2017\n* Published - \"Programming er Chouddogosti\" book, February 2018\n\n…\nsee more",
+      "date1": "Feb 2016 – Present",
+      "date2": "3 yrs 10 mos"
+    },
+    {
+      "title": "International Speaker (Hobby & Side Project)",
+      "companyName": "Numerous Conferences",
+      "description": "* Manage State on Large React App, International JavaScript Conference, London, UK, April 2018\n* JavaScript Code Quality, That Conference, Wisconsin Dells, Wisconsin, USA\n* Getting Started with GraphQL and Apollo, Chicago Code Camp, May 2018\n* Advanced Debugging, Midwest JS, Minneapolis, MN, USA, 2017\n* Power of React, Groupon, Chicago, IL, July 2017\n* Functional Programming: What, Why and How, International JavaScript Conference, London, UK\n* Numerous others in 30+ different conferences, meetup and so on\n* Organizes Chicago JavaScript Meetup, Chicago Front-End meetup group, etc.\n…\nsee more",
+      "date1": "Jan 2015 – Present",
+      "date2": "4 yrs 11 mos"
+    },
+    {
+      "title": "Youtube Content Creator",
+      "companyName": "YouTube",
+      "location": "https://www.youtube.com/user/jhankarmahbub",
+      "description": "📌 130k+ subs in youtube (Content in Bengali. Audience mostly in Bangladesh)\n📌 Tech programming in a fun and entertaining way (Web development, Python, interview preparation)\n📌 Self-help guidelines for teenage and students\n📌 Occasional stage performance video with fun song and comedy performance\n…\nsee more",
+      "date1": "Jan 2015 – Present",
+      "date2": "4 yrs 11 mos"
+    },
+    {
+      "title": "Sr. Web Developer",
+      "companyName": "Nielsen",
+      "location": "Greater Chicago Area",
+      "description": "Summary:\n•Leading front end development team, coordinating design, various application development and deployment\n•Introduced and trained new tools, framework, development techniques for various teams\n•Developed in house component, development guideline and wore different hat as needed to ship product on-time\n\nMarketing Budget Explorer (MBE): Dec 2016 - current\n•Architected and state of art angular4 application Marketing Budget Explorer (MBE)\n•Designed and lead Front end development with latest tools and techniques including angular4, angular-cli, Google Material Design, SASS, Webpack, Typescript, etc.\n•Maintained 80% and above code coverage through unit testing by using Jasmine, Karma, Istanbul, etc.\n• Implemented customized data visualization by using d3, ngx-charts, etc.\n•Scaled application to support Internationalization and Translation to serve global clients\n\nBento (MTA): Oct 2016 -Nov 2016\n•Developed a quick demoable and working prototype by using Angular2, angular-cli, angular material design etc.\n•Succeeded to develop a production grade application with beta version of several libraries.\n\nMulti-touch Attribution (MTA): March 2015 - Sept 2016\n•Architected, designed and lead Front end development for Multi-Touch Attribution product\n•Designed and developed customized path to purchase chart with interactive filter to display thousands of records\n•Implemented Internationalization and Translation to serve global clients\n\n\nBusiness Drivers version 3.0(BD3): Feb 2014 - March 2015\n•Lead the full cycle development, project management, deployment, user training, client transition, etc.\n•End to end development and launching of Mobile friendly Business Drivers and support modern browsers\n•Developed custom chart, custom grid and custom component to facilitate visualization\n\n\n…\nsee more",
+      "date1": "Sep 2014 – Dec 2018",
+      "date2": "4 yrs 4 mos"
+    },
+    {
+      "title": "Software Developer",
+      "companyName": "Nielsen",
+      "description": "Summary:\n• Managing teams and developing full life cycle project for responsive web application\n• Conducts training about new technologies, ideas and ways to improve current practices, etc.\n• Introduced new technology like Angular, Bootstrap, D3.js, etc. by evaluating several alternatives\n\nProjects\n• Worked in a team to renovate a seven years old application to a responsive device compatible\n• Lead team for full stack development of “Model Result Visualization” for user friendly display of critical Marketing Mix Model with the ability to compare and drilldown\n• Developed front end of internal project for execution and resource capitalization\n• Conducted application wide performance analysis and reduce page loading time of mostly visited pages by 30%\n• Developed full life cycle Administration Application including requirement analysis, design, architecture, prototype development and demonstration in agile development method\n• Developed Return on Investment (ROI) Analysis for visualization and comparison of media performance\n\n\nTechnology\n• Angular, Bootstrap, UI Bootstrap, D3, Handlebar, MVC\n• Knockout, JQuery, JQUery UI, Underscore, C#, ASP.NET, ASP.NET MVC, MS SQL\n• TortoiseHg, Jenkins, JIRA, Visual Studio, Sublime Text\n…\nsee more",
+      "date1": "Aug 2012 – Sep 2013",
+      "date2": "1 yr 2 mos"
+    },
+    {
+      "title": "Software Developer",
+      "companyName": "Strata Decision Technology",
+      "location": "Chicago IL",
+      "description": "•Developed and maintained Strata Jazz Software by using C#, VB, .NET, ASP.NET, ExtJS, JavaScript, NUnit\n•Applied Test Driven Development of Cube and Web service for killing longer queries by using XMLA, MDX\n•Worked in a team to develop centralized log API and upgraded existing system by using Log4Net\n•Used Open Office XML, Essential Objects for user friendly multi-layered reporting engine\n…\nsee more",
+      "date1": "Feb 2012 – Jul 2012",
+      "date2": "6 mos"
+    },
+    {
+      "title": "Technology Learning and Media Center",
+      "description": "Teaching C#, HTML5, Java, PHP, MS SQL, Adobe Illustrator, Photoshop, Indesign\nDeveloping media projects in Adobe Premiere Element, Sony Vegas, Audacity, Movie Maker\nGuided student's software projects in design, development and trouble shoot\nCoducted workshops and in class training for web development",
+      "date1": "Dec 2010 – Feb 2012",
+      "date2": "1 yr 3 mos",
+      "roles": [
+        {
+          "title": "Learning Assistant",
+          "date1": "Dec 2010 – Feb 2012",
+          "date2": "1 yr 3 mos"
+        },
+        {
+          "title": "Project Manager/Lead Developer/Analyst, AutoCom Project",
+          "date1": "Jan 2011 – May 2011",
+          "date2": "5 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nLearning Assistant",
+      "description": "Teaching C#, HTML5, Java, PHP, MS SQL, Adobe Illustrator, Photoshop, Indesign\nDeveloping media projects in Adobe Premiere Element, Sony Vegas, Audacity, Movie Maker\nGuided student's software projects in design, development and trouble shoot\nCoducted workshops and in class training for web development",
+      "date1": "Dec 2010 – Feb 2012",
+      "date2": "1 yr 3 mos",
+      "roles": [
+        {
+          "title": "Learning Assistant",
+          "date1": "Dec 2010 – Feb 2012",
+          "date2": "1 yr 3 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nProject Manager/Lead Developer/Analyst, AutoCom Project",
+      "description": "•Switched responsibilities in three sprint of development life cycle to implemented two modules of Autonomic Computing Manager (AutoCoM)\n•Performed requirement analysis, feasibility test, high level design, use cases, architecture design, detailed design, design pattern, dynamic modeling, algorithm, pseudo code, implementation, unit and integration testing\n•Development Environment: Visual Studio 2010, NUnit, MS Project, MS Visio, Star UML, .NET Framework, SVN\n…\nsee more",
+      "date1": "Jan 2011 – May 2011",
+      "date2": "5 mos",
+      "roles": [
+        {
+          "title": "Project Manager/Lead Developer/Analyst, AutoCom Project",
+          "date1": "Jan 2011 – May 2011",
+          "date2": "5 mos"
+        }
+      ]
+    },
+    {
+      "title": "Web Developer Intern",
+      "companyName": "ImageTrend",
+      "description": "Was responsible for developing new user authentication and authorization system, vehicle management module and release testing in Fire Bridge and Service Bridge software used by 30 state governments\n•Worked closely with multiple teams like support, quality, testing, database, customer, sales and implementation\n•Performed agile development method in 3 months release cycle with weekly sprints\n•Requirement analysis, planning, design, coding, testing\n•Development Environment: Eclipse, HTML, JavaScript, MS SQL, ColdFusion, XML, SVN, IIS, Flash Professional\n…\nsee more",
+      "date1": "May 2011 – Aug 2011",
+      "date2": "4 mos"
+    },
+    {
+      "title": "Lead Developer, Capstone Project",
+      "companyName": "Polaris Industries",
+      "description": "•Applied Scrum (Agile) methodology to develop two web parts to display password expiration dates notification and followers list to integrate with Polaris project management site\n•Performed a challenging task of backward compatibility of SharePoint 2010 web part in SharePoint 2007\n•Development Environment: SharePoint server 2010 and 2007, Visual Studio 2010 and 2008, C#, MS Project, Visio, Star UML, SVN\n…\nsee more",
+      "date1": "Jan 2011 – May 2011",
+      "date2": "5 mos"
+    },
+    {
+      "title": "Internship",
+      "companyName": "BTD Manufacturing Inc",
+      "location": "Detroit Lake, Minnesota",
+      "description": "Worked independently and as a part of a team for task observation and process evaluation\nDeveloped and implemented new idea of centralized calling system and productivity stimulator",
+      "date1": "May 2010 – Aug 2010",
+      "date2": "4 mos"
+    },
+    {
+      "title": "Founder and Managing Director",
+      "companyName": "Eclectic",
+      "description": "Lead a team to develop Manufacturing Quality Index (MQI), Service Quality Index (SQI)\nDeveloped web applications and factory management software in modules",
+      "date1": "Jan 2006 – Jan 2010",
+      "date2": "4 yrs 1 mo"
+    },
+    {
+      "title": "Business Consultant",
+      "companyName": "Swisscontact-Katalyst",
+      "description": "Developed business competency in small and medium enterprises in Furniture, Plastic sector\nOrganized training, workshops, trade shows and technical visits in India and Indonesia",
+      "date1": "Aug 2007 – Jul 2008",
+      "date2": "1 yr"
+    }
+  ],
+  "educations": [
+    {
+      "title": "North Dakota State University",
+      "degree": "MS",
+      "fieldofstudy": "Computer Software Engineering",
+      "date1": "2010",
+      "date2": "2011"
+    },
+    {
+      "title": "Bangladesh University of Engineering and Technology",
+      "degree": "BS",
+      "date1": "2002",
+      "date2": "2007"
+    }
+  ],
+  "skills": [
+    {
+      "title": "jQuery",
+      "count": "42"
+    },
+    {
+      "title": "JavaScript",
+      "count": "36"
+    },
+    {
+      "title": "C#",
+      "count": "27"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "1",
+    "receivedCount": "7",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/josephdecastelnau/",
+        "text": "Md is an extremely talented developer. He is a driven, teach classes on javascript and has shown many new front-end concepts to his colleagues through Lunch & Learn sessions. He is a hard worker and understands the difference between task oriented and goal oriented outcomes. He continuously stays on top of new techs trend around front end development (Angular->Angular 2...) and implements changes judiciously. He is a great team player with an outstanding attitude. He also has a healthy lifestyle which gives him extra energy. I would work with Md again in a heartbeat.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/jacky-chau-27805349/",
+        "text": "Md is a hard working individual who always put in the extra effort to accomplish his tasks."
+      },
+      {
+        "user": "https://www.linkedin.com/in/taylor-pence-16b6762a/",
+        "text": "Md Khan has a very effective development process that allows him to understand and work on creating or editing existing code in a consistent and timely manner. He is very eager to learn new technologies and takes the time to diligently research solutions before implementing them."
+      },
+      {
+        "user": "https://www.linkedin.com/in/rahul-singh-7194699/",
+        "text": "Md. Khan is a very hard working and talented individual who thinks through all the aspects of an issue to deliver a robust solution and is a great addition to a team. It is a pleasure to be professionally associated to Khan. I highly recommend him to all others."
+      },
+      {
+        "user": "https://www.linkedin.com/in/sheree-kornkven-a0b78420/",
+        "text": "Khan is an excellent employee. He is dependable, professional, and he has a wide variety of technology skills and interests."
+      },
+      {
+        "user": "https://www.linkedin.com/in/james-vogt-55039312/",
+        "text": "MD Khan is a detail oriented engineer. He successfully completed a project for BTD this past summer. He executed the project with creativity and drive! MD Khan is an asset for any team."
+      },
+      {
+        "user": "https://www.linkedin.com/in/jarred-bridgeman-82016523/",
+        "text": "MD Kahn worked for us and provided timings in which we based our management operating system off of. It was very detailed work, and Mr. Khan took ownership in the process. He is very knowledgeable and provides not only questions, but possible answers to the problems he encounters. He is also very passionate about his work and will see it through to completion. He is a very hard worker and very dependable. I would very much recommend Md Kahn. I am positive he will make a solid impact in whatever industry he is hired into.\n…\nSee more"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/jarred-bridgeman-82016523/",
+        "text": "It was a great experience and learning to work at BTD. I met some awesome leaders and dedicated persons which make me passionate to deal with challenges."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "9",
+      "items": [
+        "Artificial Intelligence",
+        "Artificial intelligence",
+        "Building a Search Engine",
+        "Digital Enterprise",
+        "Software Construction",
+        "Software Design",
+        "Software Development Process",
+        "Software Project Planning and Estimation",
+        "Software Requirement and Analysis"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "Online Teaching, mentoring",
+        "Public Speaking"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "Bangla",
+        "English"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Master of Success (advanced leadership program)"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/masruba/",
+      "text": "Software Engineer at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mehjabin/",
+      "text": "Electrical Engineer II at Microsoft | #GHC19"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tanzima-islam-09897117/",
+      "text": "Assistant Professor at Texas State University"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shiblee/",
+      "text": "Creative Technologist @ Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/karinaislam/",
+      "text": "Frontend Developer & Tech-Speaker"
+    },
+    {
+      "user": "https://www.linkedin.com/in/dikshavanvari/",
+      "text": "Software Engineer at Facebook"
+    },
+    {
+      "user": "https://www.linkedin.com/in/rifat-joyee-01358a38/",
+      "text": "Senior Software Engineer at Amazon Music"
+    },
+    {
+      "user": "https://www.linkedin.com/in/iftekhar-naim-6a85664/",
+      "text": "Senior Software Engineer at Google"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ayesha-yasmeen/",
+      "text": "Senior Software Engineer at Uber"
+    },
+    {
+      "user": "https://www.linkedin.com/in/asmasifiqbal/",
+      "text": "Software Engineer at Google"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Jhankar Mahbub",
+    "headline": "Sr. Web Developer || 3 Marathons || 4x Bestselling Author(Bangladesh) || Youtuber (130k+ Subs) || Entreprenuer",
+    "imageurl": "https://media.licdn.com/dms/image/C4D03AQFnCtX8U_7F_g/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=qqXN_zzZ65Xcy2jfFGGyUdRkj9a3OIKvYZT5x9VKyZA",
+    "location": "San Jose, California",
+    "connections": "500+",
+    "summary": "•Expertise: JavaScript, ES6, React, Redux, Angular6, Bootstrap, Data visualization, Material Design.\n•Comfortable: Angular, Redux-saga, GraphQL, Apollo, Typescript, Node, Express, Android, SCSS, Mocha, chai, etc.\n•Familiar: dc.js, cross-filter js, React native, Chrome extension, Android App, python, SQL, etc.\n¬\n•Tools: Git, Webpack, Chrome Dev Tool, Jasmine, Karma, Istanbul, VS Code, Jenkins, JIRA, Mercurial, Axure, etc.\n•Forgetting: Bower, Grunt, JQuery, JQuery-UI, C#, .Net, LINQ, Log4Net, NUnit, php, lo-dash, etc.\n\nGitHub: https://github.com/khan4019"
+  }
+}

@@ -1,0 +1,314 @@
+{
+  "profileAlternative": {
+    "name": "Sig Narváez",
+    "headline": "Principal Solutions Architect at MongoDB",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQGpv5AeBM4w2g/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=uUI4nSXjLlrvRtbpbL9GKNEtaMpL4qgJO5Iua7SNEvU",
+    "location": "Orange County, California Area",
+    "connections": "500+",
+    "summary": "Sig has worked as a Principal Cloud and Data Architect in engineering and consulting roles where he specialized in cloud, hybrid-cloud, micro-service and polyglot persistence architectures. Now a Principal Solutions Architect at MongoDB, Sig is helping enterprise organizations adopt new technologies and build scalable and reliable applications. Sig is also an organizer of user groups and distinguished public speaker at conferences like QCon, BigDataDayLA and TecnoManagement. He was nominated a 2015 MongoDB master and spoke at the world conference as a customer and advocate.\n\nSpecialties: Pre-Sales Solutions Architecture, MongoDB, NoSQL, Data Hubs, Azure, AWS, Polyglot Persistence, Platform Architecture, Technical Product Owner, Business Transformation, Public Speaking, Advocacy, Software Development. .NET/C#, Java, Python, Node.js. SQL Server, Oracle, Cloud, MongoDB."
+  },
+  "aboutAlternative": {
+    "text": "Sig has worked as a Principal Cloud and Data Architect in engineering and consulting roles where he specialized in cloud, hybrid-cloud, micro-service and polyglot persistence architectures. Now a Principal Solutions Architect at MongoDB, Sig is helping enterprise organizations adopt new technologies and build scalable and reliable applications. Sig is also an organizer of user groups and distinguished public speaker at conferences like QCon, BigDataDayLA and TecnoManagement. He was nominated a 2015 MongoDB master and spoke at the world conference as a customer and advocate.\n\nSpecialties: Pre-Sales Solutions Architecture, MongoDB, NoSQL, Data Hubs, Azure, AWS, Polyglot Persistence, Platform Architecture, Technical Product Owner, Business Transformation, Public Speaking, Advocacy, Software Development. .NET/C#, Java, Python, Node.js. SQL Server, Oracle, Cloud, MongoDB."
+  },
+  "positions": [
+    {
+      "title": "MongoDB",
+      "location": "Irvine, California",
+      "description": "FY20\n- H1: 158% NACV\nFY19\n- Solution Architect Major Contributor\n- H1: 285% NACV . 293% Services",
+      "date1": "Feb 2018 – Present",
+      "date2": "1 yr 10 mos",
+      "roles": [
+        {
+          "title": "Principal Solutions Architect",
+          "date1": "Feb 2018 – Present",
+          "date2": "1 yr 10 mos",
+          "location": "Irvine, California"
+        },
+        {
+          "title": "Senior Solutions Architect",
+          "date1": "Sep 2015 – Jan 2018",
+          "date2": "2 yrs 5 mos",
+          "location": "Orange County, California Area"
+        }
+      ]
+    },
+    {
+      "title": "Title\nPrincipal Solutions Architect",
+      "location": "Irvine, California",
+      "description": "FY20\n- H1: 158% NACV\nFY19\n- Solution Architect Major Contributor\n- H1: 285% NACV . 293% Services",
+      "date1": "Feb 2018 – Present",
+      "date2": "1 yr 10 mos",
+      "roles": [
+        {
+          "title": "Principal Solutions Architect",
+          "date1": "Feb 2018 – Present",
+          "date2": "1 yr 10 mos",
+          "location": "Irvine, California"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSenior Solutions Architect",
+      "location": "Orange County, California Area",
+      "description": "Solution Architect MVP:\n- FY16'Q4 NA West\n- FY17'Q1 NA West",
+      "date1": "Sep 2015 – Jan 2018",
+      "date2": "2 yrs 5 mos",
+      "roles": [
+        {
+          "title": "Senior Solutions Architect",
+          "date1": "Sep 2015 – Jan 2018",
+          "date2": "2 yrs 5 mos",
+          "location": "Orange County, California Area"
+        }
+      ]
+    },
+    {
+      "title": "Organizer",
+      "companyName": "Orange County MongoDB Meetup",
+      "location": "Orange County, California Area",
+      "description": "https://www.meetup.com/Orange-County-MongoDB-User-Group/",
+      "date1": "Aug 2012 – Present",
+      "date2": "7 yrs 4 mos"
+    },
+    {
+      "title": "Sage",
+      "location": "Irvine, CA",
+      "date1": "May 2008 – Sep 2015",
+      "date2": "7 yrs 5 mos",
+      "roles": [
+        {
+          "title": "Principal Software Architect",
+          "date1": "May 2008 – Sep 2015",
+          "date2": "7 yrs 5 mos",
+          "location": "Irvine, CA"
+        },
+        {
+          "title": "Senior Software Architect",
+          "date1": "May 2008 – May 2013",
+          "date2": "5 yrs 1 mo",
+          "location": "Irvine, CA"
+        }
+      ]
+    },
+    {
+      "title": "Title\nPrincipal Software Architect",
+      "location": "Irvine, CA",
+      "date1": "May 2008 – Sep 2015",
+      "date2": "7 yrs 5 mos",
+      "roles": [
+        {
+          "title": "Principal Software Architect",
+          "date1": "May 2008 – Sep 2015",
+          "date2": "7 yrs 5 mos",
+          "location": "Irvine, CA"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSenior Software Architect",
+      "location": "Irvine, CA",
+      "date1": "May 2008 – May 2013",
+      "date2": "5 yrs 1 mo",
+      "roles": [
+        {
+          "title": "Senior Software Architect",
+          "date1": "May 2008 – May 2013",
+          "date2": "5 yrs 1 mo",
+          "location": "Irvine, CA"
+        }
+      ]
+    },
+    {
+      "title": "Software Development Manager",
+      "companyName": "Commerce Velocity",
+      "location": "Irvine, CA",
+      "description": "Project Management, Business Analyst, Development Management (onsite and offshore). Enterprise Products for the Financial and Mortgage Industry. Managed Bear-Stearns engagement from 2006 to 2008.",
+      "date1": "Jan 2006 – Jun 2008",
+      "date2": "2 yrs 6 mos"
+    },
+    {
+      "title": "Principal Consultant (Toyota Motor Sales)",
+      "companyName": "Keane Inc.",
+      "location": "Torrance, CA",
+      "description": "Project Lead and Development Lead",
+      "date1": "Mar 2005 – Jan 2006",
+      "date2": "11 mos"
+    },
+    {
+      "title": "Senior Consultant (Toyota Motor Sales, JPMorgan Partners)",
+      "companyName": "Syncata",
+      "location": "Irvine, CA",
+      "description": "Ensuring overall code quality and the provision of coding standards and code reviews.\n\nDesign and address the key technical architecture considerations for each project providing the foundation for design, construction, testing, and deployment.\nProvide mentoring and coaching within a team development project, as well as taking part in the development process itself.\n\nTechnical Platform Knowledge and experience in 1 or more technology platforms such as Microsoft DNA/.NET, Java & Packaged Solutions.\n\nDevelopment Tools. Formal Development Methodologies Knowledge and experience in one or more development methodologies such as RUP & XP.\n…\nsee more",
+      "date1": "Jun 2000 – Feb 2005",
+      "date2": "4 yrs 9 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Colorado State University",
+      "degree": "Masters in Computer Science",
+      "fieldofstudy": "Software Engineering & Information Assurance",
+      "date1": "2009",
+      "date2": "2011"
+    },
+    {
+      "title": "CETYS Universidad",
+      "degree": "B.S. Computer Science and Engineering",
+      "fieldofstudy": "Computer Science",
+      "date1": "1993",
+      "date2": "1997"
+    }
+  ],
+  "skills": [
+    {
+      "title": "MongoDB",
+      "count": "26"
+    },
+    {
+      "title": "NoSQL",
+      "count": "3"
+    },
+    {
+      "title": "Software Development",
+      "count": "99+"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "10",
+    "receivedCount": "22",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/jos%C3%A9-luis-bustamante-a10a1b113/",
+        "text": "Gran arquitecto de software y soluciones. Dominio de MongoDB. Gran líder!"
+      },
+      {
+        "user": "https://www.linkedin.com/in/kenneth-c-002295a2/",
+        "text": "Working on an engagement with the first MongoDB deployment at our company, Sig immediately grasped the essential requirements and worked with our team to lay out the technical foundation while carefully explaining the technical solution in depth and breadth to the team. His knowledge of the product and solution space for NoSQL technologies helped accelerate our team’s productivity and decision making. Sig goes above and beyond the typical relationship by reaching out to his customers and peers to ensure they are happy. His enthusiasm and passion are clearly evident to anyone who has met him or watched him present at any live event or webinar. I regard him as a trusted and respected IT leader, with a rare blend of in depth technical knowledge coupled with above and beyond customer relationship skills.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/edpresz/",
+        "text": "While at Ticketmaster I leaned on Sig time and time again for assistance with MongoDB design questions related to performance/scale, high availability, replication/redundancy and fault tolerance. He was an invaluable technical resource and he did an excellent job of understanding our data/performance needs and providing creative solutions!\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/juan-jos%C3%A9-comandi-486bb410/",
+        "text": "Conocí a Sig con ocasión del diseño de una solución de gestión documental con MongoDB. Allí encontré en Sig un profesional de conocimientos sólidos y gran predisposición para colaborar con nosotros en la consecución del objetivo."
+      },
+      {
+        "user": "https://www.linkedin.com/in/dinajacobson/",
+        "text": "Sig is an awesome Solutions Architect and all around great team player. He willingly presented at conferences and meet-ups, sometimes on a moments notice. Sales always wanted Sig to come along on their meetings as he made sure they closed. He also chipped in in areas way below his pay grade such as helping me source venues in his local area, helping to translate, and always sticking around until the close of events and making sure we were buttoned up. He is a major asset to MongoDB or any organization lucky enough to have him.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/scottmetcalf/",
+        "text": "I had the pleasure of working with Sig at MongoDB. We worked together daily for about 2 years. Sig is a Solution Architect Unicorn in that he knows database, architecture, development and more. When I say he knows I mean well beyond a powerpoint, he can go as deep as you like. I have been in countless meetings where a prospect asks Sig a question and Sig just opens a terminal and shows them the answer. Beyond that Sig really is passionate about technology and that comes across in how he interacts with customers and how they respond positively to him. What more can I say, Sig is a Unicorn.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/jhershauer/",
+        "text": "Sigfrido is a very intelligent software architect. He was our go-to guy for \"Big Data\" when I worked with him at Sage. I have worked with a lot of smart, capable software architects, and Sigfrido certainly qualifies there. But what set him apart to me was his passion for learning all the ins and outs of modern data technologies, and how they could help us solve some unique problems at Sage. It's always nice to find somebody who displays this kind of passion, and I recommend Sig as a valuable teammate who will seek the hard answers in order to make sure the customer gets the solution they need.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/seanleonard1/",
+        "text": "Sig is one of the brightest software architects I have had the privilege of working with. Sig has a strong grasp of mongo DB and was invaluable in helping me understand the development effort required to create new features for our cloud based Mobile Sales app. I highly reccomend Sig. He is a great guy and I really enjoyed working with him.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/charlesboicey/",
+        "text": "\"I have known Sig since he started up and led the charge of the OC MongoDB Meetup Group. The events were always fun and educational. He brought in great speakers, and attendees were always treated to great food and drinks\"."
+      },
+      {
+        "user": "https://www.linkedin.com/in/mrandrewblackmore/",
+        "text": "I had the privilege of working with Sig for five years in Sage, first of all as a member of the innovation team, and later when he was the data architect and I was a manager on the Sage Cloud project. Sig is an inspiring leader - on many occasions he introduced us to cutting edge technological solutions which dramatically improved our product offerings. Sig is tireless in his dedication to raising the bar for all the team, and this could be seen from his code and design reviews, and his input in presentations, and his commitment to learning from the best technologies around. Sig is a great person to have on the team, he is friendly, outgoing and very hardworking. I am very happy to have worked with Sig and would love to do so again sometime in the future.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/scottherson/",
+        "text": "Sig has been a great friend, networking and ecosystem partner for almost 5 years now. I admire Sig for his leadership and innovation, collaboration and trust within the marketplace. He is a famous face within the SoCal tech community and has added tremendous value to the emerging Big Data movement. I expect big things from Sig going forward and endorse him as a great friend, colleague and partner.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/brianjohnhunter/",
+        "text": "Sig consistently puts together one of the best meetups I've attended in Orange County. The events have great speakers, are well attended by an active community and the food is always good. I look forward to attending these events in the future."
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/maria-holland-7194526/",
+        "text": "Maria is an exceptional project manager. Her roots with customer support, quality assurance, core accounting and financial experience, paired with communication and people skills, make for a high-caliber individual. I had the pleasure of working with Maria when she led a shared services team and several product launches. Maria provided the missing link that was required for successful implementations from project management perspective. I would welcome the opportunity to work together again."
+      },
+      {
+        "user": "https://www.linkedin.com/in/diana-triggs-csm-5a096510/",
+        "text": "Diana is a perfect product owner and business analyst. Her background with customer support, core accounting and ERP knowledge, combined with a wonderful personality, allows her to funnel the customer needs and product vision into agile teams. Diana stays in constant touch with the customer and adjusts the product backlog as needed. I would welcome the opportunity to work with Diana again."
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "9",
+      "items": [
+        "Speaker at MongoDB.Local SF 2017",
+        "Speaker at Big Data Day LA 2017 Conference",
+        "Speaker at QCon San Francisco 2016 conference",
+        "Speaker at TecnoManagement 2016 conference",
+        "Speaker at MongoDB World 2016 Conference",
+        "Dual-Certified MongoDB Professional",
+        "Speaker at MongoDB World 2015 conference",
+        "2015 MongoDB Master",
+        "Solution Architect MVP"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "English",
+        "Spanish"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/charles-lee-530806100/",
+      "text": "Sr Solutions Architect at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/nicholastang/",
+      "text": "VP, Global Operations, Technical Services at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/cailinanne/",
+      "text": "SVP Engineering, Cloud Services at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/dan-midura-46392a3/",
+      "text": "Regional Director, Enterprise Sales at MongoDB - Hiring Great People"
+    },
+    {
+      "user": "https://www.linkedin.com/in/pmital/",
+      "text": "Engineering @ MongoDB | Data Enthusiast & OSS Contributor | UT Austin & BITS Pilani Alum"
+    },
+    {
+      "user": "https://www.linkedin.com/in/benogden/",
+      "text": "Principal Solutions Architect at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/ramonfernandez/",
+      "text": "Director, Release Engineering at MongoDB, Inc."
+    },
+    {
+      "user": "https://www.linkedin.com/in/shyamarjarapu/",
+      "text": "Principal Consulting Engineer at MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/eric-diggins-730b641/",
+      "text": "Enterprise Account Executive @ MongoDB"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mayurnagarsheth/",
+      "text": "Sales, Strategy and Innovator"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Sig Narváez",
+    "headline": "Principal Solutions Architect at MongoDB",
+    "imageurl": "https://media.licdn.com/dms/image/C4E03AQGpv5AeBM4w2g/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=uUI4nSXjLlrvRtbpbL9GKNEtaMpL4qgJO5Iua7SNEvU",
+    "location": "Orange County, California Area",
+    "connections": "500+",
+    "summary": "Sig has worked as a Principal Cloud and Data Architect in engineering and consulting roles where he specialized in cloud, hybrid-cloud, micro-service and polyglot persistence architectures. Now a Principal Solutions Architect at MongoDB, Sig is helping enterprise organizations adopt new technologies and build scalable and reliable applications. Sig is also an organizer of user groups and distinguished public speaker at conferences like QCon, BigDataDayLA and TecnoManagement. He was nominated a 2015 MongoDB master and spoke at the world conference as a customer and advocate.\n\nSpecialties: Pre-Sales Solutions Architecture, MongoDB, NoSQL, Data Hubs, Azure, AWS, Polyglot Persistence, Platform Architecture, Technical Product Owner, Business Transformation, Public Speaking, Advocacy, Software Development. .NET/C#, Java, Python, Node.js. SQL Server, Oracle, Cloud, MongoDB."
+  }
+}

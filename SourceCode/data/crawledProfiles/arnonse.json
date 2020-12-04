@@ -1,0 +1,233 @@
+{
+  "profileAlternative": {
+    "name": "Arnon Segal",
+    "headline": "DevOps and Java Expert at Visa CAL Israel (ICC)",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQEkM0a2r6Vldw/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=RQPFWV8ny3La7ZBiUElAbWVxKkvOB6n_4VmRLUaSK9A",
+    "location": "Ashkelon Area, Israel",
+    "connections": "500+",
+    "summary": "User experience / Application developer, with knowledge in computer OS and hardware.\nRich experience with varios aspects of computing from OS scripting to Mobile Applications. Knowledge and experience with Multimedia areas such as Video Editing and Sound Production. Efficiently multi-tasked team player,\nResult-oriented, hands-on professional with high learning skills and knowledge and understanding in a wide range of technologies.\n\nSpecialties: Technical: Java/J2EE, SQL, XML, HTML, JSP, Javascript, Ajax, DOJO, C#\nDB: Oracle, MySQL\nWeb Servers: Weblogic, IIS, Tomcat, JBoss\nUNIX: Advanced Ksh scripting\nWindows CLI Scripting\nMobile Development Platform: Android (http://bit.ly/gTXk8M)"
+  },
+  "aboutAlternative": {
+    "text": "User experience / Application developer, with knowledge in computer OS and hardware.\nRich experience with varios aspects of computing from OS scripting to Mobile Applications. Knowledge and experience with Multimedia areas such as Video Editing and Sound Production. Efficiently multi-tasked team player,\nResult-oriented, hands-on professional with high learning skills and knowledge and understanding in a wide range of technologies.\n\nSpecialties: Technical: Java/J2EE, SQL, XML, HTML, JSP, Javascript, Ajax, DOJO, C#\nDB: Oracle, MySQL\nWeb Servers: Weblogic, IIS, Tomcat, JBoss\nUNIX: Advanced Ksh scripting\nWindows CLI Scripting\nMobile Development Platform: Android (http://bit.ly/gTXk8M)"
+  },
+  "positions": [
+    {
+      "title": "DevOps and Java Expert",
+      "companyName": "Visa CAL Israel (ICC)",
+      "description": "In charge of absorption of exisitng products source code for in house development, including design, working environment , procedures and enhancements.\nDesign for multi platform solutions which were repidly used in Production environment\nFocal point for all Java related matters in the organisation,\nServers and application administration, development of in house tools,\nALM consulting (Jenkins, Artifactory, etc)\n\nWorking on Windows, Linux and Open VMS platforms",
+      "date1": "Aug 2011 – Present",
+      "date2": "8 yrs 4 mos"
+    },
+    {
+      "title": "Amdocs",
+      "description": "PSO for Amdocs Self Service - professional services, consulting, and pre-sale support.\nWeb UI (HTML / CSS / JavaScript/ Dojo) Expert",
+      "date1": "Apr 2010 – Aug 2011",
+      "date2": "1 yr 5 mos",
+      "roles": [
+        {
+          "title": "Senior Consultant",
+          "date1": "Apr 2010 – Aug 2011",
+          "date2": "1 yr 5 mos"
+        },
+        {
+          "title": "Java Developer",
+          "date1": "Feb 2009 – Apr 2010",
+          "date2": "1 yr 3 mos"
+        },
+        {
+          "title": "Automation Development Expert",
+          "date1": "Aug 2006 – Feb 2009",
+          "date2": "2 yrs 7 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nSenior Consultant",
+      "description": "PSO for Amdocs Self Service - professional services, consulting, and pre-sale support.\nWeb UI (HTML / CSS / JavaScript/ Dojo) Expert",
+      "date1": "Apr 2010 – Aug 2011",
+      "date2": "1 yr 5 mos",
+      "roles": [
+        {
+          "title": "Senior Consultant",
+          "date1": "Apr 2010 – Aug 2011",
+          "date2": "1 yr 5 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nJava Developer",
+      "description": "Java Developer of internal automation testing tools and Frameworks",
+      "date1": "Feb 2009 – Apr 2010",
+      "date2": "1 yr 3 mos",
+      "roles": [
+        {
+          "title": "Java Developer",
+          "date1": "Feb 2009 – Apr 2010",
+          "date2": "1 yr 3 mos"
+        }
+      ]
+    },
+    {
+      "title": "Title\nAutomation Development Expert",
+      "description": "* Design and development of tools and scripts to automate the testing process of Amdocs Billing Products.\n* Development using SQL, C#, VB.NET, Ksh and Perl\n* Design and implementation of test-cases based on profound understanding of the product’s internal flows\n* Supporting the testing group in charge of executing the automations, and constantly updating the automations according to the product upgrades.\n* Intensive work and experience with Oracle database system - writing custom queries, and using complementary oracle DB tools (Toad, SQLPlus)\n* Initiation and development of an internal tool named \"Automation Helper\" (.NET). This tool was acknowledged by Amdocs as an innovation and it is currently in wide use.\n* Deep understanding of the billing and telecommunication business world.\n…\nsee more",
+      "date1": "Aug 2006 – Feb 2009",
+      "date2": "2 yrs 7 mos",
+      "roles": [
+        {
+          "title": "Automation Development Expert",
+          "date1": "Aug 2006 – Feb 2009",
+          "date2": "2 yrs 7 mos"
+        }
+      ]
+    },
+    {
+      "title": "Network Administrator",
+      "companyName": "Kibbutz Negba",
+      "description": "* Responsibility and maintenance of a 250 user network.\n* Management of network resources (routing, address allocation, bandwidth management)\n* Development of original applications for the end-users such as trouble-ticket submitting system, Video on demand and Portal.",
+      "date1": "May 2003 – Jul 2006",
+      "date2": "3 yrs 3 mos"
+    },
+    {
+      "title": "Internet Department Manager",
+      "companyName": "Romat Telecom",
+      "description": "* Implementation of ADSL and VOIP products (including switches and servers)\n* Helpdesk tasks: Remote and on customer sites.\n* Management of small to medium scale networks.\n* Operating and configuring advance telecommunication devices – Switches, Routers and DSLAMs",
+      "date1": "May 2002 – Apr 2003",
+      "date2": "1 yr"
+    },
+    {
+      "title": "Stills & Video Photographer and Editor",
+      "companyName": "IAF",
+      "date1": "Oct 1998 – Oct 2001",
+      "date2": "3 yrs 1 mo"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Sapir College",
+      "degree": "BA",
+      "fieldofstudy": "Computer Sciense",
+      "date1": "2005",
+      "date2": "2007"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Unix",
+      "count": "49"
+    },
+    {
+      "title": "Java",
+      "count": "36"
+    },
+    {
+      "title": "XML",
+      "count": "36"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "10",
+    "receivedCount": "6",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/doron-sterlicht-b1061a35/",
+        "text": "Arnon is a technology master, extremely talented, smart and reliable IT person capable of learning almost any kind of technology in an extremely short time. Moreover, his passion and ability to facilitate his knowledge and compose a creative, high quality software components makes him a leading expert in any team he will be a part of.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/eranmedina/",
+        "text": "Arnon was one of the most dedicated professionals through his work at Amdocs. Goal oriented strategist. Loyal and experienced. He has an extensive expertise, and his open-minded approach could not be overestimated."
+      },
+      {
+        "user": "https://www.linkedin.com/in/gilshalev/",
+        "text": "Arnon is one of the sharpest people I had the pleasure of working with. The steep learning curve and his adaptation to the Amdocs environment was great, and in a very short time Arnon became a source for new ideas and important insights. Arnon is a dedicated employee and a great team player and any dynamic and innovative environment will benefit greatly from his contribution.\n…\nSee more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/erez-sharabi-5097a117/",
+        "text": "Arnon is one of the most knowledgeable persons I've ever met and worked with during my career. He has the ability to demonstrate a VERY high learning curve and his contribution to the diverse Amdocs Automation teams is significantly outstanding. He is definitely the employee which every manager will be blessed to have."
+      },
+      {
+        "user": "https://www.linkedin.com/in/liorlavi/",
+        "text": "Arnon was an phenomenal student. he was helpful, open minded and allways succeed to find the right answer."
+      },
+      {
+        "user": "https://www.linkedin.com/in/royshilkrot/",
+        "text": "Arnon has a gift for everything computerized or networked. He's a quick learner and an independent thinker. He established a live broadcasting channel for the kibbutz's bulletin-board and other content, that is still alive and evolving today."
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/patchou/",
+        "text": "Cyril is an expert. He developed a killer add-on for MSN Messenger which was used worldwide. I worked with Cyril for a short time to contribute to his project. He is indeed an great person to work with"
+      },
+      {
+        "user": "https://www.linkedin.com/in/avikoren/",
+        "text": "Avi was one of the most professional and people oriented manager I knew in Amdocs. His door was always open, and he addressed every problem in the most professional and respectful way. I would be lucky if our paths will cross again"
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "2",
+      "items": [
+        "More Than Technical",
+        "Number Saver"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Java ALM"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/boris-marahovsky-62457a26/",
+      "text": "SW engineer at Visa CAL Israel (ICC)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sharon-goldberg-b9b907b/",
+      "text": "DevOps Project & Product Manager"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yatir-kaaren/",
+      "text": "Head of Product Design @Wix (Previously Klarna)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/orna-shveber-b623882a/",
+      "text": "Office of the CIO manager at Cal"
+    },
+    {
+      "user": "https://www.linkedin.com/in/vladimir-chorny-b3897212/",
+      "text": "DevOps Specialist at Verint CIS"
+    },
+    {
+      "user": "https://www.linkedin.com/in/tamar-somech-5ab5231b/",
+      "text": "UX Designer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/moshe-elkabetz-13801348/",
+      "text": "Infrastructure manager at CAL - Israeli Card Company"
+    },
+    {
+      "user": "https://www.linkedin.com/in/kleinohad/",
+      "text": "Senior Consultant at Israel Ministry of Defense"
+    },
+    {
+      "user": "https://www.linkedin.com/in/igor-gutman-2406a7b/",
+      "text": "System Engineer at Israel Credit Cards Ltd."
+    },
+    {
+      "user": "https://www.linkedin.com/in/arik-hazan-a815a224/",
+      "text": "Performance S.Expert at Amdocs"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Arnon Segal",
+    "headline": "DevOps and Java Expert at Visa CAL Israel (ICC)",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQEkM0a2r6Vldw/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=RQPFWV8ny3La7ZBiUElAbWVxKkvOB6n_4VmRLUaSK9A",
+    "location": "Ashkelon Area, Israel",
+    "connections": "500+",
+    "summary": "User experience / Application developer, with knowledge in computer OS and hardware.\nRich experience with varios aspects of computing from OS scripting to Mobile Applications. Knowledge and experience with Multimedia areas such as Video Editing and Sound Production. Efficiently multi-tasked team player,\nResult-oriented, hands-on professional with high learning skills and knowledge and understanding in a wide range of technologies.\n\nSpecialties: Technical: Java/J2EE, SQL, XML, HTML, JSP, Javascript, Ajax, DOJO, C#\nDB: Oracle, MySQL\nWeb Servers: Weblogic, IIS, Tomcat, JBoss\nUNIX: Advanced Ksh scripting\nWindows CLI Scripting\nMobile Development Platform: Android (http://bit.ly/gTXk8M)"
+  }
+}
